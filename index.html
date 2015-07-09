@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="en" data-ng-app="mainApp">
+<html lang="en" data-ng-app="mainApp" data-ng-controller="mainApp.main.controller">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
 
     <meta name="description" content="Army rank application">
     <meta name="author" content="Vicente Manuel Aleixos Bellido">
@@ -12,75 +11,31 @@
 
     <title>Army rank application</title>
 
+    <base href="/" />
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   </head>
-  <body data-ng-controller="main.controller">
+  <body>
 
     <div class="container">
 
       <div class="header clearfix">
-        <nav>
-          <ul class="nav nav-pills pull-right">
-            <li role="presentation" class="active"><a href="#">Home</a></li>
-          </ul>
-        </nav>
-        <h3 class="text-muted">Army rank application: {{ title }}</h3>
+        <!-- Not needed atm
+          <nav>
+            <ul class="nav nav-pills pull-right">
+              <li role="presentation" class="active"><a href="#/">Home</a></li>
+            </ul>
+          </nav>
+        -->
+        <h3 class="text-muted">Army rank application</h3>
       </div><!-- ./header -->
 
-      <div class="jumbotron">
-        <h1>Dumb heading</h1>
 
-        <p class="lead">Lorem ipsum or so must be here</p>
+      <ng-view></ng-view>
 
-        <p><a class="btn btn-lg btn-success" href="#" role="button">wow dat big green button ^^</a></p>
-      </div><!-- ./jumbotron -->
 
-      <div class="row tests">
-
-        <div class="col-lg-6">
-          <h4>Elyos</h4>
-          <table class="table table-striped table-hover">
-            <thead>
-              <tr>
-                <th>#</th>
-                <th>Name</th>
-                <th>GuildName</th>
-                <th>Golry points</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr ng-repeat="item in alquimaData.elyos">
-                <td>{{ item.position }}</td>
-                <td>{{ item.characterName }}</td>
-                <td>{{ item.guildName }}</td>
-                <td>{{ item.gloryPoint }}</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-
-        <div class="col-lg-6">
-          <h4>Asmodians</h4>
-          <table class="table table-striped table-hover">
-            <thead>
-            <tr>
-              <th>Name</th>
-              <th>GuildName</th>
-              <th>Golry points</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr ng-repeat="item in alquimaData.asmodians">
-              <td>{{ item.characterName }}</td>
-              <td>{{ item.guildName }}</td>
-              <td>{{ item.gloryPoint }}</td>
-            </tr>
-            </tbody>
-          </table>
-        </div>
-
-      </div>
 
       <footer class="footer">
         <p>&copy; Nobody was working on here at 1999</p>
@@ -89,10 +44,22 @@
     </div><!-- ./container -->
 
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.13/angular.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-route.min.js"></script>
+
+    <script type="text/javascript" src="lib/javascript.extensions.js"></script>
 
     <script type="text/javascript" src="app/app.js"></script>
+
+    <script type="text/javascript" src="app/controllers/index.controller.js"></script>
+    <script type="text/javascript" src="app/controllers/ranking.list.controller.js"></script>
+    <script type="text/javascript" src="app/controllers/root.controller.js"></script>
+
+    <script type="text/javascript" src="app/services/helper.service.js"></script>
+    <script type="text/javascript" src="app/services/storedData.service.js"></script>
+
   </body>
 </html>
