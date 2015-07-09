@@ -12,14 +12,14 @@
 
     //Index route
     var indexRouteData = {
-      templateUrl: '/app/templates/_index.html',
+      templateUrl: '/app/templates/index.html',
       controller: 'mainApp.index.controller',
     };
     $routeProvider.when('/', indexRouteData);
 
     //Ranking route
     var rankingRouteData = {
-      templateUrl: '/app/templates/_ranking.html',
+      templateUrl: '/app/templates/ranking.html',
       controller: 'mainApp.ranking.list.controller',
       resolve: {
         serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
