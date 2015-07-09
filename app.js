@@ -1,7 +1,7 @@
 (function(ng){
   'use strict';
 
-  ng.module('mainApp', ['ui.bootstrap']).controller('main.controller', function($scope, $http){
+  ng.module('mainApp', []).controller('main.controller', function($scope, $http){
     $scope.title = 'Title setted up with angular';
 
     $http({
