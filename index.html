@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-ng-app="mainApp">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css">
 
   </head>
-  <body>
+  <body data-ng-controller="main.controller">
 
     <div class="container">
 
@@ -26,7 +26,7 @@
             <li role="presentation" class="active"><a href="#">Home</a></li>
           </ul>
         </nav>
-        <h3 class="text-muted">Army rank application</h3>
+        <h3 class="text-muted">Army rank application: {{ title }}</h3>
       </div><!-- ./header -->
 
       <div class="jumbotron">
@@ -77,5 +77,10 @@
     </div><!-- ./container -->
 
 
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.13/angular.js"></script>
+
+    <script type="text/javascript" src="app.js"></script>
   </body>
 </html>
