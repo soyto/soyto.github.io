@@ -62,6 +62,7 @@
       });
     }
 
+    //Initializes a character
     function _initCharacter(character){
       if(!character) {
         return {};
@@ -72,6 +73,7 @@
       return character;
     }
 
+    //Will perform filter and search :)
     function _performFilterAndSearch(classToFilter, textToSearch) {
 
       if(textSearch_timeoutPromise) {
