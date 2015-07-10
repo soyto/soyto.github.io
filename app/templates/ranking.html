@@ -16,9 +16,17 @@
           <select id="searchDate" class="form-control" ng-model="searchDate" ng-options="date for date in storedDates"></select>
         </div>
 
+
+
         <div class="form-group pull-right">
           <label for="searcher">Search</label>
-          <input type="text" class="form-control" ng-model="textSearch" />
+          <input id="searcher" type="text" class="form-control" ng-model="textSearch" />
+        </div>
+
+        <div class="form-group pull-right">
+          <select id="selectedClass" class="form-control" ng-model="selectedClass" ng-options="class.name for class in classes">
+            <option value="">-- All classes --</option>
+          </select>
         </div>
 
       </form>

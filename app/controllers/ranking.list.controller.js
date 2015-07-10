@@ -16,8 +16,10 @@
 
     function _init() {
       $scope.serverData = serverData;
+
       $scope.storedDates = storedDataService.storedDates;
       $scope.servers = storedDataService.serversList;
+      $scope.classes = storedDataService.characterClassIds.where(function(itm){ return itm.id; })
 
       $scope.searchDate = serverData.date;
       $scope.currentServer = storedDataService.serversList.first(function(server){ return server.name == serverData.serverName; });
@@ -26,6 +28,7 @@
       $scope.asmodianData = serverData.data.asmodians.select(_initCharacter);
 
       $scope.textSearch = '';
+      $scope.selectedClass = '';
 
       serverData.data.elyos.forEach(function(elyosCharacter, idx){
         var asmodianCharacter = serverData.data.asmodians[idx];
@@ -51,7 +54,12 @@
         }
       });
 
-      $scope.$watch('textSearch', _performSearch);
+      $scope.$watch('selectedClass', function(newValue){
+        _performFilterAndSearch(newValue, $scope.textSearch);
+      });
+      $scope.$watch('textSearch', function(newValue){
+        _performFilterAndSearch($scope.selectedClass, newValue);
+      });
     }
 
     function _initCharacter(character){
@@ -64,34 +72,52 @@
       return character;
     }
 
-    function _performSearch(text) {
+    function _performFilterAndSearch(classToFilter, textToSearch) {
 
       if(textSearch_timeoutPromise) {
         $timeout.cancel(textSearch_timeoutPromise);
       }
 
-      textSearch_timeoutPromise = $timeout(function(){
-        if(text) {
+      textSearch_timeoutPromise = $timeout(function() {
 
-          $scope.elyosData = serverData.data.elyos.where(function (character) {
-            return character.characterName.toLowerCase().indexOf(text.toLowerCase()) >= 0;
-          }).select(_initCharacter);
+        var filterAndSearchFn = function(character){
+          if(classToFilter && textToSearch) {
+            return character.characterClassID == classToFilter.id && character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
+          } else if(classToFilter) {
+            return character.characterClassID == classToFilter.id;
+          } else {
+            return character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
+          }
+        };
 
-          $scope.asmodianData = serverData.data.asmodians.where(function (character) {
-            return character.characterName.toLowerCase().indexOf(text.toLowerCase()) >= 0;
-          }).select(_initCharacter);
+        var filterAndSearchInVersus = function(pair) {
 
-          $scope.versusData = initialVersusData.where(function(pair){
-            return pair.elyo.characterName.toLowerCase().indexOf(text.toLowerCase()) >= 0 || pair.asmodian.characterName.toLowerCase().indexOf(text.toLowerCase()) >= 0;
-          });
+          if(classToFilter && textToSearch) {
+            return pair.elyo.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 && pair.elyo.characterClassID == classToFilter.id ||
+              pair.asmodian.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 && pair.asmodian.characterClassID == classToFilter.id;
+          } else if(classToFilter) {
+            return pair.elyo.characterClassID == classToFilter.id || pair.asmodian.characterClassID == classToFilter.id
+          } else {
+            return pair.elyo.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 ||
+              pair.asmodian.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0;
+          }
+        };
 
+        if (classToFilter || textToSearch) {
+
+          $scope.elyosData = serverData.data.elyos.where(filterAndSearchFn).select(_initCharacter);
+          $scope.asmodianData = serverData.data.asmodians.where(filterAndSearchFn).select(_initCharacter);
+
+          $scope.versusData = initialVersusData.where(filterAndSearchInVersus);
 
         } else {
           $scope.elyosData = serverData.data.elyos.select(_initCharacter);
           $scope.asmodianData = serverData.data.asmodians.select(_initCharacter);
           $scope.versusData = initialVersusData;
         }
-      }, 500);
+
+      },500);
+
     }
   }
 
