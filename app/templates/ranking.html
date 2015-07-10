@@ -3,6 +3,15 @@
     <h2>Ranking for {{serverData.serverName}} at {{serverData.date}}</h2>
     <a href="#/">Back</a>
 
+    <div class="row">
+      <form class="form-inline">
+        <div class="form-group">
+          <label for="searchDate">Date</label>
+          <select id="searchDate" class="form-control" ng-model="searchDate" ng-options="date for date in storedDates"></select>
+        </div>
+
+      </form>
+    </div>
 
     <ul class="nav nav-tabs" data-ng-init="showing='elyos'">
       <li role="presentation" data-ng-class="{active: showing=='elyos'}"><a ng-click="showing='elyos'">Elyos</a></li>

@@ -28,6 +28,17 @@
       }
     };
     $routeProvider.when('/ranking/:serverName', rankingRouteData);
+
+    var rankingWithDateRouteData = {
+      templateUrl: '/app/templates/ranking.html',
+      controller: 'mainApp.ranking.list.controller',
+      resolve: {
+        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+          return helperService.$q.likeNormal(storedDataService.getFromServer($route.current.params.date, $route.current.params.serverName));
+        }]
+      }
+    };
+    $routeProvider.when('/ranking/:serverName/:date', rankingWithDateRouteData);
   }
 
 
