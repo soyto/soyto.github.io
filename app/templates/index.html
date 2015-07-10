@@ -8,9 +8,8 @@
 
 
       <div class="list-group">
-        <a ng-repeat="(server, index) in servers" class="list-group-item" ng-href="#/ranking/{{server}}">{{server}}</a>
+        <a ng-repeat="server in servers" class="list-group-item" ng-href="#/ranking/{{server.name}}">{{server.name}}</a>
       </div>
-
 
     </div>
   </div>

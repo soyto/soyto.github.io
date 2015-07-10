@@ -5,6 +5,12 @@
 
     <div class="row">
       <form class="form-inline">
+
+        <div class="form-group">
+          <label for="server">Server</label>
+          <select id="server" class="form-control" ng-model="currentServer" ng-options="server.name for server in servers"></select>
+        </div>
+
         <div class="form-group">
           <label for="searchDate">Date</label>
           <select id="searchDate" class="form-control" ng-model="searchDate" ng-options="date for date in storedDates"></select>
@@ -27,11 +33,13 @@
           <tr>
             <th>#</th>
             <th>Elyos Name</th>
+            <th>Class</th>
             <th>GuildName</th>
             <th>Glory points</th>
             <th>Change</th>
             <th></th>
             <th>Asmodian Name</th>
+            <th>Class</th>
             <th>GuildName</th>
             <th>Glory points</th>
             <th>Change</th>
@@ -40,8 +48,9 @@
           <tbody>
           <tr ng-repeat="characterPair in versusData">
 
-            <td>{{ characterPair.elyo.position }}</td>
+            <td>{{ characterPair.elyo.position }} <br /> {{ characterPair.elyo.soldierRank.name }}</td>
             <td>{{ characterPair.elyo.characterName }}</td>
+            <td>{{ characterPair.elyo.characterClass.name }}</td>
             <td>{{ characterPair.elyo.guildName }}</td>
             <td>{{ characterPair.elyo.gloryPoint }}</td>
             <td>
@@ -57,6 +66,7 @@
             <td><i class="fa fa-exchange text-info"></i></td>
 
             <td>{{ characterPair.asmodian.characterName }}</td>
+            <td>{{ characterPair.asmodian.characterClass.name }}</td>
             <td>{{ characterPair.asmodian.guildName }}</td>
             <td>{{ characterPair.asmodian.gloryPoint }}</td>
             <td>
@@ -81,17 +91,21 @@
         <tr>
           <th>#</th>
           <th>Name</th>
+          <th>Class</th>
           <th>GuildName</th>
           <th>Glory points</th>
+          <th>Rank</th>
           <th>Ranking change</th>
         </tr>
       </thead>
       <tbody>
-        <tr ng-repeat="character in serverData.data.elyos">
+        <tr ng-repeat="character in elyosData">
           <td>{{ character.position }}</td>
           <td>{{ character.characterName }}</td>
+          <td>{{ character.characterClass.name }}</td>
           <td>{{ character.guildName }}</td>
           <td>{{ character.gloryPoint }}</td>
+          <td>{{ character.soldierRank.name }}</td>
           <td>
             <i class="fa" ng-class="{
               'fa-arrow-up': character.arrowStatus=='UP',
@@ -110,17 +124,22 @@
       <tr>
         <th>#</th>
         <th>Name</th>
+        <th>Class</th>
         <th>GuildName</th>
         <th>Glory points</th>
+        <th>Rank</th>
         <th>Ranking change</th>
       </tr>
       </thead>
       <tbody>
-      <tr ng-repeat="character in serverData.data.asmodians">
+      <tr ng-repeat="character in asmodianData">
         <td>{{ character.position }}</td>
         <td>{{ character.characterName }}</td>
+        <td>{{ character.characterClass.name }}</td>
+        <td>{{ character.soldierRankID }}</td>
         <td>{{ character.guildName }}</td>
         <td>{{ character.gloryPoint }}</td>
+        <td>{{ character.soldierRank.name }}</td>
         <td>
           <i class="fa" ng-class="{
               'fa-arrow-up': character.arrowStatus=='UP',
