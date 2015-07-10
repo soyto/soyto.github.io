@@ -32,7 +32,8 @@
     //Wich dates we have stored
     $this.storedDates = [
       '07-08-2015',
-      '07-09-2015'
+      '07-09-2015',
+      '07-10-2015',
     ];
 
     //Character soldier ranks
