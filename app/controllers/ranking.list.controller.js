@@ -58,6 +58,9 @@
     }
 
     function _initCharacter(character){
+      if(!character) {
+        return {};
+      }
       character.characterClass = storedDataService.getCharacterClass(character.characterClassID);
       character.soldierRank = storedDataService.getCharacterRank(character.soldierRankID);
 
