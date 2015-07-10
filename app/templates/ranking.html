@@ -7,13 +7,18 @@
       <form class="form-inline">
 
         <div class="form-group">
-          <label for="server">Server</label>
+          <label for="server"></label>
           <select id="server" class="form-control" ng-model="currentServer" ng-options="server.name for server in servers"></select>
         </div>
 
         <div class="form-group">
-          <label for="searchDate">Date</label>
+          <label for="searchDate"></label>
           <select id="searchDate" class="form-control" ng-model="searchDate" ng-options="date for date in storedDates"></select>
+        </div>
+
+        <div class="form-group pull-right">
+          <label for="searcher">Search</label>
+          <input type="text" class="form-control" ng-model="textSearch" />
         </div>
 
       </form>
