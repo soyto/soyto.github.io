@@ -33,10 +33,13 @@
       serverData.data.elyos.forEach(function(elyosCharacter, idx){
         var asmodianCharacter = serverData.data.asmodians[idx];
 
-        initialVersusData.push({
-          elyo: _initCharacter(elyosCharacter),
-          asmodian: _initCharacter(asmodianCharacter)
-        });
+        //Just to ensure that all is working
+        if(elyosCharacter && asmodianCharacter && elyosCharacter.position == asmodianCharacter.position) {
+          initialVersusData.push({
+            elyo: _initCharacter(elyosCharacter),
+            asmodian: _initCharacter(asmodianCharacter)
+          });
+        }
       });
 
       $scope.versusData = initialVersusData;
