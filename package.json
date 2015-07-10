@@ -1,0 +1,24 @@
+{
+  "name": "soyto.github.io",
+  "version": "1.0.0",
+  "description": "Listado con los rankings de todos los servidores",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soyto/soyto.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyto/soyto.github.io/issues"
+  },
+  "homepage": "https://github.com/soyto/soyto.github.io",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "q": "^1.4.1",
+    "request": "^2.58.0"
+  }
+}
