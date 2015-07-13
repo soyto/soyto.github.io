@@ -71,7 +71,6 @@ module.exports = function(grunt) {
       asmodians: []
     };
 
-    var qqs = [];
     var $$topQ = $q.defer();
 
     var elyosData = {
@@ -90,32 +89,52 @@ module.exports = function(grunt) {
       soldierRankID: null
     };
 
-    for(var i = 0; i < 20; i++) {
-      var $$q = retrievePage(serverName, i, elyosData, cookie);
+    var elyosDataExtractedFn = function(resultData){
+      resultData.entries.forEach(function(entry){
+        results.elyos.push(entry);
+      });
+    };
 
-      $$q.then(function(resultData){
-        resultData.entries.forEach(function(entry){
-          results.elyos.push(entry);
+    var asmodianDataExtractedFn = function(resultData){
+      resultData.entries.forEach(function(entry){
+        results.asmodians.push(entry);
+      });
+    };
+
+
+    var $$q = null;
+
+    Array.apply(null, {length: 20}).map(Number.call, Number).forEach(function(i) {
+
+      if($$q == null) {
+        $$q = retrievePage(serverName, i, elyosData, cookie)
+          .then(elyosDataExtractedFn);
+      } else {
+        var $$q2 = $q.defer();
+
+        $$q.then(function(){
+          retrievePage(serverName, i, elyosData, cookie)
+            .then(elyosDataExtractedFn)
+            .then(function(){ $$q2.resolve(); });
         });
+
+        $$q = $$q2.promise;
+      }
+    });
+
+    Array.apply(null, {length: 20}).map(Number.call, Number).forEach(function(i) {
+      var $$q2 = $q.defer();
+
+      $$q.then(function(){
+        retrievePage(serverName, i, asmodianData, cookie)
+          .then(elyosDataExtractedFn)
+          .then(function(){ $$q2.resolve(); });
       });
 
-      qqs.push($$q);
-    }
+      $$q = $$q2.promise;
+    });
 
-    for(var i = 0; i < 20; i++) {
-      var $$q = retrievePage(serverName, i, asmodianData, cookie);
-
-      $$q.then(function(resultData){
-        resultData.entries.forEach(function(entry){
-          results.asmodians.push(entry);
-        });
-      });
-
-      qqs.push($$q);
-    }
-
-
-    $q.all(qqs).then(function(){
+    $$q.then(function(){
       results.elyos = results.elyos.sort(function(a,b){
         return a.position - b.position;
       });
