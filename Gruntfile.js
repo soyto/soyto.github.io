@@ -54,8 +54,19 @@ module.exports = function(grunt) {
       },
       json: data
     }, function(error, response, body){
-      console.log('[%s:%s] - %s Retrieved', serverName, pageNum + 1, data.raceID[0] == '0' ? 'Elyos' : 'Asmodian');
-      $$q.resolve(body);
+      if(error) {
+        console.log('[%s:%s] - %s ERROR: %s', serverName, pageNum + 1, data.raceID[0] == '0' ? 'Elyos' : 'Asmodian', error.code);
+        if(error.code == 'ETIMEDOUT') {
+          retrievePage(serverName, pageNum, data, cookie).then(function(response){
+            $$q.resolve(response);
+          });
+        } else {
+          $$q.reject();
+        }
+      } else {
+        console.log('[%s:%s] - %s Retrieved', serverName, pageNum + 1, data.raceID[0] == '0' ? 'Elyos' : 'Asmodian');
+        $$q.resolve(body);
+      }
     });
 
 
