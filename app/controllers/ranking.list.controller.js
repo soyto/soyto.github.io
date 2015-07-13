@@ -33,13 +33,10 @@
       serverData.data.elyos.forEach(function(elyosCharacter, idx){
         var asmodianCharacter = serverData.data.asmodians[idx];
 
-        //Just to ensure that all is working
-        if(elyosCharacter && asmodianCharacter && elyosCharacter.position == asmodianCharacter.position) {
-          initialVersusData.push({
-            elyo: _initCharacter(elyosCharacter),
-            asmodian: _initCharacter(asmodianCharacter)
-          });
-        }
+        initialVersusData.push({
+          elyo: _initCharacter(elyosCharacter),
+          asmodian: _initCharacter(asmodianCharacter)
+        });
       });
 
       $scope.versusData = initialVersusData;
@@ -98,13 +95,13 @@
         var filterAndSearchInVersus = function(pair) {
 
           if(classToFilter && textToSearch) {
-            return pair.elyo.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 && pair.elyo.characterClassID == classToFilter.id ||
-              pair.asmodian.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 && pair.asmodian.characterClassID == classToFilter.id;
+            return pair.elyo &&  pair.elyo.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 && pair.elyo.characterClassID == classToFilter.id ||
+              pair.asmodian && pair.asmodian.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 && pair.asmodian.characterClassID == classToFilter.id;
           } else if(classToFilter) {
-            return pair.elyo.characterClassID == classToFilter.id || pair.asmodian.characterClassID == classToFilter.id
+            return pair.elyo && pair.elyo.characterClassID == classToFilter.id || pair.asmodian && pair.asmodian.characterClassID == classToFilter.id
           } else {
-            return pair.elyo.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 ||
-              pair.asmodian.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0;
+            return pair.elyo && pair.elyo.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 ||
+              pair.asmodian && pair.asmodian.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0;
           }
         };
 
