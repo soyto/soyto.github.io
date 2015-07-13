@@ -25,7 +25,7 @@ module.exports = function(grunt) {
 
   //Your website login and password
   var USER_LOGIN = '******';
-  var USER_PASSWORD = '*******';
+  var USER_PASSWORD = '******';
 
   var USER_AGENT = 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36';
   var BASE_FOLDER = 'data/';
@@ -53,10 +53,20 @@ module.exports = function(grunt) {
         'cookie': cookie,
       },
       json: data
-    }, function(error, response, body){
+    },
+      function(error, response, body){
+
+      if(!error && typeof(body) == 'string') {
+        console.log(body);
+        error = {
+          code: 'BADFORMAT'
+        };
+      }
+
       if(error) {
         console.log('[%s:%s] - %s ERROR: %s', serverName, pageNum + 1, data.raceID[0] == '0' ? 'Elyos' : 'Asmodian', error.code);
-        if(error.code == 'ETIMEDOUT') {
+
+        if(error.code == 'ETIMEDOUT' || error.code == 'BADFORMAT') {
           retrievePage(serverName, pageNum, data, cookie).then(function(response){
             $$q.resolve(response);
           });
@@ -138,7 +148,7 @@ module.exports = function(grunt) {
 
       $$q.then(function(){
         retrievePage(serverName, i, asmodianData, cookie)
-          .then(elyosDataExtractedFn)
+          .then(asmodianDataExtractedFn)
           .then(function(){ $$q2.resolve(); });
       });
 
@@ -189,10 +199,10 @@ module.exports = function(grunt) {
     var folderName = BASE_FOLDER + today() + '/';
     var endFileName = BASE_FOLDER + today() + '.json';
 
-    if(grunt.file.exists(folderName)) {
+    /*if(grunt.file.exists(folderName)) {
       console.log('folder already exists');
       return;
-    }
+    } */
 
     grunt.file.mkdir(folderName);
 
