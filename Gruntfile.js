@@ -24,8 +24,8 @@ module.exports = function(grunt) {
   };
 
   //Your website login and password
-  var USER_LOGIN = '******';
-  var USER_PASSWORD = '******';
+  var USER_LOGIN = '**********';
+  var USER_PASSWORD = '************';
 
   var USER_AGENT = 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36';
   var BASE_FOLDER = 'data/';
@@ -66,9 +66,15 @@ module.exports = function(grunt) {
       if(error) {
         console.log('[%s:%s] - %s ERROR: %s', serverName, pageNum + 1, data.raceID[0] == '0' ? 'Elyos' : 'Asmodian', error.code);
 
-        if(error.code == 'ETIMEDOUT' || error.code == 'BADFORMAT') {
-          retrievePage(serverName, pageNum, data, cookie).then(function(response){
+        if(error.code == 'ETIMEDOUT') {
+          retrievePage(serverName, pageNum, data, cookie).then(function (response) {
             $$q.resolve(response);
+          });
+        } else if(error.code == 'BADFORMAT') {
+
+          console.log('[%s:%s]  BARD FORMAT', serverName, pageNum + 1);
+          $$q.resolve({
+            entries: []
           });
         } else {
           $$q.reject();
