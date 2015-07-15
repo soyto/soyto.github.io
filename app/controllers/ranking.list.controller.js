@@ -30,14 +30,55 @@
       $scope.textSearch = '';
       $scope.selectedClass = '';
 
-      serverData.data.elyos.forEach(function(elyosCharacter, idx){
-        var asmodianCharacter = serverData.data.asmodians[idx];
 
-        initialVersusData.push({
-          elyo: _initCharacter(elyosCharacter),
-          asmodian: _initCharacter(asmodianCharacter)
+      if(serverData.data.elyos.length > serverData.data.asmodians.length) {
+
+        serverData.data.elyos.forEach(function (elyosCharacter) {
+          var asmodianCharacter = serverData.data.asmodians.first(function(asmodian){ return asmodian.position == elyosCharacter.position; });
+
+          var elyo = _initCharacter(elyosCharacter);
+          var asmodian = _initCharacter(asmodianCharacter);
+
+          initialVersusData.push({
+            position: elyosCharacter.position,
+            rankName: elyosCharacter.soldierRank,
+            elyo: elyo,
+            asmodian: asmodian
+          });
         });
-      });
+
+      } else if(serverData.data.elyos.length < serverData.data.asmodians.length) {
+
+        serverData.data.asmodians.forEach(function (asmodianCharacter) {
+          var elyosCharacter = serverData.data.elyos.first(function(elyos){ return elyos.position == asmodianCharacter.position; });
+
+          var elyo = _initCharacter(elyosCharacter);
+          var asmodian = _initCharacter(asmodianCharacter);
+
+          initialVersusData.push({
+            position: asmodianCharacter.position,
+            rankName: asmodianCharacter.soldierRank,
+            elyo: elyo,
+            asmodian: asmodian
+          });
+        });
+
+
+      } else if(serverData.data.elyos.length ==  serverData.data.asmodians.length) {
+        serverData.data.elyos.forEach(function (elyosCharacter, idx) {
+          var asmodianCharacter = serverData.data.asmodians.first(function(asmodian){ return asmodian.position == elyosCharacter.position; });
+
+          var elyo = _initCharacter(elyosCharacter);
+          var asmodian = _initCharacter(asmodianCharacter);
+
+          initialVersusData.push({
+            position: elyosCharacter.position,
+            rankName: elyosCharacter.soldierRank,
+            elyo: elyo,
+            asmodian: asmodian
+          });
+        });
+      }
 
       $scope.versusData = initialVersusData;
 
