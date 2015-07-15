@@ -205,10 +205,10 @@ module.exports = function(grunt) {
     var folderName = BASE_FOLDER + today() + '/';
     var endFileName = BASE_FOLDER + today() + '.json';
 
-    /*if(grunt.file.exists(folderName)) {
+    if(grunt.file.exists(folderName)) {
       console.log('folder already exists');
       return;
-    } */
+    }
 
     grunt.file.mkdir(folderName);
 
