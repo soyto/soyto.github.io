@@ -57,7 +57,7 @@ module.exports = function(grunt) {
       function(error, response, body){
 
       if(!error && typeof(body) == 'string') {
-        console.log(body);
+        //console.log(body);
         error = {
           code: 'BADFORMAT'
         };
