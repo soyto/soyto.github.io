@@ -262,7 +262,7 @@ module.exports = function(grunt) {
 
     var msg = grunt.option('message');
 
-    grunt.task.run(['compile', 'version:patch',( msg ? 'git-commit:' + msg :  'git-commit' ), 'git-push']);
+    grunt.task.run(['compile', 'version:patch',( msg ? 'git-commit:"' + msg + '"' :  'git-commit' ), 'git-push']);
   });
 
   /* HELPER FUNCTIONS
