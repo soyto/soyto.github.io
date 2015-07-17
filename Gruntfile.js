@@ -238,12 +238,12 @@ module.exports = function(grunt) {
     if(msg) {
       cmd = 'git commit -a -m "(' + msg + ')"';
     } else {
-      cmd = 'git commit -a -m "(' + grunt.config('pkg.version') + ')"';
+      cmd = 'git commit -a -m "Canges for version : ' + grunt.config('pkg.version') + '"';
     }
 
     var result = sh.exec(cmd, {silent:true});
 
-    if(result.code !== 0) { 
+    if(result.code !== 0) {
       grunt.fatal(result.output);
     }
   });
@@ -261,9 +261,8 @@ module.exports = function(grunt) {
   grunt.registerTask('publish-patch', function(){
 
     var msg = grunt.option('message');
-    console.log(msg);
 
-    grunt.task.run(['compile', 'version:patch', 'git-commit', 'git-push']);
+    grunt.task.run(['compile', 'version:patch',( msg ? 'git-commit:' + msg :  'git-commit' ), 'git-push']);
   });
 
   /* HELPER FUNCTIONS
