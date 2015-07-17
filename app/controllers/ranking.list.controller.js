@@ -19,7 +19,7 @@
 
       $scope.storedDates = storedDataService.storedDates;
       $scope.servers = storedDataService.serversList;
-      $scope.classes = storedDataService.characterClassIds.where(function(itm){ return itm.id; })
+      $scope.classes = storedDataService.characterClassIds.where(function(itm){ return itm.id; });
 
       $scope.searchDate = serverData.date;
       $scope.currentServer = storedDataService.serversList.first(function(server){ return server.name == serverData.serverName; });
@@ -139,7 +139,8 @@
             return pair.elyo && pair.elyo.characterName &&  pair.elyo.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 && pair.elyo.characterClassID == classToFilter.id ||
               pair.asmodian && pair.asmodian.characterName && pair.asmodian.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 && pair.asmodian.characterClassID == classToFilter.id;
           } else if(classToFilter) {
-            return pair.elyo && pair.elyo.characterName && pair.elyo.characterClassID == classToFilter.id || pair.asmodian && pair.asmodian.characterClassID == classToFilter.id
+            return pair.elyo && pair.elyo.characterName && pair.elyo.characterClassID == classToFilter.id ||
+              pair.asmodian && pair.asmodian.characterClassID == classToFilter.id;
           } else {
             return pair.elyo && pair.elyo.characterName && pair.elyo.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 ||
               pair.asmodian && pair.asmodian.characterName &&  pair.asmodian.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0;
