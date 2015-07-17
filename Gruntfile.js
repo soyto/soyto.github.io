@@ -231,16 +231,18 @@ module.exports = function(grunt) {
 
   //Performs commit
   grunt.registerTask('git-commit', function(){
+
     var msg = grunt.option('message');
 
     if(!msg) { //Try to retrieve git commit message from config
+      grunt.log.ok('Retrieved message');
       msg = grunt.config('git.commit.message');
     }
 
     var cmd ='';
 
     if(msg) {
-      cmd = 'git commit -a -m "(' + msg + ')"';
+      cmd = 'git commit -a -m "(' + msg + ') (' + grunt.config('pkg.version') + ')"';
     } else {
       cmd = 'git commit -a -m "Canges for version: ' + grunt.config('pkg.version') + '"';
     }
@@ -267,6 +269,7 @@ module.exports = function(grunt) {
     var msg = grunt.option('message');
 
     if(msg) {
+      grunt.log.ok('Registering message');
       grunt.config('git.commit.message', msg);
     }
 
