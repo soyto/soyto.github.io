@@ -238,7 +238,7 @@ module.exports = function(grunt) {
     if(msg) {
       cmd = 'git commit -a -m "(' + msg + ')"';
     } else {
-      cmd = 'git commit -m "(' + grunt.config('pkg.version') + ')"';
+      cmd = 'git commit -a -m "(' + grunt.config('pkg.version') + ')"';
     }
 
     var result = sh.exec(cmd, {silent:true});
