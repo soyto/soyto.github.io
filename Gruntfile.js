@@ -233,6 +233,10 @@ module.exports = function(grunt) {
   grunt.registerTask('git-commit', function(){
     var msg = grunt.option('message');
 
+    if(!msg) { //Try to retrieve git commit message from config
+      msg = grunt.config('git.commit.message');
+    }
+
     var cmd ='';
 
     if(msg) {
@@ -261,6 +265,10 @@ module.exports = function(grunt) {
   grunt.registerTask('publish-patch', function(){
 
     var msg = grunt.option('message');
+
+    if(msg) {
+      grunt.config('git.commit.message', msg);
+    }
 
     grunt.task.run(['compile', 'version:patch', 'git-commit', 'git-push']);
   });
