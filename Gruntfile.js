@@ -231,14 +231,14 @@ module.exports = function(grunt) {
 
   //Performs commit
   grunt.registerTask('git-commit', function(){
-    var msg = this.args[0];
+    var msg = grunt.option('message');
 
     var cmd ='';
 
     if(msg) {
       cmd = 'git commit -a -m "(' + msg + ')"';
     } else {
-      cmd = 'git commit -a -m "Canges for version : ' + grunt.config('pkg.version') + '"';
+      cmd = 'git commit -a -m "Canges for version: ' + grunt.config('pkg.version') + '"';
     }
 
     var result = sh.exec(cmd, {silent:true});
@@ -262,7 +262,7 @@ module.exports = function(grunt) {
 
     var msg = grunt.option('message');
 
-    grunt.task.run(['compile', 'version:patch',( msg ? 'git-commit:"' + msg + '"' :  'git-commit' ), 'git-push']);
+    grunt.task.run(['compile', 'version:patch', 'git-commit', 'git-push']);
   });
 
   /* HELPER FUNCTIONS
