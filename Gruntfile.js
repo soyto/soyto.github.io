@@ -10,7 +10,6 @@ module.exports = function(grunt) {
 
   var $q = require('q');
   var request = require('request');
-  var fs = require('fs');
   var semver = require('semver');
   var sh = require('shelljs');
 
@@ -110,12 +109,6 @@ module.exports = function(grunt) {
       dest: UGLIFY_DEST,
     }
   };
-
-  //SHELL
-  gruntConfig.shell = {
-
-  };
-
 
   grunt.initConfig(gruntConfig);
 
@@ -221,6 +214,16 @@ module.exports = function(grunt) {
         grunt.file.write(endFileName, JSON.stringify(fullServersIfo));
         done();
       });
+    });
+  });
+
+  grunt.registerTask('create-players-database', function(){
+
+    //Extract server data files
+    grunt.file.expand('data/*/*').forEach(function(fileName){
+      var date = fileName.split('/')[1];
+      var server = fileName.split('/')[2].split('.')[0];
+      grunt.log.ok(date.green + ' ' + server.cyan);
     });
   });
 
