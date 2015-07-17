@@ -129,6 +129,7 @@ module.exports = function(grunt) {
     grunt.task.run('compile');
   });
 
+  //Compiles application
   grunt.registerTask('compile', function(){
     grunt.task.run('jshint');
     grunt.task.run('concat:app');
@@ -170,12 +171,11 @@ module.exports = function(grunt) {
     var folderName = BASE_FOLDER + today() + '/';
     var endFileName = BASE_FOLDER + today() + '.json';
 
-    if(grunt.file.exists(folderName)) {
-      console.log('folder already exists');
-      return;
+    if(!grunt.file.exists(folderName)) {
+      grunt.file.mkdir(folderName);
     }
 
-    grunt.file.mkdir(folderName);
+
 
     var fullServersIfo = {};
 
@@ -188,7 +188,7 @@ module.exports = function(grunt) {
         fullServersIfo[data.serverName]['id'] = data.serverID;
         fullServersIfo[data.serverName]['players'] = data.entries;
 
-        console.log('Retrieved [%s]', data.serverName);
+        grunt.log.ok('Retrieved [%s]', data.serverName.cyan);
         grunt.file.write(folderName + data.serverName + '.json', JSON.stringify(data.entries));
       };
 
@@ -311,8 +311,11 @@ module.exports = function(grunt) {
 
   //Retrieves a page
   function retrievePage(serverName, pageNum, data, cookie) {
-
     var $$q = $q.defer();
+
+    var strPageNum = (pageNum + 1).toString().yellow;
+    var strRace = data.raceID[0] == '0' ? 'Elyos'.green : 'Asmodian'.magenta;
+    var strServerName = serverName.cyan;
 
     request({
       method: 'POST',
@@ -333,23 +336,22 @@ module.exports = function(grunt) {
       }
 
       if(error) {
-        console.log('[%s:%s] - %s ERROR: %s', serverName, pageNum + 1, data.raceID[0] == '0' ? 'Elyos' : 'Asmodian', error.code);
 
         if(error.code == 'ETIMEDOUT') {
-          retrievePage(serverName, pageNum, data, cookie).then(function (response) {
-            $$q.resolve(response);
-          });
+          retrievePage(serverName, pageNum, data, cookie).then($$q.resolve);
+
         } else if(error.code == 'BADFORMAT') {
 
-          console.log('[%s:%s]  BARD FORMAT', serverName, pageNum + 1);
-          $$q.resolve({
-            entries: []
-          });
+          console.log('[%s:%s] ---- %s', strServerName, strPageNum, 'BAD FORMAT'.red);
+
+          $$q.resolve({ entries: [] });
         } else {
           $$q.reject();
         }
       } else {
-        console.log('[%s:%s] - %s Retrieved', serverName, pageNum + 1, data.raceID[0] == '0' ? 'Elyos' : 'Asmodian');
+
+        console.log('[%s:%s-%s] >>>> Downloaded', strServerName, strPageNum, strRace);
+
         $$q.resolve(body);
       }
     });
@@ -361,7 +363,7 @@ module.exports = function(grunt) {
   //Retrieves whole server
   function retrieveServer(serverName, serverId, cookie) {
 
-    console.log('Extracting [%s]', serverName);
+    grunt.log.ok('Extracting [%s]', serverName.cyan);
 
     var results = {
       elyos: [],
