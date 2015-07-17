@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (1.0.13)
+ * Soyto.github.io (1.0.14)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>

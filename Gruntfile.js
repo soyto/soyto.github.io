@@ -238,8 +238,6 @@ module.exports = function(grunt) {
       msg = grunt.config('git.commit.message');
     }
 
-    grunt.log.ok('Retrieved message: ' + msg);
-
     var cmd ='';
 
     if(msg) {
@@ -270,7 +268,6 @@ module.exports = function(grunt) {
     var msg = grunt.option('message');
 
     if(msg) {
-      grunt.log.ok('Registering message: ' + msg);
       grunt.config('git.commit.message', msg);
     }
 
