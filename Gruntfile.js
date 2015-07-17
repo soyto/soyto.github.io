@@ -243,7 +243,7 @@ module.exports = function(grunt) {
 
     var result = sh.exec(cmd, {silent:true});
 
-    if(result.code !== 0) {
+    if(result.code !== 0) { 
       grunt.fatal(result.output);
     }
   });
