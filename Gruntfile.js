@@ -270,7 +270,7 @@ module.exports = function(grunt) {
     var msg = grunt.option('message');
 
     if(msg) {
-      grunt.log.ok('Registering message');
+      grunt.log.ok('Registering message: ' + msg);
       grunt.config('git.commit.message', msg);
     }
 
