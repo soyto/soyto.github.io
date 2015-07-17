@@ -235,9 +235,10 @@ module.exports = function(grunt) {
     var msg = grunt.option('message');
 
     if(!msg) { //Try to retrieve git commit message from config
-      grunt.log.ok('Retrieved message');
       msg = grunt.config('git.commit.message');
     }
+
+    grunt.log.ok('Retrieved message: ' + msg);
 
     var cmd ='';
 
