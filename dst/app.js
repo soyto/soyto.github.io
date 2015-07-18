@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (1.0.15)
+ * Soyto.github.io (1.0.17)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -380,6 +380,7 @@
       '07-15-2015',
       '07-16-2015',
       '07-17-2015',
+      '07-18-2015',
     ];
 
     //Character soldier ranks
