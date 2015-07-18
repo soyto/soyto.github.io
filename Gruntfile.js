@@ -265,7 +265,7 @@ module.exports = function(grunt) {
     }
   });
 
-  //Publish the application
+  //Publish the application as patch
   grunt.registerTask('publish-patch', function(){
 
     var msg = grunt.option('message');
@@ -275,6 +275,18 @@ module.exports = function(grunt) {
     }
 
     grunt.task.run(['compile', 'version:patch', 'git-commit', 'git-push']);
+  });
+  
+  //Publish the application as minor
+  grunt.registerTask('publish-minr', function(){
+
+    var msg = grunt.option('message');
+
+    if(msg) {
+      grunt.config('git.commit.message', msg);
+    }
+
+    grunt.task.run(['compile', 'version:minor', 'git-commit', 'git-push']);
   });
 
   /* HELPER FUNCTIONS
