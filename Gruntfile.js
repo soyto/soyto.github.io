@@ -218,6 +218,7 @@ module.exports = function(grunt) {
     });
   });
 
+  //Crates player database
   grunt.registerTask('create-players-database', function(){
 
     var serversDataFiles = [];
