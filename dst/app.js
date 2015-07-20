@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.1.19)
+ * Soyto.github.io (0.1.20)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -346,6 +346,8 @@
 
   function storedData_service($http, helperService) {
 
+    var _cacheServerData = [];
+
     var $this = this;
 
     //Wich servers
@@ -382,6 +384,7 @@
       '07-17-2015',
       '07-18-2015',
       '07-19-2015',
+      '07-20-2015',
     ];
 
     //Character soldier ranks
@@ -442,20 +445,31 @@
       var url = 'data/' + date + '/' + serverName + '.json';
 
       var $$q = helperService.$q.new();
-      var sp = $http({
-        url: url,
-        method: 'GET'
-      });
 
-      sp.success(function(data){
-        $$q.resolve({
-          serverName: serverName,
-          date: date,
-          data: data
+      var cachedItem = _cacheServerData.first(function(itm){ return itm.serverName == serverName && itm.date == date; });
+
+      if(cachedItem) {
+        $$q.resolve(cachedItem);
+      } else {
+
+        var sp = $http({
+          url: url,
+          method: 'GET'
         });
-      });
 
-      sp.error($$q.reject);
+        sp.success(function(data){
+
+          var result = {
+            serverName: serverName,
+            date: date,
+            data: data
+          };
+          _cacheServerData.push(result);
+          $$q.resolve(result);
+        });
+
+        sp.error($$q.reject);
+      }
 
       return helperService.$q.likeHttp($$q.promise);
     };
