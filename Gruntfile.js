@@ -64,6 +64,7 @@ module.exports = function(grunt) {
   var APP_FILES = [
     'app/app.js',
 
+    'app/controllers/characterInfo.controller.js',
     'app/controllers/index.controller.js',
     'app/controllers/ranking.list.controller.js',
     'app/controllers/root.controller.js',
@@ -414,7 +415,7 @@ module.exports = function(grunt) {
   });
   
   //Publish the application as minor
-  grunt.registerTask('publish-minr', function(){
+  grunt.registerTask('publish-minor', function(){
 
     var msg = grunt.option('message');
 

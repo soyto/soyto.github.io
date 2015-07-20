@@ -62,7 +62,7 @@
           <tr ng-repeat="characterPair in versusData">
 
             <td>{{ characterPair.position }} <br /> {{ characterPair.rankName.name }}</td>
-            <td>{{ characterPair.elyo.characterName }}</td>
+            <td><a ng-href="#/character/{{serverData.serverName}}/{{characterPair.elyo.characterID}}">{{ characterPair.elyo.characterName }}</a></td>
             <td>{{ characterPair.elyo.characterClass.name }}</td>
             <td>{{ characterPair.elyo.guildName }}</td>
             <td>{{ characterPair.elyo.gloryPoint }}</td>
@@ -78,7 +78,7 @@
 
             <td><i class="fa fa-exchange text-info"></i></td>
 
-            <td>{{ characterPair.asmodian.characterName }}</td>
+            <td><a ng-href="#/character/{{serverData.serverName}}/{{characterPair.asmodian.characterID}}">{{ characterPair.asmodian.characterName }}</a></td>
             <td>{{ characterPair.asmodian.characterClass.name }}</td>
             <td>{{ characterPair.asmodian.guildName }}</td>
             <td>{{ characterPair.asmodian.gloryPoint }}</td>
@@ -114,7 +114,7 @@
       <tbody>
         <tr ng-repeat="character in elyosData">
           <td>{{ character.position }}</td>
-          <td>{{ character.characterName }}</td>
+          <td><a ng-href="#/character/{{serverData.serverName}}/{{character.characterID}}">{{ character.characterName }}</a></td>
           <td>{{ character.characterClass.name }}</td>
           <td>{{ character.guildName }}</td>
           <td>{{ character.gloryPoint }}</td>
@@ -147,7 +147,7 @@
       <tbody>
       <tr ng-repeat="character in asmodianData">
         <td>{{ character.position }}</td>
-        <td>{{ character.characterName }}</td>
+        <td><a ng-href="#/character/{{serverData.serverName}}/{{character.characterID}}">{{ character.characterName }}</a></td>
         <td>{{ character.characterClass.name }}</td>
         <td>{{ character.guildName }}</td>
         <td>{{ character.gloryPoint }}</td>

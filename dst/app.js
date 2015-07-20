@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.1.22)
+ * Soyto.github.io (0.1.23)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -53,9 +53,53 @@
       }
     };
     $routeProvider.when('/ranking/:serverName/:date', rankingWithDateRouteData);
+
+
+    var characterInfoRouteData = {
+      templateUrl: '/app/templates/characterInfo.html',
+      controller: 'mainApp.characterInfo.controller',
+      resolve: {
+        characterInfo: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+          return helperService.$q.likeNormal(storedDataService.getCharacterInfo($route.current.params.serverName, $route.current.params.characterID));
+        }]
+      }
+    };
+    $routeProvider.when('/character/:serverName/:characterID', characterInfoRouteData);
   }
 
 
+})(angular);
+
+(function(ng){
+  'use strict';
+
+  var CONTROLLER_NAME = 'mainApp.characterInfo.controller';
+
+  ng.module('mainApp').controller(CONTROLLER_NAME, [
+    '$scope', 'storedDataService', 'characterInfo', index_controller
+  ]);
+
+
+  function index_controller($scope, storedDataService, characterInfo) {
+    $scope._name = CONTROLLER_NAME;
+
+    var dateSortFn = function(a,b) { return a.date > b.date ? -1 : 1; };
+
+    $scope.serverName = characterInfo.serverName;
+    $scope.character = characterInfo.data;
+
+    $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyo';
+    $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
+    $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
+
+    $scope.character.names = $scope.character.names.sort(dateSortFn);
+    $scope.character.status = $scope.character.status.sort(dateSortFn);
+
+    $scope.character.status.forEach(function(status){
+      status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
+    });
+
+  }
 })(angular);
 
 (function(ng){
@@ -347,6 +391,7 @@
   function storedData_service($http, helperService) {
 
     var _cacheServerData = [];
+    var _cacheCharacterInfo = [];
 
     var $this = this;
 
@@ -450,7 +495,8 @@
 
       if(cachedItem) {
         $$q.resolve(cachedItem);
-      } else {
+      }
+      else {
 
         var sp = $http({
           url: url,
@@ -477,6 +523,41 @@
     //Retrieves last info from the selected server
     $this.getLastFromServer = function(serverName) {
       return $this.getFromServer(getLastDate(), serverName);
+    };
+
+    //Retrieve character info
+    $this.getCharacterInfo = function(serverName, characterID) {
+      var url = 'data/Characters/' + serverName + '/' + characterID + '.json';
+
+      var $$q = helperService.$q.new();
+
+      var cachedItem = _cacheCharacterInfo.first(function(itm){ return itm.serverName == serverName && itm.characterID == characterID; });
+
+      if(cachedItem) {
+        $$q.resolve(cachedItem);
+      }
+      else {
+        var sp = $http({
+          url: url,
+          method: 'GET'
+        });
+
+        sp.success(function(data){
+
+          var result = {
+            serverName: serverName,
+            characterID: characterID,
+            data: data
+          };
+
+          _cacheServerData.push(result);
+          $$q.resolve(result);
+        });
+
+        sp.error($$q.reject);
+      }
+
+      return helperService.$q.likeHttp($$q.promise);
     };
 
 

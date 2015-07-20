@@ -8,6 +8,7 @@
   function storedData_service($http, helperService) {
 
     var _cacheServerData = [];
+    var _cacheCharacterInfo = [];
 
     var $this = this;
 
@@ -111,7 +112,8 @@
 
       if(cachedItem) {
         $$q.resolve(cachedItem);
-      } else {
+      }
+      else {
 
         var sp = $http({
           url: url,
@@ -138,6 +140,41 @@
     //Retrieves last info from the selected server
     $this.getLastFromServer = function(serverName) {
       return $this.getFromServer(getLastDate(), serverName);
+    };
+
+    //Retrieve character info
+    $this.getCharacterInfo = function(serverName, characterID) {
+      var url = 'data/Characters/' + serverName + '/' + characterID + '.json';
+
+      var $$q = helperService.$q.new();
+
+      var cachedItem = _cacheCharacterInfo.first(function(itm){ return itm.serverName == serverName && itm.characterID == characterID; });
+
+      if(cachedItem) {
+        $$q.resolve(cachedItem);
+      }
+      else {
+        var sp = $http({
+          url: url,
+          method: 'GET'
+        });
+
+        sp.success(function(data){
+
+          var result = {
+            serverName: serverName,
+            characterID: characterID,
+            data: data
+          };
+
+          _cacheServerData.push(result);
+          $$q.resolve(result);
+        });
+
+        sp.error($$q.reject);
+      }
+
+      return helperService.$q.likeHttp($$q.promise);
     };
 
 

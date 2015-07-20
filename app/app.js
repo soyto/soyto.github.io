@@ -39,6 +39,18 @@
       }
     };
     $routeProvider.when('/ranking/:serverName/:date', rankingWithDateRouteData);
+
+
+    var characterInfoRouteData = {
+      templateUrl: '/app/templates/characterInfo.html',
+      controller: 'mainApp.characterInfo.controller',
+      resolve: {
+        characterInfo: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+          return helperService.$q.likeNormal(storedDataService.getCharacterInfo($route.current.params.serverName, $route.current.params.characterID));
+        }]
+      }
+    };
+    $routeProvider.when('/character/:serverName/:characterID', characterInfoRouteData);
   }
 
 
