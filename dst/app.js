@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.2.1)
+ * Soyto.github.io (0.2.2)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -24,7 +24,8 @@ window.storedDates = [
  '07-17-2015',
  '07-18-2015',
  '07-19-2015',
- '07-20-2015'
+ '07-20-2015',
+ '07-21-2015'
 ];
 
 (function(ng){
@@ -316,8 +317,8 @@ window.storedDates = [
   function main_controller($rootScope, $window, $location) {
     $rootScope._name = CONTROLLER_NAME;
 
-    $rootScope.$on('$routeChangeSuccess', function(event){
-      $window.ga('send', 'pageview', { page: $location.url() });
+    $rootScope.$on('$viewContentLoaded', function(event){
+      $window.ga('send', 'pageview', { page: $location.path() });
     });
 
   }
