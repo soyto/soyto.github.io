@@ -62,6 +62,8 @@ module.exports = function(grunt) {
 
   //Application files
   var APP_FILES = [
+    'app/helpers/folders.dates.js',
+
     'app/app.js',
 
     'app/controllers/characterInfo.controller.js',
@@ -125,9 +127,18 @@ module.exports = function(grunt) {
 
   //Compiles application
   grunt.registerTask('compile', function(){
+    grunt.task.run('set-up-folders-dates-file');
     grunt.task.run('jshint');
     grunt.task.run('concat:app');
     grunt.task.run('uglify:app');
+  });
+
+  //Executes crawler, extracts users data, compile and publis all
+  grunt.registerTask('daily-task', function(){
+    grunt.task.run('crawler');
+    grunt.task.run('create-players-database');
+    grunt.task.run('git-add-data');
+    grunt.task.run('publish-minor')
   });
 
   //Runs crawler for just one server, ex. grunt one-server-crawler:Alquima
@@ -370,6 +381,15 @@ module.exports = function(grunt) {
     setVersion(this.args[0], this.args[1]);
   });
 
+  //Adds all contents of data folder to git
+  grunt.registerTask('git-add-data', function(){
+    var result = sh.exec('git add data');
+
+    if(result.code !== 0) {
+      grunt.fatal(result.output, {silent:true});
+    }
+  });
+
   //Performs commit
   grunt.registerTask('git-commit', function(){
 
@@ -425,6 +445,12 @@ module.exports = function(grunt) {
     }
 
     grunt.task.run(['compile', 'version:minor', 'git-commit', 'git-push']);
+  });
+
+  //Sets up folders file
+  grunt.registerTask('set-up-folders-dates-file', function(){
+    var dates = grunt.file.expand('data/*.json').select(function(fileName){ return fileName.split('/')[1].split('.')[0]; });
+    grunt.file.write('app/helpers/folders.dates.js', 'window.storedDates = ' + JSON.stringify(dates, null, ' ').replace(/"/g, '\'') + ';');
   });
 
   /* HELPER FUNCTIONS

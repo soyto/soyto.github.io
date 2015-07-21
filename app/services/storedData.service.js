@@ -2,10 +2,10 @@
   'use strict';
 
   ng.module('mainApp').service('storedDataService',[
-    '$http', 'helperService', storedData_service
+    '$http', '$window', 'helperService', storedData_service
   ]);
 
-  function storedData_service($http, helperService) {
+  function storedData_service($http, $window, helperService) {
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
@@ -33,21 +33,7 @@
     ];
 
     //Wich dates we have stored
-    $this.storedDates = [
-      '07-08-2015',
-      '07-09-2015',
-      '07-10-2015',
-      '07-11-2015',
-      '07-12-2015',
-      //'07-13-2015',
-      '07-14-2015',
-      '07-15-2015',
-      '07-16-2015',
-      '07-17-2015',
-      '07-18-2015',
-      '07-19-2015',
-      '07-20-2015',
-    ];
+    $this.storedDates = $window.storedDates;
 
     //Character soldier ranks
     $this.characterSoldierRankIds = [

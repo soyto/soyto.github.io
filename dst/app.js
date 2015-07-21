@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.2.0)
+ * Soyto.github.io (0.2.1)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -12,6 +12,21 @@
  * 
  * 0. You just DO WHAT THE FUCK YOU WANT TO.
  */
+window.storedDates = [
+ '07-08-2015',
+ '07-09-2015',
+ '07-10-2015',
+ '07-11-2015',
+ '07-12-2015',
+ '07-14-2015',
+ '07-15-2015',
+ '07-16-2015',
+ '07-17-2015',
+ '07-18-2015',
+ '07-19-2015',
+ '07-20-2015'
+];
+
 (function(ng){
   'use strict';
 
@@ -294,12 +309,16 @@
   var CONTROLLER_NAME = 'mainApp.main.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME,[
-    '$rootScope',main_controller
+    '$rootScope', '$window', '$location' ,main_controller
   ]);
 
 
-  function main_controller($rootScope) {
+  function main_controller($rootScope, $window, $location) {
     $rootScope._name = CONTROLLER_NAME;
+
+    $rootScope.$on('$routeChangeSuccess', function(event){
+      $window.ga('send', 'pageview', { page: $location.url() });
+    });
 
   }
 
@@ -385,10 +404,10 @@
   'use strict';
 
   ng.module('mainApp').service('storedDataService',[
-    '$http', 'helperService', storedData_service
+    '$http', '$window', 'helperService', storedData_service
   ]);
 
-  function storedData_service($http, helperService) {
+  function storedData_service($http, $window, helperService) {
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
@@ -416,21 +435,7 @@
     ];
 
     //Wich dates we have stored
-    $this.storedDates = [
-      '07-08-2015',
-      '07-09-2015',
-      '07-10-2015',
-      '07-11-2015',
-      '07-12-2015',
-      //'07-13-2015',
-      '07-14-2015',
-      '07-15-2015',
-      '07-16-2015',
-      '07-17-2015',
-      '07-18-2015',
-      '07-19-2015',
-      '07-20-2015',
-    ];
+    $this.storedDates = $window.storedDates;
 
     //Character soldier ranks
     $this.characterSoldierRankIds = [
