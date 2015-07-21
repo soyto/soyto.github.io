@@ -11,8 +11,8 @@
   function main_controller($rootScope, $window, $location) {
     $rootScope._name = CONTROLLER_NAME;
 
-    $rootScope.$on('$routeChangeSuccess', function(event){
-      $window.ga('send', 'pageview', { page: $location.url() });
+    $rootScope.$on('$viewContentLoaded', function(event){
+      $window.ga('send', 'pageview', { page: $location.path() });
     });
 
   }
