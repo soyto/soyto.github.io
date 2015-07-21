@@ -2,10 +2,12 @@
   'use strict';
 
   ng.module('mainApp',[
-    'ngRoute'
+    'ngRoute',
+    'angular-loading-bar'
   ]);
 
   ng.module('mainApp').config(['$routeProvider', configRoutes]);
+  ng.module('mainApp').config(['cfpLoadingBarProvider', cfpLoadingBarFn]);
 
 
   function configRoutes($routeProvider) {
@@ -53,5 +55,9 @@
     $routeProvider.when('/character/:serverName/:characterID', characterInfoRouteData);
   }
 
+  function cfpLoadingBarFn(cfpLoadingBarProvider) {
+    cfpLoadingBarProvider.includeSpinner = true;
+    cfpLoadingBarProvider.includeBar  = true;
+  }
 
 })(angular);

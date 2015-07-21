@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.3.0)
+ * Soyto.github.io (0.3.1)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -32,10 +32,12 @@ window.storedDates = [
   'use strict';
 
   ng.module('mainApp',[
-    'ngRoute'
+    'ngRoute',
+    'angular-loading-bar'
   ]);
 
   ng.module('mainApp').config(['$routeProvider', configRoutes]);
+  ng.module('mainApp').config(['cfpLoadingBarProvider', cfpLoadingBarFn]);
 
 
   function configRoutes($routeProvider) {
@@ -83,6 +85,10 @@ window.storedDates = [
     $routeProvider.when('/character/:serverName/:characterID', characterInfoRouteData);
   }
 
+  function cfpLoadingBarFn(cfpLoadingBarProvider) {
+    cfpLoadingBarProvider.includeSpinner = true;
+    cfpLoadingBarProvider.includeBar  = true;
+  }
 
 })(angular);
 
@@ -310,17 +316,22 @@ window.storedDates = [
   var CONTROLLER_NAME = 'mainApp.main.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME,[
-    '$rootScope', '$window', '$location' ,main_controller
+    '$rootScope', '$window', '$location', 'cfpLoadingBar', main_controller
   ]);
 
 
-  function main_controller($rootScope, $window, $location) {
+  function main_controller($rootScope, $window, $location, cfpLoadingBar) {
     $rootScope._name = CONTROLLER_NAME;
 
-    $rootScope.$on('$viewContentLoaded', function(event){
-      $window.ga('send', 'pageview', { page: $location.path() });
+
+    $rootScope.$on('$routeChangeStart', function(){
+      cfpLoadingBar.start();
     });
 
+    $rootScope.$on('$viewContentLoaded', function(event){
+      cfpLoadingBar.complete();
+      $window.ga('send', 'pageview', { page: $location.path() });
+    });
   }
 
 })(angular);
