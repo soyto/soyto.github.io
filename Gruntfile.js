@@ -69,6 +69,7 @@ module.exports = function(grunt) {
     'app/controllers/characterInfo.controller.js',
     'app/controllers/index.controller.js',
     'app/controllers/ranking.list.controller.js',
+    'app/controllers/ranking.list.mobile.controller.js',
     'app/controllers/root.controller.js',
 
     'app/services/helper.service.js',
