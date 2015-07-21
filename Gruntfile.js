@@ -138,7 +138,7 @@ module.exports = function(grunt) {
     grunt.task.run('crawler');
     grunt.task.run('create-players-database');
     grunt.task.run('git-add-data');
-    grunt.task.run('publish-minor')
+    grunt.task.run('publish-patch')
   });
 
   //Runs crawler for just one server, ex. grunt one-server-crawler:Alquima
