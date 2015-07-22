@@ -175,25 +175,15 @@ module.exports = function(grunt) {
     var done = this.async();
 
     var folderName = BASE_FOLDER + today() + '/';
-    var endFileName = BASE_FOLDER + today() + '.json';
 
     if(!grunt.file.exists(folderName)) {
       grunt.file.mkdir(folderName);
     }
 
 
-
-    var fullServersIfo = {};
-
-
     login(USER_LOGIN, USER_PASSWORD).then(function (cookie) {
 
       var onDataExtracted = function (data) {
-
-        fullServersIfo[data.serverName] = {};
-        fullServersIfo[data.serverName]['id'] = data.serverID;
-        fullServersIfo[data.serverName]['players'] = data.entries;
-
         grunt.log.ok('Retrieved [%s]', data.serverName.cyan);
         grunt.file.write(folderName + data.serverName + '.json', JSON.stringify(data.entries));
       };
@@ -223,10 +213,7 @@ module.exports = function(grunt) {
         }
       });
 
-      $$q.then(function () {
-        grunt.file.write(endFileName, JSON.stringify(fullServersIfo));
-        done();
-      });
+      $$q.then(done);
     });
   });
 
