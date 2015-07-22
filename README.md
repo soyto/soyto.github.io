@@ -4,5 +4,6 @@ List with all servers ranks
 
 ## TODO list
 
-- #6 Add loading indicators
+- Mobile development
+- Another data storage system
 - Set up guild info
