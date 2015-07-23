@@ -437,7 +437,12 @@ module.exports = function(grunt) {
 
   //Sets up folders file
   grunt.registerTask('set-up-folders-dates-file', function(){
-    var dates = grunt.file.expand('data/*.json').select(function(fileName){ return fileName.split('/')[1].split('.')[0]; });
+
+    var dates = grunt.file.expand('data/*/').select(function(folderName){
+      if(folderName.indexOf('Characters') >= 0) { return null; }
+      return folderName.split('/')[1];
+    }).where(function(folderName){ return folderName != null; });
+
     grunt.file.write('app/helpers/folders.dates.js', 'window.storedDates = ' + JSON.stringify(dates, null, ' ').replace(/"/g, '\'') + ';');
   });
 
