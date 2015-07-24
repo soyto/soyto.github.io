@@ -56,6 +56,11 @@
       $scope.asmodianData = _performPagination($scope.pagination.asmodians.elements, $scope.pagination.asmodians);
     };
 
+    //Performs search
+    $scope.search = function(){
+      _performFilterAndSearch($scope.selectedClass, $scope.textSearch);
+    };
+
     function _init() {
 
       $scope.pagination = {
@@ -88,28 +93,6 @@
       $scope.textSearch = '';
       $scope.selectedClass = '';
 
-
-
-      //On date changed
-      $scope.$watch('searchDate', function(newValue){
-        if(newValue != serverData.date) {
-          $location.path('/ranking/' + serverData.serverName + '/' + newValue);
-        }
-      });
-
-      $scope.$watch('currentServer', function(newValue){
-        if(newValue.name != serverData.serverName) {
-          $location.path('/ranking/' + newValue.name + '/' + serverData.date);
-        }
-      });
-
-      $scope.$watch('selectedClass', function(newValue){
-        _performFilterAndSearch(newValue, $scope.textSearch);
-      });
-
-      $scope.$watch('textSearch', function(newValue){
-        _performFilterAndSearch($scope.selectedClass, newValue);
-      });
     }
 
     //Initializes a character

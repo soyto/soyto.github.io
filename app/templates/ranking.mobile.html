@@ -25,16 +25,6 @@
                 <form class="form">
 
                     <div class="form-group">
-                        <label for="server">Server</label>
-                        <select id="server" class="form-control" ng-model="currentServer" ng-options="server.name for server in servers"></select>
-                    </div>
-
-                    <div class="form-group">
-                        <label for="searchDate">Date</label>
-                        <select id="searchDate" class="form-control" ng-model="searchDate" ng-options="date for date in storedDates"></select>
-                    </div>
-
-                    <div class="form-group">
                         <label for="selectedClass">Class</label>
                         <select id="selectedClass" class="form-control" ng-model="selectedClass" ng-options="class.name for class in classes">
                             <option value="">-- All classes --</option>
@@ -45,6 +35,8 @@
                         <label for="searcher">Search</label>
                         <input id="searcher" type="text" class="form-control" ng-model="textSearch" />
                     </div>
+
+                    <input type="button" class="btn btn-success" value="Search" ng-click="search()">
 
                 </form>
 

@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.3.7)
+ * Soyto.github.io (0.3.8)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -393,6 +393,11 @@ window.storedDates = [
       $scope.asmodianData = _performPagination($scope.pagination.asmodians.elements, $scope.pagination.asmodians);
     };
 
+    //Performs search
+    $scope.search = function(){
+      _performFilterAndSearch($scope.selectedClass, $scope.textSearch);
+    };
+
     function _init() {
 
       $scope.pagination = {
@@ -425,28 +430,6 @@ window.storedDates = [
       $scope.textSearch = '';
       $scope.selectedClass = '';
 
-
-
-      //On date changed
-      $scope.$watch('searchDate', function(newValue){
-        if(newValue != serverData.date) {
-          $location.path('/ranking/' + serverData.serverName + '/' + newValue);
-        }
-      });
-
-      $scope.$watch('currentServer', function(newValue){
-        if(newValue.name != serverData.serverName) {
-          $location.path('/ranking/' + newValue.name + '/' + serverData.date);
-        }
-      });
-
-      $scope.$watch('selectedClass', function(newValue){
-        _performFilterAndSearch(newValue, $scope.textSearch);
-      });
-
-      $scope.$watch('textSearch', function(newValue){
-        _performFilterAndSearch($scope.selectedClass, newValue);
-      });
     }
 
     //Initializes a character
