@@ -9,17 +9,17 @@
 
         <h2>{{serverData.serverName}} at {{serverData.date}}</h2>
 
-        <div class="row" ng-show="collapse == true" ng-init="collapse=true">
+        <div class="row" ng-show="!filters.show">
             <div class="col-lg-12">
                 <p class="text-center">
-                    <a ng-click="collapse=false">
+                    <a ng-click="filters.show=true">
                         <i class="fa fa-caret-square-o-down"></i> Show filters <i class="fa fa-caret-square-o-down"></i>
                     </a>
                 </p>
             </div>
         </div>
 
-        <div class="row" ng-show="collapse == false">
+        <div class="row" ng-show="filters.show">
             <div class="col-lg-12">
 
                 <form class="form">
@@ -37,17 +37,20 @@
                     </div>
 
                     <input type="button" class="btn btn-success" value="Search" ng-click="search()">
+                    <input type="button" class="btn btn-info" value="Clear" ng-click="search()">
 
                 </form>
 
                 <p class="text-center">
-                    <a ng-click="collapse=true">
+                    <a ng-click="filters.show=false">
                         <i class="fa fa-caret-square-o-up"></i> Hide filters <i class="fa fa-caret-square-o-up"></i>
                     </a>
                 </p>
 
             </div>
         </div>
+
+        <hr />
 
         <ul class="nav nav-tabs" data-ng-init="showing='elyos'">
             <li role="presentation" data-ng-class="{active: showing=='elyos'}"><a ng-click="showing='elyos'">Elyos</a></li>
@@ -89,12 +92,17 @@
         </table>
 
         <nav ng-show="showing=='elyos'">
-            <ul class="pager">
-                <li class="previous" ng-class="{'disabled': pagination.elyos.currentPage == 0 }" ng-click="page.elyos.previous()">
-                    <a href=""><span aria-hidden="true">&larr;</span> Previous</a>
+            <ul class="pagination pagination-sm">
+                <li ng-class="{'disabled': pagination.elyos.currentPage == 0 }" ng-click="page.elyos.previous()" >
+                    <a href="" aria-label="Previous">
+                        <span aria-hidden="true">&larr;</span> Previous
+                    </a>
+                </li>
+                <li ng-click="page.elyos.goTo()">
+                    <a herf="">{{ (pagination.elyos.currentPage + 1)}} / {{pagination.elyos.numPages}}</a>
                 </li>
                 <li class="next"ng-class="{'disabled': pagination.elyos.currentPage + 1 >= pagination.elyos.numPages }" ng-click="page.elyos.next()">
-                    <a href="">Next <span aria-hidden="true">&rarr;</span></a>
+                    <a href="" aria-label="Next">Next <span aria-hidden="true">&rarr;</span></a>
                 </li>
             </ul>
         </nav>
@@ -133,15 +141,19 @@
         </table>
 
         <nav ng-show="showing=='asmodians'">
-            <ul class="pager">
-                <li class="previous" ng-class="{'disabled': pagination.asmodians.currentPage == 0 }" ng-click="page.asmodians.previous()">
-                    <a href=""><span aria-hidden="true">&larr;</span> Previous</a>
+            <ul class="pagination pagination-sm">
+                <li ng-class="{'disabled': pagination.asmodians.currentPage == 0 }" ng-click="page.asmodians.previous()" >
+                    <a href="" aria-label="Previous">
+                        <span aria-hidden="true">&larr;</span> Previous
+                    </a>
+                </li>
+                <li ng-click="page.asmodians.goTo()">
+                    <a herf="">{{ (pagination.asmodians.currentPage + 1)}} / {{pagination.asmodians.numPages}}</a>
                 </li>
                 <li class="next"ng-class="{'disabled': pagination.asmodians.currentPage + 1 >= pagination.asmodians.numPages }" ng-click="page.asmodians.next()">
-                    <a href="">Next <span aria-hidden="true">&rarr;</span></a>
+                    <a href="" aria-label="Next">Next <span aria-hidden="true">&rarr;</span></a>
                 </li>
             </ul>
         </nav>
-
     </div>
 </div>

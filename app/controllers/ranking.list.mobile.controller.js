@@ -3,21 +3,29 @@
 
   var CONTROLLER_NAME = 'mainApp.ranking.list.mobile.controller';
 
-  ng.module('mainApp').controller(CONTROLLER_NAME, [ '$log',
-    '$scope', '$location', '$timeout',  'storedDataService', 'serverData', index_controller
+  ng.module('mainApp').controller(CONTROLLER_NAME, [
+    '$scope', '$window',  'storedDataService', 'serverData', index_controller
   ]);
 
-  function index_controller($log, $scope, $location, $timeout, storedDataService, serverData) {
+  function index_controller($scope, $window, storedDataService, serverData) {
 
     $scope._name = CONTROLLER_NAME;
-    var initialVersusData = [];
-    var textSearch_timeoutPromise = null;
 
     _init();
 
-    $scope.page = {
-      elyos: {},
-      asmodians: {}
+
+    $scope.page.elyos.goTo = function(){
+      var value = $window.prompt('page');
+
+      if(value && !isNaN(value)) {
+        value = parseInt(value);
+
+        if(value && value > 0 && value <= $scope.pagination.elyos.numPages) {
+          $scope.pagination.elyos.currentPage = value - 1;
+          $scope.elyosData = _performPagination($scope.pagination.elyos.elements, $scope.pagination.elyos);
+        }
+
+      }
     };
 
     $scope.page.elyos.next = function(){
@@ -56,9 +64,29 @@
       $scope.asmodianData = _performPagination($scope.pagination.asmodians.elements, $scope.pagination.asmodians);
     };
 
+    $scope.page.asmodians.goTo = function(){
+      var value = $window.prompt('page');
+
+      if(value && !isNaN(value)) {
+        value = parseInt(value);
+
+        if(value && value > 0 && value <= $scope.pagination.asmodians.numPages) {
+          $scope.pagination.asmodians.currentPage = value - 1;
+          $scope.asmodianData = _performPagination($scope.pagination.asmodians.elements, $scope.pagination.asmodians);
+        }
+
+      }
+    };
+
     //Performs search
     $scope.search = function(){
       _performFilterAndSearch($scope.selectedClass, $scope.textSearch);
+    };
+
+    $scope.clear = function(){
+      $scope.textSearch = '';
+      $scope.selectedClass = '';
+      _performFilterAndSearch('','');
     };
 
     function _init() {
@@ -93,6 +121,14 @@
       $scope.textSearch = '';
       $scope.selectedClass = '';
 
+
+      $scope.filters = {};
+      $scope.filters.show = false;
+
+      $scope.page = {
+        elyos: {},
+        asmodians: {}
+      };
     }
 
     //Initializes a character
@@ -109,37 +145,29 @@
     //Will perform filter and search :)
     function _performFilterAndSearch(classToFilter, textToSearch) {
 
-      if(textSearch_timeoutPromise) {
-        $timeout.cancel(textSearch_timeoutPromise);
-      }
+      $scope.pagination.elyos.currentPage = 0;
+      $scope.pagination.asmodians.currentPage = 0;
+      $scope.filters.show = false;
 
-      textSearch_timeoutPromise = $timeout(function() {
-
-        $scope.pagination.elyos.currentPage = 0;
-        $scope.pagination.asmodians.currentPage = 0;
-
-        var filterAndSearchFn = function(character){
-          if(classToFilter && textToSearch) {
-            return character.characterClassID == classToFilter.id && character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
-          } else if(classToFilter) {
-            return character.characterClassID == classToFilter.id;
-          } else {
-            return character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
-          }
-        };
-
-        if (classToFilter || textToSearch) {
-
-          $scope.elyosData = _performPagination(serverData.data.elyos.where(filterAndSearchFn).select(_initCharacter), $scope.pagination.elyos);
-          $scope.asmodianData = _performPagination(serverData.data.asmodians.where(filterAndSearchFn).select(_initCharacter), $scope.pagination.asmodians);
-
+      var filterAndSearchFn = function(character){
+        if(classToFilter && textToSearch) {
+          return character.characterClassID == classToFilter.id && character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
+        } else if(classToFilter) {
+          return character.characterClassID == classToFilter.id;
         } else {
-          $scope.elyosData = _performPagination(serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
-          $scope.asmodianData = _performPagination(serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
+          return character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
         }
+      };
 
-      },500);
+      if (classToFilter || textToSearch) {
 
+        $scope.elyosData = _performPagination(serverData.data.elyos.where(filterAndSearchFn).select(_initCharacter), $scope.pagination.elyos);
+        $scope.asmodianData = _performPagination(serverData.data.asmodians.where(filterAndSearchFn).select(_initCharacter), $scope.pagination.asmodians);
+
+      } else {
+        $scope.elyosData = _performPagination(serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
+        $scope.asmodianData = _performPagination(serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
+      }
     }
 
     function _performPagination(elements, pagination) {
