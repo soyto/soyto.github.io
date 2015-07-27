@@ -4,10 +4,10 @@
   var CONTROLLER_NAME = 'mainApp.ranking.list.mobile.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', '$window',  'storedDataService', 'serverData', index_controller
+    '$scope', '$window',  'storedDataService', 'helperService', 'serverData', index_controller
   ]);
 
-  function index_controller($scope, $window, storedDataService, serverData) {
+  function index_controller($scope, $window, storedDataService, helperService, serverData) {
 
     $scope._name = CONTROLLER_NAME;
 
@@ -90,6 +90,8 @@
     };
 
     function _init() {
+
+      helperService.$scope.setTitle(serverData.serverName + ' -> ' + serverData.date);
 
       $scope.pagination = {
         elyos: {

@@ -4,10 +4,10 @@
   var CONTROLLER_NAME = 'mainApp.ranking.list.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', '$location', '$timeout',  'storedDataService', 'serverData', index_controller
+    '$scope', '$location', '$timeout', 'helperService',  'storedDataService', 'serverData', index_controller
   ]);
 
-  function index_controller($scope, $location, $timeout, storedDataService, serverData) {
+  function index_controller($scope, $location, $timeout, helperService, storedDataService, serverData) {
     $scope._name = CONTROLLER_NAME;
     var initialVersusData = [];
     var textSearch_timeoutPromise = null;
@@ -15,6 +15,9 @@
     _init();
 
     function _init() {
+
+      helperService.$scope.setTitle(serverData.serverName + ' -> ' + serverData.date);
+
       $scope.serverData = serverData;
 
       $scope.storedDates = storedDataService.storedDates;
