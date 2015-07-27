@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.3.18)
+ * Soyto.github.io (0.3.19)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -110,7 +110,16 @@ window.storedDates = [
         }]
       }
     };
-    $routeProvider.when('/character/:serverName/:characterID', characterInfoRouteData);
+    var characterInfoMobileRouteData = {
+      templateUrl: '/app/templates/characterInfo.mobile.html',
+      controller: 'mainApp.characterInfo.mobile.controller',
+      resolve: {
+        characterInfo: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+          return helperService.$q.likeNormal(storedDataService.getCharacterInfo($route.current.params.serverName, $route.current.params.characterID));
+        }]
+      }
+    };
+    $routeProvider.when('/character/:serverName/:characterID', isMobile ? characterInfoMobileRouteData :  characterInfoRouteData);
   }
 
   function cfpLoadingBarFn(cfpLoadingBarProvider) {
@@ -124,6 +133,41 @@ window.storedDates = [
   'use strict';
 
   var CONTROLLER_NAME = 'mainApp.characterInfo.controller';
+
+  ng.module('mainApp').controller(CONTROLLER_NAME, [
+    '$scope', 'storedDataService', 'helperService', 'characterInfo', index_controller
+  ]);
+
+
+  function index_controller($scope, storedDataService, helperService, characterInfo) {
+    $scope._name = CONTROLLER_NAME;
+
+    helperService.$scope.setTitle(characterInfo.serverName + ' -> ' + characterInfo.data.names[characterInfo.data.names.length - 1].characterName);
+
+    var dateSortFn = function(a,b) { return a.date > b.date ? -1 : 1; };
+
+    $scope.serverName = characterInfo.serverName;
+    $scope.character = characterInfo.data;
+
+    $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyo';
+    $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
+    $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
+
+    $scope.character.names = $scope.character.names.sort(dateSortFn);
+    $scope.character.status = $scope.character.status.sort(dateSortFn);
+    $scope.character.guilds = $scope.character.guilds.sort(dateSortFn);
+
+    $scope.character.status.forEach(function(status){
+      status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
+    });
+
+  }
+})(angular);
+
+(function(ng){
+  'use strict';
+
+  var CONTROLLER_NAME = 'mainApp.characterInfo.mobile.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
     '$scope', 'storedDataService', 'helperService', 'characterInfo', index_controller

@@ -75,7 +75,16 @@
         }]
       }
     };
-    $routeProvider.when('/character/:serverName/:characterID', characterInfoRouteData);
+    var characterInfoMobileRouteData = {
+      templateUrl: '/app/templates/characterInfo.mobile.html',
+      controller: 'mainApp.characterInfo.mobile.controller',
+      resolve: {
+        characterInfo: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+          return helperService.$q.likeNormal(storedDataService.getCharacterInfo($route.current.params.serverName, $route.current.params.characterID));
+        }]
+      }
+    };
+    $routeProvider.when('/character/:serverName/:characterID', isMobile ? characterInfoMobileRouteData :  characterInfoRouteData);
   }
 
   function cfpLoadingBarFn(cfpLoadingBarProvider) {
