@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.3.21)
+ * Soyto.github.io (0.3.22)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -342,40 +342,52 @@ window.storedDates = [
     //Will perform filter and search :)
     function _performFilterAndSearch(classToFilter, textToSearch) {
 
+      var filterByName = function(character, txt) {
+        return character.characterName && (character.characterName.toLowerCase().indexOf(textToSearch) >= 0 ||
+          (character.guildName && character.guildName.toLowerCase().indexOf(textToSearch) >= 0 ));
+      };
+
+      var filterByClass = function(character, classToFilter) {
+        return character.characterClassID == classToFilter.id;
+      };
+
+      var filterAndSearchFn = function(character, txt, classToFilter){
+        if(classToFilter && txt) {
+          return filterByClass(character, classToFilter) && filterByName(character, txt);
+        } else if(classToFilter) {
+          return filterByClass(character, classToFilter);
+        } else {
+          return filterByName(character, txt);
+        }
+      };
+
+      var filterAndSearchInVersus = function(pair, textToSearch, classToFilter) {
+
+        if(classToFilter && textToSearch) {
+          return (pair.elyo && filterByName(pair.elyo, textToSearch) && filterByClass(pair.elyo, classToFilter)) ||
+            (pair.asmodian && filterByName(pair.asmodian, textToSearch) && filterByClass(pair.asmodian, classToFilter));
+        } else if(classToFilter) {
+          return (pair.elyo && filterByClass(pair.elyo, classToFilter)) ||
+            (pair.asmodian && filterByClass(pair.asmodian, classToFilter));
+        } else {
+          return (pair.elyo && filterByName(pair.elyo, textToSearch)) ||
+            (pair.asmodian && filterByName(pair.asmodian, textToSearch));
+        }
+      };
+
       if(textSearch_timeoutPromise) {
         $timeout.cancel(textSearch_timeoutPromise);
       }
 
       textSearch_timeoutPromise = $timeout(function() {
 
-        var filterAndSearchFn = function(character){
-          if(classToFilter && textToSearch) {
-            return character.characterClassID == classToFilter.id && character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
-          } else if(classToFilter) {
-            return character.characterClassID == classToFilter.id;
-          } else {
-            return character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
-          }
-        };
-
-        var filterAndSearchInVersus = function(pair) {
-
-          if(classToFilter && textToSearch) {
-            return pair.elyo && pair.elyo.characterName &&  pair.elyo.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 && pair.elyo.characterClassID == classToFilter.id ||
-              pair.asmodian && pair.asmodian.characterName && pair.asmodian.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 && pair.asmodian.characterClassID == classToFilter.id;
-          } else if(classToFilter) {
-            return pair.elyo && pair.elyo.characterName && pair.elyo.characterClassID == classToFilter.id ||
-              pair.asmodian && pair.asmodian.characterClassID == classToFilter.id;
-          } else {
-            return pair.elyo && pair.elyo.characterName && pair.elyo.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0 ||
-              pair.asmodian && pair.asmodian.characterName &&  pair.asmodian.characterName.toLowerCase().indexOf(textToSearch.toLowerCase()) >= 0;
-          }
-        };
-
         if (classToFilter || textToSearch) {
-
-          $scope.elyosData = serverData.data.elyos.where(filterAndSearchFn).select(_initCharacter);
-          $scope.asmodianData = serverData.data.asmodians.where(filterAndSearchFn).select(_initCharacter);
+          $scope.elyosData = serverData.data.elyos.where(function(character) {
+            return filterAndSearchFn(character, textToSearch, classToFilter);
+          }).select(_initCharacter);
+          $scope.asmodianData = serverData.data.asmodians.where(function(character) {
+            return filterAndSearchFn(character, textToSearch, classToFilter);
+          }).select(_initCharacter);
 
           $scope.versusData = initialVersusData.where(filterAndSearchInVersus);
 
@@ -541,24 +553,37 @@ window.storedDates = [
     //Will perform filter and search :)
     function _performFilterAndSearch(classToFilter, textToSearch) {
 
+      var filterByName = function(character, txt) {
+        return character.characterName && (character.characterName.toLowerCase().indexOf(textToSearch) >= 0 ||
+          (character.guildName && character.guildName.toLowerCase().indexOf(textToSearch) >= 0 ));
+      };
+
+      var filterByClass = function(character, classToFilter) {
+        return character.characterClassID == classToFilter.id;
+      };
+
+      var filterAndSearchFn = function(character, txt, classToFilter){
+        if(classToFilter && txt) {
+          return filterByClass(character, classToFilter) && filterByName(character, txt);
+        } else if(classToFilter) {
+          return filterByClass(character, classToFilter);
+        } else {
+          return filterByName(character, txt);
+        }
+      };
+
       $scope.pagination.elyos.currentPage = 0;
       $scope.pagination.asmodians.currentPage = 0;
       $scope.filters.show = false;
 
-      var filterAndSearchFn = function(character){
-        if(classToFilter && textToSearch) {
-          return character.characterClassID == classToFilter.id && character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
-        } else if(classToFilter) {
-          return character.characterClassID == classToFilter.id;
-        } else {
-          return character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
-        }
-      };
-
       if (classToFilter || textToSearch) {
 
-        $scope.elyosData = _performPagination(serverData.data.elyos.where(filterAndSearchFn).select(_initCharacter), $scope.pagination.elyos);
-        $scope.asmodianData = _performPagination(serverData.data.asmodians.where(filterAndSearchFn).select(_initCharacter), $scope.pagination.asmodians);
+        $scope.elyosData = _performPagination(serverData.data.elyos.where(function(character) {
+          return filterAndSearchFn(character, textToSearch, classToFilter);
+        }).select(_initCharacter), $scope.pagination.elyos);
+        $scope.asmodianData = _performPagination(serverData.data.asmodians.where(function(character) {
+          return filterAndSearchFn(character, textToSearch, classToFilter);
+        }).select(_initCharacter), $scope.pagination.asmodians);
 
       } else {
         $scope.elyosData = _performPagination(serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);

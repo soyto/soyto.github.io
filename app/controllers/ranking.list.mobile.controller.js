@@ -147,24 +147,37 @@
     //Will perform filter and search :)
     function _performFilterAndSearch(classToFilter, textToSearch) {
 
+      var filterByName = function(character, txt) {
+        return character.characterName && (character.characterName.toLowerCase().indexOf(textToSearch) >= 0 ||
+          (character.guildName && character.guildName.toLowerCase().indexOf(textToSearch) >= 0 ));
+      };
+
+      var filterByClass = function(character, classToFilter) {
+        return character.characterClassID == classToFilter.id;
+      };
+
+      var filterAndSearchFn = function(character, txt, classToFilter){
+        if(classToFilter && txt) {
+          return filterByClass(character, classToFilter) && filterByName(character, txt);
+        } else if(classToFilter) {
+          return filterByClass(character, classToFilter);
+        } else {
+          return filterByName(character, txt);
+        }
+      };
+
       $scope.pagination.elyos.currentPage = 0;
       $scope.pagination.asmodians.currentPage = 0;
       $scope.filters.show = false;
 
-      var filterAndSearchFn = function(character){
-        if(classToFilter && textToSearch) {
-          return character.characterClassID == classToFilter.id && character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
-        } else if(classToFilter) {
-          return character.characterClassID == classToFilter.id;
-        } else {
-          return character.characterName.toLowerCase().indexOf(textToSearch) >= 0;
-        }
-      };
-
       if (classToFilter || textToSearch) {
 
-        $scope.elyosData = _performPagination(serverData.data.elyos.where(filterAndSearchFn).select(_initCharacter), $scope.pagination.elyos);
-        $scope.asmodianData = _performPagination(serverData.data.asmodians.where(filterAndSearchFn).select(_initCharacter), $scope.pagination.asmodians);
+        $scope.elyosData = _performPagination(serverData.data.elyos.where(function(character) {
+          return filterAndSearchFn(character, textToSearch, classToFilter);
+        }).select(_initCharacter), $scope.pagination.elyos);
+        $scope.asmodianData = _performPagination(serverData.data.asmodians.where(function(character) {
+          return filterAndSearchFn(character, textToSearch, classToFilter);
+        }).select(_initCharacter), $scope.pagination.asmodians);
 
       } else {
         $scope.elyosData = _performPagination(serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
