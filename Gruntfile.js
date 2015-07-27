@@ -302,7 +302,7 @@ module.exports = function(grunt) {
           pDatabaseChar.status.push({
             date: data.date,
             position: character.position,
-            rankingPositionChange: character.rankingPositionChange,
+            rankingPositionChange: lastStatus.position - character.position,
             gloryPoint: character.gloryPoint,
             gloryPointChange: character.gloryPoint - lastStatus.gloryPoint,
             soldierRankID: character.soldierRankID
