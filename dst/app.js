@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.3.15)
+ * Soyto.github.io (0.3.16)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -355,7 +355,7 @@ window.storedDates = [
 
 
     $scope.page.elyos.goTo = function(){
-      var value = $window.prompt('page');
+      var value = $window.prompt('page', $scope.pagination.elyos.currentPage);
 
       if(value && !isNaN(value)) {
         value = parseInt(value);
@@ -405,7 +405,7 @@ window.storedDates = [
     };
 
     $scope.page.asmodians.goTo = function(){
-      var value = $window.prompt('page');
+      var value = $window.prompt('page', $scope.pagination.asmodians.currentPage);
 
       if(value && !isNaN(value)) {
         value = parseInt(value);
