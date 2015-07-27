@@ -15,7 +15,7 @@
 
 
     $scope.page.elyos.goTo = function(){
-      var value = $window.prompt('page', $scope.pagination.elyos.currentPage);
+      var value = $window.prompt('page', $scope.pagination.elyos.currentPage + 1);
 
       if(value && !isNaN(value)) {
         value = parseInt(value);
@@ -65,7 +65,7 @@
     };
 
     $scope.page.asmodians.goTo = function(){
-      var value = $window.prompt('page', $scope.pagination.asmodians.currentPage);
+      var value = $window.prompt('page', $scope.pagination.asmodians.currentPage + 1);
 
       if(value && !isNaN(value)) {
         value = parseInt(value);
