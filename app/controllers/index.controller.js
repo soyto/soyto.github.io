@@ -11,6 +11,7 @@
   function index_controller($scope, helperService, storedDataService) {
     $scope._name = CONTROLLER_NAME;
     $scope.servers = storedDataService.serversList;
+    $scope.lastServerUpdateData = storedDataService.getLastServerData();
 
     helperService.$scope.setTitle('Army rank application');
 

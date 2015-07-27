@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.3.20)
+ * Soyto.github.io (0.3.21)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -213,6 +213,7 @@ window.storedDates = [
   function index_controller($scope, helperService, storedDataService) {
     $scope._name = CONTROLLER_NAME;
     $scope.servers = storedDataService.serversList;
+    $scope.lastServerUpdateData = storedDataService.getLastServerData();
 
     helperService.$scope.setTitle('Army rank application');
 
@@ -863,6 +864,11 @@ window.storedDates = [
       }
 
       return helperService.$q.likeHttp($$q.promise);
+    };
+
+    //Retrieves what is the last server data
+    $this.getLastServerData = function() {
+      return getLastDate();
     };
 
 

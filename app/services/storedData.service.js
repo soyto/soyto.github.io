@@ -163,6 +163,11 @@
       return helperService.$q.likeHttp($$q.promise);
     };
 
+    //Retrieves what is the last server data
+    $this.getLastServerData = function() {
+      return getLastDate();
+    };
+
 
     function getLastDate() {
       return $this.storedDates[$this.storedDates.length - 1];
