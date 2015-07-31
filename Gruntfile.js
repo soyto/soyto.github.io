@@ -12,6 +12,7 @@ module.exports = function(grunt) {
   var request = require('request');
   var semver = require('semver');
   var sh = require('shelljs');
+  var colors = require('colors');
 
   /* CONSTANTS
    * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -227,7 +228,7 @@ module.exports = function(grunt) {
     grunt.file.expand('data/*/*').forEach(function(fileName){
 
       //If is a character file dont do nothing
-      if(fileName.indexOf('Character') >= 0) {
+      if(fileName.indexOf('Character') >= 0 ||fileName.indexOf('ServersData') >= 0) {
         return;
       }
 
@@ -440,11 +441,36 @@ module.exports = function(grunt) {
   grunt.registerTask('set-up-folders-dates-file', function(){
 
     var dates = grunt.file.expand('data/*/').select(function(folderName){
-      if(folderName.indexOf('Characters') >= 0) { return null; }
+      if(folderName.indexOf('Characters') >= 0 && folderName.indexOf('ServersData') >= 0) { return null; }
       return folderName.split('/')[1];
     }).where(function(folderName){ return folderName != null; });
 
     grunt.file.write('app/helpers/folders.dates.js', 'window.storedDates = ' + JSON.stringify(dates, null, ' ').replace(/"/g, '\'') + ';');
+  });
+
+  //Will create server files
+  grunt.registerTask('create-server-files', function(){
+
+    var folders = grunt.file.expand('data/*').where(function(folder) {
+      return folder.indexOf('Characters') < 0 && folder.indexOf('ServersData') < 0;
+    });
+
+    folders.forEach(function(folderName) {
+
+      var date = folderName.split('/')[1];
+      var fileData = {
+      };
+
+      grunt.file.expand(folderName + '/*').forEach(function(serverFile) {
+        grunt.log.ok('Reading: ' + serverFile.cyan);
+        var serverName = serverFile.split('/')[2].split('.')[0];
+
+        fileData[serverName] = grunt.file.readJSON(serverFile);
+      });
+
+      grunt.log.ok('Writing contents of %s', colors.cyan(date));
+      grunt.file.write('data/ServersData/' + date + '.js', JSON.stringify(fileData, null, ' '));
+    });
   });
 
   /* HELPER FUNCTIONS
