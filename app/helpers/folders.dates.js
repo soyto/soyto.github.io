@@ -22,6 +22,6 @@ window.storedDates = [
  '07-29-2015',
  '07-30-2015',
  '07-31-2015',
- 'Characters',
- 'ServersData'
+ '08-01-2015',
+ 'Characters'
 ];
