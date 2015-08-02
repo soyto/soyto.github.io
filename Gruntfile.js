@@ -441,7 +441,7 @@ module.exports = function(grunt) {
   grunt.registerTask('set-up-folders-dates-file', function(){
 
     var dates = grunt.file.expand('data/*/').select(function(folderName){
-      if(folderName.indexOf('Characters') >= 0 && folderName.indexOf('ServersData') >= 0) { return null; }
+      if(folderName.indexOf('Characters') >= 0) { return null; }
       return folderName.split('/')[1];
     }).where(function(folderName){ return folderName != null; });
 
