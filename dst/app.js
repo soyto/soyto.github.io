@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.4.11)
+ * Soyto.github.io (0.4.12)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -38,7 +38,8 @@ window.storedDates = [
  '07-31-2015',
  '08-01-2015',
  '08-02-2015',
- '08-03-2015'
+ '08-03-2015',
+ '08-04-2015'
 ];
 
 (function(ng, navigator){
