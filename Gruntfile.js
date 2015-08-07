@@ -522,13 +522,14 @@ module.exports = function(grunt) {
       headers: {
         'user-agent': USER_AGENT,
         'cookie': cookie,
+        'X-Requested-With': 'XMLHttpRequest'
       },
       json: data
     },
       function(error, response, body){
 
       if(!error && typeof(body) == 'string') {
-        //console.log(body);
+        console.log(body);
         error = {
           code: 'BADFORMAT'
         };
@@ -573,18 +574,22 @@ module.exports = function(grunt) {
 
     var elyosData = {
       characterClassID: ['1', '2',  '4', '5', '7', '8', '10', '11' , '13', '14' , '16'],
-      language: ['de', 'fr', 'en', 'tr', 'it', 'es', 'pl'],
+      //language: ['de', 'fr', 'en', 'tr', 'it', 'es', 'pl'],
       raceID: ['0'],
       serverID: [serverId],
-      soldierRankID: null
+      soldierRankID: null,
+      sortBy: 'POSITION',
+      order: 'ASC'
     };
 
     var asmodianData = {
       characterClassID: ['1', '2',  '4', '5', '7', '8', '10', '11' , '13', '14' , '16'],
-      language: ['de', 'fr', 'en', 'tr', 'it', 'es', 'pl'],
+      //language: ['de', 'fr', 'en', 'tr', 'it', 'es', 'pl'],
       raceID: ['1'],
       serverID: [serverId],
-      soldierRankID: null
+      soldierRankID: null,
+      sortBy: 'POSITION',
+      order: 'ASC'
     };
 
     var elyosDataExtractedFn = function(resultData){
