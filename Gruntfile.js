@@ -55,8 +55,8 @@ module.exports = function(grunt) {
   ];
 
   //Your website login and password
-  var USER_LOGIN = '**********';
-  var USER_PASSWORD = '************';
+  var USER_LOGIN = '*****************';
+  var USER_PASSWORD = '**************';
 
   var USER_AGENT = 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36';
   var BASE_FOLDER = 'data/';
@@ -519,6 +519,7 @@ module.exports = function(grunt) {
     request({
       method: 'POST',
       uri: 'https://en.aion.gameforge.com/website/resources/pubajax/ranking/honorpoints/paging/' + pageNum + '/',
+	  timeout: 10000,
       headers: {
         'user-agent': USER_AGENT,
         'cookie': cookie,
@@ -538,6 +539,7 @@ module.exports = function(grunt) {
       if(error) {
 
         if(error.code == 'ETIMEDOUT') {
+		  console.log('[%s:%s] ---- %s', strServerName, strPageNum, colors.yellow('TIMEOUT'));
           retrievePage(serverName, pageNum, data, cookie).then($$q.resolve);
 
         } else if(error.code == 'BADFORMAT') {
@@ -550,7 +552,7 @@ module.exports = function(grunt) {
         }
       } else {
 
-        console.log('[%s:%s-%s] >>>> Downloaded', strServerName, strPageNum, strRace);
+        console.log('[%s:%s-%s] >>>> Downloaded %s characters', strServerName, strPageNum, strRace, colors.green(body.entries.length));
 
         $$q.resolve(body);
       }
