@@ -55,8 +55,8 @@ module.exports = function(grunt) {
   ];
 
   //Your website login and password
-  var USER_LOGIN = '*****************';
-  var USER_PASSWORD = '**************';
+  var USER_LOGIN = '*******';
+  var USER_PASSWORD = '********'
 
   var USER_AGENT = 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36';
   var BASE_FOLDER = 'data/';
@@ -670,8 +670,12 @@ module.exports = function(grunt) {
         password: password,
       }
     }, function(error, response, body){
-      //grunt.file.write('login.html', body);
-      $$q.resolve(response['headers']['set-cookie'][0].split(';')[0]);
+		
+	  if(response['headers']['set-cookie']) {
+	    $$q.resolve(response['headers']['set-cookie'][0].split(';')[0]);
+	  } else {
+	    $$q.reject('Coulnd\'t login');
+	  }
     });
 
 
