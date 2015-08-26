@@ -2,6 +2,10 @@
 
 List with all servers ranks
 
+## INFO
+
+ All data shown is truncated, you can look the whole data on https://onedrive.live.com/redir?resid=A6F68B73AE6BAE48!106&authkey=!AFGSFbCYU9lEuSw&ithint=folder%2c
+
 ## Troubles known
 
 ### 08-26-2015

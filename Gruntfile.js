@@ -392,7 +392,7 @@ module.exports = function(grunt) {
     var cmd ='';
 
     if(msg) {
-      cmd = 'git commit -a -m "(' + msg + ') (' + grunt.config('pkg.version') + ')"';
+      cmd = 'git commit -a  -v -m "(' + msg + ') (' + grunt.config('pkg.version') + ')"';
     } else {
       cmd = 'git commit -a -m "Canges for version: ' + grunt.config('pkg.version') + '"';
     }
@@ -424,7 +424,7 @@ module.exports = function(grunt) {
 
     grunt.task.run(['compile', 'version:patch', 'git-commit', 'git-push']);
   });
-  
+
   //Publish the application as minor
   grunt.registerTask('publish-minor', function(){
 
@@ -670,7 +670,7 @@ module.exports = function(grunt) {
         password: password,
       }
     }, function(error, response, body){
-		
+
 	  if(response['headers']['set-cookie']) {
 	    $$q.resolve(response['headers']['set-cookie'][0].split(';')[0]);
 	  } else {
