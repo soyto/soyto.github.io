@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.4.44)
+ * Soyto.github.io (0.4.45)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -221,10 +221,11 @@ window.storedDates = [
     $scope.servers = storedDataService.serversList;
     $scope.lastServerUpdateData = storedDataService.getLastServerData();
 
-    helperService.$scope.setTitle('Army rank application');
+    helperService.$scope.setTitle('Soyto.github.io');
 
   }
 })(angular);
+
 
 (function(ng){
   'use strict';

@@ -13,7 +13,7 @@
     $scope.servers = storedDataService.serversList;
     $scope.lastServerUpdateData = storedDataService.getLastServerData();
 
-    helperService.$scope.setTitle('Army rank application');
+    helperService.$scope.setTitle('Soyto.github.io');
 
   }
 })(angular);
