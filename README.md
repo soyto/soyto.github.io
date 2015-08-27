@@ -8,7 +8,7 @@ List with all servers ranks
 
 ## Troubles known
 
-### 08-26-2015
+### 08-25-2015
 - Gameforge didn't updated their website, that's why i couldn't update web application.
 
 ## TODO list
