@@ -424,6 +424,18 @@ module.exports = function(grunt) {
 
     grunt.task.run(['compile', 'version:patch', 'git-commit', 'git-push']);
   });
+  
+  //Publish the application without increase nothing
+  grunt.registerTask('publish', function(){
+
+    var msg = grunt.option('message');
+
+    if(msg) {
+      grunt.config('git.commit.message', msg);
+    }
+
+    grunt.task.run(['compile', 'git-commit', 'git-push']);
+  });
 
   //Publish the application as minor
   grunt.registerTask('publish-minor', function(){
