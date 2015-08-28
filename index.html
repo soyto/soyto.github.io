@@ -19,7 +19,9 @@
   <!-- font-awesome -->
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" type='text/css' media='all' />
   <!-- Angular loading bar -->
-  <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.7.1/loading-bar.min.css' type='text/css' media='all' />
+  <link rel="stylesheet" href='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.7.1/loading-bar.min.css' type='text/css' media='all' />
+  <!-- Angular-chart -->
+  <link rel="stylesheet" href="lib/bower/angular-chart.js/dist/angular-chart.css" type='text/css' media='all' />
   <!-- Site -->
   <link rel="stylesheet" href="css/styles.css" type="text/css" media="all" />
 
@@ -39,7 +41,7 @@
 
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li class="active"><a href="#/">Home</a></li>
+          <li ng-class="{active: navMenu == 'home'}"><a href="#/">Home</a></li>
           <li>
             <a class="dropdown-toggle" data-toggle="dropdown">External links</a>
             <ul class="dropdown-menu">
@@ -88,10 +90,27 @@
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-route.min.js"></script>
 
   <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.8.0/loading-bar.min.js'></script>
+  <script type="text/javascript" src="lib/bower/Chart.js/Chart.min.js"></script>
+  <script type="text/javascript" src="lib/bower/angular-chart.js/dist/angular-chart.min.js"></script>
   <script type="text/javascript" src="lib/javascript.extensions.js"></script>
 
   <!-- Release -->
-  <script type="text/javascript" src="dst/app.min.js"></script>
+  <!-- <script type="text/javascript" src="dst/app.min.js"></script> -->
+
+  <!-- Debug purpose only -->
+  <script type='text/javascript' src="app/helpers/folders.dates.js"></script>
+
+  <script type='text/javascript' src="app/app.js"></script>
+
+  <script type='text/javascript' src="app/controllers/characterInfo.controller.js"></script>
+  <script type='text/javascript' src="app/controllers/characterInfo.mobile.controller.js"></script>
+  <script type='text/javascript' src="app/controllers/index.controller.js"></script>
+  <script type='text/javascript' src="app/controllers/ranking.list.controller.js"></script>
+  <script type='text/javascript' src="app/controllers/ranking.list.mobile.controller.js"></script>
+  <script type='text/javascript' src="app/controllers/root.controller.js"></script>
+
+  <script type='text/javascript' src="app/services/helper.service.js"></script>
+  <script type='text/javascript' src="app/services/storedData.service.js"></script>
 
 
   <!-- GA config -->

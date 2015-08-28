@@ -3,7 +3,8 @@
 
   ng.module('mainApp',[
     'ngRoute',
-    'angular-loading-bar'
+    'angular-loading-bar',
+    'chart.js'
   ]);
 
   ng.module('mainApp').config(['$routeProvider', configRoutes]);

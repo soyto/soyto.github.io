@@ -92,6 +92,7 @@
     function _init() {
 
       helperService.$scope.setTitle(serverData.serverName + ' -> ' + serverData.date);
+      helperService.$scope.setNav('ranking.list');
 
       $scope.pagination = {
         elyos: {
