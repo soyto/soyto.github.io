@@ -14,6 +14,5 @@
     $scope.lastServerUpdateData = storedDataService.getLastServerData();
 
     helperService.$scope.setTitle('Soyto.github.io');
-
   }
 })(angular);

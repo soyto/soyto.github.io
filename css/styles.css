@@ -11,13 +11,22 @@ author: bootply.com
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400);
 body{ background-color:#e0e0e0; -webkit-font-smoothing: antialiased; font: normal 14px Roboto,arial,sans-serif; }
-.navbar-default {background-color:#f4f4f4;margin-top:50px;border-width:0;z-index:5;}
-.navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > li:hover > a {border:0 solid #4285f4;border-bottom-width:2px;font-weight:800;background-color:transparent;}
-.navbar-default .dropdown-menu {background-color:#ffffff;}
-.navbar-default .dropdown-menu li > a {padding-left:30px;}
 
-.header {background-color:#ffffff;border-width:0;}
-.header .navbar-collapse {background-color:#ffffff;}
+/* Header */
+#header {
+  background-color:#f4f4f4;
+  border-width:0;
+}
+#header .navbar-collapse {background-color:#f4f4f4;}
+#header .navbar-nav > .active > a,
+#header .navbar-nav > li:hover > a,
+#header .navbar-nav > li.open > a {
+  border:0 solid #4285f4;
+  border-bottom-width:2px;
+  font-weight:800;
+  background-color:transparent;
+}
+
 .btn,.form-control,.panel,.list-group,.well {border-radius:1px;box-shadow:0 0 0;}
 .form-control {border-color:#d7d7d7;}
 .btn-primary {border-color:transparent;}
@@ -56,7 +65,9 @@ textarea { resize: none; outline: 0; }
 .list-group-item:first-child,.list-group-item:last-child {
  border-radius:0;
 }
-h3,h4,h5 {
+.panel-heading h3,
+.panel-heading h4,
+.panel-heading h5 {
  border:0 solid #efefef;
  border-bottom-width:1px;
  padding-bottom:10px;
