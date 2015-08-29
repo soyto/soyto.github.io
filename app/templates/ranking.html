@@ -1,7 +1,7 @@
 <ol class="breadcrumb">
   <li><a href="#/">Home</a></li>
   <li><a ng-href="#/ranking/{{serverData.serverName}}">{{serverData.serverName}}</a></li>
-  <li><a ng-href="#/rankging/{{serverData.serverName}}/{{serverData.date}}">{{serverData.date}}</a></li>
+  <li><a ng-href="#/ranking/{{serverData.serverName}}/{{serverData.date}}">{{serverData.date}}</a></li>
 </ol>
 
 <div class="row">
@@ -9,8 +9,7 @@
     <div class="panel">
       <div class="panel-heading"><h4>{{serverData.serverName}} <small>{{serverData.date}}</small></h4></div>
       <div class="panel-body" style="max-height: 200px">
-        <canvas id="line"
-        class="chart chart-line" data="chart.data" labels="chart.labels" legend="true" series="chart.series" options="chart.options" >
+        <canvas id="line" class="chart chart-line" data="chart.data" labels="chart.labels" legend="true" series="chart.series" options="chart.options" >
         </canvas>
       </div>
     </div>

@@ -41,7 +41,8 @@ window.storedDates = [
  '08-27-2015'
 ];
 
-(function(ng, navigator){
+/* global moment */
+(function(ng, navigator, moment){
   'use strict';
 
   ng.module('mainApp',[
@@ -50,6 +51,7 @@ window.storedDates = [
     'chart.js'
   ]);
 
+  ng.module('mainApp').constant('$moment', moment);
   ng.module('mainApp').config(['$routeProvider', configRoutes]);
   ng.module('mainApp').config(['cfpLoadingBarProvider', cfpLoadingBarFn]);
 
@@ -136,7 +138,7 @@ window.storedDates = [
     cfpLoadingBarProvider.includeBar  = true;
   }
 
-})(angular, navigator);
+})(angular, navigator, moment);
 
 
 (function(ng){
@@ -145,11 +147,11 @@ window.storedDates = [
   var CONTROLLER_NAME = 'mainApp.characterInfo.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', 'storedDataService', 'helperService', 'characterInfo', index_controller
+    '$scope', '$moment', 'storedDataService', 'helperService', 'characterInfo', index_controller
   ]);
 
 
-  function index_controller($scope, storedDataService, helperService, characterInfo) {
+  function index_controller($scope, $moment, storedDataService, helperService, characterInfo) {
     $scope._name = CONTROLLER_NAME;
 
     helperService.$scope.setTitle(characterInfo.serverName + ' -> ' + characterInfo.data.names[characterInfo.data.names.length - 1].characterName);
@@ -159,7 +161,7 @@ window.storedDates = [
     $scope.serverName = characterInfo.serverName;
     $scope.character = characterInfo.data;
 
-    $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyo';
+    $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
     $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
     $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
 
@@ -171,8 +173,23 @@ window.storedDates = [
       status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
     });
 
+    $scope.chart = {};
+
+    $scope.chart.options = {};
+    $scope.chart.labels = [];
+    $scope.chart.series = [characterInfo.data.characterName];
+    $scope.chart.data = [[]];
+
+    ng.copy($scope.character.status)
+      .sort(function(a, b){ return a.date > b.date ? 1 : -1; })
+      .forEach(function(status){
+      $scope.chart.labels.push($moment(status.date).format('MM-DD-YYYY'));
+      $scope.chart.data[0].push(status.gloryPoint);
+    });
+
   }
 })(angular);
+
 
 (function(ng){
   'use strict';
