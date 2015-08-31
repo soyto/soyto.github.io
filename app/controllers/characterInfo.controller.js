@@ -32,7 +32,9 @@
 
     $scope.chart = {};
 
-    $scope.chart.options = {};
+    $scope.chart.options = {
+      pointHitDetectionRadius : 4
+    };
     $scope.chart.labels = [];
     $scope.chart.series = [characterInfo.data.characterName];
     $scope.chart.data = [[]];
