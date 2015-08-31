@@ -477,6 +477,8 @@ window.storedDates = [
 
     $scope._name = CONTROLLER_NAME;
 
+    $scope.filteredData = false;
+
     $scope.page = {};
     $scope.page.elyos = {};
     $scope.page.asmodians = {};
@@ -645,6 +647,7 @@ window.storedDates = [
       if(!classToFilter && !textToSearch && !rankToFilter) {
         $scope.elyosData = paginateElyos(serverData.data.elyos.select(_initCharacter));
         $scope.asmodianData = paginateAsmodians(serverData.data.asmodians.select(_initCharacter));
+        $scope.filteredData = false;
         return;
       }
 
@@ -694,6 +697,7 @@ window.storedDates = [
           meetsRank = character.soldierRankID == rankToFilter.id;
         }
 
+        $scope.filteredData = true;
         return meetsTxt && meetsClass && meetsRank;
       }
     }

@@ -52,8 +52,12 @@
     <div class="panel">
       <div class="panel-heading">
         <ul class="nav nav-tabs" data-ng-init="showing='elyos'">
-            <li role="presentation" data-ng-class="{active: showing=='elyos'}"><a ng-click="showing='elyos'">Elyos</a></li>
-            <li role="presentation" data-ng-class="{active: showing=='asmodians'}"><a ng-click="showing='asmodians'">Asmodians</a></li>
+            <li role="presentation" data-ng-class="{active: showing=='elyos'}">
+              <a ng-click="showing='elyos'">Elyos <span ng-show="filteredData">({{elyosData.length}})</span></a>
+            </li>
+            <li role="presentation" data-ng-class="{active: showing=='asmodians'}">
+              <a ng-click="showing='asmodians'">Asmodians <span ng-show="filteredData">({{asmodianData.length}})</span></a>
+            </li>
         </ul>
       </div>
       <div class="panel-body">
