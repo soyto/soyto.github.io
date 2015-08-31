@@ -46,8 +46,6 @@
       $scope.asmodianData = serverData.data.asmodians.select(_initCharacter);
 
       $scope.textSearch = '';
-      $scope.selectedClass = '';
-
 
       $scope.versusData = initialVersusData = _generateVersusData(serverData);
 
@@ -122,7 +120,7 @@
         }
         else if(character) {
 
-          var charName = character.charName ? character.characterName.toLowerCase() : '';
+          var charName = character.characterName ? character.characterName.toLowerCase() : '';
           var guildName = character.guildName ? character.guildName.toLowerCase() : '';
           var characterClassName = storedDataService.getCharacterClass(character.characterClassID).name.toLowerCase();
           var characterRankName = storedDataService.getCharacterRank(character.soldierRankID).name.toLowerCase();
