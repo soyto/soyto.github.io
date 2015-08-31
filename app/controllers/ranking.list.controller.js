@@ -187,6 +187,7 @@
       $scope.chart.labels = [];
       $scope.chart.series = ['Elyos', 'Asmodians'];
       $scope.chart.data = [[],[]];
+      $scope.chart.colors = ['#DD66DD', '#97BBCD'];
 
       for(var i = 0; i <= num_elements; i++) {
         var position = 1000 - i * step;
