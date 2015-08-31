@@ -75,7 +75,9 @@ module.exports = function(grunt) {
     'app/controllers/root.controller.js',
 
     'app/services/helper.service.js',
-    'app/services/storedData.service.js'
+    'app/services/storedData.service.js',
+
+    'app/directives/facebookCommentBox.directive.js'
   ];
 
   var CONCAT_DEST = 'dst/app.js';
@@ -424,7 +426,7 @@ module.exports = function(grunt) {
 
     grunt.task.run(['compile', 'version:patch', 'git-commit', 'git-push']);
   });
-  
+
   //Publish the application without increase nothing
   grunt.registerTask('publish', function(){
 
