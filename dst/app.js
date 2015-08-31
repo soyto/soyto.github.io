@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.4.47)
+ * Soyto.github.io (0.5.0)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -178,7 +178,9 @@ window.storedDates = [
 
     $scope.chart = {};
 
-    $scope.chart.options = {};
+    $scope.chart.options = {
+      pointHitDetectionRadius : 4
+    };
     $scope.chart.labels = [];
     $scope.chart.series = [characterInfo.data.characterName];
     $scope.chart.data = [[]];
