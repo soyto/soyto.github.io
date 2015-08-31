@@ -1,19 +1,28 @@
+<ol class="breadcrumb">
+  <li><a href="#/">Home</a></li>
+</ol>
+
 <div class="row">
-  <h1>Welcome to abyss rank application</h1>
-  <h2>Last update: {{ lastServerUpdateData }}</h2>
 
-  <p>Please pick your server from the following list</p>
+  <div class="col-md-6 col-sm-6">
 
-  <div class="row">
-    <div class="col-lg-offset-4 col-lg-4">
+    <div class="well">
+      <h4>Last update: <b>{{ lastServerUpdateData }}</b></h4>
+    </div><!-- /.well -->
 
-
-      <div class="list-group">
-        <a ng-repeat="server in servers" class="list-group-item" ng-href="#/ranking/{{server.name}}">{{server.name}}</a>
-      </div>
-
-    </div>
   </div>
 
-</div><!-- /.jumbotron -->
+  <div class="col-md-6 col-sm-6">
 
+    <div class="panel panel-default">
+      <div class="panel-heading"><h4>Servers</h4></div>
+      <div class="panel-body">
+        <div class="list-group">
+          <a ng-repeat="server in servers" class="list-group-item" ng-href="#/ranking/{{server.name}}">{{server.name}}</a>
+        </div>
+      </div>
+    </div><!-- /.panel -->
+
+  </div>
+
+</div><!-- /.row -->
