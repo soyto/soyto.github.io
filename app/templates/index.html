@@ -10,16 +10,29 @@
       <h4>Last update: <b>{{ lastServerUpdateData }}</b></h4>
     </div><!-- /.well -->
 
-  </div>
-
-  <div class="col-md-6 col-sm-6">
-
     <div class="panel panel-default">
       <div class="panel-heading"><h4>Servers</h4></div>
       <div class="panel-body">
         <div class="list-group">
           <a ng-repeat="server in servers" class="list-group-item" ng-href="#/ranking/{{server.name}}">{{server.name}}</a>
         </div>
+      </div>
+    </div><!-- /.panel -->
+
+  </div>
+
+  <div class="col-md-6 col-sm-6">
+
+    <div class="panel panel-default" ng-repeat="post in posts">
+      <div class="panel-heading">
+        <h3 class="text-center">{{post.title}}</h3>
+      </div>
+      <div class="panel-body panel-post">
+        <div class="post-date"><small class="pull-right">{{post.date | date: 'MM-dd-yyyy HH:mm'}}</small></div>
+        <div ng-bind-html="post.htmlContent"></div>
+      </div>
+
+
       </div>
     </div><!-- /.panel -->
 

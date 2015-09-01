@@ -3,10 +3,7 @@ module.exports = function(grunt) {
 
   require('./lib/javascript.extensions.js');
   require('load-grunt-tasks')(grunt);
-
-  grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-contrib-connect');
-  grunt.loadNpmTasks('grunt-contrib-clean');
+  require('./nodeApp/blog.tasks.js')(grunt);
 
   var $q = require('q');
   var request = require('request');

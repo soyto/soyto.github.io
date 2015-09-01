@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.5.4)
+ * Soyto.github.io (0.5.5)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -41,20 +41,23 @@ window.storedDates = [
  '08-27-2015',
  '08-28-2015',
  '08-29-2015',
- '08-30-2015'
+ '08-30-2015',
+ 'Posts'
 ];
 
-/* global moment */
-(function(ng, navigator, moment){
+/* global moment, marked */
+(function(ng, navigator, moment, marked){
   'use strict';
 
   ng.module('mainApp',[
     'ngRoute',
+    'ngSanitize',
     'angular-loading-bar',
     'chart.js'
   ]);
 
   ng.module('mainApp').constant('$moment', moment);
+  ng.module('mainApp').constant('$marked', marked);
   ng.module('mainApp').config(['$routeProvider', configRoutes]);
   ng.module('mainApp').config(['cfpLoadingBarProvider', cfpLoadingBarFn]);
 
@@ -67,7 +70,12 @@ window.storedDates = [
     //Index route
     var indexRouteData = {
       templateUrl: '/app/templates/index.html',
-      controller: 'mainApp.index.controller'
+      controller: 'mainApp.index.controller',
+      resolve: {
+        posts: ['helperService', 'blogService', function(helperService, blogService){
+          return helperService.$q.likeNormal(blogService.getAll());
+        }]
+      }
     };
     $routeProvider.when('/', indexRouteData);
 
@@ -141,7 +149,7 @@ window.storedDates = [
     cfpLoadingBarProvider.includeBar  = true;
   }
 
-})(angular, navigator, moment);
+})(angular, navigator, moment, marked);
 
 
 (function(ng){
@@ -237,14 +245,20 @@ window.storedDates = [
   var CONTROLLER_NAME = 'mainApp.index.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', 'helperService', 'storedDataService', index_controller
+    '$scope', '$marked', 'helperService', 'storedDataService', 'posts', index_controller
   ]);
 
 
-  function index_controller($scope, helperService, storedDataService) {
+  function index_controller($scope, $marked, helperService, storedDataService, posts) {
     $scope._name = CONTROLLER_NAME;
+
     $scope.servers = storedDataService.serversList;
     $scope.lastServerUpdateData = storedDataService.getLastServerData();
+    $scope.posts = posts.select(function(post){
+      post.htmlContent = $marked(post.content);
+      return post;
+    });
+
 
     helperService.$scope.setTitle('Soyto.github.io');
     helperService.$scope.setNav('home');

@@ -1,14 +1,16 @@
-/* global moment */
-(function(ng, navigator, moment){
+/* global moment, marked */
+(function(ng, navigator, moment, marked){
   'use strict';
 
   ng.module('mainApp',[
     'ngRoute',
+    'ngSanitize',
     'angular-loading-bar',
     'chart.js'
   ]);
 
   ng.module('mainApp').constant('$moment', moment);
+  ng.module('mainApp').constant('$marked', marked);
   ng.module('mainApp').config(['$routeProvider', configRoutes]);
   ng.module('mainApp').config(['cfpLoadingBarProvider', cfpLoadingBarFn]);
 
@@ -21,7 +23,12 @@
     //Index route
     var indexRouteData = {
       templateUrl: '/app/templates/index.html',
-      controller: 'mainApp.index.controller'
+      controller: 'mainApp.index.controller',
+      resolve: {
+        posts: ['helperService', 'blogService', function(helperService, blogService){
+          return helperService.$q.likeNormal(blogService.getAll());
+        }]
+      }
     };
     $routeProvider.when('/', indexRouteData);
 
@@ -95,4 +102,4 @@
     cfpLoadingBarProvider.includeBar  = true;
   }
 
-})(angular, navigator, moment);
+})(angular, navigator, moment, marked);
