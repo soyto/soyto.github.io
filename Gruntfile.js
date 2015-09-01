@@ -453,6 +453,7 @@ module.exports = function(grunt) {
 
     var dates = grunt.file.expand('data/*/').select(function(folderName){
       if(folderName.indexOf('Characters') >= 0) { return null; }
+      if(folderName.indexOf('Posts') >= 0) { return null; }
       return folderName.split('/')[1];
     }).where(function(folderName){ return folderName != null; });
 
