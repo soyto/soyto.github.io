@@ -3,10 +3,7 @@ module.exports = function(grunt) {
 
   require('./lib/javascript.extensions.js');
   require('load-grunt-tasks')(grunt);
-
-  grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-contrib-connect');
-  grunt.loadNpmTasks('grunt-contrib-clean');
+  require('./nodeApp/blog.tasks.js')(grunt);
 
   var $q = require('q');
   var request = require('request');
@@ -75,7 +72,9 @@ module.exports = function(grunt) {
     'app/controllers/root.controller.js',
 
     'app/services/helper.service.js',
-    'app/services/storedData.service.js'
+    'app/services/storedData.service.js',
+
+    'app/directives/facebookCommentBox.directive.js'
   ];
 
   var CONCAT_DEST = 'dst/app.js';
@@ -424,7 +423,7 @@ module.exports = function(grunt) {
 
     grunt.task.run(['compile', 'version:patch', 'git-commit', 'git-push']);
   });
-  
+
   //Publish the application without increase nothing
   grunt.registerTask('publish', function(){
 
@@ -454,6 +453,7 @@ module.exports = function(grunt) {
 
     var dates = grunt.file.expand('data/*/').select(function(folderName){
       if(folderName.indexOf('Characters') >= 0) { return null; }
+      if(folderName.indexOf('Posts') >= 0) { return null; }
       return folderName.split('/')[1];
     }).where(function(folderName){ return folderName != null; });
 

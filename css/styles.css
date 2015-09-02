@@ -86,6 +86,11 @@ textarea { resize: none; outline: 0; }
 }
 /* end theme */
 
+.panel-post > .post-date {
+  position:relative;
+  bottom:25px;
+}
+
 /* template layout*/
 #subnav {
  position:fixed;

@@ -25,8 +25,30 @@
   <!-- Site -->
   <link rel="stylesheet" href="css/styles.css" type="text/css" media="all" />
 
+  <!-- Facebook -->
+  <meta property="fb:app_id" content="883135418439345" />
+
 </head>
 <body>
+
+  <!-- Facebook app -->
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '883135418439345',
+        xfbml      : true,
+        version    : 'v2.4'
+      });
+    };
+
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = "//connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+  </script>
 
   <!-- Header -->
   <nav class="navbar navbar-fixed-top" id="header">
@@ -76,22 +98,36 @@
     <footer class="footer">
       <hr>
       <div class="col-md-12 text-center">
-        <p>&copy; Nobody was working on here at 1999 </p>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+          ">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/es_ES/i/scr/pixel.gif" width="1" height="1">
+        </form>
+        <p>&copy; <a href="mailto:ranking.soyto@hotmail.com">Vicente Manuel Aleixos Bellido</a> (But nobody was working on this on 1999) </p>
       </div>
       <hr>
     </footer>
 
   </div><!-- ./container -->
 
+  <!-- Global CDN dependencies -->
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
 
+  <!-- Global local dependencies -->
+  <script type="text/javascript" src="lib/bower/Chart.js/Chart.min.js"></script>
+  <script type="text/javascript" src="lib/bower/marked/marked.min.js"></script>
+
+  <!-- Angualr CDN dependencies -->
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-route.min.js"></script>
-
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-sanitize.min.js"></script>
   <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.8.0/loading-bar.min.js'></script>
-  <script type="text/javascript" src="lib/bower/Chart.js/Chart.min.js"></script>
+
+  <!-- Angular local dependencies -->
   <script type="text/javascript" src="lib/bower/angular-chart.js/dist/angular-chart.min.js"></script>
   <script type="text/javascript" src="lib/javascript.extensions.js"></script>
 
@@ -99,6 +135,7 @@
   <!-- <script type="text/javascript" src="dst/app.min.js"></script> -->
 
   <!-- Debug purpose only -->
+
   <script type='text/javascript' src="app/helpers/folders.dates.js"></script>
 
   <script type='text/javascript' src="app/app.js"></script>
@@ -110,8 +147,11 @@
   <script type='text/javascript' src="app/controllers/ranking.list.mobile.controller.js"></script>
   <script type='text/javascript' src="app/controllers/root.controller.js"></script>
 
+  <script type='text/javascript' src="app/services/blog.service.js"></script>
   <script type='text/javascript' src="app/services/helper.service.js"></script>
   <script type='text/javascript' src="app/services/storedData.service.js"></script>
+
+  <script type='text/javascript' src="app/directives/facebookCommentBox.directive.js"></script>
 
 
   <!-- GA config -->

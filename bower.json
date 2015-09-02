@@ -6,7 +6,8 @@
     "epicleptico <alfixos@gmail.com>"
   ],
   "dependencies": {
-    "angular-chart.js": "~0.7.6"
+    "angular-chart.js": "~0.7.6",
+    "marked": "~0.3.5"
   },
   "license": "MIT",
   "ignore": [
