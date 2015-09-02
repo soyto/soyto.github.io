@@ -1,93 +1,128 @@
 <!DOCTYPE html>
 <html lang="en" data-ng-app="mainApp" data-ng-controller="mainApp.main.controller">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="{{ title }}">
-    <meta name="author" content="Vicente Manuel Aleixos Bellido">
-    <link rel="icon" href="favicon.ico">
+  <meta name="description" content="{{ title }}">
+  <meta name="author" content="Vicente Manuel Aleixos Bellido">
+  <link rel="icon" href="favicon.ico">
 
-    <title ng-bind="title">Army rank application</title>
+  <!-- Title -->
+  <title ng-bind="title">soyto.github.io</title>
 
-    <base href="/" />
+  <base href="/" />
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.7.1/loading-bar.min.css' type='text/css' media='all' />
+  <!-- bootstrap -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" type='text/css' media='all' />
+  <!-- font-awesome -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" type='text/css' media='all' />
+  <!-- Angular loading bar -->
+  <link rel="stylesheet" href='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.7.1/loading-bar.min.css' type='text/css' media='all' />
+  <!-- Angular-chart -->
+  <link rel="stylesheet" href="lib/bower/angular-chart.js/dist/angular-chart.css" type='text/css' media='all' />
+  <!-- Site -->
+  <link rel="stylesheet" href="css/styles.css" type="text/css" media="all" />
 
+</head>
+<body>
 
-    <style>
-        #loading-bar .bar{height: 5px;}
-    </style>
-  </head>
-  <body>
+  <!-- Header -->
+  <nav class="navbar navbar-fixed-top" id="header">
+ 	  <div class="col-md-12">
 
-    <div class="container">
+      <div class="navbar-header">
+        <a href="#/" class="navbar-brand">Soyto.github.io</a>
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+          <i class="fa fa-bars"></i>
+        </button>
+      </div><!-- /.navbar-header -->
 
-      <div class="header clearfix">
-        <!-- Not needed atm
-          <nav>
-            <ul class="nav nav-pills pull-right">
-              <li role="presentation" class="active"><a href="#/">Home</a></li>
+      <div class="collapse navbar-collapse" id="navbar-collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li ng-class="{active: navMenu == 'home'}"><a href="#/">Home</a></li>
+          <li>
+            <a class="dropdown-toggle" data-toggle="dropdown">External links</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="https://github.com/soyto/soyto.github.io" target="_blank">
+                  <i class="fa fa-github-alt"></i> Project
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/soyto/soyto.github.io/issues" target="_blank">
+                  <i class="fa fa-warning"></i> Issues
+                </a>
+              </li>
+              <li>
+                <a href="http://board.en.aion.gameforge.com/board6-aion-the-community/board56-aion-fanbase/board135-user-projects/23519-soyto-ranking-tool/" target="_blank">
+                <i class="fa fa-paperclip"></i> Forum
+                </a>
+              </li>
             </ul>
-          </nav>
-        -->
-        <h3 class="text-muted">Army rank application <iframe src="https://ghbtns.com/github-btn.html?user=soyto&repo=soyto.github.io&type=star&count=true&size=small"
-                                                             frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-        </h3>
-      </div><!-- ./header -->
+          </li>
+        </ul>
+      </div><!-- /.collapse navbar-collapse -->
+
+    </div><!-- /.col-md-12 -->
+  </nav><!-- #header -->
 
 
-      <ng-view></ng-view>
 
+  <div class="container" id="main">
+    <ng-view></ng-view>
 
-      <footer class="footer">
+    <footer class="footer">
+      <hr>
+      <div class="col-md-12 text-center">
         <p>&copy; Nobody was working on here at 1999 </p>
-      </footer>
+      </div>
+      <hr>
+    </footer>
 
-    </div><!-- ./container -->
+  </div><!-- ./container -->
 
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
 
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-route.min.js"></script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-route.min.js"></script>
 
-    <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.8.0/loading-bar.min.js'></script>
-    <script type="text/javascript" src="lib/javascript.extensions.js"></script>
+  <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.8.0/loading-bar.min.js'></script>
+  <script type="text/javascript" src="lib/bower/Chart.js/Chart.min.js"></script>
+  <script type="text/javascript" src="lib/bower/angular-chart.js/dist/angular-chart.min.js"></script>
+  <script type="text/javascript" src="lib/javascript.extensions.js"></script>
 
-    <!-- DEBUG -->
+  <!-- Release -->
+  <!-- <script type="text/javascript" src="dst/app.min.js"></script> -->
 
-    <!--
-    <script type="text/javascript" src="app/helpers/folders.dates.js"></script>
-    <script type="text/javascript" src="app/app.js"></script>
-    <script type="text/javascript" src="app/controllers/characterInfo.controller.js"></script>
-    <script type="text/javascript" src="app/controllers/characterInfo.mobile.controller.js"></script>
-    <script type="text/javascript" src="app/controllers/index.controller.js"></script>
-    <script type="text/javascript" src="app/controllers/ranking.list.controller.js"></script>
-    <script type="text/javascript" src="app/controllers/ranking.list.mobile.controller.js"></script>
-    <script type="text/javascript" src="app/controllers/root.controller.js"></script>
-    <script type="text/javascript" src="app/services/helper.service.js"></script>
-    <script type="text/javascript" src="app/services/storedData.service.js"></script>
-    -->
+  <!-- Debug purpose only -->
+  <script type='text/javascript' src="app/helpers/folders.dates.js"></script>
 
-    <!-- Release -->
-    <script type="text/javascript" src="dst/app.min.js"></script>
+  <script type='text/javascript' src="app/app.js"></script>
 
+  <script type='text/javascript' src="app/controllers/characterInfo.controller.js"></script>
+  <script type='text/javascript' src="app/controllers/characterInfo.mobile.controller.js"></script>
+  <script type='text/javascript' src="app/controllers/index.controller.js"></script>
+  <script type='text/javascript' src="app/controllers/ranking.list.controller.js"></script>
+  <script type='text/javascript' src="app/controllers/ranking.list.mobile.controller.js"></script>
+  <script type='text/javascript' src="app/controllers/root.controller.js"></script>
+
+  <script type='text/javascript' src="app/services/helper.service.js"></script>
+  <script type='text/javascript' src="app/services/storedData.service.js"></script>
 
 
-    
-    <!-- GA config -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  <!-- GA config -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-65341862-1', 'auto');
-      ga('send', 'pageview');
-    </script>
-  </body>
+    ga('create', 'UA-65341862-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+</body>
 </html>

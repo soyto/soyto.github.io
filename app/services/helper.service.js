@@ -20,6 +20,11 @@
       $rootScope.title = value;
     };
 
+    $this.$scope.setNav = function(menu) {
+      $rootScope.navMenu = menu;
+    };
+
+
     $this.$q.fcall = function(fn) {
       var $$q = $q.defer();
 

@@ -1,11 +1,14 @@
-(function(ng, navigator){
+/* global moment */
+(function(ng, navigator, moment){
   'use strict';
 
   ng.module('mainApp',[
     'ngRoute',
-    'angular-loading-bar'
+    'angular-loading-bar',
+    'chart.js'
   ]);
 
+  ng.module('mainApp').constant('$moment', moment);
   ng.module('mainApp').config(['$routeProvider', configRoutes]);
   ng.module('mainApp').config(['cfpLoadingBarProvider', cfpLoadingBarFn]);
 
@@ -92,4 +95,4 @@
     cfpLoadingBarProvider.includeBar  = true;
   }
 
-})(angular, navigator);
+})(angular, navigator, moment);

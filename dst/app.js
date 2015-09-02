@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.4.47)
+ * Soyto.github.io (0.5.0)
  * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * 					Version 2, December 2004
  * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -39,17 +39,24 @@ window.storedDates = [
  '08-24-2015',
  '08-26-2015',
  '08-27-2015',
- '08-28-2015'
+ '08-28-2015',
+ '08-29-2015',
+ '08-30-2015',
+ '08-31-2015',
+ '09-02-2015'
 ];
 
-(function(ng, navigator){
+/* global moment */
+(function(ng, navigator, moment){
   'use strict';
 
   ng.module('mainApp',[
     'ngRoute',
-    'angular-loading-bar'
+    'angular-loading-bar',
+    'chart.js'
   ]);
 
+  ng.module('mainApp').constant('$moment', moment);
   ng.module('mainApp').config(['$routeProvider', configRoutes]);
   ng.module('mainApp').config(['cfpLoadingBarProvider', cfpLoadingBarFn]);
 
@@ -136,7 +143,8 @@ window.storedDates = [
     cfpLoadingBarProvider.includeBar  = true;
   }
 
-})(angular, navigator);
+})(angular, navigator, moment);
+
 
 (function(ng){
   'use strict';
@@ -144,11 +152,11 @@ window.storedDates = [
   var CONTROLLER_NAME = 'mainApp.characterInfo.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', 'storedDataService', 'helperService', 'characterInfo', index_controller
+    '$scope', '$moment', 'storedDataService', 'helperService', 'characterInfo', index_controller
   ]);
 
 
-  function index_controller($scope, storedDataService, helperService, characterInfo) {
+  function index_controller($scope, $moment, storedDataService, helperService, characterInfo) {
     $scope._name = CONTROLLER_NAME;
 
     helperService.$scope.setTitle(characterInfo.serverName + ' -> ' + characterInfo.data.names[characterInfo.data.names.length - 1].characterName);
@@ -158,7 +166,7 @@ window.storedDates = [
     $scope.serverName = characterInfo.serverName;
     $scope.character = characterInfo.data;
 
-    $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyo';
+    $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
     $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
     $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
 
@@ -170,8 +178,23 @@ window.storedDates = [
       status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
     });
 
+    $scope.chart = {};
+
+    $scope.chart.options = {};
+    $scope.chart.labels = [];
+    $scope.chart.series = [characterInfo.data.characterName];
+    $scope.chart.data = [[]];
+
+    ng.copy($scope.character.status)
+      .sort(function(a, b){ return a.date > b.date ? 1 : -1; })
+      .forEach(function(status){
+      $scope.chart.labels.push($moment(status.date).format('MM-DD-YYYY'));
+      $scope.chart.data[0].push(status.gloryPoint);
+    });
+
   }
 })(angular);
+
 
 (function(ng){
   'use strict';
@@ -223,10 +246,11 @@ window.storedDates = [
     $scope.servers = storedDataService.serversList;
     $scope.lastServerUpdateData = storedDataService.getLastServerData();
 
-    helperService.$scope.setTitle('Army rank application');
-
+    helperService.$scope.setTitle('Soyto.github.io');
+    helperService.$scope.setNav('home');
   }
 })(angular);
+
 
 (function(ng){
   'use strict';
@@ -234,25 +258,40 @@ window.storedDates = [
   var CONTROLLER_NAME = 'mainApp.ranking.list.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', '$location', '$timeout', 'helperService',  'storedDataService', 'serverData', index_controller
+    '$log', '$scope', '$location', '$timeout', 'helperService',  'storedDataService', 'serverData', index_controller
   ]);
 
-  function index_controller($scope, $location, $timeout, helperService, storedDataService, serverData) {
+  function index_controller($log, $scope, $location, $timeout, helperService, storedDataService, serverData) {
     $scope._name = CONTROLLER_NAME;
     var initialVersusData = [];
     var textSearch_timeoutPromise = null;
+
+    //Change server or date Fn
+    $scope.goTo = function(server, serverDate) {
+      //Same data and server, don't do nothing
+      if(server.name == serverData.serverName && serverDate == serverData.date) {
+        return;
+      }
+
+      $location.path('/ranking/' + server.name + '/' + serverDate);
+
+    };
 
     _init();
 
     function _init() {
 
       helperService.$scope.setTitle(serverData.serverName + ' -> ' + serverData.date);
+      helperService.$scope.setNav('ranking.list');
 
       $scope.serverData = serverData;
 
       $scope.storedDates = storedDataService.storedDates;
       $scope.servers = storedDataService.serversList;
       $scope.classes = storedDataService.characterClassIds.where(function(itm){ return itm.id; });
+      $scope.ranks = storedDataService.characterSoldierRankIds
+        .where(function(itm){ return itm.id >= 10; })
+        .sort(function(a, b){ return b.id - a.id; });
 
       $scope.searchDate = serverData.date;
       $scope.currentServer = storedDataService.serversList.first(function(server){ return server.name == serverData.serverName; });
@@ -261,83 +300,25 @@ window.storedDates = [
       $scope.asmodianData = serverData.data.asmodians.select(_initCharacter);
 
       $scope.textSearch = '';
-      $scope.selectedClass = '';
 
+      $scope.versusData = initialVersusData = _generateVersusData(serverData);
 
-      if(serverData.data.elyos.length > serverData.data.asmodians.length) {
+      //Generate data that will go to chart
+      _generateChartData(serverData);
 
-        serverData.data.elyos.forEach(function (elyosCharacter) {
-          var asmodianCharacter = serverData.data.asmodians.first(function(asmodian){ return asmodian.position == elyosCharacter.position; });
-
-          var elyo = _initCharacter(elyosCharacter);
-          var asmodian = _initCharacter(asmodianCharacter);
-
-          initialVersusData.push({
-            position: elyosCharacter.position,
-            rankName: elyosCharacter.soldierRank,
-            elyo: elyo,
-            asmodian: asmodian
-          });
-        });
-
-      } else if(serverData.data.elyos.length < serverData.data.asmodians.length) {
-
-        serverData.data.asmodians.forEach(function (asmodianCharacter) {
-          var elyosCharacter = serverData.data.elyos.first(function(elyos){ return elyos.position == asmodianCharacter.position; });
-
-          var elyo = _initCharacter(elyosCharacter);
-          var asmodian = _initCharacter(asmodianCharacter);
-
-          initialVersusData.push({
-            position: asmodianCharacter.position,
-            rankName: asmodianCharacter.soldierRank,
-            elyo: elyo,
-            asmodian: asmodian
-          });
-        });
-
-
-      } else if(serverData.data.elyos.length ==  serverData.data.asmodians.length) {
-        serverData.data.elyos.forEach(function (elyosCharacter, idx) {
-          var asmodianCharacter = serverData.data.asmodians.first(function(asmodian){ return asmodian.position == elyosCharacter.position; });
-
-          var elyo = _initCharacter(elyosCharacter);
-          var asmodian = _initCharacter(asmodianCharacter);
-
-          initialVersusData.push({
-            position: elyosCharacter.position,
-            rankName: elyosCharacter.soldierRank,
-            elyo: elyo,
-            asmodian: asmodian
-          });
-        });
-      }
-
-      $scope.versusData = initialVersusData;
-
-      //On date changed
-      $scope.$watch('searchDate', function(newValue){
-        if(newValue != serverData.date) {
-          $location.path('/ranking/' + serverData.serverName + '/' + newValue);
-        }
-      });
-
-      $scope.$watch('currentServer', function(newValue){
-        if(newValue.name != serverData.serverName) {
-          $location.path('/ranking/' + newValue.name + '/' + serverData.date);
-        }
-      });
-
-      $scope.$watch('selectedClass', function(newValue){
-        _performFilterAndSearch(newValue, $scope.textSearch);
-      });
       $scope.$watch('textSearch', function(newValue){
-        _performFilterAndSearch($scope.selectedClass, newValue);
+        _performFilterAndSearch(newValue, $scope.selectedClass, $scope.selectedRank);
+      });
+      $scope.$watch('selectedClass', function(newValue){
+        _performFilterAndSearch($scope.textSearch, newValue, $scope.selectedRank);
+      });
+      $scope.$watch('selectedRank', function(newValue){
+        _performFilterAndSearch($scope.textSearch, $scope.selectedClass, newValue);
       });
     }
 
     //Initializes a character
-    function _initCharacter(character){
+    function _initCharacter(character) {
       if(!character) {
         return {};
       }
@@ -348,40 +329,7 @@ window.storedDates = [
     }
 
     //Will perform filter and search :)
-    function _performFilterAndSearch(classToFilter, textToSearch) {
-
-      var filterByName = function(character, txt) {
-        return character.characterName && (character.characterName.toLowerCase().indexOf(textToSearch) >= 0 ||
-          (character.guildName && character.guildName.toLowerCase().indexOf(textToSearch) >= 0 ));
-      };
-
-      var filterByClass = function(character, classToFilter) {
-        return character.characterClassID == classToFilter.id;
-      };
-
-      var filterAndSearchFn = function(character, txt, classToFilter){
-        if(classToFilter && txt) {
-          return filterByClass(character, classToFilter) && filterByName(character, txt);
-        } else if(classToFilter) {
-          return filterByClass(character, classToFilter);
-        } else {
-          return filterByName(character, txt);
-        }
-      };
-
-      var filterAndSearchInVersus = function(pair, textToSearch, classToFilter) {
-
-        if(classToFilter && textToSearch) {
-          return (pair.elyo && filterByName(pair.elyo, textToSearch) && filterByClass(pair.elyo, classToFilter)) ||
-            (pair.asmodian && filterByName(pair.asmodian, textToSearch) && filterByClass(pair.asmodian, classToFilter));
-        } else if(classToFilter) {
-          return (pair.elyo && filterByClass(pair.elyo, classToFilter)) ||
-            (pair.asmodian && filterByClass(pair.asmodian, classToFilter));
-        } else {
-          return (pair.elyo && filterByName(pair.elyo, textToSearch)) ||
-            (pair.asmodian && filterByName(pair.asmodian, textToSearch));
-        }
-      };
+    function _performFilterAndSearch(textToSearch, classToFilter, rankToFilter) {
 
       if(textSearch_timeoutPromise) {
         $timeout.cancel(textSearch_timeoutPromise);
@@ -389,28 +337,137 @@ window.storedDates = [
 
       textSearch_timeoutPromise = $timeout(function() {
 
-        if (classToFilter || textToSearch) {
-          $scope.elyosData = serverData.data.elyos.where(function(character) {
-            return filterAndSearchFn(character, textToSearch, classToFilter);
-          }).select(_initCharacter);
-          $scope.asmodianData = serverData.data.asmodians.where(function(character) {
-            return filterAndSearchFn(character, textToSearch, classToFilter);
-          }).select(_initCharacter);
-
-          $scope.versusData = initialVersusData.where(filterAndSearchInVersus);
-
-        } else {
+        //If not filter is provided
+        if(!classToFilter && !textToSearch && !rankToFilter) {
           $scope.elyosData = serverData.data.elyos.select(_initCharacter);
           $scope.asmodianData = serverData.data.asmodians.select(_initCharacter);
           $scope.versusData = initialVersusData;
+          return;
         }
 
-      },500);
+        //Filter elyos data
+        $scope.elyosData = serverData.data.elyos.where(function(character) {
+          return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
+        }).select(_initCharacter);
 
+        //Filter asmodian data
+        $scope.asmodianData = serverData.data.asmodians.where(function(character) {
+          return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
+        }).select(_initCharacter);
+
+        //Filter versus data
+        $scope.versusData = initialVersusData.where(function(pair){
+          return filterCharacter(pair.elyo, textToSearch, classToFilter, rankToFilter) ||
+            filterCharacter(pair.asmodian, textToSearch, classToFilter, rankToFilter);
+        });
+
+      }, 500);
+
+      //Filters a character
+      function filterCharacter(character, txt, classToFilter, rankToFilter) {
+        var meetsTxt = false;
+        var meetsClass = false;
+        var meetsRank = false;
+
+        if(!txt) {
+          meetsTxt = true;
+        }
+        else if(character) {
+
+          var charName = character.characterName ? character.characterName.toLowerCase() : '';
+          var guildName = character.guildName ? character.guildName.toLowerCase() : '';
+          var characterClassName = storedDataService.getCharacterClass(character.characterClassID).name.toLowerCase();
+          var characterRankName = storedDataService.getCharacterRank(character.soldierRankID).name.toLowerCase();
+
+          meetsTxt = charName.indexOf(textToSearch) >= 0 ||
+            guildName.indexOf(textToSearch) >= 0 ||
+            characterClassName.indexOf(textToSearch) >= 0 ||
+            characterRankName.indexOf(textToSearch) >= 0;
+        }
+
+        if(!classToFilter) {
+          meetsClass = true;
+        }
+        else if(character)  {
+          meetsClass = character.characterClassID == classToFilter.id;
+        }
+
+        if(!rankToFilter) {
+          meetsRank = true;
+        }
+        else if(character) {
+          meetsRank = character.soldierRankID == rankToFilter.id;
+        }
+
+        return meetsTxt && meetsClass && meetsRank;
+      }
+    }
+
+    //Will generate versus data
+    function _generateVersusData(serverData) {
+      var versusData = [];
+
+      //Generate the data
+      for(var i = 0; i < 1000; i++) {
+        versusData.push({
+          position: i + 1,
+          elyo: {},
+          asmodian: {},
+        });
+      }
+
+
+      serverData.data.elyos.select(_initCharacter).forEach(function(character){
+        versusData[character.position - 1].elyo = character;
+      });
+      serverData.data.asmodians.select(_initCharacter).forEach(function(character){
+        versusData[character.position - 1].asmodian = character;
+      });
+
+      return versusData;
+    }
+
+    function _generateChartData(serverData) {
+
+      var num_elements = 10;
+      var step = 1000 / num_elements;
+
+      $scope.chart = {};
+      $scope.chart.options = {
+        responsive: true,
+        maintainAspectRatio: false
+      };
+
+      $scope.chart.labels = [];
+      $scope.chart.series = ['Elyos', 'Asmodians'];
+      $scope.chart.data = [[],[]];
+      $scope.chart.colors = ['#DD66DD', '#97BBCD'];
+
+      for(var i = 0; i <= num_elements; i++) {
+        var position = 1000 - i * step;
+
+        if(position === 0) {
+          position = 1;
+        }
+
+        if(i === 0) {
+          position = 999;
+        }
+
+        /* jshint-W083 */
+        var elyosCharacter = serverData.data.elyos.first(function(char){ return char.position == position;});
+        var asmodianCharacter = serverData.data.asmodians.first(function(char){ return char.position == position;});
+        /* jshint+W083 */
+
+        $scope.chart.labels.push(position);
+        $scope.chart.data[0].push(elyosCharacter ? elyosCharacter.gloryPoint : 0);
+        $scope.chart.data[1].push(asmodianCharacter ? asmodianCharacter.gloryPoint : 0);
+      }
     }
   }
 
 })(angular);
+
 
 (function(ng){
   'use strict';
@@ -418,15 +475,31 @@ window.storedDates = [
   var CONTROLLER_NAME = 'mainApp.ranking.list.mobile.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', '$window',  'storedDataService', 'helperService', 'serverData', index_controller
+    '$scope', '$window', '$location', 'storedDataService', 'helperService', 'serverData', index_controller
   ]);
 
-  function index_controller($scope, $window, storedDataService, helperService, serverData) {
+  function index_controller($scope, $window, $location, storedDataService, helperService, serverData) {
 
     $scope._name = CONTROLLER_NAME;
 
+    $scope.filteredData = false;
+
+    $scope.page = {};
+    $scope.page.elyos = {};
+    $scope.page.asmodians = {};
+
     _init();
 
+    //Change server or date Fn
+    $scope.goTo = function(server, serverDate) {
+      //Same data and server, don't do nothing
+      if(server.name == serverData.serverName && serverDate == serverData.date) {
+        return;
+      }
+
+      $location.path('/ranking/' + server.name + '/' + serverDate);
+
+    };
 
     $scope.page.elyos.goTo = function(){
       var value = $window.prompt('page', $scope.pagination.elyos.currentPage + 1);
@@ -494,18 +567,23 @@ window.storedDates = [
 
     //Performs search
     $scope.search = function(){
-      _performFilterAndSearch($scope.selectedClass, $scope.textSearch);
+      _performFilterAndSearch($scope.textSearch, $scope.selectedClass, $scope.selectedRank);
     };
 
     $scope.clear = function(){
       $scope.textSearch = '';
       $scope.selectedClass = '';
-      _performFilterAndSearch('','');
+      _performFilterAndSearch('', null, null);
+
+      $scope.textSearch = '';
+      $scope.selectedClass = null;
+      $scope.selectedRank = null;
     };
 
     function _init() {
 
       helperService.$scope.setTitle(serverData.serverName + ' -> ' + serverData.date);
+      helperService.$scope.setNav('ranking.list');
 
       $scope.pagination = {
         elyos: {
@@ -527,6 +605,9 @@ window.storedDates = [
       $scope.storedDates = storedDataService.storedDates;
       $scope.servers = storedDataService.serversList;
       $scope.classes = storedDataService.characterClassIds.where(function(itm){ return itm.id; });
+      $scope.ranks = storedDataService.characterSoldierRankIds
+        .where(function(itm){ return itm.id >= 10; })
+        .sort(function(a, b){ return b.id - a.id; });
 
       $scope.searchDate = serverData.date;
       $scope.currentServer = storedDataService.serversList.first(function(server){ return server.name == serverData.serverName; });
@@ -540,11 +621,6 @@ window.storedDates = [
 
       $scope.filters = {};
       $scope.filters.show = false;
-
-      $scope.page = {
-        elyos: {},
-        asmodians: {}
-      };
     }
 
     //Initializes a character
@@ -559,46 +635,79 @@ window.storedDates = [
     }
 
     //Will perform filter and search :)
-    function _performFilterAndSearch(classToFilter, textToSearch) {
+    function _performFilterAndSearch(textToSearch, classToFilter, rankToFilter) {
 
-      var filterByName = function(character, txt) {
-        return character.characterName && (character.characterName.toLowerCase().indexOf(textToSearch) >= 0 ||
-          (character.guildName && character.guildName.toLowerCase().indexOf(textToSearch) >= 0 ));
-      };
-
-      var filterByClass = function(character, classToFilter) {
-        return character.characterClassID == classToFilter.id;
-      };
-
-      var filterAndSearchFn = function(character, txt, classToFilter){
-        if(classToFilter && txt) {
-          return filterByClass(character, classToFilter) && filterByName(character, txt);
-        } else if(classToFilter) {
-          return filterByClass(character, classToFilter);
-        } else {
-          return filterByName(character, txt);
-        }
-      };
-
+      //Reset pagination
       $scope.pagination.elyos.currentPage = 0;
       $scope.pagination.asmodians.currentPage = 0;
-      $scope.filters.show = false;
 
-      if (classToFilter || textToSearch) {
+      var paginateElyos = function(data) {
+        return _performPagination(data, $scope.pagination.elyos);
+      };
+      var paginateAsmodians = function(data) {
+        return _performPagination(data, $scope.pagination.asmodians);
+      };
 
-        $scope.elyosData = _performPagination(serverData.data.elyos.where(function(character) {
-          return filterAndSearchFn(character, textToSearch, classToFilter);
-        }).select(_initCharacter), $scope.pagination.elyos);
-        $scope.asmodianData = _performPagination(serverData.data.asmodians.where(function(character) {
-          return filterAndSearchFn(character, textToSearch, classToFilter);
-        }).select(_initCharacter), $scope.pagination.asmodians);
+      //If not filter is provided
+      if(!classToFilter && !textToSearch && !rankToFilter) {
+        $scope.elyosData = paginateElyos(serverData.data.elyos.select(_initCharacter));
+        $scope.asmodianData = paginateAsmodians(serverData.data.asmodians.select(_initCharacter));
+        $scope.filteredData = false;
+        return;
+      }
 
-      } else {
-        $scope.elyosData = _performPagination(serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
-        $scope.asmodianData = _performPagination(serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
+      //Filter elyos data
+      $scope.elyosData = paginateElyos(serverData.data.elyos.where(function(character) {
+        return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
+      }).select(_initCharacter));
+
+      //Filter asmodian data
+      $scope.asmodianData = paginateAsmodians(serverData.data.asmodians.where(function(character) {
+        return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
+      }).select(_initCharacter));
+
+      //Filters a character
+      function filterCharacter(character, txt, classToFilter, rankToFilter) {
+        var meetsTxt = false;
+        var meetsClass = false;
+        var meetsRank = false;
+
+        if(!txt) {
+          meetsTxt = true;
+        }
+        else if(character) {
+
+          var charName = character.characterName ? character.characterName.toLowerCase() : '';
+          var guildName = character.guildName ? character.guildName.toLowerCase() : '';
+          var characterClassName = storedDataService.getCharacterClass(character.characterClassID).name.toLowerCase();
+          var characterRankName = storedDataService.getCharacterRank(character.soldierRankID).name.toLowerCase();
+
+          meetsTxt = charName.indexOf(textToSearch) >= 0 ||
+            guildName.indexOf(textToSearch) >= 0 ||
+            characterClassName.indexOf(textToSearch) >= 0 ||
+            characterRankName.indexOf(textToSearch) >= 0;
+        }
+
+        if(!classToFilter) {
+          meetsClass = true;
+        }
+        else if(character)  {
+          meetsClass = character.characterClassID == classToFilter.id;
+        }
+
+        if(!rankToFilter) {
+          meetsRank = true;
+        }
+        else if(character) {
+          meetsRank = character.soldierRankID == rankToFilter.id;
+        }
+
+        $scope.filteredData = true;
+        return meetsTxt && meetsClass && meetsRank;
       }
     }
 
+    //Performs pagination on page
     function _performPagination(elements, pagination) {
 
       var idx = pagination.currentPage * pagination.numElementsPerPage;
@@ -617,6 +726,7 @@ window.storedDates = [
   }
 
 })(angular);
+
 
 (function(ng){
   'use strict';
@@ -665,6 +775,11 @@ window.storedDates = [
     $this.$scope.setTitle = function(value) {
       $rootScope.title = value;
     };
+
+    $this.$scope.setNav = function(menu) {
+      $rootScope.navMenu = menu;
+    };
+
 
     $this.$q.fcall = function(fn) {
       var $$q = $q.defer();
@@ -733,6 +848,7 @@ window.storedDates = [
   }
 
 })(angular);
+
 
 (function(ng){
   'use strict';
