@@ -353,8 +353,6 @@ module.exports = new function() {
       //If it wasnt' stored
       if(!storedCharacter) {
 
-        $log.debug('storing new character %s', serverCharacter.characterID);
-
         //Generate the storedCharacter
         storedCharacter = {
           characterID: serverCharacter.characterID,
@@ -390,6 +388,92 @@ module.exports = new function() {
 
         //Return aka continue
         return;
+      }
+      else {
+
+        //Here we have a trouble, maybe the date is the same as now,
+        // we will know looking on the last status
+        storedCharacter.status.sort(function(a, b){ return a.date > b.date ? 1 : -1});
+
+        //Retrieve last status
+        var lastStatus = storedCharacter.status[storedCharacter.status.length - 1];
+
+        //If is same date...
+        if(lastStatus.date == serverData.date) {
+
+          //If the character only have one status...
+          if(storedCharacter.status.length === 1) {
+
+            //Set up the unique status
+            storedCharacter.status = [{
+                date: serverData.date,
+                position: serverCharacter.position,
+                rankingPositionChange: serverCharacter.rankingPositionChange,
+                gloryPoint: serverCharacter.gloryPoint,
+                gloryPointChange: 0,
+                soldierRankID: serverCharacter.soldierRankID
+            }];
+
+            storedCharacter.names = [{
+                date: serverData.date,
+                characterName : serverCharacter.characterName
+            }];
+
+            storedCharacter.guilds = [{
+                date: serverData.date,
+                guildName: serverCharacter.guildName,
+                guildID: serverCharacter.guildID,
+            }];
+
+            //Set up the gloryPointChange
+            serverCharacter.gloryPointChange = 0;
+
+            //return aka break
+            return;
+          }
+          else {
+
+            //We extract the previous lastStatus
+            lastStatus = storedCharacter.status[storedCharacter.status.length - 2];
+
+          }
+        }
+
+        var lastName = storedCharacter.names[storedCharacter.names.length - 1];
+        var lastGuild = storedCharacter.guilds[storedCharacter.guilds.length - 1];
+
+        //Now we update the storedCharacter
+        storedCharacter.status.push({
+          date: serverData.date,
+          position: serverCharacter.position,
+          rankingPositionChange: lastStatus.position - serverCharacter.postion,
+          gloryPoint: serverCharacter.gloryPoint,
+          gloryPointChange: lastStatus.gloryPoint - serverCharacter.gloryPoint,
+          soldierRankID: serverCharacter.soldierRankID
+        });
+
+        //has changed his name?
+        var lastName = storedCharacter.names[storedCharacter.names.length -1];
+        if(lastName.characterName != serverCharacter.characterName) {
+          storedCharacter.names.push({
+            date: serverData.date,
+            characterName : serverCharacter.characterName,
+          });
+        }
+
+        //has changed his guild?
+        var lastGuild = storedCharacter.guilds[storedCharacter.guilds.length -1];
+        if(lastGuild.guildID != serverCharacter.guildID) {
+          storedCharacter.guilds.push({
+            date: serverData.date,
+            guildName: serverCharacter.guildName,
+            guildID: serverCharacter.guildID,
+          });
+        }
+
+        //We update serverCharacter
+        serverCharacter.rankingPositionChange = lastStatus.position - serverCharacter.position;
+        serverCharacter.gloryPointChange = lastStatus.gloryPoint - serverCharacter.gloryPoint;
       }
 
     });

@@ -47,8 +47,10 @@ module.exports = function(grunt) {
     sp = sp.then(function() {
       servers.forEach(function(server) {
 
+        var serverCharactersFolder = charactersBaseFolder + server.serverName + '/';
+
         //Set date on server
-        server.date = today;
+        server.date = new Date(today);
 
         //Extract previous dates
         var serverPreviousDates = grunt.file.expand('data/*/' + server.serverName + '.json')
@@ -64,14 +66,20 @@ module.exports = function(grunt) {
         //Retrieve characters array
         var storedCharacters = gameForgeServer.generateCharacterInfo(serverPreviousDates);
 
-        storedCharacters.splice(0, 1);
-
-        $log.debug('storedCharacters length before %s', storedCharacters.length);
-
         //Update both, storedCharacters and server
         gameForgeServer.updateServerCharacters(storedCharacters, server);
 
-        $log.debug('storedCharacters length after %s', storedCharacters.length);
+        //Remove all characterInfo files
+        grunt.file.expand(serverCharactersFolder + '*').forEach(function(file){
+          grunt.file.delete(file);
+        });
+
+        //Store characterInfos
+        storedCharacters.forEach(function(character){
+          $log.debug('Storing [%s] characterInfo', colors.cyan(character.names[character.names.length - 1].characterName));
+          grunt.file.write(serverCharactersFolder + character.characterID + '.json', JSON.stringify(character, null, ' '));
+        });
+
       });
     });
 

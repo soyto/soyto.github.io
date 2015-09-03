@@ -1,1 +1,44 @@
-{"characterID":521099,"characterClassID":8,"raceID":1,"status":[{"date":"2015-08-21T22:00:00.000Z","position":299,"rankingPositionChange":0,"gloryPoint":1265,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":299,"rankingPositionChange":0,"gloryPoint":1258,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":307,"rankingPositionChange":-8,"gloryPoint":1251,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-21T22:00:00.000Z","characterName":"Aidra"}],"guilds":[{"date":"2015-08-21T22:00:00.000Z","guildName":"Division Redemption","guildID":1025}],"characterName":"Aidra","guildName":"Division Redemption","guildID":1025,"position":307,"rankingPositionChange":-8,"gloryPoint":1251,"soldierRankID":10}
+{
+ "characterID": 521099,
+ "characterClassID": 8,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1265,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1258,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1251,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "characterName": "Aidra"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "guildName": "Division Redemption",
+   "guildID": 1025
+  }
+ ]
+}
