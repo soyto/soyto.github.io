@@ -8,22 +8,19 @@ module.exports = function(grunt) {
   var $q                = require('q');
   var colors            = require('colors');
 
-
   require('../lib/javascript.extensions.js');
 
-
-  grunt.registerTask('test-create-players-database', function(){
-    gameForgeServer.createPlayersDatabase();
-  });
 
   //Performs the full crawler
   grunt.registerTask('crawler', function() {
     var done = this.async();
-    var baseFolder = config.application['base-folder'];
-    var postsFolder = config.application['posts-folder'];
-    var charactersBaseFolder = baseFolder + 'Characters/';
-    var today = moment().format('MM-DD-YYYY');
-    var folderName = baseFolder + today + '/';
+
+    var baseFolder            = config.application['base-folder'];
+    var postsFolder           = config.application['posts-folder'];
+    var userAgent             = config.crawler['user-agent']
+    var charactersBaseFolder  = baseFolder + 'Characters/';
+    var today                 = moment().format('MM-DD-YYYY');
+    var folderName            = baseFolder + today + '/';
 
     //Here we will store servers data and errors
     var servers = [];
@@ -34,7 +31,27 @@ module.exports = function(grunt) {
       grunt.file.mkdir(folderName);
     }
 
-    var sp = gameForgeServer.login(config.crawler.login, config.crawler.password, config.crawler['user-agent']);
+    //1st step: Perform login
+    var sp = gameForgeServer.login(config.crawler.login, config.crawler.password, userAgent);
+
+    //2nd step, retrieve all servers data
+    sp = sp.then(function(cookie){
+      //just cutted off for limit
+      var serversList = gameForgeServer.servers
+        .where(function(itm){ return itm.name == 'Calindi' || itm.name == 'Alquima'; });
+      return retrieveServersData(cookie, serversList, userAgent).then(function(allServersData){
+        servers = allServersData;
+      });
+    });
+
+    sp = sp.then(function(){
+      $log.debug(JSON.stringify(servers.length));
+    });
+
+
+    return;
+
+
 
     sp = sp.then(function(cookie) {
       var $$q = $q.resolve();
@@ -302,4 +319,24 @@ module.exports = function(grunt) {
       done();
     });
   });
+
+  //Will retrieve all servers data
+  function retrieveServersData(cookie, serversList, userAgent) {
+    var $$q = $q.resolve();
+
+    var serversFullData = [];
+
+    serversList.forEach(function(server){
+      $$q = $$q.then(function(){
+        return gameForgeServer.retrieveServer(server.name, server.id, cookie, userAgent)
+          .then(function(serverData){
+            serversFullData.push(serverData);
+        });
+      });
+    });
+
+    return $$q.then(function(){
+      return serversFullData;
+    });
+  }
 };

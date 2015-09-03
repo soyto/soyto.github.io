@@ -246,19 +246,4 @@ module.exports = new function() {
     return $$q.promise;
   };
 
-  //Will create all players database
-  $this.createPlayersDatabase = function() {
-
-    var serversFile = [];
-
-    $this.servers.forEach(function(server){
-      serversFile.push({
-        server: server,
-        files: grunt.file.expand('data/*/' + server.name + '.json')
-      });
-    });
-    //Now we have files ordered per server
-
-
-  };
 }();
