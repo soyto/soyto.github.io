@@ -246,4 +246,153 @@ module.exports = new function() {
     return $$q.promise;
   };
 
+  //Generate characterInfo array
+  $this.generateCharacterInfo = function(dateEntries) {
+
+    //Here we will store the characters itselfs
+    var storedCharacters = [];
+
+    //Fn that will help retrieving character by id
+    var getCharacterById = function(id) {
+      return storedCharacters.first(function(itm){ return itm.characterID == id});
+    };
+
+    dateEntries.forEach(function(dateEntry) {
+      dateEntry.characters.forEach(function(character){
+        //Try to retrieve character by id
+        var storedCharacter = getCharacterById(character.characterID);
+
+        //If character isn't stored, store it now
+        if(!storedCharacter) {
+
+          storedCharacter = {
+            characterID: character.characterID,
+            characterClassID: character.characterClassID,
+            raceID: character.raceID
+          };
+
+          storedCharacter.status = [{
+              date: dateEntry.date,
+              position: character.position,
+              rankingPositionChange: character.rankingPositionChange,
+              gloryPoint: character.gloryPoint,
+              gloryPointChange: 0,
+              soldierRankID: character.soldierRankID
+          }];
+
+          storedCharacter.names = [{
+              date: dateEntry.date,
+              characterName : character.characterName
+          }];
+
+          storedCharacter.guilds = [{
+              date: dateEntry.date,
+              guildName: character.guildName,
+              guildID: character.guildID,
+          }];
+
+          storedCharacters.push(storedCharacter);
+        }
+        else {
+
+          //If is stored we need to update it
+          var lastStatus = storedCharacter.status[storedCharacter.status.length - 1];
+          var lastName = storedCharacter.names[storedCharacter.names.length - 1];
+          var lastGuild = storedCharacter.guilds[storedCharacter.guilds.length - 1];
+
+          //Update it's status
+          storedCharacter.status.push({
+            date: dateEntry.date,
+            position: character.position,
+            rankingPositionChange: lastStatus.position - character.position,
+            gloryPoint: character.gloryPoint,
+            gloryPointChange: character.gloryPoint - lastStatus.gloryPoint,
+            soldierRankID: character.soldierRankID
+          });
+
+          //Name changed?
+          if(lastName.characterName != character.characterName) {
+            storedCharacter.names.push({
+              date: dateEntry.date,
+              characterName : character.characterName
+            });
+          }
+
+          //Guild changed?
+          if(lastGuild.guildID != character.guildID) {
+            storedCharacter.guilds.push({
+              date: dateEntry.date,
+              guildName: character.guildName,
+              guildID: character.guildID,
+            });
+          }
+        }
+      });
+    });
+
+    return storedCharacters;
+  };
+
+  //Will update server characters from the storedCharacters
+  $this.updateServerCharacters = function(storedCharacters, serverData) {
+
+    //We need all server characters in one array
+    var serverCharacters = serverData.entries.elyos.concat(serverData.entries.asmodians);
+
+    //Fn that will help retrieving character by id
+    var getStoredCharacterById = function(id) {
+      return storedCharacters.first(function(itm){ return itm.characterID == id});
+    };
+
+    //Loop serverCharacters
+    serverCharacters.forEach(function(serverCharacter){
+
+      //try to retrieve serverCharacter from storedCharacters
+      var storedCharacter = getStoredCharacterById(serverCharacter.characterID);
+
+      //If it wasnt' stored
+      if(!storedCharacter) {
+
+        $log.debug('storing new character %s', serverCharacter.characterID);
+
+        //Generate the storedCharacter
+        storedCharacter = {
+          characterID: serverCharacter.characterID,
+          characterClassID: serverCharacter.characterClassID,
+          raceID: serverCharacter.raceID
+        };
+
+        storedCharacter.status = [{
+            date: serverData.date,
+            position: serverCharacter.position,
+            rankingPositionChange: serverCharacter.rankingPositionChange,
+            gloryPoint: serverCharacter.gloryPoint,
+            gloryPointChange: 0,
+            soldierRankID: serverCharacter.soldierRankID
+        }];
+
+        storedCharacter.names = [{
+            date: serverData.date,
+            characterName : serverCharacter.characterName
+        }];
+
+        storedCharacter.guilds = [{
+            date: serverData.date,
+            guildName: serverCharacter.guildName,
+            guildID: serverCharacter.guildID,
+        }];
+
+        //Append it to the storedCharacters array
+        storedCharacters.push(storedCharacter);
+
+        //Set up the gloryPointChange
+        serverCharacter.gloryPointChange = 0;
+
+        //Return aka continue
+        return;
+      }
+
+    });
+
+  };
 }();

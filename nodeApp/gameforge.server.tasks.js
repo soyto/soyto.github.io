@@ -37,15 +37,42 @@ module.exports = function(grunt) {
     //2nd step, retrieve all servers data
     sp = sp.then(function(cookie){
       //just cutted off for limit
-      var serversList = gameForgeServer.servers
-        .where(function(itm){ return itm.name == 'Calindi' || itm.name == 'Alquima'; });
+      var serversList = gameForgeServer.servers.where(function(itm){ return itm.name == 'Calindi'; });
       return retrieveServersData(cookie, serversList, userAgent).then(function(allServersData){
         servers = allServersData;
       });
     });
 
-    sp = sp.then(function(){
-      $log.debug(JSON.stringify(servers.length));
+    //3d step we need to extract players info for each server
+    sp = sp.then(function() {
+      servers.forEach(function(server) {
+
+        //Set date on server
+        server.date = today;
+
+        //Extract previous dates
+        var serverPreviousDates = grunt.file.expand('data/*/' + server.serverName + '.json')
+          .select(function(fileName) {
+            var data = grunt.file.readJSON(fileName);
+            return {
+              date : new Date(fileName.split('/')[1]),
+              characters: data.elyos.concat(data.asmodians)
+            };
+          })
+          .sort(function(a, b){ return a.date - b.date});
+
+        //Retrieve characters array
+        var storedCharacters = gameForgeServer.generateCharacterInfo(serverPreviousDates);
+
+        storedCharacters.splice(0, 1);
+
+        $log.debug('storedCharacters length before %s', storedCharacters.length);
+
+        //Update both, storedCharacters and server
+        gameForgeServer.updateServerCharacters(storedCharacters, server);
+
+        $log.debug('storedCharacters length after %s', storedCharacters.length);
+      });
     });
 
 
@@ -71,16 +98,7 @@ module.exports = function(grunt) {
           return gameForgeServer.retrieveServer(server.name, server.id, cookie, config.crawler['user-agent'])
             .then(function(currentServerData) {
 
-              //Report that is completed
-              $log.debug('Retrieved [%s]', colors.cyan(server.name));
 
-              //If there was an error on the crawler
-              if(currentServerData.errors && currentServerData.errors.length > 0) {
-                serverErrors.push({
-                  server: server,
-                  errors: currentServerData.errors
-                });
-              }
 
               //Expand serverData with stats
               currentServerData.entries.stats = {
@@ -95,98 +113,6 @@ module.exports = function(grunt) {
                   minorPositions: null
                 }
               };
-
-              //Retrieve other server files
-              var files = grunt.file.expand('data/*/' + server.name + '.json').select(function(fileName) {
-                var data = grunt.file.readJSON(fileName);
-                return {
-                  date : new Date(fileName.split('/')[1]),
-                  characters: data.elyos.concat(data.asmodians)
-                };
-              });
-
-              //Loop found files
-              files = files.sort(function(a, b){ return a.date - b.date});
-
-              //Here we will store the characters itselfs
-              var storedCharacters = [];
-
-              //Loop files
-              files.forEach(function(file){
-
-                //Loop characters stored in the files
-                file.characters.forEach(function(character){
-
-                  var storedCharacter = storedCharacters.first(function(char){ return char.characterID == character.characterID});
-
-                  //If character isn't stored, store it now
-                  if(!storedCharacter) {
-
-                    storedCharacter = {
-                      characterID: character.characterID,
-                      characterClassID: character.characterClassID,
-                      raceID: character.raceID
-                    };
-
-                    storedCharacter.status = [{
-                        date: file.date,
-                        position: character.position,
-                        rankingPositionChange: character.rankingPositionChange,
-                        gloryPoint: character.gloryPoint,
-                        gloryPointChange: 0,
-                        soldierRankID: character.soldierRankID
-                    }];
-
-                    storedCharacter.names = [{
-                        date: file.date,
-                        characterName : character.characterName
-                    }];
-
-                    storedCharacter.guilds = [{
-                        date: file.date,
-                        guildName: character.guildName,
-                        guildID: character.guildID,
-                    }];
-
-                    storedCharacters.push(storedCharacter);
-                  }
-                  else {
-
-                    //If is stored we need to update it
-                    var lastStatus = storedCharacter.status[storedCharacter.status.length - 1];
-                    var lastName = storedCharacter.names[storedCharacter.names.length - 1];
-                    var lastGuild = storedCharacter.guilds[storedCharacter.guilds.length - 1];
-
-                    //Update it's status
-                    storedCharacter.status.push({
-                      date: file.date,
-                      position: character.position,
-                      rankingPositionChange: lastStatus.position - character.position,
-                      gloryPoint: character.gloryPoint,
-                      gloryPointChange: character.gloryPoint - lastStatus.gloryPoint,
-                      soldierRankID: character.soldierRankID
-                    });
-
-                    //Name changed?
-                    if(lastName.characterName != character.characterName) {
-                      storedCharacter.names.push({
-                        date: file.date,
-                        characterName : character.characterName
-                      });
-                    }
-                    //Guild changed?
-                    if(lastGuild.guildID != character.guildID) {
-                      storedCharacter.guilds.push({
-                        date: file.date,
-                        guildName: character.guildName,
-                        guildID: character.guildID,
-                      });
-                    }
-                  }
-                });
-              });
-
-              //When we reach here we have all characters stored
 
               //Loop currentServer characters
               currentServerData.entries.elyos.concat(currentServerData.entries.asmodians)
@@ -329,7 +255,12 @@ module.exports = function(grunt) {
     serversList.forEach(function(server){
       $$q = $$q.then(function(){
         return gameForgeServer.retrieveServer(server.name, server.id, cookie, userAgent)
-          .then(function(serverData){
+          .then(function(serverData) {
+
+            //Notify that all is succesfully
+            $log.debug('Retrieved [%s]', colors.cyan(server.name));
+
+            //Push to the array
             serversFullData.push(serverData);
         });
       });
