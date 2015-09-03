@@ -1,16 +1,19 @@
 /*
- * Soyto.github.io (0.5.7)
- * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- * 					Version 2, December 2004
- * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+ * Soyto.github.io (0.5.8)
+ *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+ *         Version 2, December 2004
+ * 
+ * Copyright (C) 2012 Romain Lespinasse <romain.lespinasse@gmail.com>
+ * 
  * Everyone is permitted to copy and distribute verbatim or modified
  * copies of this license document, and changing it is allowed as long
  * as the name is changed.
  * 
- * 				DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- * 		TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+ * DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+ * TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
  * 
  * 0. You just DO WHAT THE FUCK YOU WANT TO.
+ * 
  */
 window.storedDates = [
  '08-01-2015',
@@ -41,7 +44,9 @@ window.storedDates = [
  '08-27-2015',
  '08-28-2015',
  '08-29-2015',
- '08-30-2015'
+ '08-30-2015',
+ '09-02-2015',
+ '09-03-2015'
 ];
 
 /* global moment, marked */
