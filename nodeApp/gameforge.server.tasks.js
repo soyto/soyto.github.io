@@ -286,7 +286,7 @@ module.exports = function(grunt) {
               });
 
               //Store characters
-              //If storing... 
+              //I
 
               //Store the serverData
               grunt.file.write(folderName + server.name + '.json', JSON.stringify(currentServerData.entries));
