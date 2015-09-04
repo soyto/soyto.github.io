@@ -1,7 +1,7 @@
 module.exports = new function() {
   'use strict';
 
-  var NUM_PAGES_PER_SERVER = 1;
+  var NUM_PAGES_PER_SERVER = 20;
 
   var $q        = require('q');
   var $log      = require('../nodeApp/log');
@@ -399,7 +399,7 @@ module.exports = new function() {
         var lastStatus = storedCharacter.status[storedCharacter.status.length - 1];
 
         //If is same date...
-        if(lastStatus.date == serverData.date) {
+        if(lastStatus.date.getTime() === serverData.date.getTime()) {
 
           //If the character only have one status...
           if(storedCharacter.status.length === 1) {

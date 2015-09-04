@@ -89,17 +89,6 @@ module.exports = function(grunt) {
     grunt.task.run(['compile', 'version:minor', 'git-commit', 'git-push']);
   });
 
-  //Sets up folders file
-  grunt.registerTask('set-up-folders-dates-file', function(){
-
-    var dates = grunt.file.expand('data/*/').select(function(folderName){
-      if(folderName.indexOf('Characters') >= 0) { return null; }
-      if(folderName.indexOf('Posts') >= 0) { return null; }
-      return folderName.split('/')[1];
-    }).where(function(folderName){ return folderName != null; });
-
-    grunt.file.write('app/helpers/folders.dates.js', 'window.storedDates = ' + JSON.stringify(dates, null, ' ').replace(/"/g, '\'') + ';');
-  });
 
   /* HELPER FUNCTIONS
    * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
