@@ -1,1 +1,244 @@
-{"characterID":631593,"characterClassID":10,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":969,"rankingPositionChange":-6,"gloryPoint":8980,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":971,"rankingPositionChange":-2,"gloryPoint":8973,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":974,"rankingPositionChange":-3,"gloryPoint":8966,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":974,"rankingPositionChange":0,"gloryPoint":8959,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":982,"rankingPositionChange":-8,"gloryPoint":8962,"gloryPointChange":3,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":962,"rankingPositionChange":20,"gloryPoint":9253,"gloryPointChange":291,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":961,"rankingPositionChange":1,"gloryPoint":9256,"gloryPointChange":3,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":963,"rankingPositionChange":-2,"gloryPoint":9249,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":963,"rankingPositionChange":0,"gloryPoint":9249,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":965,"rankingPositionChange":-2,"gloryPoint":9242,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":966,"rankingPositionChange":-1,"gloryPoint":9296,"gloryPointChange":54,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":966,"rankingPositionChange":0,"gloryPoint":9296,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":968,"rankingPositionChange":-2,"gloryPoint":9282,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-13T22:00:00.000Z","position":972,"rankingPositionChange":-4,"gloryPoint":9275,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-14T22:00:00.000Z","position":974,"rankingPositionChange":-2,"gloryPoint":9268,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":974,"rankingPositionChange":0,"gloryPoint":9268,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-16T22:00:00.000Z","position":979,"rankingPositionChange":-5,"gloryPoint":9261,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":982,"rankingPositionChange":-3,"gloryPoint":9254,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-18T22:00:00.000Z","position":988,"rankingPositionChange":-6,"gloryPoint":9240,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":990,"rankingPositionChange":-2,"gloryPoint":9233,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":985,"rankingPositionChange":5,"gloryPoint":9226,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":988,"rankingPositionChange":-3,"gloryPoint":9219,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":990,"rankingPositionChange":-2,"gloryPoint":9212,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":988,"rankingPositionChange":2,"gloryPoint":9205,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":989,"rankingPositionChange":-1,"gloryPoint":9191,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":996,"rankingPositionChange":-7,"gloryPoint":9177,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":1000,"rankingPositionChange":-4,"gloryPoint":9170,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-09-01T22:00:00.000Z","position":998,"rankingPositionChange":2,"gloryPoint":9163,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Vinamra"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"DevastatioN","guildID":3243}],"characterName":"Vinamra","guildName":"DevastatioN","guildID":3243,"position":998,"rankingPositionChange":2,"gloryPoint":9163,"soldierRankID":10}
+{
+ "characterID": 631593,
+ "characterClassID": 10,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": -6,
+   "gloryPoint": 8980,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 971,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8973,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8966,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8959,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 982,
+   "rankingPositionChange": -8,
+   "gloryPoint": 8962,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": 20,
+   "gloryPoint": 9253,
+   "gloryPointChange": 291,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9256,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 963,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9249,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 963,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9249,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 965,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9242,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 966,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9296,
+   "gloryPointChange": 54,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 966,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9296,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 968,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9282,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 972,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9275,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9268,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9268,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 979,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9261,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 982,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9254,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9240,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9233,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": 5,
+   "gloryPoint": 9226,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9219,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9212,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9205,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9191,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -7,
+   "gloryPoint": 9177,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9170,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9163,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Vinamra"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "DevastatioN",
+   "guildID": 3243
+  }
+ ]
+}

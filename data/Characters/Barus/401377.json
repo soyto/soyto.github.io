@@ -1,1 +1,196 @@
-{"characterID":401377,"characterClassID":16,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":672,"rankingPositionChange":-3,"gloryPoint":16919,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":675,"rankingPositionChange":-3,"gloryPoint":16905,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":676,"rankingPositionChange":-1,"gloryPoint":16891,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":679,"rankingPositionChange":-3,"gloryPoint":16877,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":680,"rankingPositionChange":-1,"gloryPoint":16863,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":680,"rankingPositionChange":0,"gloryPoint":16849,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":682,"rankingPositionChange":-2,"gloryPoint":16835,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":684,"rankingPositionChange":-2,"gloryPoint":16821,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":684,"rankingPositionChange":0,"gloryPoint":16821,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-09T22:00:00.000Z","position":685,"rankingPositionChange":-1,"gloryPoint":16807,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":690,"rankingPositionChange":-5,"gloryPoint":16779,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-11T22:00:00.000Z","position":690,"rankingPositionChange":0,"gloryPoint":16779,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-12T22:00:00.000Z","position":704,"rankingPositionChange":-14,"gloryPoint":16751,"gloryPointChange":-28,"soldierRankID":10},{"date":"2015-08-13T22:00:00.000Z","position":705,"rankingPositionChange":-1,"gloryPoint":16744,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-14T22:00:00.000Z","position":707,"rankingPositionChange":-2,"gloryPoint":16737,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":707,"rankingPositionChange":0,"gloryPoint":16737,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-16T22:00:00.000Z","position":709,"rankingPositionChange":-2,"gloryPoint":16730,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":712,"rankingPositionChange":-3,"gloryPoint":16723,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-18T22:00:00.000Z","position":721,"rankingPositionChange":-9,"gloryPoint":16709,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":721,"rankingPositionChange":0,"gloryPoint":16702,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":719,"rankingPositionChange":2,"gloryPoint":16695,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":723,"rankingPositionChange":-4,"gloryPoint":16688,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Nobunaga"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"WhoIsNext","guildID":3080}],"characterName":"Nobunaga","guildName":"WhoIsNext","guildID":3080,"position":723,"rankingPositionChange":-4,"gloryPoint":16688,"soldierRankID":10}
+{
+ "characterID": 401377,
+ "characterClassID": 16,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 672,
+   "rankingPositionChange": -3,
+   "gloryPoint": 16919,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 675,
+   "rankingPositionChange": -3,
+   "gloryPoint": 16905,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16891,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": -3,
+   "gloryPoint": 16877,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16863,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16849,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 682,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16835,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 684,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16821,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 684,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16821,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 685,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16807,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 690,
+   "rankingPositionChange": -5,
+   "gloryPoint": 16779,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 690,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16779,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 704,
+   "rankingPositionChange": -14,
+   "gloryPoint": 16751,
+   "gloryPointChange": -28,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 705,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16744,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 707,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16737,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 707,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16737,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16730,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 712,
+   "rankingPositionChange": -3,
+   "gloryPoint": 16723,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 721,
+   "rankingPositionChange": -9,
+   "gloryPoint": 16709,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 721,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16702,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 719,
+   "rankingPositionChange": 2,
+   "gloryPoint": 16695,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 723,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16688,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Nobunaga"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "WhoIsNext",
+   "guildID": 3080
+  }
+ ]
+}

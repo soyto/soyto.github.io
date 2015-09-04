@@ -1,1 +1,116 @@
-{"characterID":511573,"characterClassID":5,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":448,"rankingPositionChange":-2,"gloryPoint":21328,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":448,"rankingPositionChange":0,"gloryPoint":21300,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":449,"rankingPositionChange":-1,"gloryPoint":21272,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":452,"rankingPositionChange":-3,"gloryPoint":21244,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":450,"rankingPositionChange":2,"gloryPoint":21216,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":449,"rankingPositionChange":1,"gloryPoint":21188,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":450,"rankingPositionChange":-1,"gloryPoint":21160,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":450,"rankingPositionChange":0,"gloryPoint":21132,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":450,"rankingPositionChange":0,"gloryPoint":21132,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":451,"rankingPositionChange":-1,"gloryPoint":21104,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":454,"rankingPositionChange":-3,"gloryPoint":21048,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":454,"rankingPositionChange":0,"gloryPoint":21048,"gloryPointChange":0,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Jaydin"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Astralis","guildID":1031}],"characterName":"Jaydin","guildName":"Astralis","guildID":1031,"position":454,"rankingPositionChange":0,"gloryPoint":21048,"soldierRankID":12}
+{
+ "characterID": 511573,
+ "characterClassID": 5,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 448,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21328,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 448,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21300,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 449,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21272,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 452,
+   "rankingPositionChange": -3,
+   "gloryPoint": 21244,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": 2,
+   "gloryPoint": 21216,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 449,
+   "rankingPositionChange": 1,
+   "gloryPoint": 21188,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21160,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21132,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21132,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 451,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21104,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 454,
+   "rankingPositionChange": -3,
+   "gloryPoint": 21048,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 454,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21048,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Jaydin"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Astralis",
+   "guildID": 1031
+  }
+ ]
+}

@@ -1,1 +1,95 @@
-{"characterID":226553,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":675,"rankingPositionChange":0,"gloryPoint":3957,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":676,"rankingPositionChange":-1,"gloryPoint":3943,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":676,"rankingPositionChange":0,"gloryPoint":3929,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":675,"rankingPositionChange":1,"gloryPoint":3915,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":675,"rankingPositionChange":0,"gloryPoint":3901,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":681,"rankingPositionChange":-6,"gloryPoint":3887,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":682,"rankingPositionChange":-1,"gloryPoint":3873,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":686,"rankingPositionChange":-4,"gloryPoint":3859,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":686,"rankingPositionChange":0,"gloryPoint":3859,"gloryPointChange":0,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Indispensable"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"MAD MEN","guildID":5440},{"date":"2015-08-06T22:00:00.000Z"}],"characterName":"Indispensable","position":686,"rankingPositionChange":0,"gloryPoint":3859,"soldierRankID":11}
+{
+ "characterID": 226553,
+ "characterClassID": 5,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 675,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3957,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3943,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3929,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 675,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3915,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 675,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3901,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 681,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3887,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 682,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3873,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 686,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3859,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 686,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3859,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Indispensable"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "MAD MEN",
+   "guildID": 5440
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z"
+  }
+ ]
+}

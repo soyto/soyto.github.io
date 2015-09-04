@@ -1,1 +1,156 @@
-{"characterID":107636,"characterClassID":2,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":568,"rankingPositionChange":-1,"gloryPoint":9082,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":569,"rankingPositionChange":-1,"gloryPoint":9068,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":573,"rankingPositionChange":-4,"gloryPoint":9054,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":577,"rankingPositionChange":-4,"gloryPoint":9040,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":574,"rankingPositionChange":3,"gloryPoint":9026,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":572,"rankingPositionChange":2,"gloryPoint":9012,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":576,"rankingPositionChange":-4,"gloryPoint":8998,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":578,"rankingPositionChange":-2,"gloryPoint":8984,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":578,"rankingPositionChange":0,"gloryPoint":8984,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-09T22:00:00.000Z","position":579,"rankingPositionChange":-1,"gloryPoint":8970,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":587,"rankingPositionChange":-8,"gloryPoint":8942,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-11T22:00:00.000Z","position":587,"rankingPositionChange":0,"gloryPoint":8942,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-12T22:00:00.000Z","position":600,"rankingPositionChange":-13,"gloryPoint":8914,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":604,"rankingPositionChange":-4,"gloryPoint":8740,"gloryPointChange":-174,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":609,"rankingPositionChange":-5,"gloryPoint":8698,"gloryPointChange":-42,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Hosakura"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Untold","guildID":5997}],"characterName":"Hosakura","guildName":"Untold","guildID":5997,"position":609,"rankingPositionChange":-5,"gloryPoint":8698,"soldierRankID":11}
+{
+ "characterID": 107636,
+ "characterClassID": 2,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 568,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9082,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 569,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9068,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 573,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9054,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 577,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9040,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 574,
+   "rankingPositionChange": 3,
+   "gloryPoint": 9026,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9012,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 576,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8998,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 578,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8984,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 578,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8984,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 579,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8970,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 587,
+   "rankingPositionChange": -8,
+   "gloryPoint": 8942,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 587,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8942,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": -13,
+   "gloryPoint": 8914,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8740,
+   "gloryPointChange": -174,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 609,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8698,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8684,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 614,
+   "rankingPositionChange": null,
+   "gloryPoint": 8670,
+   "gloryPointChange": 14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Hosakura"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Untold",
+   "guildID": 5997
+  }
+ ]
+}

@@ -1,1 +1,124 @@
-{"characterID":914607,"characterClassID":13,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":73,"rankingPositionChange":0,"gloryPoint":104830,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-01T22:00:00.000Z","position":73,"rankingPositionChange":0,"gloryPoint":104723,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-02T22:00:00.000Z","position":73,"rankingPositionChange":0,"gloryPoint":104616,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-03T22:00:00.000Z","position":74,"rankingPositionChange":-1,"gloryPoint":104509,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-04T22:00:00.000Z","position":75,"rankingPositionChange":-1,"gloryPoint":104402,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-05T22:00:00.000Z","position":74,"rankingPositionChange":1,"gloryPoint":104295,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-06T22:00:00.000Z","position":74,"rankingPositionChange":0,"gloryPoint":104188,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-07T22:00:00.000Z","position":74,"rankingPositionChange":0,"gloryPoint":104081,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-08T22:00:00.000Z","position":74,"rankingPositionChange":0,"gloryPoint":104081,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-09T22:00:00.000Z","position":74,"rankingPositionChange":0,"gloryPoint":103974,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-10T22:00:00.000Z","position":78,"rankingPositionChange":-4,"gloryPoint":103760,"gloryPointChange":-214,"soldierRankID":14},{"date":"2015-08-11T22:00:00.000Z","position":78,"rankingPositionChange":0,"gloryPoint":103760,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-12T22:00:00.000Z","position":79,"rankingPositionChange":-1,"gloryPoint":103546,"gloryPointChange":-214,"soldierRankID":14}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Aalto"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"ARMAGEDDON","guildID":1594}],"characterName":"Aalto","guildName":"ARMAGEDDON","guildID":1594,"position":79,"rankingPositionChange":-1,"gloryPoint":103546,"soldierRankID":14}
+{
+ "characterID": 914607,
+ "characterClassID": 13,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 73,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104830,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 73,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104723,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 73,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104616,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": -1,
+   "gloryPoint": 104509,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 75,
+   "rankingPositionChange": -1,
+   "gloryPoint": 104402,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": 1,
+   "gloryPoint": 104295,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104188,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104081,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104081,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": 0,
+   "gloryPoint": 103974,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 78,
+   "rankingPositionChange": -4,
+   "gloryPoint": 103760,
+   "gloryPointChange": -214,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 78,
+   "rankingPositionChange": 0,
+   "gloryPoint": 103760,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 79,
+   "rankingPositionChange": -1,
+   "gloryPoint": 103546,
+   "gloryPointChange": -214,
+   "soldierRankID": 14
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Aalto"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "ARMAGEDDON",
+   "guildID": 1594
+  }
+ ]
+}

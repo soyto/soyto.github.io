@@ -1,1 +1,42 @@
-{"characterID":500312,"characterClassID":13,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":865,"rankingPositionChange":0,"gloryPoint":12679,"gloryPointChange":0,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Aethershiru"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z"}],"characterName":"Aethershiru","position":865,"rankingPositionChange":0,"gloryPoint":12679,"soldierRankID":10}
+{
+ "characterID": 500312,
+ "characterClassID": 13,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 865,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12679,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 868,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12672,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 872,
+   "rankingPositionChange": null,
+   "gloryPoint": 12665,
+   "gloryPointChange": 7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Aethershiru"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z"
+  }
+ ]
+}

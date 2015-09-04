@@ -1,1 +1,170 @@
-{"characterID":75050,"characterClassID":4,"raceID":0,"status":[{"date":"2015-08-14T22:00:00.000Z","position":789,"rankingPositionChange":0,"gloryPoint":15579,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":789,"rankingPositionChange":0,"gloryPoint":15579,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-16T22:00:00.000Z","position":790,"rankingPositionChange":-1,"gloryPoint":15575,"gloryPointChange":-4,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":793,"rankingPositionChange":-3,"gloryPoint":15568,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-18T22:00:00.000Z","position":793,"rankingPositionChange":0,"gloryPoint":15554,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":796,"rankingPositionChange":-3,"gloryPoint":15547,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":797,"rankingPositionChange":-1,"gloryPoint":15540,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":797,"rankingPositionChange":0,"gloryPoint":15533,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":803,"rankingPositionChange":-6,"gloryPoint":15526,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":805,"rankingPositionChange":-2,"gloryPoint":15519,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":809,"rankingPositionChange":-4,"gloryPoint":15505,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":812,"rankingPositionChange":-3,"gloryPoint":15491,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":812,"rankingPositionChange":0,"gloryPoint":15484,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":811,"rankingPositionChange":1,"gloryPoint":15477,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":811,"rankingPositionChange":0,"gloryPoint":15470,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":814,"rankingPositionChange":-3,"gloryPoint":15463,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":814,"rankingPositionChange":0,"gloryPoint":15442,"gloryPointChange":-21,"soldierRankID":10}],"names":[{"date":"2015-08-14T22:00:00.000Z","characterName":"Alkaidos"}],"guilds":[{"date":"2015-08-14T22:00:00.000Z"}],"characterName":"Alkaidos","position":814,"rankingPositionChange":0,"gloryPoint":15442,"soldierRankID":10}
+{
+ "characterID": 75050,
+ "characterClassID": 4,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 789,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15579,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 789,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15579,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 790,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15575,
+   "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 793,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15568,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 793,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15554,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 796,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15547,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 797,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15540,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 797,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15533,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 803,
+   "rankingPositionChange": -6,
+   "gloryPoint": 15526,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 805,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15519,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 809,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15505,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15491,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15484,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 811,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15477,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 811,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15470,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15463,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15442,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 818,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15435,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 819,
+   "rankingPositionChange": null,
+   "gloryPoint": 15428,
+   "gloryPointChange": 7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "characterName": "Alkaidos"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-14T22:00:00.000Z"
+  }
+ ]
+}

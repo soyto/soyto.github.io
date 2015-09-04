@@ -24,6 +24,8 @@ module.exports = function(grunt) {
     var today                 = moment().format('MM-DD-YYYY');
     var folderName            = baseFolder + today + '/';
 
+    $log.debug(today);
+
     //Here we will store servers data, stats and errors
     var servers = [];
     var globalStats = {

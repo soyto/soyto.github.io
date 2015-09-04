@@ -1,1 +1,124 @@
-{"characterID":863128,"characterClassID":16,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":430,"rankingPositionChange":-2,"gloryPoint":12661,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":431,"rankingPositionChange":-1,"gloryPoint":12633,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":433,"rankingPositionChange":-2,"gloryPoint":12605,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":433,"rankingPositionChange":0,"gloryPoint":12577,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":438,"rankingPositionChange":-5,"gloryPoint":12549,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":439,"rankingPositionChange":-1,"gloryPoint":12521,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":441,"rankingPositionChange":-2,"gloryPoint":12493,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":439,"rankingPositionChange":2,"gloryPoint":12465,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":439,"rankingPositionChange":0,"gloryPoint":12465,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":439,"rankingPositionChange":0,"gloryPoint":12437,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":445,"rankingPositionChange":-6,"gloryPoint":12381,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":445,"rankingPositionChange":0,"gloryPoint":12381,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-12T22:00:00.000Z","position":442,"rankingPositionChange":3,"gloryPoint":12325,"gloryPointChange":-56,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Blacksong"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Long Live Ukraine","guildID":19327}],"characterName":"Blacksong","guildName":"Long Live Ukraine","guildID":19327,"position":442,"rankingPositionChange":3,"gloryPoint":12325,"soldierRankID":12}
+{
+ "characterID": 863128,
+ "characterClassID": 16,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 430,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12661,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 431,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12633,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 433,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12605,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 433,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12577,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 438,
+   "rankingPositionChange": -5,
+   "gloryPoint": 12549,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 439,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12521,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 441,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12493,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 439,
+   "rankingPositionChange": 2,
+   "gloryPoint": 12465,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 439,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12465,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 439,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12437,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 445,
+   "rankingPositionChange": -6,
+   "gloryPoint": 12381,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 445,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12381,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 442,
+   "rankingPositionChange": 3,
+   "gloryPoint": 12325,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Blacksong"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Long Live Ukraine",
+   "guildID": 19327
+  }
+ ]
+}

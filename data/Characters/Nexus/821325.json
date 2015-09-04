@@ -1,1 +1,143 @@
-{"characterID":821325,"characterClassID":10,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":641,"rankingPositionChange":1,"gloryPoint":18042,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":640,"rankingPositionChange":1,"gloryPoint":18028,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":644,"rankingPositionChange":-4,"gloryPoint":18014,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":646,"rankingPositionChange":-2,"gloryPoint":18000,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":643,"rankingPositionChange":3,"gloryPoint":17986,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-23T22:00:00.000Z","position":670,"rankingPositionChange":-27,"gloryPoint":17748,"gloryPointChange":-238,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":671,"rankingPositionChange":-1,"gloryPoint":17720,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":672,"rankingPositionChange":-1,"gloryPoint":17692,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-27T22:00:00.000Z","position":668,"rankingPositionChange":4,"gloryPoint":17678,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-28T22:00:00.000Z","position":667,"rankingPositionChange":1,"gloryPoint":17664,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-29T22:00:00.000Z","position":670,"rankingPositionChange":-3,"gloryPoint":17650,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":670,"rankingPositionChange":0,"gloryPoint":17636,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":670,"rankingPositionChange":0,"gloryPoint":17594,"gloryPointChange":-42,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Ese"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"},{"date":"2015-08-29T22:00:00.000Z","guildName":"Nederlanders","guildID":15505}],"characterName":"Ese","guildName":"Nederlanders","guildID":15505,"position":670,"rankingPositionChange":0,"gloryPoint":17594,"soldierRankID":11}
+{
+ "characterID": 821325,
+ "characterClassID": 10,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": 1,
+   "gloryPoint": 18042,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 640,
+   "rankingPositionChange": 1,
+   "gloryPoint": 18028,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 644,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18014,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 646,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18000,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 643,
+   "rankingPositionChange": 3,
+   "gloryPoint": 17986,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 670,
+   "rankingPositionChange": -27,
+   "gloryPoint": 17748,
+   "gloryPointChange": -238,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17720,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 672,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17692,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 668,
+   "rankingPositionChange": 4,
+   "gloryPoint": 17678,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 667,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17664,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 670,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17650,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 670,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17636,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 670,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17594,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": -9,
+   "gloryPoint": 17580,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 681,
+   "rankingPositionChange": null,
+   "gloryPoint": 17566,
+   "gloryPointChange": 14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Ese"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "Nederlanders",
+   "guildID": 15505
+  }
+ ]
+}

@@ -1,1 +1,44 @@
-{"characterID":79883,"characterClassID":1,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":992,"rankingPositionChange":1,"gloryPoint":12307,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":998,"rankingPositionChange":-6,"gloryPoint":12300,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":1000,"rankingPositionChange":-2,"gloryPoint":12293,"gloryPointChange":-7,"soldierRankID":0}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Kaylee"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"UltimaRatio","guildID":26520}],"characterName":"Kaylee","guildName":"UltimaRatio","guildID":26520,"position":1000,"rankingPositionChange":-2,"gloryPoint":12293,"soldierRankID":0}
+{
+ "characterID": 79883,
+ "characterClassID": 1,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12307,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -6,
+   "gloryPoint": 12300,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12293,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Kaylee"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "UltimaRatio",
+   "guildID": 26520
+  }
+ ]
+}

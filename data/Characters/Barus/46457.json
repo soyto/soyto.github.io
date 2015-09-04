@@ -1,1 +1,52 @@
-{"characterID":46457,"characterClassID":4,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":232,"rankingPositionChange":-3,"gloryPoint":57915,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":235,"rankingPositionChange":-3,"gloryPoint":57866,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":236,"rankingPositionChange":-1,"gloryPoint":57817,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":236,"rankingPositionChange":0,"gloryPoint":57768,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Second"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Slackers","guildID":1036}],"characterName":"Second","guildName":"Slackers","guildID":1036,"position":236,"rankingPositionChange":0,"gloryPoint":57768,"soldierRankID":13}
+{
+ "characterID": 46457,
+ "characterClassID": 4,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 232,
+   "rankingPositionChange": -3,
+   "gloryPoint": 57915,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 235,
+   "rankingPositionChange": -3,
+   "gloryPoint": 57866,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 236,
+   "rankingPositionChange": -1,
+   "gloryPoint": 57817,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 236,
+   "rankingPositionChange": 0,
+   "gloryPoint": 57768,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Second"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Slackers",
+   "guildID": 1036
+  }
+ ]
+}

@@ -1,1 +1,159 @@
-{"characterID":98760,"characterClassID":7,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":314,"rankingPositionChange":-4,"gloryPoint":51294,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":316,"rankingPositionChange":-2,"gloryPoint":51266,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":316,"rankingPositionChange":0,"gloryPoint":51238,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":316,"rankingPositionChange":0,"gloryPoint":51210,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":316,"rankingPositionChange":0,"gloryPoint":51182,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":315,"rankingPositionChange":1,"gloryPoint":51154,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":315,"rankingPositionChange":0,"gloryPoint":51126,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":316,"rankingPositionChange":-1,"gloryPoint":51098,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":316,"rankingPositionChange":0,"gloryPoint":51098,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":317,"rankingPositionChange":-1,"gloryPoint":51070,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":319,"rankingPositionChange":-2,"gloryPoint":51014,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":319,"rankingPositionChange":0,"gloryPoint":51014,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-29T22:00:00.000Z","position":320,"rankingPositionChange":-1,"gloryPoint":50538,"gloryPointChange":-476,"soldierRankID":12},{"date":"2015-08-30T22:00:00.000Z","position":318,"rankingPositionChange":2,"gloryPoint":50533,"gloryPointChange":-5,"soldierRankID":12},{"date":"2015-09-01T22:00:00.000Z","position":318,"rankingPositionChange":0,"gloryPoint":50449,"gloryPointChange":-84,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Reickan"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":" Outlaw ","guildID":1178},{"date":"2015-08-29T22:00:00.000Z"}],"characterName":"Reickan","position":318,"rankingPositionChange":0,"gloryPoint":50449,"soldierRankID":12}
+{
+ "characterID": 98760,
+ "characterClassID": 7,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 314,
+   "rankingPositionChange": -4,
+   "gloryPoint": 51294,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": -2,
+   "gloryPoint": 51266,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": 0,
+   "gloryPoint": 51238,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": 0,
+   "gloryPoint": 51210,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": 0,
+   "gloryPoint": 51182,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 315,
+   "rankingPositionChange": 1,
+   "gloryPoint": 51154,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 315,
+   "rankingPositionChange": 0,
+   "gloryPoint": 51126,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51098,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": 0,
+   "gloryPoint": 51098,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 317,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51070,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": -2,
+   "gloryPoint": 51014,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": 0,
+   "gloryPoint": 51014,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50538,
+   "gloryPointChange": -476,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 318,
+   "rankingPositionChange": 2,
+   "gloryPoint": 50533,
+   "gloryPointChange": -5,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 318,
+   "rankingPositionChange": 0,
+   "gloryPoint": 50449,
+   "gloryPointChange": -84,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 318,
+   "rankingPositionChange": 0,
+   "gloryPoint": 50421,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 321,
+   "rankingPositionChange": null,
+   "gloryPoint": 50393,
+   "gloryPointChange": 28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Reickan"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": " Outlaw ",
+   "guildID": 1178
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z"
+  }
+ ]
+}

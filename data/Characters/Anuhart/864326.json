@@ -1,1 +1,116 @@
-{"characterID":864326,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":335,"rankingPositionChange":-1,"gloryPoint":21151,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":337,"rankingPositionChange":-2,"gloryPoint":21123,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":339,"rankingPositionChange":-2,"gloryPoint":21095,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":339,"rankingPositionChange":0,"gloryPoint":21067,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":343,"rankingPositionChange":-4,"gloryPoint":21039,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":342,"rankingPositionChange":1,"gloryPoint":21011,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":346,"rankingPositionChange":-4,"gloryPoint":20983,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":346,"rankingPositionChange":0,"gloryPoint":20955,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":346,"rankingPositionChange":0,"gloryPoint":20955,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":347,"rankingPositionChange":-1,"gloryPoint":20927,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":352,"rankingPositionChange":-5,"gloryPoint":20871,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":352,"rankingPositionChange":0,"gloryPoint":20871,"gloryPointChange":0,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Mskiss"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Russian Go","guildID":7331}],"characterName":"Mskiss","guildName":"Russian Go","guildID":7331,"position":352,"rankingPositionChange":0,"gloryPoint":20871,"soldierRankID":12}
+{
+ "characterID": 864326,
+ "characterClassID": 5,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 335,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21151,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 337,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21123,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 339,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21095,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 339,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21067,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 343,
+   "rankingPositionChange": -4,
+   "gloryPoint": 21039,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 342,
+   "rankingPositionChange": 1,
+   "gloryPoint": 21011,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 346,
+   "rankingPositionChange": -4,
+   "gloryPoint": 20983,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 346,
+   "rankingPositionChange": 0,
+   "gloryPoint": 20955,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 346,
+   "rankingPositionChange": 0,
+   "gloryPoint": 20955,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 347,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20927,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 352,
+   "rankingPositionChange": -5,
+   "gloryPoint": 20871,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 352,
+   "rankingPositionChange": 0,
+   "gloryPoint": 20871,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Mskiss"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Russian Go",
+   "guildID": 7331
+  }
+ ]
+}

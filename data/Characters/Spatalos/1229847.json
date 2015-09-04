@@ -1,1 +1,154 @@
-{"characterID":1229847,"characterClassID":4,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":128,"rankingPositionChange":0,"gloryPoint":104662,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":128,"rankingPositionChange":0,"gloryPoint":104613,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":128,"rankingPositionChange":0,"gloryPoint":104564,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":128,"rankingPositionChange":0,"gloryPoint":104515,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":128,"rankingPositionChange":0,"gloryPoint":104466,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-05T22:00:00.000Z","position":128,"rankingPositionChange":0,"gloryPoint":104417,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-06T22:00:00.000Z","position":128,"rankingPositionChange":0,"gloryPoint":104368,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-07T22:00:00.000Z","position":129,"rankingPositionChange":-1,"gloryPoint":104319,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-08T22:00:00.000Z","position":129,"rankingPositionChange":0,"gloryPoint":104319,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-09T22:00:00.000Z","position":130,"rankingPositionChange":-1,"gloryPoint":104270,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-10T22:00:00.000Z","position":132,"rankingPositionChange":-2,"gloryPoint":104172,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-11T22:00:00.000Z","position":132,"rankingPositionChange":0,"gloryPoint":104172,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-12T22:00:00.000Z","position":132,"rankingPositionChange":0,"gloryPoint":104074,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-13T22:00:00.000Z","position":132,"rankingPositionChange":0,"gloryPoint":104025,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-14T22:00:00.000Z","position":133,"rankingPositionChange":-1,"gloryPoint":103976,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-15T22:00:00.000Z","position":133,"rankingPositionChange":0,"gloryPoint":103976,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-16T22:00:00.000Z","position":133,"rankingPositionChange":0,"gloryPoint":103927,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Asmolester"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Asmolester","position":133,"rankingPositionChange":0,"gloryPoint":103927,"soldierRankID":13}
+{
+ "characterID": 1229847,
+ "characterClassID": 4,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104662,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104613,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104564,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104515,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104466,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104417,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104368,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 129,
+   "rankingPositionChange": -1,
+   "gloryPoint": 104319,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 129,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104319,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 130,
+   "rankingPositionChange": -1,
+   "gloryPoint": 104270,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -2,
+   "gloryPoint": 104172,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104172,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104074,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104025,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 133,
+   "rankingPositionChange": -1,
+   "gloryPoint": 103976,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 133,
+   "rankingPositionChange": 0,
+   "gloryPoint": 103976,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 133,
+   "rankingPositionChange": 0,
+   "gloryPoint": 103927,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Asmolester"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

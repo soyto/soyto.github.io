@@ -1,1 +1,164 @@
-{"characterID":765589,"characterClassID":10,"raceID":0,"status":[{"date":"2015-08-14T22:00:00.000Z","position":1000,"rankingPositionChange":0,"gloryPoint":9120,"gloryPointChange":0,"soldierRankID":0},{"date":"2015-08-15T22:00:00.000Z","position":1000,"rankingPositionChange":0,"gloryPoint":9120,"gloryPointChange":0,"soldierRankID":0},{"date":"2015-08-16T22:00:00.000Z","position":990,"rankingPositionChange":10,"gloryPoint":9323,"gloryPointChange":203,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":995,"rankingPositionChange":-5,"gloryPoint":9316,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-18T22:00:00.000Z","position":987,"rankingPositionChange":8,"gloryPoint":9628,"gloryPointChange":312,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":996,"rankingPositionChange":-9,"gloryPoint":9421,"gloryPointChange":-207,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":990,"rankingPositionChange":6,"gloryPoint":9630,"gloryPointChange":209,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":996,"rankingPositionChange":-6,"gloryPoint":9623,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":995,"rankingPositionChange":1,"gloryPoint":9706,"gloryPointChange":83,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":984,"rankingPositionChange":11,"gloryPoint":9938,"gloryPointChange":232,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":985,"rankingPositionChange":-1,"gloryPoint":10013,"gloryPointChange":75,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":983,"rankingPositionChange":2,"gloryPoint":10118,"gloryPointChange":105,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":975,"rankingPositionChange":8,"gloryPoint":10273,"gloryPointChange":155,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":969,"rankingPositionChange":6,"gloryPoint":10602,"gloryPointChange":329,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":975,"rankingPositionChange":-6,"gloryPoint":10595,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":960,"rankingPositionChange":15,"gloryPoint":10805,"gloryPointChange":210,"soldierRankID":10}],"names":[{"date":"2015-08-14T22:00:00.000Z","characterName":"Shulak"}],"guilds":[{"date":"2015-08-14T22:00:00.000Z","guildName":"Meow Meow GTFO","guildID":12571}],"characterName":"Shulak","guildName":"Meow Meow GTFO","guildID":12571,"position":960,"rankingPositionChange":15,"gloryPoint":10805,"soldierRankID":10}
+{
+ "characterID": 765589,
+ "characterClassID": 10,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9120,
+   "gloryPointChange": 0,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9120,
+   "gloryPointChange": 0,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 10,
+   "gloryPoint": 9323,
+   "gloryPointChange": 203,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9316,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 987,
+   "rankingPositionChange": 8,
+   "gloryPoint": 9628,
+   "gloryPointChange": 312,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -9,
+   "gloryPoint": 9421,
+   "gloryPointChange": -207,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 6,
+   "gloryPoint": 9630,
+   "gloryPointChange": 209,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9623,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9706,
+   "gloryPointChange": 83,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": 11,
+   "gloryPoint": 9938,
+   "gloryPointChange": 232,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10013,
+   "gloryPointChange": 75,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": 2,
+   "gloryPoint": 10118,
+   "gloryPointChange": 105,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": 8,
+   "gloryPoint": 10273,
+   "gloryPointChange": 155,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": 6,
+   "gloryPoint": 10602,
+   "gloryPointChange": 329,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": -6,
+   "gloryPoint": 10595,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 960,
+   "rankingPositionChange": 15,
+   "gloryPoint": 10805,
+   "gloryPointChange": 210,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 970,
+   "rankingPositionChange": -10,
+   "gloryPoint": 10798,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 972,
+   "rankingPositionChange": null,
+   "gloryPoint": 10791,
+   "gloryPointChange": 7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "characterName": "Shulak"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "guildName": "Meow Meow GTFO",
+   "guildID": 12571
+  }
+ ]
+}

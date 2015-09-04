@@ -1,1 +1,156 @@
-{"characterID":1275284,"characterClassID":4,"raceID":1,"status":[{"date":"2015-08-16T22:00:00.000Z","position":984,"rankingPositionChange":0,"gloryPoint":1574,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":986,"rankingPositionChange":-2,"gloryPoint":1567,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-18T22:00:00.000Z","position":983,"rankingPositionChange":3,"gloryPoint":1553,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":928,"rankingPositionChange":55,"gloryPoint":1796,"gloryPointChange":243,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":926,"rankingPositionChange":2,"gloryPoint":1789,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":924,"rankingPositionChange":2,"gloryPoint":1782,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":926,"rankingPositionChange":-2,"gloryPoint":1775,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":911,"rankingPositionChange":15,"gloryPoint":1868,"gloryPointChange":93,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":915,"rankingPositionChange":-4,"gloryPoint":1854,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":918,"rankingPositionChange":-3,"gloryPoint":1840,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":912,"rankingPositionChange":6,"gloryPoint":1833,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":916,"rankingPositionChange":-4,"gloryPoint":1826,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":884,"rankingPositionChange":32,"gloryPoint":1969,"gloryPointChange":143,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":887,"rankingPositionChange":-3,"gloryPoint":1962,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":896,"rankingPositionChange":-9,"gloryPoint":1941,"gloryPointChange":-21,"soldierRankID":10}],"names":[{"date":"2015-08-16T22:00:00.000Z","characterName":"Jecey"}],"guilds":[{"date":"2015-08-16T22:00:00.000Z","guildName":"Eternal Army","guildID":27184}],"characterName":"Jecey","guildName":"Eternal Army","guildID":27184,"position":896,"rankingPositionChange":-9,"gloryPoint":1941,"soldierRankID":10}
+{
+ "characterID": 1275284,
+ "characterClassID": 4,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1574,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1567,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": 3,
+   "gloryPoint": 1553,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 928,
+   "rankingPositionChange": 55,
+   "gloryPoint": 1796,
+   "gloryPointChange": 243,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1789,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 924,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1782,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1775,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 911,
+   "rankingPositionChange": 15,
+   "gloryPoint": 1868,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 915,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1854,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 918,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1840,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": 6,
+   "gloryPoint": 1833,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1826,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 884,
+   "rankingPositionChange": 32,
+   "gloryPoint": 1969,
+   "gloryPointChange": 143,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 887,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1962,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 896,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1941,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 899,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1934,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 906,
+   "rankingPositionChange": null,
+   "gloryPoint": 1927,
+   "gloryPointChange": 7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "characterName": "Jecey"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "guildName": "Eternal Army",
+   "guildID": 27184
+  }
+ ]
+}

@@ -1,1 +1,68 @@
-{"characterID":950410,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-05T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":1519,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":1000,"rankingPositionChange":-1,"gloryPoint":1512,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-08-10T22:00:00.000Z","position":999,"rankingPositionChange":1,"gloryPoint":1512,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":1512,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":997,"rankingPositionChange":2,"gloryPoint":1505,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":999,"rankingPositionChange":-2,"gloryPoint":1491,"gloryPointChange":-14,"soldierRankID":10}],"names":[{"date":"2015-08-05T22:00:00.000Z","characterName":"Cupito"}],"guilds":[{"date":"2015-08-05T22:00:00.000Z","guildName":"Nova Legio","guildID":1186}],"characterName":"Cupito","guildName":"Nova Legio","guildID":1186,"position":999,"rankingPositionChange":-2,"gloryPoint":1491,"soldierRankID":10}
+{
+ "characterID": 950410,
+ "characterClassID": 1,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1519,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1512,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1512,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1512,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1505,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1491,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "characterName": "Cupito"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "guildName": "Nova Legio",
+   "guildID": 1186
+  }
+ ]
+}

@@ -1,1 +1,175 @@
-{"characterID":1098941,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-14T22:00:00.000Z","position":193,"rankingPositionChange":0,"gloryPoint":40883,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-15T22:00:00.000Z","position":193,"rankingPositionChange":0,"gloryPoint":40883,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-16T22:00:00.000Z","position":193,"rankingPositionChange":0,"gloryPoint":40986,"gloryPointChange":103,"soldierRankID":13},{"date":"2015-08-17T22:00:00.000Z","position":195,"rankingPositionChange":-2,"gloryPoint":40937,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-18T22:00:00.000Z","position":196,"rankingPositionChange":-1,"gloryPoint":40839,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-19T22:00:00.000Z","position":196,"rankingPositionChange":0,"gloryPoint":40790,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-20T22:00:00.000Z","position":195,"rankingPositionChange":1,"gloryPoint":40741,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-21T22:00:00.000Z","position":196,"rankingPositionChange":-1,"gloryPoint":40858,"gloryPointChange":117,"soldierRankID":13},{"date":"2015-08-22T22:00:00.000Z","position":195,"rankingPositionChange":1,"gloryPoint":40836,"gloryPointChange":-22,"soldierRankID":13},{"date":"2015-08-23T22:00:00.000Z","position":195,"rankingPositionChange":0,"gloryPoint":40811,"gloryPointChange":-25,"soldierRankID":13},{"date":"2015-08-25T22:00:00.000Z","position":197,"rankingPositionChange":-2,"gloryPoint":40713,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-26T22:00:00.000Z","position":195,"rankingPositionChange":2,"gloryPoint":40615,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-27T22:00:00.000Z","position":195,"rankingPositionChange":0,"gloryPoint":40566,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-28T22:00:00.000Z","position":194,"rankingPositionChange":1,"gloryPoint":40520,"gloryPointChange":-46,"soldierRankID":13},{"date":"2015-08-29T22:00:00.000Z","position":193,"rankingPositionChange":1,"gloryPoint":40495,"gloryPointChange":-25,"soldierRankID":13},{"date":"2015-08-30T22:00:00.000Z","position":193,"rankingPositionChange":0,"gloryPoint":40497,"gloryPointChange":2,"soldierRankID":13},{"date":"2015-09-01T22:00:00.000Z","position":196,"rankingPositionChange":-3,"gloryPoint":40350,"gloryPointChange":-147,"soldierRankID":13}],"names":[{"date":"2015-08-14T22:00:00.000Z","characterName":"Kefka"}],"guilds":[{"date":"2015-08-14T22:00:00.000Z","guildName":"Kein Skill aber WG Button GG","guildID":35778},{"date":"2015-08-16T22:00:00.000Z"}],"characterName":"Kefka","position":196,"rankingPositionChange":-3,"gloryPoint":40350,"soldierRankID":13}
+{
+ "characterID": 1098941,
+ "characterClassID": 1,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 193,
+   "rankingPositionChange": 0,
+   "gloryPoint": 40883,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 193,
+   "rankingPositionChange": 0,
+   "gloryPoint": 40883,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 193,
+   "rankingPositionChange": 0,
+   "gloryPoint": 40986,
+   "gloryPointChange": 103,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": -2,
+   "gloryPoint": 40937,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40839,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": 0,
+   "gloryPoint": 40790,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": 1,
+   "gloryPoint": 40741,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40858,
+   "gloryPointChange": 117,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": 1,
+   "gloryPoint": 40836,
+   "gloryPointChange": -22,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": 0,
+   "gloryPoint": 40811,
+   "gloryPointChange": -25,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 197,
+   "rankingPositionChange": -2,
+   "gloryPoint": 40713,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": 2,
+   "gloryPoint": 40615,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": 0,
+   "gloryPoint": 40566,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 194,
+   "rankingPositionChange": 1,
+   "gloryPoint": 40520,
+   "gloryPointChange": -46,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 193,
+   "rankingPositionChange": 1,
+   "gloryPoint": 40495,
+   "gloryPointChange": -25,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 193,
+   "rankingPositionChange": 0,
+   "gloryPoint": 40497,
+   "gloryPointChange": 2,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": -3,
+   "gloryPoint": 40350,
+   "gloryPointChange": -147,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 198,
+   "rankingPositionChange": -2,
+   "gloryPoint": 40301,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 197,
+   "rankingPositionChange": null,
+   "gloryPoint": 40252,
+   "gloryPointChange": 49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "characterName": "Kefka"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "guildName": "Kein Skill aber WG Button GG",
+   "guildID": 35778
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z"
+  }
+ ]
+}

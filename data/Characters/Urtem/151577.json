@@ -1,1 +1,156 @@
-{"characterID":151577,"characterClassID":2,"raceID":1,"status":[{"date":"2015-08-16T22:00:00.000Z","position":840,"rankingPositionChange":0,"gloryPoint":8982,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":845,"rankingPositionChange":-5,"gloryPoint":8975,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-18T22:00:00.000Z","position":845,"rankingPositionChange":0,"gloryPoint":8961,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":846,"rankingPositionChange":-1,"gloryPoint":8954,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":843,"rankingPositionChange":3,"gloryPoint":8947,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":845,"rankingPositionChange":-2,"gloryPoint":8940,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":846,"rankingPositionChange":-1,"gloryPoint":8933,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":844,"rankingPositionChange":2,"gloryPoint":8926,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":846,"rankingPositionChange":-2,"gloryPoint":8912,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":851,"rankingPositionChange":-5,"gloryPoint":8898,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":849,"rankingPositionChange":2,"gloryPoint":8891,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":849,"rankingPositionChange":0,"gloryPoint":8884,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":852,"rankingPositionChange":-3,"gloryPoint":8877,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":855,"rankingPositionChange":-3,"gloryPoint":8870,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":865,"rankingPositionChange":-10,"gloryPoint":8849,"gloryPointChange":-21,"soldierRankID":10}],"names":[{"date":"2015-08-16T22:00:00.000Z","characterName":"Yuhie"}],"guilds":[{"date":"2015-08-16T22:00:00.000Z","guildName":"No Respect","guildID":45805}],"characterName":"Yuhie","guildName":"No Respect","guildID":45805,"position":865,"rankingPositionChange":-10,"gloryPoint":8849,"soldierRankID":10}
+{
+ "characterID": 151577,
+ "characterClassID": 2,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8982,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 845,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8975,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 845,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8961,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8954,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 843,
+   "rankingPositionChange": 3,
+   "gloryPoint": 8947,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 845,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8940,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8933,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 844,
+   "rankingPositionChange": 2,
+   "gloryPoint": 8926,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8912,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8898,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 849,
+   "rankingPositionChange": 2,
+   "gloryPoint": 8891,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 849,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8884,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8877,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8870,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 865,
+   "rankingPositionChange": -10,
+   "gloryPoint": 8849,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": 5,
+   "gloryPoint": 8842,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 859,
+   "rankingPositionChange": null,
+   "gloryPoint": 8835,
+   "gloryPointChange": 7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "characterName": "Yuhie"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "guildName": "No Respect",
+   "guildID": 45805
+  }
+ ]
+}

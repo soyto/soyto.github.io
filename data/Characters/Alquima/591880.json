@@ -1,1 +1,172 @@
-{"characterID":591880,"characterClassID":14,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":104,"rankingPositionChange":-1,"gloryPoint":101827,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":104,"rankingPositionChange":0,"gloryPoint":101778,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":104,"rankingPositionChange":0,"gloryPoint":101729,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":104,"rankingPositionChange":0,"gloryPoint":101680,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":104,"rankingPositionChange":0,"gloryPoint":101631,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-05T22:00:00.000Z","position":104,"rankingPositionChange":0,"gloryPoint":101582,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-06T22:00:00.000Z","position":104,"rankingPositionChange":0,"gloryPoint":101533,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-07T22:00:00.000Z","position":104,"rankingPositionChange":0,"gloryPoint":101484,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-08T22:00:00.000Z","position":104,"rankingPositionChange":0,"gloryPoint":101484,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-09T22:00:00.000Z","position":105,"rankingPositionChange":-1,"gloryPoint":101435,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-10T22:00:00.000Z","position":105,"rankingPositionChange":0,"gloryPoint":101337,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-11T22:00:00.000Z","position":105,"rankingPositionChange":0,"gloryPoint":101337,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-12T22:00:00.000Z","position":106,"rankingPositionChange":-1,"gloryPoint":101239,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-13T22:00:00.000Z","position":107,"rankingPositionChange":-1,"gloryPoint":101190,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-14T22:00:00.000Z","position":107,"rankingPositionChange":0,"gloryPoint":101141,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-15T22:00:00.000Z","position":107,"rankingPositionChange":0,"gloryPoint":101141,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-16T22:00:00.000Z","position":108,"rankingPositionChange":-1,"gloryPoint":101092,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-17T22:00:00.000Z","position":108,"rankingPositionChange":0,"gloryPoint":101043,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Xcarlosx"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Black Lights","guildID":5893}],"characterName":"Xcarlosx","guildName":"Black Lights","guildID":5893,"position":108,"rankingPositionChange":0,"gloryPoint":101043,"soldierRankID":13}
+{
+ "characterID": 591880,
+ "characterClassID": 14,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": -1,
+   "gloryPoint": 101827,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101778,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101729,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101680,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101631,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101582,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101533,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101484,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101484,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": -1,
+   "gloryPoint": 101435,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101337,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101337,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 106,
+   "rankingPositionChange": -1,
+   "gloryPoint": 101239,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": -1,
+   "gloryPoint": 101190,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101141,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101141,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 108,
+   "rankingPositionChange": -1,
+   "gloryPoint": 101092,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 108,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101043,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 112,
+   "rankingPositionChange": null,
+   "gloryPoint": 100259,
+   "gloryPointChange": 784,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Xcarlosx"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Black Lights",
+   "guildID": 5893
+  }
+ ]
+}

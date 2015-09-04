@@ -1,1 +1,188 @@
-{"characterID":1046702,"characterClassID":10,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":296,"rankingPositionChange":-3,"gloryPoint":41962,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":296,"rankingPositionChange":0,"gloryPoint":41913,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":298,"rankingPositionChange":-2,"gloryPoint":41864,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":298,"rankingPositionChange":0,"gloryPoint":41815,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":299,"rankingPositionChange":-1,"gloryPoint":41766,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-05T22:00:00.000Z","position":299,"rankingPositionChange":0,"gloryPoint":41717,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-06T22:00:00.000Z","position":300,"rankingPositionChange":-1,"gloryPoint":41668,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-07T22:00:00.000Z","position":302,"rankingPositionChange":-2,"gloryPoint":41619,"gloryPointChange":-49,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":302,"rankingPositionChange":0,"gloryPoint":41619,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":304,"rankingPositionChange":-2,"gloryPoint":41591,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":305,"rankingPositionChange":-1,"gloryPoint":41535,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":305,"rankingPositionChange":0,"gloryPoint":41535,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-12T22:00:00.000Z","position":304,"rankingPositionChange":1,"gloryPoint":41479,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-13T22:00:00.000Z","position":303,"rankingPositionChange":1,"gloryPoint":41451,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-14T22:00:00.000Z","position":306,"rankingPositionChange":-3,"gloryPoint":41423,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-15T22:00:00.000Z","position":306,"rankingPositionChange":0,"gloryPoint":41423,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-16T22:00:00.000Z","position":309,"rankingPositionChange":-3,"gloryPoint":41395,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-17T22:00:00.000Z","position":309,"rankingPositionChange":0,"gloryPoint":41367,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-18T22:00:00.000Z","position":312,"rankingPositionChange":-3,"gloryPoint":41311,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-19T22:00:00.000Z","position":315,"rankingPositionChange":-3,"gloryPoint":41283,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-20T22:00:00.000Z","position":314,"rankingPositionChange":1,"gloryPoint":41255,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Arwa"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Legends of the Samurai","guildID":35971}],"characterName":"Arwa","guildName":"Legends of the Samurai","guildID":35971,"position":314,"rankingPositionChange":1,"gloryPoint":41255,"soldierRankID":12}
+{
+ "characterID": 1046702,
+ "characterClassID": 10,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 296,
+   "rankingPositionChange": -3,
+   "gloryPoint": 41962,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 296,
+   "rankingPositionChange": 0,
+   "gloryPoint": 41913,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 298,
+   "rankingPositionChange": -2,
+   "gloryPoint": 41864,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 298,
+   "rankingPositionChange": 0,
+   "gloryPoint": 41815,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41766,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": 0,
+   "gloryPoint": 41717,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 300,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41668,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 302,
+   "rankingPositionChange": -2,
+   "gloryPoint": 41619,
+   "gloryPointChange": -49,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 302,
+   "rankingPositionChange": 0,
+   "gloryPoint": 41619,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 304,
+   "rankingPositionChange": -2,
+   "gloryPoint": 41591,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41535,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": 0,
+   "gloryPoint": 41535,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 304,
+   "rankingPositionChange": 1,
+   "gloryPoint": 41479,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 303,
+   "rankingPositionChange": 1,
+   "gloryPoint": 41451,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 306,
+   "rankingPositionChange": -3,
+   "gloryPoint": 41423,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 306,
+   "rankingPositionChange": 0,
+   "gloryPoint": 41423,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 309,
+   "rankingPositionChange": -3,
+   "gloryPoint": 41395,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 309,
+   "rankingPositionChange": 0,
+   "gloryPoint": 41367,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 312,
+   "rankingPositionChange": -3,
+   "gloryPoint": 41311,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 315,
+   "rankingPositionChange": -3,
+   "gloryPoint": 41283,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 314,
+   "rankingPositionChange": 1,
+   "gloryPoint": 41255,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Arwa"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Legends of the Samurai",
+   "guildID": 35971
+  }
+ ]
+}

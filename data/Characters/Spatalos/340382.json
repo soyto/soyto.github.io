@@ -1,1 +1,180 @@
-{"characterID":340382,"characterClassID":2,"raceID":1,"status":[{"date":"2015-08-12T22:00:00.000Z","position":403,"rankingPositionChange":-1,"gloryPoint":11730,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-13T22:00:00.000Z","position":405,"rankingPositionChange":-2,"gloryPoint":11702,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-14T22:00:00.000Z","position":405,"rankingPositionChange":0,"gloryPoint":11674,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-15T22:00:00.000Z","position":405,"rankingPositionChange":0,"gloryPoint":11674,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-16T22:00:00.000Z","position":410,"rankingPositionChange":-5,"gloryPoint":11646,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-18T22:00:00.000Z","position":415,"rankingPositionChange":-5,"gloryPoint":11562,"gloryPointChange":-84,"soldierRankID":12},{"date":"2015-08-19T22:00:00.000Z","position":414,"rankingPositionChange":1,"gloryPoint":11534,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-20T22:00:00.000Z","position":416,"rankingPositionChange":-2,"gloryPoint":11506,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-21T22:00:00.000Z","position":416,"rankingPositionChange":0,"gloryPoint":11478,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-22T22:00:00.000Z","position":417,"rankingPositionChange":-1,"gloryPoint":11450,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-23T22:00:00.000Z","position":417,"rankingPositionChange":0,"gloryPoint":11422,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-25T22:00:00.000Z","position":416,"rankingPositionChange":1,"gloryPoint":11366,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-26T22:00:00.000Z","position":421,"rankingPositionChange":-5,"gloryPoint":11310,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-27T22:00:00.000Z","position":425,"rankingPositionChange":-4,"gloryPoint":11282,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-28T22:00:00.000Z","position":427,"rankingPositionChange":-2,"gloryPoint":11254,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-29T22:00:00.000Z","position":424,"rankingPositionChange":3,"gloryPoint":11226,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-30T22:00:00.000Z","position":425,"rankingPositionChange":-1,"gloryPoint":11198,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-09-01T22:00:00.000Z","position":424,"rankingPositionChange":1,"gloryPoint":11174,"gloryPointChange":-24,"soldierRankID":12}],"names":[{"date":"2015-08-12T22:00:00.000Z","characterName":"Bloodwolf"}],"guilds":[{"date":"2015-08-12T22:00:00.000Z","guildName":"Descendants of Dragon","guildID":11936}],"characterName":"Bloodwolf","guildName":"Descendants of Dragon","guildID":11936,"position":424,"rankingPositionChange":1,"gloryPoint":11174,"soldierRankID":12}
+{
+ "characterID": 340382,
+ "characterClassID": 2,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 403,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11730,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 405,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11702,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 405,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11674,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 405,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11674,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 410,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11646,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 415,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11562,
+   "gloryPointChange": -84,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 414,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11534,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11506,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11478,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 417,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11450,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 417,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11422,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11366,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 421,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11310,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 425,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11282,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 427,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11254,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 424,
+   "rankingPositionChange": 3,
+   "gloryPoint": 11226,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 425,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11198,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 424,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11174,
+   "gloryPointChange": -24,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 424,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11146,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 426,
+   "rankingPositionChange": null,
+   "gloryPoint": 11118,
+   "gloryPointChange": 28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "characterName": "Bloodwolf"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "guildName": "Descendants of Dragon",
+   "guildID": 11936
+  }
+ ]
+}

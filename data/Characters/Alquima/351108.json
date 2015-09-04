@@ -1,1 +1,180 @@
-{"characterID":351108,"characterClassID":11,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":555,"rankingPositionChange":-1,"gloryPoint":12711,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-14T22:00:00.000Z","position":587,"rankingPositionChange":-32,"gloryPoint":12543,"gloryPointChange":-168,"soldierRankID":11},{"date":"2015-08-15T22:00:00.000Z","position":587,"rankingPositionChange":0,"gloryPoint":12543,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-16T22:00:00.000Z","position":588,"rankingPositionChange":-1,"gloryPoint":12529,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-17T22:00:00.000Z","position":591,"rankingPositionChange":-3,"gloryPoint":12515,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-18T22:00:00.000Z","position":596,"rankingPositionChange":-5,"gloryPoint":12487,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-19T22:00:00.000Z","position":603,"rankingPositionChange":-7,"gloryPoint":12473,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-20T22:00:00.000Z","position":603,"rankingPositionChange":0,"gloryPoint":12459,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-21T22:00:00.000Z","position":604,"rankingPositionChange":-1,"gloryPoint":12445,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-22T22:00:00.000Z","position":609,"rankingPositionChange":-5,"gloryPoint":12431,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-23T22:00:00.000Z","position":608,"rankingPositionChange":1,"gloryPoint":12417,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":615,"rankingPositionChange":-7,"gloryPoint":12389,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":622,"rankingPositionChange":-7,"gloryPoint":12361,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-27T22:00:00.000Z","position":621,"rankingPositionChange":1,"gloryPoint":12347,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-28T22:00:00.000Z","position":619,"rankingPositionChange":2,"gloryPoint":12333,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-29T22:00:00.000Z","position":618,"rankingPositionChange":1,"gloryPoint":12319,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":619,"rankingPositionChange":-1,"gloryPoint":12305,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":628,"rankingPositionChange":-9,"gloryPoint":12263,"gloryPointChange":-42,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Halysa"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"The Walking Potorro","guildID":12069}],"characterName":"Halysa","guildName":"The Walking Potorro","guildID":12069,"position":628,"rankingPositionChange":-9,"gloryPoint":12263,"soldierRankID":11}
+{
+ "characterID": 351108,
+ "characterClassID": 11,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 555,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12711,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 587,
+   "rankingPositionChange": -32,
+   "gloryPoint": 12543,
+   "gloryPointChange": -168,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 587,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12543,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 588,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12529,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 591,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12515,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": -5,
+   "gloryPoint": 12487,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 603,
+   "rankingPositionChange": -7,
+   "gloryPoint": 12473,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 603,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12459,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12445,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 609,
+   "rankingPositionChange": -5,
+   "gloryPoint": 12431,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 608,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12417,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 615,
+   "rankingPositionChange": -7,
+   "gloryPoint": 12389,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 622,
+   "rankingPositionChange": -7,
+   "gloryPoint": 12361,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12347,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 619,
+   "rankingPositionChange": 2,
+   "gloryPoint": 12333,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 618,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12319,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 619,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12305,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 628,
+   "rankingPositionChange": -9,
+   "gloryPoint": 12263,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 638,
+   "rankingPositionChange": -10,
+   "gloryPoint": 12249,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 642,
+   "rankingPositionChange": null,
+   "gloryPoint": 12235,
+   "gloryPointChange": 14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Halysa"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "The Walking Potorro",
+   "guildID": 12069
+  }
+ ]
+}

@@ -1,1 +1,223 @@
-{"characterID":494155,"characterClassID":11,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":57,"rankingPositionChange":0,"gloryPoint":175916,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-01T22:00:00.000Z","position":57,"rankingPositionChange":0,"gloryPoint":175809,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-02T22:00:00.000Z","position":57,"rankingPositionChange":0,"gloryPoint":175702,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-03T22:00:00.000Z","position":57,"rankingPositionChange":0,"gloryPoint":175595,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-04T22:00:00.000Z","position":57,"rankingPositionChange":0,"gloryPoint":175488,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-05T22:00:00.000Z","position":58,"rankingPositionChange":-1,"gloryPoint":175381,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-06T22:00:00.000Z","position":58,"rankingPositionChange":0,"gloryPoint":175274,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-07T22:00:00.000Z","position":58,"rankingPositionChange":0,"gloryPoint":175167,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-08T22:00:00.000Z","position":58,"rankingPositionChange":0,"gloryPoint":175167,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-09T22:00:00.000Z","position":58,"rankingPositionChange":0,"gloryPoint":175060,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-10T22:00:00.000Z","position":59,"rankingPositionChange":-1,"gloryPoint":174846,"gloryPointChange":-214,"soldierRankID":14},{"date":"2015-08-11T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":174846,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-12T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":174632,"gloryPointChange":-214,"soldierRankID":14},{"date":"2015-08-13T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":174525,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-14T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":174418,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-15T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":174418,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-16T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":174311,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-17T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":174204,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-18T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":173990,"gloryPointChange":-214,"soldierRankID":14},{"date":"2015-08-19T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":173883,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-20T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":173776,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-21T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":173669,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-22T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":173562,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-23T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":173455,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-25T22:00:00.000Z","position":59,"rankingPositionChange":0,"gloryPoint":173241,"gloryPointChange":-214,"soldierRankID":14}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Aleutia"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Shake It Off","guildID":27189},{"date":"2015-08-09T22:00:00.000Z"}],"characterName":"Aleutia","position":59,"rankingPositionChange":0,"gloryPoint":173241,"soldierRankID":14}
+{
+ "characterID": 494155,
+ "characterClassID": 11,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 57,
+   "rankingPositionChange": 0,
+   "gloryPoint": 175916,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 57,
+   "rankingPositionChange": 0,
+   "gloryPoint": 175809,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 57,
+   "rankingPositionChange": 0,
+   "gloryPoint": 175702,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 57,
+   "rankingPositionChange": 0,
+   "gloryPoint": 175595,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 57,
+   "rankingPositionChange": 0,
+   "gloryPoint": 175488,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": -1,
+   "gloryPoint": 175381,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": 0,
+   "gloryPoint": 175274,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": 0,
+   "gloryPoint": 175167,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": 0,
+   "gloryPoint": 175167,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": 0,
+   "gloryPoint": 175060,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": -1,
+   "gloryPoint": 174846,
+   "gloryPointChange": -214,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 174846,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 174632,
+   "gloryPointChange": -214,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 174525,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 174418,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 174418,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 174311,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 174204,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 173990,
+   "gloryPointChange": -214,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 173883,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 173776,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 173669,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 173562,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 173455,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 0,
+   "gloryPoint": 173241,
+   "gloryPointChange": -214,
+   "soldierRankID": 14
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Aleutia"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Shake It Off",
+   "guildID": 27189
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z"
+  }
+ ]
+}

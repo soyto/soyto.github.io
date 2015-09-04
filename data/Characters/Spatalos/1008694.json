@@ -1,1 +1,276 @@
-{"characterID":1008694,"characterClassID":14,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":400,"rankingPositionChange":-2,"gloryPoint":31914,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":398,"rankingPositionChange":2,"gloryPoint":31886,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":399,"rankingPositionChange":-1,"gloryPoint":31958,"gloryPointChange":72,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":396,"rankingPositionChange":3,"gloryPoint":32083,"gloryPointChange":125,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":392,"rankingPositionChange":4,"gloryPoint":32258,"gloryPointChange":175,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":394,"rankingPositionChange":-2,"gloryPoint":32230,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":391,"rankingPositionChange":3,"gloryPoint":32655,"gloryPointChange":425,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":388,"rankingPositionChange":3,"gloryPoint":33077,"gloryPointChange":422,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":385,"rankingPositionChange":3,"gloryPoint":33427,"gloryPointChange":350,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":389,"rankingPositionChange":-4,"gloryPoint":33674,"gloryPointChange":247,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":389,"rankingPositionChange":0,"gloryPoint":33674,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-12T22:00:00.000Z","position":389,"rankingPositionChange":0,"gloryPoint":34185,"gloryPointChange":511,"soldierRankID":12},{"date":"2015-08-13T22:00:00.000Z","position":388,"rankingPositionChange":1,"gloryPoint":34263,"gloryPointChange":78,"soldierRankID":12},{"date":"2015-08-14T22:00:00.000Z","position":384,"rankingPositionChange":4,"gloryPoint":34637,"gloryPointChange":374,"soldierRankID":12},{"date":"2015-08-15T22:00:00.000Z","position":384,"rankingPositionChange":0,"gloryPoint":34637,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-16T22:00:00.000Z","position":388,"rankingPositionChange":-4,"gloryPoint":34609,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-17T22:00:00.000Z","position":386,"rankingPositionChange":2,"gloryPoint":34581,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-18T22:00:00.000Z","position":383,"rankingPositionChange":3,"gloryPoint":34900,"gloryPointChange":319,"soldierRankID":12},{"date":"2015-08-19T22:00:00.000Z","position":384,"rankingPositionChange":-1,"gloryPoint":34872,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-20T22:00:00.000Z","position":384,"rankingPositionChange":0,"gloryPoint":34844,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-21T22:00:00.000Z","position":385,"rankingPositionChange":-1,"gloryPoint":34816,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-22T22:00:00.000Z","position":384,"rankingPositionChange":1,"gloryPoint":34788,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-23T22:00:00.000Z","position":386,"rankingPositionChange":-2,"gloryPoint":34760,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-25T22:00:00.000Z","position":387,"rankingPositionChange":-1,"gloryPoint":35007,"gloryPointChange":247,"soldierRankID":12},{"date":"2015-08-26T22:00:00.000Z","position":386,"rankingPositionChange":1,"gloryPoint":34951,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-27T22:00:00.000Z","position":386,"rankingPositionChange":0,"gloryPoint":35026,"gloryPointChange":75,"soldierRankID":12},{"date":"2015-08-28T22:00:00.000Z","position":387,"rankingPositionChange":-1,"gloryPoint":34998,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-29T22:00:00.000Z","position":387,"rankingPositionChange":0,"gloryPoint":35270,"gloryPointChange":272,"soldierRankID":12},{"date":"2015-08-30T22:00:00.000Z","position":386,"rankingPositionChange":1,"gloryPoint":35242,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-09-01T22:00:00.000Z","position":387,"rankingPositionChange":-1,"gloryPoint":35158,"gloryPointChange":-84,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Pamly"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"c ude","guildID":7288}],"characterName":"Pamly","guildName":"c ude","guildID":7288,"position":387,"rankingPositionChange":-1,"gloryPoint":35158,"soldierRankID":12}
+{
+ "characterID": 1008694,
+ "characterClassID": 14,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 400,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31914,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 398,
+   "rankingPositionChange": 2,
+   "gloryPoint": 31886,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 399,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31958,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 396,
+   "rankingPositionChange": 3,
+   "gloryPoint": 32083,
+   "gloryPointChange": 125,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 392,
+   "rankingPositionChange": 4,
+   "gloryPoint": 32258,
+   "gloryPointChange": 175,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": -2,
+   "gloryPoint": 32230,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 391,
+   "rankingPositionChange": 3,
+   "gloryPoint": 32655,
+   "gloryPointChange": 425,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 388,
+   "rankingPositionChange": 3,
+   "gloryPoint": 33077,
+   "gloryPointChange": 422,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 385,
+   "rankingPositionChange": 3,
+   "gloryPoint": 33427,
+   "gloryPointChange": 350,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 389,
+   "rankingPositionChange": -4,
+   "gloryPoint": 33674,
+   "gloryPointChange": 247,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 389,
+   "rankingPositionChange": 0,
+   "gloryPoint": 33674,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 389,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34185,
+   "gloryPointChange": 511,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 388,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34263,
+   "gloryPointChange": 78,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": 4,
+   "gloryPoint": 34637,
+   "gloryPointChange": 374,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34637,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 388,
+   "rankingPositionChange": -4,
+   "gloryPoint": 34609,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 386,
+   "rankingPositionChange": 2,
+   "gloryPoint": 34581,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 383,
+   "rankingPositionChange": 3,
+   "gloryPoint": 34900,
+   "gloryPointChange": 319,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34872,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34844,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 385,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34816,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34788,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 386,
+   "rankingPositionChange": -2,
+   "gloryPoint": 34760,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35007,
+   "gloryPointChange": 247,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 386,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34951,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 386,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35026,
+   "gloryPointChange": 75,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34998,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35270,
+   "gloryPointChange": 272,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 386,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35242,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35158,
+   "gloryPointChange": -84,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35130,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 388,
+   "rankingPositionChange": null,
+   "gloryPoint": 35102,
+   "gloryPointChange": 28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Pamly"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "c ude",
+   "guildID": 7288
+  }
+ ]
+}

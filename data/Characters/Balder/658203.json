@@ -1,1 +1,196 @@
-{"characterID":658203,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-01T22:00:00.000Z","position":654,"rankingPositionChange":90,"gloryPoint":1251,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":653,"rankingPositionChange":1,"gloryPoint":1254,"gloryPointChange":3,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":652,"rankingPositionChange":1,"gloryPoint":1257,"gloryPointChange":3,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":648,"rankingPositionChange":4,"gloryPoint":1270,"gloryPointChange":13,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":651,"rankingPositionChange":-3,"gloryPoint":1263,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":651,"rankingPositionChange":0,"gloryPoint":1256,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":658,"rankingPositionChange":-7,"gloryPoint":1249,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":658,"rankingPositionChange":0,"gloryPoint":1249,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":656,"rankingPositionChange":2,"gloryPoint":1292,"gloryPointChange":43,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":657,"rankingPositionChange":-1,"gloryPoint":1305,"gloryPointChange":13,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":631,"rankingPositionChange":26,"gloryPoint":1358,"gloryPointChange":53,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":635,"rankingPositionChange":-4,"gloryPoint":1351,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":625,"rankingPositionChange":10,"gloryPoint":1394,"gloryPointChange":43,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":621,"rankingPositionChange":4,"gloryPoint":1406,"gloryPointChange":12,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":613,"rankingPositionChange":8,"gloryPoint":1428,"gloryPointChange":22,"soldierRankID":11},{"date":"2015-08-27T22:00:00.000Z","position":605,"rankingPositionChange":8,"gloryPoint":1474,"gloryPointChange":46,"soldierRankID":11},{"date":"2015-08-28T22:00:00.000Z","position":604,"rankingPositionChange":1,"gloryPoint":1460,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-29T22:00:00.000Z","position":573,"rankingPositionChange":31,"gloryPoint":1596,"gloryPointChange":136,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":566,"rankingPositionChange":7,"gloryPoint":1602,"gloryPointChange":6,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":566,"rankingPositionChange":0,"gloryPoint":1570,"gloryPointChange":-32,"soldierRankID":11}],"names":[{"date":"2015-08-01T22:00:00.000Z","characterName":"Ienna"}],"guilds":[{"date":"2015-08-01T22:00:00.000Z","guildName":"dos","guildID":28992}],"characterName":"Ienna","guildName":"dos","guildID":28992,"position":566,"rankingPositionChange":0,"gloryPoint":1570,"soldierRankID":11}
+{
+ "characterID": 658203,
+ "characterClassID": 1,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 654,
+   "rankingPositionChange": 90,
+   "gloryPoint": 1251,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1254,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 652,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1257,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 648,
+   "rankingPositionChange": 4,
+   "gloryPoint": 1270,
+   "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 651,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1263,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 651,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1256,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 658,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1249,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 658,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1249,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 656,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1292,
+   "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 657,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1305,
+   "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 631,
+   "rankingPositionChange": 26,
+   "gloryPoint": 1358,
+   "gloryPointChange": 53,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 635,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1351,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 625,
+   "rankingPositionChange": 10,
+   "gloryPoint": 1394,
+   "gloryPointChange": 43,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": 4,
+   "gloryPoint": 1406,
+   "gloryPointChange": 12,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 613,
+   "rankingPositionChange": 8,
+   "gloryPoint": 1428,
+   "gloryPointChange": 22,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 605,
+   "rankingPositionChange": 8,
+   "gloryPoint": 1474,
+   "gloryPointChange": 46,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1460,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 573,
+   "rankingPositionChange": 31,
+   "gloryPoint": 1596,
+   "gloryPointChange": 136,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 566,
+   "rankingPositionChange": 7,
+   "gloryPoint": 1602,
+   "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 566,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1570,
+   "gloryPointChange": -32,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1576,
+   "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 574,
+   "rankingPositionChange": null,
+   "gloryPoint": 1562,
+   "gloryPointChange": 14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "characterName": "Ienna"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "guildName": "dos",
+   "guildID": 28992
+  }
+ ]
+}

@@ -1,1 +1,260 @@
-{"characterID":1482271,"characterClassID":14,"raceID":0,"status":[{"date":"2015-08-03T22:00:00.000Z","position":557,"rankingPositionChange":0,"gloryPoint":28862,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":560,"rankingPositionChange":-3,"gloryPoint":28848,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":562,"rankingPositionChange":-2,"gloryPoint":28834,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":564,"rankingPositionChange":-2,"gloryPoint":28820,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":562,"rankingPositionChange":2,"gloryPoint":28916,"gloryPointChange":96,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":562,"rankingPositionChange":0,"gloryPoint":28916,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-09T22:00:00.000Z","position":562,"rankingPositionChange":0,"gloryPoint":28999,"gloryPointChange":83,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":567,"rankingPositionChange":-5,"gloryPoint":28980,"gloryPointChange":-19,"soldierRankID":11},{"date":"2015-08-11T22:00:00.000Z","position":567,"rankingPositionChange":0,"gloryPoint":28980,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-12T22:00:00.000Z","position":569,"rankingPositionChange":-2,"gloryPoint":28958,"gloryPointChange":-22,"soldierRankID":11},{"date":"2015-08-13T22:00:00.000Z","position":571,"rankingPositionChange":-2,"gloryPoint":29067,"gloryPointChange":109,"soldierRankID":11},{"date":"2015-08-14T22:00:00.000Z","position":574,"rankingPositionChange":-3,"gloryPoint":29085,"gloryPointChange":18,"soldierRankID":11},{"date":"2015-08-15T22:00:00.000Z","position":574,"rankingPositionChange":0,"gloryPoint":29085,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-16T22:00:00.000Z","position":574,"rankingPositionChange":0,"gloryPoint":29081,"gloryPointChange":-4,"soldierRankID":11},{"date":"2015-08-17T22:00:00.000Z","position":575,"rankingPositionChange":-1,"gloryPoint":29067,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-18T22:00:00.000Z","position":575,"rankingPositionChange":0,"gloryPoint":29039,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-19T22:00:00.000Z","position":576,"rankingPositionChange":-1,"gloryPoint":29094,"gloryPointChange":55,"soldierRankID":11},{"date":"2015-08-20T22:00:00.000Z","position":576,"rankingPositionChange":0,"gloryPoint":29090,"gloryPointChange":-4,"soldierRankID":11},{"date":"2015-08-21T22:00:00.000Z","position":576,"rankingPositionChange":0,"gloryPoint":29151,"gloryPointChange":61,"soldierRankID":11},{"date":"2015-08-22T22:00:00.000Z","position":579,"rankingPositionChange":-3,"gloryPoint":29137,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-23T22:00:00.000Z","position":579,"rankingPositionChange":0,"gloryPoint":29132,"gloryPointChange":-5,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":578,"rankingPositionChange":1,"gloryPoint":29277,"gloryPointChange":145,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":582,"rankingPositionChange":-4,"gloryPoint":29272,"gloryPointChange":-5,"soldierRankID":11},{"date":"2015-08-27T22:00:00.000Z","position":581,"rankingPositionChange":1,"gloryPoint":29258,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-28T22:00:00.000Z","position":583,"rankingPositionChange":-2,"gloryPoint":29294,"gloryPointChange":36,"soldierRankID":11},{"date":"2015-08-29T22:00:00.000Z","position":586,"rankingPositionChange":-3,"gloryPoint":29280,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":589,"rankingPositionChange":-3,"gloryPoint":29266,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":584,"rankingPositionChange":5,"gloryPoint":29224,"gloryPointChange":-42,"soldierRankID":11}],"names":[{"date":"2015-08-03T22:00:00.000Z","characterName":"Missrain"}],"guilds":[{"date":"2015-08-03T22:00:00.000Z","guildName":"Nothing You Can Do","guildID":41692}],"characterName":"Missrain","guildName":"Nothing You Can Do","guildID":41692,"position":584,"rankingPositionChange":5,"gloryPoint":29224,"soldierRankID":11}
+{
+ "characterID": 1482271,
+ "characterClassID": 14,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 557,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28862,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 560,
+   "rankingPositionChange": -3,
+   "gloryPoint": 28848,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 562,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28834,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 564,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28820,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 562,
+   "rankingPositionChange": 2,
+   "gloryPoint": 28916,
+   "gloryPointChange": 96,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 562,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28916,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 562,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28999,
+   "gloryPointChange": 83,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 567,
+   "rankingPositionChange": -5,
+   "gloryPoint": 28980,
+   "gloryPointChange": -19,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 567,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28980,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 569,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28958,
+   "gloryPointChange": -22,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 571,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29067,
+   "gloryPointChange": 109,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 574,
+   "rankingPositionChange": -3,
+   "gloryPoint": 29085,
+   "gloryPointChange": 18,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 574,
+   "rankingPositionChange": 0,
+   "gloryPoint": 29085,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 574,
+   "rankingPositionChange": 0,
+   "gloryPoint": 29081,
+   "gloryPointChange": -4,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29067,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": 0,
+   "gloryPoint": 29039,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 576,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29094,
+   "gloryPointChange": 55,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 576,
+   "rankingPositionChange": 0,
+   "gloryPoint": 29090,
+   "gloryPointChange": -4,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 576,
+   "rankingPositionChange": 0,
+   "gloryPoint": 29151,
+   "gloryPointChange": 61,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 579,
+   "rankingPositionChange": -3,
+   "gloryPoint": 29137,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 579,
+   "rankingPositionChange": 0,
+   "gloryPoint": 29132,
+   "gloryPointChange": -5,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 578,
+   "rankingPositionChange": 1,
+   "gloryPoint": 29277,
+   "gloryPointChange": 145,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 582,
+   "rankingPositionChange": -4,
+   "gloryPoint": 29272,
+   "gloryPointChange": -5,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 581,
+   "rankingPositionChange": 1,
+   "gloryPoint": 29258,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 583,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29294,
+   "gloryPointChange": 36,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 586,
+   "rankingPositionChange": -3,
+   "gloryPoint": 29280,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 589,
+   "rankingPositionChange": -3,
+   "gloryPoint": 29266,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 584,
+   "rankingPositionChange": 5,
+   "gloryPoint": 29224,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 584,
+   "rankingPositionChange": 0,
+   "gloryPoint": 29210,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 584,
+   "rankingPositionChange": null,
+   "gloryPoint": 29196,
+   "gloryPointChange": 14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "characterName": "Missrain"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "guildName": "Nothing You Can Do",
+   "guildID": 41692
+  }
+ ]
+}

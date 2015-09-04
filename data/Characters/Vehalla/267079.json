@@ -1,1 +1,212 @@
-{"characterID":267079,"characterClassID":2,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":146,"rankingPositionChange":0,"gloryPoint":35465,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":146,"rankingPositionChange":0,"gloryPoint":35416,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":145,"rankingPositionChange":1,"gloryPoint":35367,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":145,"rankingPositionChange":0,"gloryPoint":35318,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":145,"rankingPositionChange":0,"gloryPoint":35269,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-05T22:00:00.000Z","position":146,"rankingPositionChange":-1,"gloryPoint":35220,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-06T22:00:00.000Z","position":146,"rankingPositionChange":0,"gloryPoint":35171,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-07T22:00:00.000Z","position":148,"rankingPositionChange":-2,"gloryPoint":35122,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-08T22:00:00.000Z","position":148,"rankingPositionChange":0,"gloryPoint":35122,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-09T22:00:00.000Z","position":147,"rankingPositionChange":1,"gloryPoint":35073,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-10T22:00:00.000Z","position":148,"rankingPositionChange":-1,"gloryPoint":34975,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-11T22:00:00.000Z","position":148,"rankingPositionChange":0,"gloryPoint":34975,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-12T22:00:00.000Z","position":147,"rankingPositionChange":1,"gloryPoint":34877,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-13T22:00:00.000Z","position":146,"rankingPositionChange":1,"gloryPoint":34828,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-14T22:00:00.000Z","position":146,"rankingPositionChange":0,"gloryPoint":34779,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-15T22:00:00.000Z","position":146,"rankingPositionChange":0,"gloryPoint":34779,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-16T22:00:00.000Z","position":145,"rankingPositionChange":1,"gloryPoint":34730,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-17T22:00:00.000Z","position":144,"rankingPositionChange":1,"gloryPoint":34681,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-18T22:00:00.000Z","position":144,"rankingPositionChange":0,"gloryPoint":34583,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-19T22:00:00.000Z","position":144,"rankingPositionChange":0,"gloryPoint":34534,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-20T22:00:00.000Z","position":144,"rankingPositionChange":0,"gloryPoint":34485,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-21T22:00:00.000Z","position":145,"rankingPositionChange":-1,"gloryPoint":34436,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-22T22:00:00.000Z","position":144,"rankingPositionChange":1,"gloryPoint":34387,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Miisuzu"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"SAW","guildID":2702}],"characterName":"Miisuzu","guildName":"SAW","guildID":2702,"position":144,"rankingPositionChange":1,"gloryPoint":34387,"soldierRankID":13}
+{
+ "characterID": 267079,
+ "characterClassID": 2,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35465,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35416,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35367,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35318,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35269,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35220,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35171,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 148,
+   "rankingPositionChange": -2,
+   "gloryPoint": 35122,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 148,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35122,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35073,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 148,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34975,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 148,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34975,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34877,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34828,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34779,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34779,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34730,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34681,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34583,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34534,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34485,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34436,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34387,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": null,
+   "gloryPoint": 33897,
+   "gloryPointChange": 490,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Miisuzu"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "SAW",
+   "guildID": 2702
+  }
+ ]
+}

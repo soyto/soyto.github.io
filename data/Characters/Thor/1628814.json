@@ -1,1 +1,188 @@
-{"characterID":1628814,"characterClassID":11,"raceID":0,"status":[{"date":"2015-08-12T22:00:00.000Z","position":970,"rankingPositionChange":24,"gloryPoint":13492,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-13T22:00:00.000Z","position":959,"rankingPositionChange":11,"gloryPoint":13741,"gloryPointChange":249,"soldierRankID":10},{"date":"2015-08-14T22:00:00.000Z","position":961,"rankingPositionChange":-2,"gloryPoint":13734,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":961,"rankingPositionChange":0,"gloryPoint":13734,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-16T22:00:00.000Z","position":961,"rankingPositionChange":0,"gloryPoint":13727,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":952,"rankingPositionChange":9,"gloryPoint":13970,"gloryPointChange":243,"soldierRankID":10},{"date":"2015-08-18T22:00:00.000Z","position":921,"rankingPositionChange":31,"gloryPoint":15041,"gloryPointChange":1071,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":919,"rankingPositionChange":2,"gloryPoint":15034,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":912,"rankingPositionChange":7,"gloryPoint":15240,"gloryPointChange":206,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":906,"rankingPositionChange":6,"gloryPoint":15443,"gloryPointChange":203,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":912,"rankingPositionChange":-6,"gloryPoint":15436,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":896,"rankingPositionChange":16,"gloryPoint":16059,"gloryPointChange":623,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":881,"rankingPositionChange":15,"gloryPoint":16481,"gloryPointChange":422,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":866,"rankingPositionChange":15,"gloryPoint":17455,"gloryPointChange":974,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":856,"rankingPositionChange":10,"gloryPoint":17867,"gloryPointChange":412,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":855,"rankingPositionChange":1,"gloryPoint":17860,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":858,"rankingPositionChange":-3,"gloryPoint":17853,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":855,"rankingPositionChange":3,"gloryPoint":18046,"gloryPointChange":193,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":851,"rankingPositionChange":4,"gloryPoint":18382,"gloryPointChange":336,"soldierRankID":10}],"names":[{"date":"2015-08-12T22:00:00.000Z","characterName":"Corriwen"}],"guilds":[{"date":"2015-08-12T22:00:00.000Z","guildName":"WuZa Inc SmOOth","guildID":18181}],"characterName":"Corriwen","guildName":"WuZa Inc SmOOth","guildID":18181,"position":851,"rankingPositionChange":4,"gloryPoint":18382,"soldierRankID":10}
+{
+ "characterID": 1628814,
+ "characterClassID": 11,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 970,
+   "rankingPositionChange": 24,
+   "gloryPoint": 13492,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": 11,
+   "gloryPoint": 13741,
+   "gloryPointChange": 249,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13734,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13734,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13727,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 952,
+   "rankingPositionChange": 9,
+   "gloryPoint": 13970,
+   "gloryPointChange": 243,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": 31,
+   "gloryPoint": 15041,
+   "gloryPointChange": 1071,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 919,
+   "rankingPositionChange": 2,
+   "gloryPoint": 15034,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": 7,
+   "gloryPoint": 15240,
+   "gloryPointChange": 206,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 906,
+   "rankingPositionChange": 6,
+   "gloryPoint": 15443,
+   "gloryPointChange": 203,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": -6,
+   "gloryPoint": 15436,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 896,
+   "rankingPositionChange": 16,
+   "gloryPoint": 16059,
+   "gloryPointChange": 623,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 881,
+   "rankingPositionChange": 15,
+   "gloryPoint": 16481,
+   "gloryPointChange": 422,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 866,
+   "rankingPositionChange": 15,
+   "gloryPoint": 17455,
+   "gloryPointChange": 974,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 856,
+   "rankingPositionChange": 10,
+   "gloryPoint": 17867,
+   "gloryPointChange": 412,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17860,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 858,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17853,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": 3,
+   "gloryPoint": 18046,
+   "gloryPointChange": 193,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": 4,
+   "gloryPoint": 18382,
+   "gloryPointChange": 336,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18375,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 856,
+   "rankingPositionChange": null,
+   "gloryPoint": 18368,
+   "gloryPointChange": 7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "characterName": "Corriwen"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "guildName": "WuZa Inc SmOOth",
+   "guildID": 18181
+  }
+ ]
+}

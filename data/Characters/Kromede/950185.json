@@ -1,1 +1,156 @@
-{"characterID":950185,"characterClassID":16,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":998,"rankingPositionChange":1,"gloryPoint":7650,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":997,"rankingPositionChange":1,"gloryPoint":7643,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":998,"rankingPositionChange":-1,"gloryPoint":7636,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":997,"rankingPositionChange":1,"gloryPoint":7679,"gloryPointChange":43,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":995,"rankingPositionChange":2,"gloryPoint":7682,"gloryPointChange":3,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":997,"rankingPositionChange":-2,"gloryPoint":7675,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":997,"rankingPositionChange":0,"gloryPoint":7675,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":998,"rankingPositionChange":-1,"gloryPoint":7668,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":993,"rankingPositionChange":5,"gloryPoint":7654,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":993,"rankingPositionChange":0,"gloryPoint":7654,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":991,"rankingPositionChange":2,"gloryPoint":7740,"gloryPointChange":86,"soldierRankID":10},{"date":"2015-08-13T22:00:00.000Z","position":990,"rankingPositionChange":1,"gloryPoint":7733,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-14T22:00:00.000Z","position":992,"rankingPositionChange":-2,"gloryPoint":7726,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":992,"rankingPositionChange":0,"gloryPoint":7726,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-16T22:00:00.000Z","position":996,"rankingPositionChange":-4,"gloryPoint":7719,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":1000,"rankingPositionChange":-4,"gloryPoint":7712,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-08-21T22:00:00.000Z","position":1000,"rankingPositionChange":0,"gloryPoint":7712,"gloryPointChange":0,"soldierRankID":0}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Hanime"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Dingtastich","guildID":36329}],"characterName":"Hanime","guildName":"Dingtastich","guildID":36329,"position":1000,"rankingPositionChange":0,"gloryPoint":7712,"soldierRankID":0}
+{
+ "characterID": 950185,
+ "characterClassID": 16,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7650,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7643,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7636,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7679,
+   "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 2,
+   "gloryPoint": 7682,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7675,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7675,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7668,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": 5,
+   "gloryPoint": 7654,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7654,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": 2,
+   "gloryPoint": 7740,
+   "gloryPointChange": 86,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7733,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7726,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7726,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7719,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7712,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7712,
+   "gloryPointChange": 0,
+   "soldierRankID": 0
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Hanime"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Dingtastich",
+   "guildID": 36329
+  }
+ ]
+}

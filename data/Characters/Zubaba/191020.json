@@ -1,1 +1,44 @@
-{"characterID":191020,"characterClassID":2,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":105,"rankingPositionChange":0,"gloryPoint":82757,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":105,"rankingPositionChange":0,"gloryPoint":82708,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":105,"rankingPositionChange":0,"gloryPoint":82659,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Luckyhero"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"KIZIL ORDU","guildID":1010}],"characterName":"Luckyhero","guildName":"KIZIL ORDU","guildID":1010,"position":105,"rankingPositionChange":0,"gloryPoint":82659,"soldierRankID":13}
+{
+ "characterID": 191020,
+ "characterClassID": 2,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": 0,
+   "gloryPoint": 82757,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": 0,
+   "gloryPoint": 82708,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": 0,
+   "gloryPoint": 82659,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Luckyhero"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "KIZIL ORDU",
+   "guildID": 1010
+  }
+ ]
+}

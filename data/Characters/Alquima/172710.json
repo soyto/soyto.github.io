@@ -1,1 +1,244 @@
-{"characterID":172710,"characterClassID":16,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":584,"rankingPositionChange":-1,"gloryPoint":18585,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":586,"rankingPositionChange":-2,"gloryPoint":18571,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":588,"rankingPositionChange":-2,"gloryPoint":18557,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":587,"rankingPositionChange":1,"gloryPoint":18543,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":588,"rankingPositionChange":-1,"gloryPoint":18529,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":591,"rankingPositionChange":-3,"gloryPoint":18515,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":591,"rankingPositionChange":0,"gloryPoint":18501,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":595,"rankingPositionChange":-4,"gloryPoint":18487,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":595,"rankingPositionChange":0,"gloryPoint":18487,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-09T22:00:00.000Z","position":598,"rankingPositionChange":-3,"gloryPoint":18473,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":599,"rankingPositionChange":-1,"gloryPoint":18445,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-11T22:00:00.000Z","position":599,"rankingPositionChange":0,"gloryPoint":18445,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-12T22:00:00.000Z","position":607,"rankingPositionChange":-8,"gloryPoint":18417,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-13T22:00:00.000Z","position":609,"rankingPositionChange":-2,"gloryPoint":18403,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-14T22:00:00.000Z","position":612,"rankingPositionChange":-3,"gloryPoint":18389,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-15T22:00:00.000Z","position":612,"rankingPositionChange":0,"gloryPoint":18389,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-16T22:00:00.000Z","position":614,"rankingPositionChange":-2,"gloryPoint":18375,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-17T22:00:00.000Z","position":614,"rankingPositionChange":0,"gloryPoint":18361,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-18T22:00:00.000Z","position":616,"rankingPositionChange":-2,"gloryPoint":18333,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-19T22:00:00.000Z","position":620,"rankingPositionChange":-4,"gloryPoint":18319,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-20T22:00:00.000Z","position":624,"rankingPositionChange":-4,"gloryPoint":18305,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-21T22:00:00.000Z","position":624,"rankingPositionChange":0,"gloryPoint":18291,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-22T22:00:00.000Z","position":627,"rankingPositionChange":-3,"gloryPoint":18277,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-23T22:00:00.000Z","position":629,"rankingPositionChange":-2,"gloryPoint":18263,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":633,"rankingPositionChange":-4,"gloryPoint":18235,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":634,"rankingPositionChange":-1,"gloryPoint":18207,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-27T22:00:00.000Z","position":631,"rankingPositionChange":3,"gloryPoint":18193,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-28T22:00:00.000Z","position":634,"rankingPositionChange":-3,"gloryPoint":18179,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Not"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Insane","guildID":1016}],"characterName":"Not","guildName":"Insane","guildID":1016,"position":634,"rankingPositionChange":-3,"gloryPoint":18179,"soldierRankID":11}
+{
+ "characterID": 172710,
+ "characterClassID": 16,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 584,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18585,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 586,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18571,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 588,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18557,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 587,
+   "rankingPositionChange": 1,
+   "gloryPoint": 18543,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 588,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18529,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 591,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18515,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 591,
+   "rankingPositionChange": 0,
+   "gloryPoint": 18501,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18487,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": 0,
+   "gloryPoint": 18487,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 598,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18473,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 599,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18445,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 599,
+   "rankingPositionChange": 0,
+   "gloryPoint": 18445,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 607,
+   "rankingPositionChange": -8,
+   "gloryPoint": 18417,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 609,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18403,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18389,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": 0,
+   "gloryPoint": 18389,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 614,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18375,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 614,
+   "rankingPositionChange": 0,
+   "gloryPoint": 18361,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 616,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18333,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 620,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18319,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 624,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18305,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 624,
+   "rankingPositionChange": 0,
+   "gloryPoint": 18291,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 627,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18277,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 629,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18263,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 633,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18235,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 634,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18207,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 631,
+   "rankingPositionChange": 3,
+   "gloryPoint": 18193,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 634,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18179,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Not"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Insane",
+   "guildID": 1016
+  }
+ ]
+}

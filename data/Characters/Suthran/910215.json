@@ -1,1 +1,196 @@
-{"characterID":910215,"characterClassID":4,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":772,"rankingPositionChange":4,"gloryPoint":16068,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":773,"rankingPositionChange":-1,"gloryPoint":16061,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":776,"rankingPositionChange":-3,"gloryPoint":16054,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":776,"rankingPositionChange":0,"gloryPoint":16047,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":775,"rankingPositionChange":1,"gloryPoint":16040,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":779,"rankingPositionChange":-4,"gloryPoint":16033,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":777,"rankingPositionChange":2,"gloryPoint":16026,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":779,"rankingPositionChange":-2,"gloryPoint":16019,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":779,"rankingPositionChange":0,"gloryPoint":16019,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":781,"rankingPositionChange":-2,"gloryPoint":16012,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":784,"rankingPositionChange":-3,"gloryPoint":15998,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":784,"rankingPositionChange":0,"gloryPoint":15998,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":782,"rankingPositionChange":2,"gloryPoint":15984,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":792,"rankingPositionChange":-10,"gloryPoint":15907,"gloryPointChange":-77,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":793,"rankingPositionChange":-1,"gloryPoint":15893,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":788,"rankingPositionChange":5,"gloryPoint":15886,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":787,"rankingPositionChange":1,"gloryPoint":15879,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":787,"rankingPositionChange":0,"gloryPoint":15872,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":784,"rankingPositionChange":3,"gloryPoint":15865,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":785,"rankingPositionChange":-1,"gloryPoint":15844,"gloryPointChange":-21,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Mazrock"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Les Pingouins d Elite","guildID":29708}],"characterName":"Mazrock","guildName":"Les Pingouins d Elite","guildID":29708,"position":785,"rankingPositionChange":-1,"gloryPoint":15844,"soldierRankID":10}
+{
+ "characterID": 910215,
+ "characterClassID": 4,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 772,
+   "rankingPositionChange": 4,
+   "gloryPoint": 16068,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 773,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16061,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 776,
+   "rankingPositionChange": -3,
+   "gloryPoint": 16054,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 776,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16047,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 775,
+   "rankingPositionChange": 1,
+   "gloryPoint": 16040,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 779,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16033,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 777,
+   "rankingPositionChange": 2,
+   "gloryPoint": 16026,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 779,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16019,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 779,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16019,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16012,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 784,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15998,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 784,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15998,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 782,
+   "rankingPositionChange": 2,
+   "gloryPoint": 15984,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 792,
+   "rankingPositionChange": -10,
+   "gloryPoint": 15907,
+   "gloryPointChange": -77,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 793,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15893,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 788,
+   "rankingPositionChange": 5,
+   "gloryPoint": 15886,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 787,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15879,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 787,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15872,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 784,
+   "rankingPositionChange": 3,
+   "gloryPoint": 15865,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 785,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15844,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 784,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15837,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 788,
+   "rankingPositionChange": null,
+   "gloryPoint": 15830,
+   "gloryPointChange": 7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Mazrock"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Les Pingouins d Elite",
+   "guildID": 29708
+  }
+ ]
+}

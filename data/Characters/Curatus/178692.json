@@ -1,1 +1,178 @@
-{"characterID":178692,"characterClassID":8,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":675,"rankingPositionChange":-3,"gloryPoint":17798,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":676,"rankingPositionChange":-1,"gloryPoint":17784,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":680,"rankingPositionChange":-4,"gloryPoint":17770,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":680,"rankingPositionChange":0,"gloryPoint":17756,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":680,"rankingPositionChange":0,"gloryPoint":17742,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":682,"rankingPositionChange":-2,"gloryPoint":17728,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":684,"rankingPositionChange":-2,"gloryPoint":17714,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":685,"rankingPositionChange":-1,"gloryPoint":17700,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":685,"rankingPositionChange":0,"gloryPoint":17700,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-09T22:00:00.000Z","position":686,"rankingPositionChange":-1,"gloryPoint":17686,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":688,"rankingPositionChange":-2,"gloryPoint":17658,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-11T22:00:00.000Z","position":688,"rankingPositionChange":0,"gloryPoint":17658,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-12T22:00:00.000Z","position":688,"rankingPositionChange":0,"gloryPoint":17630,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-13T22:00:00.000Z","position":690,"rankingPositionChange":-2,"gloryPoint":17616,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-14T22:00:00.000Z","position":690,"rankingPositionChange":0,"gloryPoint":17602,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-15T22:00:00.000Z","position":690,"rankingPositionChange":0,"gloryPoint":17602,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-16T22:00:00.000Z","position":691,"rankingPositionChange":-1,"gloryPoint":17588,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-17T22:00:00.000Z","position":692,"rankingPositionChange":-1,"gloryPoint":17574,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-18T22:00:00.000Z","position":695,"rankingPositionChange":-3,"gloryPoint":17546,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-19T22:00:00.000Z","position":695,"rankingPositionChange":0,"gloryPoint":17532,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Vladmiro"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Vladmiro","position":695,"rankingPositionChange":0,"gloryPoint":17532,"soldierRankID":11}
+{
+ "characterID": 178692,
+ "characterClassID": 8,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 675,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17798,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17784,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": -4,
+   "gloryPoint": 17770,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17756,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17742,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 682,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17728,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 684,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17714,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 685,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17700,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 685,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17700,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 686,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17686,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 688,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17658,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 688,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17658,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 688,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17630,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 690,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17616,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 690,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17602,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 690,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17602,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 691,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17588,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 692,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17574,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 695,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17546,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 695,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17532,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Vladmiro"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

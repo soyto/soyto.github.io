@@ -1,1 +1,187 @@
-{"characterID":111562,"characterClassID":2,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":575,"rankingPositionChange":3,"gloryPoint":21471,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":575,"rankingPositionChange":0,"gloryPoint":21457,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":580,"rankingPositionChange":-5,"gloryPoint":21443,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":586,"rankingPositionChange":-6,"gloryPoint":21429,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-18T22:00:00.000Z","position":593,"rankingPositionChange":-7,"gloryPoint":21247,"gloryPointChange":-182,"soldierRankID":11},{"date":"2015-08-19T22:00:00.000Z","position":593,"rankingPositionChange":0,"gloryPoint":21322,"gloryPointChange":75,"soldierRankID":11},{"date":"2015-08-20T22:00:00.000Z","position":581,"rankingPositionChange":12,"gloryPoint":21981,"gloryPointChange":659,"soldierRankID":11},{"date":"2015-08-21T22:00:00.000Z","position":574,"rankingPositionChange":7,"gloryPoint":22238,"gloryPointChange":257,"soldierRankID":11},{"date":"2015-08-22T22:00:00.000Z","position":565,"rankingPositionChange":9,"gloryPoint":22752,"gloryPointChange":514,"soldierRankID":11},{"date":"2015-08-23T22:00:00.000Z","position":566,"rankingPositionChange":-1,"gloryPoint":22738,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":563,"rankingPositionChange":3,"gloryPoint":23080,"gloryPointChange":342,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":546,"rankingPositionChange":17,"gloryPoint":23997,"gloryPointChange":917,"soldierRankID":11},{"date":"2015-08-27T22:00:00.000Z","position":537,"rankingPositionChange":9,"gloryPoint":24445,"gloryPointChange":448,"soldierRankID":11},{"date":"2015-08-28T22:00:00.000Z","position":538,"rankingPositionChange":-1,"gloryPoint":24434,"gloryPointChange":-11,"soldierRankID":11},{"date":"2015-08-29T22:00:00.000Z","position":541,"rankingPositionChange":-3,"gloryPoint":24423,"gloryPointChange":-11,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":540,"rankingPositionChange":1,"gloryPoint":24469,"gloryPointChange":46,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":534,"rankingPositionChange":6,"gloryPoint":24848,"gloryPointChange":379,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Whipflash"},{"date":"2015-08-21T22:00:00.000Z","characterName":"Axez"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"},{"date":"2015-08-19T22:00:00.000Z","guildName":" im too tiny to be your target ","guildID":14068},{"date":"2015-08-28T22:00:00.000Z"}],"characterName":"Axez","position":534,"rankingPositionChange":6,"gloryPoint":24848,"soldierRankID":11}
+{
+ "characterID": 111562,
+ "characterClassID": 2,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": 3,
+   "gloryPoint": 21471,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21457,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 580,
+   "rankingPositionChange": -5,
+   "gloryPoint": 21443,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 586,
+   "rankingPositionChange": -6,
+   "gloryPoint": 21429,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 593,
+   "rankingPositionChange": -7,
+   "gloryPoint": 21247,
+   "gloryPointChange": -182,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 593,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21322,
+   "gloryPointChange": 75,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 581,
+   "rankingPositionChange": 12,
+   "gloryPoint": 21981,
+   "gloryPointChange": 659,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 574,
+   "rankingPositionChange": 7,
+   "gloryPoint": 22238,
+   "gloryPointChange": 257,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 565,
+   "rankingPositionChange": 9,
+   "gloryPoint": 22752,
+   "gloryPointChange": 514,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 566,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22738,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 563,
+   "rankingPositionChange": 3,
+   "gloryPoint": 23080,
+   "gloryPointChange": 342,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 546,
+   "rankingPositionChange": 17,
+   "gloryPoint": 23997,
+   "gloryPointChange": 917,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 537,
+   "rankingPositionChange": 9,
+   "gloryPoint": 24445,
+   "gloryPointChange": 448,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24434,
+   "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 541,
+   "rankingPositionChange": -3,
+   "gloryPoint": 24423,
+   "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24469,
+   "gloryPointChange": 46,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 534,
+   "rankingPositionChange": 6,
+   "gloryPoint": 24848,
+   "gloryPointChange": 379,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 532,
+   "rankingPositionChange": 2,
+   "gloryPoint": 25549,
+   "gloryPointChange": 701,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 528,
+   "rankingPositionChange": null,
+   "gloryPoint": 25769,
+   "gloryPointChange": -220,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Whipflash"
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "characterName": "Axez"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "guildName": " im too tiny to be your target ",
+   "guildID": 14068
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "guildName": "  Inspiration  ",
+   "guildID": 11948
+  }
+ ]
+}

@@ -1,1 +1,130 @@
-{"characterID":962957,"characterClassID":7,"raceID":1,"status":[{"date":"2015-08-19T22:00:00.000Z","position":786,"rankingPositionChange":0,"gloryPoint":1258,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":784,"rankingPositionChange":2,"gloryPoint":1251,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":649,"rankingPositionChange":135,"gloryPoint":1632,"gloryPointChange":381,"soldierRankID":11},{"date":"2015-08-22T22:00:00.000Z","position":616,"rankingPositionChange":33,"gloryPoint":1968,"gloryPointChange":336,"soldierRankID":11},{"date":"2015-08-23T22:00:00.000Z","position":619,"rankingPositionChange":-3,"gloryPoint":1954,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":611,"rankingPositionChange":8,"gloryPoint":2076,"gloryPointChange":122,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":575,"rankingPositionChange":36,"gloryPoint":2408,"gloryPointChange":332,"soldierRankID":11},{"date":"2015-08-27T22:00:00.000Z","position":539,"rankingPositionChange":36,"gloryPoint":2844,"gloryPointChange":436,"soldierRankID":11},{"date":"2015-08-28T22:00:00.000Z","position":498,"rankingPositionChange":41,"gloryPoint":3268,"gloryPointChange":424,"soldierRankID":12},{"date":"2015-08-29T22:00:00.000Z","position":502,"rankingPositionChange":-4,"gloryPoint":3240,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":510,"rankingPositionChange":-8,"gloryPoint":3226,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":512,"rankingPositionChange":-2,"gloryPoint":3184,"gloryPointChange":-42,"soldierRankID":11}],"names":[{"date":"2015-08-19T22:00:00.000Z","characterName":"Sicero"}],"guilds":[{"date":"2015-08-19T22:00:00.000Z"}],"characterName":"Sicero","position":512,"rankingPositionChange":-2,"gloryPoint":3184,"soldierRankID":11}
+{
+ "characterID": 962957,
+ "characterClassID": 7,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 786,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1258,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 784,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1251,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 649,
+   "rankingPositionChange": 135,
+   "gloryPoint": 1632,
+   "gloryPointChange": 381,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 616,
+   "rankingPositionChange": 33,
+   "gloryPoint": 1968,
+   "gloryPointChange": 336,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 619,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1954,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": 8,
+   "gloryPoint": 2076,
+   "gloryPointChange": 122,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": 36,
+   "gloryPoint": 2408,
+   "gloryPointChange": 332,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 539,
+   "rankingPositionChange": 36,
+   "gloryPoint": 2844,
+   "gloryPointChange": 436,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 498,
+   "rankingPositionChange": 41,
+   "gloryPoint": 3268,
+   "gloryPointChange": 424,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 502,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3240,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 510,
+   "rankingPositionChange": -8,
+   "gloryPoint": 3226,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 512,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3184,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 515,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3170,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 513,
+   "rankingPositionChange": null,
+   "gloryPoint": 3156,
+   "gloryPointChange": 14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "characterName": "Sicero"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-19T22:00:00.000Z"
+  }
+ ]
+}

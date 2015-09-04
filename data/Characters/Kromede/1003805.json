@@ -1,1 +1,42 @@
-{"characterID":1003805,"characterClassID":11,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":572,"rankingPositionChange":0,"gloryPoint":7826,"gloryPointChange":0,"soldierRankID":11}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Sheija"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z"}],"characterName":"Sheija","position":572,"rankingPositionChange":0,"gloryPoint":7826,"soldierRankID":11}
+{
+ "characterID": 1003805,
+ "characterClassID": 11,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7826,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 577,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7812,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 577,
+   "rankingPositionChange": null,
+   "gloryPoint": 7798,
+   "gloryPointChange": 14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Sheija"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z"
+  }
+ ]
+}

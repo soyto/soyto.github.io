@@ -1,1 +1,74 @@
-{"characterID":879858,"characterClassID":10,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":377,"rankingPositionChange":-1,"gloryPoint":17053,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":378,"rankingPositionChange":-1,"gloryPoint":17025,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":380,"rankingPositionChange":-2,"gloryPoint":16997,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":381,"rankingPositionChange":-1,"gloryPoint":16969,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":386,"rankingPositionChange":-5,"gloryPoint":16941,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":386,"rankingPositionChange":0,"gloryPoint":16913,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":387,"rankingPositionChange":-1,"gloryPoint":16885,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Ostar"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Ostar","position":387,"rankingPositionChange":-1,"gloryPoint":16885,"soldierRankID":12}
+{
+ "characterID": 879858,
+ "characterClassID": 10,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 377,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17053,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 378,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17025,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16997,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 381,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16969,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 386,
+   "rankingPositionChange": -5,
+   "gloryPoint": 16941,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 386,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16913,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16885,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Ostar"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

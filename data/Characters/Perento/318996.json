@@ -1,1 +1,156 @@
-{"characterID":318996,"characterClassID":11,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":962,"rankingPositionChange":-4,"gloryPoint":1595,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":965,"rankingPositionChange":-3,"gloryPoint":1588,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":971,"rankingPositionChange":-6,"gloryPoint":1581,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":975,"rankingPositionChange":-4,"gloryPoint":1574,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":975,"rankingPositionChange":0,"gloryPoint":1567,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":982,"rankingPositionChange":-7,"gloryPoint":1560,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":980,"rankingPositionChange":2,"gloryPoint":1553,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":988,"rankingPositionChange":-8,"gloryPoint":1546,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":988,"rankingPositionChange":0,"gloryPoint":1546,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":989,"rankingPositionChange":-1,"gloryPoint":1539,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":996,"rankingPositionChange":-7,"gloryPoint":1525,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":996,"rankingPositionChange":0,"gloryPoint":1525,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-14T22:00:00.000Z","position":999,"rankingPositionChange":-3,"gloryPoint":1511,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":1511,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":998,"rankingPositionChange":1,"gloryPoint":1504,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":1000,"rankingPositionChange":-2,"gloryPoint":1490,"gloryPointChange":-14,"soldierRankID":0},{"date":"2015-08-28T22:00:00.000Z","position":997,"rankingPositionChange":3,"gloryPoint":1490,"gloryPointChange":0,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Ynori"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Not Today","guildID":17024}],"characterName":"Ynori","guildName":"Not Today","guildID":17024,"position":997,"rankingPositionChange":3,"gloryPoint":1490,"soldierRankID":10}
+{
+ "characterID": 318996,
+ "characterClassID": 11,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1595,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 965,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1588,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 971,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1581,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1574,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1567,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 982,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1560,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1553,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1546,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1546,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1539,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1525,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1525,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1511,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1511,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1504,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1490,
+   "gloryPointChange": -14,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 3,
+   "gloryPoint": 1490,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Ynori"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Not Today",
+   "guildID": 17024
+  }
+ ]
+}

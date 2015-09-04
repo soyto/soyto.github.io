@@ -1,1 +1,52 @@
-{"characterID":3957,"characterClassID":11,"raceID":1,"status":[{"date":"2015-08-30T22:00:00.000Z","position":993,"rankingPositionChange":0,"gloryPoint":9422,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":983,"rankingPositionChange":10,"gloryPoint":9627,"gloryPointChange":205,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Jarcio"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z","guildName":"Slow It Down","guildID":13130}],"characterName":"Jarcio","guildName":"Slow It Down","guildID":13130,"position":983,"rankingPositionChange":10,"gloryPoint":9627,"soldierRankID":10}
+{
+ "characterID": 3957,
+ "characterClassID": 11,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9422,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": 10,
+   "gloryPoint": 9627,
+   "gloryPointChange": 205,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9620,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": null,
+   "gloryPoint": 9723,
+   "gloryPointChange": -103,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Jarcio"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "Slow It Down",
+   "guildID": 13130
+  }
+ ]
+}

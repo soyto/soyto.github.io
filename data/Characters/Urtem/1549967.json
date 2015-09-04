@@ -1,1 +1,124 @@
-{"characterID":1549967,"characterClassID":1,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":130,"rankingPositionChange":-1,"gloryPoint":68382,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":129,"rankingPositionChange":1,"gloryPoint":68333,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":130,"rankingPositionChange":-1,"gloryPoint":68284,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":131,"rankingPositionChange":-1,"gloryPoint":68235,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":131,"rankingPositionChange":0,"gloryPoint":68186,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-05T22:00:00.000Z","position":132,"rankingPositionChange":-1,"gloryPoint":68137,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-06T22:00:00.000Z","position":132,"rankingPositionChange":0,"gloryPoint":68088,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-07T22:00:00.000Z","position":132,"rankingPositionChange":0,"gloryPoint":68039,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-08T22:00:00.000Z","position":132,"rankingPositionChange":0,"gloryPoint":68039,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-09T22:00:00.000Z","position":133,"rankingPositionChange":-1,"gloryPoint":67990,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-10T22:00:00.000Z","position":134,"rankingPositionChange":-1,"gloryPoint":67892,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-11T22:00:00.000Z","position":134,"rankingPositionChange":0,"gloryPoint":67892,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-12T22:00:00.000Z","position":134,"rankingPositionChange":0,"gloryPoint":67794,"gloryPointChange":-98,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Tobyum"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Istina","guildID":43526}],"characterName":"Tobyum","guildName":"Istina","guildID":43526,"position":134,"rankingPositionChange":0,"gloryPoint":67794,"soldierRankID":13}
+{
+ "characterID": 1549967,
+ "characterClassID": 1,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 130,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68382,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 129,
+   "rankingPositionChange": 1,
+   "gloryPoint": 68333,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 130,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68284,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 131,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68235,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 131,
+   "rankingPositionChange": 0,
+   "gloryPoint": 68186,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68137,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": 0,
+   "gloryPoint": 68088,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": 0,
+   "gloryPoint": 68039,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": 0,
+   "gloryPoint": 68039,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 133,
+   "rankingPositionChange": -1,
+   "gloryPoint": 67990,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 134,
+   "rankingPositionChange": -1,
+   "gloryPoint": 67892,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 134,
+   "rankingPositionChange": 0,
+   "gloryPoint": 67892,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 134,
+   "rankingPositionChange": 0,
+   "gloryPoint": 67794,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Tobyum"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Istina",
+   "guildID": 43526
+  }
+ ]
+}

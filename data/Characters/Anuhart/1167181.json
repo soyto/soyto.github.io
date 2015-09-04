@@ -1,1 +1,154 @@
-{"characterID":1167181,"characterClassID":16,"raceID":0,"status":[{"date":"2015-08-16T22:00:00.000Z","position":320,"rankingPositionChange":0,"gloryPoint":28976,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-17T22:00:00.000Z","position":320,"rankingPositionChange":0,"gloryPoint":28951,"gloryPointChange":-25,"soldierRankID":12},{"date":"2015-08-18T22:00:00.000Z","position":318,"rankingPositionChange":2,"gloryPoint":28895,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-19T22:00:00.000Z","position":319,"rankingPositionChange":-1,"gloryPoint":28867,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-20T22:00:00.000Z","position":319,"rankingPositionChange":0,"gloryPoint":28839,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-21T22:00:00.000Z","position":319,"rankingPositionChange":0,"gloryPoint":28811,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-22T22:00:00.000Z","position":320,"rankingPositionChange":-1,"gloryPoint":28783,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-23T22:00:00.000Z","position":320,"rankingPositionChange":0,"gloryPoint":28755,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-25T22:00:00.000Z","position":325,"rankingPositionChange":-5,"gloryPoint":28699,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-26T22:00:00.000Z","position":324,"rankingPositionChange":1,"gloryPoint":28643,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-27T22:00:00.000Z","position":326,"rankingPositionChange":-2,"gloryPoint":28615,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-28T22:00:00.000Z","position":325,"rankingPositionChange":1,"gloryPoint":28587,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-29T22:00:00.000Z","position":324,"rankingPositionChange":1,"gloryPoint":28559,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-30T22:00:00.000Z","position":326,"rankingPositionChange":-2,"gloryPoint":28531,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-09-01T22:00:00.000Z","position":330,"rankingPositionChange":-4,"gloryPoint":28447,"gloryPointChange":-84,"soldierRankID":12}],"names":[{"date":"2015-08-16T22:00:00.000Z","characterName":"Scarlettie"}],"guilds":[{"date":"2015-08-16T22:00:00.000Z"}],"characterName":"Scarlettie","position":330,"rankingPositionChange":-4,"gloryPoint":28447,"soldierRankID":12}
+{
+ "characterID": 1167181,
+ "characterClassID": 16,
+ "raceID": 0,
+ "status": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28976,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28951,
+   "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 318,
+   "rankingPositionChange": 2,
+   "gloryPoint": 28895,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28867,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28839,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28811,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28783,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28755,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 325,
+   "rankingPositionChange": -5,
+   "gloryPoint": 28699,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 324,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28643,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 326,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28615,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 325,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28587,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 324,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28559,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 326,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28531,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 330,
+   "rankingPositionChange": -4,
+   "gloryPoint": 28447,
+   "gloryPointChange": -84,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 329,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28419,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 333,
+   "rankingPositionChange": null,
+   "gloryPoint": 28391,
+   "gloryPointChange": 28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "characterName": "Scarlettie"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-16T22:00:00.000Z"
+  }
+ ]
+}

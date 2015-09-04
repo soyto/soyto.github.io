@@ -1,1 +1,42 @@
-{"characterID":1238224,"characterClassID":16,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":256,"rankingPositionChange":0,"gloryPoint":60282,"gloryPointChange":0,"soldierRankID":13}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Badbass"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z"}],"characterName":"Badbass","position":256,"rankingPositionChange":0,"gloryPoint":60282,"soldierRankID":13}
+{
+ "characterID": 1238224,
+ "characterClassID": 16,
+ "raceID": 1,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 256,
+   "rankingPositionChange": 0,
+   "gloryPoint": 60282,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 257,
+   "rankingPositionChange": -1,
+   "gloryPoint": 60233,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 257,
+   "rankingPositionChange": null,
+   "gloryPoint": 60184,
+   "gloryPointChange": 49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Badbass"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z"
+  }
+ ]
+}
