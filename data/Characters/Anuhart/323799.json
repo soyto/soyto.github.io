@@ -2,6 +2,14 @@
  "characterID": 323799,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 39,
+ "rankingPositionChange": 1,
+ "gloryPoint": 200051,
+ "gloryPointChange": 293,
+ "soldierRankID": 14,
+ "characterName": "Mitsi",
+ "guildName": "Holysinners",
+ "guildID": 5921,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 39,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 200051,
-   "gloryPointChange": -293,
+   "gloryPointChange": 293,
    "soldierRankID": 14
   }
  ],

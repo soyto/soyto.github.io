@@ -2,6 +2,14 @@
  "characterID": 999151,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 6,
+ "rankingPositionChange": 0,
+ "gloryPoint": 242118,
+ "gloryPointChange": 600,
+ "soldierRankID": 16,
+ "characterName": "Inorey",
+ "guildName": "Polygon Dreams",
+ "guildID": 24227,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 6,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 242118,
-   "gloryPointChange": -600,
+   "gloryPointChange": 600,
    "soldierRankID": 16
   }
  ],

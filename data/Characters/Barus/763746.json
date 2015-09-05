@@ -2,6 +2,14 @@
  "characterID": 763746,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 821,
+ "rankingPositionChange": 20,
+ "gloryPoint": 14004,
+ "gloryPointChange": 635,
+ "soldierRankID": 10,
+ "characterName": "Troubles",
+ "guildName": "Turn Down For What",
+ "guildID": 10770,
  "status": [
   {
    "date": "2015-08-25T22:00:00.000Z",
@@ -70,9 +78,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 821,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 20,
    "gloryPoint": 14004,
-   "gloryPointChange": -635,
+   "gloryPointChange": 635,
    "soldierRankID": 10
   }
  ],

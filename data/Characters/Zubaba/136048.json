@@ -2,6 +2,14 @@
  "characterID": 136048,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 65,
+ "rankingPositionChange": 0,
+ "gloryPoint": 120047,
+ "gloryPointChange": 275,
+ "soldierRankID": 14,
+ "characterName": "Elisis",
+ "guildName": "Bosphorus",
+ "guildID": 1226,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 65,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 120047,
-   "gloryPointChange": -275,
+   "gloryPointChange": 275,
    "soldierRankID": 14
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 371284,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 633,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1319,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Damaged",
+ "guildName": "A Day To Remember",
+ "guildID": 27949,
  "status": [
   {
    "date": "2015-08-14T22:00:00.000Z",
@@ -150,9 +158,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 633,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 1319,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

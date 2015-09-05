@@ -2,6 +2,14 @@
  "characterID": 54348,
  "characterClassID": 14,
  "raceID": 0,
+ "position": 45,
+ "rankingPositionChange": 0,
+ "gloryPoint": 145486,
+ "gloryPointChange": 359,
+ "soldierRankID": 14,
+ "characterName": "Szymul",
+ "guildName": "HellGods",
+ "guildID": 1998,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 45,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 145486,
-   "gloryPointChange": -359,
+   "gloryPointChange": 359,
    "soldierRankID": 14
   }
  ],

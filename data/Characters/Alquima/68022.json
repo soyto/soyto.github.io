@@ -2,6 +2,12 @@
  "characterID": 68022,
  "characterClassID": 14,
  "raceID": 0,
+ "position": 8,
+ "rankingPositionChange": 0,
+ "gloryPoint": 279225,
+ "gloryPointChange": 506,
+ "soldierRankID": 16,
+ "characterName": "Mokotto",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +260,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 8,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 279225,
-   "gloryPointChange": -506,
+   "gloryPointChange": 506,
    "soldierRankID": 16
   }
  ],

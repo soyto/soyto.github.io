@@ -2,6 +2,12 @@
  "characterID": 843171,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 600,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5905,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Nightreaper",
  "status": [
   {
    "date": "2015-08-06T22:00:00.000Z",
@@ -214,9 +220,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 600,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -4,
    "gloryPoint": 5905,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

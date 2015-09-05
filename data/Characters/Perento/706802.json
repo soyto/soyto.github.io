@@ -2,6 +2,14 @@
  "characterID": 706802,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 125,
+ "rankingPositionChange": 0,
+ "gloryPoint": 88878,
+ "gloryPointChange": 234,
+ "soldierRankID": 13,
+ "characterName": "Jila",
+ "guildName": "Strawberry Ice Cream Vendors",
+ "guildID": 18126,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 125,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 88878,
-   "gloryPointChange": -234,
+   "gloryPointChange": 234,
    "soldierRankID": 13
   }
  ],

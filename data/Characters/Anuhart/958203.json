@@ -2,6 +2,14 @@
  "characterID": 958203,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 55,
+ "rankingPositionChange": 1,
+ "gloryPoint": 140158,
+ "gloryPointChange": 1370,
+ "soldierRankID": 14,
+ "characterName": "Navron",
+ "guildName": "Instinct",
+ "guildID": 18387,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 55,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 140158,
-   "gloryPointChange": -1370,
+   "gloryPointChange": 1370,
    "soldierRankID": 14
   }
  ],

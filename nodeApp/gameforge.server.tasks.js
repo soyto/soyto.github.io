@@ -24,8 +24,6 @@ module.exports = function(grunt) {
     var today                 = moment().format('MM-DD-YYYY');
     var folderName            = baseFolder + today + '/';
 
-    $log.debug(today);
-
     //Here we will store servers data, stats and errors
     var servers = [];
     var globalStats = {
@@ -232,16 +230,20 @@ module.exports = function(grunt) {
     //6th step, store servers data
     sp = sp.then(function() {
 
-      var serverDates = [];
-
       servers.forEach(function(server) {
-        serverDates.push(moment(server.date).format('MM-DD-YYYY'));
         $log.debug('Storing [%s] server', colors.cyan(server.serverName));
         grunt.file.write(folderName + server.serverName + '.json', JSON.stringify(server.entries));
       });
 
-      //Now store serverDates
-      grunt.file.write(appFolder + 'helpers/folders.dates.js', 'window.storedDates = ' + JSON.stringify(serverDates, null, ' ').replace(/"/g, '\'') + ';');
+      //Now retrieve folder dates
+      var folderDates = grunt.file.expand('data/*').where(function(folderName){
+        return folderName.split('-').length == 3;
+      }).select(function(folderName){
+        return folderName.split('/')[1];
+      });
+
+      grunt.file.write(appFolder + 'helpers/folders.dates.js', 'window.storedDates = ' + JSON.stringify(folderDates, null, ' ').replace(/"/g, '\'') + ';');
+
     });
 
     //7th step, generate blog post
@@ -259,11 +261,11 @@ module.exports = function(grunt) {
 
           crawlerError.errors.forEach(function(error){
 
-            var faction = error.faction == 0 ? 'elyos' : 'asmoodians'
+            var faction = error.faction == 0 ? 'elyos' : 'asmodians'
             var start = (error.pageNum * 50) + 1;
             var end = (error.pageNum + 1) * 50;
 
-            fileTxt += '- ' + serverName + '[' + faction + ': positions ' + start + ' to ' + end + '\n';
+            fileTxt += '- ' + serverName + ' ' + faction + ': positions ' + start + ' to ' + end + '\n';
           });
         });
       }

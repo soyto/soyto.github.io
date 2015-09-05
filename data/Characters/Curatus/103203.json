@@ -2,6 +2,14 @@
  "characterID": 103203,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 8,
+ "rankingPositionChange": 0,
+ "gloryPoint": 275434,
+ "gloryPointChange": 378,
+ "soldierRankID": 16,
+ "characterName": "Fallenn",
+ "guildName": "RNG",
+ "guildID": 6802,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 8,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 275434,
-   "gloryPointChange": -378,
+   "gloryPointChange": 378,
    "soldierRankID": 16
   }
  ],

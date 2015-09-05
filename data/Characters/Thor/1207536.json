@@ -2,6 +2,14 @@
  "characterID": 1207536,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 293,
+ "rankingPositionChange": 0,
+ "gloryPoint": 55434,
+ "gloryPointChange": 201,
+ "soldierRankID": 13,
+ "characterName": "Skask",
+ "guildName": "Dunedain",
+ "guildID": 29575,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -214,9 +222,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 293,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 55434,
-   "gloryPointChange": -201,
+   "gloryPointChange": 201,
    "soldierRankID": 13
   }
  ],

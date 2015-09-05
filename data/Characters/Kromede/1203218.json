@@ -2,6 +2,12 @@
  "characterID": 1203218,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 637,
+ "rankingPositionChange": 10,
+ "gloryPoint": 6814,
+ "gloryPointChange": 211,
+ "soldierRankID": 11,
+ "characterName": "Rinsa",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -206,9 +212,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 637,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 6814,
-   "gloryPointChange": -211,
+   "gloryPointChange": 211,
    "soldierRankID": 11
   }
  ],

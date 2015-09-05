@@ -2,6 +2,12 @@
  "characterID": 598801,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 612,
+ "rankingPositionChange": 0,
+ "gloryPoint": 1418,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Hexaratis",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 612,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 1418,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

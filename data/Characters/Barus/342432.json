@@ -2,6 +2,14 @@
  "characterID": 342432,
  "characterClassID": 5,
  "raceID": 0,
+ "position": 47,
+ "rankingPositionChange": 0,
+ "gloryPoint": 139151,
+ "gloryPointChange": 363,
+ "soldierRankID": 14,
+ "characterName": "Hagit",
+ "guildName": "Awake",
+ "guildID": 4102,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 47,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 139151,
-   "gloryPointChange": -363,
+   "gloryPointChange": 363,
    "soldierRankID": 14
   }
  ],

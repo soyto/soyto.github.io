@@ -2,6 +2,14 @@
  "characterID": 123575,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 196,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83296,
+ "gloryPointChange": 343,
+ "soldierRankID": 13,
+ "characterName": "Etsumai",
+ "guildName": "Almost Skilled",
+ "guildID": 1122,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -246,9 +254,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 196,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 83296,
-   "gloryPointChange": -343,
+   "gloryPointChange": 343,
    "soldierRankID": 13
   }
  ],

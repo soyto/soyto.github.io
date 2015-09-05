@@ -2,6 +2,14 @@
  "characterID": 309750,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 923,
+ "rankingPositionChange": 15,
+ "gloryPoint": 6445,
+ "gloryPointChange": 239,
+ "soldierRankID": 10,
+ "characterName": "shanawi",
+ "guildName": "HYDRA",
+ "guildID": 6851,
  "status": [
   {
    "date": "2015-08-29T22:00:00.000Z",
@@ -38,9 +46,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 923,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 15,
    "gloryPoint": 6445,
-   "gloryPointChange": -239,
+   "gloryPointChange": 239,
    "soldierRankID": 10
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 93298,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 85,
+ "rankingPositionChange": 1,
+ "gloryPoint": 87590,
+ "gloryPointChange": -107,
+ "soldierRankID": 14,
+ "characterName": "Albir",
+ "guildName": " Arkadia ",
+ "guildID": 1064,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 85,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 87590,
-   "gloryPointChange": 107,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

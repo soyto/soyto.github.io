@@ -2,6 +2,14 @@
  "characterID": 1161074,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 24,
+ "rankingPositionChange": 0,
+ "gloryPoint": 262823,
+ "gloryPointChange": 881,
+ "soldierRankID": 15,
+ "characterName": "Mea",
+ "guildName": "Not My Fault",
+ "guildID": 29410,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 24,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 262823,
-   "gloryPointChange": -881,
+   "gloryPointChange": 881,
    "soldierRankID": 15
   }
  ],

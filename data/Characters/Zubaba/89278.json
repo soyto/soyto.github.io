@@ -2,6 +2,14 @@
  "characterID": 89278,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 305,
+ "rankingPositionChange": 3,
+ "gloryPoint": 25166,
+ "gloryPointChange": 381,
+ "soldierRankID": 12,
+ "characterName": "Aronz",
+ "guildName": "G U A R D S",
+ "guildID": 6689,
  "status": [
   {
    "date": "2015-08-29T22:00:00.000Z",
@@ -38,9 +46,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 305,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 3,
    "gloryPoint": 25166,
-   "gloryPointChange": -381,
+   "gloryPointChange": 381,
    "soldierRankID": 12
   }
  ],

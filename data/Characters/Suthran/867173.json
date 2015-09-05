@@ -2,6 +2,14 @@
  "characterID": 867173,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 20,
+ "rankingPositionChange": 0,
+ "gloryPoint": 200719,
+ "gloryPointChange": 494,
+ "soldierRankID": 15,
+ "characterName": "Vorsigo",
+ "guildName": "Storm",
+ "guildID": 1057,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 20,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 200719,
-   "gloryPointChange": -494,
+   "gloryPointChange": 494,
    "soldierRankID": 15
   }
  ],

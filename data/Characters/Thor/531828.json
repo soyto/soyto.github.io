@@ -2,6 +2,12 @@
  "characterID": 531828,
  "characterClassID": 5,
  "raceID": 0,
+ "position": 710,
+ "rankingPositionChange": 5,
+ "gloryPoint": 24745,
+ "gloryPointChange": 296,
+ "soldierRankID": 10,
+ "characterName": "Cernunnos",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 710,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 5,
    "gloryPoint": 24745,
-   "gloryPointChange": -296,
+   "gloryPointChange": 296,
    "soldierRankID": 10
   }
  ],

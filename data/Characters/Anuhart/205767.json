@@ -2,6 +2,14 @@
  "characterID": 205767,
  "characterClassID": 2,
  "raceID": 0,
+ "position": 30,
+ "rankingPositionChange": 0,
+ "gloryPoint": 239537,
+ "gloryPointChange": 811,
+ "soldierRankID": 15,
+ "characterName": "Cleander",
+ "guildName": "LionHeart",
+ "guildID": 1122,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 30,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 239537,
-   "gloryPointChange": -811,
+   "gloryPointChange": 811,
    "soldierRankID": 15
   }
  ],

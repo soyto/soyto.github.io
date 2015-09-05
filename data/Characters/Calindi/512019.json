@@ -2,6 +2,14 @@
  "characterID": 512019,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 295,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1362,
+ "gloryPointChange": -14,
+ "soldierRankID": 10,
+ "characterName": "Glossy",
+ "guildName": "The Valley Of Death",
+ "guildID": 15425,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 295,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -5,
    "gloryPoint": 1362,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 1283107,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 26,
+ "rankingPositionChange": 1,
+ "gloryPoint": 257100,
+ "gloryPointChange": 484,
+ "soldierRankID": 15,
+ "characterName": "Luyna",
+ "guildName": "Symphony of Desolation",
+ "guildID": 33788,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 26,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 257100,
-   "gloryPointChange": -484,
+   "gloryPointChange": 484,
    "soldierRankID": 15
   }
  ],

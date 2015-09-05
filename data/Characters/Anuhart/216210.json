@@ -2,6 +2,12 @@
  "characterID": 216210,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 140,
+ "rankingPositionChange": 0,
+ "gloryPoint": 64712,
+ "gloryPointChange": 176,
+ "soldierRankID": 13,
+ "characterName": "Noxastra",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 140,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 64712,
-   "gloryPointChange": -176,
+   "gloryPointChange": 176,
    "soldierRankID": 13
   }
  ],

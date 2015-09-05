@@ -2,6 +2,12 @@
  "characterID": 421312,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 337,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7483,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Tiritis",
  "status": [
   {
    "date": "2015-08-10T22:00:00.000Z",
@@ -182,9 +188,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 337,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 7483,
-   "gloryPointChange": 28,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

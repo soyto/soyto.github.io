@@ -2,6 +2,14 @@
  "characterID": 839997,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 89,
+ "rankingPositionChange": 1,
+ "gloryPoint": 75552,
+ "gloryPointChange": 168,
+ "soldierRankID": 14,
+ "characterName": "Lunnae",
+ "guildName": "Syntagma",
+ "guildID": 10094,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 89,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 75552,
-   "gloryPointChange": -168,
+   "gloryPointChange": 168,
    "soldierRankID": 14
   }
  ],

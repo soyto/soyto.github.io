@@ -2,6 +2,14 @@
  "characterID": 44066,
  "characterClassID": 4,
  "raceID": 0,
+ "position": 425,
+ "rankingPositionChange": 1,
+ "gloryPoint": 19471,
+ "gloryPointChange": 200,
+ "soldierRankID": 12,
+ "characterName": "Redclass",
+ "guildName": "Friendship",
+ "guildID": 6189,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 425,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 19471,
-   "gloryPointChange": -200,
+   "gloryPointChange": 200,
    "soldierRankID": 12
   }
  ],

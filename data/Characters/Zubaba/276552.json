@@ -2,6 +2,14 @@
  "characterID": 276552,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 350,
+ "rankingPositionChange": 6,
+ "gloryPoint": 19230,
+ "gloryPointChange": 410,
+ "soldierRankID": 12,
+ "characterName": "Inserst",
+ "guildName": "ANCHOR",
+ "guildID": 6633,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 350,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 6,
    "gloryPoint": 19230,
-   "gloryPointChange": -410,
+   "gloryPointChange": 410,
    "soldierRankID": 12
   }
  ],

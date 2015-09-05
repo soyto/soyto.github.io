@@ -2,6 +2,12 @@
  "characterID": 1001338,
  "characterClassID": 16,
  "raceID": 0,
+ "position": 386,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35226,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Nyatia",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +260,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 386,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 35226,
-   "gloryPointChange": 28,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 95769,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 386,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17455,
+ "gloryPointChange": 165,
+ "soldierRankID": 12,
+ "characterName": "Resistant",
+ "guildName": "Prepotenti",
+ "guildID": 5129,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 386,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 17455,
-   "gloryPointChange": -165,
+   "gloryPointChange": 165,
    "soldierRankID": 12
   }
  ],

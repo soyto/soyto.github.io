@@ -2,6 +2,14 @@
  "characterID": 838979,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 2,
+ "rankingPositionChange": 0,
+ "gloryPoint": 332963,
+ "gloryPointChange": 646,
+ "soldierRankID": 17,
+ "characterName": "Dazed",
+ "guildName": "Mreow Slack",
+ "guildID": 42768,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 2,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 332963,
-   "gloryPointChange": -646,
+   "gloryPointChange": 646,
    "soldierRankID": 17
   }
  ],

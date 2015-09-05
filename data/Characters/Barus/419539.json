@@ -2,6 +2,14 @@
  "characterID": 419539,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 160,
+ "rankingPositionChange": 1,
+ "gloryPoint": 83540,
+ "gloryPointChange": 511,
+ "soldierRankID": 13,
+ "characterName": "Damage",
+ "guildName": "You Touch My Tralala",
+ "guildID": 1280,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 160,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 83540,
-   "gloryPointChange": -511,
+   "gloryPointChange": 511,
    "soldierRankID": 13
   }
  ],

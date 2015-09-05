@@ -2,6 +2,14 @@
  "characterID": 345199,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 815,
+ "rankingPositionChange": 0,
+ "gloryPoint": 9556,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Shift",
+ "guildName": "EXIT",
+ "guildID": 13660,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 815,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 9556,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

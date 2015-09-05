@@ -2,6 +2,14 @@
  "characterID": 1425364,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 888,
+ "rankingPositionChange": 42,
+ "gloryPoint": 2011,
+ "gloryPointChange": 205,
+ "soldierRankID": 10,
+ "characterName": "Scam",
+ "guildName": "Cult Of Rakdos",
+ "guildID": 29175,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -22,9 +30,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 888,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 42,
    "gloryPoint": 2011,
-   "gloryPointChange": -205,
+   "gloryPointChange": 205,
    "soldierRankID": 10
   }
  ],

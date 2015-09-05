@@ -2,6 +2,14 @@
  "characterID": 1058845,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 290,
+ "rankingPositionChange": 1,
+ "gloryPoint": 65452,
+ "gloryPointChange": 430,
+ "soldierRankID": 13,
+ "characterName": "Knx",
+ "guildName": "Grow or Die",
+ "guildID": 35254,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 290,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 65452,
-   "gloryPointChange": -430,
+   "gloryPointChange": 430,
    "soldierRankID": 13
   }
  ],

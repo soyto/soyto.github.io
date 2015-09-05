@@ -2,6 +2,14 @@
  "characterID": 1109437,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 935,
+ "rankingPositionChange": 10,
+ "gloryPoint": 1783,
+ "gloryPointChange": 43,
+ "soldierRankID": 10,
+ "characterName": "Mortizia",
+ "guildName": "See Shugos Everywhere",
+ "guildID": 29362,
  "status": [
   {
    "date": "2015-08-04T22:00:00.000Z",
@@ -222,9 +230,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 935,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 1783,
-   "gloryPointChange": -43,
+   "gloryPointChange": 43,
    "soldierRankID": 10
   }
  ],

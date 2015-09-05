@@ -2,6 +2,14 @@
  "characterID": 408546,
  "characterClassID": 7,
  "raceID": 0,
+ "position": 627,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3000,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Idezia",
+ "guildName": "Tribu des Popokus",
+ "guildID": 15781,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 627,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 3000,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

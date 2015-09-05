@@ -2,6 +2,12 @@
  "characterID": 36945,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 300,
+ "rankingPositionChange": -2,
+ "gloryPoint": 58820,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Rivelle",
  "status": [
   {
    "date": "2015-08-02T22:00:00.000Z",
@@ -246,9 +252,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 300,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -2,
    "gloryPoint": 58820,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

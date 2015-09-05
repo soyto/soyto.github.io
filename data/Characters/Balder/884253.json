@@ -2,6 +2,14 @@
  "characterID": 884253,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 644,
+ "rankingPositionChange": 29,
+ "gloryPoint": 1299,
+ "gloryPointChange": 53,
+ "soldierRankID": 10,
+ "characterName": "Fifro",
+ "guildName": "John Does Chapter",
+ "guildID": 23404,
  "status": [
   {
    "date": "2015-08-30T22:00:00.000Z",
@@ -22,9 +30,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 644,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 29,
    "gloryPoint": 1299,
-   "gloryPointChange": -53,
+   "gloryPointChange": 53,
    "soldierRankID": 10
   }
  ],

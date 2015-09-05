@@ -2,6 +2,14 @@
  "characterID": 1150206,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 790,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7559,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Kinaria",
+ "guildName": "The black crows",
+ "guildID": 30386,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 790,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 7559,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,6 +2,12 @@
  "characterID": 1486303,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 1000,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6714,
+ "gloryPointChange": -7,
+ "soldierRankID": 0,
+ "characterName": "Zhing",
  "status": [
   {
    "date": "2015-08-27T22:00:00.000Z",
@@ -46,9 +52,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 1000,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -5,
    "gloryPoint": 6714,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 0
   }
  ],

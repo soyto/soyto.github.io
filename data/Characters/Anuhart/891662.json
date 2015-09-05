@@ -2,6 +2,12 @@
  "characterID": 891662,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 641,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9725,
+ "gloryPointChange": 96,
+ "soldierRankID": 11,
+ "characterName": "Koutsouna",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 641,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 9725,
-   "gloryPointChange": -96,
+   "gloryPointChange": 96,
    "soldierRankID": 11
   }
  ],

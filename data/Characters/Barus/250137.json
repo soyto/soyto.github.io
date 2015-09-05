@@ -2,6 +2,14 @@
  "characterID": 250137,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 82,
+ "rankingPositionChange": 0,
+ "gloryPoint": 104251,
+ "gloryPointChange": 518,
+ "soldierRankID": 14,
+ "characterName": "Fearmee",
+ "guildName": "THOR",
+ "guildID": 1037,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 82,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 104251,
-   "gloryPointChange": -518,
+   "gloryPointChange": 518,
    "soldierRankID": 14
   }
  ],

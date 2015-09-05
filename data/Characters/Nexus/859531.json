@@ -2,6 +2,14 @@
  "characterID": 859531,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 325,
+ "rankingPositionChange": 1,
+ "gloryPoint": 31562,
+ "gloryPointChange": 378,
+ "soldierRankID": 12,
+ "characterName": "Inur",
+ "guildName": "Whiskey Tango Foxtrot",
+ "guildID": 16082,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 325,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 31562,
-   "gloryPointChange": -378,
+   "gloryPointChange": 378,
    "soldierRankID": 12
   }
  ],

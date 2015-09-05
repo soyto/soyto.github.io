@@ -2,6 +2,14 @@
  "characterID": 90603,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 18,
+ "rankingPositionChange": 0,
+ "gloryPoint": 196064,
+ "gloryPointChange": -69,
+ "soldierRankID": 15,
+ "characterName": "Erazor",
+ "guildName": "BEEP BEEP IM A JEEP",
+ "guildID": 15677,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 18,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 196064,
-   "gloryPointChange": 69,
+   "gloryPointChange": -69,
    "soldierRankID": 15
   }
  ],

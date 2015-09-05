@@ -2,6 +2,14 @@
  "characterID": 299998,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 99,
+ "rankingPositionChange": 1,
+ "gloryPoint": 65520,
+ "gloryPointChange": 234,
+ "soldierRankID": 14,
+ "characterName": "Okoi",
+ "guildName": "V I P",
+ "guildID": 30409,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 99,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 65520,
-   "gloryPointChange": -234,
+   "gloryPointChange": 234,
    "soldierRankID": 14
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 386743,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 120,
+ "rankingPositionChange": 0,
+ "gloryPoint": 55272,
+ "gloryPointChange": 687,
+ "soldierRankID": 13,
+ "characterName": "Everlie",
+ "guildName": "Tenshi no Tsuki",
+ "guildID": 11336,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 120,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 55272,
-   "gloryPointChange": -687,
+   "gloryPointChange": 687,
    "soldierRankID": 13
   }
  ],

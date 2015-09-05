@@ -2,6 +2,12 @@
  "characterID": 505781,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 625,
+ "rankingPositionChange": 0,
+ "gloryPoint": 20977,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Korilis",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 625,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 20977,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,6 +2,12 @@
  "characterID": 111847,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 884,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8389,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Lasthit",
  "status": [
   {
    "date": "2015-08-18T22:00:00.000Z",
@@ -118,9 +124,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 884,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 8389,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

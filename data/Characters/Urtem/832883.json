@@ -2,6 +2,14 @@
  "characterID": 832883,
  "characterClassID": 2,
  "raceID": 0,
+ "position": 567,
+ "rankingPositionChange": 2,
+ "gloryPoint": 29989,
+ "gloryPointChange": 89,
+ "soldierRankID": 11,
+ "characterName": "Naughty",
+ "guildName": "We are Cats",
+ "guildID": 41532,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 567,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 2,
    "gloryPoint": 29989,
-   "gloryPointChange": -89,
+   "gloryPointChange": 89,
    "soldierRankID": 11
   }
  ],

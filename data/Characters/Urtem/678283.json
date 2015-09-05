@@ -2,6 +2,12 @@
  "characterID": 678283,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 921,
+ "rankingPositionChange": 6,
+ "gloryPoint": 7742,
+ "gloryPointChange": 55,
+ "soldierRankID": 10,
+ "characterName": "Parou",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +260,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 921,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 6,
    "gloryPoint": 7742,
-   "gloryPointChange": -55,
+   "gloryPointChange": 55,
    "soldierRankID": 10
   }
  ],

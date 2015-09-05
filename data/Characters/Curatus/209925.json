@@ -2,6 +2,14 @@
  "characterID": 209925,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 634,
+ "rankingPositionChange": 4,
+ "gloryPoint": 8393,
+ "gloryPointChange": 430,
+ "soldierRankID": 11,
+ "characterName": "Feathers",
+ "guildName": "Stalkers",
+ "guildID": 5288,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -230,9 +238,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 634,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 4,
    "gloryPoint": 8393,
-   "gloryPointChange": -430,
+   "gloryPointChange": 430,
    "soldierRankID": 11
   }
  ],

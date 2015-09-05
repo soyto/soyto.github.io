@@ -2,6 +2,14 @@
  "characterID": 74983,
  "characterClassID": 5,
  "raceID": 0,
+ "position": 865,
+ "rankingPositionChange": 15,
+ "gloryPoint": 4136,
+ "gloryPointChange": 193,
+ "soldierRankID": 10,
+ "characterName": "Tatiana",
+ "guildName": "The Order",
+ "guildID": 5668,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -214,9 +222,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 865,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 15,
    "gloryPoint": 4136,
-   "gloryPointChange": -193,
+   "gloryPointChange": 193,
    "soldierRankID": 10
   }
  ],

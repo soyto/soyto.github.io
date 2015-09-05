@@ -2,6 +2,14 @@
  "characterID": 175442,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 408,
+ "rankingPositionChange": 5,
+ "gloryPoint": 16083,
+ "gloryPointChange": 240,
+ "soldierRankID": 12,
+ "characterName": "Enias",
+ "guildName": "Untold",
+ "guildID": 5997,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 408,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 5,
    "gloryPoint": 16083,
-   "gloryPointChange": -240,
+   "gloryPointChange": 240,
    "soldierRankID": 12
   }
  ],

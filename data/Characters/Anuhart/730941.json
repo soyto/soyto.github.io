@@ -2,6 +2,14 @@
  "characterID": 730941,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 80,
+ "rankingPositionChange": 2,
+ "gloryPoint": 128432,
+ "gloryPointChange": 623,
+ "soldierRankID": 14,
+ "characterName": "Suuito",
+ "guildName": "Horror Story",
+ "guildID": 12510,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 80,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 2,
    "gloryPoint": 128432,
-   "gloryPointChange": -623,
+   "gloryPointChange": 623,
    "soldierRankID": 14
   }
  ],

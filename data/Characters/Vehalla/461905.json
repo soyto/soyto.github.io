@@ -2,6 +2,14 @@
  "characterID": 461905,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 51,
+ "rankingPositionChange": 0,
+ "gloryPoint": 90553,
+ "gloryPointChange": 535,
+ "soldierRankID": 14,
+ "characterName": "Pierakor",
+ "guildName": "Maligne",
+ "guildID": 13523,
  "status": [
   {
    "date": "2015-08-05T22:00:00.000Z",
@@ -222,9 +230,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 51,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 90553,
-   "gloryPointChange": -535,
+   "gloryPointChange": 535,
    "soldierRankID": 14
   }
  ],

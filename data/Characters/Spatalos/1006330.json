@@ -2,6 +2,14 @@
  "characterID": 1006330,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 14,
+ "rankingPositionChange": 0,
+ "gloryPoint": 213544,
+ "gloryPointChange": -119,
+ "soldierRankID": 15,
+ "characterName": "Ninemillimeter",
+ "guildName": "Syntagma",
+ "guildID": 10094,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 14,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 213544,
-   "gloryPointChange": 119,
+   "gloryPointChange": -119,
    "soldierRankID": 15
   }
  ],

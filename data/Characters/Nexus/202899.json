@@ -2,6 +2,14 @@
  "characterID": 202899,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 978,
+ "rankingPositionChange": 10,
+ "gloryPoint": 4479,
+ "gloryPointChange": 82,
+ "soldierRankID": 10,
+ "characterName": "Mufa",
+ "guildName": "Monster Energy",
+ "guildID": 3569,
  "status": [
   {
    "date": "2015-08-28T22:00:00.000Z",
@@ -46,9 +54,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 978,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 4479,
-   "gloryPointChange": -82,
+   "gloryPointChange": 82,
    "soldierRankID": 10
   }
  ],

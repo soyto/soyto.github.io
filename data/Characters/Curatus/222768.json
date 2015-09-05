@@ -2,6 +2,14 @@
  "characterID": 222768,
  "characterClassID": 13,
  "raceID": 1,
+ "position": 323,
+ "rankingPositionChange": 0,
+ "gloryPoint": 23375,
+ "gloryPointChange": 307,
+ "soldierRankID": 12,
+ "characterName": "Deathaxe",
+ "guildName": "Stalkers",
+ "guildID": 5288,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 323,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 23375,
-   "gloryPointChange": -307,
+   "gloryPointChange": 307,
    "soldierRankID": 12
   }
  ],

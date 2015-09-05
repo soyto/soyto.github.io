@@ -2,6 +2,14 @@
  "characterID": 100120,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 523,
+ "rankingPositionChange": 0,
+ "gloryPoint": 8320,
+ "gloryPointChange": 40,
+ "soldierRankID": 11,
+ "characterName": "Ameloss",
+ "guildName": "ANCHOR",
+ "guildID": 6633,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 523,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 8320,
-   "gloryPointChange": -40,
+   "gloryPointChange": 40,
    "soldierRankID": 11
   }
  ],

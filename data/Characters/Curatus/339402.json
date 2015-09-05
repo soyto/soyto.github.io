@@ -2,6 +2,14 @@
  "characterID": 339402,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 580,
+ "rankingPositionChange": 10,
+ "gloryPoint": 22847,
+ "gloryPointChange": 718,
+ "soldierRankID": 11,
+ "characterName": "Milox",
+ "guildName": "Long Island",
+ "guildID": 6673,
  "status": [
   {
    "date": "2015-08-05T22:00:00.000Z",
@@ -222,9 +230,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 580,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 22847,
-   "gloryPointChange": -718,
+   "gloryPointChange": 718,
    "soldierRankID": 11
   }
  ],

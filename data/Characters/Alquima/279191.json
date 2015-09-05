@@ -2,6 +2,14 @@
  "characterID": 279191,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 444,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18023,
+ "gloryPointChange": 50,
+ "soldierRankID": 12,
+ "characterName": "Cgr",
+ "guildName": "Maestros de Asmodia",
+ "guildID": 6351,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 444,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 18023,
-   "gloryPointChange": -50,
+   "gloryPointChange": 50,
    "soldierRankID": 12
   }
  ],

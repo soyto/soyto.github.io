@@ -268,7 +268,18 @@ module.exports = new function() {
           storedCharacter = {
             characterID: character.characterID,
             characterClassID: character.characterClassID,
-            raceID: character.raceID
+            raceID: character.raceID,
+
+            position: character.position,
+            rankingPositionChange: character.rankingPositionChange,
+            gloryPoint: character.gloryPoint,
+            gloryPointChange: 0,
+            soldierRankID: character.soldierRankID,
+
+            characterName: character.characterName,
+
+            guildName: character.guildName,
+            guildID: character.guildID
           };
 
           storedCharacter.status = [{
@@ -326,6 +337,18 @@ module.exports = new function() {
               guildID: character.guildID,
             });
           }
+
+          //Update character itself
+          storedCharacter.position = character.position;
+          storedCharacter.rankingPositionChange = lastStatus.position - character.position;
+          storedCharacter.gloryPoint = character.gloryPoint;
+          storedCharacter.gloryPointChange = character.gloryPoint - lastStatus.gloryPoint;
+          storedCharacter.soldierRankID = character.soldierRankID;
+
+          storedCharacter.characterName = character.characterName;
+
+          storedCharacter.guildName = character.guildName;
+          storedCharacter.guildID = character.guildID;
         }
       });
     });
@@ -357,7 +380,18 @@ module.exports = new function() {
         storedCharacter = {
           characterID: serverCharacter.characterID,
           characterClassID: serverCharacter.characterClassID,
-          raceID: serverCharacter.raceID
+          raceID: serverCharacter.raceID,
+
+          position: serverCharacter.position,
+          rankingPositionChange: serverCharacter.rankingPositionChange,
+          gloryPoint: serverCharacter.gloryPoint,
+          gloryPointChange: 0,
+          soldierRankID: serverCharacter.soldierRankID,
+
+          characterName: serverCharacter.characterName,
+
+          guildName: serverCharacter.guildName,
+          guildID: serverCharacter.guildID
         };
 
         storedCharacter.status = [{
@@ -446,9 +480,9 @@ module.exports = new function() {
         storedCharacter.status.push({
           date: serverData.date,
           position: serverCharacter.position,
-          rankingPositionChange: lastStatus.position - serverCharacter.postion,
+          rankingPositionChange: lastStatus.position - serverCharacter.position,
           gloryPoint: serverCharacter.gloryPoint,
-          gloryPointChange: lastStatus.gloryPoint - serverCharacter.gloryPoint,
+          gloryPointChange: serverCharacter.gloryPoint - lastStatus.gloryPoint,
           soldierRankID: serverCharacter.soldierRankID
         });
 
@@ -471,9 +505,21 @@ module.exports = new function() {
           });
         }
 
+        //Update character itself
+        storedCharacter.position = serverCharacter.position;
+        storedCharacter.rankingPositionChange = lastStatus.position - serverCharacter.position;
+        storedCharacter.gloryPoint = serverCharacter.gloryPoint;
+        storedCharacter.gloryPointChange = serverCharacter.gloryPoint - lastStatus.gloryPoint;
+        storedCharacter.soldierRankID = serverCharacter.soldierRankID;
+
+        storedCharacter.characterName = serverCharacter.characterName;
+
+        storedCharacter.guildName = serverCharacter.guildName;
+        storedCharacter.guildID = serverCharacter.guildID;
+
         //We update serverCharacter
-        serverCharacter.rankingPositionChange = lastStatus.position - serverCharacter.position;
-        serverCharacter.gloryPointChange = lastStatus.gloryPoint - serverCharacter.gloryPoint;
+        serverCharacter.rankingPositionChange = storedCharacter.rankingPositionChange;
+        serverCharacter.gloryPointChange = storedCharacter.gloryPointChange;
       }
 
     });

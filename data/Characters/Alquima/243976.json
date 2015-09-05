@@ -2,6 +2,12 @@
  "characterID": 243976,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 451,
+ "rankingPositionChange": 8,
+ "gloryPoint": 17786,
+ "gloryPointChange": 415,
+ "soldierRankID": 12,
+ "characterName": "Kiriton",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 451,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 8,
    "gloryPoint": 17786,
-   "gloryPointChange": -415,
+   "gloryPointChange": 415,
    "soldierRankID": 12
   }
  ],

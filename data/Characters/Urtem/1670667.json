@@ -2,6 +2,14 @@
  "characterID": 1670667,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 721,
+ "rankingPositionChange": 10,
+ "gloryPoint": 11413,
+ "gloryPointChange": 376,
+ "soldierRankID": 10,
+ "characterName": "Shimyo",
+ "guildName": "Ombre et Lumiere",
+ "guildID": 8243,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 721,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 11413,
-   "gloryPointChange": -376,
+   "gloryPointChange": 376,
    "soldierRankID": 10
   }
  ],

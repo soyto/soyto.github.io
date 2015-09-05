@@ -2,6 +2,12 @@
  "characterID": 602044,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 620,
+ "rankingPositionChange": 3,
+ "gloryPoint": 11440,
+ "gloryPointChange": 79,
+ "soldierRankID": 11,
+ "characterName": "Mordsiths",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 620,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 3,
    "gloryPoint": 11440,
-   "gloryPointChange": -79,
+   "gloryPointChange": 79,
    "soldierRankID": 11
   }
  ],

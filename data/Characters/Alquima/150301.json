@@ -2,6 +2,12 @@
  "characterID": 150301,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 199,
+ "rankingPositionChange": 0,
+ "gloryPoint": 43868,
+ "gloryPointChange": 259,
+ "soldierRankID": 13,
+ "characterName": "Krauch",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 199,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 43868,
-   "gloryPointChange": -259,
+   "gloryPointChange": 259,
    "soldierRankID": 13
   }
  ],

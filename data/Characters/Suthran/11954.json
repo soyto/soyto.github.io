@@ -2,6 +2,14 @@
  "characterID": 11954,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 330,
+ "rankingPositionChange": 0,
+ "gloryPoint": 29650,
+ "gloryPointChange": 280,
+ "soldierRankID": 12,
+ "characterName": "Amidamaru",
+ "guildName": " Eclypse ",
+ "guildID": 5712,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 330,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 29650,
-   "gloryPointChange": -280,
+   "gloryPointChange": 280,
    "soldierRankID": 12
   }
  ],

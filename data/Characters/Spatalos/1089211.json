@@ -2,6 +2,14 @@
  "characterID": 1089211,
  "characterClassID": 5,
  "raceID": 0,
+ "position": 309,
+ "rankingPositionChange": 0,
+ "gloryPoint": 50505,
+ "gloryPointChange": 512,
+ "soldierRankID": 12,
+ "characterName": "Surematu",
+ "guildName": "Our Army Comes From Deep Within",
+ "guildID": 9470,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 309,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 50505,
-   "gloryPointChange": -512,
+   "gloryPointChange": 512,
    "soldierRankID": 12
   }
  ],

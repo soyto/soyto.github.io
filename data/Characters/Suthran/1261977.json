@@ -2,6 +2,14 @@
  "characterID": 1261977,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 800,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7176,
+ "gloryPointChange": 53,
+ "soldierRankID": 10,
+ "characterName": "Naion",
+ "guildName": "The black crows",
+ "guildID": 30386,
  "status": [
   {
    "date": "2015-08-05T22:00:00.000Z",
@@ -222,9 +230,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 800,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -2,
    "gloryPoint": 7176,
-   "gloryPointChange": -53,
+   "gloryPointChange": 53,
    "soldierRankID": 10
   }
  ],

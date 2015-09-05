@@ -2,6 +2,14 @@
  "characterID": 936535,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 16,
+ "rankingPositionChange": 0,
+ "gloryPoint": 314147,
+ "gloryPointChange": -119,
+ "soldierRankID": 15,
+ "characterName": "Vallail",
+ "guildName": "Heer der Finsternis",
+ "guildID": 41586,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 16,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 314147,
-   "gloryPointChange": 119,
+   "gloryPointChange": -119,
    "soldierRankID": 15
   }
  ],

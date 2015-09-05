@@ -2,6 +2,14 @@
  "characterID": 203893,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 990,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3017,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Sylthaer",
+ "guildName": " Arkadia ",
+ "guildID": 1064,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 990,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -5,
    "gloryPoint": 3017,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

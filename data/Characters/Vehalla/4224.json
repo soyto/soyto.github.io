@@ -2,6 +2,12 @@
  "characterID": 4224,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 115,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51407,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Zyax",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 115,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 51407,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

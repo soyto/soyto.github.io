@@ -2,6 +2,14 @@
  "characterID": 270293,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 170,
+ "rankingPositionChange": 1,
+ "gloryPoint": 44652,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Redeemer",
+ "guildName": "I ve beated a dummy once",
+ "guildID": 6193,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 170,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 44652,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

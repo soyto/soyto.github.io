@@ -2,6 +2,14 @@
  "characterID": 1041073,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 250,
+ "rankingPositionChange": 1,
+ "gloryPoint": 65980,
+ "gloryPointChange": 15,
+ "soldierRankID": 13,
+ "characterName": "Bezement",
+ "guildName": "GuardianAngelz",
+ "guildID": 3612,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -246,9 +254,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 250,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 65980,
-   "gloryPointChange": -15,
+   "gloryPointChange": 15,
    "soldierRankID": 13
   }
  ],

@@ -2,6 +2,12 @@
  "characterID": 765803,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 987,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7656,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Ashmedai",
  "status": [
   {
    "date": "2015-08-29T22:00:00.000Z",
@@ -38,9 +44,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 987,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -5,
    "gloryPoint": 7656,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

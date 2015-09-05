@@ -2,6 +2,12 @@
  "characterID": 1637532,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 645,
+ "rankingPositionChange": 4,
+ "gloryPoint": 5204,
+ "gloryPointChange": 149,
+ "soldierRankID": 11,
+ "characterName": "Bellows",
  "status": [
   {
    "date": "2015-08-18T22:00:00.000Z",
@@ -118,9 +124,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 645,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 4,
    "gloryPoint": 5204,
-   "gloryPointChange": -149,
+   "gloryPointChange": 149,
    "soldierRankID": 11
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 15181,
  "characterClassID": 11,
  "raceID": 0,
+ "position": 100,
+ "rankingPositionChange": 0,
+ "gloryPoint": 131807,
+ "gloryPointChange": 383,
+ "soldierRankID": 14,
+ "characterName": "Beabba",
+ "guildName": "Warmness",
+ "guildID": 2162,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 100,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 131807,
-   "gloryPointChange": -383,
+   "gloryPointChange": 383,
    "soldierRankID": 14
   }
  ],

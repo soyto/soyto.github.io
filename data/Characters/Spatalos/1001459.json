@@ -2,6 +2,14 @@
  "characterID": 1001459,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 904,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2590,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Pavarotti",
+ "guildName": "HardCore",
+ "guildID": 10485,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 904,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -5,
    "gloryPoint": 2590,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

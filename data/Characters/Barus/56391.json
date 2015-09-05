@@ -2,6 +2,14 @@
  "characterID": 56391,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 4,
+ "rankingPositionChange": 0,
+ "gloryPoint": 349517,
+ "gloryPointChange": 601,
+ "soldierRankID": 16,
+ "characterName": "Sicarius",
+ "guildName": "Pixel Enemy",
+ "guildID": 3853,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 4,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 349517,
-   "gloryPointChange": -601,
+   "gloryPointChange": 601,
    "soldierRankID": 16
   }
  ],

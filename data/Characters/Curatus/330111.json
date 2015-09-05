@@ -2,6 +2,12 @@
  "characterID": 330111,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 885,
+ "rankingPositionChange": 5,
+ "gloryPoint": 4107,
+ "gloryPointChange": 46,
+ "soldierRankID": 10,
+ "characterName": "Congelata",
  "status": [
   {
    "date": "2015-08-16T22:00:00.000Z",
@@ -134,9 +140,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 885,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 5,
    "gloryPoint": 4107,
-   "gloryPointChange": -46,
+   "gloryPointChange": 46,
    "soldierRankID": 10
   }
  ],

@@ -2,6 +2,12 @@
  "characterID": 433187,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 27,
+ "rankingPositionChange": 0,
+ "gloryPoint": 243859,
+ "gloryPointChange": 504,
+ "soldierRankID": 15,
+ "characterName": "Kerrigaan",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 27,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 243859,
-   "gloryPointChange": -504,
+   "gloryPointChange": 504,
    "soldierRankID": 15
   }
  ],

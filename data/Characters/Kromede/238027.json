@@ -2,6 +2,14 @@
  "characterID": 238027,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 508,
+ "rankingPositionChange": 5,
+ "gloryPoint": 9527,
+ "gloryPointChange": 110,
+ "soldierRankID": 11,
+ "characterName": "Etiedus",
+ "guildName": "Sturmkraehen",
+ "guildID": 9741,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 508,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 5,
    "gloryPoint": 9527,
-   "gloryPointChange": -110,
+   "gloryPointChange": 110,
    "soldierRankID": 11
   }
  ],

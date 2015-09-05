@@ -2,6 +2,14 @@
  "characterID": 785189,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 50,
+ "rankingPositionChange": 0,
+ "gloryPoint": 125765,
+ "gloryPointChange": 352,
+ "soldierRankID": 14,
+ "characterName": "Tenno",
+ "guildName": "Black Pearl",
+ "guildID": 1514,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 50,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 125765,
-   "gloryPointChange": -352,
+   "gloryPointChange": 352,
    "soldierRankID": 14
   }
  ],

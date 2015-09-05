@@ -2,6 +2,14 @@
  "characterID": 190504,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 96,
+ "rankingPositionChange": 0,
+ "gloryPoint": 126659,
+ "gloryPointChange": -107,
+ "soldierRankID": 14,
+ "characterName": "Booger",
+ "guildName": "WinoSqad",
+ "guildID": 1234,
  "status": [
   {
    "date": "2015-08-13T22:00:00.000Z",
@@ -158,9 +166,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 96,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 126659,
-   "gloryPointChange": 107,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

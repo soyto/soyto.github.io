@@ -2,6 +2,14 @@
  "characterID": 683737,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 662,
+ "rankingPositionChange": 0,
+ "gloryPoint": 20600,
+ "gloryPointChange": 156,
+ "soldierRankID": 11,
+ "characterName": "Femme",
+ "guildName": "Rise Of Fallen Legions",
+ "guildID": 23670,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 662,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 20600,
-   "gloryPointChange": -156,
+   "gloryPointChange": 156,
    "soldierRankID": 11
   }
  ],

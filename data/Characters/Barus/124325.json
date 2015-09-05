@@ -2,6 +2,14 @@
  "characterID": 124325,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 184,
+ "rankingPositionChange": 1,
+ "gloryPoint": 76185,
+ "gloryPointChange": 645,
+ "soldierRankID": 13,
+ "characterName": "Gevoo",
+ "guildName": "You Mad Man",
+ "guildID": 7008,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 184,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 76185,
-   "gloryPointChange": -645,
+   "gloryPointChange": 645,
    "soldierRankID": 13
   }
  ],

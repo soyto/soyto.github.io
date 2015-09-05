@@ -2,6 +2,14 @@
  "characterID": 1898,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 608,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21684,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Violent",
+ "guildName": "Envy",
+ "guildID": 1020,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 608,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 21684,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

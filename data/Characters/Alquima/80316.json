@@ -2,6 +2,14 @@
  "characterID": 80316,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 15,
+ "rankingPositionChange": 0,
+ "gloryPoint": 177019,
+ "gloryPointChange": -69,
+ "soldierRankID": 15,
+ "characterName": "Xerexa",
+ "guildName": "Dark Einhasad",
+ "guildID": 2603,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 15,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 177019,
-   "gloryPointChange": 69,
+   "gloryPointChange": -69,
    "soldierRankID": 15
   }
  ],

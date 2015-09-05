@@ -2,6 +2,14 @@
  "characterID": 606912,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 701,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15801,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Feranor",
+ "guildName": "Elyos Drachenlegion",
+ "guildID": 22312,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 701,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 15801,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

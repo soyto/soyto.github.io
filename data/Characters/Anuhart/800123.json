@@ -2,6 +2,12 @@
  "characterID": 800123,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 437,
+ "rankingPositionChange": -4,
+ "gloryPoint": 17980,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Cooldown",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 437,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -4,
    "gloryPoint": 17980,
-   "gloryPointChange": 28,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

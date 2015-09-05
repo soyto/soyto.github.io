@@ -2,6 +2,14 @@
  "characterID": 273390,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 610,
+ "rankingPositionChange": 11,
+ "gloryPoint": 1426,
+ "gloryPointChange": 46,
+ "soldierRankID": 11,
+ "characterName": "Mystical",
+ "guildName": "Surdi Slayer",
+ "guildID": 30326,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -22,9 +30,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 610,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 11,
    "gloryPoint": 1426,
-   "gloryPointChange": -46,
+   "gloryPointChange": 46,
    "soldierRankID": 11
   }
  ],

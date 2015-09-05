@@ -2,6 +2,14 @@
  "characterID": 160526,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 180,
+ "rankingPositionChange": 0,
+ "gloryPoint": 88905,
+ "gloryPointChange": 155,
+ "soldierRankID": 13,
+ "characterName": "Adictia",
+ "guildName": "OroForBg",
+ "guildID": 15044,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -222,9 +230,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 180,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 88905,
-   "gloryPointChange": -155,
+   "gloryPointChange": 155,
    "soldierRankID": 13
   }
  ],

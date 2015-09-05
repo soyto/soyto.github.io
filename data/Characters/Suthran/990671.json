@@ -2,6 +2,14 @@
  "characterID": 990671,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 101,
+ "rankingPositionChange": 0,
+ "gloryPoint": 100390,
+ "gloryPointChange": 398,
+ "soldierRankID": 13,
+ "characterName": "Sereyna",
+ "guildName": "SchizoFriends",
+ "guildID": 18901,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 101,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 100390,
-   "gloryPointChange": -398,
+   "gloryPointChange": 398,
    "soldierRankID": 13
   }
  ],

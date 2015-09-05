@@ -2,6 +2,14 @@
  "characterID": 401259,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 611,
+ "rankingPositionChange": 5,
+ "gloryPoint": 12752,
+ "gloryPointChange": 145,
+ "soldierRankID": 11,
+ "characterName": "Hiromy",
+ "guildName": "HYDRA",
+ "guildID": 6851,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 611,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 5,
    "gloryPoint": 12752,
-   "gloryPointChange": -145,
+   "gloryPointChange": 145,
    "soldierRankID": 11
   }
  ],

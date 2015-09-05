@@ -2,6 +2,14 @@
  "characterID": 873199,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 500,
+ "rankingPositionChange": 3,
+ "gloryPoint": 27816,
+ "gloryPointChange": 296,
+ "soldierRankID": 12,
+ "characterName": "Elystefania",
+ "guildName": "Pannon Reborn",
+ "guildID": 13410,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 500,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 3,
    "gloryPoint": 27816,
-   "gloryPointChange": -296,
+   "gloryPointChange": 296,
    "soldierRankID": 12
   }
  ],

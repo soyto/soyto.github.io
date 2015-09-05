@@ -2,6 +2,12 @@
  "characterID": 323989,
  "characterClassID": 7,
  "raceID": 0,
+ "position": 220,
+ "rankingPositionChange": 1,
+ "gloryPoint": 71125,
+ "gloryPointChange": 54,
+ "soldierRankID": 13,
+ "characterName": "Jinz",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 220,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 71125,
-   "gloryPointChange": -54,
+   "gloryPointChange": 54,
    "soldierRankID": 13
   }
  ],

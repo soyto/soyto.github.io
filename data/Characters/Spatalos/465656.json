@@ -2,6 +2,14 @@
  "characterID": 465656,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 80,
+ "rankingPositionChange": 0,
+ "gloryPoint": 83584,
+ "gloryPointChange": 313,
+ "soldierRankID": 14,
+ "characterName": "Mizukii",
+ "guildName": "Evul Smurfies",
+ "guildID": 10773,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 80,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 83584,
-   "gloryPointChange": -313,
+   "gloryPointChange": 313,
    "soldierRankID": 14
   }
  ],

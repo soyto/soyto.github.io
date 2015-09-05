@@ -2,6 +2,14 @@
  "characterID": 1206406,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 74,
+ "rankingPositionChange": 0,
+ "gloryPoint": 85838,
+ "gloryPointChange": 33,
+ "soldierRankID": 14,
+ "characterName": "Albia",
+ "guildName": "Syntagma",
+ "guildID": 10094,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 74,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 85838,
-   "gloryPointChange": -33,
+   "gloryPointChange": 33,
    "soldierRankID": 14
   }
  ],

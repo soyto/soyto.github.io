@@ -2,6 +2,14 @@
  "characterID": 1435262,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 349,
+ "rankingPositionChange": 6,
+ "gloryPoint": 25960,
+ "gloryPointChange": 395,
+ "soldierRankID": 12,
+ "characterName": "Bowstar",
+ "guildName": "Starlight Rises",
+ "guildID": 40497,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 349,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 6,
    "gloryPoint": 25960,
-   "gloryPointChange": -395,
+   "gloryPointChange": 395,
    "soldierRankID": 12
   }
  ],

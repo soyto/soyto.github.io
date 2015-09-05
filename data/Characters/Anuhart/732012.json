@@ -2,6 +2,14 @@
  "characterID": 732012,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 13,
+ "rankingPositionChange": 0,
+ "gloryPoint": 327491,
+ "gloryPointChange": 617,
+ "soldierRankID": 15,
+ "characterName": "Isilduri",
+ "guildName": "Horror Story",
+ "guildID": 12510,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 13,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 327491,
-   "gloryPointChange": -617,
+   "gloryPointChange": 617,
    "soldierRankID": 15
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 541591,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 76,
+ "rankingPositionChange": 1,
+ "gloryPoint": 84947,
+ "gloryPointChange": 762,
+ "soldierRankID": 14,
+ "characterName": "Attack",
+ "guildName": "Lucky Seven",
+ "guildID": 25484,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 76,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 84947,
-   "gloryPointChange": -762,
+   "gloryPointChange": 762,
    "soldierRankID": 14
   }
  ],

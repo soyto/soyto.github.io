@@ -2,6 +2,12 @@
  "characterID": 50593,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 859,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2225,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Roniness",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -246,9 +252,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 859,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -5,
    "gloryPoint": 2225,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

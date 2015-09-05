@@ -2,6 +2,14 @@
  "characterID": 241881,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 85,
+ "rankingPositionChange": 0,
+ "gloryPoint": 20163,
+ "gloryPointChange": 76,
+ "soldierRankID": 14,
+ "characterName": "Lacerise",
+ "guildName": "Mea Culpa",
+ "guildID": 3217,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 85,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 20163,
-   "gloryPointChange": -76,
+   "gloryPointChange": 76,
    "soldierRankID": 14
   }
  ],

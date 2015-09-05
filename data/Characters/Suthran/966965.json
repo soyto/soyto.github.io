@@ -2,6 +2,14 @@
  "characterID": 966965,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 123,
+ "rankingPositionChange": 0,
+ "gloryPoint": 89483,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Maxouche",
+ "guildName": " BiM BiM ",
+ "guildID": 12067,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -166,9 +174,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 123,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 89483,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

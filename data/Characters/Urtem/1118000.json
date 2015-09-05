@@ -2,6 +2,12 @@
  "characterID": 1118000,
  "characterClassID": 7,
  "raceID": 0,
+ "position": 198,
+ "rankingPositionChange": 6,
+ "gloryPoint": 75206,
+ "gloryPointChange": 803,
+ "soldierRankID": 13,
+ "characterName": "Lyciana",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -246,9 +252,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 198,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 6,
    "gloryPoint": 75206,
-   "gloryPointChange": -803,
+   "gloryPointChange": 803,
    "soldierRankID": 13
   }
  ],

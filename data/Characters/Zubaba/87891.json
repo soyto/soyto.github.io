@@ -2,6 +2,14 @@
  "characterID": 87891,
  "characterClassID": 14,
  "raceID": 0,
+ "position": 36,
+ "rankingPositionChange": 0,
+ "gloryPoint": 186513,
+ "gloryPointChange": 467,
+ "soldierRankID": 14,
+ "characterName": "Freeshooter",
+ "guildName": "Legion X Equestris",
+ "guildID": 5199,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 36,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 186513,
-   "gloryPointChange": -467,
+   "gloryPointChange": 467,
    "soldierRankID": 14
   }
  ],

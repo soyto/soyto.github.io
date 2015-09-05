@@ -2,6 +2,12 @@
  "characterID": 1391927,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 373,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23520,
+ "gloryPointChange": 72,
+ "soldierRankID": 12,
+ "characterName": "Daxneo",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -258,14 +264,6 @@
    "gloryPoint": 23520,
    "gloryPointChange": 72,
    "soldierRankID": 12
-  },
-  {
-   "date": "2015-09-03T22:00:00.000Z",
-   "position": 374,
-   "rankingPositionChange": null,
-   "gloryPoint": 23592,
-   "gloryPointChange": -72,
-   "soldierRankID": 12
   }
  ],
  "names": [
@@ -282,11 +280,6 @@
   },
   {
    "date": "2015-09-02T22:00:00.000Z"
-  },
-  {
-   "date": "2015-09-03T22:00:00.000Z",
-   "guildName": "Infernal Claws",
-   "guildID": 44133
   }
  ]
 }

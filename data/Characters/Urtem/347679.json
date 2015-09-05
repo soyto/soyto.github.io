@@ -2,6 +2,14 @@
  "characterID": 347679,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 560,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15703,
+ "gloryPointChange": 124,
+ "soldierRankID": 11,
+ "characterName": "Kanito",
+ "guildName": "Eskadrille",
+ "guildID": 5797,
  "status": [
   {
    "date": "2015-08-01T22:00:00.000Z",
@@ -246,9 +254,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 560,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 15703,
-   "gloryPointChange": -124,
+   "gloryPointChange": 124,
    "soldierRankID": 11
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 847880,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 400,
+ "rankingPositionChange": 10,
+ "gloryPoint": 4472,
+ "gloryPointChange": 172,
+ "soldierRankID": 12,
+ "characterName": "Teufeldessturms",
+ "guildName": "TodesFee",
+ "guildID": 3532,
  "status": [
   {
    "date": "2015-08-18T22:00:00.000Z",
@@ -118,9 +126,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 400,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 4472,
-   "gloryPointChange": -172,
+   "gloryPointChange": 172,
    "soldierRankID": 12
   }
  ],

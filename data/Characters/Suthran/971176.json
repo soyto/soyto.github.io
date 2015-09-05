@@ -2,6 +2,14 @@
  "characterID": 971176,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 400,
+ "rankingPositionChange": 0,
+ "gloryPoint": 21374,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Brenix",
+ "guildName": "Zombies VS Asmo",
+ "guildID": 26670,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -258,14 +266,6 @@
    "gloryPoint": 21374,
    "gloryPointChange": -28,
    "soldierRankID": 12
-  },
-  {
-   "date": "2015-09-03T22:00:00.000Z",
-   "position": 400,
-   "rankingPositionChange": null,
-   "gloryPoint": 21346,
-   "gloryPointChange": 28,
-   "soldierRankID": 12
   }
  ],
  "names": [
@@ -282,9 +282,6 @@
    "date": "2015-09-02T22:00:00.000Z",
    "guildName": "Zombies VS Asmo",
    "guildID": 26670
-  },
-  {
-   "date": "2015-09-03T22:00:00.000Z"
   }
  ]
 }

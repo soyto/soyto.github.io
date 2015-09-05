@@ -2,6 +2,12 @@
  "characterID": 729446,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 719,
+ "rankingPositionChange": 10,
+ "gloryPoint": 9199,
+ "gloryPointChange": 314,
+ "soldierRankID": 10,
+ "characterName": "Eliii",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 719,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 9199,
-   "gloryPointChange": -314,
+   "gloryPointChange": 314,
    "soldierRankID": 10
   }
  ],

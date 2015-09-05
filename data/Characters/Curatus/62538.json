@@ -2,6 +2,14 @@
  "characterID": 62538,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 425,
+ "rankingPositionChange": 9,
+ "gloryPoint": 15250,
+ "gloryPointChange": 355,
+ "soldierRankID": 12,
+ "characterName": "Osyrex",
+ "guildName": "  TOP  ",
+ "guildID": 2521,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 425,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 9,
    "gloryPoint": 15250,
-   "gloryPointChange": -355,
+   "gloryPointChange": 355,
    "soldierRankID": 12
   }
  ],

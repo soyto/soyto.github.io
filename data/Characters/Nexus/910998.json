@@ -2,6 +2,14 @@
  "characterID": 910998,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 985,
+ "rankingPositionChange": 3,
+ "gloryPoint": 7700,
+ "gloryPointChange": 99,
+ "soldierRankID": 10,
+ "characterName": "Juker",
+ "guildName": "SmaIIGods",
+ "guildID": 2094,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -22,9 +30,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 985,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 3,
    "gloryPoint": 7700,
-   "gloryPointChange": -99,
+   "gloryPointChange": 99,
    "soldierRankID": 10
   }
  ],

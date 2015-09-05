@@ -2,6 +2,12 @@
  "characterID": 427836,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 300,
+ "rankingPositionChange": 4,
+ "gloryPoint": 56601,
+ "gloryPointChange": 342,
+ "soldierRankID": 13,
+ "characterName": "Neyriah",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +260,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 300,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 4,
    "gloryPoint": 56601,
-   "gloryPointChange": -342,
+   "gloryPointChange": 342,
    "soldierRankID": 13
   }
  ],

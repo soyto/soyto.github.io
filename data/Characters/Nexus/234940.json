@@ -2,6 +2,12 @@
  "characterID": 234940,
  "characterClassID": 7,
  "raceID": 0,
+ "position": 172,
+ "rankingPositionChange": -1,
+ "gloryPoint": 63509,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Mishel",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 172,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 63509,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

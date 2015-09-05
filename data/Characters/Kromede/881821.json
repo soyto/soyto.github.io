@@ -2,6 +2,14 @@
  "characterID": 881821,
  "characterClassID": 2,
  "raceID": 0,
+ "position": 210,
+ "rankingPositionChange": 0,
+ "gloryPoint": 61045,
+ "gloryPointChange": -1,
+ "soldierRankID": 13,
+ "characterName": "Kuroshiru",
+ "guildName": "Wiener Blut",
+ "guildID": 20502,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 210,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 61045,
-   "gloryPointChange": 1,
+   "gloryPointChange": -1,
    "soldierRankID": 13
   }
  ],

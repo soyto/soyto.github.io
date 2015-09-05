@@ -2,6 +2,14 @@
  "characterID": 76998,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 42,
+ "rankingPositionChange": 0,
+ "gloryPoint": 118332,
+ "gloryPointChange": 847,
+ "soldierRankID": 14,
+ "characterName": "Bloodeye",
+ "guildName": "Praehistorischer Lachsack",
+ "guildID": 13864,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 42,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 118332,
-   "gloryPointChange": -847,
+   "gloryPointChange": 847,
    "soldierRankID": 14
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 46464,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 41,
+ "rankingPositionChange": 1,
+ "gloryPoint": 128917,
+ "gloryPointChange": 549,
+ "soldierRankID": 14,
+ "characterName": "Ellekiel",
+ "guildName": "Infernal Requiem",
+ "guildID": 1034,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 41,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 128917,
-   "gloryPointChange": -549,
+   "gloryPointChange": 549,
    "soldierRankID": 14
   }
  ],

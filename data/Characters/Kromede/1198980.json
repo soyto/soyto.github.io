@@ -2,6 +2,14 @@
  "characterID": 1198980,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 312,
+ "rankingPositionChange": 5,
+ "gloryPoint": 22545,
+ "gloryPointChange": 354,
+ "soldierRankID": 12,
+ "characterName": "Elophya",
+ "guildName": "Evermore Darkly",
+ "guildID": 35214,
  "status": [
   {
    "date": "2015-08-22T22:00:00.000Z",
@@ -86,9 +94,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 312,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 5,
    "gloryPoint": 22545,
-   "gloryPointChange": -354,
+   "gloryPointChange": 354,
    "soldierRankID": 12
   }
  ],

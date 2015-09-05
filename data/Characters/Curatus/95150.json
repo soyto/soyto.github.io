@@ -2,6 +2,12 @@
  "characterID": 95150,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 121,
+ "rankingPositionChange": -1,
+ "gloryPoint": 68916,
+ "gloryPointChange": 84,
+ "soldierRankID": 13,
+ "characterName": "Horrorvacui",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 121,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 68916,
-   "gloryPointChange": -84,
+   "gloryPointChange": 84,
    "soldierRankID": 13
   }
  ],

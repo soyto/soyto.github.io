@@ -2,6 +2,12 @@
  "characterID": 142855,
  "characterClassID": 7,
  "raceID": 0,
+ "position": 747,
+ "rankingPositionChange": 0,
+ "gloryPoint": 18032,
+ "gloryPointChange": 43,
+ "soldierRankID": 10,
+ "characterName": "Neatris",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 747,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 18032,
-   "gloryPointChange": -43,
+   "gloryPointChange": 43,
    "soldierRankID": 10
   }
  ],

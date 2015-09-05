@@ -2,6 +2,14 @@
  "characterID": 231235,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 133,
+ "rankingPositionChange": 1,
+ "gloryPoint": 68773,
+ "gloryPointChange": 543,
+ "soldierRankID": 13,
+ "characterName": "Madmaxx",
+ "guildName": "KIZIL ORDU",
+ "guildID": 1010,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 133,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 68773,
-   "gloryPointChange": -543,
+   "gloryPointChange": 543,
    "soldierRankID": 13
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 829801,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 411,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20315,
+ "gloryPointChange": 372,
+ "soldierRankID": 12,
+ "characterName": "Chadowcat",
+ "guildName": "C est pas faux",
+ "guildID": 27445,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 411,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 20315,
-   "gloryPointChange": -372,
+   "gloryPointChange": 372,
    "soldierRankID": 12
   }
  ],

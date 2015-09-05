@@ -2,6 +2,14 @@
  "characterID": 301088,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 612,
+ "rankingPositionChange": 0,
+ "gloryPoint": 1357,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Lichtel",
+ "guildName": "Wolfpack",
+ "guildID": 1009,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -246,9 +254,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 612,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 1357,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

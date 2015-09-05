@@ -2,6 +2,12 @@
  "characterID": 52149,
  "characterClassID": 2,
  "raceID": 0,
+ "position": 552,
+ "rankingPositionChange": 1,
+ "gloryPoint": 14787,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Conquistador",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +260,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 552,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 14787,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

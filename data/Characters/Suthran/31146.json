@@ -2,6 +2,14 @@
  "characterID": 31146,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 251,
+ "rankingPositionChange": -2,
+ "gloryPoint": 42976,
+ "gloryPointChange": 61,
+ "soldierRankID": 13,
+ "characterName": "Otaku",
+ "guildName": "Fallen",
+ "guildID": 2826,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 251,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -2,
    "gloryPoint": 42976,
-   "gloryPointChange": -61,
+   "gloryPointChange": 61,
    "soldierRankID": 13
   }
  ],

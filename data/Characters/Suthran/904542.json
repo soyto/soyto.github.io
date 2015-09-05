@@ -2,6 +2,14 @@
  "characterID": 904542,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 3,
+ "rankingPositionChange": 0,
+ "gloryPoint": 329324,
+ "gloryPointChange": 926,
+ "soldierRankID": 17,
+ "characterName": "Darkera",
+ "guildName": "The Last Asmodians",
+ "guildID": 19376,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 3,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 329324,
-   "gloryPointChange": -926,
+   "gloryPointChange": 926,
    "soldierRankID": 17
   }
  ],

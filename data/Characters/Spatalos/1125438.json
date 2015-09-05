@@ -2,6 +2,12 @@
  "characterID": 1125438,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 750,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3846,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Arashiiyama",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -238,9 +244,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 750,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -3,
    "gloryPoint": 3846,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

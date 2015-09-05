@@ -2,6 +2,12 @@
  "characterID": 1364580,
  "characterClassID": 14,
  "raceID": 0,
+ "position": 71,
+ "rankingPositionChange": 0,
+ "gloryPoint": 177860,
+ "gloryPointChange": 657,
+ "soldierRankID": 14,
+ "characterName": "Athanosa",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 71,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 177860,
-   "gloryPointChange": -657,
+   "gloryPointChange": 657,
    "soldierRankID": 14
   }
  ],

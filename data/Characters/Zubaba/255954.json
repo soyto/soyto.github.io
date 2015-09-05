@@ -2,6 +2,14 @@
  "characterID": 255954,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 206,
+ "rankingPositionChange": 0,
+ "gloryPoint": 42573,
+ "gloryPointChange": 379,
+ "soldierRankID": 13,
+ "characterName": "Tuttuffurutti",
+ "guildName": "Halucination",
+ "guildID": 5576,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 206,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 42573,
-   "gloryPointChange": -379,
+   "gloryPointChange": 379,
    "soldierRankID": 13
   }
  ],

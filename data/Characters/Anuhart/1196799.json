@@ -2,6 +2,14 @@
  "characterID": 1196799,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 925,
+ "rankingPositionChange": 5,
+ "gloryPoint": 1878,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Shyway",
+ "guildName": "Exiled Riders",
+ "guildID": 9685,
  "status": [
   {
    "date": "2015-08-09T22:00:00.000Z",
@@ -190,9 +198,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 925,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 5,
    "gloryPoint": 1878,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 509913,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 410,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3876,
+ "gloryPointChange": 25,
+ "soldierRankID": 12,
+ "characterName": "Vergo",
+ "guildName": "Impera",
+ "guildID": 9521,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 410,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 3876,
-   "gloryPointChange": -25,
+   "gloryPointChange": 25,
    "soldierRankID": 12
   }
  ],

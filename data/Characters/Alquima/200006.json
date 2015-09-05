@@ -2,6 +2,14 @@
  "characterID": 200006,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 54,
+ "rankingPositionChange": 0,
+ "gloryPoint": 110554,
+ "gloryPointChange": 421,
+ "soldierRankID": 14,
+ "characterName": "Thindrial",
+ "guildName": "Mythos Of Fregion",
+ "guildID": 14235,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 54,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 110554,
-   "gloryPointChange": -421,
+   "gloryPointChange": 421,
    "soldierRankID": 14
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 491925,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 9,
+ "rankingPositionChange": 0,
+ "gloryPoint": 303203,
+ "gloryPointChange": 633,
+ "soldierRankID": 16,
+ "characterName": "Shyre",
+ "guildName": " Turbo Friends ",
+ "guildID": 5888,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 9,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 303203,
-   "gloryPointChange": -633,
+   "gloryPointChange": 633,
    "soldierRankID": 16
   }
  ],

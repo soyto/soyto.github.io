@@ -2,6 +2,14 @@
  "characterID": 849284,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 30,
+ "rankingPositionChange": 1,
+ "gloryPoint": 242309,
+ "gloryPointChange": 254,
+ "soldierRankID": 15,
+ "characterName": "Monashka",
+ "guildName": "First Let Me Take A Selfie",
+ "guildID": 9691,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 30,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 242309,
-   "gloryPointChange": -254,
+   "gloryPointChange": 254,
    "soldierRankID": 15
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 125845,
  "characterClassID": 2,
  "raceID": 0,
+ "position": 82,
+ "rankingPositionChange": 0,
+ "gloryPoint": 123249,
+ "gloryPointChange": -107,
+ "soldierRankID": 14,
+ "characterName": "Tan",
+ "guildName": "OUTLAWS",
+ "guildID": 4233,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 82,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 123249,
-   "gloryPointChange": 107,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

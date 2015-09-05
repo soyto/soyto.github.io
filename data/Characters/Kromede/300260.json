@@ -2,6 +2,14 @@
  "characterID": 300260,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 148,
+ "rankingPositionChange": 3,
+ "gloryPoint": 59815,
+ "gloryPointChange": 242,
+ "soldierRankID": 13,
+ "characterName": "Samedi",
+ "guildName": "T R I A D E N",
+ "guildID": 13167,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 148,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 3,
    "gloryPoint": 59815,
-   "gloryPointChange": -242,
+   "gloryPointChange": 242,
    "soldierRankID": 13
   }
  ],

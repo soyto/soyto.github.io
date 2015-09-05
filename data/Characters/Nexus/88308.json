@@ -2,6 +2,14 @@
  "characterID": 88308,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 11,
+ "rankingPositionChange": 0,
+ "gloryPoint": 299343,
+ "gloryPointChange": 1332,
+ "soldierRankID": 15,
+ "characterName": "Dear",
+ "guildName": " SACRED ",
+ "guildID": 2133,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 11,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 299343,
-   "gloryPointChange": -1332,
+   "gloryPointChange": 1332,
    "soldierRankID": 15
   }
  ],

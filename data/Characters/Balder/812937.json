@@ -2,6 +2,12 @@
  "characterID": 812937,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 568,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1602,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Shadowscout",
  "status": [
   {
    "date": "2015-08-12T22:00:00.000Z",
@@ -166,9 +172,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 568,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 1602,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

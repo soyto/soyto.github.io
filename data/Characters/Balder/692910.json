@@ -2,6 +2,14 @@
  "characterID": 692910,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 622,
+ "rankingPositionChange": 20,
+ "gloryPoint": 1356,
+ "gloryPointChange": 43,
+ "soldierRankID": 10,
+ "characterName": "Simso",
+ "guildName": "Wings of Anarchy",
+ "guildID": 24823,
  "status": [
   {
    "date": "2015-08-04T22:00:00.000Z",
@@ -222,9 +230,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 622,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 20,
    "gloryPoint": 1356,
-   "gloryPointChange": -43,
+   "gloryPointChange": 43,
    "soldierRankID": 10
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 501666,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 100,
+ "rankingPositionChange": 0,
+ "gloryPoint": 133714,
+ "gloryPointChange": -107,
+ "soldierRankID": 14,
+ "characterName": "Lenas",
+ "guildName": "Templier de Miragent",
+ "guildID": 18359,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 100,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 133714,
-   "gloryPointChange": 107,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

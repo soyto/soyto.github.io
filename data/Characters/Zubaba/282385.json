@@ -2,6 +2,14 @@
  "characterID": 282385,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 468,
+ "rankingPositionChange": 5,
+ "gloryPoint": 10323,
+ "gloryPointChange": 310,
+ "soldierRankID": 12,
+ "characterName": "Rheav",
+ "guildName": "KIZIL ORDU",
+ "guildID": 1010,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 468,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 5,
    "gloryPoint": 10323,
-   "gloryPointChange": -310,
+   "gloryPointChange": 310,
    "soldierRankID": 12
   }
  ],

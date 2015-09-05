@@ -2,6 +2,14 @@
  "characterID": 855060,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 72,
+ "rankingPositionChange": 0,
+ "gloryPoint": 78460,
+ "gloryPointChange": 318,
+ "soldierRankID": 14,
+ "characterName": "Nightgear",
+ "guildName": "Wings of Anarchy",
+ "guildID": 24823,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 72,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 78460,
-   "gloryPointChange": -318,
+   "gloryPointChange": 318,
    "soldierRankID": 14
   }
  ],

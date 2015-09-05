@@ -2,6 +2,14 @@
  "characterID": 462399,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 300,
+ "rankingPositionChange": 1,
+ "gloryPoint": 29105,
+ "gloryPointChange": 350,
+ "soldierRankID": 13,
+ "characterName": "Befk",
+ "guildName": "Sterben",
+ "guildID": 8827,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 300,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 29105,
-   "gloryPointChange": -350,
+   "gloryPointChange": 350,
    "soldierRankID": 13
   }
  ],

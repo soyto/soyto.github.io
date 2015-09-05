@@ -2,6 +2,14 @@
  "characterID": 16473,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 164,
+ "rankingPositionChange": 2,
+ "gloryPoint": 54036,
+ "gloryPointChange": 715,
+ "soldierRankID": 13,
+ "characterName": "Slade",
+ "guildName": "KIZIL ORDU",
+ "guildID": 1010,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -102,9 +110,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 164,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 2,
    "gloryPoint": 54036,
-   "gloryPointChange": -715,
+   "gloryPointChange": 715,
    "soldierRankID": 13
   }
  ],

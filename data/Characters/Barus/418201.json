@@ -2,6 +2,12 @@
  "characterID": 418201,
  "characterClassID": 16,
  "raceID": 0,
+ "position": 266,
+ "rankingPositionChange": 0,
+ "gloryPoint": 54455,
+ "gloryPointChange": 74,
+ "soldierRankID": 13,
+ "characterName": "Rafiko",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 266,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 54455,
-   "gloryPointChange": -74,
+   "gloryPointChange": 74,
    "soldierRankID": 13
   }
  ],

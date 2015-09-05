@@ -2,6 +2,14 @@
  "characterID": 216919,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 601,
+ "rankingPositionChange": 4,
+ "gloryPoint": 24977,
+ "gloryPointChange": 401,
+ "soldierRankID": 11,
+ "characterName": "Medic",
+ "guildName": "First Blood",
+ "guildID": 41269,
  "status": [
   {
    "date": "2015-08-01T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 601,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 4,
    "gloryPoint": 24977,
-   "gloryPointChange": -401,
+   "gloryPointChange": 401,
    "soldierRankID": 11
   }
  ],

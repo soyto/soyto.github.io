@@ -2,6 +2,12 @@
  "characterID": 865100,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 951,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3126,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Llynch",
  "status": [
   {
    "date": "2015-08-10T22:00:00.000Z",
@@ -182,9 +188,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 951,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 3126,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 678386,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 432,
+ "rankingPositionChange": 1,
+ "gloryPoint": 18649,
+ "gloryPointChange": 88,
+ "soldierRankID": 12,
+ "characterName": "Horrizon",
+ "guildName": "Mythos Of Fregion",
+ "guildID": 14235,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 432,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 18649,
-   "gloryPointChange": -88,
+   "gloryPointChange": 88,
    "soldierRankID": 12
   }
  ],

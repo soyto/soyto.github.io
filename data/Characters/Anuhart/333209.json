@@ -2,6 +2,14 @@
  "characterID": 333209,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 44,
+ "rankingPositionChange": 1,
+ "gloryPoint": 177310,
+ "gloryPointChange": 833,
+ "soldierRankID": 14,
+ "characterName": "Kosim",
+ "guildName": "First Let Me Take A Selfie",
+ "guildID": 9691,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 44,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 177310,
-   "gloryPointChange": -833,
+   "gloryPointChange": 833,
    "soldierRankID": 14
   }
  ],

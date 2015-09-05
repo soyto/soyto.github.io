@@ -2,6 +2,12 @@
  "characterID": 1234433,
  "characterClassID": 13,
  "raceID": 1,
+ "position": 557,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13333,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Puuuush",
  "status": [
   {
    "date": "2015-08-17T22:00:00.000Z",
@@ -118,9 +124,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 557,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -2,
    "gloryPoint": 13333,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

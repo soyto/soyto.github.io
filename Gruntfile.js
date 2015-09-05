@@ -73,6 +73,7 @@ module.exports = function(grunt) {
 
   //Compiles application
   grunt.registerTask('compile', function(){
+    grunt.task.run('generate-blog-files');
     grunt.task.run('jshint');
     grunt.task.run('concat:app');
     grunt.task.run('uglify:app');

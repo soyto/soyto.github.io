@@ -2,6 +2,14 @@
  "characterID": 46193,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 922,
+ "rankingPositionChange": 16,
+ "gloryPoint": 1399,
+ "gloryPointChange": 69,
+ "soldierRankID": 10,
+ "characterName": "Tigris",
+ "guildName": "T U G R A",
+ "guildID": 5568,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -22,9 +30,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 922,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 16,
    "gloryPoint": 1399,
-   "gloryPointChange": -69,
+   "gloryPointChange": 69,
    "soldierRankID": 10
   }
  ],

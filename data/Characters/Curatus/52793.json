@@ -2,6 +2,14 @@
  "characterID": 52793,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 764,
+ "rankingPositionChange": 10,
+ "gloryPoint": 5754,
+ "gloryPointChange": 116,
+ "soldierRankID": 10,
+ "characterName": "Kambe",
+ "guildName": "Stalkers",
+ "guildID": 5288,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 764,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 5754,
-   "gloryPointChange": -116,
+   "gloryPointChange": 116,
    "soldierRankID": 10
   }
  ],

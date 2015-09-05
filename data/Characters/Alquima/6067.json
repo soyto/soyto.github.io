@@ -2,6 +2,12 @@
  "characterID": 6067,
  "characterClassID": 5,
  "raceID": 0,
+ "position": 135,
+ "rankingPositionChange": -1,
+ "gloryPoint": 88891,
+ "gloryPointChange": 181,
+ "soldierRankID": 13,
+ "characterName": "Akairo",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 135,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 88891,
-   "gloryPointChange": -181,
+   "gloryPointChange": 181,
    "soldierRankID": 13
   }
  ],

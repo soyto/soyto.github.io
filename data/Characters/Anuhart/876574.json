@@ -2,6 +2,12 @@
  "characterID": 876574,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 185,
+ "rankingPositionChange": 3,
+ "gloryPoint": 55984,
+ "gloryPointChange": 151,
+ "soldierRankID": 13,
+ "characterName": "Binaree",
  "status": [
   {
    "date": "2015-08-02T22:00:00.000Z",
@@ -246,9 +252,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 185,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 3,
    "gloryPoint": 55984,
-   "gloryPointChange": -151,
+   "gloryPointChange": 151,
    "soldierRankID": 13
   }
  ],

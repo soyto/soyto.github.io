@@ -2,6 +2,12 @@
  "characterID": 885756,
  "characterClassID": 14,
  "raceID": 0,
+ "position": 255,
+ "rankingPositionChange": -2,
+ "gloryPoint": 40938,
+ "gloryPointChange": 233,
+ "soldierRankID": 13,
+ "characterName": "Mesmerize",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 255,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -2,
    "gloryPoint": 40938,
-   "gloryPointChange": -233,
+   "gloryPointChange": 233,
    "soldierRankID": 13
   }
  ],

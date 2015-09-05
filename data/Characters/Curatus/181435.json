@@ -2,6 +2,14 @@
  "characterID": 181435,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 215,
+ "rankingPositionChange": 1,
+ "gloryPoint": 36514,
+ "gloryPointChange": 299,
+ "soldierRankID": 13,
+ "characterName": "Darkerebus",
+ "guildName": "Dei Ex Mortis",
+ "guildID": 3737,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 215,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 36514,
-   "gloryPointChange": -299,
+   "gloryPointChange": 299,
    "soldierRankID": 13
   }
  ],

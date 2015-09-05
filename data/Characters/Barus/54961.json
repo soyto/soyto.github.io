@@ -2,6 +2,14 @@
  "characterID": 54961,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 15,
+ "rankingPositionChange": 0,
+ "gloryPoint": 278851,
+ "gloryPointChange": 676,
+ "soldierRankID": 15,
+ "characterName": "Eaminna",
+ "guildName": "You Touch My Tralala",
+ "guildID": 1280,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 15,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 278851,
-   "gloryPointChange": -676,
+   "gloryPointChange": 676,
    "soldierRankID": 15
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 300467,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 19,
+ "rankingPositionChange": 0,
+ "gloryPoint": 208731,
+ "gloryPointChange": 331,
+ "soldierRankID": 15,
+ "characterName": "Grigoute",
+ "guildName": "GodBless",
+ "guildID": 41848,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 19,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 208731,
-   "gloryPointChange": -331,
+   "gloryPointChange": 331,
    "soldierRankID": 15
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 392239,
  "characterClassID": 8,
  "raceID": 0,
+ "position": 567,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5771,
+ "gloryPointChange": 34,
+ "soldierRankID": 11,
+ "characterName": "Kershyllvanne",
+ "guildName": "Yokozuna",
+ "guildID": 17028,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -222,9 +230,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 567,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 5771,
-   "gloryPointChange": -34,
+   "gloryPointChange": 34,
    "soldierRankID": 11
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 577504,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 130,
+ "rankingPositionChange": 0,
+ "gloryPoint": 11187,
+ "gloryPointChange": 255,
+ "soldierRankID": 13,
+ "characterName": "Hyzer",
+ "guildName": "The Valley Of Death",
+ "guildID": 15425,
  "status": [
   {
    "date": "2015-08-01T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 130,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 11187,
-   "gloryPointChange": -255,
+   "gloryPointChange": 255,
    "soldierRankID": 13
   }
  ],

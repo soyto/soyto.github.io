@@ -2,6 +2,12 @@
  "characterID": 84905,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 575,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6660,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Lilja",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 575,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 6660,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

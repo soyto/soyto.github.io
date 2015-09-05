@@ -2,6 +2,12 @@
  "characterID": 1325841,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 211,
+ "rankingPositionChange": 2,
+ "gloryPoint": 50804,
+ "gloryPointChange": 195,
+ "soldierRankID": 13,
+ "characterName": "Shanashi",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +260,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 211,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 2,
    "gloryPoint": 50804,
-   "gloryPointChange": -195,
+   "gloryPointChange": 195,
    "soldierRankID": 13
   }
  ],

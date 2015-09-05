@@ -2,6 +2,14 @@
  "characterID": 206409,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 165,
+ "rankingPositionChange": 0,
+ "gloryPoint": 35043,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Bauerntrampel",
+ "guildName": "Last Legend Standing",
+ "guildID": 2203,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 165,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 35043,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

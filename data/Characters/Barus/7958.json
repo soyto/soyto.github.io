@@ -2,6 +2,12 @@
  "characterID": 7958,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 12,
+ "rankingPositionChange": 0,
+ "gloryPoint": 288002,
+ "gloryPointChange": 618,
+ "soldierRankID": 15,
+ "characterName": "Prochu",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 12,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 288002,
-   "gloryPointChange": -618,
+   "gloryPointChange": 618,
    "soldierRankID": 15
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 1575909,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 721,
+ "rankingPositionChange": 5,
+ "gloryPoint": 24324,
+ "gloryPointChange": 101,
+ "soldierRankID": 10,
+ "characterName": "Laurruss",
+ "guildName": "Stonehange",
+ "guildID": 44220,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 721,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 5,
    "gloryPoint": 24324,
-   "gloryPointChange": -101,
+   "gloryPointChange": 101,
    "soldierRankID": 10
   }
  ],

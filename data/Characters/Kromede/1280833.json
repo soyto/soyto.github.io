@@ -2,6 +2,12 @@
  "characterID": 1280833,
  "characterClassID": 16,
  "raceID": 0,
+ "position": 599,
+ "rankingPositionChange": 10,
+ "gloryPoint": 19337,
+ "gloryPointChange": 399,
+ "soldierRankID": 11,
+ "characterName": "Kirisuna",
  "status": [
   {
    "date": "2015-08-10T22:00:00.000Z",
@@ -182,9 +188,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 599,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 19337,
-   "gloryPointChange": -399,
+   "gloryPointChange": 399,
    "soldierRankID": 11
   }
  ],

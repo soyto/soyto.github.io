@@ -2,6 +2,14 @@
  "characterID": 931867,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 33,
+ "rankingPositionChange": 1,
+ "gloryPoint": 167922,
+ "gloryPointChange": 1014,
+ "soldierRankID": 14,
+ "characterName": "Xig",
+ "guildName": "La Brigade",
+ "guildID": 14426,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 33,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 167922,
-   "gloryPointChange": -1014,
+   "gloryPointChange": 1014,
    "soldierRankID": 14
   }
  ],

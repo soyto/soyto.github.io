@@ -2,6 +2,12 @@
  "characterID": 420187,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 330,
+ "rankingPositionChange": 0,
+ "gloryPoint": 53073,
+ "gloryPointChange": 33,
+ "soldierRankID": 12,
+ "characterName": "Tyrath",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 330,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 53073,
-   "gloryPointChange": -33,
+   "gloryPointChange": 33,
    "soldierRankID": 12
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 845952,
  "characterClassID": 4,
  "raceID": 0,
+ "position": 732,
+ "rankingPositionChange": 30,
+ "gloryPoint": 9077,
+ "gloryPointChange": 608,
+ "soldierRankID": 10,
+ "characterName": "Neurotoxin",
+ "guildName": "Heavens",
+ "guildID": 15890,
  "status": [
   {
    "date": "2015-08-17T22:00:00.000Z",
@@ -126,9 +134,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 732,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 30,
    "gloryPoint": 9077,
-   "gloryPointChange": -608,
+   "gloryPointChange": 608,
    "soldierRankID": 10
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 62918,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 459,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2513,
+ "gloryPointChange": -25,
+ "soldierRankID": 12,
+ "characterName": "Panzerfaust",
+ "guildName": "Semper Paratus",
+ "guildID": 1875,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 459,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 2513,
-   "gloryPointChange": 25,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

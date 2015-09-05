@@ -2,6 +2,14 @@
  "characterID": 309003,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 30,
+ "rankingPositionChange": 0,
+ "gloryPoint": 169420,
+ "gloryPointChange": 296,
+ "soldierRankID": 15,
+ "characterName": "Laystee",
+ "guildName": "Coeur noir",
+ "guildID": 9144,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 30,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 169420,
-   "gloryPointChange": -296,
+   "gloryPointChange": 296,
    "soldierRankID": 15
   }
  ],

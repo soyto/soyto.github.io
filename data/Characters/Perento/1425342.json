@@ -2,6 +2,12 @@
  "characterID": 1425342,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 370,
+ "rankingPositionChange": 2,
+ "gloryPoint": 17152,
+ "gloryPointChange": 448,
+ "soldierRankID": 12,
+ "characterName": "Ihonna",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 370,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 2,
    "gloryPoint": 17152,
-   "gloryPointChange": -448,
+   "gloryPointChange": 448,
    "soldierRankID": 12
   }
  ],

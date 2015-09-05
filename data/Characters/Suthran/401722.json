@@ -2,6 +2,14 @@
  "characterID": 401722,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 41,
+ "rankingPositionChange": 1,
+ "gloryPoint": 152037,
+ "gloryPointChange": 705,
+ "soldierRankID": 14,
+ "characterName": "Torche",
+ "guildName": "Disorder",
+ "guildID": 12292,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 41,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 152037,
-   "gloryPointChange": -705,
+   "gloryPointChange": 705,
    "soldierRankID": 14
   }
  ],

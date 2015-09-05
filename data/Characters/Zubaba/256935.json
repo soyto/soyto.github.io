@@ -2,6 +2,14 @@
  "characterID": 256935,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 202,
+ "rankingPositionChange": 1,
+ "gloryPoint": 43293,
+ "gloryPointChange": 361,
+ "soldierRankID": 13,
+ "characterName": "Galladriell",
+ "guildName": "ANCHOR",
+ "guildID": 6633,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 202,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 43293,
-   "gloryPointChange": -361,
+   "gloryPointChange": 361,
    "soldierRankID": 13
   }
  ],

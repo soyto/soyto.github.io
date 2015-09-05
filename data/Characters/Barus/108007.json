@@ -2,6 +2,14 @@
  "characterID": 108007,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 350,
+ "rankingPositionChange": 0,
+ "gloryPoint": 43392,
+ "gloryPointChange": 232,
+ "soldierRankID": 12,
+ "characterName": "Rail",
+ "guildName": "Turn Down For What",
+ "guildID": 10770,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 350,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 43392,
-   "gloryPointChange": -232,
+   "gloryPointChange": 232,
    "soldierRankID": 12
   }
  ],

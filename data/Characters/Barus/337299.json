@@ -2,6 +2,14 @@
  "characterID": 337299,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 403,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35669,
+ "gloryPointChange": 22,
+ "soldierRankID": 12,
+ "characterName": "Final",
+ "guildName": "Not For You",
+ "guildID": 5146,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 403,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 35669,
-   "gloryPointChange": -22,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

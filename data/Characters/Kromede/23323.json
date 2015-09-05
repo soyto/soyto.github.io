@@ -2,6 +2,14 @@
  "characterID": 23323,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 554,
+ "rankingPositionChange": 2,
+ "gloryPoint": 8358,
+ "gloryPointChange": 86,
+ "soldierRankID": 11,
+ "characterName": "Zelkin",
+ "guildName": "Wiege der Götter",
+ "guildID": 1208,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 554,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 2,
    "gloryPoint": 8358,
-   "gloryPointChange": -86,
+   "gloryPointChange": 86,
    "soldierRankID": 11
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 31025,
  "characterClassID": 8,
  "raceID": 0,
+ "position": 5,
+ "rankingPositionChange": 0,
+ "gloryPoint": 342489,
+ "gloryPointChange": 499,
+ "soldierRankID": 16,
+ "characterName": "Chefhra",
+ "guildName": "No Authority",
+ "guildID": 31208,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 5,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 342489,
-   "gloryPointChange": -499,
+   "gloryPointChange": 499,
    "soldierRankID": 16
   }
  ],

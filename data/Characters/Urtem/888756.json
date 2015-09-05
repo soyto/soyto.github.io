@@ -2,6 +2,12 @@
  "characterID": 888756,
  "characterClassID": 5,
  "raceID": 0,
+ "position": 162,
+ "rankingPositionChange": 1,
+ "gloryPoint": 87400,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Solkann",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +260,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 162,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 87400,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 920500,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 168,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34679,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Natira",
+ "guildName": "I Die sieben Siegel I",
+ "guildID": 7010,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 168,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 34679,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 235325,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 24,
+ "rankingPositionChange": 0,
+ "gloryPoint": 243237,
+ "gloryPointChange": 372,
+ "soldierRankID": 15,
+ "characterName": "Vilen",
+ "guildName": "You Mad Man",
+ "guildID": 7008,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 24,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 243237,
-   "gloryPointChange": -372,
+   "gloryPointChange": 372,
    "soldierRankID": 15
   }
  ],

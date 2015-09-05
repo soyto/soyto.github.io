@@ -2,6 +2,14 @@
  "characterID": 1218691,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 20,
+ "rankingPositionChange": 0,
+ "gloryPoint": 275562,
+ "gloryPointChange": 1946,
+ "soldierRankID": 15,
+ "characterName": "Kiwimonster",
+ "guildName": "Night Club",
+ "guildID": 13480,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 20,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 275562,
-   "gloryPointChange": -1946,
+   "gloryPointChange": 1946,
    "soldierRankID": 15
   }
  ],

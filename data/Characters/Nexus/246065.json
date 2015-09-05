@@ -2,6 +2,14 @@
  "characterID": 246065,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 35,
+ "rankingPositionChange": 0,
+ "gloryPoint": 216400,
+ "gloryPointChange": 606,
+ "soldierRankID": 14,
+ "characterName": "Delris",
+ "guildName": "Suicide",
+ "guildID": 5889,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 35,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 216400,
-   "gloryPointChange": -606,
+   "gloryPointChange": 606,
    "soldierRankID": 14
   }
  ],

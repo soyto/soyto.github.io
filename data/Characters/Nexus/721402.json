@@ -2,6 +2,14 @@
  "characterID": 721402,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 150,
+ "rankingPositionChange": 1,
+ "gloryPoint": 99515,
+ "gloryPointChange": 642,
+ "soldierRankID": 13,
+ "characterName": "Kasharel",
+ "guildName": "Divine",
+ "guildID": 3730,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -222,9 +230,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 150,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 99515,
-   "gloryPointChange": -642,
+   "gloryPointChange": 642,
    "soldierRankID": 13
   }
  ],

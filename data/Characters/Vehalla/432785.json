@@ -2,6 +2,12 @@
  "characterID": 432785,
  "characterClassID": 11,
  "raceID": 0,
+ "position": 121,
+ "rankingPositionChange": 0,
+ "gloryPoint": 54719,
+ "gloryPointChange": 151,
+ "soldierRankID": 13,
+ "characterName": "Yslardu",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 121,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 54719,
-   "gloryPointChange": -151,
+   "gloryPointChange": 151,
    "soldierRankID": 13
   }
  ],

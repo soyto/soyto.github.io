@@ -2,6 +2,14 @@
  "characterID": 976215,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 221,
+ "rankingPositionChange": 4,
+ "gloryPoint": 34099,
+ "gloryPointChange": 457,
+ "soldierRankID": 13,
+ "characterName": "Schlachthaus",
+ "guildName": "Smurf Gang",
+ "guildID": 27374,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 221,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 4,
    "gloryPoint": 34099,
-   "gloryPointChange": -457,
+   "gloryPointChange": 457,
    "soldierRankID": 13
   }
  ],

@@ -2,6 +2,12 @@
  "characterID": 1094712,
  "characterClassID": 2,
  "raceID": 0,
+ "position": 70,
+ "rankingPositionChange": 0,
+ "gloryPoint": 164237,
+ "gloryPointChange": 386,
+ "soldierRankID": 14,
+ "characterName": "Jonawi",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 70,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 164237,
-   "gloryPointChange": -386,
+   "gloryPointChange": 386,
    "soldierRankID": 14
   }
  ],

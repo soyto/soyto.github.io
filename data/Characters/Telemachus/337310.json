@@ -2,6 +2,14 @@
  "characterID": 337310,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 71,
+ "rankingPositionChange": 0,
+ "gloryPoint": 71600,
+ "gloryPointChange": -107,
+ "soldierRankID": 14,
+ "characterName": "Nefertyty",
+ "guildName": "Smokers Legion",
+ "guildID": 22288,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 71,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 71600,
-   "gloryPointChange": 107,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

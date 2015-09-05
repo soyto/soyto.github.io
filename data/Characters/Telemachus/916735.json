@@ -2,6 +2,14 @@
  "characterID": 916735,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 25,
+ "rankingPositionChange": 0,
+ "gloryPoint": 146829,
+ "gloryPointChange": 556,
+ "soldierRankID": 15,
+ "characterName": "Taktikal",
+ "guildName": "You Are Not Alone",
+ "guildID": 18803,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 25,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 146829,
-   "gloryPointChange": -556,
+   "gloryPointChange": 556,
    "soldierRankID": 15
   }
  ],

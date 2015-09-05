@@ -2,6 +2,14 @@
  "characterID": 1133790,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 391,
+ "rankingPositionChange": 5,
+ "gloryPoint": 6852,
+ "gloryPointChange": 22,
+ "soldierRankID": 12,
+ "characterName": "Gluskiin",
+ "guildName": "The Legion of Friends",
+ "guildID": 24621,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 391,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 5,
    "gloryPoint": 6852,
-   "gloryPointChange": -22,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

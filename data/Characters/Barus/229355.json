@@ -2,6 +2,14 @@
  "characterID": 229355,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 35,
+ "rankingPositionChange": 0,
+ "gloryPoint": 161299,
+ "gloryPointChange": 772,
+ "soldierRankID": 14,
+ "characterName": "Nitiry",
+ "guildName": "Awake",
+ "guildID": 4102,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 35,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 161299,
-   "gloryPointChange": -772,
+   "gloryPointChange": 772,
    "soldierRankID": 14
   }
  ],

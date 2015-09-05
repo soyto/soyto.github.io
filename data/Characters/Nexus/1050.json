@@ -2,6 +2,14 @@
  "characterID": 1050,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 30,
+ "rankingPositionChange": 0,
+ "gloryPoint": 164750,
+ "gloryPointChange": 516,
+ "soldierRankID": 15,
+ "characterName": "Livo",
+ "guildName": "Fantasy",
+ "guildID": 1006,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 30,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 164750,
-   "gloryPointChange": -516,
+   "gloryPointChange": 516,
    "soldierRankID": 15
   }
  ],

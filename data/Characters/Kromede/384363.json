@@ -2,6 +2,14 @@
  "characterID": 384363,
  "characterClassID": 11,
  "raceID": 0,
+ "position": 179,
+ "rankingPositionChange": 0,
+ "gloryPoint": 76700,
+ "gloryPointChange": 335,
+ "soldierRankID": 13,
+ "characterName": "Baltram",
+ "guildName": "Prophecy",
+ "guildID": 1025,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 179,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 76700,
-   "gloryPointChange": -335,
+   "gloryPointChange": 335,
    "soldierRankID": 13
   }
  ],

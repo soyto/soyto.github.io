@@ -2,6 +2,14 @@
  "characterID": 921616,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 325,
+ "rankingPositionChange": 1,
+ "gloryPoint": 48845,
+ "gloryPointChange": 32,
+ "soldierRankID": 12,
+ "characterName": "Zifu",
+ "guildName": "Randoms",
+ "guildID": 28168,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 325,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 48845,
-   "gloryPointChange": -32,
+   "gloryPointChange": 32,
    "soldierRankID": 12
   }
  ],

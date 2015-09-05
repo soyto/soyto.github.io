@@ -2,6 +2,14 @@
  "characterID": 637108,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 600,
+ "rankingPositionChange": 6,
+ "gloryPoint": 22994,
+ "gloryPointChange": 186,
+ "soldierRankID": 11,
+ "characterName": "Tetsuki",
+ "guildName": "FearLess",
+ "guildID": 1949,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 600,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 6,
    "gloryPoint": 22994,
-   "gloryPointChange": -186,
+   "gloryPointChange": 186,
    "soldierRankID": 11
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 588419,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 25,
+ "rankingPositionChange": 0,
+ "gloryPoint": 243706,
+ "gloryPointChange": 601,
+ "soldierRankID": 15,
+ "characterName": "Xayn",
+ "guildName": "Prets",
+ "guildID": 11223,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 25,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 243706,
-   "gloryPointChange": -601,
+   "gloryPointChange": 601,
    "soldierRankID": 15
   }
  ],

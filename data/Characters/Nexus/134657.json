@@ -2,6 +2,12 @@
  "characterID": 134657,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 565,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23390,
+ "gloryPointChange": 110,
+ "soldierRankID": 11,
+ "characterName": "Killaken",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 565,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 23390,
-   "gloryPointChange": -110,
+   "gloryPointChange": 110,
    "soldierRankID": 11
   }
  ],

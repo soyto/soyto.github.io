@@ -2,6 +2,14 @@
  "characterID": 109253,
  "characterClassID": 5,
  "raceID": 0,
+ "position": 600,
+ "rankingPositionChange": 9,
+ "gloryPoint": 13009,
+ "gloryPointChange": 239,
+ "soldierRankID": 11,
+ "characterName": "Faibell",
+ "guildName": "Paths of Glory",
+ "guildID": 1335,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 600,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 9,
    "gloryPoint": 13009,
-   "gloryPointChange": -239,
+   "gloryPointChange": 239,
    "soldierRankID": 11
   }
  ],

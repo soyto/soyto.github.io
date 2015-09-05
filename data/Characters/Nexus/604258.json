@@ -2,6 +2,14 @@
  "characterID": 604258,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 305,
+ "rankingPositionChange": 1,
+ "gloryPoint": 34629,
+ "gloryPointChange": 92,
+ "soldierRankID": 12,
+ "characterName": "Isodok",
+ "guildName": "Paths of Glory",
+ "guildID": 1335,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -246,9 +254,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 305,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 34629,
-   "gloryPointChange": -92,
+   "gloryPointChange": 92,
    "soldierRankID": 12
   }
  ],

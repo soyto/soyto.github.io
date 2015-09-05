@@ -2,6 +2,14 @@
  "characterID": 680517,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 703,
+ "rankingPositionChange": 1,
+ "gloryPoint": 25070,
+ "gloryPointChange": 69,
+ "soldierRankID": 10,
+ "characterName": "Lebensborn",
+ "guildName": "Arroganz der Macht",
+ "guildID": 27905,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 703,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 25070,
-   "gloryPointChange": -69,
+   "gloryPointChange": 69,
    "soldierRankID": 10
   }
  ],

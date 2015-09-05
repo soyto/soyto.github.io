@@ -2,6 +2,12 @@
  "characterID": 518434,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 712,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9300,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Kalea",
  "status": [
   {
    "date": "2015-08-05T22:00:00.000Z",
@@ -222,9 +228,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 712,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -4,
    "gloryPoint": 9300,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

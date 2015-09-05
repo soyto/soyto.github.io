@@ -2,6 +2,14 @@
  "characterID": 1262081,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 646,
+ "rankingPositionChange": 10,
+ "gloryPoint": 6617,
+ "gloryPointChange": 132,
+ "soldierRankID": 11,
+ "characterName": "Pepe",
+ "guildName": "Gunners Creed",
+ "guildID": 38132,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 646,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 6617,
-   "gloryPointChange": -132,
+   "gloryPointChange": 132,
    "soldierRankID": 11
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 1200343,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 344,
+ "rankingPositionChange": 1,
+ "gloryPoint": 18605,
+ "gloryPointChange": 60,
+ "soldierRankID": 12,
+ "characterName": "Yooshi",
+ "guildName": "Crowd Control",
+ "guildID": 38256,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 344,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 18605,
-   "gloryPointChange": -60,
+   "gloryPointChange": 60,
    "soldierRankID": 12
   }
  ],

@@ -2,6 +2,12 @@
  "characterID": 1016533,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 225,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20406,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Malfelicy",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -118,9 +124,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 225,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 20406,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

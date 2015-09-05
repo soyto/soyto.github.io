@@ -2,6 +2,14 @@
  "characterID": 1000828,
  "characterClassID": 14,
  "raceID": 0,
+ "position": 100,
+ "rankingPositionChange": -1,
+ "gloryPoint": 134898,
+ "gloryPointChange": 746,
+ "soldierRankID": 14,
+ "characterName": "Kyrrie",
+ "guildName": " S P Q R ",
+ "guildID": 25830,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 100,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 134898,
-   "gloryPointChange": -746,
+   "gloryPointChange": 746,
    "soldierRankID": 14
   }
  ],

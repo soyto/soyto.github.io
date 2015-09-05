@@ -2,6 +2,14 @@
  "characterID": 715962,
  "characterClassID": 11,
  "raceID": 0,
+ "position": 16,
+ "rankingPositionChange": 0,
+ "gloryPoint": 295231,
+ "gloryPointChange": 973,
+ "soldierRankID": 15,
+ "characterName": "Elanios",
+ "guildName": "I Knew You Were Trouble",
+ "guildID": 20366,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 16,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 295231,
-   "gloryPointChange": -973,
+   "gloryPointChange": 973,
    "soldierRankID": 15
   }
  ],

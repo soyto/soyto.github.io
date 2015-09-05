@@ -2,6 +2,14 @@
  "characterID": 104420,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 103,
+ "rankingPositionChange": 3,
+ "gloryPoint": 64447,
+ "gloryPointChange": 693,
+ "soldierRankID": 13,
+ "characterName": "Myxi",
+ "guildName": "Praehistorischer Lachsack",
+ "guildID": 13864,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -22,9 +30,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 103,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 3,
    "gloryPoint": 64447,
-   "gloryPointChange": -693,
+   "gloryPointChange": 693,
    "soldierRankID": 13
   }
  ],

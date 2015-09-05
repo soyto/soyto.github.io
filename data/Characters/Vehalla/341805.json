@@ -2,6 +2,14 @@
  "characterID": 341805,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 508,
+ "rankingPositionChange": 0,
+ "gloryPoint": 1812,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Vindonnus",
+ "guildName": "Planlos Inc",
+ "guildID": 8190,
  "status": [
   {
    "date": "2015-08-05T22:00:00.000Z",
@@ -214,9 +222,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 508,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 1812,
-   "gloryPointChange": 14,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

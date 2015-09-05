@@ -2,6 +2,14 @@
  "characterID": 1016720,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 230,
+ "rankingPositionChange": 1,
+ "gloryPoint": 19710,
+ "gloryPointChange": 239,
+ "soldierRankID": 13,
+ "characterName": "Octaviia",
+ "guildName": "ReaL Warriors",
+ "guildID": 24354,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 230,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 19710,
-   "gloryPointChange": -239,
+   "gloryPointChange": 239,
    "soldierRankID": 13
   }
  ],

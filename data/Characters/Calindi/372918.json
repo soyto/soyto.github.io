@@ -2,6 +2,14 @@
  "characterID": 372918,
  "characterClassID": 2,
  "raceID": 1,
+ "position": 107,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15466,
+ "gloryPointChange": 200,
+ "soldierRankID": 13,
+ "characterName": "Kermitte",
+ "guildName": "KamiSama",
+ "guildID": 12388,
  "status": [
   {
    "date": "2015-08-05T22:00:00.000Z",
@@ -222,9 +230,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 107,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 15466,
-   "gloryPointChange": -200,
+   "gloryPointChange": 200,
    "soldierRankID": 13
   }
  ],

@@ -2,6 +2,12 @@
  "characterID": 453454,
  "characterClassID": 1,
  "raceID": 0,
+ "position": 145,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55907,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Qassiopeia",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 145,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 55907,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

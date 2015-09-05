@@ -2,6 +2,14 @@
  "characterID": 52408,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 197,
+ "rankingPositionChange": 0,
+ "gloryPoint": 44544,
+ "gloryPointChange": 60,
+ "soldierRankID": 13,
+ "characterName": "Baambaam",
+ "guildName": "V for Vendetta",
+ "guildID": 1639,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -214,9 +222,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 197,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 44544,
-   "gloryPointChange": -60,
+   "gloryPointChange": 60,
    "soldierRankID": 13
   }
  ],

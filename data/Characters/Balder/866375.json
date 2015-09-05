@@ -2,6 +2,14 @@
  "characterID": 866375,
  "characterClassID": 7,
  "raceID": 0,
+ "position": 25,
+ "rankingPositionChange": 0,
+ "gloryPoint": 216467,
+ "gloryPointChange": 723,
+ "soldierRankID": 15,
+ "characterName": "Nanett",
+ "guildName": "ROCK",
+ "guildID": 11305,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 25,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 216467,
-   "gloryPointChange": -723,
+   "gloryPointChange": 723,
    "soldierRankID": 15
   }
  ],

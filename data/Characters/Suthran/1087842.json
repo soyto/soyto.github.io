@@ -2,6 +2,12 @@
  "characterID": 1087842,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 99,
+ "rankingPositionChange": 1,
+ "gloryPoint": 102402,
+ "gloryPointChange": 293,
+ "soldierRankID": 14,
+ "characterName": "Azoa",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 99,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 102402,
-   "gloryPointChange": -293,
+   "gloryPointChange": 293,
    "soldierRankID": 14
   }
  ],

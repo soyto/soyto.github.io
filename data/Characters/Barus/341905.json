@@ -2,6 +2,14 @@
  "characterID": 341905,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 901,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11952,
+ "gloryPointChange": 93,
+ "soldierRankID": 10,
+ "characterName": "Moldreds",
+ "guildName": "EssA",
+ "guildID": 13157,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 901,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 11952,
-   "gloryPointChange": -93,
+   "gloryPointChange": 93,
    "soldierRankID": 10
   }
  ],

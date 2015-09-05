@@ -2,6 +2,14 @@
  "characterID": 859372,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 947,
+ "rankingPositionChange": 20,
+ "gloryPoint": 8357,
+ "gloryPointChange": 455,
+ "soldierRankID": 10,
+ "characterName": "Dezerok",
+ "guildName": "Academy of DCLXVI",
+ "guildID": 15132,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -22,9 +30,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 947,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 20,
    "gloryPoint": 8357,
-   "gloryPointChange": -455,
+   "gloryPointChange": 455,
    "soldierRankID": 10
   }
  ],

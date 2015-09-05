@@ -2,6 +2,12 @@
  "characterID": 95293,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 905,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3914,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Windrunner",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +260,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 905,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -4,
    "gloryPoint": 3914,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

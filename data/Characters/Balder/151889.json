@@ -2,6 +2,12 @@
  "characterID": 151889,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 541,
+ "rankingPositionChange": 6,
+ "gloryPoint": 1768,
+ "gloryPointChange": 36,
+ "soldierRankID": 11,
+ "characterName": "Bloodtank",
  "status": [
   {
    "date": "2015-08-12T22:00:00.000Z",
@@ -166,9 +172,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 541,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 6,
    "gloryPoint": 1768,
-   "gloryPointChange": -36,
+   "gloryPointChange": 36,
    "soldierRankID": 11
   }
  ],

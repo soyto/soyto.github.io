@@ -2,6 +2,14 @@
  "characterID": 618600,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 1,
+ "rankingPositionChange": 0,
+ "gloryPoint": 483773,
+ "gloryPointChange": 431,
+ "soldierRankID": 18,
+ "characterName": "Oniisan",
+ "guildName": "StorM",
+ "guildID": 1178,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 1,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 483773,
-   "gloryPointChange": -431,
+   "gloryPointChange": 431,
    "soldierRankID": 18
   }
  ],

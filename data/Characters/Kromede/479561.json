@@ -2,6 +2,14 @@
  "characterID": 479561,
  "characterClassID": 2,
  "raceID": 0,
+ "position": 20,
+ "rankingPositionChange": 0,
+ "gloryPoint": 300085,
+ "gloryPointChange": 821,
+ "soldierRankID": 15,
+ "characterName": "Lutetias",
+ "guildName": "  Noir  ",
+ "guildID": 35081,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 20,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 300085,
-   "gloryPointChange": -821,
+   "gloryPointChange": 821,
    "soldierRankID": 15
   }
  ],

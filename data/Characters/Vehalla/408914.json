@@ -2,6 +2,14 @@
  "characterID": 408914,
  "characterClassID": 2,
  "raceID": 0,
+ "position": 580,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2005,
+ "gloryPointChange": -5,
+ "soldierRankID": 11,
+ "characterName": "Lekisa",
+ "guildName": "I Ragged Domination I",
+ "guildID": 11561,
  "status": [
   {
    "date": "2015-08-01T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 580,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 2005,
-   "gloryPointChange": 5,
+   "gloryPointChange": -5,
    "soldierRankID": 11
   }
  ],

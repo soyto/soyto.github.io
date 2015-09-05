@@ -2,6 +2,12 @@
  "characterID": 95918,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 507,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26728,
+ "gloryPointChange": 86,
+ "soldierRankID": 11,
+ "characterName": "Paradise",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -238,9 +244,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 507,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 26728,
-   "gloryPointChange": -86,
+   "gloryPointChange": 86,
    "soldierRankID": 11
   }
  ],

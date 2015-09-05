@@ -2,6 +2,14 @@
  "characterID": 188532,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 13,
+ "rankingPositionChange": 0,
+ "gloryPoint": 268978,
+ "gloryPointChange": 506,
+ "soldierRankID": 15,
+ "characterName": "Atiya",
+ "guildName": "Bosphorus",
+ "guildID": 1226,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 13,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 268978,
-   "gloryPointChange": -506,
+   "gloryPointChange": 506,
    "soldierRankID": 15
   }
  ],

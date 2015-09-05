@@ -2,6 +2,14 @@
  "characterID": 1250503,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 44,
+ "rankingPositionChange": 0,
+ "gloryPoint": 149655,
+ "gloryPointChange": 257,
+ "soldierRankID": 14,
+ "characterName": "Orhyn",
+ "guildName": "SchizoFriends",
+ "guildID": 18901,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 44,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 149655,
-   "gloryPointChange": -257,
+   "gloryPointChange": 257,
    "soldierRankID": 14
   }
  ],

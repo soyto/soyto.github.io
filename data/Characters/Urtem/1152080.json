@@ -2,6 +2,12 @@
  "characterID": 1152080,
  "characterClassID": 11,
  "raceID": 0,
+ "position": 534,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31528,
+ "gloryPointChange": 112,
+ "soldierRankID": 11,
+ "characterName": "Lockhart",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 534,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 31528,
-   "gloryPointChange": -112,
+   "gloryPointChange": 112,
    "soldierRankID": 11
   }
  ],

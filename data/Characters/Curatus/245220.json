@@ -2,6 +2,14 @@
  "characterID": 245220,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 241,
+ "rankingPositionChange": 0,
+ "gloryPoint": 32498,
+ "gloryPointChange": 31,
+ "soldierRankID": 13,
+ "characterName": "Mercure",
+ "guildName": "  TOP  ",
+ "guildID": 2521,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 241,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 32498,
-   "gloryPointChange": -31,
+   "gloryPointChange": 31,
    "soldierRankID": 13
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 123919,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 678,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1252,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Reset",
+ "guildName": "Wings of Evil ",
+ "guildID": 12064,
  "status": [
   {
    "date": "2015-09-02T22:00:00.000Z",
@@ -14,9 +22,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 678,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -4,
    "gloryPoint": 1252,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

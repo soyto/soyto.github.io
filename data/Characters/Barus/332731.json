@@ -2,6 +2,12 @@
  "characterID": 332731,
  "characterClassID": 4,
  "raceID": 0,
+ "position": 24,
+ "rankingPositionChange": 1,
+ "gloryPoint": 175973,
+ "gloryPointChange": 826,
+ "soldierRankID": 15,
+ "characterName": "Slevin",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 24,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 175973,
-   "gloryPointChange": -826,
+   "gloryPointChange": 826,
    "soldierRankID": 15
   }
  ],

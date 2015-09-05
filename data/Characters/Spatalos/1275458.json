@@ -2,6 +2,14 @@
  "characterID": 1275458,
  "characterClassID": 5,
  "raceID": 0,
+ "position": 1,
+ "rankingPositionChange": 0,
+ "gloryPoint": 604338,
+ "gloryPointChange": 2111,
+ "soldierRankID": 18,
+ "characterName": "Brm",
+ "guildName": "Not My Fault",
+ "guildID": 29410,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 1,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 604338,
-   "gloryPointChange": -2111,
+   "gloryPointChange": 2111,
    "soldierRankID": 18
   }
  ],

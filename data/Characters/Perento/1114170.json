@@ -2,6 +2,14 @@
  "characterID": 1114170,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 266,
+ "rankingPositionChange": 3,
+ "gloryPoint": 30003,
+ "gloryPointChange": 543,
+ "soldierRankID": 13,
+ "characterName": "Raggametal",
+ "guildName": "The  Cartel",
+ "guildID": 21359,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 266,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 3,
    "gloryPoint": 30003,
-   "gloryPointChange": -543,
+   "gloryPointChange": 543,
    "soldierRankID": 13
   }
  ],

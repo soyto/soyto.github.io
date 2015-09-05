@@ -2,6 +2,14 @@
  "characterID": 445716,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 640,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1313,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Bunnymaus",
+ "guildName": "Impera",
+ "guildID": 9521,
  "status": [
   {
    "date": "2015-08-04T22:00:00.000Z",
@@ -222,9 +230,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 640,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 1313,
-   "gloryPointChange": 7,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

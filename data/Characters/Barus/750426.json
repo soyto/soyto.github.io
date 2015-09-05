@@ -2,6 +2,14 @@
  "characterID": 750426,
  "characterClassID": 8,
  "raceID": 1,
+ "position": 880,
+ "rankingPositionChange": -4,
+ "gloryPoint": 12465,
+ "gloryPointChange": 55,
+ "soldierRankID": 10,
+ "characterName": "Arathiel",
+ "guildName": "Prime",
+ "guildID": 7811,
  "status": [
   {
    "date": "2015-08-27T22:00:00.000Z",
@@ -54,9 +62,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 880,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -4,
    "gloryPoint": 12465,
-   "gloryPointChange": -55,
+   "gloryPointChange": 55,
    "soldierRankID": 10
   }
  ],

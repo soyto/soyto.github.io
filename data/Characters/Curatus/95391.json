@@ -2,6 +2,14 @@
  "characterID": 95391,
  "characterClassID": 7,
  "raceID": 0,
+ "position": 460,
+ "rankingPositionChange": 1,
+ "gloryPoint": 32645,
+ "gloryPointChange": 275,
+ "soldierRankID": 12,
+ "characterName": "Vuoto",
+ "guildName": "Warmness",
+ "guildID": 2162,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 460,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 32645,
-   "gloryPointChange": -275,
+   "gloryPointChange": 275,
    "soldierRankID": 12
   }
  ],

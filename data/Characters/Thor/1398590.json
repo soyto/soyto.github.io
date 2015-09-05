@@ -2,6 +2,14 @@
  "characterID": 1398590,
  "characterClassID": 11,
  "raceID": 1,
+ "position": 541,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26300,
+ "gloryPointChange": 76,
+ "soldierRankID": 11,
+ "characterName": "Helllguard",
+ "guildName": "Raven Crowd",
+ "guildID": 30113,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 541,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 26300,
-   "gloryPointChange": -76,
+   "gloryPointChange": 76,
    "soldierRankID": 11
   }
  ],

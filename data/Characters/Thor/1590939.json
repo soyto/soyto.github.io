@@ -2,6 +2,14 @@
  "characterID": 1590939,
  "characterClassID": 14,
  "raceID": 1,
+ "position": 239,
+ "rankingPositionChange": 0,
+ "gloryPoint": 65113,
+ "gloryPointChange": 211,
+ "soldierRankID": 13,
+ "characterName": "Siban",
+ "guildName": "Agent Orange",
+ "guildID": 42291,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 239,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 65113,
-   "gloryPointChange": -211,
+   "gloryPointChange": 211,
    "soldierRankID": 13
   }
  ],

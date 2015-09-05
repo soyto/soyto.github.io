@@ -2,6 +2,14 @@
  "characterID": 364654,
  "characterClassID": 10,
  "raceID": 0,
+ "position": 36,
+ "rankingPositionChange": 0,
+ "gloryPoint": 160323,
+ "gloryPointChange": 808,
+ "soldierRankID": 14,
+ "characterName": "Veranti",
+ "guildName": "Cute Monsters",
+ "guildID": 1017,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 36,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 160323,
-   "gloryPointChange": -808,
+   "gloryPointChange": 808,
    "soldierRankID": 14
   }
  ],

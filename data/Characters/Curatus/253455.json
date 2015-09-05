@@ -2,6 +2,14 @@
  "characterID": 253455,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 883,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4123,
+ "gloryPointChange": -1,
+ "soldierRankID": 10,
+ "characterName": "Drakulas",
+ "guildName": "assassin legion",
+ "guildID": 5301,
  "status": [
   {
    "date": "2015-08-14T22:00:00.000Z",
@@ -142,9 +150,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 883,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 4123,
-   "gloryPointChange": 1,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

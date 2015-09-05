@@ -2,6 +2,14 @@
  "characterID": 3495,
  "characterClassID": 4,
  "raceID": 0,
+ "position": 361,
+ "rankingPositionChange": -1,
+ "gloryPoint": 33700,
+ "gloryPointChange": 22,
+ "soldierRankID": 12,
+ "characterName": "Randal",
+ "guildName": "Get Well",
+ "guildID": 13411,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 361,
-   "rankingPositionChange": null,
+   "rankingPositionChange": -1,
    "gloryPoint": 33700,
-   "gloryPointChange": -22,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

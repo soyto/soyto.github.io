@@ -2,6 +2,14 @@
  "characterID": 188265,
  "characterClassID": 4,
  "raceID": 0,
+ "position": 25,
+ "rankingPositionChange": 0,
+ "gloryPoint": 285711,
+ "gloryPointChange": 381,
+ "soldierRankID": 15,
+ "characterName": "Limmer",
+ "guildName": "  Noir  ",
+ "guildID": 35081,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 25,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 285711,
-   "gloryPointChange": -381,
+   "gloryPointChange": 381,
    "soldierRankID": 15
   }
  ],

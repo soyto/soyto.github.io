@@ -2,6 +2,14 @@
  "characterID": 115464,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 122,
+ "rankingPositionChange": 0,
+ "gloryPoint": 75208,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Clestius",
+ "guildName": "V for Vendetta",
+ "guildID": 1639,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 122,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 75208,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

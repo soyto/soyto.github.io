@@ -2,6 +2,12 @@
  "characterID": 50694,
  "characterClassID": 8,
  "raceID": 0,
+ "position": 7,
+ "rankingPositionChange": 0,
+ "gloryPoint": 306050,
+ "gloryPointChange": 456,
+ "soldierRankID": 16,
+ "characterName": "Blackcry",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +268,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 7,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 306050,
-   "gloryPointChange": -456,
+   "gloryPointChange": 456,
    "soldierRankID": 16
   }
  ],

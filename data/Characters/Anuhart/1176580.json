@@ -2,6 +2,12 @@
  "characterID": 1176580,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 473,
+ "rankingPositionChange": 3,
+ "gloryPoint": 10155,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Beriatanus",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -246,9 +252,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 473,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 3,
    "gloryPoint": 10155,
-   "gloryPointChange": 28,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

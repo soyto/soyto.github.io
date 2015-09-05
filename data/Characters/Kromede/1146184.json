@@ -2,6 +2,14 @@
  "characterID": 1146184,
  "characterClassID": 10,
  "raceID": 1,
+ "position": 440,
+ "rankingPositionChange": 10,
+ "gloryPoint": 12165,
+ "gloryPointChange": 512,
+ "soldierRankID": 12,
+ "characterName": "Healinq",
+ "guildName": "Loyalty",
+ "guildID": 13265,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 440,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 10,
    "gloryPoint": 12165,
-   "gloryPointChange": -512,
+   "gloryPointChange": 512,
    "soldierRankID": 12
   }
  ],

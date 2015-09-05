@@ -2,6 +2,14 @@
  "characterID": 64350,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 260,
+ "rankingPositionChange": 0,
+ "gloryPoint": 30301,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Ravanello",
+ "guildName": "Infernal Requiem",
+ "guildID": 1034,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -246,9 +254,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 260,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 30301,
-   "gloryPointChange": 49,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

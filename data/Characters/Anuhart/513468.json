@@ -2,6 +2,14 @@
  "characterID": 513468,
  "characterClassID": 5,
  "raceID": 1,
+ "position": 100,
+ "rankingPositionChange": 1,
+ "gloryPoint": 114876,
+ "gloryPointChange": 579,
+ "soldierRankID": 14,
+ "characterName": "Saryko",
+ "guildName": "Elyos May Die",
+ "guildID": 20099,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 100,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 1,
    "gloryPoint": 114876,
-   "gloryPointChange": -579,
+   "gloryPointChange": 579,
    "soldierRankID": 14
   }
  ],

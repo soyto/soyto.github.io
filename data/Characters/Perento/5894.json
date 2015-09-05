@@ -2,6 +2,14 @@
  "characterID": 5894,
  "characterClassID": 7,
  "raceID": 1,
+ "position": 322,
+ "rankingPositionChange": 0,
+ "gloryPoint": 21211,
+ "gloryPointChange": 282,
+ "soldierRankID": 12,
+ "characterName": "Shok",
+ "guildName": "Hope",
+ "guildID": 1169,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 322,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 21211,
-   "gloryPointChange": -282,
+   "gloryPointChange": 282,
    "soldierRankID": 12
   }
  ],

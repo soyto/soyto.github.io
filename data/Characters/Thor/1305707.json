@@ -2,6 +2,14 @@
  "characterID": 1305707,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 789,
+ "rankingPositionChange": 7,
+ "gloryPoint": 16008,
+ "gloryPointChange": 463,
+ "soldierRankID": 10,
+ "characterName": "Ericbrooks",
+ "guildName": "Blutiger Orden",
+ "guildID": 36907,
  "status": [
   {
    "date": "2015-08-20T22:00:00.000Z",
@@ -102,9 +110,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 789,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 7,
    "gloryPoint": 16008,
-   "gloryPointChange": -463,
+   "gloryPointChange": 463,
    "soldierRankID": 10
   }
  ],

@@ -2,6 +2,14 @@
  "characterID": 9913,
  "characterClassID": 1,
  "raceID": 1,
+ "position": 205,
+ "rankingPositionChange": 6,
+ "gloryPoint": 37943,
+ "gloryPointChange": 1024,
+ "soldierRankID": 13,
+ "characterName": "Alphamatt",
+ "guildName": "Infernal Requiem",
+ "guildID": 1034,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 205,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 6,
    "gloryPoint": 37943,
-   "gloryPointChange": -1024,
+   "gloryPointChange": 1024,
    "soldierRankID": 13
   }
  ],

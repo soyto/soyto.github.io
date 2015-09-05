@@ -2,6 +2,14 @@
  "characterID": 302757,
  "characterClassID": 4,
  "raceID": 1,
+ "position": 120,
+ "rankingPositionChange": 0,
+ "gloryPoint": 103316,
+ "gloryPointChange": 428,
+ "soldierRankID": 13,
+ "characterName": "Kiillit",
+ "guildName": "Getting Away With Murder",
+ "guildID": 8968,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -262,9 +270,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 120,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 103316,
-   "gloryPointChange": -428,
+   "gloryPointChange": 428,
    "soldierRankID": 13
   }
  ],

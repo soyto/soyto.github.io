@@ -2,6 +2,14 @@
  "characterID": 69148,
  "characterClassID": 16,
  "raceID": 1,
+ "position": 6,
+ "rankingPositionChange": 0,
+ "gloryPoint": 302427,
+ "gloryPointChange": 727,
+ "soldierRankID": 16,
+ "characterName": "Selphine",
+ "guildName": "DarkWish",
+ "guildID": 2065,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -254,9 +262,9 @@
   {
    "date": "2015-09-03T22:00:00.000Z",
    "position": 6,
-   "rankingPositionChange": null,
+   "rankingPositionChange": 0,
    "gloryPoint": 302427,
-   "gloryPointChange": -727,
+   "gloryPointChange": 727,
    "soldierRankID": 16
   }
  ],
