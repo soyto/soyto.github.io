@@ -1,1 +1,60 @@
-{"characterID":649445,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-30T22:00:00.000Z","position":608,"rankingPositionChange":0,"gloryPoint":1429,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":554,"rankingPositionChange":54,"gloryPoint":1642,"gloryPointChange":213,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":544,"rankingPositionChange":10,"gloryPoint":1775,"gloryPointChange":133,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":538,"rankingPositionChange":6,"gloryPoint":1811,"gloryPointChange":36,"soldierRankID":11}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Sefo"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z","guildName":"R e q u i e m","guildID":16824}],"characterName":"Sefo","guildName":"R e q u i e m","guildID":16824,"position":538,"rankingPositionChange":6,"gloryPoint":1811,"soldierRankID":11}
+{
+ "characterID": 649445,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 538,
+ "rankingPositionChange": 6,
+ "gloryPoint": 1811,
+ "gloryPointChange": 36,
+ "soldierRankID": 11,
+ "characterName": "Sefo",
+ "guildName": "R e q u i e m",
+ "guildID": 16824,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 608,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1429,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 554,
+   "rankingPositionChange": 54,
+   "gloryPoint": 1642,
+   "gloryPointChange": 213,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 544,
+   "rankingPositionChange": 10,
+   "gloryPoint": 1775,
+   "gloryPointChange": 133,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": 6,
+   "gloryPoint": 1811,
+   "gloryPointChange": 36,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Sefo"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "R e q u i e m",
+   "guildID": 16824
+  }
+ ]
+}

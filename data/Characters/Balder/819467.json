@@ -1,1 +1,68 @@
-{"characterID":819467,"characterClassID":14,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":232,"rankingPositionChange":0,"gloryPoint":16417,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":232,"rankingPositionChange":0,"gloryPoint":16368,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":232,"rankingPositionChange":0,"gloryPoint":16319,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":233,"rankingPositionChange":-1,"gloryPoint":16270,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":235,"rankingPositionChange":-2,"gloryPoint":16221,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Cindi"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Exil der Goetter","guildID":12346}],"characterName":"Cindi","guildName":"Exil der Goetter","guildID":12346,"position":235,"rankingPositionChange":-2,"gloryPoint":16221,"soldierRankID":13}
+{
+ "characterID": 819467,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 235,
+ "rankingPositionChange": -2,
+ "gloryPoint": 16221,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Cindi",
+ "guildName": "Exil der Goetter",
+ "guildID": 12346,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 232,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16417,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 232,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16368,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 232,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16319,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 233,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16270,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 235,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16221,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Cindi"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Exil der Goetter",
+   "guildID": 12346
+  }
+ ]
+}

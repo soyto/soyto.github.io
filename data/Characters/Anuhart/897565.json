@@ -1,1 +1,68 @@
-{"characterID":897565,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":220,"rankingPositionChange":0,"gloryPoint":44904,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":220,"rankingPositionChange":0,"gloryPoint":44855,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":222,"rankingPositionChange":-2,"gloryPoint":44806,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":222,"rankingPositionChange":0,"gloryPoint":44757,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":224,"rankingPositionChange":-2,"gloryPoint":44708,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Brucemuhammadali"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"First Let Me Take A Selfie","guildID":9691}],"characterName":"Brucemuhammadali","guildName":"First Let Me Take A Selfie","guildID":9691,"position":224,"rankingPositionChange":-2,"gloryPoint":44708,"soldierRankID":13}
+{
+ "characterID": 897565,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 224,
+ "rankingPositionChange": -2,
+ "gloryPoint": 44708,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Brucemuhammadali",
+ "guildName": "First Let Me Take A Selfie",
+ "guildID": 9691,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": 0,
+   "gloryPoint": 44904,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": 0,
+   "gloryPoint": 44855,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -2,
+   "gloryPoint": 44806,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": 0,
+   "gloryPoint": 44757,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 224,
+   "rankingPositionChange": -2,
+   "gloryPoint": 44708,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Brucemuhammadali"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "First Let Me Take A Selfie",
+   "guildID": 9691
+  }
+ ]
+}

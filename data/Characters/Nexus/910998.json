@@ -1,1 +1,52 @@
-{"characterID":910998,"characterClassID":7,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":985,"rankingPositionChange":0,"gloryPoint":7360,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":988,"rankingPositionChange":-3,"gloryPoint":7601,"gloryPointChange":241,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":985,"rankingPositionChange":3,"gloryPoint":7700,"gloryPointChange":99,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Juker"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"SmaIIGods","guildID":2094}],"characterName":"Juker","guildName":"SmaIIGods","guildID":2094,"position":985,"rankingPositionChange":3,"gloryPoint":7700,"soldierRankID":10}
+{
+ "characterID": 910998,
+ "characterClassID": 7,
+ "raceID": 1,
+ "position": 985,
+ "rankingPositionChange": 3,
+ "gloryPoint": 7700,
+ "gloryPointChange": 99,
+ "soldierRankID": 10,
+ "characterName": "Juker",
+ "guildName": "SmaIIGods",
+ "guildID": 2094,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7360,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7601,
+   "gloryPointChange": 241,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": 3,
+   "gloryPoint": 7700,
+   "gloryPointChange": 99,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Juker"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "SmaIIGods",
+   "guildID": 2094
+  }
+ ]
+}

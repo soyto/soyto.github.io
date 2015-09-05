@@ -1,1 +1,68 @@
-{"characterID":1432214,"characterClassID":14,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":988,"rankingPositionChange":0,"gloryPoint":12584,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":992,"rankingPositionChange":-4,"gloryPoint":12577,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":999,"rankingPositionChange":-7,"gloryPoint":12570,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":998,"rankingPositionChange":1,"gloryPoint":12578,"gloryPointChange":8,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":998,"rankingPositionChange":0,"gloryPoint":12574,"gloryPointChange":-4,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Vengeances"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Django Unchained","guildID":40277}],"characterName":"Vengeances","guildName":"Django Unchained","guildID":40277,"position":998,"rankingPositionChange":0,"gloryPoint":12574,"soldierRankID":10}
+{
+ "characterID": 1432214,
+ "characterClassID": 14,
+ "raceID": 0,
+ "position": 998,
+ "rankingPositionChange": 0,
+ "gloryPoint": 12574,
+ "gloryPointChange": -4,
+ "soldierRankID": 10,
+ "characterName": "Vengeances",
+ "guildName": "Django Unchained",
+ "guildID": 40277,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12584,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": -4,
+   "gloryPoint": 12577,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -7,
+   "gloryPoint": 12570,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12578,
+   "gloryPointChange": 8,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12574,
+   "gloryPointChange": -4,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Vengeances"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Django Unchained",
+   "guildID": 40277
+  }
+ ]
+}

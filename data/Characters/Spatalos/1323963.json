@@ -1,1 +1,52 @@
-{"characterID":1323963,"characterClassID":16,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":946,"rankingPositionChange":0,"gloryPoint":6423,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":923,"rankingPositionChange":23,"gloryPoint":6981,"gloryPointChange":558,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":922,"rankingPositionChange":1,"gloryPoint":7120,"gloryPointChange":139,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Droopsysongs"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Spartan Legend","guildID":20213}],"characterName":"Droopsysongs","guildName":"Spartan Legend","guildID":20213,"position":922,"rankingPositionChange":1,"gloryPoint":7120,"soldierRankID":10}
+{
+ "characterID": 1323963,
+ "characterClassID": 16,
+ "raceID": 0,
+ "position": 922,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7120,
+ "gloryPointChange": 139,
+ "soldierRankID": 10,
+ "characterName": "Droopsysongs",
+ "guildName": "Spartan Legend",
+ "guildID": 20213,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 946,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6423,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 923,
+   "rankingPositionChange": 23,
+   "gloryPoint": 6981,
+   "gloryPointChange": 558,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 922,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7120,
+   "gloryPointChange": 139,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Droopsysongs"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Spartan Legend",
+   "guildID": 20213
+  }
+ ]
+}

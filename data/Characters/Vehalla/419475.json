@@ -1,1 +1,44 @@
-{"characterID":419475,"characterClassID":14,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":722,"rankingPositionChange":0,"gloryPoint":1247,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":667,"rankingPositionChange":55,"gloryPoint":1353,"gloryPointChange":106,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Areiiya"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"FriendsAndCo","guildID":12495}],"characterName":"Areiiya","guildName":"FriendsAndCo","guildID":12495,"position":667,"rankingPositionChange":55,"gloryPoint":1353,"soldierRankID":10}
+{
+ "characterID": 419475,
+ "characterClassID": 14,
+ "raceID": 0,
+ "position": 667,
+ "rankingPositionChange": 55,
+ "gloryPoint": 1353,
+ "gloryPointChange": 106,
+ "soldierRankID": 10,
+ "characterName": "Areiiya",
+ "guildName": "FriendsAndCo",
+ "guildID": 12495,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 722,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1247,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 667,
+   "rankingPositionChange": 55,
+   "gloryPoint": 1353,
+   "gloryPointChange": 106,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Areiiya"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "FriendsAndCo",
+   "guildID": 12495
+  }
+ ]
+}

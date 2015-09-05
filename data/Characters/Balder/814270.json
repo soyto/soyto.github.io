@@ -1,1 +1,52 @@
-{"characterID":814270,"characterClassID":14,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":628,"rankingPositionChange":0,"gloryPoint":1323,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":638,"rankingPositionChange":-10,"gloryPoint":1316,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":637,"rankingPositionChange":1,"gloryPoint":1309,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Revolverheldin"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"N I G H T M A R E","guildID":17946}],"characterName":"Revolverheldin","guildName":"N I G H T M A R E","guildID":17946,"position":637,"rankingPositionChange":1,"gloryPoint":1309,"soldierRankID":10}
+{
+ "characterID": 814270,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 637,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1309,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Revolverheldin",
+ "guildName": "N I G H T M A R E",
+ "guildID": 17946,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 628,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1323,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 638,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1316,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 637,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1309,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Revolverheldin"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "N I G H T M A R E",
+   "guildID": 17946
+  }
+ ]
+}

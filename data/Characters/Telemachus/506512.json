@@ -1,1 +1,60 @@
-{"characterID":506512,"characterClassID":7,"raceID":1,"status":[{"date":"2015-08-14T22:00:00.000Z","position":802,"rankingPositionChange":128,"gloryPoint":1244,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":802,"rankingPositionChange":0,"gloryPoint":1244,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":806,"rankingPositionChange":-4,"gloryPoint":1246,"gloryPointChange":2,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":792,"rankingPositionChange":14,"gloryPoint":1245,"gloryPointChange":-1,"soldierRankID":10}],"names":[{"date":"2015-08-14T22:00:00.000Z","characterName":"Smecheru"}],"guilds":[{"date":"2015-08-14T22:00:00.000Z","guildName":"ToxiC","guildID":20190}],"characterName":"Smecheru","guildName":"ToxiC","guildID":20190,"position":792,"rankingPositionChange":14,"gloryPoint":1245,"soldierRankID":10}
+{
+ "characterID": 506512,
+ "characterClassID": 7,
+ "raceID": 1,
+ "position": 792,
+ "rankingPositionChange": 14,
+ "gloryPoint": 1245,
+ "gloryPointChange": -1,
+ "soldierRankID": 10,
+ "characterName": "Smecheru",
+ "guildName": "ToxiC",
+ "guildID": 20190,
+ "status": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 802,
+   "rankingPositionChange": 128,
+   "gloryPoint": 1244,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 802,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1244,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 806,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1246,
+   "gloryPointChange": 2,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 792,
+   "rankingPositionChange": 14,
+   "gloryPoint": 1245,
+   "gloryPointChange": -1,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "characterName": "Smecheru"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "guildName": "ToxiC",
+   "guildID": 20190
+  }
+ ]
+}

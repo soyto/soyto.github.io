@@ -1,1 +1,132 @@
-{"characterID":1791917,"characterClassID":11,"raceID":1,"status":[{"date":"2015-08-20T22:00:00.000Z","position":964,"rankingPositionChange":0,"gloryPoint":10562,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":938,"rankingPositionChange":26,"gloryPoint":11201,"gloryPointChange":639,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":904,"rankingPositionChange":34,"gloryPoint":12326,"gloryPointChange":1125,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":879,"rankingPositionChange":25,"gloryPoint":12844,"gloryPointChange":518,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":851,"rankingPositionChange":28,"gloryPoint":13415,"gloryPointChange":571,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":814,"rankingPositionChange":37,"gloryPoint":14304,"gloryPointChange":889,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":799,"rankingPositionChange":15,"gloryPoint":14910,"gloryPointChange":606,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":790,"rankingPositionChange":9,"gloryPoint":15234,"gloryPointChange":324,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":762,"rankingPositionChange":28,"gloryPoint":16515,"gloryPointChange":1281,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":744,"rankingPositionChange":18,"gloryPoint":17361,"gloryPointChange":846,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":720,"rankingPositionChange":24,"gloryPoint":18283,"gloryPointChange":922,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":711,"rankingPositionChange":9,"gloryPoint":18821,"gloryPointChange":538,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":697,"rankingPositionChange":14,"gloryPoint":19424,"gloryPointChange":603,"soldierRankID":11}],"names":[{"date":"2015-08-20T22:00:00.000Z","characterName":"Valynaz"}],"guilds":[{"date":"2015-08-20T22:00:00.000Z","guildName":"Die Erfolgslosen","guildID":46365}],"characterName":"Valynaz","guildName":"Die Erfolgslosen","guildID":46365,"position":697,"rankingPositionChange":14,"gloryPoint":19424,"soldierRankID":11}
+{
+ "characterID": 1791917,
+ "characterClassID": 11,
+ "raceID": 1,
+ "position": 697,
+ "rankingPositionChange": 14,
+ "gloryPoint": 19424,
+ "gloryPointChange": 603,
+ "soldierRankID": 11,
+ "characterName": "Valynaz",
+ "guildName": "Die Erfolgslosen",
+ "guildID": 46365,
+ "status": [
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 964,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10562,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 938,
+   "rankingPositionChange": 26,
+   "gloryPoint": 11201,
+   "gloryPointChange": 639,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 904,
+   "rankingPositionChange": 34,
+   "gloryPoint": 12326,
+   "gloryPointChange": 1125,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 879,
+   "rankingPositionChange": 25,
+   "gloryPoint": 12844,
+   "gloryPointChange": 518,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": 28,
+   "gloryPoint": 13415,
+   "gloryPointChange": 571,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": 37,
+   "gloryPoint": 14304,
+   "gloryPointChange": 889,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 799,
+   "rankingPositionChange": 15,
+   "gloryPoint": 14910,
+   "gloryPointChange": 606,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 790,
+   "rankingPositionChange": 9,
+   "gloryPoint": 15234,
+   "gloryPointChange": 324,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 762,
+   "rankingPositionChange": 28,
+   "gloryPoint": 16515,
+   "gloryPointChange": 1281,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 744,
+   "rankingPositionChange": 18,
+   "gloryPoint": 17361,
+   "gloryPointChange": 846,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 720,
+   "rankingPositionChange": 24,
+   "gloryPoint": 18283,
+   "gloryPointChange": 922,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": 9,
+   "gloryPoint": 18821,
+   "gloryPointChange": 538,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 697,
+   "rankingPositionChange": 14,
+   "gloryPoint": 19424,
+   "gloryPointChange": 603,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "characterName": "Valynaz"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "guildName": "Die Erfolgslosen",
+   "guildID": 46365
+  }
+ ]
+}

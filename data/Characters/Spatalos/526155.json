@@ -1,1 +1,44 @@
-{"characterID":526155,"characterClassID":4,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":162,"rankingPositionChange":-1,"gloryPoint":38499,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":165,"rankingPositionChange":-3,"gloryPoint":38450,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Reeve"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Raised by the Sword","guildID":28745}],"characterName":"Reeve","guildName":"Raised by the Sword","guildID":28745,"position":165,"rankingPositionChange":-3,"gloryPoint":38450,"soldierRankID":13}
+{
+ "characterID": 526155,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 165,
+ "rankingPositionChange": -3,
+ "gloryPoint": 38450,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Reeve",
+ "guildName": "Raised by the Sword",
+ "guildID": 28745,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": -1,
+   "gloryPoint": 38499,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 165,
+   "rankingPositionChange": -3,
+   "gloryPoint": 38450,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Reeve"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Raised by the Sword",
+   "guildID": 28745
+  }
+ ]
+}

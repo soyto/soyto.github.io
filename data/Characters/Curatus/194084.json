@@ -1,1 +1,132 @@
-{"characterID":194084,"characterClassID":2,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":508,"rankingPositionChange":0,"gloryPoint":10929,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":511,"rankingPositionChange":-3,"gloryPoint":10915,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":515,"rankingPositionChange":-4,"gloryPoint":10901,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":518,"rankingPositionChange":-3,"gloryPoint":10887,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":517,"rankingPositionChange":1,"gloryPoint":10873,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":516,"rankingPositionChange":1,"gloryPoint":10859,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":518,"rankingPositionChange":-2,"gloryPoint":10845,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":518,"rankingPositionChange":0,"gloryPoint":10831,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":518,"rankingPositionChange":0,"gloryPoint":10831,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-09T22:00:00.000Z","position":520,"rankingPositionChange":-2,"gloryPoint":10817,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":523,"rankingPositionChange":-3,"gloryPoint":10789,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-11T22:00:00.000Z","position":523,"rankingPositionChange":0,"gloryPoint":10789,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-12T22:00:00.000Z","position":528,"rankingPositionChange":-5,"gloryPoint":10761,"gloryPointChange":-28,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Ahres"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Untold","guildID":5997}],"characterName":"Ahres","guildName":"Untold","guildID":5997,"position":528,"rankingPositionChange":-5,"gloryPoint":10761,"soldierRankID":11}
+{
+ "characterID": 194084,
+ "characterClassID": 2,
+ "raceID": 1,
+ "position": 528,
+ "rankingPositionChange": -5,
+ "gloryPoint": 10761,
+ "gloryPointChange": -28,
+ "soldierRankID": 11,
+ "characterName": "Ahres",
+ "guildName": "Untold",
+ "guildID": 5997,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10929,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10915,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 515,
+   "rankingPositionChange": -4,
+   "gloryPoint": 10901,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 518,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10887,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10873,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 516,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10859,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 518,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10845,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 518,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10831,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 518,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10831,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 520,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10817,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10789,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10789,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 528,
+   "rankingPositionChange": -5,
+   "gloryPoint": 10761,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Ahres"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Untold",
+   "guildID": 5997
+  }
+ ]
+}

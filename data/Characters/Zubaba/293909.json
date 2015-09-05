@@ -1,1 +1,45 @@
-{"characterID":293909,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-03T22:00:00.000Z","position":969,"rankingPositionChange":0,"gloryPoint":1244,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":961,"rankingPositionChange":8,"gloryPoint":1248,"gloryPointChange":4,"soldierRankID":10}],"names":[{"date":"2015-08-03T22:00:00.000Z","characterName":"Agares"}],"guilds":[{"date":"2015-08-03T22:00:00.000Z","guildName":"Black or White","guildID":6042},{"date":"2015-08-30T22:00:00.000Z"}],"characterName":"Agares","position":961,"rankingPositionChange":8,"gloryPoint":1248,"soldierRankID":10}
+{
+ "characterID": 293909,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 961,
+ "rankingPositionChange": 8,
+ "gloryPoint": 1248,
+ "gloryPointChange": 4,
+ "soldierRankID": 10,
+ "characterName": "Agares",
+ "status": [
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1244,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": 8,
+   "gloryPoint": 1248,
+   "gloryPointChange": 4,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "characterName": "Agares"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "guildName": "Black or White",
+   "guildID": 6042
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z"
+  }
+ ]
+}

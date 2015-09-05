@@ -1,1 +1,84 @@
-{"characterID":725954,"characterClassID":11,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":319,"rankingPositionChange":0,"gloryPoint":47646,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":320,"rankingPositionChange":-1,"gloryPoint":47618,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":319,"rankingPositionChange":1,"gloryPoint":47590,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":319,"rankingPositionChange":0,"gloryPoint":47562,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":320,"rankingPositionChange":-1,"gloryPoint":47534,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":321,"rankingPositionChange":-1,"gloryPoint":47506,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":320,"rankingPositionChange":1,"gloryPoint":47478,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Atuesuel"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"E R R O R","guildID":42898}],"characterName":"Atuesuel","guildName":"E R R O R","guildID":42898,"position":320,"rankingPositionChange":1,"gloryPoint":47478,"soldierRankID":12}
+{
+ "characterID": 725954,
+ "characterClassID": 11,
+ "raceID": 1,
+ "position": 320,
+ "rankingPositionChange": 1,
+ "gloryPoint": 47478,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Atuesuel",
+ "guildName": "E R R O R",
+ "guildID": 42898,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": 0,
+   "gloryPoint": 47646,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47618,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": 1,
+   "gloryPoint": 47590,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": 0,
+   "gloryPoint": 47562,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47534,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 321,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47506,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": 1,
+   "gloryPoint": 47478,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Atuesuel"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "E R R O R",
+   "guildID": 42898
+  }
+ ]
+}

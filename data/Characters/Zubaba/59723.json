@@ -1,1 +1,76 @@
-{"characterID":59723,"characterClassID":7,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":551,"rankingPositionChange":0,"gloryPoint":12094,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":551,"rankingPositionChange":0,"gloryPoint":12080,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":548,"rankingPositionChange":3,"gloryPoint":12066,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":546,"rankingPositionChange":2,"gloryPoint":12052,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":548,"rankingPositionChange":-2,"gloryPoint":12038,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":550,"rankingPositionChange":-2,"gloryPoint":12024,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Mistic"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"V   A   T   A   N","guildID":1623}],"characterName":"Mistic","guildName":"V   A   T   A   N","guildID":1623,"position":550,"rankingPositionChange":-2,"gloryPoint":12024,"soldierRankID":11}
+{
+ "characterID": 59723,
+ "characterClassID": 7,
+ "raceID": 0,
+ "position": 550,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12024,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Mistic",
+ "guildName": "V   A   T   A   N",
+ "guildID": 1623,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 551,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12094,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 551,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12080,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 548,
+   "rankingPositionChange": 3,
+   "gloryPoint": 12066,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 546,
+   "rankingPositionChange": 2,
+   "gloryPoint": 12052,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 548,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12038,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 550,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12024,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Mistic"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "V   A   T   A   N",
+   "guildID": 1623
+  }
+ ]
+}

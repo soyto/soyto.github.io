@@ -1,1 +1,136 @@
-{"characterID":817751,"characterClassID":10,"raceID":1,"status":[{"date":"2015-08-19T22:00:00.000Z","position":682,"rankingPositionChange":0,"gloryPoint":17227,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-20T22:00:00.000Z","position":684,"rankingPositionChange":-2,"gloryPoint":17213,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-21T22:00:00.000Z","position":688,"rankingPositionChange":-4,"gloryPoint":17199,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-22T22:00:00.000Z","position":686,"rankingPositionChange":2,"gloryPoint":17185,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-23T22:00:00.000Z","position":688,"rankingPositionChange":-2,"gloryPoint":17171,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":687,"rankingPositionChange":1,"gloryPoint":17143,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":687,"rankingPositionChange":0,"gloryPoint":17115,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-27T22:00:00.000Z","position":683,"rankingPositionChange":4,"gloryPoint":17101,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-28T22:00:00.000Z","position":683,"rankingPositionChange":0,"gloryPoint":17087,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-29T22:00:00.000Z","position":685,"rankingPositionChange":-2,"gloryPoint":17073,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":685,"rankingPositionChange":0,"gloryPoint":17059,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":687,"rankingPositionChange":-2,"gloryPoint":17017,"gloryPointChange":-42,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":693,"rankingPositionChange":-6,"gloryPoint":17003,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":698,"rankingPositionChange":-5,"gloryPoint":16989,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-08-19T22:00:00.000Z","characterName":"Talja"}],"guilds":[{"date":"2015-08-19T22:00:00.000Z"}],"characterName":"Talja","position":698,"rankingPositionChange":-5,"gloryPoint":16989,"soldierRankID":11}
+{
+ "characterID": 817751,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 698,
+ "rankingPositionChange": -5,
+ "gloryPoint": 16989,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Talja",
+ "status": [
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 682,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17227,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 684,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17213,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 688,
+   "rankingPositionChange": -4,
+   "gloryPoint": 17199,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 686,
+   "rankingPositionChange": 2,
+   "gloryPoint": 17185,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 688,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17171,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17143,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17115,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 683,
+   "rankingPositionChange": 4,
+   "gloryPoint": 17101,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 683,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17087,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 685,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17073,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 685,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17059,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17017,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 693,
+   "rankingPositionChange": -6,
+   "gloryPoint": 17003,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 698,
+   "rankingPositionChange": -5,
+   "gloryPoint": 16989,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "characterName": "Talja"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-19T22:00:00.000Z"
+  }
+ ]
+}

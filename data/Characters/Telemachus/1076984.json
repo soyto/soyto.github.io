@@ -1,1 +1,132 @@
-{"characterID":1076984,"characterClassID":7,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":679,"rankingPositionChange":0,"gloryPoint":13891,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":678,"rankingPositionChange":1,"gloryPoint":13877,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":678,"rankingPositionChange":0,"gloryPoint":13863,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":674,"rankingPositionChange":4,"gloryPoint":13849,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":674,"rankingPositionChange":0,"gloryPoint":13835,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":673,"rankingPositionChange":1,"gloryPoint":13821,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":671,"rankingPositionChange":2,"gloryPoint":13807,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":671,"rankingPositionChange":0,"gloryPoint":13793,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":671,"rankingPositionChange":0,"gloryPoint":13793,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-09T22:00:00.000Z","position":671,"rankingPositionChange":0,"gloryPoint":13779,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":676,"rankingPositionChange":-5,"gloryPoint":13751,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-11T22:00:00.000Z","position":676,"rankingPositionChange":0,"gloryPoint":13751,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-12T22:00:00.000Z","position":680,"rankingPositionChange":-4,"gloryPoint":13723,"gloryPointChange":-28,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Teskiat"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"I Got The Blues","guildID":25168}],"characterName":"Teskiat","guildName":"I Got The Blues","guildID":25168,"position":680,"rankingPositionChange":-4,"gloryPoint":13723,"soldierRankID":11}
+{
+ "characterID": 1076984,
+ "characterClassID": 7,
+ "raceID": 0,
+ "position": 680,
+ "rankingPositionChange": -4,
+ "gloryPoint": 13723,
+ "gloryPointChange": -28,
+ "soldierRankID": 11,
+ "characterName": "Teskiat",
+ "guildName": "I Got The Blues",
+ "guildID": 25168,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13891,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 678,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13877,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 678,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13863,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 674,
+   "rankingPositionChange": 4,
+   "gloryPoint": 13849,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 674,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13835,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 673,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13821,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": 2,
+   "gloryPoint": 13807,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13793,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13793,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13779,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": -5,
+   "gloryPoint": 13751,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13751,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": -4,
+   "gloryPoint": 13723,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Teskiat"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "I Got The Blues",
+   "guildID": 25168
+  }
+ ]
+}

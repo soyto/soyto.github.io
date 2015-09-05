@@ -1,1 +1,48 @@
-{"characterID":963627,"characterClassID":1,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":992,"rankingPositionChange":-5,"gloryPoint":4349,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":999,"rankingPositionChange":-7,"gloryPoint":4342,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":4335,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Jailara"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Jailara","position":999,"rankingPositionChange":0,"gloryPoint":4335,"soldierRankID":10}
+{
+ "characterID": 963627,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 999,
+ "rankingPositionChange": 0,
+ "gloryPoint": 4335,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Jailara",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4349,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -7,
+   "gloryPoint": 4342,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4335,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Jailara"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

@@ -1,1 +1,67 @@
-{"characterID":1299304,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-30T22:00:00.000Z","position":709,"rankingPositionChange":0,"gloryPoint":9193,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":706,"rankingPositionChange":3,"gloryPoint":9335,"gloryPointChange":142,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":678,"rankingPositionChange":28,"gloryPoint":9753,"gloryPointChange":418,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":656,"rankingPositionChange":22,"gloryPoint":10257,"gloryPointChange":504,"soldierRankID":11}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Aizennsosuke"},{"date":"2015-09-01T22:00:00.000Z","characterName":"Lyahzis"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z"},{"date":"2015-09-01T22:00:00.000Z","guildName":"XIII N R V","guildID":22304}],"characterName":"Lyahzis","guildName":"XIII N R V","guildID":22304,"position":656,"rankingPositionChange":22,"gloryPoint":10257,"soldierRankID":11}
+{
+ "characterID": 1299304,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 656,
+ "rankingPositionChange": 22,
+ "gloryPoint": 10257,
+ "gloryPointChange": 504,
+ "soldierRankID": 11,
+ "characterName": "Lyahzis",
+ "guildName": "XIII N R V",
+ "guildID": 22304,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9193,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 706,
+   "rankingPositionChange": 3,
+   "gloryPoint": 9335,
+   "gloryPointChange": 142,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 678,
+   "rankingPositionChange": 28,
+   "gloryPoint": 9753,
+   "gloryPointChange": 418,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 656,
+   "rankingPositionChange": 22,
+   "gloryPoint": 10257,
+   "gloryPointChange": 504,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Aizennsosuke"
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Lyahzis"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "XIII N R V",
+   "guildID": 22304
+  }
+ ]
+}

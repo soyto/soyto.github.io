@@ -1,1 +1,52 @@
-{"characterID":865342,"characterClassID":4,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":918,"rankingPositionChange":0,"gloryPoint":15551,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":920,"rankingPositionChange":-2,"gloryPoint":15544,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":924,"rankingPositionChange":-4,"gloryPoint":15537,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Areala"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":" MPmorePOWER ","guildID":34168}],"characterName":"Areala","guildName":" MPmorePOWER ","guildID":34168,"position":924,"rankingPositionChange":-4,"gloryPoint":15537,"soldierRankID":10}
+{
+ "characterID": 865342,
+ "characterClassID": 4,
+ "raceID": 0,
+ "position": 924,
+ "rankingPositionChange": -4,
+ "gloryPoint": 15537,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Areala",
+ "guildName": " MPmorePOWER ",
+ "guildID": 34168,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 918,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15551,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 920,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15544,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 924,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15537,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Areala"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": " MPmorePOWER ",
+   "guildID": 34168
+  }
+ ]
+}

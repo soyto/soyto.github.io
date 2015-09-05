@@ -1,1 +1,56 @@
-{"characterID":484506,"characterClassID":4,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":388,"rankingPositionChange":-3,"gloryPoint":5118,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":388,"rankingPositionChange":0,"gloryPoint":5090,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":387,"rankingPositionChange":1,"gloryPoint":5062,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":390,"rankingPositionChange":-3,"gloryPoint":5034,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Cinderell"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Cinderell","position":390,"rankingPositionChange":-3,"gloryPoint":5034,"soldierRankID":12}
+{
+ "characterID": 484506,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 390,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5034,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Cinderell",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 388,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5118,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 388,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5090,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5062,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 390,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5034,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Cinderell"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

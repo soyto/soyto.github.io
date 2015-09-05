@@ -1,1 +1,132 @@
-{"characterID":178316,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":421,"rankingPositionChange":1,"gloryPoint":33365,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":425,"rankingPositionChange":-4,"gloryPoint":33337,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":430,"rankingPositionChange":-5,"gloryPoint":33309,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":433,"rankingPositionChange":-3,"gloryPoint":33281,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":434,"rankingPositionChange":-1,"gloryPoint":33253,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":436,"rankingPositionChange":-2,"gloryPoint":33225,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":432,"rankingPositionChange":4,"gloryPoint":33197,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":434,"rankingPositionChange":-2,"gloryPoint":33169,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":434,"rankingPositionChange":0,"gloryPoint":33169,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":434,"rankingPositionChange":0,"gloryPoint":33141,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":436,"rankingPositionChange":-2,"gloryPoint":33085,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":436,"rankingPositionChange":0,"gloryPoint":33085,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-12T22:00:00.000Z","position":440,"rankingPositionChange":-4,"gloryPoint":33029,"gloryPointChange":-56,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Atlantida"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Almost Skilled","guildID":1122}],"characterName":"Atlantida","guildName":"Almost Skilled","guildID":1122,"position":440,"rankingPositionChange":-4,"gloryPoint":33029,"soldierRankID":12}
+{
+ "characterID": 178316,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 440,
+ "rankingPositionChange": -4,
+ "gloryPoint": 33029,
+ "gloryPointChange": -56,
+ "soldierRankID": 12,
+ "characterName": "Atlantida",
+ "guildName": "Almost Skilled",
+ "guildID": 1122,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 421,
+   "rankingPositionChange": 1,
+   "gloryPoint": 33365,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 425,
+   "rankingPositionChange": -4,
+   "gloryPoint": 33337,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 430,
+   "rankingPositionChange": -5,
+   "gloryPoint": 33309,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 433,
+   "rankingPositionChange": -3,
+   "gloryPoint": 33281,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 434,
+   "rankingPositionChange": -1,
+   "gloryPoint": 33253,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 436,
+   "rankingPositionChange": -2,
+   "gloryPoint": 33225,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 432,
+   "rankingPositionChange": 4,
+   "gloryPoint": 33197,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 434,
+   "rankingPositionChange": -2,
+   "gloryPoint": 33169,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 434,
+   "rankingPositionChange": 0,
+   "gloryPoint": 33169,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 434,
+   "rankingPositionChange": 0,
+   "gloryPoint": 33141,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 436,
+   "rankingPositionChange": -2,
+   "gloryPoint": 33085,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 436,
+   "rankingPositionChange": 0,
+   "gloryPoint": 33085,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 440,
+   "rankingPositionChange": -4,
+   "gloryPoint": 33029,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Atlantida"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Almost Skilled",
+   "guildID": 1122
+  }
+ ]
+}

@@ -1,1 +1,217 @@
-{"characterID":507415,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-10T22:00:00.000Z","position":679,"rankingPositionChange":0,"gloryPoint":1283,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":679,"rankingPositionChange":0,"gloryPoint":1283,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":500,"rankingPositionChange":179,"gloryPoint":1918,"gloryPointChange":635,"soldierRankID":12},{"date":"2015-08-13T22:00:00.000Z","position":462,"rankingPositionChange":38,"gloryPoint":2458,"gloryPointChange":540,"soldierRankID":12},{"date":"2015-08-14T22:00:00.000Z","position":450,"rankingPositionChange":12,"gloryPoint":2707,"gloryPointChange":249,"soldierRankID":12},{"date":"2015-08-15T22:00:00.000Z","position":450,"rankingPositionChange":0,"gloryPoint":2707,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-16T22:00:00.000Z","position":445,"rankingPositionChange":5,"gloryPoint":2783,"gloryPointChange":76,"soldierRankID":12},{"date":"2015-08-17T22:00:00.000Z","position":443,"rankingPositionChange":2,"gloryPoint":2886,"gloryPointChange":103,"soldierRankID":12},{"date":"2015-08-18T22:00:00.000Z","position":417,"rankingPositionChange":26,"gloryPoint":3509,"gloryPointChange":623,"soldierRankID":12},{"date":"2015-08-19T22:00:00.000Z","position":410,"rankingPositionChange":7,"gloryPoint":3968,"gloryPointChange":459,"soldierRankID":12},{"date":"2015-08-20T22:00:00.000Z","position":411,"rankingPositionChange":-1,"gloryPoint":3940,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-21T22:00:00.000Z","position":404,"rankingPositionChange":7,"gloryPoint":4162,"gloryPointChange":222,"soldierRankID":12},{"date":"2015-08-22T22:00:00.000Z","position":395,"rankingPositionChange":9,"gloryPoint":4380,"gloryPointChange":218,"soldierRankID":12},{"date":"2015-08-23T22:00:00.000Z","position":395,"rankingPositionChange":0,"gloryPoint":4352,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-25T22:00:00.000Z","position":387,"rankingPositionChange":8,"gloryPoint":5058,"gloryPointChange":706,"soldierRankID":12},{"date":"2015-08-26T22:00:00.000Z","position":384,"rankingPositionChange":3,"gloryPoint":5348,"gloryPointChange":290,"soldierRankID":12},{"date":"2015-08-27T22:00:00.000Z","position":377,"rankingPositionChange":7,"gloryPoint":5760,"gloryPointChange":412,"soldierRankID":12},{"date":"2015-08-28T22:00:00.000Z","position":377,"rankingPositionChange":0,"gloryPoint":5732,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-29T22:00:00.000Z","position":377,"rankingPositionChange":0,"gloryPoint":5704,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-30T22:00:00.000Z","position":380,"rankingPositionChange":-3,"gloryPoint":5676,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-09-01T22:00:00.000Z","position":365,"rankingPositionChange":15,"gloryPoint":6371,"gloryPointChange":695,"soldierRankID":12},{"date":"2015-09-02T22:00:00.000Z","position":355,"rankingPositionChange":10,"gloryPoint":6763,"gloryPointChange":392,"soldierRankID":12},{"date":"2015-09-03T22:00:00.000Z","position":342,"rankingPositionChange":13,"gloryPoint":7281,"gloryPointChange":518,"soldierRankID":12}],"names":[{"date":"2015-08-10T22:00:00.000Z","characterName":"Ridedevil"}],"guilds":[{"date":"2015-08-10T22:00:00.000Z","guildName":"True Cross Exorcists","guildID":15556},{"date":"2015-08-17T22:00:00.000Z","guildName":"Project V","guildID":15571}],"characterName":"Ridedevil","guildName":"Project V","guildID":15571,"position":342,"rankingPositionChange":13,"gloryPoint":7281,"soldierRankID":12}
+{
+ "characterID": 507415,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 342,
+ "rankingPositionChange": 13,
+ "gloryPoint": 7281,
+ "gloryPointChange": 518,
+ "soldierRankID": 12,
+ "characterName": "Ridedevil",
+ "guildName": "Project V",
+ "guildID": 15571,
+ "status": [
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1283,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1283,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 500,
+   "rankingPositionChange": 179,
+   "gloryPoint": 1918,
+   "gloryPointChange": 635,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 462,
+   "rankingPositionChange": 38,
+   "gloryPoint": 2458,
+   "gloryPointChange": 540,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": 12,
+   "gloryPoint": 2707,
+   "gloryPointChange": 249,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2707,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 445,
+   "rankingPositionChange": 5,
+   "gloryPoint": 2783,
+   "gloryPointChange": 76,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 443,
+   "rankingPositionChange": 2,
+   "gloryPoint": 2886,
+   "gloryPointChange": 103,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 417,
+   "rankingPositionChange": 26,
+   "gloryPoint": 3509,
+   "gloryPointChange": 623,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 410,
+   "rankingPositionChange": 7,
+   "gloryPoint": 3968,
+   "gloryPointChange": 459,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 411,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3940,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 404,
+   "rankingPositionChange": 7,
+   "gloryPoint": 4162,
+   "gloryPointChange": 222,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 395,
+   "rankingPositionChange": 9,
+   "gloryPoint": 4380,
+   "gloryPointChange": 218,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 395,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4352,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": 8,
+   "gloryPoint": 5058,
+   "gloryPointChange": 706,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5348,
+   "gloryPointChange": 290,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 377,
+   "rankingPositionChange": 7,
+   "gloryPoint": 5760,
+   "gloryPointChange": 412,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 377,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5732,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 377,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5704,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5676,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 365,
+   "rankingPositionChange": 15,
+   "gloryPoint": 6371,
+   "gloryPointChange": 695,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 355,
+   "rankingPositionChange": 10,
+   "gloryPoint": 6763,
+   "gloryPointChange": 392,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 342,
+   "rankingPositionChange": 13,
+   "gloryPoint": 7281,
+   "gloryPointChange": 518,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "characterName": "Ridedevil"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "guildName": "True Cross Exorcists",
+   "guildID": 15556
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "guildName": "Project V",
+   "guildID": 15571
+  }
+ ]
+}

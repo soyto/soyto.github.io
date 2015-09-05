@@ -1,1 +1,44 @@
-{"characterID":1557357,"characterClassID":14,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":245,"rankingPositionChange":-2,"gloryPoint":42604,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":245,"rankingPositionChange":0,"gloryPoint":42555,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Gadrill"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"The Chain Of The Phoenix ","guildID":43317}],"characterName":"Gadrill","guildName":"The Chain Of The Phoenix ","guildID":43317,"position":245,"rankingPositionChange":0,"gloryPoint":42555,"soldierRankID":13}
+{
+ "characterID": 1557357,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 245,
+ "rankingPositionChange": 0,
+ "gloryPoint": 42555,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Gadrill",
+ "guildName": "The Chain Of The Phoenix ",
+ "guildID": 43317,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": -2,
+   "gloryPoint": 42604,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": 0,
+   "gloryPoint": 42555,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Gadrill"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "The Chain Of The Phoenix ",
+   "guildID": 43317
+  }
+ ]
+}

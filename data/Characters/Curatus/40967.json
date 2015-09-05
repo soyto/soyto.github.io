@@ -1,1 +1,192 @@
-{"characterID":40967,"characterClassID":1,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":326,"rankingPositionChange":-1,"gloryPoint":48489,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":328,"rankingPositionChange":-2,"gloryPoint":48461,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":328,"rankingPositionChange":0,"gloryPoint":48433,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":329,"rankingPositionChange":-1,"gloryPoint":48405,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":330,"rankingPositionChange":-1,"gloryPoint":48377,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":330,"rankingPositionChange":0,"gloryPoint":48349,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":331,"rankingPositionChange":-1,"gloryPoint":48321,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":332,"rankingPositionChange":-1,"gloryPoint":48293,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":332,"rankingPositionChange":0,"gloryPoint":48293,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":334,"rankingPositionChange":-2,"gloryPoint":48265,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":334,"rankingPositionChange":0,"gloryPoint":48209,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":334,"rankingPositionChange":0,"gloryPoint":48209,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-12T22:00:00.000Z","position":333,"rankingPositionChange":1,"gloryPoint":48153,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-13T22:00:00.000Z","position":333,"rankingPositionChange":0,"gloryPoint":48125,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-14T22:00:00.000Z","position":332,"rankingPositionChange":1,"gloryPoint":48097,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-15T22:00:00.000Z","position":332,"rankingPositionChange":0,"gloryPoint":48097,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-16T22:00:00.000Z","position":332,"rankingPositionChange":0,"gloryPoint":48069,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-17T22:00:00.000Z","position":334,"rankingPositionChange":-2,"gloryPoint":48041,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-18T22:00:00.000Z","position":335,"rankingPositionChange":-1,"gloryPoint":47985,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-19T22:00:00.000Z","position":336,"rankingPositionChange":-1,"gloryPoint":47957,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-20T22:00:00.000Z","position":334,"rankingPositionChange":2,"gloryPoint":47929,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Nanase"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Nanase","position":334,"rankingPositionChange":2,"gloryPoint":47929,"soldierRankID":12}
+{
+ "characterID": 40967,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 334,
+ "rankingPositionChange": 2,
+ "gloryPoint": 47929,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Nanase",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 326,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48489,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 328,
+   "rankingPositionChange": -2,
+   "gloryPoint": 48461,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 328,
+   "rankingPositionChange": 0,
+   "gloryPoint": 48433,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 329,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48405,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 330,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48377,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 330,
+   "rankingPositionChange": 0,
+   "gloryPoint": 48349,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 331,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48321,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 332,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48293,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 332,
+   "rankingPositionChange": 0,
+   "gloryPoint": 48293,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 334,
+   "rankingPositionChange": -2,
+   "gloryPoint": 48265,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 334,
+   "rankingPositionChange": 0,
+   "gloryPoint": 48209,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 334,
+   "rankingPositionChange": 0,
+   "gloryPoint": 48209,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 333,
+   "rankingPositionChange": 1,
+   "gloryPoint": 48153,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 333,
+   "rankingPositionChange": 0,
+   "gloryPoint": 48125,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 332,
+   "rankingPositionChange": 1,
+   "gloryPoint": 48097,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 332,
+   "rankingPositionChange": 0,
+   "gloryPoint": 48097,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 332,
+   "rankingPositionChange": 0,
+   "gloryPoint": 48069,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 334,
+   "rankingPositionChange": -2,
+   "gloryPoint": 48041,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 335,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47985,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 336,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47957,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 334,
+   "rankingPositionChange": 2,
+   "gloryPoint": 47929,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Nanase"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

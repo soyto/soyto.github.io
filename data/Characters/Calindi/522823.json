@@ -1,1 +1,156 @@
-{"characterID":522823,"characterClassID":1,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":811,"rankingPositionChange":-1,"gloryPoint":2158,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":814,"rankingPositionChange":-3,"gloryPoint":2151,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":813,"rankingPositionChange":1,"gloryPoint":2144,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":815,"rankingPositionChange":-2,"gloryPoint":2137,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":813,"rankingPositionChange":2,"gloryPoint":2130,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":813,"rankingPositionChange":0,"gloryPoint":2123,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":811,"rankingPositionChange":2,"gloryPoint":2116,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":812,"rankingPositionChange":-1,"gloryPoint":2109,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":812,"rankingPositionChange":0,"gloryPoint":2109,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":811,"rankingPositionChange":1,"gloryPoint":2102,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":801,"rankingPositionChange":10,"gloryPoint":2088,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":801,"rankingPositionChange":0,"gloryPoint":2088,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":808,"rankingPositionChange":-7,"gloryPoint":2074,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-13T22:00:00.000Z","position":805,"rankingPositionChange":3,"gloryPoint":2067,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-14T22:00:00.000Z","position":809,"rankingPositionChange":-4,"gloryPoint":2060,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":809,"rankingPositionChange":0,"gloryPoint":2060,"gloryPointChange":0,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Garudas"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Make Your Happiness","guildID":11194}],"characterName":"Garudas","guildName":"Make Your Happiness","guildID":11194,"position":809,"rankingPositionChange":0,"gloryPoint":2060,"soldierRankID":10}
+{
+ "characterID": 522823,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 809,
+ "rankingPositionChange": 0,
+ "gloryPoint": 2060,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
+ "characterName": "Garudas",
+ "guildName": "Make Your Happiness",
+ "guildID": 11194,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 811,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2158,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2151,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 813,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2144,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 815,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2137,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 813,
+   "rankingPositionChange": 2,
+   "gloryPoint": 2130,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 813,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2123,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 811,
+   "rankingPositionChange": 2,
+   "gloryPoint": 2116,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2109,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2109,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 811,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2102,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 801,
+   "rankingPositionChange": 10,
+   "gloryPoint": 2088,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 801,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2088,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 808,
+   "rankingPositionChange": -7,
+   "gloryPoint": 2074,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 805,
+   "rankingPositionChange": 3,
+   "gloryPoint": 2067,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 809,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2060,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 809,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2060,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Garudas"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Make Your Happiness",
+   "guildID": 11194
+  }
+ ]
+}

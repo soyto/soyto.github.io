@@ -1,1 +1,40 @@
-{"characterID":396549,"characterClassID":2,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":485,"rankingPositionChange":0,"gloryPoint":10340,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-09-03T22:00:00.000Z","position":485,"rankingPositionChange":0,"gloryPoint":10312,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Cyuga"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z"}],"characterName":"Cyuga","position":485,"rankingPositionChange":0,"gloryPoint":10312,"soldierRankID":12}
+{
+ "characterID": 396549,
+ "characterClassID": 2,
+ "raceID": 1,
+ "position": 485,
+ "rankingPositionChange": 0,
+ "gloryPoint": 10312,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Cyuga",
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 485,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10340,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 485,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10312,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Cyuga"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z"
+  }
+ ]
+}

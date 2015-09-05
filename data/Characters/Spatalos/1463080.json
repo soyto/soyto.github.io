@@ -1,1 +1,88 @@
-{"characterID":1463080,"characterClassID":16,"raceID":0,"status":[{"date":"2015-08-27T22:00:00.000Z","position":947,"rankingPositionChange":0,"gloryPoint":6284,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":946,"rankingPositionChange":1,"gloryPoint":6277,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":946,"rankingPositionChange":0,"gloryPoint":6285,"gloryPointChange":8,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":949,"rankingPositionChange":-3,"gloryPoint":6278,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":955,"rankingPositionChange":-6,"gloryPoint":6260,"gloryPointChange":-18,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":958,"rankingPositionChange":-3,"gloryPoint":6253,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":961,"rankingPositionChange":-3,"gloryPoint":6246,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-27T22:00:00.000Z","characterName":"Yossi"}],"guilds":[{"date":"2015-08-27T22:00:00.000Z"},{"date":"2015-09-02T22:00:00.000Z","guildName":"Log  Horizon","guildID":22184},{"date":"2015-09-03T22:00:00.000Z"}],"characterName":"Yossi","position":961,"rankingPositionChange":-3,"gloryPoint":6246,"soldierRankID":10}
+{
+ "characterID": 1463080,
+ "characterClassID": 16,
+ "raceID": 0,
+ "position": 961,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6246,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Yossi",
+ "status": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 947,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6284,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 946,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6277,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 946,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6285,
+   "gloryPointChange": 8,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6278,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6260,
+   "gloryPointChange": -18,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 958,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6253,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6246,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "characterName": "Yossi"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-27T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "guildName": "Log  Horizon",
+   "guildID": 22184
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z"
+  }
+ ]
+}

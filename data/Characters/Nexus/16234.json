@@ -1,1 +1,64 @@
-{"characterID":16234,"characterClassID":2,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":478,"rankingPositionChange":1,"gloryPoint":28073,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":479,"rankingPositionChange":-1,"gloryPoint":28045,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":484,"rankingPositionChange":-5,"gloryPoint":28017,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":486,"rankingPositionChange":-2,"gloryPoint":27989,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":487,"rankingPositionChange":-1,"gloryPoint":27961,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Ithrael"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Ithrael","position":487,"rankingPositionChange":-1,"gloryPoint":27961,"soldierRankID":12}
+{
+ "characterID": 16234,
+ "characterClassID": 2,
+ "raceID": 1,
+ "position": 487,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27961,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Ithrael",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 478,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28073,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 479,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28045,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 484,
+   "rankingPositionChange": -5,
+   "gloryPoint": 28017,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 486,
+   "rankingPositionChange": -2,
+   "gloryPoint": 27989,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 487,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27961,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Ithrael"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

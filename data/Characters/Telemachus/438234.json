@@ -1,1 +1,52 @@
-{"characterID":438234,"characterClassID":7,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":517,"rankingPositionChange":-3,"gloryPoint":22489,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":517,"rankingPositionChange":0,"gloryPoint":22475,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":517,"rankingPositionChange":0,"gloryPoint":22461,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Elske"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Afterlife","guildID":4200}],"characterName":"Elske","guildName":"Afterlife","guildID":4200,"position":517,"rankingPositionChange":0,"gloryPoint":22461,"soldierRankID":11}
+{
+ "characterID": 438234,
+ "characterClassID": 7,
+ "raceID": 0,
+ "position": 517,
+ "rankingPositionChange": 0,
+ "gloryPoint": 22461,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Elske",
+ "guildName": "Afterlife",
+ "guildID": 4200,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": -3,
+   "gloryPoint": 22489,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": 0,
+   "gloryPoint": 22475,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": 0,
+   "gloryPoint": 22461,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Elske"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Afterlife",
+   "guildID": 4200
+  }
+ ]
+}

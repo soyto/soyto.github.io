@@ -1,1 +1,156 @@
-{"characterID":491850,"characterClassID":7,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":964,"rankingPositionChange":2,"gloryPoint":1802,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":967,"rankingPositionChange":-3,"gloryPoint":1795,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":972,"rankingPositionChange":-5,"gloryPoint":1788,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":970,"rankingPositionChange":2,"gloryPoint":1781,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":968,"rankingPositionChange":2,"gloryPoint":1774,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":981,"rankingPositionChange":-13,"gloryPoint":1767,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":982,"rankingPositionChange":-1,"gloryPoint":1760,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":985,"rankingPositionChange":-3,"gloryPoint":1753,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":985,"rankingPositionChange":0,"gloryPoint":1753,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":993,"rankingPositionChange":-8,"gloryPoint":1746,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":996,"rankingPositionChange":-3,"gloryPoint":1739,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":973,"rankingPositionChange":23,"gloryPoint":1725,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":998,"rankingPositionChange":-25,"gloryPoint":1718,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":986,"rankingPositionChange":12,"gloryPoint":1711,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":998,"rankingPositionChange":-12,"gloryPoint":1704,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":984,"rankingPositionChange":14,"gloryPoint":1697,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Indescribable"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Welcome to PvE","guildID":28416}],"characterName":"Indescribable","guildName":"Welcome to PvE","guildID":28416,"position":984,"rankingPositionChange":14,"gloryPoint":1697,"soldierRankID":10}
+{
+ "characterID": 491850,
+ "characterClassID": 7,
+ "raceID": 0,
+ "position": 984,
+ "rankingPositionChange": 14,
+ "gloryPoint": 1697,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Indescribable",
+ "guildName": "Welcome to PvE",
+ "guildID": 28416,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 964,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1802,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1795,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 972,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1788,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 970,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1781,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 968,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1774,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": -13,
+   "gloryPoint": 1767,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 982,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1760,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1753,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1753,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1746,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1739,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 973,
+   "rankingPositionChange": 23,
+   "gloryPoint": 1725,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -25,
+   "gloryPoint": 1718,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": 12,
+   "gloryPoint": 1711,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -12,
+   "gloryPoint": 1704,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": 14,
+   "gloryPoint": 1697,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Indescribable"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Welcome to PvE",
+   "guildID": 28416
+  }
+ ]
+}

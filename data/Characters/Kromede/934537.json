@@ -1,1 +1,68 @@
-{"characterID":934537,"characterClassID":14,"raceID":0,"status":[{"date":"2015-08-29T22:00:00.000Z","position":151,"rankingPositionChange":0,"gloryPoint":86062,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-30T22:00:00.000Z","position":149,"rankingPositionChange":2,"gloryPoint":86192,"gloryPointChange":130,"soldierRankID":13},{"date":"2015-09-01T22:00:00.000Z","position":150,"rankingPositionChange":-1,"gloryPoint":86215,"gloryPointChange":23,"soldierRankID":13},{"date":"2015-09-02T22:00:00.000Z","position":151,"rankingPositionChange":-1,"gloryPoint":86166,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-09-03T22:00:00.000Z","position":152,"rankingPositionChange":-1,"gloryPoint":86117,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-08-29T22:00:00.000Z","characterName":"Tedibu"}],"guilds":[{"date":"2015-08-29T22:00:00.000Z","guildName":"PARADISE","guildID":2552}],"characterName":"Tedibu","guildName":"PARADISE","guildID":2552,"position":152,"rankingPositionChange":-1,"gloryPoint":86117,"soldierRankID":13}
+{
+ "characterID": 934537,
+ "characterClassID": 14,
+ "raceID": 0,
+ "position": 152,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86117,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Tedibu",
+ "guildName": "PARADISE",
+ "guildID": 2552,
+ "status": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 151,
+   "rankingPositionChange": 0,
+   "gloryPoint": 86062,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 149,
+   "rankingPositionChange": 2,
+   "gloryPoint": 86192,
+   "gloryPointChange": 130,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86215,
+   "gloryPointChange": 23,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 151,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86166,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 152,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86117,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "characterName": "Tedibu"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "PARADISE",
+   "guildID": 2552
+  }
+ ]
+}

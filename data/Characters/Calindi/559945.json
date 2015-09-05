@@ -1,1 +1,60 @@
-{"characterID":559945,"characterClassID":16,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":277,"rankingPositionChange":1,"gloryPoint":23736,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":278,"rankingPositionChange":-1,"gloryPoint":23687,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":281,"rankingPositionChange":-3,"gloryPoint":23638,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":278,"rankingPositionChange":3,"gloryPoint":23589,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Sukiiny"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"DO YOU WANT A COOKIE","guildID":13975}],"characterName":"Sukiiny","guildName":"DO YOU WANT A COOKIE","guildID":13975,"position":278,"rankingPositionChange":3,"gloryPoint":23589,"soldierRankID":13}
+{
+ "characterID": 559945,
+ "characterClassID": 16,
+ "raceID": 0,
+ "position": 278,
+ "rankingPositionChange": 3,
+ "gloryPoint": 23589,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Sukiiny",
+ "guildName": "DO YOU WANT A COOKIE",
+ "guildID": 13975,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 277,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23736,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 278,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23687,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 281,
+   "rankingPositionChange": -3,
+   "gloryPoint": 23638,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 278,
+   "rankingPositionChange": 3,
+   "gloryPoint": 23589,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Sukiiny"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "DO YOU WANT A COOKIE",
+   "guildID": 13975
+  }
+ ]
+}

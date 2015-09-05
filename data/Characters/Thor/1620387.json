@@ -1,1 +1,40 @@
-{"characterID":1620387,"characterClassID":5,"raceID":0,"status":[{"date":"2015-09-02T22:00:00.000Z","position":690,"rankingPositionChange":0,"gloryPoint":25497,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":688,"rankingPositionChange":2,"gloryPoint":25595,"gloryPointChange":98,"soldierRankID":11}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Pickzel"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z"}],"characterName":"Pickzel","position":688,"rankingPositionChange":2,"gloryPoint":25595,"soldierRankID":11}
+{
+ "characterID": 1620387,
+ "characterClassID": 5,
+ "raceID": 0,
+ "position": 688,
+ "rankingPositionChange": 2,
+ "gloryPoint": 25595,
+ "gloryPointChange": 98,
+ "soldierRankID": 11,
+ "characterName": "Pickzel",
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 690,
+   "rankingPositionChange": 0,
+   "gloryPoint": 25497,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 688,
+   "rankingPositionChange": 2,
+   "gloryPoint": 25595,
+   "gloryPointChange": 98,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Pickzel"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z"
+  }
+ ]
+}

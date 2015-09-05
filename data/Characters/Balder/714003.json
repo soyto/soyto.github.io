@@ -1,1 +1,60 @@
-{"characterID":714003,"characterClassID":1,"raceID":0,"status":[{"date":"2015-08-19T22:00:00.000Z","position":995,"rankingPositionChange":0,"gloryPoint":1728,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":993,"rankingPositionChange":2,"gloryPoint":1721,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":993,"rankingPositionChange":0,"gloryPoint":1714,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":984,"rankingPositionChange":9,"gloryPoint":1707,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-19T22:00:00.000Z","characterName":"Marrataruk"}],"guilds":[{"date":"2015-08-19T22:00:00.000Z","guildName":"Black Knights","guildID":26516}],"characterName":"Marrataruk","guildName":"Black Knights","guildID":26516,"position":984,"rankingPositionChange":9,"gloryPoint":1707,"soldierRankID":10}
+{
+ "characterID": 714003,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 984,
+ "rankingPositionChange": 9,
+ "gloryPoint": 1707,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Marrataruk",
+ "guildName": "Black Knights",
+ "guildID": 26516,
+ "status": [
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1728,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1721,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1714,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": 9,
+   "gloryPoint": 1707,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "characterName": "Marrataruk"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "guildName": "Black Knights",
+   "guildID": 26516
+  }
+ ]
+}

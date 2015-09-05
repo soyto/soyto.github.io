@@ -1,1 +1,52 @@
-{"characterID":579787,"characterClassID":16,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":271,"rankingPositionChange":0,"gloryPoint":1464,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":236,"rankingPositionChange":35,"gloryPoint":2059,"gloryPointChange":595,"soldierRankID":12},{"date":"2015-09-03T22:00:00.000Z","position":230,"rankingPositionChange":6,"gloryPoint":2334,"gloryPointChange":275,"soldierRankID":12}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Melofeee"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"The Valley Of Death","guildID":15425}],"characterName":"Melofeee","guildName":"The Valley Of Death","guildID":15425,"position":230,"rankingPositionChange":6,"gloryPoint":2334,"soldierRankID":12}
+{
+ "characterID": 579787,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 230,
+ "rankingPositionChange": 6,
+ "gloryPoint": 2334,
+ "gloryPointChange": 275,
+ "soldierRankID": 12,
+ "characterName": "Melofeee",
+ "guildName": "The Valley Of Death",
+ "guildID": 15425,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 271,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1464,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 236,
+   "rankingPositionChange": 35,
+   "gloryPoint": 2059,
+   "gloryPointChange": 595,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 230,
+   "rankingPositionChange": 6,
+   "gloryPoint": 2334,
+   "gloryPointChange": 275,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Melofeee"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "The Valley Of Death",
+   "guildID": 15425
+  }
+ ]
+}

@@ -1,1 +1,76 @@
-{"characterID":235117,"characterClassID":10,"raceID":1,"status":[{"date":"2015-08-28T22:00:00.000Z","position":989,"rankingPositionChange":0,"gloryPoint":2899,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":956,"rankingPositionChange":33,"gloryPoint":3148,"gloryPointChange":249,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":950,"rankingPositionChange":6,"gloryPoint":3236,"gloryPointChange":88,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":939,"rankingPositionChange":11,"gloryPoint":3376,"gloryPointChange":140,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":936,"rankingPositionChange":3,"gloryPoint":3475,"gloryPointChange":99,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":929,"rankingPositionChange":7,"gloryPoint":3629,"gloryPointChange":154,"soldierRankID":10}],"names":[{"date":"2015-08-28T22:00:00.000Z","characterName":"Whiskyy"}],"guilds":[{"date":"2015-08-28T22:00:00.000Z","guildName":"I Caduti","guildID":4332}],"characterName":"Whiskyy","guildName":"I Caduti","guildID":4332,"position":929,"rankingPositionChange":7,"gloryPoint":3629,"soldierRankID":10}
+{
+ "characterID": 235117,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 929,
+ "rankingPositionChange": 7,
+ "gloryPoint": 3629,
+ "gloryPointChange": 154,
+ "soldierRankID": 10,
+ "characterName": "Whiskyy",
+ "guildName": "I Caduti",
+ "guildID": 4332,
+ "status": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2899,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 956,
+   "rankingPositionChange": 33,
+   "gloryPoint": 3148,
+   "gloryPointChange": 249,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 950,
+   "rankingPositionChange": 6,
+   "gloryPoint": 3236,
+   "gloryPointChange": 88,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 939,
+   "rankingPositionChange": 11,
+   "gloryPoint": 3376,
+   "gloryPointChange": 140,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 936,
+   "rankingPositionChange": 3,
+   "gloryPoint": 3475,
+   "gloryPointChange": 99,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 929,
+   "rankingPositionChange": 7,
+   "gloryPoint": 3629,
+   "gloryPointChange": 154,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "characterName": "Whiskyy"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "guildName": "I Caduti",
+   "guildID": 4332
+  }
+ ]
+}

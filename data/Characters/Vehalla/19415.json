@@ -1,1 +1,52 @@
-{"characterID":19415,"characterClassID":11,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":669,"rankingPositionChange":0,"gloryPoint":1336,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":621,"rankingPositionChange":48,"gloryPoint":1532,"gloryPointChange":196,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":587,"rankingPositionChange":34,"gloryPoint":1918,"gloryPointChange":386,"soldierRankID":11}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Lightningstrike"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Grumpy Cats","guildID":9916}],"characterName":"Lightningstrike","guildName":"Grumpy Cats","guildID":9916,"position":587,"rankingPositionChange":34,"gloryPoint":1918,"soldierRankID":11}
+{
+ "characterID": 19415,
+ "characterClassID": 11,
+ "raceID": 0,
+ "position": 587,
+ "rankingPositionChange": 34,
+ "gloryPoint": 1918,
+ "gloryPointChange": 386,
+ "soldierRankID": 11,
+ "characterName": "Lightningstrike",
+ "guildName": "Grumpy Cats",
+ "guildID": 9916,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 669,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1336,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": 48,
+   "gloryPoint": 1532,
+   "gloryPointChange": 196,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 587,
+   "rankingPositionChange": 34,
+   "gloryPoint": 1918,
+   "gloryPointChange": 386,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Lightningstrike"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Grumpy Cats",
+   "guildID": 9916
+  }
+ ]
+}

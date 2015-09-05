@@ -1,1 +1,52 @@
-{"characterID":134040,"characterClassID":8,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":621,"rankingPositionChange":-2,"gloryPoint":9993,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":622,"rankingPositionChange":-1,"gloryPoint":9979,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":620,"rankingPositionChange":2,"gloryPoint":9965,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Kisamalboraa"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Cracklab","guildID":2366}],"characterName":"Kisamalboraa","guildName":"Cracklab","guildID":2366,"position":620,"rankingPositionChange":2,"gloryPoint":9965,"soldierRankID":11}
+{
+ "characterID": 134040,
+ "characterClassID": 8,
+ "raceID": 0,
+ "position": 620,
+ "rankingPositionChange": 2,
+ "gloryPoint": 9965,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Kisamalboraa",
+ "guildName": "Cracklab",
+ "guildID": 2366,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9993,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 622,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9979,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 620,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9965,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Kisamalboraa"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Cracklab",
+   "guildID": 2366
+  }
+ ]
+}

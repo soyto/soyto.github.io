@@ -1,1 +1,52 @@
-{"characterID":579411,"characterClassID":13,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":846,"rankingPositionChange":0,"gloryPoint":1609,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":851,"rankingPositionChange":-5,"gloryPoint":1605,"gloryPointChange":-4,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":853,"rankingPositionChange":-2,"gloryPoint":1598,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Rexona"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"le bistrot de calindi","guildID":16069}],"characterName":"Rexona","guildName":"le bistrot de calindi","guildID":16069,"position":853,"rankingPositionChange":-2,"gloryPoint":1598,"soldierRankID":10}
+{
+ "characterID": 579411,
+ "characterClassID": 13,
+ "raceID": 0,
+ "position": 853,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1598,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Rexona",
+ "guildName": "le bistrot de calindi",
+ "guildID": 16069,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1609,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1605,
+   "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 853,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1598,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Rexona"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "le bistrot de calindi",
+   "guildID": 16069
+  }
+ ]
+}

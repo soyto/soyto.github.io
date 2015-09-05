@@ -1,1 +1,76 @@
-{"characterID":391210,"characterClassID":11,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":93,"rankingPositionChange":0,"gloryPoint":17435,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-01T22:00:00.000Z","position":93,"rankingPositionChange":0,"gloryPoint":17328,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-02T22:00:00.000Z","position":93,"rankingPositionChange":0,"gloryPoint":17221,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-03T22:00:00.000Z","position":94,"rankingPositionChange":-1,"gloryPoint":17114,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-04T22:00:00.000Z","position":92,"rankingPositionChange":2,"gloryPoint":17007,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-05T22:00:00.000Z","position":94,"rankingPositionChange":-2,"gloryPoint":16900,"gloryPointChange":-107,"soldierRankID":14}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Kalytha"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Go me PL","guildID":15598}],"characterName":"Kalytha","guildName":"Go me PL","guildID":15598,"position":94,"rankingPositionChange":-2,"gloryPoint":16900,"soldierRankID":14}
+{
+ "characterID": 391210,
+ "characterClassID": 11,
+ "raceID": 1,
+ "position": 94,
+ "rankingPositionChange": -2,
+ "gloryPoint": 16900,
+ "gloryPointChange": -107,
+ "soldierRankID": 14,
+ "characterName": "Kalytha",
+ "guildName": "Go me PL",
+ "guildID": 15598,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17435,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17328,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17221,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 94,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17114,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": 2,
+   "gloryPoint": 17007,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 94,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16900,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Kalytha"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Go me PL",
+   "guildID": 15598
+  }
+ ]
+}

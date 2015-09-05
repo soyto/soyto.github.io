@@ -1,1 +1,252 @@
-{"characterID":708003,"characterClassID":10,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":305,"rankingPositionChange":-3,"gloryPoint":32170,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":306,"rankingPositionChange":-1,"gloryPoint":32142,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":306,"rankingPositionChange":0,"gloryPoint":32114,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":304,"rankingPositionChange":2,"gloryPoint":32086,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":306,"rankingPositionChange":-2,"gloryPoint":32058,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":307,"rankingPositionChange":-1,"gloryPoint":32030,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":307,"rankingPositionChange":0,"gloryPoint":32002,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":307,"rankingPositionChange":0,"gloryPoint":31974,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":307,"rankingPositionChange":0,"gloryPoint":31974,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":305,"rankingPositionChange":2,"gloryPoint":31946,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":308,"rankingPositionChange":-3,"gloryPoint":31890,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":308,"rankingPositionChange":0,"gloryPoint":31890,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-12T22:00:00.000Z","position":309,"rankingPositionChange":-1,"gloryPoint":31834,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-13T22:00:00.000Z","position":311,"rankingPositionChange":-2,"gloryPoint":31806,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-14T22:00:00.000Z","position":311,"rankingPositionChange":0,"gloryPoint":31778,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-15T22:00:00.000Z","position":311,"rankingPositionChange":0,"gloryPoint":31778,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-16T22:00:00.000Z","position":312,"rankingPositionChange":-1,"gloryPoint":31750,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-17T22:00:00.000Z","position":314,"rankingPositionChange":-2,"gloryPoint":31722,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-18T22:00:00.000Z","position":311,"rankingPositionChange":3,"gloryPoint":31666,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-19T22:00:00.000Z","position":311,"rankingPositionChange":0,"gloryPoint":31638,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-20T22:00:00.000Z","position":313,"rankingPositionChange":-2,"gloryPoint":31610,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-21T22:00:00.000Z","position":313,"rankingPositionChange":0,"gloryPoint":31582,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-22T22:00:00.000Z","position":312,"rankingPositionChange":1,"gloryPoint":31554,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-23T22:00:00.000Z","position":314,"rankingPositionChange":-2,"gloryPoint":31526,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-25T22:00:00.000Z","position":313,"rankingPositionChange":1,"gloryPoint":31470,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-26T22:00:00.000Z","position":315,"rankingPositionChange":-2,"gloryPoint":31414,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-27T22:00:00.000Z","position":316,"rankingPositionChange":-1,"gloryPoint":31386,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-28T22:00:00.000Z","position":315,"rankingPositionChange":1,"gloryPoint":31358,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Jolina"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"SchizoFriends","guildID":18901}],"characterName":"Jolina","guildName":"SchizoFriends","guildID":18901,"position":315,"rankingPositionChange":1,"gloryPoint":31358,"soldierRankID":12}
+{
+ "characterID": 708003,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 315,
+ "rankingPositionChange": 1,
+ "gloryPoint": 31358,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Jolina",
+ "guildName": "SchizoFriends",
+ "guildID": 18901,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": -3,
+   "gloryPoint": 32170,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 306,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32142,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 306,
+   "rankingPositionChange": 0,
+   "gloryPoint": 32114,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 304,
+   "rankingPositionChange": 2,
+   "gloryPoint": 32086,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 306,
+   "rankingPositionChange": -2,
+   "gloryPoint": 32058,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32030,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": 0,
+   "gloryPoint": 32002,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": 0,
+   "gloryPoint": 31974,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": 0,
+   "gloryPoint": 31974,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": 2,
+   "gloryPoint": 31946,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 308,
+   "rankingPositionChange": -3,
+   "gloryPoint": 31890,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 308,
+   "rankingPositionChange": 0,
+   "gloryPoint": 31890,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 309,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31834,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31806,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": 0,
+   "gloryPoint": 31778,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": 0,
+   "gloryPoint": 31778,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 312,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31750,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 314,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31722,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": 3,
+   "gloryPoint": 31666,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": 0,
+   "gloryPoint": 31638,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 313,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31610,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 313,
+   "rankingPositionChange": 0,
+   "gloryPoint": 31582,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 312,
+   "rankingPositionChange": 1,
+   "gloryPoint": 31554,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 314,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31526,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 313,
+   "rankingPositionChange": 1,
+   "gloryPoint": 31470,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 315,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31414,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31386,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 315,
+   "rankingPositionChange": 1,
+   "gloryPoint": 31358,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Jolina"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "SchizoFriends",
+   "guildID": 18901
+  }
+ ]
+}

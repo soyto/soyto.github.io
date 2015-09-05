@@ -1,1 +1,249 @@
-{"characterID":1320561,"characterClassID":10,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":990,"rankingPositionChange":-3,"gloryPoint":5675,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":990,"rankingPositionChange":0,"gloryPoint":5688,"gloryPointChange":13,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":988,"rankingPositionChange":2,"gloryPoint":5681,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":988,"rankingPositionChange":0,"gloryPoint":5674,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":990,"rankingPositionChange":-2,"gloryPoint":5667,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":994,"rankingPositionChange":-4,"gloryPoint":5660,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":992,"rankingPositionChange":2,"gloryPoint":5653,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":991,"rankingPositionChange":1,"gloryPoint":5646,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":991,"rankingPositionChange":0,"gloryPoint":5646,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":992,"rankingPositionChange":-1,"gloryPoint":5639,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":995,"rankingPositionChange":-3,"gloryPoint":5625,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":995,"rankingPositionChange":0,"gloryPoint":5625,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":999,"rankingPositionChange":-4,"gloryPoint":5611,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-14T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":5604,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":5604,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":997,"rankingPositionChange":2,"gloryPoint":5607,"gloryPointChange":3,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":996,"rankingPositionChange":1,"gloryPoint":5593,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":995,"rankingPositionChange":1,"gloryPoint":5586,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":995,"rankingPositionChange":0,"gloryPoint":5599,"gloryPointChange":13,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":990,"rankingPositionChange":5,"gloryPoint":5605,"gloryPointChange":6,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":991,"rankingPositionChange":-1,"gloryPoint":5591,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":991,"rankingPositionChange":0,"gloryPoint":5584,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":991,"rankingPositionChange":0,"gloryPoint":5577,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":993,"rankingPositionChange":-2,"gloryPoint":5620,"gloryPointChange":43,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":991,"rankingPositionChange":2,"gloryPoint":5673,"gloryPointChange":53,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":997,"rankingPositionChange":-6,"gloryPoint":5712,"gloryPointChange":39,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":1000,"rankingPositionChange":-3,"gloryPoint":5705,"gloryPointChange":-7,"soldierRankID":0}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Annetka"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"SKY WAR","guildID":29007},{"date":"2015-08-21T22:00:00.000Z","guildName":"Honor Of Elyos","guildID":29954}],"characterName":"Annetka","guildName":"Honor Of Elyos","guildID":29954,"position":1000,"rankingPositionChange":-3,"gloryPoint":5705,"soldierRankID":0}
+{
+ "characterID": 1320561,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 1000,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5705,
+ "gloryPointChange": -7,
+ "soldierRankID": 0,
+ "characterName": "Annetka",
+ "guildName": "Honor Of Elyos",
+ "guildID": 29954,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5675,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5688,
+   "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 2,
+   "gloryPoint": 5681,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5674,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5667,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5660,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": 2,
+   "gloryPoint": 5653,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5646,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5646,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5639,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5625,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5625,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5611,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5604,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5604,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 2,
+   "gloryPoint": 5607,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5593,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5586,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5599,
+   "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 5,
+   "gloryPoint": 5605,
+   "gloryPointChange": 6,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5591,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5584,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5577,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5620,
+   "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": 2,
+   "gloryPoint": 5673,
+   "gloryPointChange": 53,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": -6,
+   "gloryPoint": 5712,
+   "gloryPointChange": 39,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5705,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Annetka"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "SKY WAR",
+   "guildID": 29007
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "guildName": "Honor Of Elyos",
+   "guildID": 29954
+  }
+ ]
+}

@@ -1,1 +1,56 @@
-{"characterID":489215,"characterClassID":11,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":349,"rankingPositionChange":0,"gloryPoint":7152,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":349,"rankingPositionChange":0,"gloryPoint":7124,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":352,"rankingPositionChange":-3,"gloryPoint":7096,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":352,"rankingPositionChange":0,"gloryPoint":7068,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Feeginia"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Feeginia","position":352,"rankingPositionChange":0,"gloryPoint":7068,"soldierRankID":12}
+{
+ "characterID": 489215,
+ "characterClassID": 11,
+ "raceID": 0,
+ "position": 352,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7068,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Feeginia",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 349,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7152,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 349,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7124,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 352,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7096,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 352,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7068,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Feeginia"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

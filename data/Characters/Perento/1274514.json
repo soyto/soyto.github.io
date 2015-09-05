@@ -1,1 +1,44 @@
-{"characterID":1274514,"characterClassID":4,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":946,"rankingPositionChange":0,"gloryPoint":1730,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":887,"rankingPositionChange":59,"gloryPoint":2033,"gloryPointChange":303,"soldierRankID":10}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Deuzblack"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z","guildName":"Chaos Daeva","guildID":28480}],"characterName":"Deuzblack","guildName":"Chaos Daeva","guildID":28480,"position":887,"rankingPositionChange":59,"gloryPoint":2033,"soldierRankID":10}
+{
+ "characterID": 1274514,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 887,
+ "rankingPositionChange": 59,
+ "gloryPoint": 2033,
+ "gloryPointChange": 303,
+ "soldierRankID": 10,
+ "characterName": "Deuzblack",
+ "guildName": "Chaos Daeva",
+ "guildID": 28480,
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 946,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1730,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 887,
+   "rankingPositionChange": 59,
+   "gloryPoint": 2033,
+   "gloryPointChange": 303,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Deuzblack"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "guildName": "Chaos Daeva",
+   "guildID": 28480
+  }
+ ]
+}

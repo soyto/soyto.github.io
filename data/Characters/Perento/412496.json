@@ -1,1 +1,56 @@
-{"characterID":412496,"characterClassID":10,"raceID":0,"status":[{"date":"2015-08-30T22:00:00.000Z","position":555,"rankingPositionChange":0,"gloryPoint":16781,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":557,"rankingPositionChange":-2,"gloryPoint":16739,"gloryPointChange":-42,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":555,"rankingPositionChange":2,"gloryPoint":16725,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":558,"rankingPositionChange":-3,"gloryPoint":16711,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Anemona"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z"}],"characterName":"Anemona","position":558,"rankingPositionChange":-3,"gloryPoint":16711,"soldierRankID":11}
+{
+ "characterID": 412496,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 558,
+ "rankingPositionChange": -3,
+ "gloryPoint": 16711,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Anemona",
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 555,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16781,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 557,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16739,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 555,
+   "rankingPositionChange": 2,
+   "gloryPoint": 16725,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 558,
+   "rankingPositionChange": -3,
+   "gloryPoint": 16711,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Anemona"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z"
+  }
+ ]
+}

@@ -1,1 +1,40 @@
-{"characterID":1577876,"characterClassID":11,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":876,"rankingPositionChange":0,"gloryPoint":13028,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":870,"rankingPositionChange":6,"gloryPoint":13233,"gloryPointChange":205,"soldierRankID":10}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Yakuuuui"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z"}],"characterName":"Yakuuuui","position":870,"rankingPositionChange":6,"gloryPoint":13233,"soldierRankID":10}
+{
+ "characterID": 1577876,
+ "characterClassID": 11,
+ "raceID": 1,
+ "position": 870,
+ "rankingPositionChange": 6,
+ "gloryPoint": 13233,
+ "gloryPointChange": 205,
+ "soldierRankID": 10,
+ "characterName": "Yakuuuui",
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 876,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13028,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 870,
+   "rankingPositionChange": 6,
+   "gloryPoint": 13233,
+   "gloryPointChange": 205,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Yakuuuui"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z"
+  }
+ ]
+}

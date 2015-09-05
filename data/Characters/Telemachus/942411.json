@@ -1,1 +1,52 @@
-{"characterID":942411,"characterClassID":4,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":983,"rankingPositionChange":0,"gloryPoint":5256,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":967,"rankingPositionChange":16,"gloryPoint":5508,"gloryPointChange":252,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":969,"rankingPositionChange":-2,"gloryPoint":5611,"gloryPointChange":103,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Nazyr"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Pendulum","guildID":6998}],"characterName":"Nazyr","guildName":"Pendulum","guildID":6998,"position":969,"rankingPositionChange":-2,"gloryPoint":5611,"soldierRankID":10}
+{
+ "characterID": 942411,
+ "characterClassID": 4,
+ "raceID": 0,
+ "position": 969,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5611,
+ "gloryPointChange": 103,
+ "soldierRankID": 10,
+ "characterName": "Nazyr",
+ "guildName": "Pendulum",
+ "guildID": 6998,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5256,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": 16,
+   "gloryPoint": 5508,
+   "gloryPointChange": 252,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5611,
+   "gloryPointChange": 103,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Nazyr"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Pendulum",
+   "guildID": 6998
+  }
+ ]
+}

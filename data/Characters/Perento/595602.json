@@ -1,1 +1,68 @@
-{"characterID":595602,"characterClassID":10,"raceID":1,"status":[{"date":"2015-08-27T22:00:00.000Z","position":979,"rankingPositionChange":0,"gloryPoint":1545,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":986,"rankingPositionChange":-7,"gloryPoint":1538,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":988,"rankingPositionChange":-2,"gloryPoint":1531,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":990,"rankingPositionChange":-2,"gloryPoint":1524,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":997,"rankingPositionChange":-7,"gloryPoint":1510,"gloryPointChange":-14,"soldierRankID":10}],"names":[{"date":"2015-08-27T22:00:00.000Z","characterName":"Zennna"}],"guilds":[{"date":"2015-08-27T22:00:00.000Z","guildName":"JustForFun","guildID":9694}],"characterName":"Zennna","guildName":"JustForFun","guildID":9694,"position":997,"rankingPositionChange":-7,"gloryPoint":1510,"soldierRankID":10}
+{
+ "characterID": 595602,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 997,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1510,
+ "gloryPointChange": -14,
+ "soldierRankID": 10,
+ "characterName": "Zennna",
+ "guildName": "JustForFun",
+ "guildID": 9694,
+ "status": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 979,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1545,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1538,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1531,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1524,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1510,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "characterName": "Zennna"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "guildName": "JustForFun",
+   "guildID": 9694
+  }
+ ]
+}

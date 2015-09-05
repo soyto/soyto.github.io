@@ -1,1 +1,52 @@
-{"characterID":1743783,"characterClassID":4,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":993,"rankingPositionChange":-1,"gloryPoint":9901,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":981,"rankingPositionChange":12,"gloryPoint":10200,"gloryPointChange":299,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":965,"rankingPositionChange":16,"gloryPoint":10666,"gloryPointChange":466,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Skycx"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Karamellisierte Pinguine","guildID":30013}],"characterName":"Skycx","guildName":"Karamellisierte Pinguine","guildID":30013,"position":965,"rankingPositionChange":16,"gloryPoint":10666,"soldierRankID":10}
+{
+ "characterID": 1743783,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 965,
+ "rankingPositionChange": 16,
+ "gloryPoint": 10666,
+ "gloryPointChange": 466,
+ "soldierRankID": 10,
+ "characterName": "Skycx",
+ "guildName": "Karamellisierte Pinguine",
+ "guildID": 30013,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9901,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": 12,
+   "gloryPoint": 10200,
+   "gloryPointChange": 299,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 965,
+   "rankingPositionChange": 16,
+   "gloryPoint": 10666,
+   "gloryPointChange": 466,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Skycx"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Karamellisierte Pinguine",
+   "guildID": 30013
+  }
+ ]
+}

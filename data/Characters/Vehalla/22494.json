@@ -1,1 +1,68 @@
-{"characterID":22494,"characterClassID":7,"raceID":0,"status":[{"date":"2015-08-29T22:00:00.000Z","position":675,"rankingPositionChange":0,"gloryPoint":1341,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":681,"rankingPositionChange":-6,"gloryPoint":1334,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":641,"rankingPositionChange":40,"gloryPoint":1431,"gloryPointChange":97,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":644,"rankingPositionChange":-3,"gloryPoint":1417,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":652,"rankingPositionChange":-8,"gloryPoint":1403,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-08-29T22:00:00.000Z","characterName":"Melaer"}],"guilds":[{"date":"2015-08-29T22:00:00.000Z","guildName":"Defenders of light","guildID":6459}],"characterName":"Melaer","guildName":"Defenders of light","guildID":6459,"position":652,"rankingPositionChange":-8,"gloryPoint":1403,"soldierRankID":11}
+{
+ "characterID": 22494,
+ "characterClassID": 7,
+ "raceID": 0,
+ "position": 652,
+ "rankingPositionChange": -8,
+ "gloryPoint": 1403,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Melaer",
+ "guildName": "Defenders of light",
+ "guildID": 6459,
+ "status": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 675,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1341,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 681,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1334,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": 40,
+   "gloryPoint": 1431,
+   "gloryPointChange": 97,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 644,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1417,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 652,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1403,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "characterName": "Melaer"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "Defenders of light",
+   "guildID": 6459
+  }
+ ]
+}

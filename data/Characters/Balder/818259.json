@@ -1,1 +1,84 @@
-{"characterID":818259,"characterClassID":14,"raceID":0,"status":[{"date":"2015-08-27T22:00:00.000Z","position":121,"rankingPositionChange":0,"gloryPoint":72404,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-28T22:00:00.000Z","position":121,"rankingPositionChange":0,"gloryPoint":72355,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-29T22:00:00.000Z","position":121,"rankingPositionChange":0,"gloryPoint":72306,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-30T22:00:00.000Z","position":121,"rankingPositionChange":0,"gloryPoint":72257,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-09-01T22:00:00.000Z","position":122,"rankingPositionChange":-1,"gloryPoint":72110,"gloryPointChange":-147,"soldierRankID":13},{"date":"2015-09-02T22:00:00.000Z","position":123,"rankingPositionChange":-1,"gloryPoint":72061,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-09-03T22:00:00.000Z","position":123,"rankingPositionChange":0,"gloryPoint":72012,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-08-27T22:00:00.000Z","characterName":"Alukat"}],"guilds":[{"date":"2015-08-27T22:00:00.000Z","guildName":"NoGameNoLife","guildID":18489}],"characterName":"Alukat","guildName":"NoGameNoLife","guildID":18489,"position":123,"rankingPositionChange":0,"gloryPoint":72012,"soldierRankID":13}
+{
+ "characterID": 818259,
+ "characterClassID": 14,
+ "raceID": 0,
+ "position": 123,
+ "rankingPositionChange": 0,
+ "gloryPoint": 72012,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Alukat",
+ "guildName": "NoGameNoLife",
+ "guildID": 18489,
+ "status": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": 0,
+   "gloryPoint": 72404,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": 0,
+   "gloryPoint": 72355,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": 0,
+   "gloryPoint": 72306,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": 0,
+   "gloryPoint": 72257,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 122,
+   "rankingPositionChange": -1,
+   "gloryPoint": 72110,
+   "gloryPointChange": -147,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 123,
+   "rankingPositionChange": -1,
+   "gloryPoint": 72061,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 123,
+   "rankingPositionChange": 0,
+   "gloryPoint": 72012,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "characterName": "Alukat"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "guildName": "NoGameNoLife",
+   "guildID": 18489
+  }
+ ]
+}

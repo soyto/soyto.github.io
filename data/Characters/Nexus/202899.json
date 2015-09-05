@@ -1,1 +1,76 @@
-{"characterID":202899,"characterClassID":10,"raceID":0,"status":[{"date":"2015-08-28T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":4396,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":1000,"rankingPositionChange":-1,"gloryPoint":4389,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-08-30T22:00:00.000Z","position":988,"rankingPositionChange":12,"gloryPoint":4425,"gloryPointChange":36,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":990,"rankingPositionChange":-2,"gloryPoint":4404,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":988,"rankingPositionChange":2,"gloryPoint":4397,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":978,"rankingPositionChange":10,"gloryPoint":4479,"gloryPointChange":82,"soldierRankID":10}],"names":[{"date":"2015-08-28T22:00:00.000Z","characterName":"Mufa"}],"guilds":[{"date":"2015-08-28T22:00:00.000Z","guildName":"Monster Energy","guildID":3569}],"characterName":"Mufa","guildName":"Monster Energy","guildID":3569,"position":978,"rankingPositionChange":10,"gloryPoint":4479,"soldierRankID":10}
+{
+ "characterID": 202899,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 978,
+ "rankingPositionChange": 10,
+ "gloryPoint": 4479,
+ "gloryPointChange": 82,
+ "soldierRankID": 10,
+ "characterName": "Mufa",
+ "guildName": "Monster Energy",
+ "guildID": 3569,
+ "status": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4396,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4389,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 12,
+   "gloryPoint": 4425,
+   "gloryPointChange": 36,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4404,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 2,
+   "gloryPoint": 4397,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": 10,
+   "gloryPoint": 4479,
+   "gloryPointChange": 82,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "characterName": "Mufa"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "guildName": "Monster Energy",
+   "guildID": 3569
+  }
+ ]
+}

@@ -1,1 +1,40 @@
-{"characterID":794528,"characterClassID":10,"raceID":0,"status":[{"date":"2015-09-02T22:00:00.000Z","position":400,"rankingPositionChange":0,"gloryPoint":12608,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-09-03T22:00:00.000Z","position":401,"rankingPositionChange":-1,"gloryPoint":12580,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Ladycute"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z"}],"characterName":"Ladycute","position":401,"rankingPositionChange":-1,"gloryPoint":12580,"soldierRankID":12}
+{
+ "characterID": 794528,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 401,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12580,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Ladycute",
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 400,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12608,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12580,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Ladycute"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z"
+  }
+ ]
+}

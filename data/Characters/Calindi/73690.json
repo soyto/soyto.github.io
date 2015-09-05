@@ -1,1 +1,68 @@
-{"characterID":73690,"characterClassID":2,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":81,"rankingPositionChange":1,"gloryPoint":100578,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-01T22:00:00.000Z","position":82,"rankingPositionChange":-1,"gloryPoint":100471,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-02T22:00:00.000Z","position":82,"rankingPositionChange":0,"gloryPoint":100364,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-03T22:00:00.000Z","position":81,"rankingPositionChange":1,"gloryPoint":100257,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-04T22:00:00.000Z","position":81,"rankingPositionChange":0,"gloryPoint":100150,"gloryPointChange":-107,"soldierRankID":14}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Gouz"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Il Les Maitres Zen lI","guildID":2697}],"characterName":"Gouz","guildName":"Il Les Maitres Zen lI","guildID":2697,"position":81,"rankingPositionChange":0,"gloryPoint":100150,"soldierRankID":14}
+{
+ "characterID": 73690,
+ "characterClassID": 2,
+ "raceID": 0,
+ "position": 81,
+ "rankingPositionChange": 0,
+ "gloryPoint": 100150,
+ "gloryPointChange": -107,
+ "soldierRankID": 14,
+ "characterName": "Gouz",
+ "guildName": "Il Les Maitres Zen lI",
+ "guildID": 2697,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 81,
+   "rankingPositionChange": 1,
+   "gloryPoint": 100578,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 82,
+   "rankingPositionChange": -1,
+   "gloryPoint": 100471,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 82,
+   "rankingPositionChange": 0,
+   "gloryPoint": 100364,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 81,
+   "rankingPositionChange": 1,
+   "gloryPoint": 100257,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 81,
+   "rankingPositionChange": 0,
+   "gloryPoint": 100150,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Gouz"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Il Les Maitres Zen lI",
+   "guildID": 2697
+  }
+ ]
+}

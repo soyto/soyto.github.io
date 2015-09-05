@@ -1,1 +1,60 @@
-{"characterID":40304,"characterClassID":1,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":577,"rankingPositionChange":0,"gloryPoint":13275,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":578,"rankingPositionChange":-1,"gloryPoint":13261,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":578,"rankingPositionChange":0,"gloryPoint":13247,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":578,"rankingPositionChange":0,"gloryPoint":13233,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Nixo"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Octopussy cz sk","guildID":7259}],"characterName":"Nixo","guildName":"Octopussy cz sk","guildID":7259,"position":578,"rankingPositionChange":0,"gloryPoint":13233,"soldierRankID":11}
+{
+ "characterID": 40304,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 578,
+ "rankingPositionChange": 0,
+ "gloryPoint": 13233,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Nixo",
+ "guildName": "Octopussy cz sk",
+ "guildID": 7259,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 577,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13275,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 578,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13261,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 578,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13247,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 578,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13233,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Nixo"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Octopussy cz sk",
+   "guildID": 7259
+  }
+ ]
+}

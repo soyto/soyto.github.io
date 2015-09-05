@@ -1,1 +1,136 @@
-{"characterID":1141506,"characterClassID":16,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":987,"rankingPositionChange":4,"gloryPoint":6433,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":989,"rankingPositionChange":-2,"gloryPoint":6426,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":994,"rankingPositionChange":-5,"gloryPoint":6419,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":994,"rankingPositionChange":0,"gloryPoint":6412,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":999,"rankingPositionChange":-5,"gloryPoint":6405,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":980,"rankingPositionChange":19,"gloryPoint":6861,"gloryPointChange":456,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":985,"rankingPositionChange":-5,"gloryPoint":6847,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":984,"rankingPositionChange":1,"gloryPoint":6846,"gloryPointChange":-1,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":972,"rankingPositionChange":12,"gloryPoint":6967,"gloryPointChange":121,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":976,"rankingPositionChange":-4,"gloryPoint":6960,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":975,"rankingPositionChange":1,"gloryPoint":6953,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":965,"rankingPositionChange":10,"gloryPoint":7269,"gloryPointChange":316,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":957,"rankingPositionChange":8,"gloryPoint":7288,"gloryPointChange":19,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":955,"rankingPositionChange":2,"gloryPoint":7373,"gloryPointChange":85,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Erragoonne"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Erragoonne","position":955,"rankingPositionChange":2,"gloryPoint":7373,"soldierRankID":10}
+{
+ "characterID": 1141506,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 955,
+ "rankingPositionChange": 2,
+ "gloryPoint": 7373,
+ "gloryPointChange": 85,
+ "soldierRankID": 10,
+ "characterName": "Erragoonne",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 987,
+   "rankingPositionChange": 4,
+   "gloryPoint": 6433,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6426,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6419,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6412,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6405,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": 19,
+   "gloryPoint": 6861,
+   "gloryPointChange": 456,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6847,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6846,
+   "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 972,
+   "rankingPositionChange": 12,
+   "gloryPoint": 6967,
+   "gloryPointChange": 121,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 976,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6960,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6953,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 965,
+   "rankingPositionChange": 10,
+   "gloryPoint": 7269,
+   "gloryPointChange": 316,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 957,
+   "rankingPositionChange": 8,
+   "gloryPoint": 7288,
+   "gloryPointChange": 19,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": 2,
+   "gloryPoint": 7373,
+   "gloryPointChange": 85,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Erragoonne"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

@@ -1,1 +1,60 @@
-{"characterID":512578,"characterClassID":4,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":934,"rankingPositionChange":-2,"gloryPoint":9772,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":938,"rankingPositionChange":-4,"gloryPoint":9765,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":942,"rankingPositionChange":-4,"gloryPoint":9758,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":942,"rankingPositionChange":0,"gloryPoint":9751,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Favakor"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":" Nice Day To Die ","guildID":4948}],"characterName":"Favakor","guildName":" Nice Day To Die ","guildID":4948,"position":942,"rankingPositionChange":0,"gloryPoint":9751,"soldierRankID":10}
+{
+ "characterID": 512578,
+ "characterClassID": 4,
+ "raceID": 0,
+ "position": 942,
+ "rankingPositionChange": 0,
+ "gloryPoint": 9751,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Favakor",
+ "guildName": " Nice Day To Die ",
+ "guildID": 4948,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 934,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9772,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 938,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9765,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9758,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9751,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Favakor"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": " Nice Day To Die ",
+   "guildID": 4948
+  }
+ ]
+}

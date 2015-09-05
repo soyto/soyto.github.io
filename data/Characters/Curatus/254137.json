@@ -1,1 +1,148 @@
-{"characterID":254137,"characterClassID":4,"raceID":1,"status":[{"date":"2015-08-18T22:00:00.000Z","position":993,"rankingPositionChange":1,"gloryPoint":2986,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":992,"rankingPositionChange":1,"gloryPoint":2979,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":988,"rankingPositionChange":4,"gloryPoint":2982,"gloryPointChange":3,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":979,"rankingPositionChange":9,"gloryPoint":2975,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":940,"rankingPositionChange":39,"gloryPoint":3335,"gloryPointChange":360,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":940,"rankingPositionChange":0,"gloryPoint":3328,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":939,"rankingPositionChange":1,"gloryPoint":3314,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":939,"rankingPositionChange":0,"gloryPoint":3300,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":945,"rankingPositionChange":-6,"gloryPoint":3293,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":943,"rankingPositionChange":2,"gloryPoint":3286,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":942,"rankingPositionChange":1,"gloryPoint":3305,"gloryPointChange":19,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":944,"rankingPositionChange":-2,"gloryPoint":3298,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":949,"rankingPositionChange":-5,"gloryPoint":3277,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":957,"rankingPositionChange":-8,"gloryPoint":3270,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":962,"rankingPositionChange":-5,"gloryPoint":3263,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-18T22:00:00.000Z","characterName":"Perfezione"}],"guilds":[{"date":"2015-08-18T22:00:00.000Z","guildName":"Shadow","guildID":6314}],"characterName":"Perfezione","guildName":"Shadow","guildID":6314,"position":962,"rankingPositionChange":-5,"gloryPoint":3263,"soldierRankID":10}
+{
+ "characterID": 254137,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 962,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3263,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Perfezione",
+ "guildName": "Shadow",
+ "guildID": 6314,
+ "status": [
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2986,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2979,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 4,
+   "gloryPoint": 2982,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 979,
+   "rankingPositionChange": 9,
+   "gloryPoint": 2975,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 39,
+   "gloryPoint": 3335,
+   "gloryPointChange": 360,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3328,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 939,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3314,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 939,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3300,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3293,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 943,
+   "rankingPositionChange": 2,
+   "gloryPoint": 3286,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3305,
+   "gloryPointChange": 19,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 944,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3298,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3277,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 957,
+   "rankingPositionChange": -8,
+   "gloryPoint": 3270,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3263,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "characterName": "Perfezione"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "guildName": "Shadow",
+   "guildID": 6314
+  }
+ ]
+}

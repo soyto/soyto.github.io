@@ -1,1 +1,56 @@
-{"characterID":16894,"characterClassID":5,"raceID":1,"status":[{"date":"2015-08-30T22:00:00.000Z","position":891,"rankingPositionChange":0,"gloryPoint":9344,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":893,"rankingPositionChange":-2,"gloryPoint":9323,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":901,"rankingPositionChange":-8,"gloryPoint":9316,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":901,"rankingPositionChange":0,"gloryPoint":9309,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Grin"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z"}],"characterName":"Grin","position":901,"rankingPositionChange":0,"gloryPoint":9309,"soldierRankID":10}
+{
+ "characterID": 16894,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 901,
+ "rankingPositionChange": 0,
+ "gloryPoint": 9309,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Grin",
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 891,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9344,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 893,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9323,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 901,
+   "rankingPositionChange": -8,
+   "gloryPoint": 9316,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 901,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9309,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Grin"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z"
+  }
+ ]
+}

@@ -1,1 +1,60 @@
-{"characterID":280404,"characterClassID":1,"raceID":0,"status":[{"date":"2015-08-30T22:00:00.000Z","position":948,"rankingPositionChange":0,"gloryPoint":6292,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":954,"rankingPositionChange":-6,"gloryPoint":6271,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":957,"rankingPositionChange":-3,"gloryPoint":6264,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":959,"rankingPositionChange":-2,"gloryPoint":6257,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Hudy"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z","guildName":"Srebrna Horda","guildID":6707}],"characterName":"Hudy","guildName":"Srebrna Horda","guildID":6707,"position":959,"rankingPositionChange":-2,"gloryPoint":6257,"soldierRankID":10}
+{
+ "characterID": 280404,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 959,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6257,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Hudy",
+ "guildName": "Srebrna Horda",
+ "guildID": 6707,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 948,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6292,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 954,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6271,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 957,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6264,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6257,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Hudy"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "Srebrna Horda",
+   "guildID": 6707
+  }
+ ]
+}

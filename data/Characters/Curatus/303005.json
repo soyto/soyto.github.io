@@ -1,1 +1,68 @@
-{"characterID":303005,"characterClassID":2,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":947,"rankingPositionChange":-3,"gloryPoint":8596,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":949,"rankingPositionChange":-2,"gloryPoint":8589,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":952,"rankingPositionChange":-3,"gloryPoint":8582,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":955,"rankingPositionChange":-3,"gloryPoint":8575,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":954,"rankingPositionChange":1,"gloryPoint":8568,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Shevran"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Ascension","guildID":1035}],"characterName":"Shevran","guildName":"Ascension","guildID":1035,"position":954,"rankingPositionChange":1,"gloryPoint":8568,"soldierRankID":10}
+{
+ "characterID": 303005,
+ "characterClassID": 2,
+ "raceID": 0,
+ "position": 954,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8568,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Shevran",
+ "guildName": "Ascension",
+ "guildID": 1035,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 947,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8596,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8589,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 952,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8582,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8575,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 954,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8568,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Shevran"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Ascension",
+   "guildID": 1035
+  }
+ ]
+}

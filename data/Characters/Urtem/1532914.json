@@ -1,1 +1,48 @@
-{"characterID":1532914,"characterClassID":1,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":974,"rankingPositionChange":0,"gloryPoint":7032,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":953,"rankingPositionChange":21,"gloryPoint":7356,"gloryPointChange":324,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":924,"rankingPositionChange":29,"gloryPoint":7711,"gloryPointChange":355,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Tepey"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z"}],"characterName":"Tepey","position":924,"rankingPositionChange":29,"gloryPoint":7711,"soldierRankID":10}
+{
+ "characterID": 1532914,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 924,
+ "rankingPositionChange": 29,
+ "gloryPoint": 7711,
+ "gloryPointChange": 355,
+ "soldierRankID": 10,
+ "characterName": "Tepey",
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7032,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 953,
+   "rankingPositionChange": 21,
+   "gloryPoint": 7356,
+   "gloryPointChange": 324,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 924,
+   "rankingPositionChange": 29,
+   "gloryPoint": 7711,
+   "gloryPointChange": 355,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Tepey"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z"
+  }
+ ]
+}

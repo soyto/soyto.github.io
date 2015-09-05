@@ -1,1 +1,108 @@
-{"characterID":22270,"characterClassID":4,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":24,"rankingPositionChange":0,"gloryPoint":134801,"gloryPointChange":0,"soldierRankID":15},{"date":"2015-08-01T22:00:00.000Z","position":24,"rankingPositionChange":0,"gloryPoint":134682,"gloryPointChange":-119,"soldierRankID":15},{"date":"2015-08-02T22:00:00.000Z","position":24,"rankingPositionChange":0,"gloryPoint":134563,"gloryPointChange":-119,"soldierRankID":15},{"date":"2015-08-03T22:00:00.000Z","position":24,"rankingPositionChange":0,"gloryPoint":134444,"gloryPointChange":-119,"soldierRankID":15},{"date":"2015-08-04T22:00:00.000Z","position":25,"rankingPositionChange":-1,"gloryPoint":134325,"gloryPointChange":-119,"soldierRankID":15},{"date":"2015-08-05T22:00:00.000Z","position":26,"rankingPositionChange":-1,"gloryPoint":134206,"gloryPointChange":-119,"soldierRankID":15},{"date":"2015-08-06T22:00:00.000Z","position":26,"rankingPositionChange":0,"gloryPoint":134087,"gloryPointChange":-119,"soldierRankID":15},{"date":"2015-08-07T22:00:00.000Z","position":26,"rankingPositionChange":0,"gloryPoint":133968,"gloryPointChange":-119,"soldierRankID":15},{"date":"2015-08-08T22:00:00.000Z","position":26,"rankingPositionChange":0,"gloryPoint":133968,"gloryPointChange":0,"soldierRankID":15},{"date":"2015-08-09T22:00:00.000Z","position":27,"rankingPositionChange":-1,"gloryPoint":133849,"gloryPointChange":-119,"soldierRankID":15}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Whitewalker"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Ordem Secreta","guildID":10664}],"characterName":"Whitewalker","guildName":"Ordem Secreta","guildID":10664,"position":27,"rankingPositionChange":-1,"gloryPoint":133849,"soldierRankID":15}
+{
+ "characterID": 22270,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 27,
+ "rankingPositionChange": -1,
+ "gloryPoint": 133849,
+ "gloryPointChange": -119,
+ "soldierRankID": 15,
+ "characterName": "Whitewalker",
+ "guildName": "Ordem Secreta",
+ "guildID": 10664,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 24,
+   "rankingPositionChange": 0,
+   "gloryPoint": 134801,
+   "gloryPointChange": 0,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 24,
+   "rankingPositionChange": 0,
+   "gloryPoint": 134682,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 24,
+   "rankingPositionChange": 0,
+   "gloryPoint": 134563,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 24,
+   "rankingPositionChange": 0,
+   "gloryPoint": 134444,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 25,
+   "rankingPositionChange": -1,
+   "gloryPoint": 134325,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 26,
+   "rankingPositionChange": -1,
+   "gloryPoint": 134206,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 26,
+   "rankingPositionChange": 0,
+   "gloryPoint": 134087,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 26,
+   "rankingPositionChange": 0,
+   "gloryPoint": 133968,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 26,
+   "rankingPositionChange": 0,
+   "gloryPoint": 133968,
+   "gloryPointChange": 0,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 27,
+   "rankingPositionChange": -1,
+   "gloryPoint": 133849,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Whitewalker"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Ordem Secreta",
+   "guildID": 10664
+  }
+ ]
+}

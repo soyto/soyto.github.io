@@ -1,1 +1,60 @@
-{"characterID":1069746,"characterClassID":8,"raceID":0,"status":[{"date":"2015-08-30T22:00:00.000Z","position":757,"rankingPositionChange":0,"gloryPoint":11192,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":760,"rankingPositionChange":-3,"gloryPoint":11191,"gloryPointChange":-1,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":761,"rankingPositionChange":-1,"gloryPoint":11184,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":765,"rankingPositionChange":-4,"gloryPoint":11177,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Calafuria"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z","guildName":"Shadow Of God","guildID":15966}],"characterName":"Calafuria","guildName":"Shadow Of God","guildID":15966,"position":765,"rankingPositionChange":-4,"gloryPoint":11177,"soldierRankID":10}
+{
+ "characterID": 1069746,
+ "characterClassID": 8,
+ "raceID": 0,
+ "position": 765,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11177,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Calafuria",
+ "guildName": "Shadow Of God",
+ "guildID": 15966,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 757,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11192,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 760,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11191,
+   "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 761,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11184,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 765,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11177,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Calafuria"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "Shadow Of God",
+   "guildID": 15966
+  }
+ ]
+}

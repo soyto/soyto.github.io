@@ -1,1 +1,104 @@
-{"characterID":1137,"characterClassID":11,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":392,"rankingPositionChange":-1,"gloryPoint":20923,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":394,"rankingPositionChange":-2,"gloryPoint":20895,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":394,"rankingPositionChange":0,"gloryPoint":20867,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":394,"rankingPositionChange":0,"gloryPoint":20839,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":395,"rankingPositionChange":-1,"gloryPoint":20811,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":394,"rankingPositionChange":1,"gloryPoint":20783,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":392,"rankingPositionChange":2,"gloryPoint":20755,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":392,"rankingPositionChange":0,"gloryPoint":20727,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":392,"rankingPositionChange":0,"gloryPoint":20727,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":390,"rankingPositionChange":2,"gloryPoint":20699,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Elhyne"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Elhyne","position":390,"rankingPositionChange":2,"gloryPoint":20699,"soldierRankID":12}
+{
+ "characterID": 1137,
+ "characterClassID": 11,
+ "raceID": 1,
+ "position": 390,
+ "rankingPositionChange": 2,
+ "gloryPoint": 20699,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Elhyne",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 392,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20923,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20895,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": 0,
+   "gloryPoint": 20867,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": 0,
+   "gloryPoint": 20839,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 395,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20811,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20783,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 392,
+   "rankingPositionChange": 2,
+   "gloryPoint": 20755,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 392,
+   "rankingPositionChange": 0,
+   "gloryPoint": 20727,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 392,
+   "rankingPositionChange": 0,
+   "gloryPoint": 20727,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 390,
+   "rankingPositionChange": 2,
+   "gloryPoint": 20699,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Elhyne"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

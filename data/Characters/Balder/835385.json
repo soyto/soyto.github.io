@@ -1,1 +1,120 @@
-{"characterID":835385,"characterClassID":16,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":389,"rankingPositionChange":-3,"gloryPoint":5239,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":389,"rankingPositionChange":0,"gloryPoint":5211,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":389,"rankingPositionChange":0,"gloryPoint":5183,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":389,"rankingPositionChange":0,"gloryPoint":5155,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":392,"rankingPositionChange":-3,"gloryPoint":5127,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":394,"rankingPositionChange":-2,"gloryPoint":5099,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":393,"rankingPositionChange":1,"gloryPoint":5071,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":394,"rankingPositionChange":-1,"gloryPoint":5043,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":394,"rankingPositionChange":0,"gloryPoint":5043,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":393,"rankingPositionChange":1,"gloryPoint":5015,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":397,"rankingPositionChange":-4,"gloryPoint":4959,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":397,"rankingPositionChange":0,"gloryPoint":4959,"gloryPointChange":0,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Nobility"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Nobility","position":397,"rankingPositionChange":0,"gloryPoint":4959,"soldierRankID":12}
+{
+ "characterID": 835385,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 397,
+ "rankingPositionChange": 0,
+ "gloryPoint": 4959,
+ "gloryPointChange": 0,
+ "soldierRankID": 12,
+ "characterName": "Nobility",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 389,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5239,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 389,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5211,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 389,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5183,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 389,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5155,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 392,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5127,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5099,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 393,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5071,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5043,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5043,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 393,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5015,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 397,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4959,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 397,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4959,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Nobility"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

@@ -1,1 +1,76 @@
-{"characterID":218030,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-05T22:00:00.000Z","position":997,"rankingPositionChange":0,"gloryPoint":1521,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":998,"rankingPositionChange":-1,"gloryPoint":1514,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":1000,"rankingPositionChange":-2,"gloryPoint":1507,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-08-21T22:00:00.000Z","position":985,"rankingPositionChange":15,"gloryPoint":1507,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":994,"rankingPositionChange":-9,"gloryPoint":1500,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":994,"rankingPositionChange":0,"gloryPoint":1493,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-05T22:00:00.000Z","characterName":"Karamurad"}],"guilds":[{"date":"2015-08-05T22:00:00.000Z","guildName":"OSMANLI","guildID":5427}],"characterName":"Karamurad","guildName":"OSMANLI","guildID":5427,"position":994,"rankingPositionChange":0,"gloryPoint":1493,"soldierRankID":10}
+{
+ "characterID": 218030,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 994,
+ "rankingPositionChange": 0,
+ "gloryPoint": 1493,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Karamurad",
+ "guildName": "OSMANLI",
+ "guildID": 5427,
+ "status": [
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1521,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1514,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1507,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": 15,
+   "gloryPoint": 1507,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1500,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1493,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "characterName": "Karamurad"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "guildName": "OSMANLI",
+   "guildID": 5427
+  }
+ ]
+}

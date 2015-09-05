@@ -1,1 +1,44 @@
-{"characterID":1458875,"characterClassID":16,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":980,"rankingPositionChange":0,"gloryPoint":6849,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":980,"rankingPositionChange":0,"gloryPoint":6929,"gloryPointChange":80,"soldierRankID":10}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Enaiiel"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z","guildName":"Tzigane","guildID":2485}],"characterName":"Enaiiel","guildName":"Tzigane","guildID":2485,"position":980,"rankingPositionChange":0,"gloryPoint":6929,"soldierRankID":10}
+{
+ "characterID": 1458875,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 980,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6929,
+ "gloryPointChange": 80,
+ "soldierRankID": 10,
+ "characterName": "Enaiiel",
+ "guildName": "Tzigane",
+ "guildID": 2485,
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6849,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6929,
+   "gloryPointChange": 80,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Enaiiel"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "guildName": "Tzigane",
+   "guildID": 2485
+  }
+ ]
+}

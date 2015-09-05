@@ -1,1 +1,44 @@
-{"characterID":1034871,"characterClassID":8,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":994,"rankingPositionChange":1,"gloryPoint":12286,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":1000,"rankingPositionChange":-6,"gloryPoint":12279,"gloryPointChange":-7,"soldierRankID":0}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Oleo"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"un calin ou un dudu ","guildID":46616}],"characterName":"Oleo","guildName":"un calin ou un dudu ","guildID":46616,"position":1000,"rankingPositionChange":-6,"gloryPoint":12279,"soldierRankID":0}
+{
+ "characterID": 1034871,
+ "characterClassID": 8,
+ "raceID": 0,
+ "position": 1000,
+ "rankingPositionChange": -6,
+ "gloryPoint": 12279,
+ "gloryPointChange": -7,
+ "soldierRankID": 0,
+ "characterName": "Oleo",
+ "guildName": "un calin ou un dudu ",
+ "guildID": 46616,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12286,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -6,
+   "gloryPoint": 12279,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Oleo"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "un calin ou un dudu ",
+   "guildID": 46616
+  }
+ ]
+}

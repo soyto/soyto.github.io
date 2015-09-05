@@ -1,1 +1,52 @@
-{"characterID":741936,"characterClassID":1,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":769,"rankingPositionChange":1,"gloryPoint":3080,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":766,"rankingPositionChange":3,"gloryPoint":3073,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":769,"rankingPositionChange":-3,"gloryPoint":3066,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Seohra"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Lass mich ich dropp nichts","guildID":28116}],"characterName":"Seohra","guildName":"Lass mich ich dropp nichts","guildID":28116,"position":769,"rankingPositionChange":-3,"gloryPoint":3066,"soldierRankID":10}
+{
+ "characterID": 741936,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 769,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3066,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Seohra",
+ "guildName": "Lass mich ich dropp nichts",
+ "guildID": 28116,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 769,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3080,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 766,
+   "rankingPositionChange": 3,
+   "gloryPoint": 3073,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 769,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3066,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Seohra"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Lass mich ich dropp nichts",
+   "guildID": 28116
+  }
+ ]
+}

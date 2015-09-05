@@ -1,1 +1,60 @@
-{"characterID":854999,"characterClassID":14,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":247,"rankingPositionChange":0,"gloryPoint":36012,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":247,"rankingPositionChange":0,"gloryPoint":35963,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":248,"rankingPositionChange":-1,"gloryPoint":35914,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":248,"rankingPositionChange":0,"gloryPoint":35865,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Djayz"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"BDSM","guildID":20666}],"characterName":"Djayz","guildName":"BDSM","guildID":20666,"position":248,"rankingPositionChange":0,"gloryPoint":35865,"soldierRankID":13}
+{
+ "characterID": 854999,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 248,
+ "rankingPositionChange": 0,
+ "gloryPoint": 35865,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Djayz",
+ "guildName": "BDSM",
+ "guildID": 20666,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 247,
+   "rankingPositionChange": 0,
+   "gloryPoint": 36012,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 247,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35963,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 248,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35914,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 248,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35865,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Djayz"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "BDSM",
+   "guildID": 20666
+  }
+ ]
+}

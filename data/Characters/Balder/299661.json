@@ -1,1 +1,108 @@
-{"characterID":299661,"characterClassID":1,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":621,"rankingPositionChange":-3,"gloryPoint":1308,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":624,"rankingPositionChange":-3,"gloryPoint":1301,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":633,"rankingPositionChange":-9,"gloryPoint":1294,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":637,"rankingPositionChange":-4,"gloryPoint":1287,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":645,"rankingPositionChange":-8,"gloryPoint":1280,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":648,"rankingPositionChange":-3,"gloryPoint":1273,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":647,"rankingPositionChange":1,"gloryPoint":1266,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":653,"rankingPositionChange":-6,"gloryPoint":1259,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":653,"rankingPositionChange":0,"gloryPoint":1259,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":653,"rankingPositionChange":0,"gloryPoint":1252,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Kreuziger"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Flaming Wings","guildID":10438}],"characterName":"Kreuziger","guildName":"Flaming Wings","guildID":10438,"position":653,"rankingPositionChange":0,"gloryPoint":1252,"soldierRankID":10}
+{
+ "characterID": 299661,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 653,
+ "rankingPositionChange": 0,
+ "gloryPoint": 1252,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Kreuziger",
+ "guildName": "Flaming Wings",
+ "guildID": 10438,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1308,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 624,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1301,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 633,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1294,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 637,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1287,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 645,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1280,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 648,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1273,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 647,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1266,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1259,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1259,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1252,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Kreuziger"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Flaming Wings",
+   "guildID": 10438
+  }
+ ]
+}

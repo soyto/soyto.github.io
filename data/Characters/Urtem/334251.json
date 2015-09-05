@@ -1,1 +1,52 @@
-{"characterID":334251,"characterClassID":1,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":915,"rankingPositionChange":0,"gloryPoint":15275,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":911,"rankingPositionChange":4,"gloryPoint":15268,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":910,"rankingPositionChange":1,"gloryPoint":15261,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Tsuhn"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Nothing You Can Do","guildID":41692}],"characterName":"Tsuhn","guildName":"Nothing You Can Do","guildID":41692,"position":910,"rankingPositionChange":1,"gloryPoint":15261,"soldierRankID":10}
+{
+ "characterID": 334251,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 910,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15261,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Tsuhn",
+ "guildName": "Nothing You Can Do",
+ "guildID": 41692,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 915,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15275,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 911,
+   "rankingPositionChange": 4,
+   "gloryPoint": 15268,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 910,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15261,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Tsuhn"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Nothing You Can Do",
+   "guildID": 41692
+  }
+ ]
+}

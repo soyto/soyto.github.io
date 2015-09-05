@@ -1,1 +1,132 @@
-{"characterID":320076,"characterClassID":8,"raceID":1,"status":[{"date":"2015-08-20T22:00:00.000Z","position":633,"rankingPositionChange":0,"gloryPoint":19636,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-21T22:00:00.000Z","position":637,"rankingPositionChange":-4,"gloryPoint":19622,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-22T22:00:00.000Z","position":634,"rankingPositionChange":3,"gloryPoint":19608,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-23T22:00:00.000Z","position":634,"rankingPositionChange":0,"gloryPoint":19594,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":635,"rankingPositionChange":-1,"gloryPoint":19566,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":637,"rankingPositionChange":-2,"gloryPoint":19538,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-27T22:00:00.000Z","position":633,"rankingPositionChange":4,"gloryPoint":19524,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-28T22:00:00.000Z","position":634,"rankingPositionChange":-1,"gloryPoint":19510,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-29T22:00:00.000Z","position":636,"rankingPositionChange":-2,"gloryPoint":19496,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":636,"rankingPositionChange":0,"gloryPoint":19482,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":638,"rankingPositionChange":-2,"gloryPoint":19440,"gloryPointChange":-42,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":643,"rankingPositionChange":-5,"gloryPoint":19426,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":645,"rankingPositionChange":-2,"gloryPoint":19412,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-08-20T22:00:00.000Z","characterName":"Luney"}],"guilds":[{"date":"2015-08-20T22:00:00.000Z","guildName":"A Bukottak","guildID":5701}],"characterName":"Luney","guildName":"A Bukottak","guildID":5701,"position":645,"rankingPositionChange":-2,"gloryPoint":19412,"soldierRankID":11}
+{
+ "characterID": 320076,
+ "characterClassID": 8,
+ "raceID": 1,
+ "position": 645,
+ "rankingPositionChange": -2,
+ "gloryPoint": 19412,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Luney",
+ "guildName": "A Bukottak",
+ "guildID": 5701,
+ "status": [
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 633,
+   "rankingPositionChange": 0,
+   "gloryPoint": 19636,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 637,
+   "rankingPositionChange": -4,
+   "gloryPoint": 19622,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 634,
+   "rankingPositionChange": 3,
+   "gloryPoint": 19608,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 634,
+   "rankingPositionChange": 0,
+   "gloryPoint": 19594,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 635,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19566,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 637,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19538,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 633,
+   "rankingPositionChange": 4,
+   "gloryPoint": 19524,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 634,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19510,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 636,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19496,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 636,
+   "rankingPositionChange": 0,
+   "gloryPoint": 19482,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 638,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19440,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 643,
+   "rankingPositionChange": -5,
+   "gloryPoint": 19426,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 645,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19412,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "characterName": "Luney"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "guildName": "A Bukottak",
+   "guildID": 5701
+  }
+ ]
+}

@@ -1,1 +1,148 @@
-{"characterID":1649584,"characterClassID":7,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":974,"rankingPositionChange":2,"gloryPoint":9806,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":978,"rankingPositionChange":-4,"gloryPoint":9799,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":979,"rankingPositionChange":-1,"gloryPoint":9792,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":978,"rankingPositionChange":1,"gloryPoint":9785,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":980,"rankingPositionChange":-2,"gloryPoint":9778,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":983,"rankingPositionChange":-3,"gloryPoint":9771,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":987,"rankingPositionChange":-4,"gloryPoint":9764,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":989,"rankingPositionChange":-2,"gloryPoint":9757,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":989,"rankingPositionChange":0,"gloryPoint":9757,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":996,"rankingPositionChange":-7,"gloryPoint":9750,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":998,"rankingPositionChange":-2,"gloryPoint":9736,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":998,"rankingPositionChange":0,"gloryPoint":9736,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":996,"rankingPositionChange":2,"gloryPoint":9729,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":996,"rankingPositionChange":0,"gloryPoint":9715,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":996,"rankingPositionChange":0,"gloryPoint":9708,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Magicskill"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Agent Orange","guildID":42291}],"characterName":"Magicskill","guildName":"Agent Orange","guildID":42291,"position":996,"rankingPositionChange":0,"gloryPoint":9708,"soldierRankID":10}
+{
+ "characterID": 1649584,
+ "characterClassID": 7,
+ "raceID": 1,
+ "position": 996,
+ "rankingPositionChange": 0,
+ "gloryPoint": 9708,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Magicskill",
+ "guildName": "Agent Orange",
+ "guildID": 42291,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9806,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9799,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 979,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9792,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9785,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9778,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9771,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 987,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9764,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9757,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9757,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -7,
+   "gloryPoint": 9750,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9736,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9736,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9729,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9715,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9708,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Magicskill"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Agent Orange",
+   "guildID": 42291
+  }
+ ]
+}

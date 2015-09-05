@@ -1,1 +1,132 @@
-{"characterID":421287,"characterClassID":10,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":936,"rankingPositionChange":-1,"gloryPoint":4989,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":933,"rankingPositionChange":3,"gloryPoint":4982,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":931,"rankingPositionChange":2,"gloryPoint":4975,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":934,"rankingPositionChange":-3,"gloryPoint":4968,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":934,"rankingPositionChange":0,"gloryPoint":4961,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":933,"rankingPositionChange":1,"gloryPoint":4954,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":940,"rankingPositionChange":-7,"gloryPoint":4947,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":940,"rankingPositionChange":0,"gloryPoint":4940,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":940,"rankingPositionChange":0,"gloryPoint":4940,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":945,"rankingPositionChange":-5,"gloryPoint":4933,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":945,"rankingPositionChange":0,"gloryPoint":4919,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":945,"rankingPositionChange":0,"gloryPoint":4919,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":948,"rankingPositionChange":-3,"gloryPoint":4905,"gloryPointChange":-14,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Attlantis"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":" BlackOut ","guildID":13631}],"characterName":"Attlantis","guildName":" BlackOut ","guildID":13631,"position":948,"rankingPositionChange":-3,"gloryPoint":4905,"soldierRankID":10}
+{
+ "characterID": 421287,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 948,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4905,
+ "gloryPointChange": -14,
+ "soldierRankID": 10,
+ "characterName": "Attlantis",
+ "guildName": " BlackOut ",
+ "guildID": 13631,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 936,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4989,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 933,
+   "rankingPositionChange": 3,
+   "gloryPoint": 4982,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 931,
+   "rankingPositionChange": 2,
+   "gloryPoint": 4975,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 934,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4968,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 934,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4961,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 933,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4954,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": -7,
+   "gloryPoint": 4947,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4940,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4940,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4933,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4919,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4919,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 948,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4905,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Attlantis"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": " BlackOut ",
+   "guildID": 13631
+  }
+ ]
+}

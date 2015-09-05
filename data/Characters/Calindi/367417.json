@@ -1,1 +1,44 @@
-{"characterID":367417,"characterClassID":10,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":484,"rankingPositionChange":1,"gloryPoint":6576,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":486,"rankingPositionChange":-2,"gloryPoint":6548,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Galadraelle"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Daeva Elite","guildID":6983}],"characterName":"Galadraelle","guildName":"Daeva Elite","guildID":6983,"position":486,"rankingPositionChange":-2,"gloryPoint":6548,"soldierRankID":12}
+{
+ "characterID": 367417,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 486,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6548,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Galadraelle",
+ "guildName": "Daeva Elite",
+ "guildID": 6983,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 484,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6576,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 486,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6548,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Galadraelle"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Daeva Elite",
+   "guildID": 6983
+  }
+ ]
+}

@@ -1,1 +1,68 @@
-{"characterID":272999,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":166,"rankingPositionChange":-3,"gloryPoint":5722,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":166,"rankingPositionChange":0,"gloryPoint":5673,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":167,"rankingPositionChange":-1,"gloryPoint":5624,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":168,"rankingPositionChange":-1,"gloryPoint":5575,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":166,"rankingPositionChange":2,"gloryPoint":5526,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Kuhi"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":" The Dream Team ","guildID":11518}],"characterName":"Kuhi","guildName":" The Dream Team ","guildID":11518,"position":166,"rankingPositionChange":2,"gloryPoint":5526,"soldierRankID":13}
+{
+ "characterID": 272999,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 166,
+ "rankingPositionChange": 2,
+ "gloryPoint": 5526,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Kuhi",
+ "guildName": " The Dream Team ",
+ "guildID": 11518,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 166,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5722,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 166,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5673,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 167,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5624,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 168,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5575,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 166,
+   "rankingPositionChange": 2,
+   "gloryPoint": 5526,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Kuhi"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": " The Dream Team ",
+   "guildID": 11518
+  }
+ ]
+}

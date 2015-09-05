@@ -1,1 +1,44 @@
-{"characterID":1332545,"characterClassID":14,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":290,"rankingPositionChange":-1,"gloryPoint":50888,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":297,"rankingPositionChange":-7,"gloryPoint":50839,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Arazzel"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Karamellisierte Pinguine","guildID":30013}],"characterName":"Arazzel","guildName":"Karamellisierte Pinguine","guildID":30013,"position":297,"rankingPositionChange":-7,"gloryPoint":50839,"soldierRankID":13}
+{
+ "characterID": 1332545,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 297,
+ "rankingPositionChange": -7,
+ "gloryPoint": 50839,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Arazzel",
+ "guildName": "Karamellisierte Pinguine",
+ "guildID": 30013,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 290,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50888,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 297,
+   "rankingPositionChange": -7,
+   "gloryPoint": 50839,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Arazzel"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Karamellisierte Pinguine",
+   "guildID": 30013
+  }
+ ]
+}

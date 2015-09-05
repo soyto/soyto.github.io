@@ -1,1 +1,76 @@
-{"characterID":514820,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":711,"rankingPositionChange":-1,"gloryPoint":9405,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":720,"rankingPositionChange":-9,"gloryPoint":9398,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":722,"rankingPositionChange":-2,"gloryPoint":9391,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":724,"rankingPositionChange":-2,"gloryPoint":9384,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":725,"rankingPositionChange":-1,"gloryPoint":9377,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":733,"rankingPositionChange":-8,"gloryPoint":9370,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Kavery"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Destinados","guildID":9935}],"characterName":"Kavery","guildName":"Destinados","guildID":9935,"position":733,"rankingPositionChange":-8,"gloryPoint":9370,"soldierRankID":10}
+{
+ "characterID": 514820,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 733,
+ "rankingPositionChange": -8,
+ "gloryPoint": 9370,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Kavery",
+ "guildName": "Destinados",
+ "guildID": 9935,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9405,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 720,
+   "rankingPositionChange": -9,
+   "gloryPoint": 9398,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 722,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9391,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 724,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9384,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 725,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9377,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 733,
+   "rankingPositionChange": -8,
+   "gloryPoint": 9370,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Kavery"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Destinados",
+   "guildID": 9935
+  }
+ ]
+}

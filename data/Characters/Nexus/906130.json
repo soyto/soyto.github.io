@@ -1,1 +1,148 @@
-{"characterID":906130,"characterClassID":7,"raceID":0,"status":[{"date":"2015-08-18T22:00:00.000Z","position":947,"rankingPositionChange":51,"gloryPoint":4909,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":901,"rankingPositionChange":46,"gloryPoint":5583,"gloryPointChange":674,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":862,"rankingPositionChange":39,"gloryPoint":6161,"gloryPointChange":578,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":845,"rankingPositionChange":17,"gloryPoint":6505,"gloryPointChange":344,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":844,"rankingPositionChange":1,"gloryPoint":6656,"gloryPointChange":151,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":831,"rankingPositionChange":13,"gloryPoint":6959,"gloryPointChange":303,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":800,"rankingPositionChange":31,"gloryPoint":7602,"gloryPointChange":643,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":779,"rankingPositionChange":21,"gloryPoint":8090,"gloryPointChange":488,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":746,"rankingPositionChange":33,"gloryPoint":8720,"gloryPointChange":630,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":725,"rankingPositionChange":21,"gloryPoint":9288,"gloryPointChange":568,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":678,"rankingPositionChange":47,"gloryPoint":10355,"gloryPointChange":1067,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":656,"rankingPositionChange":22,"gloryPoint":11004,"gloryPointChange":649,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":630,"rankingPositionChange":26,"gloryPoint":11935,"gloryPointChange":931,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":618,"rankingPositionChange":12,"gloryPoint":12471,"gloryPointChange":536,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":596,"rankingPositionChange":22,"gloryPoint":13049,"gloryPointChange":578,"soldierRankID":11}],"names":[{"date":"2015-08-18T22:00:00.000Z","characterName":"Goldfishy"}],"guilds":[{"date":"2015-08-18T22:00:00.000Z","guildName":"Reported","guildID":15747}],"characterName":"Goldfishy","guildName":"Reported","guildID":15747,"position":596,"rankingPositionChange":22,"gloryPoint":13049,"soldierRankID":11}
+{
+ "characterID": 906130,
+ "characterClassID": 7,
+ "raceID": 0,
+ "position": 596,
+ "rankingPositionChange": 22,
+ "gloryPoint": 13049,
+ "gloryPointChange": 578,
+ "soldierRankID": 11,
+ "characterName": "Goldfishy",
+ "guildName": "Reported",
+ "guildID": 15747,
+ "status": [
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 947,
+   "rankingPositionChange": 51,
+   "gloryPoint": 4909,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 901,
+   "rankingPositionChange": 46,
+   "gloryPoint": 5583,
+   "gloryPointChange": 674,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": 39,
+   "gloryPoint": 6161,
+   "gloryPointChange": 578,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 845,
+   "rankingPositionChange": 17,
+   "gloryPoint": 6505,
+   "gloryPointChange": 344,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 844,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6656,
+   "gloryPointChange": 151,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 831,
+   "rankingPositionChange": 13,
+   "gloryPoint": 6959,
+   "gloryPointChange": 303,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": 31,
+   "gloryPoint": 7602,
+   "gloryPointChange": 643,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 779,
+   "rankingPositionChange": 21,
+   "gloryPoint": 8090,
+   "gloryPointChange": 488,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 746,
+   "rankingPositionChange": 33,
+   "gloryPoint": 8720,
+   "gloryPointChange": 630,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 725,
+   "rankingPositionChange": 21,
+   "gloryPoint": 9288,
+   "gloryPointChange": 568,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 678,
+   "rankingPositionChange": 47,
+   "gloryPoint": 10355,
+   "gloryPointChange": 1067,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 656,
+   "rankingPositionChange": 22,
+   "gloryPoint": 11004,
+   "gloryPointChange": 649,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 630,
+   "rankingPositionChange": 26,
+   "gloryPoint": 11935,
+   "gloryPointChange": 931,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 618,
+   "rankingPositionChange": 12,
+   "gloryPoint": 12471,
+   "gloryPointChange": 536,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": 22,
+   "gloryPoint": 13049,
+   "gloryPointChange": 578,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "characterName": "Goldfishy"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "guildName": "Reported",
+   "guildID": 15747
+  }
+ ]
+}

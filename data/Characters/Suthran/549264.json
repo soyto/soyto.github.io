@@ -1,1 +1,76 @@
-{"characterID":549264,"characterClassID":7,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":654,"rankingPositionChange":4,"gloryPoint":21233,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":659,"rankingPositionChange":-5,"gloryPoint":21219,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":660,"rankingPositionChange":-1,"gloryPoint":21205,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":662,"rankingPositionChange":-2,"gloryPoint":21191,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":663,"rankingPositionChange":-1,"gloryPoint":21177,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":663,"rankingPositionChange":0,"gloryPoint":21163,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Embroise"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"oO NeXuS Oo","guildID":21578}],"characterName":"Embroise","guildName":"oO NeXuS Oo","guildID":21578,"position":663,"rankingPositionChange":0,"gloryPoint":21163,"soldierRankID":11}
+{
+ "characterID": 549264,
+ "characterClassID": 7,
+ "raceID": 0,
+ "position": 663,
+ "rankingPositionChange": 0,
+ "gloryPoint": 21163,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Embroise",
+ "guildName": "oO NeXuS Oo",
+ "guildID": 21578,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 654,
+   "rankingPositionChange": 4,
+   "gloryPoint": 21233,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 659,
+   "rankingPositionChange": -5,
+   "gloryPoint": 21219,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 660,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21205,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 662,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21191,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 663,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21177,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 663,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21163,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Embroise"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "oO NeXuS Oo",
+   "guildID": 21578
+  }
+ ]
+}

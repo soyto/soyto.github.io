@@ -1,1 +1,52 @@
-{"characterID":538942,"characterClassID":1,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":576,"rankingPositionChange":3,"gloryPoint":5816,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":572,"rankingPositionChange":4,"gloryPoint":5802,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":571,"rankingPositionChange":1,"gloryPoint":5788,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Twoblades"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Skelletoons","guildID":29367}],"characterName":"Twoblades","guildName":"Skelletoons","guildID":29367,"position":571,"rankingPositionChange":1,"gloryPoint":5788,"soldierRankID":11}
+{
+ "characterID": 538942,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 571,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5788,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Twoblades",
+ "guildName": "Skelletoons",
+ "guildID": 29367,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 576,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5816,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": 4,
+   "gloryPoint": 5802,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 571,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5788,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Twoblades"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Skelletoons",
+   "guildID": 29367
+  }
+ ]
+}

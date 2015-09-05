@@ -1,1 +1,212 @@
-{"characterID":1230643,"characterClassID":11,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":909,"rankingPositionChange":-9,"gloryPoint":2314,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":916,"rankingPositionChange":-7,"gloryPoint":2307,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":917,"rankingPositionChange":-1,"gloryPoint":2300,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":922,"rankingPositionChange":-5,"gloryPoint":2293,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":920,"rankingPositionChange":2,"gloryPoint":2286,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":922,"rankingPositionChange":-2,"gloryPoint":2279,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":921,"rankingPositionChange":1,"gloryPoint":2272,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":919,"rankingPositionChange":2,"gloryPoint":2265,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":919,"rankingPositionChange":0,"gloryPoint":2265,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":927,"rankingPositionChange":-8,"gloryPoint":2258,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":932,"rankingPositionChange":-5,"gloryPoint":2244,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":932,"rankingPositionChange":0,"gloryPoint":2244,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":955,"rankingPositionChange":-23,"gloryPoint":2167,"gloryPointChange":-77,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":957,"rankingPositionChange":-2,"gloryPoint":2160,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":954,"rankingPositionChange":3,"gloryPoint":2146,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":962,"rankingPositionChange":-8,"gloryPoint":2132,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":968,"rankingPositionChange":-6,"gloryPoint":2125,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":973,"rankingPositionChange":-5,"gloryPoint":2118,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":971,"rankingPositionChange":2,"gloryPoint":2111,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":973,"rankingPositionChange":-2,"gloryPoint":2104,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":980,"rankingPositionChange":-7,"gloryPoint":2083,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":986,"rankingPositionChange":-6,"gloryPoint":2076,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":990,"rankingPositionChange":-4,"gloryPoint":2069,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Giralexiss"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Exorcistas","guildID":22127}],"characterName":"Giralexiss","guildName":"Exorcistas","guildID":22127,"position":990,"rankingPositionChange":-4,"gloryPoint":2069,"soldierRankID":10}
+{
+ "characterID": 1230643,
+ "characterClassID": 11,
+ "raceID": 1,
+ "position": 990,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2069,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Giralexiss",
+ "guildName": "Exorcistas",
+ "guildID": 22127,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 909,
+   "rankingPositionChange": -9,
+   "gloryPoint": 2314,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": -7,
+   "gloryPoint": 2307,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 917,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2300,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 922,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2293,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 920,
+   "rankingPositionChange": 2,
+   "gloryPoint": 2286,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 922,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2279,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2272,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 919,
+   "rankingPositionChange": 2,
+   "gloryPoint": 2265,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 919,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2265,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 927,
+   "rankingPositionChange": -8,
+   "gloryPoint": 2258,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 932,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2244,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 932,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2244,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": -23,
+   "gloryPoint": 2167,
+   "gloryPointChange": -77,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 957,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2160,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 954,
+   "rankingPositionChange": 3,
+   "gloryPoint": 2146,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": -8,
+   "gloryPoint": 2132,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 968,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2125,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 973,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2118,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 971,
+   "rankingPositionChange": 2,
+   "gloryPoint": 2111,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 973,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2104,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": -7,
+   "gloryPoint": 2083,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2076,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2069,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Giralexiss"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Exorcistas",
+   "guildID": 22127
+  }
+ ]
+}

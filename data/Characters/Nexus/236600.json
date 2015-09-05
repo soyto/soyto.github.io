@@ -1,1 +1,56 @@
-{"characterID":236600,"characterClassID":11,"raceID":1,"status":[{"date":"2015-08-30T22:00:00.000Z","position":995,"rankingPositionChange":0,"gloryPoint":7270,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":958,"rankingPositionChange":37,"gloryPoint":7819,"gloryPointChange":549,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":962,"rankingPositionChange":-4,"gloryPoint":7985,"gloryPointChange":166,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":940,"rankingPositionChange":22,"gloryPoint":8438,"gloryPointChange":453,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Lolifox"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z"}],"characterName":"Lolifox","position":940,"rankingPositionChange":22,"gloryPoint":8438,"soldierRankID":10}
+{
+ "characterID": 236600,
+ "characterClassID": 11,
+ "raceID": 1,
+ "position": 940,
+ "rankingPositionChange": 22,
+ "gloryPoint": 8438,
+ "gloryPointChange": 453,
+ "soldierRankID": 10,
+ "characterName": "Lolifox",
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7270,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 958,
+   "rankingPositionChange": 37,
+   "gloryPoint": 7819,
+   "gloryPointChange": 549,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7985,
+   "gloryPointChange": 166,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 22,
+   "gloryPoint": 8438,
+   "gloryPointChange": 453,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Lolifox"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z"
+  }
+ ]
+}

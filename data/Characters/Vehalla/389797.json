@@ -1,1 +1,76 @@
-{"characterID":389797,"characterClassID":14,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":203,"rankingPositionChange":0,"gloryPoint":19803,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":203,"rankingPositionChange":0,"gloryPoint":19754,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":202,"rankingPositionChange":1,"gloryPoint":19705,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":202,"rankingPositionChange":0,"gloryPoint":19656,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":203,"rankingPositionChange":-1,"gloryPoint":19607,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-05T22:00:00.000Z","position":204,"rankingPositionChange":-1,"gloryPoint":19558,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Leshil"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"PathOfDestruction","guildID":1909}],"characterName":"Leshil","guildName":"PathOfDestruction","guildID":1909,"position":204,"rankingPositionChange":-1,"gloryPoint":19558,"soldierRankID":13}
+{
+ "characterID": 389797,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 204,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19558,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Leshil",
+ "guildName": "PathOfDestruction",
+ "guildID": 1909,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 203,
+   "rankingPositionChange": 0,
+   "gloryPoint": 19803,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 203,
+   "rankingPositionChange": 0,
+   "gloryPoint": 19754,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 202,
+   "rankingPositionChange": 1,
+   "gloryPoint": 19705,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 202,
+   "rankingPositionChange": 0,
+   "gloryPoint": 19656,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 203,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19607,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 204,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19558,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Leshil"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "PathOfDestruction",
+   "guildID": 1909
+  }
+ ]
+}

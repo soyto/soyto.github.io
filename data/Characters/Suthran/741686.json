@@ -1,1 +1,60 @@
-{"characterID":741686,"characterClassID":10,"raceID":0,"status":[{"date":"2015-08-30T22:00:00.000Z","position":990,"rankingPositionChange":0,"gloryPoint":10002,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":980,"rankingPositionChange":10,"gloryPoint":10261,"gloryPointChange":259,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":969,"rankingPositionChange":11,"gloryPoint":10464,"gloryPointChange":203,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":959,"rankingPositionChange":10,"gloryPoint":10758,"gloryPointChange":294,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Anha"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z","guildName":"Vent de Farore","guildID":24246}],"characterName":"Anha","guildName":"Vent de Farore","guildID":24246,"position":959,"rankingPositionChange":10,"gloryPoint":10758,"soldierRankID":10}
+{
+ "characterID": 741686,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 959,
+ "rankingPositionChange": 10,
+ "gloryPoint": 10758,
+ "gloryPointChange": 294,
+ "soldierRankID": 10,
+ "characterName": "Anha",
+ "guildName": "Vent de Farore",
+ "guildID": 24246,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10002,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": 10,
+   "gloryPoint": 10261,
+   "gloryPointChange": 259,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": 11,
+   "gloryPoint": 10464,
+   "gloryPointChange": 203,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": 10,
+   "gloryPoint": 10758,
+   "gloryPointChange": 294,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Anha"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "Vent de Farore",
+   "guildID": 24246
+  }
+ ]
+}

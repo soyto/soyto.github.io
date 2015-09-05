@@ -1,1 +1,52 @@
-{"characterID":719941,"characterClassID":8,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":417,"rankingPositionChange":-3,"gloryPoint":27872,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":417,"rankingPositionChange":0,"gloryPoint":27844,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":417,"rankingPositionChange":0,"gloryPoint":27816,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Janimba"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"F A I R Y T A I L","guildID":31718}],"characterName":"Janimba","guildName":"F A I R Y T A I L","guildID":31718,"position":417,"rankingPositionChange":0,"gloryPoint":27816,"soldierRankID":12}
+{
+ "characterID": 719941,
+ "characterClassID": 8,
+ "raceID": 0,
+ "position": 417,
+ "rankingPositionChange": 0,
+ "gloryPoint": 27816,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Janimba",
+ "guildName": "F A I R Y T A I L",
+ "guildID": 31718,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 417,
+   "rankingPositionChange": -3,
+   "gloryPoint": 27872,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 417,
+   "rankingPositionChange": 0,
+   "gloryPoint": 27844,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 417,
+   "rankingPositionChange": 0,
+   "gloryPoint": 27816,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Janimba"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "F A I R Y T A I L",
+   "guildID": 31718
+  }
+ ]
+}

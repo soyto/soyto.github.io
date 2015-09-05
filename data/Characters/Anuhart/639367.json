@@ -1,1 +1,100 @@
-{"characterID":639367,"characterClassID":5,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":596,"rankingPositionChange":-1,"gloryPoint":10159,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":596,"rankingPositionChange":0,"gloryPoint":10145,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":597,"rankingPositionChange":-1,"gloryPoint":10131,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":597,"rankingPositionChange":0,"gloryPoint":10117,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":601,"rankingPositionChange":-4,"gloryPoint":10103,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":600,"rankingPositionChange":1,"gloryPoint":10089,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":605,"rankingPositionChange":-5,"gloryPoint":10075,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":606,"rankingPositionChange":-1,"gloryPoint":10061,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":606,"rankingPositionChange":0,"gloryPoint":10061,"gloryPointChange":0,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Wargame"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"ploplop","guildID":14293}],"characterName":"Wargame","guildName":"ploplop","guildID":14293,"position":606,"rankingPositionChange":0,"gloryPoint":10061,"soldierRankID":11}
+{
+ "characterID": 639367,
+ "characterClassID": 5,
+ "raceID": 0,
+ "position": 606,
+ "rankingPositionChange": 0,
+ "gloryPoint": 10061,
+ "gloryPointChange": 0,
+ "soldierRankID": 11,
+ "characterName": "Wargame",
+ "guildName": "ploplop",
+ "guildID": 14293,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10159,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10145,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 597,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10131,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 597,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10117,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 601,
+   "rankingPositionChange": -4,
+   "gloryPoint": 10103,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10089,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 605,
+   "rankingPositionChange": -5,
+   "gloryPoint": 10075,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 606,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10061,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 606,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10061,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Wargame"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "ploplop",
+   "guildID": 14293
+  }
+ ]
+}

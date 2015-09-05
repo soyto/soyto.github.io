@@ -1,1 +1,55 @@
-{"characterID":698354,"characterClassID":4,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":204,"rankingPositionChange":0,"gloryPoint":52416,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-09-02T22:00:00.000Z","position":203,"rankingPositionChange":1,"gloryPoint":52719,"gloryPointChange":303,"soldierRankID":13},{"date":"2015-09-03T22:00:00.000Z","position":201,"rankingPositionChange":2,"gloryPoint":53110,"gloryPointChange":391,"soldierRankID":13}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Giwrgosss"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z"},{"date":"2015-09-03T22:00:00.000Z","guildName":"HellsArmy","guildID":1018}],"characterName":"Giwrgosss","guildName":"HellsArmy","guildID":1018,"position":201,"rankingPositionChange":2,"gloryPoint":53110,"soldierRankID":13}
+{
+ "characterID": 698354,
+ "characterClassID": 4,
+ "raceID": 0,
+ "position": 201,
+ "rankingPositionChange": 2,
+ "gloryPoint": 53110,
+ "gloryPointChange": 391,
+ "soldierRankID": 13,
+ "characterName": "Giwrgosss",
+ "guildName": "HellsArmy",
+ "guildID": 1018,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 204,
+   "rankingPositionChange": 0,
+   "gloryPoint": 52416,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 203,
+   "rankingPositionChange": 1,
+   "gloryPoint": 52719,
+   "gloryPointChange": 303,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 201,
+   "rankingPositionChange": 2,
+   "gloryPoint": 53110,
+   "gloryPointChange": 391,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Giwrgosss"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "guildName": "HellsArmy",
+   "guildID": 1018
+  }
+ ]
+}

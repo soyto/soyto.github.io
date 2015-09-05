@@ -1,1 +1,52 @@
-{"characterID":485393,"characterClassID":14,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":672,"rankingPositionChange":0,"gloryPoint":1333,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":610,"rankingPositionChange":62,"gloryPoint":1626,"gloryPointChange":293,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":615,"rankingPositionChange":-5,"gloryPoint":1612,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Malody"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"SoulStorm","guildID":2542}],"characterName":"Malody","guildName":"SoulStorm","guildID":2542,"position":615,"rankingPositionChange":-5,"gloryPoint":1612,"soldierRankID":11}
+{
+ "characterID": 485393,
+ "characterClassID": 14,
+ "raceID": 0,
+ "position": 615,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1612,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Malody",
+ "guildName": "SoulStorm",
+ "guildID": 2542,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 672,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1333,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 610,
+   "rankingPositionChange": 62,
+   "gloryPoint": 1626,
+   "gloryPointChange": 293,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 615,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1612,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Malody"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "SoulStorm",
+   "guildID": 2542
+  }
+ ]
+}

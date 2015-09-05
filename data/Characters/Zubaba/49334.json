@@ -1,1 +1,132 @@
-{"characterID":49334,"characterClassID":1,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":43,"rankingPositionChange":0,"gloryPoint":154230,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-01T22:00:00.000Z","position":43,"rankingPositionChange":0,"gloryPoint":154123,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-02T22:00:00.000Z","position":43,"rankingPositionChange":0,"gloryPoint":154016,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-03T22:00:00.000Z","position":44,"rankingPositionChange":-1,"gloryPoint":153909,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-04T22:00:00.000Z","position":45,"rankingPositionChange":-1,"gloryPoint":153802,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-05T22:00:00.000Z","position":45,"rankingPositionChange":0,"gloryPoint":153695,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-06T22:00:00.000Z","position":45,"rankingPositionChange":0,"gloryPoint":153588,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-07T22:00:00.000Z","position":45,"rankingPositionChange":0,"gloryPoint":153481,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-08T22:00:00.000Z","position":45,"rankingPositionChange":0,"gloryPoint":153481,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-09T22:00:00.000Z","position":45,"rankingPositionChange":0,"gloryPoint":153374,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-10T22:00:00.000Z","position":45,"rankingPositionChange":0,"gloryPoint":153160,"gloryPointChange":-214,"soldierRankID":14},{"date":"2015-08-11T22:00:00.000Z","position":45,"rankingPositionChange":0,"gloryPoint":153160,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-12T22:00:00.000Z","position":45,"rankingPositionChange":0,"gloryPoint":152946,"gloryPointChange":-214,"soldierRankID":14}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Nypad"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"NO CRY","guildID":6517}],"characterName":"Nypad","guildName":"NO CRY","guildID":6517,"position":45,"rankingPositionChange":0,"gloryPoint":152946,"soldierRankID":14}
+{
+ "characterID": 49334,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 45,
+ "rankingPositionChange": 0,
+ "gloryPoint": 152946,
+ "gloryPointChange": -214,
+ "soldierRankID": 14,
+ "characterName": "Nypad",
+ "guildName": "NO CRY",
+ "guildID": 6517,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 43,
+   "rankingPositionChange": 0,
+   "gloryPoint": 154230,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 43,
+   "rankingPositionChange": 0,
+   "gloryPoint": 154123,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 43,
+   "rankingPositionChange": 0,
+   "gloryPoint": 154016,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 44,
+   "rankingPositionChange": -1,
+   "gloryPoint": 153909,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": -1,
+   "gloryPoint": 153802,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": 0,
+   "gloryPoint": 153695,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": 0,
+   "gloryPoint": 153588,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": 0,
+   "gloryPoint": 153481,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": 0,
+   "gloryPoint": 153481,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": 0,
+   "gloryPoint": 153374,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": 0,
+   "gloryPoint": 153160,
+   "gloryPointChange": -214,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": 0,
+   "gloryPoint": 153160,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": 0,
+   "gloryPoint": 152946,
+   "gloryPointChange": -214,
+   "soldierRankID": 14
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Nypad"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "NO CRY",
+   "guildID": 6517
+  }
+ ]
+}

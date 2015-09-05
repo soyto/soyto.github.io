@@ -1,1 +1,196 @@
-{"characterID":1247322,"characterClassID":4,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":383,"rankingPositionChange":-2,"gloryPoint":13610,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":383,"rankingPositionChange":0,"gloryPoint":13582,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":384,"rankingPositionChange":-1,"gloryPoint":13554,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":385,"rankingPositionChange":-1,"gloryPoint":13526,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":386,"rankingPositionChange":-1,"gloryPoint":13498,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":387,"rankingPositionChange":-1,"gloryPoint":13470,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":388,"rankingPositionChange":-1,"gloryPoint":13442,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":390,"rankingPositionChange":-2,"gloryPoint":13414,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":390,"rankingPositionChange":0,"gloryPoint":13414,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":395,"rankingPositionChange":-5,"gloryPoint":13386,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":401,"rankingPositionChange":-6,"gloryPoint":13330,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":401,"rankingPositionChange":0,"gloryPoint":13330,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-12T22:00:00.000Z","position":406,"rankingPositionChange":-5,"gloryPoint":13274,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-13T22:00:00.000Z","position":407,"rankingPositionChange":-1,"gloryPoint":13246,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-14T22:00:00.000Z","position":411,"rankingPositionChange":-4,"gloryPoint":13218,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-15T22:00:00.000Z","position":411,"rankingPositionChange":0,"gloryPoint":13218,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-16T22:00:00.000Z","position":410,"rankingPositionChange":1,"gloryPoint":13190,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-17T22:00:00.000Z","position":412,"rankingPositionChange":-2,"gloryPoint":13162,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-18T22:00:00.000Z","position":414,"rankingPositionChange":-2,"gloryPoint":13106,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-19T22:00:00.000Z","position":416,"rankingPositionChange":-2,"gloryPoint":13078,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-20T22:00:00.000Z","position":416,"rankingPositionChange":0,"gloryPoint":13050,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Xhion"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"The Darkness Rising","guildID":25741}],"characterName":"Xhion","guildName":"The Darkness Rising","guildID":25741,"position":416,"rankingPositionChange":0,"gloryPoint":13050,"soldierRankID":12}
+{
+ "characterID": 1247322,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 416,
+ "rankingPositionChange": 0,
+ "gloryPoint": 13050,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Xhion",
+ "guildName": "The Darkness Rising",
+ "guildID": 25741,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 383,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13610,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 383,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13582,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13554,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 385,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13526,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 386,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13498,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13470,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 388,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13442,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 390,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13414,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 390,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13414,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 395,
+   "rankingPositionChange": -5,
+   "gloryPoint": 13386,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": -6,
+   "gloryPoint": 13330,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13330,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 406,
+   "rankingPositionChange": -5,
+   "gloryPoint": 13274,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 407,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13246,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 411,
+   "rankingPositionChange": -4,
+   "gloryPoint": 13218,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 411,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13218,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 410,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13190,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 412,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13162,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 414,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13106,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13078,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13050,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Xhion"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "The Darkness Rising",
+   "guildID": 25741
+  }
+ ]
+}

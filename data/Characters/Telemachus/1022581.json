@@ -1,1 +1,44 @@
-{"characterID":1022581,"characterClassID":16,"raceID":1,"status":[{"date":"2015-08-07T22:00:00.000Z","position":812,"rankingPositionChange":0,"gloryPoint":1249,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":812,"rankingPositionChange":0,"gloryPoint":1249,"gloryPointChange":0,"soldierRankID":10}],"names":[{"date":"2015-08-07T22:00:00.000Z","characterName":"Matsuu"}],"guilds":[{"date":"2015-08-07T22:00:00.000Z","guildName":"The WildStorm","guildID":8096}],"characterName":"Matsuu","guildName":"The WildStorm","guildID":8096,"position":812,"rankingPositionChange":0,"gloryPoint":1249,"soldierRankID":10}
+{
+ "characterID": 1022581,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 812,
+ "rankingPositionChange": 0,
+ "gloryPoint": 1249,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
+ "characterName": "Matsuu",
+ "guildName": "The WildStorm",
+ "guildID": 8096,
+ "status": [
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1249,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1249,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "characterName": "Matsuu"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "guildName": "The WildStorm",
+   "guildID": 8096
+  }
+ ]
+}

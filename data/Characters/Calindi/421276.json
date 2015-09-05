@@ -1,1 +1,132 @@
-{"characterID":421276,"characterClassID":5,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":541,"rankingPositionChange":0,"gloryPoint":5596,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":545,"rankingPositionChange":-4,"gloryPoint":5582,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":543,"rankingPositionChange":2,"gloryPoint":5568,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":542,"rankingPositionChange":1,"gloryPoint":5554,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":539,"rankingPositionChange":3,"gloryPoint":5540,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":537,"rankingPositionChange":2,"gloryPoint":5526,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":534,"rankingPositionChange":3,"gloryPoint":5512,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":533,"rankingPositionChange":1,"gloryPoint":5498,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":533,"rankingPositionChange":0,"gloryPoint":5498,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-09T22:00:00.000Z","position":533,"rankingPositionChange":0,"gloryPoint":5484,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":526,"rankingPositionChange":7,"gloryPoint":5456,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-11T22:00:00.000Z","position":526,"rankingPositionChange":0,"gloryPoint":5456,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-12T22:00:00.000Z","position":529,"rankingPositionChange":-3,"gloryPoint":5428,"gloryPointChange":-28,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Sosoukee"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"DevilZ","guildID":14285}],"characterName":"Sosoukee","guildName":"DevilZ","guildID":14285,"position":529,"rankingPositionChange":-3,"gloryPoint":5428,"soldierRankID":11}
+{
+ "characterID": 421276,
+ "characterClassID": 5,
+ "raceID": 0,
+ "position": 529,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5428,
+ "gloryPointChange": -28,
+ "soldierRankID": 11,
+ "characterName": "Sosoukee",
+ "guildName": "DevilZ",
+ "guildID": 14285,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 541,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5596,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 545,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5582,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 543,
+   "rankingPositionChange": 2,
+   "gloryPoint": 5568,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 542,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5554,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 539,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5540,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 537,
+   "rankingPositionChange": 2,
+   "gloryPoint": 5526,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 534,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5512,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 533,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5498,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 533,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5498,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 533,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5484,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 526,
+   "rankingPositionChange": 7,
+   "gloryPoint": 5456,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 526,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5456,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 529,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5428,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Sosoukee"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "DevilZ",
+   "guildID": 14285
+  }
+ ]
+}

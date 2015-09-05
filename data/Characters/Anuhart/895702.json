@@ -1,1 +1,132 @@
-{"characterID":895702,"characterClassID":10,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":981,"rankingPositionChange":-3,"gloryPoint":3951,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":982,"rankingPositionChange":-1,"gloryPoint":3944,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":985,"rankingPositionChange":-3,"gloryPoint":3937,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":983,"rankingPositionChange":2,"gloryPoint":3930,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":990,"rankingPositionChange":-7,"gloryPoint":3923,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":991,"rankingPositionChange":-1,"gloryPoint":3916,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":996,"rankingPositionChange":-5,"gloryPoint":3909,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":996,"rankingPositionChange":0,"gloryPoint":3902,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":996,"rankingPositionChange":0,"gloryPoint":3902,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":1000,"rankingPositionChange":-4,"gloryPoint":3895,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-08-14T22:00:00.000Z","position":999,"rankingPositionChange":1,"gloryPoint":3895,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":3895,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-18T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":3888,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Eileencz"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Light Essence CZ","guildID":15457}],"characterName":"Eileencz","guildName":"Light Essence CZ","guildID":15457,"position":999,"rankingPositionChange":0,"gloryPoint":3888,"soldierRankID":10}
+{
+ "characterID": 895702,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 999,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3888,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Eileencz",
+ "guildName": "Light Essence CZ",
+ "guildID": 15457,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3951,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 982,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3944,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3937,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": 2,
+   "gloryPoint": 3930,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -7,
+   "gloryPoint": 3923,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3916,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3909,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3902,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3902,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3895,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3895,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3895,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3888,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Eileencz"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Light Essence CZ",
+   "guildID": 15457
+  }
+ ]
+}

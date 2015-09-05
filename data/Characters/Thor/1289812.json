@@ -1,1 +1,56 @@
-{"characterID":1289812,"characterClassID":10,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":187,"rankingPositionChange":-2,"gloryPoint":69268,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":190,"rankingPositionChange":-3,"gloryPoint":69219,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":192,"rankingPositionChange":-2,"gloryPoint":69170,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":192,"rankingPositionChange":0,"gloryPoint":69121,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Ilvory"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Ilvory","position":192,"rankingPositionChange":0,"gloryPoint":69121,"soldierRankID":13}
+{
+ "characterID": 1289812,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 192,
+ "rankingPositionChange": 0,
+ "gloryPoint": 69121,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Ilvory",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 187,
+   "rankingPositionChange": -2,
+   "gloryPoint": 69268,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 190,
+   "rankingPositionChange": -3,
+   "gloryPoint": 69219,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 192,
+   "rankingPositionChange": -2,
+   "gloryPoint": 69170,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 192,
+   "rankingPositionChange": 0,
+   "gloryPoint": 69121,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Ilvory"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

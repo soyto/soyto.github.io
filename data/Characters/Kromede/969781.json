@@ -1,1 +1,40 @@
-{"characterID":969781,"characterClassID":16,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":992,"rankingPositionChange":0,"gloryPoint":2902,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":991,"rankingPositionChange":1,"gloryPoint":2895,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Ludelei"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z"}],"characterName":"Ludelei","position":991,"rankingPositionChange":1,"gloryPoint":2895,"soldierRankID":10}
+{
+ "characterID": 969781,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 991,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2895,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Ludelei",
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2902,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2895,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Ludelei"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z"
+  }
+ ]
+}

@@ -1,1 +1,128 @@
-{"characterID":626725,"characterClassID":8,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":302,"rankingPositionChange":-2,"gloryPoint":9630,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":304,"rankingPositionChange":-2,"gloryPoint":9602,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":305,"rankingPositionChange":-1,"gloryPoint":9574,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":307,"rankingPositionChange":-2,"gloryPoint":9546,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":308,"rankingPositionChange":-1,"gloryPoint":9518,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":311,"rankingPositionChange":-3,"gloryPoint":9490,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":311,"rankingPositionChange":0,"gloryPoint":9462,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":313,"rankingPositionChange":-2,"gloryPoint":9434,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":313,"rankingPositionChange":0,"gloryPoint":9434,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":310,"rankingPositionChange":3,"gloryPoint":9406,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-10T22:00:00.000Z","position":312,"rankingPositionChange":-2,"gloryPoint":9350,"gloryPointChange":-56,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":312,"rankingPositionChange":0,"gloryPoint":9350,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-12T22:00:00.000Z","position":311,"rankingPositionChange":1,"gloryPoint":9294,"gloryPointChange":-56,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Creawen"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Creawen","position":311,"rankingPositionChange":1,"gloryPoint":9294,"soldierRankID":12}
+{
+ "characterID": 626725,
+ "characterClassID": 8,
+ "raceID": 1,
+ "position": 311,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9294,
+ "gloryPointChange": -56,
+ "soldierRankID": 12,
+ "characterName": "Creawen",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 302,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9630,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 304,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9602,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9574,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9546,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 308,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9518,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9490,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9462,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 313,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9434,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 313,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9434,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 310,
+   "rankingPositionChange": 3,
+   "gloryPoint": 9406,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 312,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9350,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 312,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9350,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9294,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Creawen"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

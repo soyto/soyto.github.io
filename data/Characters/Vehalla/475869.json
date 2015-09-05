@@ -1,1 +1,44 @@
-{"characterID":475869,"characterClassID":13,"raceID":0,"status":[{"date":"2015-08-26T22:00:00.000Z","position":710,"rankingPositionChange":0,"gloryPoint":1256,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":717,"rankingPositionChange":-7,"gloryPoint":1249,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-26T22:00:00.000Z","characterName":"Katifram"}],"guilds":[{"date":"2015-08-26T22:00:00.000Z","guildName":"B L E A C H","guildID":14829}],"characterName":"Katifram","guildName":"B L E A C H","guildID":14829,"position":717,"rankingPositionChange":-7,"gloryPoint":1249,"soldierRankID":10}
+{
+ "characterID": 475869,
+ "characterClassID": 13,
+ "raceID": 0,
+ "position": 717,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1249,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Katifram",
+ "guildName": "B L E A C H",
+ "guildID": 14829,
+ "status": [
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 710,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1256,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 717,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1249,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "characterName": "Katifram"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "guildName": "B L E A C H",
+   "guildID": 14829
+  }
+ ]
+}

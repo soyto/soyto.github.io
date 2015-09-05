@@ -1,1 +1,48 @@
-{"characterID":927970,"characterClassID":4,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":646,"rankingPositionChange":-2,"gloryPoint":1264,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":648,"rankingPositionChange":-2,"gloryPoint":1257,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":655,"rankingPositionChange":-7,"gloryPoint":1250,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Drazula"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Drazula","position":655,"rankingPositionChange":-7,"gloryPoint":1250,"soldierRankID":10}
+{
+ "characterID": 927970,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 655,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1250,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Drazula",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 646,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1264,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 648,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1257,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 655,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1250,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Drazula"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

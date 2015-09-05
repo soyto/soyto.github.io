@@ -1,1 +1,71 @@
-{"characterID":291419,"characterClassID":10,"raceID":1,"status":[{"date":"2015-08-29T22:00:00.000Z","position":995,"rankingPositionChange":0,"gloryPoint":9459,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":976,"rankingPositionChange":19,"gloryPoint":9798,"gloryPointChange":339,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":953,"rankingPositionChange":23,"gloryPoint":10337,"gloryPointChange":539,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":932,"rankingPositionChange":21,"gloryPoint":11078,"gloryPointChange":741,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":921,"rankingPositionChange":11,"gloryPoint":11347,"gloryPointChange":269,"soldierRankID":10}],"names":[{"date":"2015-08-29T22:00:00.000Z","characterName":"Hanuel"}],"guilds":[{"date":"2015-08-29T22:00:00.000Z"},{"date":"2015-08-30T22:00:00.000Z","guildName":"No Clan ","guildID":1461}],"characterName":"Hanuel","guildName":"No Clan ","guildID":1461,"position":921,"rankingPositionChange":11,"gloryPoint":11347,"soldierRankID":10}
+{
+ "characterID": 291419,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 921,
+ "rankingPositionChange": 11,
+ "gloryPoint": 11347,
+ "gloryPointChange": 269,
+ "soldierRankID": 10,
+ "characterName": "Hanuel",
+ "guildName": "No Clan ",
+ "guildID": 1461,
+ "status": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9459,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 976,
+   "rankingPositionChange": 19,
+   "gloryPoint": 9798,
+   "gloryPointChange": 339,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 953,
+   "rankingPositionChange": 23,
+   "gloryPoint": 10337,
+   "gloryPointChange": 539,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 932,
+   "rankingPositionChange": 21,
+   "gloryPoint": 11078,
+   "gloryPointChange": 741,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": 11,
+   "gloryPoint": 11347,
+   "gloryPointChange": 269,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "characterName": "Hanuel"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-29T22:00:00.000Z"
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "No Clan ",
+   "guildID": 1461
+  }
+ ]
+}

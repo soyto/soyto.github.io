@@ -1,1 +1,52 @@
-{"characterID":976574,"characterClassID":8,"raceID":1,"status":[{"date":"2015-08-16T22:00:00.000Z","position":793,"rankingPositionChange":0,"gloryPoint":1265,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":796,"rankingPositionChange":-3,"gloryPoint":1258,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-18T22:00:00.000Z","position":793,"rankingPositionChange":3,"gloryPoint":1244,"gloryPointChange":-14,"soldierRankID":10}],"names":[{"date":"2015-08-16T22:00:00.000Z","characterName":"Punkiecz"}],"guilds":[{"date":"2015-08-16T22:00:00.000Z","guildName":"P U N K E R S","guildID":16923}],"characterName":"Punkiecz","guildName":"P U N K E R S","guildID":16923,"position":793,"rankingPositionChange":3,"gloryPoint":1244,"soldierRankID":10}
+{
+ "characterID": 976574,
+ "characterClassID": 8,
+ "raceID": 1,
+ "position": 793,
+ "rankingPositionChange": 3,
+ "gloryPoint": 1244,
+ "gloryPointChange": -14,
+ "soldierRankID": 10,
+ "characterName": "Punkiecz",
+ "guildName": "P U N K E R S",
+ "guildID": 16923,
+ "status": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 793,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1265,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 796,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1258,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 793,
+   "rankingPositionChange": 3,
+   "gloryPoint": 1244,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "characterName": "Punkiecz"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "guildName": "P U N K E R S",
+   "guildID": 16923
+  }
+ ]
+}

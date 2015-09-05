@@ -1,1 +1,72 @@
-{"characterID":4795,"characterClassID":10,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":309,"rankingPositionChange":-2,"gloryPoint":51601,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":309,"rankingPositionChange":0,"gloryPoint":51573,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":312,"rankingPositionChange":-3,"gloryPoint":51545,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":312,"rankingPositionChange":0,"gloryPoint":51517,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":312,"rankingPositionChange":0,"gloryPoint":51489,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":311,"rankingPositionChange":1,"gloryPoint":51461,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Prizscilla"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Prizscilla","position":311,"rankingPositionChange":1,"gloryPoint":51461,"soldierRankID":12}
+{
+ "characterID": 4795,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 311,
+ "rankingPositionChange": 1,
+ "gloryPoint": 51461,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Prizscilla",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 309,
+   "rankingPositionChange": -2,
+   "gloryPoint": 51601,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 309,
+   "rankingPositionChange": 0,
+   "gloryPoint": 51573,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 312,
+   "rankingPositionChange": -3,
+   "gloryPoint": 51545,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 312,
+   "rankingPositionChange": 0,
+   "gloryPoint": 51517,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 312,
+   "rankingPositionChange": 0,
+   "gloryPoint": 51489,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": 1,
+   "gloryPoint": 51461,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Prizscilla"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

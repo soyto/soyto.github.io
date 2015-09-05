@@ -1,1 +1,44 @@
-{"characterID":814830,"characterClassID":16,"raceID":0,"status":[{"date":"2015-08-29T22:00:00.000Z","position":996,"rankingPositionChange":0,"gloryPoint":1704,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":982,"rankingPositionChange":14,"gloryPoint":1697,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-29T22:00:00.000Z","characterName":"Vellvet"}],"guilds":[{"date":"2015-08-29T22:00:00.000Z","guildName":"Hellgamer","guildID":23427}],"characterName":"Vellvet","guildName":"Hellgamer","guildID":23427,"position":982,"rankingPositionChange":14,"gloryPoint":1697,"soldierRankID":10}
+{
+ "characterID": 814830,
+ "characterClassID": 16,
+ "raceID": 0,
+ "position": 982,
+ "rankingPositionChange": 14,
+ "gloryPoint": 1697,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Vellvet",
+ "guildName": "Hellgamer",
+ "guildID": 23427,
+ "status": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1704,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 982,
+   "rankingPositionChange": 14,
+   "gloryPoint": 1697,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "characterName": "Vellvet"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "Hellgamer",
+   "guildID": 23427
+  }
+ ]
+}

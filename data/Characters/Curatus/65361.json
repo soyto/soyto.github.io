@@ -1,1 +1,40 @@
-{"characterID":65361,"characterClassID":14,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":996,"rankingPositionChange":-4,"gloryPoint":2823,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":998,"rankingPositionChange":-2,"gloryPoint":2816,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Alhambra"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Alhambra","position":998,"rankingPositionChange":-2,"gloryPoint":2816,"soldierRankID":10}
+{
+ "characterID": 65361,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 998,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2816,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Alhambra",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2823,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2816,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Alhambra"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

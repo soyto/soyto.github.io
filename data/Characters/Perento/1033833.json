@@ -1,1 +1,52 @@
-{"characterID":1033833,"characterClassID":8,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":967,"rankingPositionChange":-1,"gloryPoint":5219,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":946,"rankingPositionChange":21,"gloryPoint":5502,"gloryPointChange":283,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":941,"rankingPositionChange":5,"gloryPoint":5595,"gloryPointChange":93,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Victavyre"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Vrai","guildID":21878}],"characterName":"Victavyre","guildName":"Vrai","guildID":21878,"position":941,"rankingPositionChange":5,"gloryPoint":5595,"soldierRankID":10}
+{
+ "characterID": 1033833,
+ "characterClassID": 8,
+ "raceID": 0,
+ "position": 941,
+ "rankingPositionChange": 5,
+ "gloryPoint": 5595,
+ "gloryPointChange": 93,
+ "soldierRankID": 10,
+ "characterName": "Victavyre",
+ "guildName": "Vrai",
+ "guildID": 21878,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5219,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 946,
+   "rankingPositionChange": 21,
+   "gloryPoint": 5502,
+   "gloryPointChange": 283,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 941,
+   "rankingPositionChange": 5,
+   "gloryPoint": 5595,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Victavyre"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Vrai",
+   "guildID": 21878
+  }
+ ]
+}

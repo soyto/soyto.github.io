@@ -1,1 +1,44 @@
-{"characterID":831913,"characterClassID":16,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":989,"rankingPositionChange":0,"gloryPoint":5637,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":975,"rankingPositionChange":14,"gloryPoint":5730,"gloryPointChange":93,"soldierRankID":10}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Darkwatch"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z","guildName":" Game Over","guildID":14281}],"characterName":"Darkwatch","guildName":" Game Over","guildID":14281,"position":975,"rankingPositionChange":14,"gloryPoint":5730,"soldierRankID":10}
+{
+ "characterID": 831913,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 975,
+ "rankingPositionChange": 14,
+ "gloryPoint": 5730,
+ "gloryPointChange": 93,
+ "soldierRankID": 10,
+ "characterName": "Darkwatch",
+ "guildName": " Game Over",
+ "guildID": 14281,
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5637,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": 14,
+   "gloryPoint": 5730,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Darkwatch"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "guildName": " Game Over",
+   "guildID": 14281
+  }
+ ]
+}

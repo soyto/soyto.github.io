@@ -1,1 +1,40 @@
-{"characterID":804601,"characterClassID":7,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":291,"rankingPositionChange":0,"gloryPoint":11496,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-09-03T22:00:00.000Z","position":290,"rankingPositionChange":1,"gloryPoint":11447,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Lillyrose"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z"}],"characterName":"Lillyrose","position":290,"rankingPositionChange":1,"gloryPoint":11447,"soldierRankID":13}
+{
+ "characterID": 804601,
+ "characterClassID": 7,
+ "raceID": 1,
+ "position": 290,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11447,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Lillyrose",
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 291,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11496,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 290,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11447,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Lillyrose"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z"
+  }
+ ]
+}

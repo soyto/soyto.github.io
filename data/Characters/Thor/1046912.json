@@ -1,1 +1,52 @@
-{"characterID":1046912,"characterClassID":7,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":748,"rankingPositionChange":0,"gloryPoint":22758,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":750,"rankingPositionChange":-2,"gloryPoint":22751,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":751,"rankingPositionChange":-1,"gloryPoint":22744,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Alersia"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"VectorReloaded","guildID":29870}],"characterName":"Alersia","guildName":"VectorReloaded","guildID":29870,"position":751,"rankingPositionChange":-1,"gloryPoint":22744,"soldierRankID":10}
+{
+ "characterID": 1046912,
+ "characterClassID": 7,
+ "raceID": 0,
+ "position": 751,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22744,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Alersia",
+ "guildName": "VectorReloaded",
+ "guildID": 29870,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 748,
+   "rankingPositionChange": 0,
+   "gloryPoint": 22758,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 750,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22751,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 751,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22744,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Alersia"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "VectorReloaded",
+   "guildID": 29870
+  }
+ ]
+}

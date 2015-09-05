@@ -1,1 +1,52 @@
-{"characterID":892468,"characterClassID":16,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":984,"rankingPositionChange":0,"gloryPoint":7372,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":995,"rankingPositionChange":-11,"gloryPoint":7451,"gloryPointChange":79,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":981,"rankingPositionChange":14,"gloryPoint":7749,"gloryPointChange":298,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Taniia"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Hell Wings RO","guildID":13643}],"characterName":"Taniia","guildName":"Hell Wings RO","guildID":13643,"position":981,"rankingPositionChange":14,"gloryPoint":7749,"soldierRankID":10}
+{
+ "characterID": 892468,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 981,
+ "rankingPositionChange": 14,
+ "gloryPoint": 7749,
+ "gloryPointChange": 298,
+ "soldierRankID": 10,
+ "characterName": "Taniia",
+ "guildName": "Hell Wings RO",
+ "guildID": 13643,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7372,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": -11,
+   "gloryPoint": 7451,
+   "gloryPointChange": 79,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": 14,
+   "gloryPoint": 7749,
+   "gloryPointChange": 298,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Taniia"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Hell Wings RO",
+   "guildID": 13643
+  }
+ ]
+}

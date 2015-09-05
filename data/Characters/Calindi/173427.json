@@ -1,1 +1,52 @@
-{"characterID":173427,"characterClassID":4,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":162,"rankingPositionChange":1,"gloryPoint":49857,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":163,"rankingPositionChange":-1,"gloryPoint":49808,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":163,"rankingPositionChange":0,"gloryPoint":49759,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Uzumakiminato"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Never Back Down","guildID":6296}],"characterName":"Uzumakiminato","guildName":"Never Back Down","guildID":6296,"position":163,"rankingPositionChange":0,"gloryPoint":49759,"soldierRankID":13}
+{
+ "characterID": 173427,
+ "characterClassID": 4,
+ "raceID": 0,
+ "position": 163,
+ "rankingPositionChange": 0,
+ "gloryPoint": 49759,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Uzumakiminato",
+ "guildName": "Never Back Down",
+ "guildID": 6296,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": 1,
+   "gloryPoint": 49857,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 163,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49808,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 163,
+   "rankingPositionChange": 0,
+   "gloryPoint": 49759,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Uzumakiminato"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Never Back Down",
+   "guildID": 6296
+  }
+ ]
+}

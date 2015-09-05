@@ -1,1 +1,176 @@
-{"characterID":389450,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":667,"rankingPositionChange":-4,"gloryPoint":1305,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":671,"rankingPositionChange":-4,"gloryPoint":1298,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":678,"rankingPositionChange":-7,"gloryPoint":1291,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":679,"rankingPositionChange":-1,"gloryPoint":1284,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":686,"rankingPositionChange":-7,"gloryPoint":1277,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":692,"rankingPositionChange":-6,"gloryPoint":1270,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":692,"rankingPositionChange":0,"gloryPoint":1263,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":696,"rankingPositionChange":-4,"gloryPoint":1256,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":696,"rankingPositionChange":0,"gloryPoint":1256,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":627,"rankingPositionChange":69,"gloryPoint":1343,"gloryPointChange":87,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":641,"rankingPositionChange":-14,"gloryPoint":1329,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":644,"rankingPositionChange":-3,"gloryPoint":1315,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":642,"rankingPositionChange":2,"gloryPoint":1308,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":645,"rankingPositionChange":-3,"gloryPoint":1301,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":653,"rankingPositionChange":-8,"gloryPoint":1294,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":661,"rankingPositionChange":-8,"gloryPoint":1287,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":672,"rankingPositionChange":-11,"gloryPoint":1266,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":673,"rankingPositionChange":-1,"gloryPoint":1259,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":677,"rankingPositionChange":-4,"gloryPoint":1252,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Legolaars"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Legolaars","position":677,"rankingPositionChange":-4,"gloryPoint":1252,"soldierRankID":10}
+{
+ "characterID": 389450,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 677,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1252,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Legolaars",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 667,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1305,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1298,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 678,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1291,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1284,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 686,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1277,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 692,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1270,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 692,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1263,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 696,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1256,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 696,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1256,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 627,
+   "rankingPositionChange": 69,
+   "gloryPoint": 1343,
+   "gloryPointChange": 87,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": -14,
+   "gloryPoint": 1329,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 644,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1315,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 642,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1308,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 645,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1301,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1294,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 661,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1287,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 672,
+   "rankingPositionChange": -11,
+   "gloryPoint": 1266,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 673,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1259,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 677,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1252,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Legolaars"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

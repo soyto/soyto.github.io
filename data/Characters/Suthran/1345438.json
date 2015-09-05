@@ -1,1 +1,68 @@
-{"characterID":1345438,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-29T22:00:00.000Z","position":986,"rankingPositionChange":0,"gloryPoint":4494,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":979,"rankingPositionChange":7,"gloryPoint":4537,"gloryPointChange":43,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":949,"rankingPositionChange":30,"gloryPoint":4893,"gloryPointChange":356,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":916,"rankingPositionChange":33,"gloryPoint":5226,"gloryPointChange":333,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":917,"rankingPositionChange":-1,"gloryPoint":5219,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-29T22:00:00.000Z","characterName":"Milleyna"}],"guilds":[{"date":"2015-08-29T22:00:00.000Z","guildName":"oO Order of Elites Oo","guildID":38970}],"characterName":"Milleyna","guildName":"oO Order of Elites Oo","guildID":38970,"position":917,"rankingPositionChange":-1,"gloryPoint":5219,"soldierRankID":10}
+{
+ "characterID": 1345438,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 917,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5219,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Milleyna",
+ "guildName": "oO Order of Elites Oo",
+ "guildID": 38970,
+ "status": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4494,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 979,
+   "rankingPositionChange": 7,
+   "gloryPoint": 4537,
+   "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": 30,
+   "gloryPoint": 4893,
+   "gloryPointChange": 356,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": 33,
+   "gloryPoint": 5226,
+   "gloryPointChange": 333,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 917,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5219,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "characterName": "Milleyna"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "oO Order of Elites Oo",
+   "guildID": 38970
+  }
+ ]
+}

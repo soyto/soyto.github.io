@@ -1,1 +1,76 @@
-{"characterID":908256,"characterClassID":7,"raceID":1,"status":[{"date":"2015-08-28T22:00:00.000Z","position":92,"rankingPositionChange":0,"gloryPoint":63312,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-08-29T22:00:00.000Z","position":92,"rankingPositionChange":0,"gloryPoint":63205,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-08-30T22:00:00.000Z","position":93,"rankingPositionChange":-1,"gloryPoint":63098,"gloryPointChange":-107,"soldierRankID":14},{"date":"2015-09-01T22:00:00.000Z","position":96,"rankingPositionChange":-3,"gloryPoint":62777,"gloryPointChange":-321,"soldierRankID":14},{"date":"2015-09-02T22:00:00.000Z","position":97,"rankingPositionChange":-1,"gloryPoint":63020,"gloryPointChange":243,"soldierRankID":14},{"date":"2015-09-03T22:00:00.000Z","position":97,"rankingPositionChange":0,"gloryPoint":62913,"gloryPointChange":-107,"soldierRankID":14}],"names":[{"date":"2015-08-28T22:00:00.000Z","characterName":"Bibyyy"}],"guilds":[{"date":"2015-08-28T22:00:00.000Z","guildName":"You Are Not Alone","guildID":18803}],"characterName":"Bibyyy","guildName":"You Are Not Alone","guildID":18803,"position":97,"rankingPositionChange":0,"gloryPoint":62913,"soldierRankID":14}
+{
+ "characterID": 908256,
+ "characterClassID": 7,
+ "raceID": 1,
+ "position": 97,
+ "rankingPositionChange": 0,
+ "gloryPoint": 62913,
+ "gloryPointChange": -107,
+ "soldierRankID": 14,
+ "characterName": "Bibyyy",
+ "guildName": "You Are Not Alone",
+ "guildID": 18803,
+ "status": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": 0,
+   "gloryPoint": 63312,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": 0,
+   "gloryPoint": 63205,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": -1,
+   "gloryPoint": 63098,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 96,
+   "rankingPositionChange": -3,
+   "gloryPoint": 62777,
+   "gloryPointChange": -321,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 97,
+   "rankingPositionChange": -1,
+   "gloryPoint": 63020,
+   "gloryPointChange": 243,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 97,
+   "rankingPositionChange": 0,
+   "gloryPoint": 62913,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "characterName": "Bibyyy"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "guildName": "You Are Not Alone",
+   "guildID": 18803
+  }
+ ]
+}

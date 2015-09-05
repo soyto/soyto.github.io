@@ -1,1 +1,68 @@
-{"characterID":430613,"characterClassID":10,"raceID":0,"status":[{"date":"2015-08-29T22:00:00.000Z","position":723,"rankingPositionChange":0,"gloryPoint":15430,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":723,"rankingPositionChange":0,"gloryPoint":15423,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":722,"rankingPositionChange":1,"gloryPoint":15402,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":723,"rankingPositionChange":-1,"gloryPoint":15395,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":725,"rankingPositionChange":-2,"gloryPoint":15388,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-29T22:00:00.000Z","characterName":"Xheal"}],"guilds":[{"date":"2015-08-29T22:00:00.000Z","guildName":"EnVisIoN","guildID":21988}],"characterName":"Xheal","guildName":"EnVisIoN","guildID":21988,"position":725,"rankingPositionChange":-2,"gloryPoint":15388,"soldierRankID":10}
+{
+ "characterID": 430613,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 725,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15388,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Xheal",
+ "guildName": "EnVisIoN",
+ "guildID": 21988,
+ "status": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 723,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15430,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 723,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15423,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 722,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15402,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 723,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15395,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 725,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15388,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "characterName": "Xheal"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "EnVisIoN",
+   "guildID": 21988
+  }
+ ]
+}

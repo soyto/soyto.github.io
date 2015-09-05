@@ -1,1 +1,44 @@
-{"characterID":163988,"characterClassID":10,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":32,"rankingPositionChange":0,"gloryPoint":138242,"gloryPointChange":0,"soldierRankID":14},{"date":"2015-09-03T22:00:00.000Z","position":32,"rankingPositionChange":0,"gloryPoint":138688,"gloryPointChange":446,"soldierRankID":14}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Onhae"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z","guildName":"Dark Einhasad","guildID":2603}],"characterName":"Onhae","guildName":"Dark Einhasad","guildID":2603,"position":32,"rankingPositionChange":0,"gloryPoint":138688,"soldierRankID":14}
+{
+ "characterID": 163988,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 32,
+ "rankingPositionChange": 0,
+ "gloryPoint": 138688,
+ "gloryPointChange": 446,
+ "soldierRankID": 14,
+ "characterName": "Onhae",
+ "guildName": "Dark Einhasad",
+ "guildID": 2603,
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 32,
+   "rankingPositionChange": 0,
+   "gloryPoint": 138242,
+   "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 32,
+   "rankingPositionChange": 0,
+   "gloryPoint": 138688,
+   "gloryPointChange": 446,
+   "soldierRankID": 14
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Onhae"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "guildName": "Dark Einhasad",
+   "guildID": 2603
+  }
+ ]
+}

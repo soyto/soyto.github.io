@@ -1,1 +1,52 @@
-{"characterID":1179933,"characterClassID":8,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":875,"rankingPositionChange":-3,"gloryPoint":5202,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":879,"rankingPositionChange":-4,"gloryPoint":5195,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":881,"rankingPositionChange":-2,"gloryPoint":5188,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Sirsami"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"We Born To Kill ","guildID":19962}],"characterName":"Sirsami","guildName":"We Born To Kill ","guildID":19962,"position":881,"rankingPositionChange":-2,"gloryPoint":5188,"soldierRankID":10}
+{
+ "characterID": 1179933,
+ "characterClassID": 8,
+ "raceID": 0,
+ "position": 881,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5188,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Sirsami",
+ "guildName": "We Born To Kill ",
+ "guildID": 19962,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 875,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5202,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 879,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5195,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 881,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5188,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Sirsami"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "We Born To Kill ",
+   "guildID": 19962
+  }
+ ]
+}

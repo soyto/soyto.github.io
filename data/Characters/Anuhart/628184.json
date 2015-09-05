@@ -1,1 +1,68 @@
-{"characterID":628184,"characterClassID":8,"raceID":0,"status":[{"date":"2015-08-29T22:00:00.000Z","position":437,"rankingPositionChange":0,"gloryPoint":17632,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-30T22:00:00.000Z","position":436,"rankingPositionChange":1,"gloryPoint":17604,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-09-01T22:00:00.000Z","position":442,"rankingPositionChange":-6,"gloryPoint":17520,"gloryPointChange":-84,"soldierRankID":12},{"date":"2015-09-02T22:00:00.000Z","position":442,"rankingPositionChange":0,"gloryPoint":17492,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-09-03T22:00:00.000Z","position":445,"rankingPositionChange":-3,"gloryPoint":17464,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-08-29T22:00:00.000Z","characterName":"Kyottosima"}],"guilds":[{"date":"2015-08-29T22:00:00.000Z","guildName":"Malefics","guildID":9723}],"characterName":"Kyottosima","guildName":"Malefics","guildID":9723,"position":445,"rankingPositionChange":-3,"gloryPoint":17464,"soldierRankID":12}
+{
+ "characterID": 628184,
+ "characterClassID": 8,
+ "raceID": 0,
+ "position": 445,
+ "rankingPositionChange": -3,
+ "gloryPoint": 17464,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Kyottosima",
+ "guildName": "Malefics",
+ "guildID": 9723,
+ "status": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 437,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17632,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 436,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17604,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 442,
+   "rankingPositionChange": -6,
+   "gloryPoint": 17520,
+   "gloryPointChange": -84,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 442,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17492,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 445,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17464,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "characterName": "Kyottosima"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "Malefics",
+   "guildID": 9723
+  }
+ ]
+}

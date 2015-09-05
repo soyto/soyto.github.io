@@ -1,1 +1,84 @@
-{"characterID":1420008,"characterClassID":14,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":830,"rankingPositionChange":0,"gloryPoint":9056,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":830,"rankingPositionChange":0,"gloryPoint":9049,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":830,"rankingPositionChange":0,"gloryPoint":9042,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":831,"rankingPositionChange":-1,"gloryPoint":9035,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":834,"rankingPositionChange":-3,"gloryPoint":9028,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":834,"rankingPositionChange":0,"gloryPoint":9021,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":832,"rankingPositionChange":2,"gloryPoint":9014,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Lyoiell"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"CZ Sky Legion CZ","guildID":21344}],"characterName":"Lyoiell","guildName":"CZ Sky Legion CZ","guildID":21344,"position":832,"rankingPositionChange":2,"gloryPoint":9014,"soldierRankID":10}
+{
+ "characterID": 1420008,
+ "characterClassID": 14,
+ "raceID": 0,
+ "position": 832,
+ "rankingPositionChange": 2,
+ "gloryPoint": 9014,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Lyoiell",
+ "guildName": "CZ Sky Legion CZ",
+ "guildID": 21344,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 830,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9056,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 830,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9049,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 830,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9042,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 831,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9035,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 834,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9028,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 834,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9021,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 832,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9014,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Lyoiell"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "CZ Sky Legion CZ",
+   "guildID": 21344
+  }
+ ]
+}

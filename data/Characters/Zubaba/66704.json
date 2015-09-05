@@ -1,1 +1,95 @@
-{"characterID":66704,"characterClassID":14,"raceID":1,"status":[{"date":"2015-08-26T22:00:00.000Z","position":965,"rankingPositionChange":0,"gloryPoint":1256,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":887,"rankingPositionChange":78,"gloryPoint":1646,"gloryPointChange":390,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":886,"rankingPositionChange":1,"gloryPoint":1639,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":876,"rankingPositionChange":10,"gloryPoint":1730,"gloryPointChange":91,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":876,"rankingPositionChange":0,"gloryPoint":1723,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":877,"rankingPositionChange":-1,"gloryPoint":1702,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":882,"rankingPositionChange":-5,"gloryPoint":1695,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":882,"rankingPositionChange":0,"gloryPoint":1688,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-26T22:00:00.000Z","characterName":"Hazardous"}],"guilds":[{"date":"2015-08-26T22:00:00.000Z"},{"date":"2015-09-01T22:00:00.000Z","guildName":"Golden Power","guildID":6826}],"characterName":"Hazardous","guildName":"Golden Power","guildID":6826,"position":882,"rankingPositionChange":0,"gloryPoint":1688,"soldierRankID":10}
+{
+ "characterID": 66704,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 882,
+ "rankingPositionChange": 0,
+ "gloryPoint": 1688,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Hazardous",
+ "guildName": "Golden Power",
+ "guildID": 6826,
+ "status": [
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 965,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1256,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 887,
+   "rankingPositionChange": 78,
+   "gloryPoint": 1646,
+   "gloryPointChange": 390,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 886,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1639,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 876,
+   "rankingPositionChange": 10,
+   "gloryPoint": 1730,
+   "gloryPointChange": 91,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 876,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1723,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 877,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1702,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1695,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1688,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "characterName": "Hazardous"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-26T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Golden Power",
+   "guildID": 6826
+  }
+ ]
+}

@@ -1,1 +1,44 @@
-{"characterID":435430,"characterClassID":7,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":662,"rankingPositionChange":0,"gloryPoint":4503,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":663,"rankingPositionChange":-1,"gloryPoint":4489,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Buhiaaaah"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z","guildName":"Prets","guildID":11223}],"characterName":"Buhiaaaah","guildName":"Prets","guildID":11223,"position":663,"rankingPositionChange":-1,"gloryPoint":4489,"soldierRankID":11}
+{
+ "characterID": 435430,
+ "characterClassID": 7,
+ "raceID": 1,
+ "position": 663,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4489,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Buhiaaaah",
+ "guildName": "Prets",
+ "guildID": 11223,
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 662,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4503,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 663,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4489,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Buhiaaaah"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "guildName": "Prets",
+   "guildID": 11223
+  }
+ ]
+}

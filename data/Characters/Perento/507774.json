@@ -1,1 +1,56 @@
-{"characterID":507774,"characterClassID":2,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":996,"rankingPositionChange":-4,"gloryPoint":4449,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":997,"rankingPositionChange":-1,"gloryPoint":4442,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":1000,"rankingPositionChange":-3,"gloryPoint":4435,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-08-04T22:00:00.000Z","position":1000,"rankingPositionChange":0,"gloryPoint":4435,"gloryPointChange":0,"soldierRankID":0}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Naerila"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Naerila","position":1000,"rankingPositionChange":0,"gloryPoint":4435,"soldierRankID":0}
+{
+ "characterID": 507774,
+ "characterClassID": 2,
+ "raceID": 0,
+ "position": 1000,
+ "rankingPositionChange": 0,
+ "gloryPoint": 4435,
+ "gloryPointChange": 0,
+ "soldierRankID": 0,
+ "characterName": "Naerila",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4449,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4442,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4435,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4435,
+   "gloryPointChange": 0,
+   "soldierRankID": 0
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Naerila"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

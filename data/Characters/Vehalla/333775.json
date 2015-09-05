@@ -1,1 +1,44 @@
-{"characterID":333775,"characterClassID":8,"raceID":0,"status":[{"date":"2015-08-27T22:00:00.000Z","position":712,"rankingPositionChange":76,"gloryPoint":1252,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":719,"rankingPositionChange":-7,"gloryPoint":1245,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-27T22:00:00.000Z","characterName":"Verwuschelt"}],"guilds":[{"date":"2015-08-27T22:00:00.000Z","guildName":"Angels of Aion","guildID":8164}],"characterName":"Verwuschelt","guildName":"Angels of Aion","guildID":8164,"position":719,"rankingPositionChange":-7,"gloryPoint":1245,"soldierRankID":10}
+{
+ "characterID": 333775,
+ "characterClassID": 8,
+ "raceID": 0,
+ "position": 719,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1245,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Verwuschelt",
+ "guildName": "Angels of Aion",
+ "guildID": 8164,
+ "status": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 712,
+   "rankingPositionChange": 76,
+   "gloryPoint": 1252,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 719,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1245,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "characterName": "Verwuschelt"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "guildName": "Angels of Aion",
+   "guildID": 8164
+  }
+ ]
+}

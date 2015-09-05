@@ -1,1 +1,48 @@
-{"characterID":1081783,"characterClassID":14,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":538,"rankingPositionChange":0,"gloryPoint":21157,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":537,"rankingPositionChange":1,"gloryPoint":21143,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":540,"rankingPositionChange":-3,"gloryPoint":21129,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Shrapnel"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z"}],"characterName":"Shrapnel","position":540,"rankingPositionChange":-3,"gloryPoint":21129,"soldierRankID":11}
+{
+ "characterID": 1081783,
+ "characterClassID": 14,
+ "raceID": 0,
+ "position": 540,
+ "rankingPositionChange": -3,
+ "gloryPoint": 21129,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Shrapnel",
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21157,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 537,
+   "rankingPositionChange": 1,
+   "gloryPoint": 21143,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": -3,
+   "gloryPoint": 21129,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Shrapnel"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z"
+  }
+ ]
+}

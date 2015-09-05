@@ -1,1 +1,48 @@
-{"characterID":531667,"characterClassID":4,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":245,"rankingPositionChange":-1,"gloryPoint":46361,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":246,"rankingPositionChange":-1,"gloryPoint":46312,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":246,"rankingPositionChange":0,"gloryPoint":46263,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Mikysma"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Mikysma","position":246,"rankingPositionChange":0,"gloryPoint":46263,"soldierRankID":13}
+{
+ "characterID": 531667,
+ "characterClassID": 4,
+ "raceID": 0,
+ "position": 246,
+ "rankingPositionChange": 0,
+ "gloryPoint": 46263,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Mikysma",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46361,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 246,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46312,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 246,
+   "rankingPositionChange": 0,
+   "gloryPoint": 46263,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Mikysma"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

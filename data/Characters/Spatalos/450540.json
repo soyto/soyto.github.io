@@ -1,1 +1,44 @@
-{"characterID":450540,"characterClassID":11,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":978,"rankingPositionChange":0,"gloryPoint":2118,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":956,"rankingPositionChange":22,"gloryPoint":2271,"gloryPointChange":153,"soldierRankID":10}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Chassandra"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z","guildName":"Doom","guildID":27423}],"characterName":"Chassandra","guildName":"Doom","guildID":27423,"position":956,"rankingPositionChange":22,"gloryPoint":2271,"soldierRankID":10}
+{
+ "characterID": 450540,
+ "characterClassID": 11,
+ "raceID": 1,
+ "position": 956,
+ "rankingPositionChange": 22,
+ "gloryPoint": 2271,
+ "gloryPointChange": 153,
+ "soldierRankID": 10,
+ "characterName": "Chassandra",
+ "guildName": "Doom",
+ "guildID": 27423,
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2118,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 956,
+   "rankingPositionChange": 22,
+   "gloryPoint": 2271,
+   "gloryPointChange": 153,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Chassandra"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "guildName": "Doom",
+   "guildID": 27423
+  }
+ ]
+}

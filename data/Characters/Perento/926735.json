@@ -1,1 +1,68 @@
-{"characterID":926735,"characterClassID":1,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":30,"rankingPositionChange":0,"gloryPoint":220988,"gloryPointChange":0,"soldierRankID":15},{"date":"2015-08-01T22:00:00.000Z","position":30,"rankingPositionChange":0,"gloryPoint":220869,"gloryPointChange":-119,"soldierRankID":15},{"date":"2015-08-02T22:00:00.000Z","position":30,"rankingPositionChange":0,"gloryPoint":220750,"gloryPointChange":-119,"soldierRankID":15},{"date":"2015-08-03T22:00:00.000Z","position":30,"rankingPositionChange":0,"gloryPoint":220631,"gloryPointChange":-119,"soldierRankID":15},{"date":"2015-08-04T22:00:00.000Z","position":30,"rankingPositionChange":0,"gloryPoint":220512,"gloryPointChange":-119,"soldierRankID":15}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Remys"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"The Black Dozen","guildID":19646}],"characterName":"Remys","guildName":"The Black Dozen","guildID":19646,"position":30,"rankingPositionChange":0,"gloryPoint":220512,"soldierRankID":15}
+{
+ "characterID": 926735,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 30,
+ "rankingPositionChange": 0,
+ "gloryPoint": 220512,
+ "gloryPointChange": -119,
+ "soldierRankID": 15,
+ "characterName": "Remys",
+ "guildName": "The Black Dozen",
+ "guildID": 19646,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 30,
+   "rankingPositionChange": 0,
+   "gloryPoint": 220988,
+   "gloryPointChange": 0,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 30,
+   "rankingPositionChange": 0,
+   "gloryPoint": 220869,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 30,
+   "rankingPositionChange": 0,
+   "gloryPoint": 220750,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 30,
+   "rankingPositionChange": 0,
+   "gloryPoint": 220631,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 30,
+   "rankingPositionChange": 0,
+   "gloryPoint": 220512,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Remys"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "The Black Dozen",
+   "guildID": 19646
+  }
+ ]
+}

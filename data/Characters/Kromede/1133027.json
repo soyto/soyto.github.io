@@ -1,1 +1,60 @@
-{"characterID":1133027,"characterClassID":14,"raceID":1,"status":[{"date":"2015-08-03T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":2501,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":2504,"gloryPointChange":3,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":997,"rankingPositionChange":2,"gloryPoint":2497,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":997,"rankingPositionChange":0,"gloryPoint":2497,"gloryPointChange":0,"soldierRankID":10}],"names":[{"date":"2015-08-03T22:00:00.000Z","characterName":"Malliina"}],"guilds":[{"date":"2015-08-03T22:00:00.000Z","guildName":"Legio ex Umbrae","guildID":36389}],"characterName":"Malliina","guildName":"Legio ex Umbrae","guildID":36389,"position":997,"rankingPositionChange":0,"gloryPoint":2497,"soldierRankID":10}
+{
+ "characterID": 1133027,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 997,
+ "rankingPositionChange": 0,
+ "gloryPoint": 2497,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
+ "characterName": "Malliina",
+ "guildName": "Legio ex Umbrae",
+ "guildID": 36389,
+ "status": [
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2501,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2504,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 2,
+   "gloryPoint": 2497,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2497,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "characterName": "Malliina"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "guildName": "Legio ex Umbrae",
+   "guildID": 36389
+  }
+ ]
+}

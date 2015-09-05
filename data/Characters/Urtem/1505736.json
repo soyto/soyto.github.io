@@ -1,1 +1,52 @@
-{"characterID":1505736,"characterClassID":4,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":999,"rankingPositionChange":1,"gloryPoint":13387,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":993,"rankingPositionChange":6,"gloryPoint":13410,"gloryPointChange":23,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":978,"rankingPositionChange":15,"gloryPoint":13634,"gloryPointChange":224,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Jeanthug"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Momentum Invictus","guildID":41991}],"characterName":"Jeanthug","guildName":"Momentum Invictus","guildID":41991,"position":978,"rankingPositionChange":15,"gloryPoint":13634,"soldierRankID":10}
+{
+ "characterID": 1505736,
+ "characterClassID": 4,
+ "raceID": 0,
+ "position": 978,
+ "rankingPositionChange": 15,
+ "gloryPoint": 13634,
+ "gloryPointChange": 224,
+ "soldierRankID": 10,
+ "characterName": "Jeanthug",
+ "guildName": "Momentum Invictus",
+ "guildID": 41991,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13387,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": 6,
+   "gloryPoint": 13410,
+   "gloryPointChange": 23,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": 15,
+   "gloryPoint": 13634,
+   "gloryPointChange": 224,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Jeanthug"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Momentum Invictus",
+   "guildID": 41991
+  }
+ ]
+}

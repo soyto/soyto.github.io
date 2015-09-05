@@ -1,1 +1,84 @@
-{"characterID":2124,"characterClassID":2,"raceID":1,"status":[{"date":"2015-08-27T22:00:00.000Z","position":881,"rankingPositionChange":0,"gloryPoint":1703,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":813,"rankingPositionChange":68,"gloryPoint":2261,"gloryPointChange":558,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":765,"rankingPositionChange":48,"gloryPoint":2927,"gloryPointChange":666,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":687,"rankingPositionChange":78,"gloryPoint":3859,"gloryPointChange":932,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":653,"rankingPositionChange":34,"gloryPoint":4580,"gloryPointChange":721,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":656,"rankingPositionChange":-3,"gloryPoint":4566,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":654,"rankingPositionChange":2,"gloryPoint":4552,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-08-27T22:00:00.000Z","characterName":"Quit"}],"guilds":[{"date":"2015-08-27T22:00:00.000Z","guildName":"KIZIL ORDU","guildID":1010}],"characterName":"Quit","guildName":"KIZIL ORDU","guildID":1010,"position":654,"rankingPositionChange":2,"gloryPoint":4552,"soldierRankID":11}
+{
+ "characterID": 2124,
+ "characterClassID": 2,
+ "raceID": 1,
+ "position": 654,
+ "rankingPositionChange": 2,
+ "gloryPoint": 4552,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Quit",
+ "guildName": "KIZIL ORDU",
+ "guildID": 1010,
+ "status": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 881,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1703,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 813,
+   "rankingPositionChange": 68,
+   "gloryPoint": 2261,
+   "gloryPointChange": 558,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 765,
+   "rankingPositionChange": 48,
+   "gloryPoint": 2927,
+   "gloryPointChange": 666,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": 78,
+   "gloryPoint": 3859,
+   "gloryPointChange": 932,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": 34,
+   "gloryPoint": 4580,
+   "gloryPointChange": 721,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 656,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4566,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 654,
+   "rankingPositionChange": 2,
+   "gloryPoint": 4552,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "characterName": "Quit"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "guildName": "KIZIL ORDU",
+   "guildID": 1010
+  }
+ ]
+}

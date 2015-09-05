@@ -1,1 +1,60 @@
-{"characterID":182421,"characterClassID":8,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":664,"rankingPositionChange":-2,"gloryPoint":18432,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":665,"rankingPositionChange":-1,"gloryPoint":18418,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":666,"rankingPositionChange":-1,"gloryPoint":18404,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":665,"rankingPositionChange":1,"gloryPoint":18390,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Falion"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":" Oblivion ","guildID":2881}],"characterName":"Falion","guildName":" Oblivion ","guildID":2881,"position":665,"rankingPositionChange":1,"gloryPoint":18390,"soldierRankID":11}
+{
+ "characterID": 182421,
+ "characterClassID": 8,
+ "raceID": 0,
+ "position": 665,
+ "rankingPositionChange": 1,
+ "gloryPoint": 18390,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Falion",
+ "guildName": " Oblivion ",
+ "guildID": 2881,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 664,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18432,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18418,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 666,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18404,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": 1,
+   "gloryPoint": 18390,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Falion"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": " Oblivion ",
+   "guildID": 2881
+  }
+ ]
+}

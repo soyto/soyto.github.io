@@ -1,1 +1,52 @@
-{"characterID":787902,"characterClassID":14,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":990,"rankingPositionChange":0,"gloryPoint":7343,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":1000,"rankingPositionChange":-10,"gloryPoint":7336,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-09-03T22:00:00.000Z","position":980,"rankingPositionChange":20,"gloryPoint":7754,"gloryPointChange":418,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Suiton"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Pannon Reborn","guildID":13410}],"characterName":"Suiton","guildName":"Pannon Reborn","guildID":13410,"position":980,"rankingPositionChange":20,"gloryPoint":7754,"soldierRankID":10}
+{
+ "characterID": 787902,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 980,
+ "rankingPositionChange": 20,
+ "gloryPoint": 7754,
+ "gloryPointChange": 418,
+ "soldierRankID": 10,
+ "characterName": "Suiton",
+ "guildName": "Pannon Reborn",
+ "guildID": 13410,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7343,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -10,
+   "gloryPoint": 7336,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": 20,
+   "gloryPoint": 7754,
+   "gloryPointChange": 418,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Suiton"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Pannon Reborn",
+   "guildID": 13410
+  }
+ ]
+}

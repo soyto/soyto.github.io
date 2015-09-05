@@ -1,1 +1,172 @@
-{"characterID":1271838,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":533,"rankingPositionChange":-4,"gloryPoint":7569,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":535,"rankingPositionChange":-2,"gloryPoint":7555,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":536,"rankingPositionChange":-1,"gloryPoint":7541,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-18T22:00:00.000Z","position":577,"rankingPositionChange":-41,"gloryPoint":7345,"gloryPointChange":-196,"soldierRankID":11},{"date":"2015-08-19T22:00:00.000Z","position":581,"rankingPositionChange":-4,"gloryPoint":7331,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-20T22:00:00.000Z","position":572,"rankingPositionChange":9,"gloryPoint":7553,"gloryPointChange":222,"soldierRankID":11},{"date":"2015-08-21T22:00:00.000Z","position":559,"rankingPositionChange":13,"gloryPoint":7852,"gloryPointChange":299,"soldierRankID":11},{"date":"2015-08-22T22:00:00.000Z","position":554,"rankingPositionChange":5,"gloryPoint":8057,"gloryPointChange":205,"soldierRankID":11},{"date":"2015-08-23T22:00:00.000Z","position":547,"rankingPositionChange":7,"gloryPoint":8213,"gloryPointChange":156,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":523,"rankingPositionChange":24,"gloryPoint":8940,"gloryPointChange":727,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":498,"rankingPositionChange":25,"gloryPoint":9425,"gloryPointChange":485,"soldierRankID":12},{"date":"2015-08-27T22:00:00.000Z","position":498,"rankingPositionChange":0,"gloryPoint":9497,"gloryPointChange":72,"soldierRankID":12},{"date":"2015-08-28T22:00:00.000Z","position":489,"rankingPositionChange":9,"gloryPoint":9772,"gloryPointChange":275,"soldierRankID":12},{"date":"2015-08-29T22:00:00.000Z","position":481,"rankingPositionChange":8,"gloryPoint":10213,"gloryPointChange":441,"soldierRankID":12},{"date":"2015-08-30T22:00:00.000Z","position":484,"rankingPositionChange":-3,"gloryPoint":10185,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-09-01T22:00:00.000Z","position":473,"rankingPositionChange":11,"gloryPoint":10679,"gloryPointChange":494,"soldierRankID":12},{"date":"2015-09-02T22:00:00.000Z","position":463,"rankingPositionChange":10,"gloryPoint":11196,"gloryPointChange":517,"soldierRankID":12},{"date":"2015-09-03T22:00:00.000Z","position":456,"rankingPositionChange":7,"gloryPoint":11321,"gloryPointChange":125,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Fluoxetin"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Shades of Phoenix","guildID":7918}],"characterName":"Fluoxetin","guildName":"Shades of Phoenix","guildID":7918,"position":456,"rankingPositionChange":7,"gloryPoint":11321,"soldierRankID":12}
+{
+ "characterID": 1271838,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 456,
+ "rankingPositionChange": 7,
+ "gloryPoint": 11321,
+ "gloryPointChange": 125,
+ "soldierRankID": 12,
+ "characterName": "Fluoxetin",
+ "guildName": "Shades of Phoenix",
+ "guildID": 7918,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 533,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7569,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 535,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7555,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 536,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7541,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 577,
+   "rankingPositionChange": -41,
+   "gloryPoint": 7345,
+   "gloryPointChange": -196,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 581,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7331,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": 9,
+   "gloryPoint": 7553,
+   "gloryPointChange": 222,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 559,
+   "rankingPositionChange": 13,
+   "gloryPoint": 7852,
+   "gloryPointChange": 299,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 554,
+   "rankingPositionChange": 5,
+   "gloryPoint": 8057,
+   "gloryPointChange": 205,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 547,
+   "rankingPositionChange": 7,
+   "gloryPoint": 8213,
+   "gloryPointChange": 156,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": 24,
+   "gloryPoint": 8940,
+   "gloryPointChange": 727,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 498,
+   "rankingPositionChange": 25,
+   "gloryPoint": 9425,
+   "gloryPointChange": 485,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 498,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9497,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 489,
+   "rankingPositionChange": 9,
+   "gloryPoint": 9772,
+   "gloryPointChange": 275,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 481,
+   "rankingPositionChange": 8,
+   "gloryPoint": 10213,
+   "gloryPointChange": 441,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 484,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10185,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 473,
+   "rankingPositionChange": 11,
+   "gloryPoint": 10679,
+   "gloryPointChange": 494,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 463,
+   "rankingPositionChange": 10,
+   "gloryPoint": 11196,
+   "gloryPointChange": 517,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": 7,
+   "gloryPoint": 11321,
+   "gloryPointChange": 125,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Fluoxetin"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Shades of Phoenix",
+   "guildID": 7918
+  }
+ ]
+}

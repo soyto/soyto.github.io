@@ -1,1 +1,52 @@
-{"characterID":985160,"characterClassID":16,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":607,"rankingPositionChange":0,"gloryPoint":1413,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":562,"rankingPositionChange":45,"gloryPoint":1652,"gloryPointChange":239,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":563,"rankingPositionChange":-1,"gloryPoint":1638,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Chrystallie"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Silver Rose","guildID":29171}],"characterName":"Chrystallie","guildName":"Silver Rose","guildID":29171,"position":563,"rankingPositionChange":-1,"gloryPoint":1638,"soldierRankID":11}
+{
+ "characterID": 985160,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 563,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1638,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Chrystallie",
+ "guildName": "Silver Rose",
+ "guildID": 29171,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 607,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1413,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 562,
+   "rankingPositionChange": 45,
+   "gloryPoint": 1652,
+   "gloryPointChange": 239,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 563,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1638,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Chrystallie"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Silver Rose",
+   "guildID": 29171
+  }
+ ]
+}

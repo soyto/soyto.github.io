@@ -1,1 +1,44 @@
-{"characterID":901217,"characterClassID":11,"raceID":1,"status":[{"date":"2015-08-09T22:00:00.000Z","position":1000,"rankingPositionChange":0,"gloryPoint":1737,"gloryPointChange":0,"soldierRankID":0},{"date":"2015-08-20T22:00:00.000Z","position":985,"rankingPositionChange":15,"gloryPoint":1730,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-09T22:00:00.000Z","characterName":"Nuuut"}],"guilds":[{"date":"2015-08-09T22:00:00.000Z","guildName":"Method","guildID":11261}],"characterName":"Nuuut","guildName":"Method","guildID":11261,"position":985,"rankingPositionChange":15,"gloryPoint":1730,"soldierRankID":10}
+{
+ "characterID": 901217,
+ "characterClassID": 11,
+ "raceID": 1,
+ "position": 985,
+ "rankingPositionChange": 15,
+ "gloryPoint": 1730,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Nuuut",
+ "guildName": "Method",
+ "guildID": 11261,
+ "status": [
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1737,
+   "gloryPointChange": 0,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": 15,
+   "gloryPoint": 1730,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "characterName": "Nuuut"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "guildName": "Method",
+   "guildID": 11261
+  }
+ ]
+}

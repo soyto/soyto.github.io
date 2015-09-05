@@ -1,1 +1,156 @@
-{"characterID":84614,"characterClassID":5,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":521,"rankingPositionChange":1,"gloryPoint":6158,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":524,"rankingPositionChange":-3,"gloryPoint":6144,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":523,"rankingPositionChange":1,"gloryPoint":6130,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":521,"rankingPositionChange":2,"gloryPoint":6116,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":517,"rankingPositionChange":4,"gloryPoint":6102,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":516,"rankingPositionChange":1,"gloryPoint":6088,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":514,"rankingPositionChange":2,"gloryPoint":6074,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":514,"rankingPositionChange":0,"gloryPoint":6060,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":514,"rankingPositionChange":0,"gloryPoint":6060,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-09T22:00:00.000Z","position":514,"rankingPositionChange":0,"gloryPoint":6046,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":506,"rankingPositionChange":8,"gloryPoint":6018,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-11T22:00:00.000Z","position":506,"rankingPositionChange":0,"gloryPoint":6018,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-12T22:00:00.000Z","position":509,"rankingPositionChange":-3,"gloryPoint":5990,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-13T22:00:00.000Z","position":508,"rankingPositionChange":1,"gloryPoint":5976,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-14T22:00:00.000Z","position":508,"rankingPositionChange":0,"gloryPoint":5962,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-15T22:00:00.000Z","position":508,"rankingPositionChange":0,"gloryPoint":5962,"gloryPointChange":0,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Zola"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Il Les Maitres Zen lI","guildID":2697}],"characterName":"Zola","guildName":"Il Les Maitres Zen lI","guildID":2697,"position":508,"rankingPositionChange":0,"gloryPoint":5962,"soldierRankID":11}
+{
+ "characterID": 84614,
+ "characterClassID": 5,
+ "raceID": 0,
+ "position": 508,
+ "rankingPositionChange": 0,
+ "gloryPoint": 5962,
+ "gloryPointChange": 0,
+ "soldierRankID": 11,
+ "characterName": "Zola",
+ "guildName": "Il Les Maitres Zen lI",
+ "guildID": 2697,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 521,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6158,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 524,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6144,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6130,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 521,
+   "rankingPositionChange": 2,
+   "gloryPoint": 6116,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": 4,
+   "gloryPoint": 6102,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 516,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6088,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": 2,
+   "gloryPoint": 6074,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6060,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6060,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6046,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 506,
+   "rankingPositionChange": 8,
+   "gloryPoint": 6018,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 506,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6018,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 509,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5990,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5976,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5962,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5962,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Zola"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Il Les Maitres Zen lI",
+   "guildID": 2697
+  }
+ ]
+}

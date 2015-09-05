@@ -1,1 +1,44 @@
-{"characterID":1135644,"characterClassID":1,"raceID":1,"status":[{"date":"2015-09-02T22:00:00.000Z","position":719,"rankingPositionChange":0,"gloryPoint":1330,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":663,"rankingPositionChange":56,"gloryPoint":1558,"gloryPointChange":228,"soldierRankID":11}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Qbenne"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z","guildName":"A s c e n d a n c y","guildID":21708}],"characterName":"Qbenne","guildName":"A s c e n d a n c y","guildID":21708,"position":663,"rankingPositionChange":56,"gloryPoint":1558,"soldierRankID":11}
+{
+ "characterID": 1135644,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 663,
+ "rankingPositionChange": 56,
+ "gloryPoint": 1558,
+ "gloryPointChange": 228,
+ "soldierRankID": 11,
+ "characterName": "Qbenne",
+ "guildName": "A s c e n d a n c y",
+ "guildID": 21708,
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 719,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1330,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 663,
+   "rankingPositionChange": 56,
+   "gloryPoint": 1558,
+   "gloryPointChange": 228,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Qbenne"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "guildName": "A s c e n d a n c y",
+   "guildID": 21708
+  }
+ ]
+}

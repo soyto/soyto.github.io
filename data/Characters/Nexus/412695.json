@@ -1,1 +1,135 @@
-{"characterID":412695,"characterClassID":16,"raceID":1,"status":[{"date":"2015-08-20T22:00:00.000Z","position":215,"rankingPositionChange":0,"gloryPoint":73160,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-21T22:00:00.000Z","position":214,"rankingPositionChange":1,"gloryPoint":73111,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-22T22:00:00.000Z","position":217,"rankingPositionChange":-3,"gloryPoint":73062,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-23T22:00:00.000Z","position":218,"rankingPositionChange":-1,"gloryPoint":73013,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-25T22:00:00.000Z","position":220,"rankingPositionChange":-2,"gloryPoint":72915,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-26T22:00:00.000Z","position":222,"rankingPositionChange":-2,"gloryPoint":72817,"gloryPointChange":-98,"soldierRankID":13},{"date":"2015-08-27T22:00:00.000Z","position":220,"rankingPositionChange":2,"gloryPoint":73054,"gloryPointChange":237,"soldierRankID":13},{"date":"2015-08-28T22:00:00.000Z","position":220,"rankingPositionChange":0,"gloryPoint":73205,"gloryPointChange":151,"soldierRankID":13},{"date":"2015-08-29T22:00:00.000Z","position":219,"rankingPositionChange":1,"gloryPoint":73290,"gloryPointChange":85,"soldierRankID":13},{"date":"2015-08-30T22:00:00.000Z","position":218,"rankingPositionChange":1,"gloryPoint":73365,"gloryPointChange":75,"soldierRankID":13},{"date":"2015-09-01T22:00:00.000Z","position":220,"rankingPositionChange":-2,"gloryPoint":73396,"gloryPointChange":31,"soldierRankID":13},{"date":"2015-09-02T22:00:00.000Z","position":224,"rankingPositionChange":-4,"gloryPoint":73347,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-09-03T22:00:00.000Z","position":224,"rankingPositionChange":0,"gloryPoint":73483,"gloryPointChange":136,"soldierRankID":13}],"names":[{"date":"2015-08-20T22:00:00.000Z","characterName":"Jerii"}],"guilds":[{"date":"2015-08-20T22:00:00.000Z"},{"date":"2015-08-21T22:00:00.000Z","guildName":"Almost Skilled","guildID":1122}],"characterName":"Jerii","guildName":"Almost Skilled","guildID":1122,"position":224,"rankingPositionChange":0,"gloryPoint":73483,"soldierRankID":13}
+{
+ "characterID": 412695,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 224,
+ "rankingPositionChange": 0,
+ "gloryPoint": 73483,
+ "gloryPointChange": 136,
+ "soldierRankID": 13,
+ "characterName": "Jerii",
+ "guildName": "Almost Skilled",
+ "guildID": 1122,
+ "status": [
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 215,
+   "rankingPositionChange": 0,
+   "gloryPoint": 73160,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 214,
+   "rankingPositionChange": 1,
+   "gloryPoint": 73111,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 217,
+   "rankingPositionChange": -3,
+   "gloryPoint": 73062,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 218,
+   "rankingPositionChange": -1,
+   "gloryPoint": 73013,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": -2,
+   "gloryPoint": 72915,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -2,
+   "gloryPoint": 72817,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": 2,
+   "gloryPoint": 73054,
+   "gloryPointChange": 237,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": 0,
+   "gloryPoint": 73205,
+   "gloryPointChange": 151,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 219,
+   "rankingPositionChange": 1,
+   "gloryPoint": 73290,
+   "gloryPointChange": 85,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 218,
+   "rankingPositionChange": 1,
+   "gloryPoint": 73365,
+   "gloryPointChange": 75,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": -2,
+   "gloryPoint": 73396,
+   "gloryPointChange": 31,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 224,
+   "rankingPositionChange": -4,
+   "gloryPoint": 73347,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 224,
+   "rankingPositionChange": 0,
+   "gloryPoint": 73483,
+   "gloryPointChange": 136,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "characterName": "Jerii"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-20T22:00:00.000Z"
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "guildName": "Almost Skilled",
+   "guildID": 1122
+  }
+ ]
+}

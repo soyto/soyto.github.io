@@ -1,1 +1,164 @@
-{"characterID":1015565,"characterClassID":10,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":979,"rankingPositionChange":-3,"gloryPoint":2672,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":980,"rankingPositionChange":-1,"gloryPoint":2665,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":976,"rankingPositionChange":4,"gloryPoint":2658,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":978,"rankingPositionChange":-2,"gloryPoint":2651,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":983,"rankingPositionChange":-5,"gloryPoint":2644,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":983,"rankingPositionChange":0,"gloryPoint":2637,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":980,"rankingPositionChange":3,"gloryPoint":2630,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":961,"rankingPositionChange":19,"gloryPoint":2730,"gloryPointChange":100,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":961,"rankingPositionChange":0,"gloryPoint":2730,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":967,"rankingPositionChange":-6,"gloryPoint":2723,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":973,"rankingPositionChange":-6,"gloryPoint":2709,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":973,"rankingPositionChange":0,"gloryPoint":2709,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":986,"rankingPositionChange":-13,"gloryPoint":2695,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-13T22:00:00.000Z","position":986,"rankingPositionChange":0,"gloryPoint":2688,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-14T22:00:00.000Z","position":995,"rankingPositionChange":-9,"gloryPoint":2681,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-15T22:00:00.000Z","position":995,"rankingPositionChange":0,"gloryPoint":2681,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-16T22:00:00.000Z","position":1000,"rankingPositionChange":-5,"gloryPoint":2674,"gloryPointChange":-7,"soldierRankID":0}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Chayd"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"One UP","guildID":26432}],"characterName":"Chayd","guildName":"One UP","guildID":26432,"position":1000,"rankingPositionChange":-5,"gloryPoint":2674,"soldierRankID":0}
+{
+ "characterID": 1015565,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 1000,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2674,
+ "gloryPointChange": -7,
+ "soldierRankID": 0,
+ "characterName": "Chayd",
+ "guildName": "One UP",
+ "guildID": 26432,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 979,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2672,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2665,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 976,
+   "rankingPositionChange": 4,
+   "gloryPoint": 2658,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2651,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2644,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2637,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": 3,
+   "gloryPoint": 2630,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": 19,
+   "gloryPoint": 2730,
+   "gloryPointChange": 100,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2730,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2723,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 973,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2709,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 973,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2709,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": -13,
+   "gloryPoint": 2695,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2688,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": -9,
+   "gloryPoint": 2681,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2681,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2674,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Chayd"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "One UP",
+   "guildID": 26432
+  }
+ ]
+}

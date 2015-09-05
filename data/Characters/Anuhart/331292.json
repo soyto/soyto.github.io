@@ -1,1 +1,84 @@
-{"characterID":331292,"characterClassID":5,"raceID":1,"status":[{"date":"2015-08-07T22:00:00.000Z","position":995,"rankingPositionChange":0,"gloryPoint":1737,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":995,"rankingPositionChange":0,"gloryPoint":1737,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":1000,"rankingPositionChange":-5,"gloryPoint":1730,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-08-20T22:00:00.000Z","position":981,"rankingPositionChange":19,"gloryPoint":1730,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":995,"rankingPositionChange":-14,"gloryPoint":1716,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":968,"rankingPositionChange":27,"gloryPoint":1709,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":977,"rankingPositionChange":-9,"gloryPoint":1702,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-07T22:00:00.000Z","characterName":"Nonstopz"}],"guilds":[{"date":"2015-08-07T22:00:00.000Z","guildName":"I am Legend ","guildID":20631}],"characterName":"Nonstopz","guildName":"I am Legend ","guildID":20631,"position":977,"rankingPositionChange":-9,"gloryPoint":1702,"soldierRankID":10}
+{
+ "characterID": 331292,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 977,
+ "rankingPositionChange": -9,
+ "gloryPoint": 1702,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Nonstopz",
+ "guildName": "I am Legend ",
+ "guildID": 20631,
+ "status": [
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1737,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1737,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1730,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": 19,
+   "gloryPoint": 1730,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": -14,
+   "gloryPoint": 1716,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 968,
+   "rankingPositionChange": 27,
+   "gloryPoint": 1709,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 977,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1702,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "characterName": "Nonstopz"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "guildName": "I am Legend ",
+   "guildID": 20631
+  }
+ ]
+}

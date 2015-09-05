@@ -1,1 +1,132 @@
-{"characterID":164931,"characterClassID":7,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":861,"rankingPositionChange":-1,"gloryPoint":8482,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":862,"rankingPositionChange":-1,"gloryPoint":8475,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":861,"rankingPositionChange":1,"gloryPoint":8468,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":862,"rankingPositionChange":-1,"gloryPoint":8461,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":865,"rankingPositionChange":-3,"gloryPoint":8454,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":869,"rankingPositionChange":-4,"gloryPoint":8447,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":870,"rankingPositionChange":-1,"gloryPoint":8440,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":869,"rankingPositionChange":1,"gloryPoint":8433,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":869,"rankingPositionChange":0,"gloryPoint":8433,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":867,"rankingPositionChange":2,"gloryPoint":8426,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":866,"rankingPositionChange":1,"gloryPoint":8412,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":866,"rankingPositionChange":0,"gloryPoint":8412,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":873,"rankingPositionChange":-7,"gloryPoint":8398,"gloryPointChange":-14,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Ancolye"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"     Lays and Vico     ","guildID":42001}],"characterName":"Ancolye","guildName":"     Lays and Vico     ","guildID":42001,"position":873,"rankingPositionChange":-7,"gloryPoint":8398,"soldierRankID":10}
+{
+ "characterID": 164931,
+ "characterClassID": 7,
+ "raceID": 1,
+ "position": 873,
+ "rankingPositionChange": -7,
+ "gloryPoint": 8398,
+ "gloryPointChange": -14,
+ "soldierRankID": 10,
+ "characterName": "Ancolye",
+ "guildName": "     Lays and Vico     ",
+ "guildID": 42001,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 861,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8482,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8475,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 861,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8468,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8461,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 865,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8454,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 869,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8447,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 870,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8440,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 869,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8433,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 869,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8433,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 867,
+   "rankingPositionChange": 2,
+   "gloryPoint": 8426,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 866,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8412,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 866,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8412,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 873,
+   "rankingPositionChange": -7,
+   "gloryPoint": 8398,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Ancolye"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "     Lays and Vico     ",
+   "guildID": 42001
+  }
+ ]
+}

@@ -1,1 +1,84 @@
-{"characterID":1098965,"characterClassID":16,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":978,"rankingPositionChange":0,"gloryPoint":1537,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":981,"rankingPositionChange":-3,"gloryPoint":1530,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":990,"rankingPositionChange":-9,"gloryPoint":1523,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":994,"rankingPositionChange":-4,"gloryPoint":1516,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":997,"rankingPositionChange":-3,"gloryPoint":1509,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":1000,"rankingPositionChange":-3,"gloryPoint":1502,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-08-23T22:00:00.000Z","position":991,"rankingPositionChange":9,"gloryPoint":1502,"gloryPointChange":0,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Kyamyu"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"MALAKA","guildID":29385}],"characterName":"Kyamyu","guildName":"MALAKA","guildID":29385,"position":991,"rankingPositionChange":9,"gloryPoint":1502,"soldierRankID":10}
+{
+ "characterID": 1098965,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 991,
+ "rankingPositionChange": 9,
+ "gloryPoint": 1502,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
+ "characterName": "Kyamyu",
+ "guildName": "MALAKA",
+ "guildID": 29385,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1537,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1530,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1523,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1516,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1509,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1502,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": 9,
+   "gloryPoint": 1502,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Kyamyu"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "MALAKA",
+   "guildID": 29385
+  }
+ ]
+}

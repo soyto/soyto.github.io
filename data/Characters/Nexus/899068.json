@@ -1,1 +1,68 @@
-{"characterID":899068,"characterClassID":7,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":639,"rankingPositionChange":-2,"gloryPoint":11199,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":641,"rankingPositionChange":-2,"gloryPoint":11185,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":640,"rankingPositionChange":1,"gloryPoint":11171,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":641,"rankingPositionChange":-1,"gloryPoint":11157,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":641,"rankingPositionChange":0,"gloryPoint":11143,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Nukey"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Fantasy","guildID":1006}],"characterName":"Nukey","guildName":"Fantasy","guildID":1006,"position":641,"rankingPositionChange":0,"gloryPoint":11143,"soldierRankID":11}
+{
+ "characterID": 899068,
+ "characterClassID": 7,
+ "raceID": 0,
+ "position": 641,
+ "rankingPositionChange": 0,
+ "gloryPoint": 11143,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Nukey",
+ "guildName": "Fantasy",
+ "guildID": 1006,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 639,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11199,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11185,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 640,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11171,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11157,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11143,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Nukey"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Fantasy",
+   "guildID": 1006
+  }
+ ]
+}

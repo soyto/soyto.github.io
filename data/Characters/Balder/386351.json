@@ -1,1 +1,60 @@
-{"characterID":386351,"characterClassID":10,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":468,"rankingPositionChange":2,"gloryPoint":8310,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":466,"rankingPositionChange":2,"gloryPoint":8282,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":467,"rankingPositionChange":-1,"gloryPoint":8254,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":470,"rankingPositionChange":-3,"gloryPoint":8226,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Jaheiria"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Learn to Play","guildID":15553}],"characterName":"Jaheiria","guildName":"Learn to Play","guildID":15553,"position":470,"rankingPositionChange":-3,"gloryPoint":8226,"soldierRankID":12}
+{
+ "characterID": 386351,
+ "characterClassID": 10,
+ "raceID": 0,
+ "position": 470,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8226,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Jaheiria",
+ "guildName": "Learn to Play",
+ "guildID": 15553,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 468,
+   "rankingPositionChange": 2,
+   "gloryPoint": 8310,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 466,
+   "rankingPositionChange": 2,
+   "gloryPoint": 8282,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 467,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8254,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 470,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8226,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Jaheiria"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Learn to Play",
+   "guildID": 15553
+  }
+ ]
+}

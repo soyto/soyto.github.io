@@ -1,1 +1,159 @@
-{"characterID":1767036,"characterClassID":10,"raceID":1,"status":[{"date":"2015-08-19T22:00:00.000Z","position":977,"rankingPositionChange":0,"gloryPoint":10362,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":970,"rankingPositionChange":7,"gloryPoint":10375,"gloryPointChange":13,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":962,"rankingPositionChange":8,"gloryPoint":10577,"gloryPointChange":202,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":944,"rankingPositionChange":18,"gloryPoint":11146,"gloryPointChange":569,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":934,"rankingPositionChange":10,"gloryPoint":11385,"gloryPointChange":239,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":931,"rankingPositionChange":3,"gloryPoint":11378,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":918,"rankingPositionChange":13,"gloryPoint":11604,"gloryPointChange":226,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":915,"rankingPositionChange":3,"gloryPoint":11697,"gloryPointChange":93,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":909,"rankingPositionChange":6,"gloryPoint":11773,"gloryPointChange":76,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":908,"rankingPositionChange":1,"gloryPoint":11916,"gloryPointChange":143,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":909,"rankingPositionChange":-1,"gloryPoint":11919,"gloryPointChange":3,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":906,"rankingPositionChange":3,"gloryPoint":12113,"gloryPointChange":194,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":908,"rankingPositionChange":-2,"gloryPoint":12116,"gloryPointChange":3,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":905,"rankingPositionChange":3,"gloryPoint":12412,"gloryPointChange":296,"soldierRankID":10}],"names":[{"date":"2015-08-19T22:00:00.000Z","characterName":"Justroot"},{"date":"2015-08-30T22:00:00.000Z","characterName":"Qtcleric"}],"guilds":[{"date":"2015-08-19T22:00:00.000Z","guildName":"  follow  me  ","guildID":48372},{"date":"2015-08-21T22:00:00.000Z","guildName":"  Hentai  ","guildID":48490},{"date":"2015-08-29T22:00:00.000Z","guildName":"TEAMRETARD","guildID":43306},{"date":"2015-09-01T22:00:00.000Z","guildName":"Qt for Cute","guildID":48649}],"characterName":"Qtcleric","guildName":"Qt for Cute","guildID":48649,"position":905,"rankingPositionChange":3,"gloryPoint":12412,"soldierRankID":10}
+{
+ "characterID": 1767036,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 905,
+ "rankingPositionChange": 3,
+ "gloryPoint": 12412,
+ "gloryPointChange": 296,
+ "soldierRankID": 10,
+ "characterName": "Qtcleric",
+ "guildName": "Qt for Cute",
+ "guildID": 48649,
+ "status": [
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 977,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10362,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 970,
+   "rankingPositionChange": 7,
+   "gloryPoint": 10375,
+   "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": 8,
+   "gloryPoint": 10577,
+   "gloryPointChange": 202,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 944,
+   "rankingPositionChange": 18,
+   "gloryPoint": 11146,
+   "gloryPointChange": 569,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 934,
+   "rankingPositionChange": 10,
+   "gloryPoint": 11385,
+   "gloryPointChange": 239,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 931,
+   "rankingPositionChange": 3,
+   "gloryPoint": 11378,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 918,
+   "rankingPositionChange": 13,
+   "gloryPoint": 11604,
+   "gloryPointChange": 226,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 915,
+   "rankingPositionChange": 3,
+   "gloryPoint": 11697,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 909,
+   "rankingPositionChange": 6,
+   "gloryPoint": 11773,
+   "gloryPointChange": 76,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 908,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11916,
+   "gloryPointChange": 143,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 909,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11919,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 906,
+   "rankingPositionChange": 3,
+   "gloryPoint": 12113,
+   "gloryPointChange": 194,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 908,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12116,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 905,
+   "rankingPositionChange": 3,
+   "gloryPoint": 12412,
+   "gloryPointChange": 296,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "characterName": "Justroot"
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Qtcleric"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "guildName": "  follow  me  ",
+   "guildID": 48372
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "guildName": "  Hentai  ",
+   "guildID": 48490
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "TEAMRETARD",
+   "guildID": 43306
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Qt for Cute",
+   "guildID": 48649
+  }
+ ]
+}

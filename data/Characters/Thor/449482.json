@@ -1,1 +1,148 @@
-{"characterID":449482,"characterClassID":10,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":975,"rankingPositionChange":2,"gloryPoint":9805,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":979,"rankingPositionChange":-4,"gloryPoint":9798,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":980,"rankingPositionChange":-1,"gloryPoint":9791,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":979,"rankingPositionChange":1,"gloryPoint":9784,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":981,"rankingPositionChange":-2,"gloryPoint":9777,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":984,"rankingPositionChange":-3,"gloryPoint":9770,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":988,"rankingPositionChange":-4,"gloryPoint":9763,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-07T22:00:00.000Z","position":990,"rankingPositionChange":-2,"gloryPoint":9756,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-08T22:00:00.000Z","position":990,"rankingPositionChange":0,"gloryPoint":9756,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-09T22:00:00.000Z","position":997,"rankingPositionChange":-7,"gloryPoint":9749,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-10T22:00:00.000Z","position":999,"rankingPositionChange":-2,"gloryPoint":9735,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":9735,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-12T22:00:00.000Z","position":997,"rankingPositionChange":2,"gloryPoint":9728,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":998,"rankingPositionChange":-1,"gloryPoint":9714,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":998,"rankingPositionChange":0,"gloryPoint":9707,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Kncx"},{"date":"2015-08-03T22:00:00.000Z","characterName":"Dill"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Dill","position":998,"rankingPositionChange":0,"gloryPoint":9707,"soldierRankID":10}
+{
+ "characterID": 449482,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 998,
+ "rankingPositionChange": 0,
+ "gloryPoint": 9707,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Dill",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9805,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 979,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9798,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9791,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 979,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9784,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9777,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9770,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9763,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9756,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9756,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": -7,
+   "gloryPoint": 9749,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9735,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9735,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9728,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9714,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9707,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Kncx"
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "characterName": "Dill"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

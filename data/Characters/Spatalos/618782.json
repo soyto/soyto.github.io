@@ -1,1 +1,172 @@
-{"characterID":618782,"characterClassID":4,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":492,"rankingPositionChange":-3,"gloryPoint":7836,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":496,"rankingPositionChange":-4,"gloryPoint":7808,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":496,"rankingPositionChange":0,"gloryPoint":7780,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":498,"rankingPositionChange":-2,"gloryPoint":7752,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":495,"rankingPositionChange":3,"gloryPoint":7724,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":497,"rankingPositionChange":-2,"gloryPoint":7696,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-06T22:00:00.000Z","position":497,"rankingPositionChange":0,"gloryPoint":7668,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-07T22:00:00.000Z","position":498,"rankingPositionChange":-1,"gloryPoint":7640,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-08T22:00:00.000Z","position":498,"rankingPositionChange":0,"gloryPoint":7640,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-09T22:00:00.000Z","position":501,"rankingPositionChange":-3,"gloryPoint":7612,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":500,"rankingPositionChange":1,"gloryPoint":7570,"gloryPointChange":-42,"soldierRankID":12},{"date":"2015-08-11T22:00:00.000Z","position":500,"rankingPositionChange":0,"gloryPoint":7570,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-12T22:00:00.000Z","position":506,"rankingPositionChange":-6,"gloryPoint":7528,"gloryPointChange":-42,"soldierRankID":11},{"date":"2015-08-13T22:00:00.000Z","position":511,"rankingPositionChange":-5,"gloryPoint":7514,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-14T22:00:00.000Z","position":511,"rankingPositionChange":0,"gloryPoint":7500,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-15T22:00:00.000Z","position":511,"rankingPositionChange":0,"gloryPoint":7500,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-16T22:00:00.000Z","position":513,"rankingPositionChange":-2,"gloryPoint":7486,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-17T22:00:00.000Z","position":513,"rankingPositionChange":0,"gloryPoint":7472,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Busafi"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Evul Smurfies","guildID":10773}],"characterName":"Busafi","guildName":"Evul Smurfies","guildID":10773,"position":513,"rankingPositionChange":0,"gloryPoint":7472,"soldierRankID":11}
+{
+ "characterID": 618782,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 513,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7472,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Busafi",
+ "guildName": "Evul Smurfies",
+ "guildID": 10773,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 492,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7836,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 496,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7808,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 496,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7780,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 498,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7752,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 495,
+   "rankingPositionChange": 3,
+   "gloryPoint": 7724,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 497,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7696,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 497,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7668,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 498,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7640,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 498,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7640,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 501,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7612,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 500,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7570,
+   "gloryPointChange": -42,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 500,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7570,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 506,
+   "rankingPositionChange": -6,
+   "gloryPoint": 7528,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7514,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7500,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7500,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 513,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7486,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 513,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7472,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Busafi"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Evul Smurfies",
+   "guildID": 10773
+  }
+ ]
+}

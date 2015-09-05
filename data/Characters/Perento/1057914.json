@@ -1,1 +1,52 @@
-{"characterID":1057914,"characterClassID":2,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":882,"rankingPositionChange":0,"gloryPoint":2011,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":887,"rankingPositionChange":-5,"gloryPoint":2004,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":891,"rankingPositionChange":-4,"gloryPoint":1997,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Arixx"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"TopKekCorporation","guildID":28580}],"characterName":"Arixx","guildName":"TopKekCorporation","guildID":28580,"position":891,"rankingPositionChange":-4,"gloryPoint":1997,"soldierRankID":10}
+{
+ "characterID": 1057914,
+ "characterClassID": 2,
+ "raceID": 1,
+ "position": 891,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1997,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Arixx",
+ "guildName": "TopKekCorporation",
+ "guildID": 28580,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2011,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 887,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2004,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 891,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1997,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Arixx"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "TopKekCorporation",
+   "guildID": 28580
+  }
+ ]
+}

@@ -1,1 +1,60 @@
-{"characterID":507958,"characterClassID":4,"raceID":1,"status":[{"date":"2015-08-30T22:00:00.000Z","position":762,"rankingPositionChange":0,"gloryPoint":1292,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":768,"rankingPositionChange":-6,"gloryPoint":1271,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":773,"rankingPositionChange":-5,"gloryPoint":1264,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":778,"rankingPositionChange":-5,"gloryPoint":1257,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Pille"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z","guildName":"HappyDay","guildID":25418}],"characterName":"Pille","guildName":"HappyDay","guildID":25418,"position":778,"rankingPositionChange":-5,"gloryPoint":1257,"soldierRankID":10}
+{
+ "characterID": 507958,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 778,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1257,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Pille",
+ "guildName": "HappyDay",
+ "guildID": 25418,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 762,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1292,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 768,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1271,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 773,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1264,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 778,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1257,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Pille"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "HappyDay",
+   "guildID": 25418
+  }
+ ]
+}

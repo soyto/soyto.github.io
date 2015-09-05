@@ -1,1 +1,76 @@
-{"characterID":1001333,"characterClassID":14,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":709,"rankingPositionChange":-4,"gloryPoint":1476,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":714,"rankingPositionChange":-5,"gloryPoint":1469,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":714,"rankingPositionChange":0,"gloryPoint":1462,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":717,"rankingPositionChange":-3,"gloryPoint":1455,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":719,"rankingPositionChange":-2,"gloryPoint":1448,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":726,"rankingPositionChange":-7,"gloryPoint":1441,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Kopelleto"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"AtreiA KnightS","guildID":11771}],"characterName":"Kopelleto","guildName":"AtreiA KnightS","guildID":11771,"position":726,"rankingPositionChange":-7,"gloryPoint":1441,"soldierRankID":10}
+{
+ "characterID": 1001333,
+ "characterClassID": 14,
+ "raceID": 1,
+ "position": 726,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1441,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Kopelleto",
+ "guildName": "AtreiA KnightS",
+ "guildID": 11771,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1476,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 714,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1469,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 714,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1462,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 717,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1455,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 719,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1448,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 726,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1441,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Kopelleto"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "AtreiA KnightS",
+   "guildID": 11771
+  }
+ ]
+}

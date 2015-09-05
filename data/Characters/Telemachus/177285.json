@@ -1,1 +1,44 @@
-{"characterID":177285,"characterClassID":8,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":409,"rankingPositionChange":1,"gloryPoint":6061,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":409,"rankingPositionChange":0,"gloryPoint":6033,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Epikididas"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Delphic Sword","guildID":2784}],"characterName":"Epikididas","guildName":"Delphic Sword","guildID":2784,"position":409,"rankingPositionChange":0,"gloryPoint":6033,"soldierRankID":12}
+{
+ "characterID": 177285,
+ "characterClassID": 8,
+ "raceID": 1,
+ "position": 409,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6033,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Epikididas",
+ "guildName": "Delphic Sword",
+ "guildID": 2784,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 409,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6061,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 409,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6033,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Epikididas"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Delphic Sword",
+   "guildID": 2784
+  }
+ ]
+}

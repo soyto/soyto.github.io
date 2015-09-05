@@ -1,1 +1,52 @@
-{"characterID":1493535,"characterClassID":16,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":959,"rankingPositionChange":0,"gloryPoint":2170,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":941,"rankingPositionChange":18,"gloryPoint":2323,"gloryPointChange":153,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":934,"rankingPositionChange":7,"gloryPoint":2336,"gloryPointChange":13,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Siger"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Black Hawks","guildID":28124}],"characterName":"Siger","guildName":"Black Hawks","guildID":28124,"position":934,"rankingPositionChange":7,"gloryPoint":2336,"soldierRankID":10}
+{
+ "characterID": 1493535,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 934,
+ "rankingPositionChange": 7,
+ "gloryPoint": 2336,
+ "gloryPointChange": 13,
+ "soldierRankID": 10,
+ "characterName": "Siger",
+ "guildName": "Black Hawks",
+ "guildID": 28124,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2170,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 941,
+   "rankingPositionChange": 18,
+   "gloryPoint": 2323,
+   "gloryPointChange": 153,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 934,
+   "rankingPositionChange": 7,
+   "gloryPoint": 2336,
+   "gloryPointChange": 13,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Siger"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Black Hawks",
+   "guildID": 28124
+  }
+ ]
+}

@@ -1,1 +1,68 @@
-{"characterID":572944,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-29T22:00:00.000Z","position":294,"rankingPositionChange":312,"gloryPoint":1299,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":288,"rankingPositionChange":6,"gloryPoint":1312,"gloryPointChange":13,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":261,"rankingPositionChange":27,"gloryPoint":1560,"gloryPointChange":248,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":261,"rankingPositionChange":0,"gloryPoint":1693,"gloryPointChange":133,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":258,"rankingPositionChange":3,"gloryPoint":1764,"gloryPointChange":71,"soldierRankID":11}],"names":[{"date":"2015-08-29T22:00:00.000Z","characterName":"Ariaz"}],"guilds":[{"date":"2015-08-29T22:00:00.000Z","guildName":"Skins","guildID":9548}],"characterName":"Ariaz","guildName":"Skins","guildID":9548,"position":258,"rankingPositionChange":3,"gloryPoint":1764,"soldierRankID":11}
+{
+ "characterID": 572944,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 258,
+ "rankingPositionChange": 3,
+ "gloryPoint": 1764,
+ "gloryPointChange": 71,
+ "soldierRankID": 11,
+ "characterName": "Ariaz",
+ "guildName": "Skins",
+ "guildID": 9548,
+ "status": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 294,
+   "rankingPositionChange": 312,
+   "gloryPoint": 1299,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 288,
+   "rankingPositionChange": 6,
+   "gloryPoint": 1312,
+   "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": 27,
+   "gloryPoint": 1560,
+   "gloryPointChange": 248,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1693,
+   "gloryPointChange": 133,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 258,
+   "rankingPositionChange": 3,
+   "gloryPoint": 1764,
+   "gloryPointChange": 71,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "characterName": "Ariaz"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "Skins",
+   "guildID": 9548
+  }
+ ]
+}

@@ -1,1 +1,56 @@
-{"characterID":145339,"characterClassID":11,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":404,"rankingPositionChange":-2,"gloryPoint":35109,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":406,"rankingPositionChange":-2,"gloryPoint":35081,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":405,"rankingPositionChange":1,"gloryPoint":35053,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":404,"rankingPositionChange":1,"gloryPoint":35025,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Summ"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Summ","position":404,"rankingPositionChange":1,"gloryPoint":35025,"soldierRankID":12}
+{
+ "characterID": 145339,
+ "characterClassID": 11,
+ "raceID": 0,
+ "position": 404,
+ "rankingPositionChange": 1,
+ "gloryPoint": 35025,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Summ",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 404,
+   "rankingPositionChange": -2,
+   "gloryPoint": 35109,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 406,
+   "rankingPositionChange": -2,
+   "gloryPoint": 35081,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 405,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35053,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 404,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35025,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Summ"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

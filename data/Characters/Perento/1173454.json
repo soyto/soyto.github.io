@@ -1,1 +1,60 @@
-{"characterID":1173454,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":280,"rankingPositionChange":0,"gloryPoint":25059,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":280,"rankingPositionChange":0,"gloryPoint":25010,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":279,"rankingPositionChange":1,"gloryPoint":24961,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":281,"rankingPositionChange":-2,"gloryPoint":24912,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Perseyy"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Palata nomer VI","guildID":23864}],"characterName":"Perseyy","guildName":"Palata nomer VI","guildID":23864,"position":281,"rankingPositionChange":-2,"gloryPoint":24912,"soldierRankID":13}
+{
+ "characterID": 1173454,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 281,
+ "rankingPositionChange": -2,
+ "gloryPoint": 24912,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Perseyy",
+ "guildName": "Palata nomer VI",
+ "guildID": 23864,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 280,
+   "rankingPositionChange": 0,
+   "gloryPoint": 25059,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 280,
+   "rankingPositionChange": 0,
+   "gloryPoint": 25010,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 279,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24961,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 281,
+   "rankingPositionChange": -2,
+   "gloryPoint": 24912,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Perseyy"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Palata nomer VI",
+   "guildID": 23864
+  }
+ ]
+}

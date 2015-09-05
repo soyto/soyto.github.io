@@ -1,1 +1,85 @@
-{"characterID":641565,"characterClassID":16,"raceID":1,"status":[{"date":"2015-08-27T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":9189,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":999,"rankingPositionChange":0,"gloryPoint":9396,"gloryPointChange":207,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":978,"rankingPositionChange":21,"gloryPoint":9794,"gloryPointChange":398,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":964,"rankingPositionChange":14,"gloryPoint":10013,"gloryPointChange":219,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":940,"rankingPositionChange":24,"gloryPoint":10747,"gloryPointChange":734,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":923,"rankingPositionChange":17,"gloryPoint":11263,"gloryPointChange":516,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":912,"rankingPositionChange":11,"gloryPoint":11632,"gloryPointChange":369,"soldierRankID":10}],"names":[{"date":"2015-08-27T22:00:00.000Z","characterName":"Donorka"}],"guilds":[{"date":"2015-08-27T22:00:00.000Z","guildName":"AvenuE","guildID":1804},{"date":"2015-09-03T22:00:00.000Z"}],"characterName":"Donorka","position":912,"rankingPositionChange":11,"gloryPoint":11632,"soldierRankID":10}
+{
+ "characterID": 641565,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 912,
+ "rankingPositionChange": 11,
+ "gloryPoint": 11632,
+ "gloryPointChange": 369,
+ "soldierRankID": 10,
+ "characterName": "Donorka",
+ "status": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9189,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9396,
+   "gloryPointChange": 207,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": 21,
+   "gloryPoint": 9794,
+   "gloryPointChange": 398,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 964,
+   "rankingPositionChange": 14,
+   "gloryPoint": 10013,
+   "gloryPointChange": 219,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 24,
+   "gloryPoint": 10747,
+   "gloryPointChange": 734,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 923,
+   "rankingPositionChange": 17,
+   "gloryPoint": 11263,
+   "gloryPointChange": 516,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": 11,
+   "gloryPoint": 11632,
+   "gloryPointChange": 369,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "characterName": "Donorka"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "guildName": "AvenuE",
+   "guildID": 1804
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z"
+  }
+ ]
+}

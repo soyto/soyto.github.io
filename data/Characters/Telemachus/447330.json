@@ -1,1 +1,68 @@
-{"characterID":447330,"characterClassID":4,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":525,"rankingPositionChange":-1,"gloryPoint":22000,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":524,"rankingPositionChange":1,"gloryPoint":21986,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":525,"rankingPositionChange":-1,"gloryPoint":21972,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":522,"rankingPositionChange":3,"gloryPoint":21958,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":522,"rankingPositionChange":0,"gloryPoint":21944,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Boosin"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Fifth Dawn","guildID":23227}],"characterName":"Boosin","guildName":"Fifth Dawn","guildID":23227,"position":522,"rankingPositionChange":0,"gloryPoint":21944,"soldierRankID":11}
+{
+ "characterID": 447330,
+ "characterClassID": 4,
+ "raceID": 0,
+ "position": 522,
+ "rankingPositionChange": 0,
+ "gloryPoint": 21944,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Boosin",
+ "guildName": "Fifth Dawn",
+ "guildID": 23227,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 525,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22000,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 524,
+   "rankingPositionChange": 1,
+   "gloryPoint": 21986,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 525,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21972,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 522,
+   "rankingPositionChange": 3,
+   "gloryPoint": 21958,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 522,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21944,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Boosin"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Fifth Dawn",
+   "guildID": 23227
+  }
+ ]
+}

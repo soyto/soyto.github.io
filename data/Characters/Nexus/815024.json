@@ -1,1 +1,68 @@
-{"characterID":815024,"characterClassID":1,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":863,"rankingPositionChange":1,"gloryPoint":6225,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":860,"rankingPositionChange":3,"gloryPoint":6218,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":858,"rankingPositionChange":2,"gloryPoint":6211,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":860,"rankingPositionChange":-2,"gloryPoint":6204,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":858,"rankingPositionChange":2,"gloryPoint":6197,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Weedshadiaa"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":" NEMESIS ","guildID":10414}],"characterName":"Weedshadiaa","guildName":" NEMESIS ","guildID":10414,"position":858,"rankingPositionChange":2,"gloryPoint":6197,"soldierRankID":10}
+{
+ "characterID": 815024,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 858,
+ "rankingPositionChange": 2,
+ "gloryPoint": 6197,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Weedshadiaa",
+ "guildName": " NEMESIS ",
+ "guildID": 10414,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 863,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6225,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": 3,
+   "gloryPoint": 6218,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 858,
+   "rankingPositionChange": 2,
+   "gloryPoint": 6211,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6204,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 858,
+   "rankingPositionChange": 2,
+   "gloryPoint": 6197,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Weedshadiaa"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": " NEMESIS ",
+   "guildID": 10414
+  }
+ ]
+}

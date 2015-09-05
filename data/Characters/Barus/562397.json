@@ -1,1 +1,68 @@
-{"characterID":562397,"characterClassID":1,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":314,"rankingPositionChange":0,"gloryPoint":44551,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":316,"rankingPositionChange":-2,"gloryPoint":44523,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":317,"rankingPositionChange":-1,"gloryPoint":44495,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":318,"rankingPositionChange":-1,"gloryPoint":44467,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":318,"rankingPositionChange":0,"gloryPoint":44439,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Evirea"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"OutOfControl","guildID":1028}],"characterName":"Evirea","guildName":"OutOfControl","guildID":1028,"position":318,"rankingPositionChange":0,"gloryPoint":44439,"soldierRankID":12}
+{
+ "characterID": 562397,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 318,
+ "rankingPositionChange": 0,
+ "gloryPoint": 44439,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Evirea",
+ "guildName": "OutOfControl",
+ "guildID": 1028,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 314,
+   "rankingPositionChange": 0,
+   "gloryPoint": 44551,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": -2,
+   "gloryPoint": 44523,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 317,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44495,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 318,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44467,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 318,
+   "rankingPositionChange": 0,
+   "gloryPoint": 44439,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Evirea"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "OutOfControl",
+   "guildID": 1028
+  }
+ ]
+}

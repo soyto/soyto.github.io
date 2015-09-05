@@ -1,1 +1,52 @@
-{"characterID":1015989,"characterClassID":16,"raceID":1,"status":[{"date":"2015-08-10T22:00:00.000Z","position":801,"rankingPositionChange":82,"gloryPoint":1248,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":801,"rankingPositionChange":0,"gloryPoint":1248,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":789,"rankingPositionChange":12,"gloryPoint":1247,"gloryPointChange":-1,"soldierRankID":10}],"names":[{"date":"2015-08-10T22:00:00.000Z","characterName":"Gymel"}],"guilds":[{"date":"2015-08-10T22:00:00.000Z","guildName":"Divine Intervention","guildID":23041}],"characterName":"Gymel","guildName":"Divine Intervention","guildID":23041,"position":789,"rankingPositionChange":12,"gloryPoint":1247,"soldierRankID":10}
+{
+ "characterID": 1015989,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 789,
+ "rankingPositionChange": 12,
+ "gloryPoint": 1247,
+ "gloryPointChange": -1,
+ "soldierRankID": 10,
+ "characterName": "Gymel",
+ "guildName": "Divine Intervention",
+ "guildID": 23041,
+ "status": [
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 801,
+   "rankingPositionChange": 82,
+   "gloryPoint": 1248,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 801,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1248,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 789,
+   "rankingPositionChange": 12,
+   "gloryPoint": 1247,
+   "gloryPointChange": -1,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "characterName": "Gymel"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "guildName": "Divine Intervention",
+   "guildID": 23041
+  }
+ ]
+}

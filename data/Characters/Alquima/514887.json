@@ -1,1 +1,84 @@
-{"characterID":514887,"characterClassID":10,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":831,"rankingPositionChange":0,"gloryPoint":7113,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":838,"rankingPositionChange":-7,"gloryPoint":7106,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":838,"rankingPositionChange":0,"gloryPoint":7099,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":843,"rankingPositionChange":-5,"gloryPoint":7092,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":843,"rankingPositionChange":0,"gloryPoint":7085,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":848,"rankingPositionChange":-5,"gloryPoint":7078,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-06T22:00:00.000Z","position":849,"rankingPositionChange":-1,"gloryPoint":7071,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Clerika"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Piratas con Potorro SL","guildID":9885}],"characterName":"Clerika","guildName":"Piratas con Potorro SL","guildID":9885,"position":849,"rankingPositionChange":-1,"gloryPoint":7071,"soldierRankID":10}
+{
+ "characterID": 514887,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 849,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7071,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Clerika",
+ "guildName": "Piratas con Potorro SL",
+ "guildID": 9885,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 831,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7113,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 838,
+   "rankingPositionChange": -7,
+   "gloryPoint": 7106,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 838,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7099,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 843,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7092,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 843,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7085,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 848,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7078,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 849,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7071,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Clerika"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Piratas con Potorro SL",
+   "guildID": 9885
+  }
+ ]
+}

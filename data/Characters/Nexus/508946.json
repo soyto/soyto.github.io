@@ -1,1 +1,60 @@
-{"characterID":508946,"characterClassID":10,"raceID":1,"status":[{"date":"2015-08-30T22:00:00.000Z","position":682,"rankingPositionChange":0,"gloryPoint":17180,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":683,"rankingPositionChange":-1,"gloryPoint":17138,"gloryPointChange":-42,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":689,"rankingPositionChange":-6,"gloryPoint":17124,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":694,"rankingPositionChange":-5,"gloryPoint":17110,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Cakey"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z","guildName":"Hakuna Your Tatas","guildID":10018}],"characterName":"Cakey","guildName":"Hakuna Your Tatas","guildID":10018,"position":694,"rankingPositionChange":-5,"gloryPoint":17110,"soldierRankID":11}
+{
+ "characterID": 508946,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 694,
+ "rankingPositionChange": -5,
+ "gloryPoint": 17110,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Cakey",
+ "guildName": "Hakuna Your Tatas",
+ "guildID": 10018,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 682,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17180,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 683,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17138,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 689,
+   "rankingPositionChange": -6,
+   "gloryPoint": 17124,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 694,
+   "rankingPositionChange": -5,
+   "gloryPoint": 17110,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Cakey"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "Hakuna Your Tatas",
+   "guildID": 10018
+  }
+ ]
+}

@@ -1,1 +1,236 @@
-{"characterID":532635,"characterClassID":1,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":582,"rankingPositionChange":2,"gloryPoint":24080,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":586,"rankingPositionChange":-4,"gloryPoint":24066,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":588,"rankingPositionChange":-2,"gloryPoint":24052,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":591,"rankingPositionChange":-3,"gloryPoint":24038,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":592,"rankingPositionChange":-1,"gloryPoint":24024,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":594,"rankingPositionChange":-2,"gloryPoint":24010,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":594,"rankingPositionChange":0,"gloryPoint":23996,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":595,"rankingPositionChange":-1,"gloryPoint":23982,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":595,"rankingPositionChange":0,"gloryPoint":23982,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-09T22:00:00.000Z","position":595,"rankingPositionChange":0,"gloryPoint":23968,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-10T22:00:00.000Z","position":597,"rankingPositionChange":-2,"gloryPoint":23940,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-11T22:00:00.000Z","position":597,"rankingPositionChange":0,"gloryPoint":23940,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-12T22:00:00.000Z","position":599,"rankingPositionChange":-2,"gloryPoint":23912,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-13T22:00:00.000Z","position":601,"rankingPositionChange":-2,"gloryPoint":23898,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-14T22:00:00.000Z","position":603,"rankingPositionChange":-2,"gloryPoint":23884,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-15T22:00:00.000Z","position":603,"rankingPositionChange":0,"gloryPoint":23884,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-16T22:00:00.000Z","position":604,"rankingPositionChange":-1,"gloryPoint":23870,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-17T22:00:00.000Z","position":609,"rankingPositionChange":-5,"gloryPoint":23856,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-18T22:00:00.000Z","position":611,"rankingPositionChange":-2,"gloryPoint":23828,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-19T22:00:00.000Z","position":613,"rankingPositionChange":-2,"gloryPoint":23814,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-20T22:00:00.000Z","position":612,"rankingPositionChange":1,"gloryPoint":23800,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-21T22:00:00.000Z","position":612,"rankingPositionChange":0,"gloryPoint":23786,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-22T22:00:00.000Z","position":615,"rankingPositionChange":-3,"gloryPoint":23772,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-23T22:00:00.000Z","position":619,"rankingPositionChange":-4,"gloryPoint":23758,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":621,"rankingPositionChange":-2,"gloryPoint":23730,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":626,"rankingPositionChange":-5,"gloryPoint":23702,"gloryPointChange":-28,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Angelscantbekill"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"ShonIX","guildID":1287}],"characterName":"Angelscantbekill","guildName":"ShonIX","guildID":1287,"position":626,"rankingPositionChange":-5,"gloryPoint":23702,"soldierRankID":11}
+{
+ "characterID": 532635,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 626,
+ "rankingPositionChange": -5,
+ "gloryPoint": 23702,
+ "gloryPointChange": -28,
+ "soldierRankID": 11,
+ "characterName": "Angelscantbekill",
+ "guildName": "ShonIX",
+ "guildID": 1287,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 582,
+   "rankingPositionChange": 2,
+   "gloryPoint": 24080,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 586,
+   "rankingPositionChange": -4,
+   "gloryPoint": 24066,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 588,
+   "rankingPositionChange": -2,
+   "gloryPoint": 24052,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 591,
+   "rankingPositionChange": -3,
+   "gloryPoint": 24038,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 592,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24024,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 594,
+   "rankingPositionChange": -2,
+   "gloryPoint": 24010,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 594,
+   "rankingPositionChange": 0,
+   "gloryPoint": 23996,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23982,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": 0,
+   "gloryPoint": 23982,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-09T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": 0,
+   "gloryPoint": 23968,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 597,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23940,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 597,
+   "rankingPositionChange": 0,
+   "gloryPoint": 23940,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-12T22:00:00.000Z",
+   "position": 599,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23912,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-13T22:00:00.000Z",
+   "position": 601,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23898,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-14T22:00:00.000Z",
+   "position": 603,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23884,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-15T22:00:00.000Z",
+   "position": 603,
+   "rankingPositionChange": 0,
+   "gloryPoint": 23884,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23870,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 609,
+   "rankingPositionChange": -5,
+   "gloryPoint": 23856,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23828,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 613,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23814,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23800,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": 0,
+   "gloryPoint": 23786,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 615,
+   "rankingPositionChange": -3,
+   "gloryPoint": 23772,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 619,
+   "rankingPositionChange": -4,
+   "gloryPoint": 23758,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23730,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 626,
+   "rankingPositionChange": -5,
+   "gloryPoint": 23702,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Angelscantbekill"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "ShonIX",
+   "guildID": 1287
+  }
+ ]
+}

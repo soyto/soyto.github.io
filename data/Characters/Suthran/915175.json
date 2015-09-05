@@ -1,1 +1,68 @@
-{"characterID":915175,"characterClassID":1,"raceID":0,"status":[{"date":"2015-08-29T22:00:00.000Z","position":990,"rankingPositionChange":0,"gloryPoint":10009,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":966,"rankingPositionChange":24,"gloryPoint":10392,"gloryPointChange":383,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":973,"rankingPositionChange":-7,"gloryPoint":10391,"gloryPointChange":-1,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":972,"rankingPositionChange":1,"gloryPoint":10384,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":975,"rankingPositionChange":-3,"gloryPoint":10377,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-29T22:00:00.000Z","characterName":"Colrane"}],"guilds":[{"date":"2015-08-29T22:00:00.000Z","guildName":"Xpress","guildID":43765}],"characterName":"Colrane","guildName":"Xpress","guildID":43765,"position":975,"rankingPositionChange":-3,"gloryPoint":10377,"soldierRankID":10}
+{
+ "characterID": 915175,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 975,
+ "rankingPositionChange": -3,
+ "gloryPoint": 10377,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Colrane",
+ "guildName": "Xpress",
+ "guildID": 43765,
+ "status": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10009,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 966,
+   "rankingPositionChange": 24,
+   "gloryPoint": 10392,
+   "gloryPointChange": 383,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 973,
+   "rankingPositionChange": -7,
+   "gloryPoint": 10391,
+   "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 972,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10384,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10377,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "characterName": "Colrane"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "Xpress",
+   "guildID": 43765
+  }
+ ]
+}

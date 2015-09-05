@@ -1,1 +1,72 @@
-{"characterID":934136,"characterClassID":2,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":637,"rankingPositionChange":-3,"gloryPoint":1285,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":638,"rankingPositionChange":-1,"gloryPoint":1278,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":645,"rankingPositionChange":-7,"gloryPoint":1271,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":649,"rankingPositionChange":-4,"gloryPoint":1264,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":657,"rankingPositionChange":-8,"gloryPoint":1257,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":660,"rankingPositionChange":-3,"gloryPoint":1250,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Destroyler"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Destroyler","position":660,"rankingPositionChange":-3,"gloryPoint":1250,"soldierRankID":10}
+{
+ "characterID": 934136,
+ "characterClassID": 2,
+ "raceID": 1,
+ "position": 660,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1250,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Destroyler",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 637,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1285,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 638,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1278,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 645,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1271,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 649,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1264,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 657,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1257,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 660,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1250,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Destroyler"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

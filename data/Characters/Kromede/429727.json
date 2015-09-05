@@ -1,1 +1,68 @@
-{"characterID":429727,"characterClassID":11,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":124,"rankingPositionChange":0,"gloryPoint":69799,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":124,"rankingPositionChange":0,"gloryPoint":69750,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":125,"rankingPositionChange":-1,"gloryPoint":69701,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":125,"rankingPositionChange":0,"gloryPoint":69652,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":126,"rankingPositionChange":-1,"gloryPoint":69603,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Evana"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Fatality","guildID":6747}],"characterName":"Evana","guildName":"Fatality","guildID":6747,"position":126,"rankingPositionChange":-1,"gloryPoint":69603,"soldierRankID":13}
+{
+ "characterID": 429727,
+ "characterClassID": 11,
+ "raceID": 1,
+ "position": 126,
+ "rankingPositionChange": -1,
+ "gloryPoint": 69603,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Evana",
+ "guildName": "Fatality",
+ "guildID": 6747,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 124,
+   "rankingPositionChange": 0,
+   "gloryPoint": 69799,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 124,
+   "rankingPositionChange": 0,
+   "gloryPoint": 69750,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 125,
+   "rankingPositionChange": -1,
+   "gloryPoint": 69701,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 125,
+   "rankingPositionChange": 0,
+   "gloryPoint": 69652,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 126,
+   "rankingPositionChange": -1,
+   "gloryPoint": 69603,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Evana"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Fatality",
+   "guildID": 6747
+  }
+ ]
+}

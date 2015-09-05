@@ -1,1 +1,60 @@
-{"characterID":1240807,"characterClassID":5,"raceID":0,"status":[{"date":"2015-08-30T22:00:00.000Z","position":985,"rankingPositionChange":0,"gloryPoint":13778,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":970,"rankingPositionChange":15,"gloryPoint":14027,"gloryPointChange":249,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":961,"rankingPositionChange":9,"gloryPoint":14120,"gloryPointChange":93,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":944,"rankingPositionChange":17,"gloryPoint":14373,"gloryPointChange":253,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Darkeversor"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z","guildName":"Les Papys","guildID":18075}],"characterName":"Darkeversor","guildName":"Les Papys","guildID":18075,"position":944,"rankingPositionChange":17,"gloryPoint":14373,"soldierRankID":10}
+{
+ "characterID": 1240807,
+ "characterClassID": 5,
+ "raceID": 0,
+ "position": 944,
+ "rankingPositionChange": 17,
+ "gloryPoint": 14373,
+ "gloryPointChange": 253,
+ "soldierRankID": 10,
+ "characterName": "Darkeversor",
+ "guildName": "Les Papys",
+ "guildID": 18075,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13778,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 970,
+   "rankingPositionChange": 15,
+   "gloryPoint": 14027,
+   "gloryPointChange": 249,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": 9,
+   "gloryPoint": 14120,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 944,
+   "rankingPositionChange": 17,
+   "gloryPoint": 14373,
+   "gloryPointChange": 253,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Darkeversor"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "Les Papys",
+   "guildID": 18075
+  }
+ ]
+}

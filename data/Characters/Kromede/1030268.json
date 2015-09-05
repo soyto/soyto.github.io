@@ -1,1 +1,60 @@
-{"characterID":1030268,"characterClassID":5,"raceID":1,"status":[{"date":"2015-08-30T22:00:00.000Z","position":930,"rankingPositionChange":0,"gloryPoint":3198,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":862,"rankingPositionChange":68,"gloryPoint":3791,"gloryPointChange":593,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":858,"rankingPositionChange":4,"gloryPoint":3832,"gloryPointChange":41,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":801,"rankingPositionChange":57,"gloryPoint":4368,"gloryPointChange":536,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Faliya"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z","guildName":"Loyalty","guildID":13265}],"characterName":"Faliya","guildName":"Loyalty","guildID":13265,"position":801,"rankingPositionChange":57,"gloryPoint":4368,"soldierRankID":10}
+{
+ "characterID": 1030268,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 801,
+ "rankingPositionChange": 57,
+ "gloryPoint": 4368,
+ "gloryPointChange": 536,
+ "soldierRankID": 10,
+ "characterName": "Faliya",
+ "guildName": "Loyalty",
+ "guildID": 13265,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 930,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3198,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": 68,
+   "gloryPoint": 3791,
+   "gloryPointChange": 593,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 858,
+   "rankingPositionChange": 4,
+   "gloryPoint": 3832,
+   "gloryPointChange": 41,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 801,
+   "rankingPositionChange": 57,
+   "gloryPoint": 4368,
+   "gloryPointChange": 536,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Faliya"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "Loyalty",
+   "guildID": 13265
+  }
+ ]
+}

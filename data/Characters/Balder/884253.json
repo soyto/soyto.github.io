@@ -1,1 +1,52 @@
-{"characterID":884253,"characterClassID":16,"raceID":1,"status":[{"date":"2015-08-30T22:00:00.000Z","position":675,"rankingPositionChange":201,"gloryPoint":1247,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":673,"rankingPositionChange":2,"gloryPoint":1246,"gloryPointChange":-1,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":644,"rankingPositionChange":29,"gloryPoint":1299,"gloryPointChange":53,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Fifro"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z","guildName":"John Does Chapter","guildID":23404}],"characterName":"Fifro","guildName":"John Does Chapter","guildID":23404,"position":644,"rankingPositionChange":29,"gloryPoint":1299,"soldierRankID":10}
+{
+ "characterID": 884253,
+ "characterClassID": 16,
+ "raceID": 1,
+ "position": 644,
+ "rankingPositionChange": 29,
+ "gloryPoint": 1299,
+ "gloryPointChange": 53,
+ "soldierRankID": 10,
+ "characterName": "Fifro",
+ "guildName": "John Does Chapter",
+ "guildID": 23404,
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 675,
+   "rankingPositionChange": 201,
+   "gloryPoint": 1247,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 673,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1246,
+   "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 644,
+   "rankingPositionChange": 29,
+   "gloryPoint": 1299,
+   "gloryPointChange": 53,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Fifro"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "guildName": "John Does Chapter",
+   "guildID": 23404
+  }
+ ]
+}

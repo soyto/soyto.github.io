@@ -1,1 +1,60 @@
-{"characterID":460103,"characterClassID":4,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":710,"rankingPositionChange":91,"gloryPoint":1244,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":680,"rankingPositionChange":30,"gloryPoint":1260,"gloryPointChange":16,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":681,"rankingPositionChange":-1,"gloryPoint":1253,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":687,"rankingPositionChange":-6,"gloryPoint":1246,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Theyla"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"FallenAngel","guildID":14337}],"characterName":"Theyla","guildName":"FallenAngel","guildID":14337,"position":687,"rankingPositionChange":-6,"gloryPoint":1246,"soldierRankID":10}
+{
+ "characterID": 460103,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 687,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1246,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Theyla",
+ "guildName": "FallenAngel",
+ "guildID": 14337,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 710,
+   "rankingPositionChange": 91,
+   "gloryPoint": 1244,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": 30,
+   "gloryPoint": 1260,
+   "gloryPointChange": 16,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 681,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1253,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1246,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Theyla"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "FallenAngel",
+   "guildID": 14337
+  }
+ ]
+}

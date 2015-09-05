@@ -1,1 +1,68 @@
-{"characterID":32112,"characterClassID":1,"raceID":1,"status":[{"date":"2015-08-29T22:00:00.000Z","position":566,"rankingPositionChange":0,"gloryPoint":24451,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":566,"rankingPositionChange":0,"gloryPoint":24437,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":569,"rankingPositionChange":-3,"gloryPoint":24395,"gloryPointChange":-42,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":572,"rankingPositionChange":-3,"gloryPoint":24381,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":572,"rankingPositionChange":0,"gloryPoint":24367,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-08-29T22:00:00.000Z","characterName":"Linux"}],"guilds":[{"date":"2015-08-29T22:00:00.000Z","guildName":"Cheatconsole","guildID":12872}],"characterName":"Linux","guildName":"Cheatconsole","guildID":12872,"position":572,"rankingPositionChange":0,"gloryPoint":24367,"soldierRankID":11}
+{
+ "characterID": 32112,
+ "characterClassID": 1,
+ "raceID": 1,
+ "position": 572,
+ "rankingPositionChange": 0,
+ "gloryPoint": 24367,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Linux",
+ "guildName": "Cheatconsole",
+ "guildID": 12872,
+ "status": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 566,
+   "rankingPositionChange": 0,
+   "gloryPoint": 24451,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 566,
+   "rankingPositionChange": 0,
+   "gloryPoint": 24437,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 569,
+   "rankingPositionChange": -3,
+   "gloryPoint": 24395,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": -3,
+   "gloryPoint": 24381,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": 0,
+   "gloryPoint": 24367,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "characterName": "Linux"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "Cheatconsole",
+   "guildID": 12872
+  }
+ ]
+}

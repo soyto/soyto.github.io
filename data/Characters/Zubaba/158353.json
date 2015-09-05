@@ -1,1 +1,68 @@
-{"characterID":158353,"characterClassID":5,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":269,"rankingPositionChange":1,"gloryPoint":38993,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":270,"rankingPositionChange":-1,"gloryPoint":38944,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":270,"rankingPositionChange":0,"gloryPoint":38895,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":271,"rankingPositionChange":-1,"gloryPoint":38846,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":271,"rankingPositionChange":0,"gloryPoint":38797,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Windpagan"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"GloryOfDeath","guildID":4192}],"characterName":"Windpagan","guildName":"GloryOfDeath","guildID":4192,"position":271,"rankingPositionChange":0,"gloryPoint":38797,"soldierRankID":13}
+{
+ "characterID": 158353,
+ "characterClassID": 5,
+ "raceID": 0,
+ "position": 271,
+ "rankingPositionChange": 0,
+ "gloryPoint": 38797,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Windpagan",
+ "guildName": "GloryOfDeath",
+ "guildID": 4192,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 269,
+   "rankingPositionChange": 1,
+   "gloryPoint": 38993,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": -1,
+   "gloryPoint": 38944,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": 0,
+   "gloryPoint": 38895,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 271,
+   "rankingPositionChange": -1,
+   "gloryPoint": 38846,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 271,
+   "rankingPositionChange": 0,
+   "gloryPoint": 38797,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Windpagan"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "GloryOfDeath",
+   "guildID": 4192
+  }
+ ]
+}

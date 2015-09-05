@@ -1,1 +1,44 @@
-{"characterID":1219221,"characterClassID":14,"raceID":0,"status":[{"date":"2015-08-10T22:00:00.000Z","position":998,"rankingPositionChange":0,"gloryPoint":7611,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-11T22:00:00.000Z","position":998,"rankingPositionChange":0,"gloryPoint":7611,"gloryPointChange":0,"soldierRankID":10}],"names":[{"date":"2015-08-10T22:00:00.000Z","characterName":"Johnnywolker"}],"guilds":[{"date":"2015-08-10T22:00:00.000Z","guildName":"Paranoid","guildID":14319}],"characterName":"Johnnywolker","guildName":"Paranoid","guildID":14319,"position":998,"rankingPositionChange":0,"gloryPoint":7611,"soldierRankID":10}
+{
+ "characterID": 1219221,
+ "characterClassID": 14,
+ "raceID": 0,
+ "position": 998,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7611,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
+ "characterName": "Johnnywolker",
+ "guildName": "Paranoid",
+ "guildID": 14319,
+ "status": [
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7611,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-11T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7611,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "characterName": "Johnnywolker"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-10T22:00:00.000Z",
+   "guildName": "Paranoid",
+   "guildID": 14319
+  }
+ ]
+}

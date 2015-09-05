@@ -1,1 +1,44 @@
-{"characterID":1378532,"characterClassID":1,"raceID":0,"status":[{"date":"2015-09-02T22:00:00.000Z","position":986,"rankingPositionChange":0,"gloryPoint":4816,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":984,"rankingPositionChange":2,"gloryPoint":4829,"gloryPointChange":13,"soldierRankID":10}],"names":[{"date":"2015-09-02T22:00:00.000Z","characterName":"Moongreen"}],"guilds":[{"date":"2015-09-02T22:00:00.000Z","guildName":"Legionaries Of Aion","guildID":27693}],"characterName":"Moongreen","guildName":"Legionaries Of Aion","guildID":27693,"position":984,"rankingPositionChange":2,"gloryPoint":4829,"soldierRankID":10}
+{
+ "characterID": 1378532,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 984,
+ "rankingPositionChange": 2,
+ "gloryPoint": 4829,
+ "gloryPointChange": 13,
+ "soldierRankID": 10,
+ "characterName": "Moongreen",
+ "guildName": "Legionaries Of Aion",
+ "guildID": 27693,
+ "status": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4816,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": 2,
+   "gloryPoint": 4829,
+   "gloryPointChange": 13,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "characterName": "Moongreen"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "guildName": "Legionaries Of Aion",
+   "guildID": 27693
+  }
+ ]
+}

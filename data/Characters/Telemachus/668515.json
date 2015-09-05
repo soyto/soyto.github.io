@@ -1,1 +1,56 @@
-{"characterID":668515,"characterClassID":4,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":518,"rankingPositionChange":0,"gloryPoint":3241,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":519,"rankingPositionChange":-1,"gloryPoint":3227,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":521,"rankingPositionChange":-2,"gloryPoint":3213,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":522,"rankingPositionChange":-1,"gloryPoint":3199,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Asae"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Asae","position":522,"rankingPositionChange":-1,"gloryPoint":3199,"soldierRankID":11}
+{
+ "characterID": 668515,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 522,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3199,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Asae",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 518,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3241,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 519,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3227,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 521,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3213,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 522,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3199,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Asae"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

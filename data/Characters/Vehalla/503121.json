@@ -1,1 +1,52 @@
-{"characterID":503121,"characterClassID":2,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":698,"rankingPositionChange":0,"gloryPoint":1285,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":701,"rankingPositionChange":-3,"gloryPoint":1278,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":711,"rankingPositionChange":-10,"gloryPoint":1271,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Frokei"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"SoulStorm","guildID":2542}],"characterName":"Frokei","guildName":"SoulStorm","guildID":2542,"position":711,"rankingPositionChange":-10,"gloryPoint":1271,"soldierRankID":10}
+{
+ "characterID": 503121,
+ "characterClassID": 2,
+ "raceID": 0,
+ "position": 711,
+ "rankingPositionChange": -10,
+ "gloryPoint": 1271,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Frokei",
+ "guildName": "SoulStorm",
+ "guildID": 2542,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 698,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1285,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 701,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1278,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1271,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Frokei"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "SoulStorm",
+   "guildID": 2542
+  }
+ ]
+}

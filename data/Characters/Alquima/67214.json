@@ -1,1 +1,79 @@
-{"characterID":67214,"characterClassID":14,"raceID":0,"status":[{"date":"2015-08-28T22:00:00.000Z","position":867,"rankingPositionChange":0,"gloryPoint":12114,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":873,"rankingPositionChange":-6,"gloryPoint":12107,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":875,"rankingPositionChange":-2,"gloryPoint":12100,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":879,"rankingPositionChange":-4,"gloryPoint":12079,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":878,"rankingPositionChange":1,"gloryPoint":12072,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":881,"rankingPositionChange":-3,"gloryPoint":12068,"gloryPointChange":-4,"soldierRankID":10}],"names":[{"date":"2015-08-28T22:00:00.000Z","characterName":"Emirisora"}],"guilds":[{"date":"2015-08-28T22:00:00.000Z"},{"date":"2015-09-03T22:00:00.000Z","guildName":" Asmo Muerto Abono pa mi Huerto","guildID":1922}],"characterName":"Emirisora","guildName":" Asmo Muerto Abono pa mi Huerto","guildID":1922,"position":881,"rankingPositionChange":-3,"gloryPoint":12068,"soldierRankID":10}
+{
+ "characterID": 67214,
+ "characterClassID": 14,
+ "raceID": 0,
+ "position": 881,
+ "rankingPositionChange": -3,
+ "gloryPoint": 12068,
+ "gloryPointChange": -4,
+ "soldierRankID": 10,
+ "characterName": "Emirisora",
+ "guildName": " Asmo Muerto Abono pa mi Huerto",
+ "guildID": 1922,
+ "status": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 867,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12114,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 873,
+   "rankingPositionChange": -6,
+   "gloryPoint": 12107,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 875,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12100,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 879,
+   "rankingPositionChange": -4,
+   "gloryPoint": 12079,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 878,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12072,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 881,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12068,
+   "gloryPointChange": -4,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "characterName": "Emirisora"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-28T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "guildName": " Asmo Muerto Abono pa mi Huerto",
+   "guildID": 1922
+  }
+ ]
+}

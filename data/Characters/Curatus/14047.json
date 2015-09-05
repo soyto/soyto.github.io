@@ -1,1 +1,60 @@
-{"characterID":14047,"characterClassID":7,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":345,"rankingPositionChange":-1,"gloryPoint":19366,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":350,"rankingPositionChange":-5,"gloryPoint":19338,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":351,"rankingPositionChange":-1,"gloryPoint":19310,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":356,"rankingPositionChange":-5,"gloryPoint":19282,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Boogiepyon"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Hello Kitty Nation","guildID":1037}],"characterName":"Boogiepyon","guildName":"Hello Kitty Nation","guildID":1037,"position":356,"rankingPositionChange":-5,"gloryPoint":19282,"soldierRankID":12}
+{
+ "characterID": 14047,
+ "characterClassID": 7,
+ "raceID": 1,
+ "position": 356,
+ "rankingPositionChange": -5,
+ "gloryPoint": 19282,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Boogiepyon",
+ "guildName": "Hello Kitty Nation",
+ "guildID": 1037,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 345,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19366,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 350,
+   "rankingPositionChange": -5,
+   "gloryPoint": 19338,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 351,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19310,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 356,
+   "rankingPositionChange": -5,
+   "gloryPoint": 19282,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Boogiepyon"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Hello Kitty Nation",
+   "guildID": 1037
+  }
+ ]
+}

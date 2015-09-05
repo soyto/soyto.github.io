@@ -1,1 +1,52 @@
-{"characterID":406791,"characterClassID":16,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":154,"rankingPositionChange":1,"gloryPoint":52082,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":155,"rankingPositionChange":-1,"gloryPoint":52033,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":155,"rankingPositionChange":0,"gloryPoint":51984,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Nally"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"EASY THIS GAME","guildID":3342}],"characterName":"Nally","guildName":"EASY THIS GAME","guildID":3342,"position":155,"rankingPositionChange":0,"gloryPoint":51984,"soldierRankID":13}
+{
+ "characterID": 406791,
+ "characterClassID": 16,
+ "raceID": 0,
+ "position": 155,
+ "rankingPositionChange": 0,
+ "gloryPoint": 51984,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Nally",
+ "guildName": "EASY THIS GAME",
+ "guildID": 3342,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 154,
+   "rankingPositionChange": 1,
+   "gloryPoint": 52082,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 155,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52033,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 155,
+   "rankingPositionChange": 0,
+   "gloryPoint": 51984,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Nally"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "EASY THIS GAME",
+   "guildID": 3342
+  }
+ ]
+}

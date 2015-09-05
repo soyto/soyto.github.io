@@ -1,1 +1,68 @@
-{"characterID":229338,"characterClassID":4,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":960,"rankingPositionChange":-4,"gloryPoint":9181,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":964,"rankingPositionChange":-4,"gloryPoint":9174,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-02T22:00:00.000Z","position":967,"rankingPositionChange":-3,"gloryPoint":9167,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":966,"rankingPositionChange":1,"gloryPoint":9160,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":970,"rankingPositionChange":-4,"gloryPoint":9153,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Audittore"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Nice To Kill You","guildID":5412}],"characterName":"Audittore","guildName":"Nice To Kill You","guildID":5412,"position":970,"rankingPositionChange":-4,"gloryPoint":9153,"soldierRankID":10}
+{
+ "characterID": 229338,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 970,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9153,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Audittore",
+ "guildName": "Nice To Kill You",
+ "guildID": 5412,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 960,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9181,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 964,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9174,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9167,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 966,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9160,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 970,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9153,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Audittore"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Nice To Kill You",
+   "guildID": 5412
+  }
+ ]
+}

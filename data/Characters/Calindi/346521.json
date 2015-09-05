@@ -1,1 +1,40 @@
-{"characterID":346521,"characterClassID":7,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":485,"rankingPositionChange":1,"gloryPoint":6489,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":487,"rankingPositionChange":-2,"gloryPoint":6461,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Rizzu"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Rizzu","position":487,"rankingPositionChange":-2,"gloryPoint":6461,"soldierRankID":12}
+{
+ "characterID": 346521,
+ "characterClassID": 7,
+ "raceID": 0,
+ "position": 487,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6461,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Rizzu",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 485,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6489,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 487,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6461,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Rizzu"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

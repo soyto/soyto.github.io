@@ -1,1 +1,160 @@
-{"characterID":231023,"characterClassID":1,"raceID":0,"status":[{"date":"2015-08-16T22:00:00.000Z","position":803,"rankingPositionChange":0,"gloryPoint":18677,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-17T22:00:00.000Z","position":811,"rankingPositionChange":-8,"gloryPoint":18670,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-18T22:00:00.000Z","position":812,"rankingPositionChange":-1,"gloryPoint":18656,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-19T22:00:00.000Z","position":813,"rankingPositionChange":-1,"gloryPoint":18649,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-20T22:00:00.000Z","position":814,"rankingPositionChange":-1,"gloryPoint":18642,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-21T22:00:00.000Z","position":817,"rankingPositionChange":-3,"gloryPoint":18635,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-22T22:00:00.000Z","position":814,"rankingPositionChange":3,"gloryPoint":18628,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-23T22:00:00.000Z","position":815,"rankingPositionChange":-1,"gloryPoint":18621,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-25T22:00:00.000Z","position":816,"rankingPositionChange":-1,"gloryPoint":18607,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-26T22:00:00.000Z","position":817,"rankingPositionChange":-1,"gloryPoint":18593,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-27T22:00:00.000Z","position":813,"rankingPositionChange":4,"gloryPoint":18586,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-28T22:00:00.000Z","position":817,"rankingPositionChange":-4,"gloryPoint":18579,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":815,"rankingPositionChange":2,"gloryPoint":18572,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":819,"rankingPositionChange":-4,"gloryPoint":18565,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":814,"rankingPositionChange":5,"gloryPoint":18544,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":810,"rankingPositionChange":4,"gloryPoint":18537,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":806,"rankingPositionChange":4,"gloryPoint":18530,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-16T22:00:00.000Z","characterName":"Arwenllissa"}],"guilds":[{"date":"2015-08-16T22:00:00.000Z"}],"characterName":"Arwenllissa","position":806,"rankingPositionChange":4,"gloryPoint":18530,"soldierRankID":10}
+{
+ "characterID": 231023,
+ "characterClassID": 1,
+ "raceID": 0,
+ "position": 806,
+ "rankingPositionChange": 4,
+ "gloryPoint": 18530,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Arwenllissa",
+ "status": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "position": 803,
+   "rankingPositionChange": 0,
+   "gloryPoint": 18677,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-17T22:00:00.000Z",
+   "position": 811,
+   "rankingPositionChange": -8,
+   "gloryPoint": 18670,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-18T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18656,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-19T22:00:00.000Z",
+   "position": 813,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18649,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-20T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18642,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-21T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18635,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-22T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": 3,
+   "gloryPoint": 18628,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-23T22:00:00.000Z",
+   "position": 815,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18621,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 816,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18607,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18593,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 813,
+   "rankingPositionChange": 4,
+   "gloryPoint": 18586,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18579,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 815,
+   "rankingPositionChange": 2,
+   "gloryPoint": 18572,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 819,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18565,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": 5,
+   "gloryPoint": 18544,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 810,
+   "rankingPositionChange": 4,
+   "gloryPoint": 18537,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 806,
+   "rankingPositionChange": 4,
+   "gloryPoint": 18530,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-16T22:00:00.000Z",
+   "characterName": "Arwenllissa"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-16T22:00:00.000Z"
+  }
+ ]
+}

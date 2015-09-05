@@ -1,1 +1,56 @@
-{"characterID":194348,"characterClassID":11,"raceID":0,"status":[{"date":"2015-08-30T22:00:00.000Z","position":742,"rankingPositionChange":0,"gloryPoint":8960,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":742,"rankingPositionChange":0,"gloryPoint":8939,"gloryPointChange":-21,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":742,"rankingPositionChange":0,"gloryPoint":8932,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":743,"rankingPositionChange":-1,"gloryPoint":8925,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Leandros"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z"}],"characterName":"Leandros","position":743,"rankingPositionChange":-1,"gloryPoint":8925,"soldierRankID":10}
+{
+ "characterID": 194348,
+ "characterClassID": 11,
+ "raceID": 0,
+ "position": 743,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8925,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Leandros",
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8960,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8939,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8932,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 743,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8925,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Leandros"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z"
+  }
+ ]
+}

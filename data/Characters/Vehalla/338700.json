@@ -1,1 +1,60 @@
-{"characterID":338700,"characterClassID":16,"raceID":0,"status":[{"date":"2015-08-28T22:00:00.000Z","position":709,"rankingPositionChange":0,"gloryPoint":1260,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":719,"rankingPositionChange":-10,"gloryPoint":1253,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-30T22:00:00.000Z","position":732,"rankingPositionChange":-13,"gloryPoint":1246,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":705,"rankingPositionChange":27,"gloryPoint":1284,"gloryPointChange":38,"soldierRankID":10}],"names":[{"date":"2015-08-28T22:00:00.000Z","characterName":"Loopyswan"}],"guilds":[{"date":"2015-08-28T22:00:00.000Z","guildName":"ClearRUN","guildID":9674}],"characterName":"Loopyswan","guildName":"ClearRUN","guildID":9674,"position":705,"rankingPositionChange":27,"gloryPoint":1284,"soldierRankID":10}
+{
+ "characterID": 338700,
+ "characterClassID": 16,
+ "raceID": 0,
+ "position": 705,
+ "rankingPositionChange": 27,
+ "gloryPoint": 1284,
+ "gloryPointChange": 38,
+ "soldierRankID": 10,
+ "characterName": "Loopyswan",
+ "guildName": "ClearRUN",
+ "guildID": 9674,
+ "status": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1260,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 719,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1253,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 732,
+   "rankingPositionChange": -13,
+   "gloryPoint": 1246,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 705,
+   "rankingPositionChange": 27,
+   "gloryPoint": 1284,
+   "gloryPointChange": 38,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "characterName": "Loopyswan"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "guildName": "ClearRUN",
+   "guildID": 9674
+  }
+ ]
+}

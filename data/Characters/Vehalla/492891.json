@@ -1,1 +1,76 @@
-{"characterID":492891,"characterClassID":13,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":380,"rankingPositionChange":-3,"gloryPoint":5883,"gloryPointChange":0,"soldierRankID":12},{"date":"2015-08-01T22:00:00.000Z","position":381,"rankingPositionChange":-1,"gloryPoint":5855,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-02T22:00:00.000Z","position":379,"rankingPositionChange":2,"gloryPoint":5827,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-03T22:00:00.000Z","position":380,"rankingPositionChange":-1,"gloryPoint":5799,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-04T22:00:00.000Z","position":380,"rankingPositionChange":0,"gloryPoint":5771,"gloryPointChange":-28,"soldierRankID":12},{"date":"2015-08-05T22:00:00.000Z","position":380,"rankingPositionChange":0,"gloryPoint":5743,"gloryPointChange":-28,"soldierRankID":12}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Hellcreps"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Bis es klatscht","guildID":14163}],"characterName":"Hellcreps","guildName":"Bis es klatscht","guildID":14163,"position":380,"rankingPositionChange":0,"gloryPoint":5743,"soldierRankID":12}
+{
+ "characterID": 492891,
+ "characterClassID": 13,
+ "raceID": 1,
+ "position": 380,
+ "rankingPositionChange": 0,
+ "gloryPoint": 5743,
+ "gloryPointChange": -28,
+ "soldierRankID": 12,
+ "characterName": "Hellcreps",
+ "guildName": "Bis es klatscht",
+ "guildID": 14163,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5883,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 381,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5855,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 379,
+   "rankingPositionChange": 2,
+   "gloryPoint": 5827,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5799,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5771,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5743,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Hellcreps"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Bis es klatscht",
+   "guildID": 14163
+  }
+ ]
+}

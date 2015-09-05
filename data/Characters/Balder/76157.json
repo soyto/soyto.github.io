@@ -1,1 +1,40 @@
-{"characterID":76157,"characterClassID":10,"raceID":1,"status":[{"date":"2015-08-30T22:00:00.000Z","position":660,"rankingPositionChange":33,"gloryPoint":1266,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-01T22:00:00.000Z","position":664,"rankingPositionChange":-4,"gloryPoint":1245,"gloryPointChange":-21,"soldierRankID":10}],"names":[{"date":"2015-08-30T22:00:00.000Z","characterName":"Calmida"}],"guilds":[{"date":"2015-08-30T22:00:00.000Z"}],"characterName":"Calmida","position":664,"rankingPositionChange":-4,"gloryPoint":1245,"soldierRankID":10}
+{
+ "characterID": 76157,
+ "characterClassID": 10,
+ "raceID": 1,
+ "position": 664,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1245,
+ "gloryPointChange": -21,
+ "soldierRankID": 10,
+ "characterName": "Calmida",
+ "status": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 660,
+   "rankingPositionChange": 33,
+   "gloryPoint": 1266,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 664,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1245,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "characterName": "Calmida"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-30T22:00:00.000Z"
+  }
+ ]
+}

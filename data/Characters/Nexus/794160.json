@@ -1,1 +1,76 @@
-{"characterID":794160,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":702,"rankingPositionChange":3,"gloryPoint":15294,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":700,"rankingPositionChange":2,"gloryPoint":15287,"gloryPointChange":-7,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":707,"rankingPositionChange":-7,"gloryPoint":15273,"gloryPointChange":-14,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":712,"rankingPositionChange":-5,"gloryPoint":15266,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-04T22:00:00.000Z","position":709,"rankingPositionChange":3,"gloryPoint":15259,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-05T22:00:00.000Z","position":711,"rankingPositionChange":-2,"gloryPoint":15252,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Inay"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Device","guildID":9172}],"characterName":"Inay","guildName":"Device","guildID":9172,"position":711,"rankingPositionChange":-2,"gloryPoint":15252,"soldierRankID":10}
+{
+ "characterID": 794160,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 711,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15252,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Inay",
+ "guildName": "Device",
+ "guildID": 9172,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 702,
+   "rankingPositionChange": 3,
+   "gloryPoint": 15294,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 700,
+   "rankingPositionChange": 2,
+   "gloryPoint": 15287,
+   "gloryPointChange": -7,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 707,
+   "rankingPositionChange": -7,
+   "gloryPoint": 15273,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 712,
+   "rankingPositionChange": -5,
+   "gloryPoint": 15266,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": 3,
+   "gloryPoint": 15259,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15252,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Inay"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Device",
+   "guildID": 9172
+  }
+ ]
+}

@@ -1,1 +1,81 @@
-{"characterID":322470,"characterClassID":2,"raceID":1,"status":[{"date":"2015-08-28T22:00:00.000Z","position":294,"rankingPositionChange":195,"gloryPoint":1291,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-29T22:00:00.000Z","position":258,"rankingPositionChange":36,"gloryPoint":1596,"gloryPointChange":305,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":257,"rankingPositionChange":1,"gloryPoint":1582,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":243,"rankingPositionChange":14,"gloryPoint":1863,"gloryPointChange":281,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":225,"rankingPositionChange":18,"gloryPoint":2567,"gloryPointChange":704,"soldierRankID":12},{"date":"2015-09-03T22:00:00.000Z","position":224,"rankingPositionChange":1,"gloryPoint":2790,"gloryPointChange":223,"soldierRankID":12}],"names":[{"date":"2015-08-28T22:00:00.000Z","characterName":"Pommette"}],"guilds":[{"date":"2015-08-28T22:00:00.000Z","guildName":"Kira Akuma","guildID":13940},{"date":"2015-08-29T22:00:00.000Z","guildName":"STARFOULAAAAH","guildID":16092}],"characterName":"Pommette","guildName":"STARFOULAAAAH","guildID":16092,"position":224,"rankingPositionChange":1,"gloryPoint":2790,"soldierRankID":12}
+{
+ "characterID": 322470,
+ "characterClassID": 2,
+ "raceID": 1,
+ "position": 224,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2790,
+ "gloryPointChange": 223,
+ "soldierRankID": 12,
+ "characterName": "Pommette",
+ "guildName": "STARFOULAAAAH",
+ "guildID": 16092,
+ "status": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 294,
+   "rankingPositionChange": 195,
+   "gloryPoint": 1291,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 258,
+   "rankingPositionChange": 36,
+   "gloryPoint": 1596,
+   "gloryPointChange": 305,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 257,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1582,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 243,
+   "rankingPositionChange": 14,
+   "gloryPoint": 1863,
+   "gloryPointChange": 281,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 225,
+   "rankingPositionChange": 18,
+   "gloryPoint": 2567,
+   "gloryPointChange": 704,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 224,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2790,
+   "gloryPointChange": 223,
+   "soldierRankID": 12
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "characterName": "Pommette"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "guildName": "Kira Akuma",
+   "guildID": 13940
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "guildName": "STARFOULAAAAH",
+   "guildID": 16092
+  }
+ ]
+}

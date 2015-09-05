@@ -1,1 +1,48 @@
-{"characterID":1288386,"characterClassID":2,"raceID":0,"status":[{"date":"2015-09-01T22:00:00.000Z","position":988,"rankingPositionChange":-1,"gloryPoint":13407,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":990,"rankingPositionChange":-2,"gloryPoint":13500,"gloryPointChange":93,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":981,"rankingPositionChange":9,"gloryPoint":13793,"gloryPointChange":293,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Notank"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z"}],"characterName":"Notank","position":981,"rankingPositionChange":9,"gloryPoint":13793,"soldierRankID":10}
+{
+ "characterID": 1288386,
+ "characterClassID": 2,
+ "raceID": 0,
+ "position": 981,
+ "rankingPositionChange": 9,
+ "gloryPoint": 13793,
+ "gloryPointChange": 293,
+ "soldierRankID": 10,
+ "characterName": "Notank",
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13407,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13500,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": 9,
+   "gloryPoint": 13793,
+   "gloryPointChange": 293,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Notank"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z"
+  }
+ ]
+}

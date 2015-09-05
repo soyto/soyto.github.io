@@ -1,1 +1,60 @@
-{"characterID":96156,"characterClassID":8,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":997,"rankingPositionChange":0,"gloryPoint":8959,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":999,"rankingPositionChange":-2,"gloryPoint":8952,"gloryPointChange":-7,"soldierRankID":10},{"date":"2015-08-03T22:00:00.000Z","position":1000,"rankingPositionChange":-1,"gloryPoint":8945,"gloryPointChange":-7,"soldierRankID":0},{"date":"2015-08-04T22:00:00.000Z","position":1000,"rankingPositionChange":0,"gloryPoint":8945,"gloryPointChange":0,"soldierRankID":0}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Obssessed"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"StayTrue","guildID":3280}],"characterName":"Obssessed","guildName":"StayTrue","guildID":3280,"position":1000,"rankingPositionChange":0,"gloryPoint":8945,"soldierRankID":0}
+{
+ "characterID": 96156,
+ "characterClassID": 8,
+ "raceID": 0,
+ "position": 1000,
+ "rankingPositionChange": 0,
+ "gloryPoint": 8945,
+ "gloryPointChange": 0,
+ "soldierRankID": 0,
+ "characterName": "Obssessed",
+ "guildName": "StayTrue",
+ "guildID": 3280,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8959,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8952,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8945,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8945,
+   "gloryPointChange": 0,
+   "soldierRankID": 0
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Obssessed"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "StayTrue",
+   "guildID": 3280
+  }
+ ]
+}

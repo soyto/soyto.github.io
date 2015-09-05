@@ -1,1 +1,44 @@
-{"characterID":1350008,"characterClassID":4,"raceID":1,"status":[{"date":"2015-09-01T22:00:00.000Z","position":940,"rankingPositionChange":0,"gloryPoint":1756,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-09-02T22:00:00.000Z","position":857,"rankingPositionChange":83,"gloryPoint":2220,"gloryPointChange":464,"soldierRankID":10},{"date":"2015-09-03T22:00:00.000Z","position":834,"rankingPositionChange":23,"gloryPoint":2472,"gloryPointChange":252,"soldierRankID":10}],"names":[{"date":"2015-09-01T22:00:00.000Z","characterName":"Affaffina"}],"guilds":[{"date":"2015-09-01T22:00:00.000Z","guildName":"Sprawl","guildID":28164}],"characterName":"Affaffina","guildName":"Sprawl","guildID":28164,"position":834,"rankingPositionChange":23,"gloryPoint":2472,"soldierRankID":10}
+{
+ "characterID": 1350008,
+ "characterClassID": 4,
+ "raceID": 1,
+ "position": 857,
+ "rankingPositionChange": 83,
+ "gloryPoint": 2220,
+ "gloryPointChange": 464,
+ "soldierRankID": 10,
+ "characterName": "Affaffina",
+ "guildName": "Sprawl",
+ "guildID": 28164,
+ "status": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1756,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 857,
+   "rankingPositionChange": 83,
+   "gloryPoint": 2220,
+   "gloryPointChange": 464,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "characterName": "Affaffina"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "guildName": "Sprawl",
+   "guildID": 28164
+  }
+ ]
+}

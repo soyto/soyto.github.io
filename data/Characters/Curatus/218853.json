@@ -1,1 +1,44 @@
-{"characterID":218853,"characterClassID":11,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":996,"rankingPositionChange":-4,"gloryPoint":7735,"gloryPointChange":0,"soldierRankID":10},{"date":"2015-08-01T22:00:00.000Z","position":999,"rankingPositionChange":-3,"gloryPoint":7728,"gloryPointChange":-7,"soldierRankID":10}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Sheele"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"R A G E","guildID":5085}],"characterName":"Sheele","guildName":"R A G E","guildID":5085,"position":999,"rankingPositionChange":-3,"gloryPoint":7728,"soldierRankID":10}
+{
+ "characterID": 218853,
+ "characterClassID": 11,
+ "raceID": 0,
+ "position": 999,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7728,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
+ "characterName": "Sheele",
+ "guildName": "R A G E",
+ "guildID": 5085,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7735,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7728,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Sheele"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "R A G E",
+   "guildID": 5085
+  }
+ ]
+}

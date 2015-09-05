@@ -1,1 +1,172 @@
-{"characterID":735039,"characterClassID":5,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":516,"rankingPositionChange":-4,"gloryPoint":7195,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":521,"rankingPositionChange":-5,"gloryPoint":7181,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-02T22:00:00.000Z","position":522,"rankingPositionChange":-1,"gloryPoint":7167,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-03T22:00:00.000Z","position":523,"rankingPositionChange":-1,"gloryPoint":7153,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-04T22:00:00.000Z","position":519,"rankingPositionChange":4,"gloryPoint":7139,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-05T22:00:00.000Z","position":521,"rankingPositionChange":-2,"gloryPoint":7125,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-06T22:00:00.000Z","position":521,"rankingPositionChange":0,"gloryPoint":7111,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-07T22:00:00.000Z","position":522,"rankingPositionChange":-1,"gloryPoint":7097,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-08T22:00:00.000Z","position":522,"rankingPositionChange":0,"gloryPoint":7097,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-25T22:00:00.000Z","position":542,"rankingPositionChange":-20,"gloryPoint":6924,"gloryPointChange":-173,"soldierRankID":11},{"date":"2015-08-26T22:00:00.000Z","position":545,"rankingPositionChange":-3,"gloryPoint":6896,"gloryPointChange":-28,"soldierRankID":11},{"date":"2015-08-27T22:00:00.000Z","position":547,"rankingPositionChange":-2,"gloryPoint":6882,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-28T22:00:00.000Z","position":546,"rankingPositionChange":1,"gloryPoint":6868,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-29T22:00:00.000Z","position":544,"rankingPositionChange":2,"gloryPoint":6854,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-08-30T22:00:00.000Z","position":546,"rankingPositionChange":-2,"gloryPoint":6840,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-01T22:00:00.000Z","position":548,"rankingPositionChange":-2,"gloryPoint":6798,"gloryPointChange":-42,"soldierRankID":11},{"date":"2015-09-02T22:00:00.000Z","position":556,"rankingPositionChange":-8,"gloryPoint":6784,"gloryPointChange":-14,"soldierRankID":11},{"date":"2015-09-03T22:00:00.000Z","position":556,"rankingPositionChange":0,"gloryPoint":6770,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Liblikas"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"Estonian Legion","guildID":11212}],"characterName":"Liblikas","guildName":"Estonian Legion","guildID":11212,"position":556,"rankingPositionChange":0,"gloryPoint":6770,"soldierRankID":11}
+{
+ "characterID": 735039,
+ "characterClassID": 5,
+ "raceID": 1,
+ "position": 556,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6770,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Liblikas",
+ "guildName": "Estonian Legion",
+ "guildID": 11212,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 516,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7195,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 521,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7181,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 522,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7167,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7153,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 519,
+   "rankingPositionChange": 4,
+   "gloryPoint": 7139,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-05T22:00:00.000Z",
+   "position": 521,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7125,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-06T22:00:00.000Z",
+   "position": 521,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7111,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-07T22:00:00.000Z",
+   "position": 522,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7097,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-08T22:00:00.000Z",
+   "position": 522,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7097,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-25T22:00:00.000Z",
+   "position": 542,
+   "rankingPositionChange": -20,
+   "gloryPoint": 6924,
+   "gloryPointChange": -173,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-26T22:00:00.000Z",
+   "position": 545,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6896,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-27T22:00:00.000Z",
+   "position": 547,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6882,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-28T22:00:00.000Z",
+   "position": 546,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6868,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-29T22:00:00.000Z",
+   "position": 544,
+   "rankingPositionChange": 2,
+   "gloryPoint": 6854,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-30T22:00:00.000Z",
+   "position": 546,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6840,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-01T22:00:00.000Z",
+   "position": 548,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6798,
+   "gloryPointChange": -42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-02T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": -8,
+   "gloryPoint": 6784,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-03T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6770,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Liblikas"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "Estonian Legion",
+   "guildID": 11212
+  }
+ ]
+}

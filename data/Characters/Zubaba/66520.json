@@ -1,1 +1,40 @@
-{"characterID":66520,"characterClassID":7,"raceID":1,"status":[{"date":"2015-07-31T22:00:00.000Z","position":681,"rankingPositionChange":1,"gloryPoint":3790,"gloryPointChange":0,"soldierRankID":11},{"date":"2015-08-01T22:00:00.000Z","position":683,"rankingPositionChange":-2,"gloryPoint":3776,"gloryPointChange":-14,"soldierRankID":11}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Decision"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z"}],"characterName":"Decision","position":683,"rankingPositionChange":-2,"gloryPoint":3776,"soldierRankID":11}
+{
+ "characterID": 66520,
+ "characterClassID": 7,
+ "raceID": 1,
+ "position": 683,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3776,
+ "gloryPointChange": -14,
+ "soldierRankID": 11,
+ "characterName": "Decision",
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 681,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3790,
+   "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 683,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3776,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Decision"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z"
+  }
+ ]
+}

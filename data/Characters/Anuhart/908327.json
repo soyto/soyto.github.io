@@ -1,1 +1,68 @@
-{"characterID":908327,"characterClassID":14,"raceID":0,"status":[{"date":"2015-07-31T22:00:00.000Z","position":132,"rankingPositionChange":-1,"gloryPoint":65278,"gloryPointChange":0,"soldierRankID":13},{"date":"2015-08-01T22:00:00.000Z","position":132,"rankingPositionChange":0,"gloryPoint":65229,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-02T22:00:00.000Z","position":132,"rankingPositionChange":0,"gloryPoint":65180,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-03T22:00:00.000Z","position":132,"rankingPositionChange":0,"gloryPoint":65131,"gloryPointChange":-49,"soldierRankID":13},{"date":"2015-08-04T22:00:00.000Z","position":134,"rankingPositionChange":-2,"gloryPoint":65082,"gloryPointChange":-49,"soldierRankID":13}],"names":[{"date":"2015-07-31T22:00:00.000Z","characterName":"Masky"}],"guilds":[{"date":"2015-07-31T22:00:00.000Z","guildName":"We Play Naked","guildID":3685}],"characterName":"Masky","guildName":"We Play Naked","guildID":3685,"position":134,"rankingPositionChange":-2,"gloryPoint":65082,"soldierRankID":13}
+{
+ "characterID": 908327,
+ "characterClassID": 14,
+ "raceID": 0,
+ "position": 134,
+ "rankingPositionChange": -2,
+ "gloryPoint": 65082,
+ "gloryPointChange": -49,
+ "soldierRankID": 13,
+ "characterName": "Masky",
+ "guildName": "We Play Naked",
+ "guildID": 3685,
+ "status": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65278,
+   "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-01T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": 0,
+   "gloryPoint": 65229,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-02T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": 0,
+   "gloryPoint": 65180,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-03T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": 0,
+   "gloryPoint": 65131,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-08-04T22:00:00.000Z",
+   "position": 134,
+   "rankingPositionChange": -2,
+   "gloryPoint": 65082,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  }
+ ],
+ "names": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "characterName": "Masky"
+  }
+ ],
+ "guilds": [
+  {
+   "date": "2015-07-31T22:00:00.000Z",
+   "guildName": "We Play Naked",
+   "guildID": 3685
+  }
+ ]
+}
