@@ -2,9 +2,9 @@
  "characterID": 1087609,
  "characterClassID": 11,
  "raceID": 1,
- "position": 854,
- "rankingPositionChange": 2,
- "gloryPoint": 3828,
+ "position": 859,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3821,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Amplify",
@@ -272,6 +272,14 @@
    "position": 854,
    "rankingPositionChange": 2,
    "gloryPoint": 3828,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 859,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3821,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

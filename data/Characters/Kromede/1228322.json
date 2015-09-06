@@ -2,9 +2,9 @@
  "characterID": 1228322,
  "characterClassID": 10,
  "raceID": 1,
- "position": 911,
- "rankingPositionChange": 0,
- "gloryPoint": 3410,
+ "position": 912,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3403,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Schneekleid",
@@ -272,6 +272,14 @@
    "position": 911,
    "rankingPositionChange": 0,
    "gloryPoint": 3410,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3403,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

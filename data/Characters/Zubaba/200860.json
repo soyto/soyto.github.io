@@ -2,10 +2,10 @@
  "characterID": 200860,
  "characterClassID": 16,
  "raceID": 1,
- "position": 545,
- "rankingPositionChange": 1,
- "gloryPoint": 7421,
- "gloryPointChange": 33,
+ "position": 549,
+ "rankingPositionChange": -4,
+ "gloryPoint": 7430,
+ "gloryPointChange": 9,
  "soldierRankID": 11,
  "characterName": "Soultears",
  "guildName": "Black or White",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7421,
    "gloryPointChange": 33,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 549,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7430,
+   "gloryPointChange": 9,
    "soldierRankID": 11
   }
  ],

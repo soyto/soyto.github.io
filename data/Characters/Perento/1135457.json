@@ -2,9 +2,9 @@
  "characterID": 1135457,
  "characterClassID": 8,
  "raceID": 0,
- "position": 379,
- "rankingPositionChange": 0,
- "gloryPoint": 29722,
+ "position": 378,
+ "rankingPositionChange": 1,
+ "gloryPoint": 29694,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Pactiriksvk",
@@ -272,6 +272,14 @@
    "position": 379,
    "rankingPositionChange": 0,
    "gloryPoint": 29722,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 378,
+   "rankingPositionChange": 1,
+   "gloryPoint": 29694,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

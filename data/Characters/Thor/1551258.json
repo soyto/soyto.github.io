@@ -2,9 +2,9 @@
  "characterID": 1551258,
  "characterClassID": 13,
  "raceID": 0,
- "position": 818,
- "rankingPositionChange": 0,
- "gloryPoint": 19842,
+ "position": 819,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19835,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Boagrius",
@@ -232,6 +232,14 @@
    "position": 818,
    "rankingPositionChange": 0,
    "gloryPoint": 19842,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 819,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19835,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

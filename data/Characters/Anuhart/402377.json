@@ -2,10 +2,10 @@
  "characterID": 402377,
  "characterClassID": 1,
  "raceID": 1,
- "position": 372,
- "rankingPositionChange": 3,
- "gloryPoint": 16547,
- "gloryPointChange": 0,
+ "position": 376,
+ "rankingPositionChange": -4,
+ "gloryPoint": 16519,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ekidna",
  "guildName": "Angry Scavengers",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 16547,
    "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 376,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16519,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

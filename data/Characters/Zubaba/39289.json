@@ -2,9 +2,9 @@
  "characterID": 39289,
  "characterClassID": 8,
  "raceID": 1,
- "position": 531,
- "rankingPositionChange": 0,
- "gloryPoint": 7904,
+ "position": 533,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7890,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Thecloud",
@@ -270,6 +270,14 @@
    "position": 531,
    "rankingPositionChange": 0,
    "gloryPoint": 7904,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 533,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7890,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

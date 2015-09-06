@@ -2,10 +2,10 @@
  "characterID": 1187582,
  "characterClassID": 2,
  "raceID": 1,
- "position": 903,
- "rankingPositionChange": -1,
- "gloryPoint": 5508,
- "gloryPointChange": -7,
+ "position": 900,
+ "rankingPositionChange": 3,
+ "gloryPoint": 5601,
+ "gloryPointChange": 93,
  "soldierRankID": 10,
  "characterName": "Knukle",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 5508,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 900,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5601,
+   "gloryPointChange": 93,
    "soldierRankID": 10
   }
  ],

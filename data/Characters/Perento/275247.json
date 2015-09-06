@@ -2,9 +2,9 @@
  "characterID": 275247,
  "characterClassID": 11,
  "raceID": 0,
- "position": 150,
- "rankingPositionChange": 0,
- "gloryPoint": 86102,
+ "position": 151,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86053,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Malgosik",
@@ -272,6 +272,14 @@
    "position": 150,
    "rankingPositionChange": 0,
    "gloryPoint": 86102,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 151,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86053,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 93057,
  "characterClassID": 11,
  "raceID": 1,
- "position": 15,
- "rankingPositionChange": 1,
- "gloryPoint": 198586,
- "gloryPointChange": 801,
+ "position": 16,
+ "rankingPositionChange": -1,
+ "gloryPoint": 198779,
+ "gloryPointChange": 193,
  "soldierRankID": 15,
  "characterName": "Huria",
  "guildName": "Infernal Requiem",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 198586,
    "gloryPointChange": 801,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 16,
+   "rankingPositionChange": -1,
+   "gloryPoint": 198779,
+   "gloryPointChange": 193,
    "soldierRankID": 15
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1138896,
  "characterClassID": 2,
  "raceID": 0,
- "position": 349,
- "rankingPositionChange": 1,
- "gloryPoint": 41467,
- "gloryPointChange": 166,
+ "position": 350,
+ "rankingPositionChange": -1,
+ "gloryPoint": 41449,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Getav",
  "guildName": "Shake It Off",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 41467,
    "gloryPointChange": 166,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 350,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41449,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

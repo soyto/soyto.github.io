@@ -2,9 +2,9 @@
  "characterID": 398658,
  "characterClassID": 14,
  "raceID": 0,
- "position": 897,
- "rankingPositionChange": 2,
- "gloryPoint": 5595,
+ "position": 899,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5588,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Viica",
@@ -272,6 +272,14 @@
    "position": 897,
    "rankingPositionChange": 2,
    "gloryPoint": 5595,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 899,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5588,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

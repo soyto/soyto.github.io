@@ -2,9 +2,9 @@
  "characterID": 1096383,
  "characterClassID": 8,
  "raceID": 0,
- "position": 375,
- "rankingPositionChange": 1,
- "gloryPoint": 44791,
+ "position": 376,
+ "rankingPositionChange": -1,
+ "gloryPoint": 44763,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Menijim",
@@ -272,6 +272,14 @@
    "position": 375,
    "rankingPositionChange": 1,
    "gloryPoint": 44791,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 376,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44763,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

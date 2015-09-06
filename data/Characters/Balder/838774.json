@@ -2,9 +2,9 @@
  "characterID": 838774,
  "characterClassID": 14,
  "raceID": 0,
- "position": 464,
- "rankingPositionChange": -3,
- "gloryPoint": 8473,
+ "position": 461,
+ "rankingPositionChange": 3,
+ "gloryPoint": 8445,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lysanjia",
@@ -272,6 +272,14 @@
    "position": 464,
    "rankingPositionChange": -3,
    "gloryPoint": 8473,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 461,
+   "rankingPositionChange": 3,
+   "gloryPoint": 8445,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

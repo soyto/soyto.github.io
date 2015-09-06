@@ -2,9 +2,9 @@
  "characterID": 744266,
  "characterClassID": 10,
  "raceID": 1,
- "position": 180,
- "rankingPositionChange": 2,
- "gloryPoint": 44936,
+ "position": 181,
+ "rankingPositionChange": -1,
+ "gloryPoint": 44887,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shidra",
@@ -272,6 +272,14 @@
    "position": 180,
    "rankingPositionChange": 2,
    "gloryPoint": 44936,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 181,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44887,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

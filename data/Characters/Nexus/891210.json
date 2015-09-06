@@ -2,10 +2,10 @@
  "characterID": 891210,
  "characterClassID": 5,
  "raceID": 1,
- "position": 342,
- "rankingPositionChange": 3,
- "gloryPoint": 49108,
- "gloryPointChange": 616,
+ "position": 344,
+ "rankingPositionChange": -2,
+ "gloryPoint": 49455,
+ "gloryPointChange": 347,
  "soldierRankID": 12,
  "characterName": "Reaktorr",
  "guildName": "Pannon Reborn",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 49108,
    "gloryPointChange": 616,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 344,
+   "rankingPositionChange": -2,
+   "gloryPoint": 49455,
+   "gloryPointChange": 347,
    "soldierRankID": 12
   }
  ],

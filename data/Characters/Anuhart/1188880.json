@@ -2,9 +2,9 @@
  "characterID": 1188880,
  "characterClassID": 4,
  "raceID": 1,
- "position": 444,
- "rankingPositionChange": 2,
- "gloryPoint": 11195,
+ "position": 447,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11167,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Roberry",
@@ -272,6 +272,14 @@
    "position": 444,
    "rankingPositionChange": 2,
    "gloryPoint": 11195,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 447,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11167,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

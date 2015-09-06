@@ -3,11 +3,11 @@
  "characterClassID": 13,
  "raceID": 1,
  "position": 226,
- "rankingPositionChange": -2,
- "gloryPoint": 38061,
- "gloryPointChange": -49,
+ "rankingPositionChange": 0,
+ "gloryPoint": 38287,
+ "gloryPointChange": 226,
  "soldierRankID": 13,
- "characterName": "Radeen",
+ "characterName": "Adeta",
  "guildName": "V for Vendetta",
  "guildID": 1639,
  "status": [
@@ -274,12 +274,24 @@
    "gloryPoint": 38061,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 226,
+   "rankingPositionChange": 0,
+   "gloryPoint": 38287,
+   "gloryPointChange": 226,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Radeen"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Adeta"
   }
  ],
  "guilds": [

@@ -2,9 +2,9 @@
  "characterID": 233677,
  "characterClassID": 10,
  "raceID": 1,
- "position": 861,
- "rankingPositionChange": 1,
- "gloryPoint": 3801,
+ "position": 866,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3794,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cryjina",
@@ -272,6 +272,14 @@
    "position": 861,
    "rankingPositionChange": 1,
    "gloryPoint": 3801,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 866,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3794,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

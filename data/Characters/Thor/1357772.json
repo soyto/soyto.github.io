@@ -2,10 +2,10 @@
  "characterID": 1357772,
  "characterClassID": 14,
  "raceID": 1,
- "position": 844,
- "rankingPositionChange": -1,
- "gloryPoint": 13904,
- "gloryPointChange": -1,
+ "position": 843,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13912,
+ "gloryPointChange": 8,
  "soldierRankID": 10,
  "characterName": "Kayhla",
  "guildName": "Bananenbobos",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 13904,
    "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 843,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13912,
+   "gloryPointChange": 8,
    "soldierRankID": 10
   }
  ],

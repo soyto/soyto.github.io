@@ -2,10 +2,10 @@
  "characterID": 1214901,
  "characterClassID": 11,
  "raceID": 1,
- "position": 389,
- "rankingPositionChange": 4,
- "gloryPoint": 15042,
- "gloryPointChange": 72,
+ "position": 392,
+ "rankingPositionChange": -3,
+ "gloryPoint": 15023,
+ "gloryPointChange": -19,
  "soldierRankID": 12,
  "characterName": "Onrush",
  "guildName": "First Let Me Take A Selfie",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 15042,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 392,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15023,
+   "gloryPointChange": -19,
    "soldierRankID": 12
   }
  ],

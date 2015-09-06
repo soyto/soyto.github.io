@@ -2,9 +2,9 @@
  "characterID": 1442208,
  "characterClassID": 13,
  "raceID": 1,
- "position": 783,
- "rankingPositionChange": 0,
- "gloryPoint": 10105,
+ "position": 787,
+ "rankingPositionChange": -4,
+ "gloryPoint": 10098,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dread",
@@ -264,6 +264,14 @@
    "position": 783,
    "rankingPositionChange": 0,
    "gloryPoint": 10105,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 787,
+   "rankingPositionChange": -4,
+   "gloryPoint": 10098,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,14 +2,12 @@
  "characterID": 37596,
  "characterClassID": 8,
  "raceID": 0,
- "position": 151,
- "rankingPositionChange": -2,
- "gloryPoint": 76724,
- "gloryPointChange": -49,
+ "position": 150,
+ "rankingPositionChange": 1,
+ "gloryPoint": 76678,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Freefeer",
- "guildName": "Slodkie Landrynki",
- "guildID": 13683,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 76724,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": 1,
+   "gloryPoint": 76678,
+   "gloryPointChange": -46,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -308,6 +314,9 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "Slodkie Landrynki",
    "guildID": 13683
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

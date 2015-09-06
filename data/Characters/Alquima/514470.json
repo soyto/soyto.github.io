@@ -2,9 +2,9 @@
  "characterID": 514470,
  "characterClassID": 14,
  "raceID": 1,
- "position": 234,
- "rankingPositionChange": 0,
- "gloryPoint": 37229,
+ "position": 239,
+ "rankingPositionChange": -5,
+ "gloryPoint": 37180,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Darkfalco",
@@ -272,6 +272,14 @@
    "position": 234,
    "rankingPositionChange": 0,
    "gloryPoint": 37229,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 239,
+   "rankingPositionChange": -5,
+   "gloryPoint": 37180,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

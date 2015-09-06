@@ -2,9 +2,9 @@
  "characterID": 154118,
  "characterClassID": 7,
  "raceID": 0,
- "position": 845,
- "rankingPositionChange": 3,
- "gloryPoint": 4517,
+ "position": 849,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4510,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Isabellla",
@@ -272,6 +272,14 @@
    "position": 845,
    "rankingPositionChange": 3,
    "gloryPoint": 4517,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 849,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4510,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

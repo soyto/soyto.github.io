@@ -2,10 +2,10 @@
  "characterID": 1226181,
  "characterClassID": 7,
  "raceID": 0,
- "position": 480,
- "rankingPositionChange": 3,
- "gloryPoint": 25302,
- "gloryPointChange": 250,
+ "position": 479,
+ "rankingPositionChange": 1,
+ "gloryPoint": 25274,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Gazarak",
  "guildName": "CZ Night Warrior CZ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 25302,
    "gloryPointChange": 250,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 479,
+   "rankingPositionChange": 1,
+   "gloryPoint": 25274,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

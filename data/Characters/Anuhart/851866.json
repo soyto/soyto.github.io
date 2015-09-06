@@ -2,9 +2,9 @@
  "characterID": 851866,
  "characterClassID": 14,
  "raceID": 1,
- "position": 319,
- "rankingPositionChange": 3,
- "gloryPoint": 23645,
+ "position": 320,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23617,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Akr",
@@ -272,6 +272,14 @@
    "position": 319,
    "rankingPositionChange": 3,
    "gloryPoint": 23645,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23617,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

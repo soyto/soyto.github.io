@@ -2,9 +2,9 @@
  "characterID": 1328392,
  "characterClassID": 7,
  "raceID": 0,
- "position": 902,
- "rankingPositionChange": 1,
- "gloryPoint": 15476,
+ "position": 903,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15469,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dokeo",
@@ -224,6 +224,14 @@
    "position": 902,
    "rankingPositionChange": 1,
    "gloryPoint": 15476,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 903,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15469,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 754121,
  "characterClassID": 13,
  "raceID": 0,
- "position": 536,
- "rankingPositionChange": 0,
- "gloryPoint": 15737,
+ "position": 537,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15723,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Beleron",
@@ -262,6 +262,14 @@
    "position": 536,
    "rankingPositionChange": 0,
    "gloryPoint": 15737,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 537,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15723,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

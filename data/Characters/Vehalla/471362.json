@@ -2,9 +2,9 @@
  "characterID": 471362,
  "characterClassID": 14,
  "raceID": 0,
- "position": 447,
- "rankingPositionChange": 1,
- "gloryPoint": 3913,
+ "position": 450,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3885,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kerstini",
@@ -272,6 +272,14 @@
    "position": 447,
    "rankingPositionChange": 1,
    "gloryPoint": 3913,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3885,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

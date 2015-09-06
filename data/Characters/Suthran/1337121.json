@@ -2,9 +2,9 @@
  "characterID": 1337121,
  "characterClassID": 7,
  "raceID": 1,
- "position": 534,
- "rankingPositionChange": 1,
- "gloryPoint": 14224,
+ "position": 536,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14210,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Smoooky",
@@ -264,6 +264,14 @@
    "position": 534,
    "rankingPositionChange": 1,
    "gloryPoint": 14224,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 536,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14210,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,14 +2,14 @@
  "characterID": 1201172,
  "characterClassID": 11,
  "raceID": 1,
- "position": 376,
- "rankingPositionChange": 3,
- "gloryPoint": 16183,
- "gloryPointChange": -28,
+ "position": 377,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16464,
+ "gloryPointChange": 281,
  "soldierRankID": 12,
  "characterName": "Sharisu",
- "guildName": "NO IDEA",
- "guildID": 18801,
+ "guildName": "Legendary Dragons",
+ "guildID": 21166,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 16183,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 377,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16464,
+   "gloryPointChange": 281,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -291,6 +299,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "NO IDEA",
    "guildID": 18801
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Legendary Dragons",
+   "guildID": 21166
   }
  ]
 }

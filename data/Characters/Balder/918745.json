@@ -2,12 +2,14 @@
  "characterID": 918745,
  "characterClassID": 7,
  "raceID": 0,
- "position": 803,
- "rankingPositionChange": 2,
- "gloryPoint": 2639,
- "gloryPointChange": -7,
+ "position": 797,
+ "rankingPositionChange": 6,
+ "gloryPoint": 2682,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Adinaa",
+ "guildName": "Mahaney",
+ "guildID": 1503,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 2639,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 797,
+   "rankingPositionChange": 6,
+   "gloryPoint": 2682,
+   "gloryPointChange": 43,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-12T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Mahaney",
+   "guildID": 1503
   }
  ]
 }

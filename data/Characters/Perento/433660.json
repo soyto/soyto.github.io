@@ -2,10 +2,10 @@
  "characterID": 433660,
  "characterClassID": 10,
  "raceID": 1,
- "position": 86,
- "rankingPositionChange": 0,
- "gloryPoint": 117791,
- "gloryPointChange": 891,
+ "position": 87,
+ "rankingPositionChange": -1,
+ "gloryPoint": 117908,
+ "gloryPointChange": 117,
  "soldierRankID": 14,
  "characterName": "Pryda",
  "guildName": "The Others",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 117791,
    "gloryPointChange": 891,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 87,
+   "rankingPositionChange": -1,
+   "gloryPoint": 117908,
+   "gloryPointChange": 117,
    "soldierRankID": 14
   }
  ],

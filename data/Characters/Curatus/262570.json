@@ -2,12 +2,14 @@
  "characterID": 262570,
  "characterClassID": 1,
  "raceID": 1,
- "position": 784,
- "rankingPositionChange": -3,
- "gloryPoint": 5478,
- "gloryPointChange": -7,
+ "position": 786,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5524,
+ "gloryPointChange": 46,
  "soldierRankID": 10,
  "characterName": "Syncope",
+ "guildName": "Black Fear",
+ "guildID": 6352,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 5478,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 786,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5524,
+   "gloryPointChange": 46,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -283,6 +293,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Black Fear",
+   "guildID": 6352
   }
  ]
 }

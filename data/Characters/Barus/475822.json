@@ -3,11 +3,13 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 623,
- "rankingPositionChange": -2,
- "gloryPoint": 22188,
- "gloryPointChange": -14,
+ "rankingPositionChange": 0,
+ "gloryPoint": 22189,
+ "gloryPointChange": 1,
  "soldierRankID": 11,
  "characterName": "Akard",
+ "guildName": "Biale Wilki",
+ "guildID": 11618,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 22188,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 623,
+   "rankingPositionChange": 0,
+   "gloryPoint": 22189,
+   "gloryPointChange": 1,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -292,6 +302,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Biale Wilki",
+   "guildID": 11618
   }
  ]
 }

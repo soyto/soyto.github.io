@@ -2,10 +2,10 @@
  "characterID": 827583,
  "characterClassID": 16,
  "raceID": 1,
- "position": 651,
- "rankingPositionChange": 3,
- "gloryPoint": 18856,
- "gloryPointChange": 396,
+ "position": 656,
+ "rankingPositionChange": -5,
+ "gloryPoint": 18842,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Vasimir",
  "guildName": "We PvP IRL",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 18856,
    "gloryPointChange": 396,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 656,
+   "rankingPositionChange": -5,
+   "gloryPoint": 18842,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

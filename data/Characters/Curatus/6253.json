@@ -2,10 +2,10 @@
  "characterID": 6253,
  "characterClassID": 7,
  "raceID": 1,
- "position": 55,
- "rankingPositionChange": 0,
- "gloryPoint": 108767,
- "gloryPointChange": 482,
+ "position": 56,
+ "rankingPositionChange": -1,
+ "gloryPoint": 109105,
+ "gloryPointChange": 338,
  "soldierRankID": 14,
  "characterName": "Eloise",
  "guildName": "AbyssGates",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 108767,
    "gloryPointChange": 482,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 56,
+   "rankingPositionChange": -1,
+   "gloryPoint": 109105,
+   "gloryPointChange": 338,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 780432,
  "characterClassID": 2,
  "raceID": 1,
- "position": 578,
- "rankingPositionChange": 1,
- "gloryPoint": 7764,
+ "position": 579,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7750,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kniksos",
@@ -272,6 +272,14 @@
    "position": 578,
    "rankingPositionChange": 1,
    "gloryPoint": 7764,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 579,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7750,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

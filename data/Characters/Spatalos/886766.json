@@ -2,10 +2,10 @@
  "characterID": 886766,
  "characterClassID": 10,
  "raceID": 1,
- "position": 289,
- "rankingPositionChange": 5,
- "gloryPoint": 20623,
- "gloryPointChange": 374,
+ "position": 290,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20634,
+ "gloryPointChange": 11,
  "soldierRankID": 13,
  "characterName": "Denysa",
  "guildName": "Lionhearts",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 20623,
    "gloryPointChange": 374,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 290,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20634,
+   "gloryPointChange": 11,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 554689,
  "characterClassID": 10,
  "raceID": 1,
- "position": 887,
- "rankingPositionChange": 5,
- "gloryPoint": 2137,
+ "position": 893,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2130,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lynnoria",
@@ -272,6 +272,14 @@
    "position": 887,
    "rankingPositionChange": 5,
    "gloryPoint": 2137,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 893,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2130,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

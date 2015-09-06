@@ -2,9 +2,9 @@
  "characterID": 1244412,
  "characterClassID": 16,
  "raceID": 1,
- "position": 287,
- "rankingPositionChange": 0,
- "gloryPoint": 55954,
+ "position": 288,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55905,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aiyina",
@@ -224,6 +224,14 @@
    "position": 287,
    "rankingPositionChange": 0,
    "gloryPoint": 55954,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 288,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55905,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

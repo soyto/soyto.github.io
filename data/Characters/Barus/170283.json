@@ -2,9 +2,9 @@
  "characterID": 170283,
  "characterClassID": 2,
  "raceID": 0,
- "position": 843,
- "rankingPositionChange": -1,
- "gloryPoint": 14630,
+ "position": 842,
+ "rankingPositionChange": 1,
+ "gloryPoint": 14623,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pavco",
@@ -270,6 +270,14 @@
    "position": 843,
    "rankingPositionChange": -1,
    "gloryPoint": 14630,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 842,
+   "rankingPositionChange": 1,
+   "gloryPoint": 14623,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

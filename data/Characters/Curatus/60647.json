@@ -2,10 +2,10 @@
  "characterID": 60647,
  "characterClassID": 14,
  "raceID": 1,
- "position": 900,
- "rankingPositionChange": -4,
- "gloryPoint": 3962,
- "gloryPointChange": -7,
+ "position": 896,
+ "rankingPositionChange": 4,
+ "gloryPoint": 4055,
+ "gloryPointChange": 93,
  "soldierRankID": 10,
  "characterName": "Lecther",
  "guildName": " Lux in Tenebris ",
@@ -265,6 +265,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 3962,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 896,
+   "rankingPositionChange": 4,
+   "gloryPoint": 4055,
+   "gloryPointChange": 93,
    "soldierRankID": 10
   }
  ],

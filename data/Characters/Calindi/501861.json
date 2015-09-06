@@ -2,9 +2,9 @@
  "characterID": 501861,
  "characterClassID": 10,
  "raceID": 0,
- "position": 611,
- "rankingPositionChange": 1,
- "gloryPoint": 3271,
+ "position": 613,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3257,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lolita",
@@ -270,6 +270,14 @@
    "position": 611,
    "rankingPositionChange": 1,
    "gloryPoint": 3271,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 613,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3257,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

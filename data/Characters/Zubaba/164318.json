@@ -2,9 +2,9 @@
  "characterID": 164318,
  "characterClassID": 5,
  "raceID": 1,
- "position": 797,
- "rankingPositionChange": 2,
- "gloryPoint": 2500,
+ "position": 801,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2493,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xlegolasxx",
@@ -270,6 +270,14 @@
    "position": 797,
    "rankingPositionChange": 2,
    "gloryPoint": 2500,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 801,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2493,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

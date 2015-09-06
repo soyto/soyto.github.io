@@ -2,10 +2,10 @@
  "characterID": 873411,
  "characterClassID": 4,
  "raceID": 0,
- "position": 296,
- "rankingPositionChange": 3,
- "gloryPoint": 55290,
- "gloryPointChange": 151,
+ "position": 297,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55241,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sarahlise",
  "guildName": "Epica",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 55290,
    "gloryPointChange": 151,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 297,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55241,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

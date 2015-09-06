@@ -2,10 +2,10 @@
  "characterID": 261651,
  "characterClassID": 10,
  "raceID": 1,
- "position": 639,
- "rankingPositionChange": 0,
- "gloryPoint": 4996,
- "gloryPointChange": -14,
+ "position": 644,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4992,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Minnou",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 4996,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 644,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4992,
+   "gloryPointChange": -4,
    "soldierRankID": 11
   }
  ],

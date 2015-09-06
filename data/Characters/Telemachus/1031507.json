@@ -2,10 +2,10 @@
  "characterID": 1031507,
  "characterClassID": 10,
  "raceID": 1,
- "position": 482,
- "rankingPositionChange": 6,
- "gloryPoint": 3572,
- "gloryPointChange": 81,
+ "position": 488,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3544,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Khetam",
  "guildName": "Equinoxe",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 3572,
    "gloryPointChange": 81,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 488,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3544,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

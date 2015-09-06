@@ -2,9 +2,9 @@
  "characterID": 1093488,
  "characterClassID": 1,
  "raceID": 0,
- "position": 627,
- "rankingPositionChange": -1,
- "gloryPoint": 14145,
+ "position": 625,
+ "rankingPositionChange": 2,
+ "gloryPoint": 14131,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Pejot",
@@ -272,6 +272,14 @@
    "position": 627,
    "rankingPositionChange": -1,
    "gloryPoint": 14145,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 625,
+   "rankingPositionChange": 2,
+   "gloryPoint": 14131,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,14 +2,14 @@
  "characterID": 173667,
  "characterClassID": 1,
  "raceID": 0,
- "position": 87,
- "rankingPositionChange": 0,
- "gloryPoint": 129554,
- "gloryPointChange": 3,
+ "position": 86,
+ "rankingPositionChange": 1,
+ "gloryPoint": 129825,
+ "gloryPointChange": 271,
  "soldierRankID": 14,
  "characterName": "Cynni",
- "guildName": "Birthday Massacre",
- "guildID": 29538,
+ "guildName": "Havoc",
+ "guildID": 1004,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 129554,
    "gloryPointChange": 3,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 86,
+   "rankingPositionChange": 1,
+   "gloryPoint": 129825,
+   "gloryPointChange": 271,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Birthday Massacre",
    "guildID": 29538
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Havoc",
+   "guildID": 1004
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 1994,
  "characterClassID": 10,
  "raceID": 1,
- "position": 180,
- "rankingPositionChange": 0,
- "gloryPoint": 43592,
+ "position": 181,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43543,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Jtj",
@@ -272,6 +272,14 @@
    "position": 180,
    "rankingPositionChange": 0,
    "gloryPoint": 43592,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 181,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43543,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,14 +2,12 @@
  "characterID": 67523,
  "characterClassID": 14,
  "raceID": 0,
- "position": 322,
- "rankingPositionChange": 8,
- "gloryPoint": 47129,
- "gloryPointChange": 749,
+ "position": 319,
+ "rankingPositionChange": 3,
+ "gloryPoint": 47586,
+ "gloryPointChange": 457,
  "soldierRankID": 12,
  "characterName": "Hoshiru",
- "guildName": "NeverGiveUp",
- "guildID": 10100,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 47129,
    "gloryPointChange": 749,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": 3,
+   "gloryPoint": 47586,
+   "gloryPointChange": 457,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "NeverGiveUp",
    "guildID": 10100
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

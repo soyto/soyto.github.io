@@ -2,9 +2,9 @@
  "characterID": 792040,
  "characterClassID": 11,
  "raceID": 1,
- "position": 956,
- "rankingPositionChange": 4,
- "gloryPoint": 1729,
+ "position": 961,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1722,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Elliysa",
@@ -184,6 +184,14 @@
    "position": 956,
    "rankingPositionChange": 4,
    "gloryPoint": 1729,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1722,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

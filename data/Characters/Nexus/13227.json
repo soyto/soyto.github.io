@@ -2,14 +2,12 @@
  "characterID": 13227,
  "characterClassID": 7,
  "raceID": 1,
- "position": 440,
- "rankingPositionChange": 0,
- "gloryPoint": 34476,
- "gloryPointChange": 22,
+ "position": 442,
+ "rankingPositionChange": -2,
+ "gloryPoint": 34616,
+ "gloryPointChange": 140,
  "soldierRankID": 12,
  "characterName": "Buia",
- "guildName": "Who cares",
- "guildID": 9180,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 34476,
    "gloryPointChange": 22,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 442,
+   "rankingPositionChange": -2,
+   "gloryPoint": 34616,
+   "gloryPointChange": 140,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -290,6 +296,9 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "Who cares",
    "guildID": 9180
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

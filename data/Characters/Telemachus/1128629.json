@@ -2,9 +2,9 @@
  "characterID": 1128629,
  "characterClassID": 14,
  "raceID": 1,
- "position": 461,
- "rankingPositionChange": 2,
- "gloryPoint": 4014,
+ "position": 462,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3986,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Scorpiondevil",
@@ -272,6 +272,14 @@
    "position": 461,
    "rankingPositionChange": 2,
    "gloryPoint": 4014,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 462,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3986,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

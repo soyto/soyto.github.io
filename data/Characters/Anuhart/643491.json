@@ -2,10 +2,10 @@
  "characterID": 643491,
  "characterClassID": 1,
  "raceID": 1,
- "position": 438,
- "rankingPositionChange": 3,
- "gloryPoint": 11550,
- "gloryPointChange": 32,
+ "position": 441,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11562,
+ "gloryPointChange": 12,
  "soldierRankID": 12,
  "characterName": "Sierpien",
  "guildName": "Evil Souls",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 11550,
    "gloryPointChange": 32,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 441,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11562,
+   "gloryPointChange": 12,
    "soldierRankID": 12
   }
  ],

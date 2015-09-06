@@ -2,14 +2,14 @@
  "characterID": 588628,
  "characterClassID": 4,
  "raceID": 1,
- "position": 639,
- "rankingPositionChange": 0,
- "gloryPoint": 19730,
- "gloryPointChange": 186,
+ "position": 640,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19866,
+ "gloryPointChange": 136,
  "soldierRankID": 11,
  "characterName": "Inkvi",
- "guildName": "Spolecenstvo pivniho tacku",
- "guildID": 15565,
+ "guildName": "Spolecenstvo pivnich tacku",
+ "guildID": 16505,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 19730,
    "gloryPointChange": 186,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 640,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19866,
+   "gloryPointChange": 136,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -291,6 +299,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Spolecenstvo pivniho tacku",
    "guildID": 15565
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Spolecenstvo pivnich tacku",
+   "guildID": 16505
   }
  ]
 }

@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 418,
- "rankingPositionChange": 2,
- "gloryPoint": 12378,
- "gloryPointChange": 195,
+ "rankingPositionChange": 0,
+ "gloryPoint": 12356,
+ "gloryPointChange": -22,
  "soldierRankID": 12,
  "characterName": "Wipii",
  "guildName": "Eternal Army",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 12378,
    "gloryPointChange": 195,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 418,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12356,
+   "gloryPointChange": -22,
    "soldierRankID": 12
   }
  ],

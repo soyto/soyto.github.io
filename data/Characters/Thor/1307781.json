@@ -2,9 +2,9 @@
  "characterID": 1307781,
  "characterClassID": 11,
  "raceID": 0,
- "position": 189,
- "rankingPositionChange": 0,
- "gloryPoint": 94197,
+ "position": 190,
+ "rankingPositionChange": -1,
+ "gloryPoint": 94148,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Piam",
@@ -272,6 +272,14 @@
    "position": 189,
    "rankingPositionChange": 0,
    "gloryPoint": 94197,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 190,
+   "rankingPositionChange": -1,
+   "gloryPoint": 94148,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

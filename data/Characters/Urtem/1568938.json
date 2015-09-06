@@ -2,10 +2,10 @@
  "characterID": 1568938,
  "characterClassID": 16,
  "raceID": 1,
- "position": 212,
- "rankingPositionChange": 0,
- "gloryPoint": 50778,
- "gloryPointChange": 124,
+ "position": 213,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51079,
+ "gloryPointChange": 301,
  "soldierRankID": 13,
  "characterName": "Minisnaki",
  "guildName": "Sensei",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 50778,
    "gloryPointChange": 124,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 213,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51079,
+   "gloryPointChange": 301,
    "soldierRankID": 13
   }
  ],

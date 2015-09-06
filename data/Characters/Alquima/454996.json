@@ -2,9 +2,9 @@
  "characterID": 454996,
  "characterClassID": 1,
  "raceID": 1,
- "position": 776,
- "rankingPositionChange": 1,
- "gloryPoint": 9043,
+ "position": 780,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9036,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kikiwebon",
@@ -262,6 +262,14 @@
    "position": 776,
    "rankingPositionChange": 1,
    "gloryPoint": 9043,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 780,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9036,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 114335,
  "characterClassID": 11,
  "raceID": 0,
- "position": 130,
- "rankingPositionChange": 0,
- "gloryPoint": 75693,
+ "position": 132,
+ "rankingPositionChange": -2,
+ "gloryPoint": 75644,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Padreco",
@@ -272,6 +272,14 @@
    "position": 130,
    "rankingPositionChange": 0,
    "gloryPoint": 75693,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -2,
+   "gloryPoint": 75644,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

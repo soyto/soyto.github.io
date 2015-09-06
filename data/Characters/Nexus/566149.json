@@ -2,10 +2,10 @@
  "characterID": 566149,
  "characterClassID": 2,
  "raceID": 0,
- "position": 218,
- "rankingPositionChange": 1,
- "gloryPoint": 49788,
- "gloryPointChange": 275,
+ "position": 219,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49978,
+ "gloryPointChange": 190,
  "soldierRankID": 13,
  "characterName": "Islanderdark",
  "guildName": "Paths of Glory",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 49788,
    "gloryPointChange": 275,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 219,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49978,
+   "gloryPointChange": 190,
    "soldierRankID": 13
   }
  ],

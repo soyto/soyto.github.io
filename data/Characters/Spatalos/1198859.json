@@ -2,10 +2,10 @@
  "characterID": 1198859,
  "characterClassID": 5,
  "raceID": 1,
- "position": 101,
- "rankingPositionChange": 1,
- "gloryPoint": 70561,
- "gloryPointChange": 344,
+ "position": 102,
+ "rankingPositionChange": -1,
+ "gloryPoint": 70710,
+ "gloryPointChange": 149,
  "soldierRankID": 13,
  "characterName": "Shikumi",
  "guildName": "Lionhearts",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 70561,
    "gloryPointChange": 344,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 102,
+   "rankingPositionChange": -1,
+   "gloryPoint": 70710,
+   "gloryPointChange": 149,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 262282,
  "characterClassID": 11,
  "raceID": 1,
- "position": 938,
- "rankingPositionChange": 11,
- "gloryPoint": 3498,
- "gloryPointChange": 163,
+ "position": 941,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3491,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shizawaa",
  "guildName": "Dei Ex Mortis",
@@ -65,6 +65,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 3498,
    "gloryPointChange": 163,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 941,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3491,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

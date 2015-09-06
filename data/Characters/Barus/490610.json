@@ -3,13 +3,13 @@
  "characterClassID": 11,
  "raceID": 1,
  "position": 752,
- "rankingPositionChange": 4,
- "gloryPoint": 15965,
- "gloryPointChange": 177,
+ "rankingPositionChange": 0,
+ "gloryPoint": 16030,
+ "gloryPointChange": 65,
  "soldierRankID": 10,
  "characterName": "Poisonka",
- "guildName": "SAVAGE",
- "guildID": 11670,
+ "guildName": "MyWay",
+ "guildID": 6870,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 15965,
    "gloryPointChange": 177,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 752,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16030,
+   "gloryPointChange": 65,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "SAVAGE",
    "guildID": 11670
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "MyWay",
+   "guildID": 6870
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 1185845,
  "characterClassID": 13,
  "raceID": 0,
- "position": 382,
- "rankingPositionChange": -1,
- "gloryPoint": 29061,
+ "position": 381,
+ "rankingPositionChange": 1,
+ "gloryPoint": 29033,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Cserkeszkolbasz",
@@ -272,6 +272,14 @@
    "position": 382,
    "rankingPositionChange": -1,
    "gloryPoint": 29061,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 381,
+   "rankingPositionChange": 1,
+   "gloryPoint": 29033,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

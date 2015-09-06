@@ -2,10 +2,10 @@
  "characterID": 104621,
  "characterClassID": 4,
  "raceID": 0,
- "position": 394,
- "rankingPositionChange": 0,
- "gloryPoint": 5468,
- "gloryPointChange": 33,
+ "position": 398,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5440,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Squaall",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5468,
    "gloryPointChange": 33,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 398,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5440,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 130067,
  "characterClassID": 5,
  "raceID": 0,
- "position": 815,
- "rankingPositionChange": 13,
- "gloryPoint": 7202,
- "gloryPointChange": 212,
+ "position": 817,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7208,
+ "gloryPointChange": 6,
  "soldierRankID": 10,
  "characterName": "Brifcor",
  "guildName": "Lightning Strike",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 7202,
    "gloryPointChange": 212,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7208,
+   "gloryPointChange": 6,
    "soldierRankID": 10
   }
  ],

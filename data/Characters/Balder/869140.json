@@ -2,10 +2,10 @@
  "characterID": 869140,
  "characterClassID": 16,
  "raceID": 1,
- "position": 642,
- "rankingPositionChange": 34,
- "gloryPoint": 1304,
- "gloryPointChange": 59,
+ "position": 644,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1297,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Moehrchen",
  "guildName": "John Does Chapter",
@@ -25,6 +25,14 @@
    "rankingPositionChange": 34,
    "gloryPoint": 1304,
    "gloryPointChange": 59,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 644,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1297,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -4,10 +4,12 @@
  "raceID": 1,
  "position": 52,
  "rankingPositionChange": 0,
- "gloryPoint": 101590,
- "gloryPointChange": 390,
+ "gloryPoint": 101945,
+ "gloryPointChange": 355,
  "soldierRankID": 14,
  "characterName": "Vado",
+ "guildName": "EviL  Activities",
+ "guildID": 30379,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 101590,
    "gloryPointChange": 390,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 52,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101945,
+   "gloryPointChange": 355,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
   },
   {
    "date": "2015-08-18T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "EviL  Activities",
+   "guildID": 30379
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 997636,
  "characterClassID": 14,
  "raceID": 1,
- "position": 383,
- "rankingPositionChange": 2,
- "gloryPoint": 7249,
+ "position": 385,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7221,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mercybullet",
@@ -238,6 +238,14 @@
    "position": 383,
    "rankingPositionChange": 2,
    "gloryPoint": 7249,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 385,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7221,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

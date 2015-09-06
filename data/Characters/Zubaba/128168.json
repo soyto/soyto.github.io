@@ -2,9 +2,9 @@
  "characterID": 128168,
  "characterClassID": 1,
  "raceID": 0,
- "position": 962,
- "rankingPositionChange": 4,
- "gloryPoint": 2964,
+ "position": 965,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2957,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Johncarlo",
@@ -272,6 +272,14 @@
    "position": 962,
    "rankingPositionChange": 4,
    "gloryPoint": 2964,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 965,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2957,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

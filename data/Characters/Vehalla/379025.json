@@ -2,9 +2,9 @@
  "characterID": 379025,
  "characterClassID": 11,
  "raceID": 1,
- "position": 599,
- "rankingPositionChange": -2,
- "gloryPoint": 1385,
+ "position": 598,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1371,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Keffi",
@@ -272,6 +272,14 @@
    "position": 599,
    "rankingPositionChange": -2,
    "gloryPoint": 1385,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 598,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1371,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

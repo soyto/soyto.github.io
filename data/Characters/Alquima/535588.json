@@ -2,10 +2,10 @@
  "characterID": 535588,
  "characterClassID": 7,
  "raceID": 1,
- "position": 750,
- "rankingPositionChange": 2,
- "gloryPoint": 9724,
- "gloryPointChange": 93,
+ "position": 752,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9717,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Niarah",
  "guildName": "Embajadores de Shangri La",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 9724,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 752,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9717,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

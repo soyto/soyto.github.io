@@ -2,10 +2,10 @@
  "characterID": 40932,
  "characterClassID": 5,
  "raceID": 0,
- "position": 95,
- "rankingPositionChange": 0,
- "gloryPoint": 83186,
- "gloryPointChange": 693,
+ "position": 96,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83079,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Darkontes",
  "guildName": "Tales of Dreamers",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 83186,
    "gloryPointChange": 693,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 96,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83079,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

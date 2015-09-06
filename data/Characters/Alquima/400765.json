@@ -2,12 +2,14 @@
  "characterID": 400765,
  "characterClassID": 10,
  "raceID": 1,
- "position": 873,
+ "position": 876,
  "rankingPositionChange": -3,
- "gloryPoint": 7072,
+ "gloryPoint": 7065,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Apy",
+ "guildName": "NoClaN",
+ "guildID": 1131,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -264,6 +266,14 @@
    "gloryPoint": 7072,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 876,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7065,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -275,6 +285,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "NoClaN",
+   "guildID": 1131
   }
  ]
 }

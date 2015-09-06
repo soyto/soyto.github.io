@@ -2,10 +2,10 @@
  "characterID": 765932,
  "characterClassID": 1,
  "raceID": 0,
- "position": 567,
- "rankingPositionChange": 1,
- "gloryPoint": 20571,
- "gloryPointChange": 57,
+ "position": 570,
+ "rankingPositionChange": -3,
+ "gloryPoint": 20563,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Tobiass",
  "guildName": "Nordlichtlegion",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20571,
    "gloryPointChange": 57,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 570,
+   "rankingPositionChange": -3,
+   "gloryPoint": 20563,
+   "gloryPointChange": -8,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 109918,
  "characterClassID": 10,
  "raceID": 1,
- "position": 712,
- "rankingPositionChange": 1,
- "gloryPoint": 3937,
+ "position": 716,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3930,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Relaxxx",
@@ -272,6 +272,14 @@
    "position": 712,
    "rankingPositionChange": 1,
    "gloryPoint": 3937,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 716,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3930,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

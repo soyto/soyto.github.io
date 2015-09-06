@@ -2,9 +2,9 @@
  "characterID": 949346,
  "characterClassID": 10,
  "raceID": 1,
- "position": 616,
- "rankingPositionChange": 2,
- "gloryPoint": 1388,
+ "position": 617,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1374,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Aanuuk",
@@ -272,6 +272,14 @@
    "position": 616,
    "rankingPositionChange": 2,
    "gloryPoint": 1388,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 617,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1374,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 308138,
  "characterClassID": 8,
  "raceID": 1,
- "position": 267,
- "rankingPositionChange": 2,
- "gloryPoint": 29455,
- "gloryPointChange": 133,
+ "position": 269,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29413,
+ "gloryPointChange": -42,
  "soldierRankID": 13,
  "characterName": "Tuttifrutti",
  "guildName": "Dei Ex Mortis",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 29455,
    "gloryPointChange": 133,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 269,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29413,
+   "gloryPointChange": -42,
    "soldierRankID": 13
   }
  ],

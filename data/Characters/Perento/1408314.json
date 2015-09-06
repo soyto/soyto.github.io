@@ -2,9 +2,9 @@
  "characterID": 1408314,
  "characterClassID": 1,
  "raceID": 0,
- "position": 359,
- "rankingPositionChange": 0,
- "gloryPoint": 33120,
+ "position": 358,
+ "rankingPositionChange": 1,
+ "gloryPoint": 33092,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Shaax",
@@ -270,6 +270,14 @@
    "position": 359,
    "rankingPositionChange": 0,
    "gloryPoint": 33120,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 358,
+   "rankingPositionChange": 1,
+   "gloryPoint": 33092,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

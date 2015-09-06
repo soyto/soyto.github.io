@@ -2,9 +2,9 @@
  "characterID": 735366,
  "characterClassID": 7,
  "raceID": 1,
- "position": 829,
- "rankingPositionChange": 1,
- "gloryPoint": 4033,
+ "position": 832,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4026,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mabuseo",
@@ -88,6 +88,14 @@
    "position": 829,
    "rankingPositionChange": 1,
    "gloryPoint": 4033,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 832,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4026,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 1238415,
  "characterClassID": 14,
  "raceID": 1,
- "position": 910,
- "rankingPositionChange": 6,
- "gloryPoint": 12118,
- "gloryPointChange": 202,
+ "position": 911,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12252,
+ "gloryPointChange": 134,
  "soldierRankID": 10,
  "characterName": "Lixyra",
  "guildName": "Evolution",
@@ -97,6 +97,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 12118,
    "gloryPointChange": 202,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 911,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12252,
+   "gloryPointChange": 134,
    "soldierRankID": 10
   }
  ],

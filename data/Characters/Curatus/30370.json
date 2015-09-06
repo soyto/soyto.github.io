@@ -2,9 +2,9 @@
  "characterID": 30370,
  "characterClassID": 8,
  "raceID": 0,
- "position": 950,
- "rankingPositionChange": 0,
- "gloryPoint": 9192,
+ "position": 951,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9185,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Brezza",
@@ -272,6 +272,14 @@
    "position": 950,
    "rankingPositionChange": 0,
    "gloryPoint": 9192,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9185,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

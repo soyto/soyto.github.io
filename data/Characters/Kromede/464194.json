@@ -2,10 +2,10 @@
  "characterID": 464194,
  "characterClassID": 11,
  "raceID": 1,
- "position": 828,
- "rankingPositionChange": 7,
- "gloryPoint": 4039,
- "gloryPointChange": 43,
+ "position": 831,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4032,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shinora",
  "guildName": "Smurf Gang",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 4039,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 831,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4032,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

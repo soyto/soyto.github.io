@@ -2,9 +2,9 @@
  "characterID": 781060,
  "characterClassID": 14,
  "raceID": 0,
- "position": 929,
- "rankingPositionChange": 1,
- "gloryPoint": 5100,
+ "position": 933,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5093,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lyzz",
@@ -272,6 +272,14 @@
    "position": 929,
    "rankingPositionChange": 1,
    "gloryPoint": 5100,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 933,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5093,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

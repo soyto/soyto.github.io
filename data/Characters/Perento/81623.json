@@ -2,10 +2,10 @@
  "characterID": 81623,
  "characterClassID": 2,
  "raceID": 1,
- "position": 94,
- "rankingPositionChange": 0,
- "gloryPoint": 110044,
- "gloryPointChange": 412,
+ "position": 95,
+ "rankingPositionChange": -1,
+ "gloryPoint": 110120,
+ "gloryPointChange": 76,
  "soldierRankID": 14,
  "characterName": "Jonur",
  "guildName": "The Others",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 110044,
    "gloryPointChange": 412,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 95,
+   "rankingPositionChange": -1,
+   "gloryPoint": 110120,
+   "gloryPointChange": 76,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 524685,
  "characterClassID": 7,
  "raceID": 1,
- "position": 364,
- "rankingPositionChange": 2,
- "gloryPoint": 16998,
+ "position": 365,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16970,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Albertothefire",
@@ -272,6 +272,14 @@
    "position": 364,
    "rankingPositionChange": 2,
    "gloryPoint": 16998,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 365,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16970,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

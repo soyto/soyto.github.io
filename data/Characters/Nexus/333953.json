@@ -2,9 +2,9 @@
  "characterID": 333953,
  "characterClassID": 11,
  "raceID": 0,
- "position": 437,
- "rankingPositionChange": 0,
- "gloryPoint": 20852,
+ "position": 436,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20824,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Quadra",
@@ -272,6 +272,14 @@
    "position": 437,
    "rankingPositionChange": 0,
    "gloryPoint": 20852,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 436,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20824,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

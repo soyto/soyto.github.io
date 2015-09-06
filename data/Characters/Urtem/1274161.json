@@ -2,12 +2,14 @@
  "characterID": 1274161,
  "characterClassID": 16,
  "raceID": 0,
- "position": 570,
- "rankingPositionChange": 0,
- "gloryPoint": 29875,
- "gloryPointChange": 56,
+ "position": 568,
+ "rankingPositionChange": 2,
+ "gloryPoint": 29861,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Matsimune",
+ "guildName": "Suck my Popoku",
+ "guildID": 29447,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 29875,
    "gloryPointChange": 56,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 568,
+   "rankingPositionChange": 2,
+   "gloryPoint": 29861,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -287,6 +297,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Suck my Popoku",
+   "guildID": 29447
   }
  ]
 }

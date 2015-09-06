@@ -2,9 +2,9 @@
  "characterID": 517537,
  "characterClassID": 10,
  "raceID": 1,
- "position": 856,
- "rankingPositionChange": 4,
- "gloryPoint": 2357,
+ "position": 859,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2350,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Amelli",
@@ -272,6 +272,14 @@
    "position": 856,
    "rankingPositionChange": 4,
    "gloryPoint": 2357,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 859,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2350,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

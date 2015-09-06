@@ -2,9 +2,9 @@
  "characterID": 301849,
  "characterClassID": 10,
  "raceID": 0,
- "position": 649,
- "rankingPositionChange": -1,
- "gloryPoint": 13248,
+ "position": 648,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13234,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sebyheal",
@@ -272,6 +272,14 @@
    "position": 649,
    "rankingPositionChange": -1,
    "gloryPoint": 13248,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 648,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13234,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

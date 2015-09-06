@@ -2,10 +2,10 @@
  "characterID": 563298,
  "characterClassID": 4,
  "raceID": 0,
- "position": 935,
- "rankingPositionChange": 0,
- "gloryPoint": 15149,
- "gloryPointChange": 134,
+ "position": 936,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15145,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Madslay",
  "guildName": "LegendKillers",
@@ -193,6 +193,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 15149,
    "gloryPointChange": 134,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 936,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15145,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

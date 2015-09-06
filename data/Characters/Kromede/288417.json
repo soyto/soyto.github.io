@@ -2,9 +2,9 @@
  "characterID": 288417,
  "characterClassID": 11,
  "raceID": 1,
- "position": 743,
- "rankingPositionChange": 1,
- "gloryPoint": 4965,
+ "position": 744,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4958,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Taurec",
@@ -272,6 +272,14 @@
    "position": 743,
    "rankingPositionChange": 1,
    "gloryPoint": 4965,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 744,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4958,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

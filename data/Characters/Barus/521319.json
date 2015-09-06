@@ -2,9 +2,9 @@
  "characterID": 521319,
  "characterClassID": 1,
  "raceID": 1,
- "position": 812,
- "rankingPositionChange": -1,
- "gloryPoint": 14357,
+ "position": 808,
+ "rankingPositionChange": 4,
+ "gloryPoint": 14350,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rask",
@@ -270,6 +270,14 @@
    "position": 812,
    "rankingPositionChange": -1,
    "gloryPoint": 14357,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 808,
+   "rankingPositionChange": 4,
+   "gloryPoint": 14350,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

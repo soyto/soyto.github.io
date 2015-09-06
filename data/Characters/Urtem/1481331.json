@@ -2,9 +2,9 @@
  "characterID": 1481331,
  "characterClassID": 10,
  "raceID": 1,
- "position": 622,
- "rankingPositionChange": 1,
- "gloryPoint": 13758,
+ "position": 623,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13744,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Segshop",
@@ -270,6 +270,14 @@
    "position": 622,
    "rankingPositionChange": 1,
    "gloryPoint": 13758,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 623,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13744,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

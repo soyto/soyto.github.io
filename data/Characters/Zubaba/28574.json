@@ -2,9 +2,9 @@
  "characterID": 28574,
  "characterClassID": 14,
  "raceID": 0,
- "position": 141,
- "rankingPositionChange": 0,
- "gloryPoint": 82348,
+ "position": 142,
+ "rankingPositionChange": -1,
+ "gloryPoint": 82299,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Syro",
@@ -272,6 +272,14 @@
    "position": 141,
    "rankingPositionChange": 0,
    "gloryPoint": 82348,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 142,
+   "rankingPositionChange": -1,
+   "gloryPoint": 82299,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,12 +2,14 @@
  "characterID": 577718,
  "characterClassID": 1,
  "raceID": 0,
- "position": 880,
- "rankingPositionChange": 1,
- "gloryPoint": 12429,
- "gloryPointChange": 222,
+ "position": 876,
+ "rankingPositionChange": 4,
+ "gloryPoint": 12679,
+ "gloryPointChange": 250,
  "soldierRankID": 10,
  "characterName": "Keeeny",
+ "guildName": "Rakuzan",
+ "guildID": 43857,
  "status": [
   {
    "date": "2015-08-04T22:00:00.000Z",
@@ -240,6 +242,14 @@
    "gloryPoint": 12429,
    "gloryPointChange": 222,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 876,
+   "rankingPositionChange": 4,
+   "gloryPoint": 12679,
+   "gloryPointChange": 250,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -260,6 +270,11 @@
   },
   {
    "date": "2015-08-16T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Rakuzan",
+   "guildID": 43857
   }
  ]
 }

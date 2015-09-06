@@ -2,10 +2,10 @@
  "characterID": 1100487,
  "characterClassID": 16,
  "raceID": 1,
- "position": 732,
- "rankingPositionChange": 4,
- "gloryPoint": 3578,
- "gloryPointChange": 103,
+ "position": 733,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3574,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Evoni",
  "guildName": "Asmodae Society",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 3578,
    "gloryPointChange": 103,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 733,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3574,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

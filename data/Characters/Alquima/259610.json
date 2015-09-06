@@ -2,12 +2,14 @@
  "characterID": 259610,
  "characterClassID": 2,
  "raceID": 0,
- "position": 95,
- "rankingPositionChange": 0,
- "gloryPoint": 110950,
- "gloryPointChange": -98,
+ "position": 94,
+ "rankingPositionChange": 1,
+ "gloryPoint": 110865,
+ "gloryPointChange": -85,
  "soldierRankID": 14,
  "characterName": "Zetos",
+ "guildName": "Velo Nocturno",
+ "guildID": 13723,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -264,6 +266,14 @@
    "gloryPoint": 110950,
    "gloryPointChange": -98,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 94,
+   "rankingPositionChange": 1,
+   "gloryPoint": 110865,
+   "gloryPointChange": -85,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Velo Nocturno",
+   "guildID": 13723
   }
  ]
 }

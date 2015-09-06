@@ -3,9 +3,9 @@
  "characterClassID": 16,
  "raceID": 0,
  "position": 425,
- "rankingPositionChange": -1,
- "gloryPoint": 28889,
- "gloryPointChange": 168,
+ "rankingPositionChange": 0,
+ "gloryPoint": 28861,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Vividus",
  "guildName": "BurnOut",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 28889,
    "gloryPointChange": 168,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 425,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28861,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

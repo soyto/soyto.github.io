@@ -2,9 +2,9 @@
  "characterID": 1164775,
  "characterClassID": 2,
  "raceID": 0,
- "position": 777,
- "rankingPositionChange": -1,
- "gloryPoint": 8887,
+ "position": 776,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8880,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Spuncky",
@@ -272,6 +272,14 @@
    "position": 777,
    "rankingPositionChange": -1,
    "gloryPoint": 8887,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 776,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8880,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

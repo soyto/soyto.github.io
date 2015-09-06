@@ -2,9 +2,9 @@
  "characterID": 1025868,
  "characterClassID": 14,
  "raceID": 1,
- "position": 553,
- "rankingPositionChange": 0,
- "gloryPoint": 8373,
+ "position": 556,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8359,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Qbee",
@@ -168,6 +168,14 @@
    "position": 553,
    "rankingPositionChange": 0,
    "gloryPoint": 8373,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8359,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

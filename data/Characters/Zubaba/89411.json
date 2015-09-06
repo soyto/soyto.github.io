@@ -2,9 +2,9 @@
  "characterID": 89411,
  "characterClassID": 7,
  "raceID": 0,
- "position": 119,
- "rankingPositionChange": 0,
- "gloryPoint": 94727,
+ "position": 121,
+ "rankingPositionChange": -2,
+ "gloryPoint": 94678,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Taichi",
@@ -270,6 +270,14 @@
    "position": 119,
    "rankingPositionChange": 0,
    "gloryPoint": 94727,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": -2,
+   "gloryPoint": 94678,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,14 +2,14 @@
  "characterID": 433006,
  "characterClassID": 10,
  "raceID": 1,
- "position": 906,
- "rankingPositionChange": 0,
- "gloryPoint": 11790,
- "gloryPointChange": 148,
+ "position": 897,
+ "rankingPositionChange": 9,
+ "gloryPoint": 11997,
+ "gloryPointChange": 207,
  "soldierRankID": 10,
  "characterName": "Cekin",
- "guildName": "Dark Crusade",
- "guildID": 9214,
+ "guildName": " NeverMind ",
+ "guildID": 5169,
  "status": [
   {
    "date": "2015-08-17T22:00:00.000Z",
@@ -138,6 +138,14 @@
    "gloryPoint": 11790,
    "gloryPointChange": 148,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 897,
+   "rankingPositionChange": 9,
+   "gloryPoint": 11997,
+   "gloryPointChange": 207,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -162,6 +170,11 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "Dark Crusade",
    "guildID": 9214
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": " NeverMind ",
+   "guildID": 5169
   }
  ]
 }

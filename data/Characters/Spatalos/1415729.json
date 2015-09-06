@@ -2,10 +2,10 @@
  "characterID": 1415729,
  "characterClassID": 11,
  "raceID": 0,
- "position": 990,
- "rankingPositionChange": 9,
- "gloryPoint": 5830,
- "gloryPointChange": 121,
+ "position": 989,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5823,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Keravnoss",
  "guildName": "Dark Side of the Force",
@@ -33,6 +33,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 5830,
    "gloryPointChange": 121,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5823,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

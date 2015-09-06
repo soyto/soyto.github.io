@@ -2,9 +2,9 @@
  "characterID": 51956,
  "characterClassID": 7,
  "raceID": 1,
- "position": 62,
- "rankingPositionChange": 0,
- "gloryPoint": 80633,
+ "position": 63,
+ "rankingPositionChange": -1,
+ "gloryPoint": 80526,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Ankary",
@@ -272,6 +272,14 @@
    "position": 62,
    "rankingPositionChange": 0,
    "gloryPoint": 80633,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 63,
+   "rankingPositionChange": -1,
+   "gloryPoint": 80526,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

@@ -2,9 +2,9 @@
  "characterID": 274761,
  "characterClassID": 7,
  "raceID": 1,
- "position": 725,
- "rankingPositionChange": 0,
- "gloryPoint": 11219,
+ "position": 729,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11212,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kalaran",
@@ -272,6 +272,14 @@
    "position": 725,
    "rankingPositionChange": 0,
    "gloryPoint": 11219,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 729,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11212,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

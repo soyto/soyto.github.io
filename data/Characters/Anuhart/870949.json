@@ -2,9 +2,9 @@
  "characterID": 870949,
  "characterClassID": 7,
  "raceID": 1,
- "position": 377,
- "rankingPositionChange": 3,
- "gloryPoint": 16125,
+ "position": 380,
+ "rankingPositionChange": -3,
+ "gloryPoint": 16097,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lillye",
@@ -272,6 +272,14 @@
    "position": 377,
    "rankingPositionChange": 3,
    "gloryPoint": 16125,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": -3,
+   "gloryPoint": 16097,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

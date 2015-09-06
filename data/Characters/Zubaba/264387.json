@@ -2,10 +2,10 @@
  "characterID": 264387,
  "characterClassID": 10,
  "raceID": 1,
- "position": 670,
- "rankingPositionChange": 2,
- "gloryPoint": 4264,
- "gloryPointChange": 54,
+ "position": 674,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4250,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Stupidgirl",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 4264,
    "gloryPointChange": 54,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 674,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4250,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

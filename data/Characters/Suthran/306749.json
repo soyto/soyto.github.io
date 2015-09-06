@@ -2,10 +2,10 @@
  "characterID": 306749,
  "characterClassID": 2,
  "raceID": 1,
- "position": 792,
- "rankingPositionChange": 5,
- "gloryPoint": 7388,
- "gloryPointChange": 230,
+ "position": 797,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7381,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hiitsougaya",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 7388,
    "gloryPointChange": 230,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 797,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7381,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

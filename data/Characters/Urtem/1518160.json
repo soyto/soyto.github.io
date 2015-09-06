@@ -2,9 +2,9 @@
  "characterID": 1518160,
  "characterClassID": 10,
  "raceID": 0,
- "position": 163,
- "rankingPositionChange": 1,
- "gloryPoint": 86887,
+ "position": 164,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86838,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shaiyald",
@@ -264,6 +264,14 @@
    "position": 163,
    "rankingPositionChange": 1,
    "gloryPoint": 86887,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 164,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86838,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

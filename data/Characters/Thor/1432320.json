@@ -2,9 +2,9 @@
  "characterID": 1432320,
  "characterClassID": 1,
  "raceID": 1,
- "position": 856,
- "rankingPositionChange": 0,
- "gloryPoint": 13584,
+ "position": 857,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13577,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Railyu",
@@ -272,6 +272,14 @@
    "position": 856,
    "rankingPositionChange": 0,
    "gloryPoint": 13584,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 857,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13577,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

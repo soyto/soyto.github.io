@@ -3,8 +3,8 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 710,
- "rankingPositionChange": 3,
- "gloryPoint": 5479,
+ "rankingPositionChange": 0,
+ "gloryPoint": 5472,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Croissant",
@@ -272,6 +272,14 @@
    "position": 710,
    "rankingPositionChange": 3,
    "gloryPoint": 5479,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 710,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5472,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

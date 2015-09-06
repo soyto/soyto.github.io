@@ -2,10 +2,10 @@
  "characterID": 849464,
  "characterClassID": 1,
  "raceID": 1,
- "position": 380,
- "rankingPositionChange": 2,
- "gloryPoint": 43056,
- "gloryPointChange": 360,
+ "position": 383,
+ "rankingPositionChange": -3,
+ "gloryPoint": 43060,
+ "gloryPointChange": 4,
  "soldierRankID": 12,
  "characterName": "Majori",
  "guildName": "  LnV  ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 43056,
    "gloryPointChange": 360,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 383,
+   "rankingPositionChange": -3,
+   "gloryPoint": 43060,
+   "gloryPointChange": 4,
    "soldierRankID": 12
   }
  ],

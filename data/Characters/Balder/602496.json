@@ -2,9 +2,9 @@
  "characterID": 602496,
  "characterClassID": 8,
  "raceID": 0,
- "position": 910,
- "rankingPositionChange": 0,
- "gloryPoint": 1944,
+ "position": 905,
+ "rankingPositionChange": 5,
+ "gloryPoint": 1937,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nyotah",
@@ -272,6 +272,14 @@
    "position": 910,
    "rankingPositionChange": 0,
    "gloryPoint": 1944,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 905,
+   "rankingPositionChange": 5,
+   "gloryPoint": 1937,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

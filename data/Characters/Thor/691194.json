@@ -2,10 +2,10 @@
  "characterID": 691194,
  "characterClassID": 10,
  "raceID": 0,
- "position": 819,
- "rankingPositionChange": 2,
- "gloryPoint": 19817,
- "gloryPointChange": 136,
+ "position": 820,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19810,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Diffi",
  "guildName": "Arroganz der Macht",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 19817,
    "gloryPointChange": 136,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 820,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19810,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,14 +2,12 @@
  "characterID": 182387,
  "characterClassID": 4,
  "raceID": 1,
- "position": 442,
+ "position": 443,
  "rankingPositionChange": -1,
- "gloryPoint": 11629,
+ "gloryPoint": 11601,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Waykin",
- "guildName": "V for Vendetta",
- "guildID": 1639,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 11629,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 443,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11601,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "V for Vendetta",
    "guildID": 1639
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

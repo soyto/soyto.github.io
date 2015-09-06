@@ -2,9 +2,9 @@
  "characterID": 221013,
  "characterClassID": 5,
  "raceID": 1,
- "position": 832,
- "rankingPositionChange": 2,
- "gloryPoint": 2131,
+ "position": 836,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2124,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Archero",
@@ -272,6 +272,14 @@
    "position": 832,
    "rankingPositionChange": 2,
    "gloryPoint": 2131,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 836,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2124,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

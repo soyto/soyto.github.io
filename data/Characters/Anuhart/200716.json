@@ -2,9 +2,9 @@
  "characterID": 200716,
  "characterClassID": 5,
  "raceID": 1,
- "position": 531,
- "rankingPositionChange": 3,
- "gloryPoint": 8544,
+ "position": 534,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8530,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Raikou",
@@ -272,6 +272,14 @@
    "position": 531,
    "rankingPositionChange": 3,
    "gloryPoint": 8544,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 534,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8530,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 1148899,
  "characterClassID": 10,
  "raceID": 0,
- "position": 669,
- "rankingPositionChange": 0,
- "gloryPoint": 12582,
- "gloryPointChange": 96,
+ "position": 668,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12568,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Karinax",
  "guildName": "The Black Dozen",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 12582,
    "gloryPointChange": 96,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 668,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12568,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

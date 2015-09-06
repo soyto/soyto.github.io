@@ -2,9 +2,9 @@
  "characterID": 1089446,
  "characterClassID": 4,
  "raceID": 0,
- "position": 456,
- "rankingPositionChange": 1,
- "gloryPoint": 39952,
+ "position": 458,
+ "rankingPositionChange": -2,
+ "gloryPoint": 39924,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Gemain",
@@ -272,6 +272,14 @@
    "position": 456,
    "rankingPositionChange": 1,
    "gloryPoint": 39952,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 458,
+   "rankingPositionChange": -2,
+   "gloryPoint": 39924,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

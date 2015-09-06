@@ -3,9 +3,9 @@
  "characterClassID": 11,
  "raceID": 0,
  "position": 851,
- "rankingPositionChange": 11,
- "gloryPoint": 1606,
- "gloryPointChange": 55,
+ "rankingPositionChange": 0,
+ "gloryPoint": 1599,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Grymgor",
  "guildName": "Savage Spirit",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 1606,
    "gloryPointChange": 55,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1599,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

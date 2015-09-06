@@ -2,10 +2,10 @@
  "characterID": 276181,
  "characterClassID": 16,
  "raceID": 1,
- "position": 321,
- "rankingPositionChange": 4,
- "gloryPoint": 23527,
- "gloryPointChange": 575,
+ "position": 322,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23812,
+ "gloryPointChange": 285,
  "soldierRankID": 12,
  "characterName": "Defiance",
  "guildName": "DarkWish",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 23527,
    "gloryPointChange": 575,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 322,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23812,
+   "gloryPointChange": 285,
    "soldierRankID": 12
   }
  ],

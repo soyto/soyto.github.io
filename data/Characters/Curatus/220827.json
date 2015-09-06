@@ -2,10 +2,10 @@
  "characterID": 220827,
  "characterClassID": 10,
  "raceID": 1,
- "position": 877,
- "rankingPositionChange": 3,
- "gloryPoint": 4170,
- "gloryPointChange": 43,
+ "position": 879,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4163,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Elhena",
  "guildName": "Stalkers",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 4170,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 879,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4163,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

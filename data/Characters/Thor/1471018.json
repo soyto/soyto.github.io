@@ -2,9 +2,9 @@
  "characterID": 1471018,
  "characterClassID": 13,
  "raceID": 0,
- "position": 221,
- "rankingPositionChange": 0,
- "gloryPoint": 83094,
+ "position": 222,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83045,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Yedai",
@@ -272,6 +272,14 @@
    "position": 221,
    "rankingPositionChange": 0,
    "gloryPoint": 83094,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83045,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

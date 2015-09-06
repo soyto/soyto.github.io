@@ -2,10 +2,10 @@
  "characterID": 267313,
  "characterClassID": 1,
  "raceID": 0,
- "position": 313,
- "rankingPositionChange": -3,
- "gloryPoint": 31213,
- "gloryPointChange": -28,
+ "position": 312,
+ "rankingPositionChange": 1,
+ "gloryPoint": 31313,
+ "gloryPointChange": 100,
  "soldierRankID": 12,
  "characterName": "Athun",
  "guildName": "Celestials",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 31213,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 312,
+   "rankingPositionChange": 1,
+   "gloryPoint": 31313,
+   "gloryPointChange": 100,
    "soldierRankID": 12
   }
  ],

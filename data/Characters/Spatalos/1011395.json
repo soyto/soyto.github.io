@@ -2,10 +2,10 @@
  "characterID": 1011395,
  "characterClassID": 16,
  "raceID": 0,
- "position": 397,
- "rankingPositionChange": -1,
- "gloryPoint": 33708,
- "gloryPointChange": 384,
+ "position": 396,
+ "rankingPositionChange": 1,
+ "gloryPoint": 33680,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hayyden",
  "guildName": "Shake It Off",
@@ -265,6 +265,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 33708,
    "gloryPointChange": 384,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 396,
+   "rankingPositionChange": 1,
+   "gloryPoint": 33680,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

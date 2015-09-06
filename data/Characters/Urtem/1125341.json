@@ -2,12 +2,14 @@
  "characterID": 1125341,
  "characterClassID": 16,
  "raceID": 0,
- "position": 509,
- "rankingPositionChange": -3,
- "gloryPoint": 33187,
+ "position": 508,
+ "rankingPositionChange": 1,
+ "gloryPoint": 33173,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Barde",
+ "guildName": "l                              l",
+ "guildID": 29393,
  "status": [
   {
    "date": "2015-08-17T22:00:00.000Z",
@@ -136,6 +138,14 @@
    "gloryPoint": 33187,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": 1,
+   "gloryPoint": 33173,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -147,6 +157,11 @@
  "guilds": [
   {
    "date": "2015-08-17T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "l                              l",
+   "guildID": 29393
   }
  ]
 }

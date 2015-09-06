@@ -2,10 +2,10 @@
  "characterID": 1495208,
  "characterClassID": 16,
  "raceID": 1,
- "position": 820,
- "rankingPositionChange": 11,
- "gloryPoint": 3252,
- "gloryPointChange": 141,
+ "position": 824,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3245,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vitara",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 3252,
    "gloryPointChange": 141,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 824,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3245,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 29502,
  "characterClassID": 10,
  "raceID": 1,
- "position": 643,
- "rankingPositionChange": 1,
- "gloryPoint": 1303,
+ "position": 644,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1296,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lykara",
@@ -264,6 +264,14 @@
    "position": 643,
    "rankingPositionChange": 1,
    "gloryPoint": 1303,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 644,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1296,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

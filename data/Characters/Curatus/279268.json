@@ -2,10 +2,10 @@
  "characterID": 279268,
  "characterClassID": 7,
  "raceID": 0,
- "position": 345,
- "rankingPositionChange": 1,
- "gloryPoint": 45353,
- "gloryPointChange": 322,
+ "position": 347,
+ "rankingPositionChange": -2,
+ "gloryPoint": 45325,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Principessalaura",
  "guildName": "JFF",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 45353,
    "gloryPointChange": 322,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 347,
+   "rankingPositionChange": -2,
+   "gloryPoint": 45325,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

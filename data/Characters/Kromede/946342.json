@@ -2,9 +2,9 @@
  "characterID": 946342,
  "characterClassID": 16,
  "raceID": 1,
- "position": 304,
- "rankingPositionChange": -1,
- "gloryPoint": 23646,
+ "position": 303,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23618,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Proxyfox",
@@ -270,6 +270,14 @@
    "position": 304,
    "rankingPositionChange": -1,
    "gloryPoint": 23646,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 303,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23618,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 122873,
  "characterClassID": 8,
  "raceID": 1,
- "position": 807,
- "rankingPositionChange": -1,
- "gloryPoint": 14513,
+ "position": 802,
+ "rankingPositionChange": 5,
+ "gloryPoint": 14506,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Trawel",
@@ -272,6 +272,14 @@
    "position": 807,
    "rankingPositionChange": -1,
    "gloryPoint": 14513,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 802,
+   "rankingPositionChange": 5,
+   "gloryPoint": 14506,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

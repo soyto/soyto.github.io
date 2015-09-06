@@ -2,10 +2,10 @@
  "characterID": 74946,
  "characterClassID": 7,
  "raceID": 0,
- "position": 550,
- "rankingPositionChange": 0,
- "gloryPoint": 12716,
- "gloryPointChange": -14,
+ "position": 570,
+ "rankingPositionChange": -20,
+ "gloryPoint": 12520,
+ "gloryPointChange": -196,
  "soldierRankID": 11,
  "characterName": "Cadee",
  "status": [
@@ -167,6 +167,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 12716,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 570,
+   "rankingPositionChange": -20,
+   "gloryPoint": 12520,
+   "gloryPointChange": -196,
    "soldierRankID": 11
   }
  ],

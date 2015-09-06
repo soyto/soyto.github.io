@@ -2,12 +2,14 @@
  "characterID": 430261,
  "characterClassID": 14,
  "raceID": 1,
- "position": 934,
- "rankingPositionChange": 4,
- "gloryPoint": 11007,
- "gloryPointChange": 161,
+ "position": 926,
+ "rankingPositionChange": 8,
+ "gloryPoint": 11210,
+ "gloryPointChange": 203,
  "soldierRankID": 10,
  "characterName": "Turbok",
+ "guildName": "AvenuE",
+ "guildID": 1804,
  "status": [
   {
    "date": "2015-08-29T22:00:00.000Z",
@@ -48,6 +50,14 @@
    "gloryPoint": 11007,
    "gloryPointChange": 161,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": 8,
+   "gloryPoint": 11210,
+   "gloryPointChange": 203,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -64,6 +74,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "AvenuE",
+   "guildID": 1804
   }
  ]
 }

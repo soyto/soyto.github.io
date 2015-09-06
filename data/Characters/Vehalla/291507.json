@@ -2,10 +2,10 @@
  "characterID": 291507,
  "characterClassID": 10,
  "raceID": 0,
- "position": 579,
- "rankingPositionChange": 9,
- "gloryPoint": 2006,
- "gloryPointChange": 84,
+ "position": 580,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1992,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zylda",
  "guildName": "ClearRUN",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 2006,
    "gloryPointChange": 84,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 580,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1992,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 774719,
  "characterClassID": 7,
  "raceID": 1,
- "position": 479,
- "rankingPositionChange": 6,
- "gloryPoint": 3602,
- "gloryPointChange": 75,
+ "position": 484,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3574,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Crystallum",
  "guildName": "Divine Intervention",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 3602,
    "gloryPointChange": 75,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 484,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3574,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

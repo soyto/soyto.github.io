@@ -2,9 +2,9 @@
  "characterID": 669042,
  "characterClassID": 5,
  "raceID": 1,
- "position": 846,
- "rankingPositionChange": 3,
- "gloryPoint": 2435,
+ "position": 850,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2428,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vladislavfire",
@@ -270,6 +270,14 @@
    "position": 846,
    "rankingPositionChange": 3,
    "gloryPoint": 2435,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 850,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2428,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

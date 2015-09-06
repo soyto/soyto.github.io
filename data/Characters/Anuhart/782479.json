@@ -2,10 +2,10 @@
  "characterID": 782479,
  "characterClassID": 1,
  "raceID": 1,
- "position": 690,
- "rankingPositionChange": 1,
- "gloryPoint": 4325,
- "gloryPointChange": 46,
+ "position": 694,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4311,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Becalm",
  "guildName": "First Let Me Take A Selfie",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 4325,
    "gloryPointChange": 46,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 694,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4311,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

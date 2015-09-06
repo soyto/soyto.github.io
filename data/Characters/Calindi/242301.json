@@ -2,9 +2,9 @@
  "characterID": 242301,
  "characterClassID": 7,
  "raceID": 1,
- "position": 104,
- "rankingPositionChange": 0,
- "gloryPoint": 15711,
+ "position": 105,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15662,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ahika",
@@ -272,6 +272,14 @@
    "position": 104,
    "rankingPositionChange": 0,
    "gloryPoint": 15711,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15662,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

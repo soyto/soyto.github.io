@@ -3,8 +3,8 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 404,
- "rankingPositionChange": 2,
- "gloryPoint": 4403,
+ "rankingPositionChange": 0,
+ "gloryPoint": 4375,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Skrul",
@@ -272,6 +272,14 @@
    "position": 404,
    "rankingPositionChange": 2,
    "gloryPoint": 4403,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 404,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4375,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

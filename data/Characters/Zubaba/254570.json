@@ -2,9 +2,9 @@
  "characterID": 254570,
  "characterClassID": 14,
  "raceID": 1,
- "position": 870,
- "rankingPositionChange": 2,
- "gloryPoint": 1829,
+ "position": 876,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1822,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Batarey",
@@ -272,6 +272,14 @@
    "position": 870,
    "rankingPositionChange": 2,
    "gloryPoint": 1829,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 876,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1822,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

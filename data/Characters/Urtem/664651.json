@@ -2,9 +2,9 @@
  "characterID": 664651,
  "characterClassID": 11,
  "raceID": 0,
- "position": 255,
- "rankingPositionChange": 0,
- "gloryPoint": 65195,
+ "position": 256,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65146,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Elviiiii",
@@ -240,6 +240,14 @@
    "position": 255,
    "rankingPositionChange": 0,
    "gloryPoint": 65195,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 256,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65146,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

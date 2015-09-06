@@ -2,10 +2,10 @@
  "characterID": 19951,
  "characterClassID": 4,
  "raceID": 1,
- "position": 22,
- "rankingPositionChange": 1,
- "gloryPoint": 225389,
- "gloryPointChange": 516,
+ "position": 23,
+ "rankingPositionChange": -1,
+ "gloryPoint": 225720,
+ "gloryPointChange": 331,
  "soldierRankID": 15,
  "characterName": "Assassin",
  "guildName": "KIZIL ORDU",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 225389,
    "gloryPointChange": 516,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 23,
+   "rankingPositionChange": -1,
+   "gloryPoint": 225720,
+   "gloryPointChange": 331,
    "soldierRankID": 15
   }
  ],

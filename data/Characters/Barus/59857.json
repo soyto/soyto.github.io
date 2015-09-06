@@ -2,9 +2,9 @@
  "characterID": 59857,
  "characterClassID": 14,
  "raceID": 0,
- "position": 179,
- "rankingPositionChange": 0,
- "gloryPoint": 70124,
+ "position": 180,
+ "rankingPositionChange": -1,
+ "gloryPoint": 70275,
  "gloryPointChange": 151,
  "soldierRankID": 13,
  "characterName": "Shogun",
@@ -272,6 +272,14 @@
    "position": 179,
    "rankingPositionChange": 0,
    "gloryPoint": 70124,
+   "gloryPointChange": 151,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 180,
+   "rankingPositionChange": -1,
+   "gloryPoint": 70275,
    "gloryPointChange": 151,
    "soldierRankID": 13
   }

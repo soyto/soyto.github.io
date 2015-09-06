@@ -3,13 +3,13 @@
  "characterClassID": 16,
  "raceID": 1,
  "position": 258,
- "rankingPositionChange": -1,
- "gloryPoint": 32313,
- "gloryPointChange": -49,
+ "rankingPositionChange": 0,
+ "gloryPoint": 32334,
+ "gloryPointChange": 21,
  "soldierRankID": 13,
  "characterName": "Efulim",
- "guildName": "Villains",
- "guildID": 1830,
+ "guildName": "G U A R D S",
+ "guildID": 6689,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 32313,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 258,
+   "rankingPositionChange": 0,
+   "gloryPoint": 32334,
+   "gloryPointChange": 21,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Villains",
    "guildID": 1830
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "G U A R D S",
+   "guildID": 6689
   }
  ]
 }

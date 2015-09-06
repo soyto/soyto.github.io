@@ -3,9 +3,9 @@
  "characterClassID": 8,
  "raceID": 1,
  "position": 668,
- "rankingPositionChange": 5,
- "gloryPoint": 4462,
- "gloryPointChange": 96,
+ "rankingPositionChange": 0,
+ "gloryPoint": 4448,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Harpagus",
  "guildName": "Asmodae Society",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 4462,
    "gloryPointChange": 96,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 668,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4448,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

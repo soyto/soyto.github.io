@@ -2,14 +2,14 @@
  "characterID": 690992,
  "characterClassID": 7,
  "raceID": 0,
- "position": 131,
+ "position": 129,
  "rankingPositionChange": 2,
- "gloryPoint": 70345,
- "gloryPointChange": 653,
+ "gloryPoint": 70856,
+ "gloryPointChange": 511,
  "soldierRankID": 13,
  "characterName": "Wilqu",
- "guildName": "Secretive",
- "guildID": 13242,
+ "guildName": "Wilqu",
+ "guildID": 21165,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 70345,
    "gloryPointChange": 653,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 129,
+   "rankingPositionChange": 2,
+   "gloryPoint": 70856,
+   "gloryPointChange": 511,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Secretive",
    "guildID": 13242
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Wilqu",
+   "guildID": 21165
   }
  ]
 }

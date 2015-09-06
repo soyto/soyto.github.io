@@ -2,12 +2,14 @@
  "characterID": 1105847,
  "characterClassID": 16,
  "raceID": 0,
- "position": 543,
- "rankingPositionChange": 0,
- "gloryPoint": 17163,
+ "position": 542,
+ "rankingPositionChange": 1,
+ "gloryPoint": 17149,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hodor",
+ "guildName": "R  I  P",
+ "guildID": 21778,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 17163,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 542,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17149,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "R  I  P",
+   "guildID": 21778
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 861178,
  "characterClassID": 1,
  "raceID": 1,
- "position": 409,
- "rankingPositionChange": 1,
- "gloryPoint": 24454,
- "gloryPointChange": 154,
+ "position": 410,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24476,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Bardilou",
  "guildName": "Ombre et Lumiere",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 24454,
    "gloryPointChange": 154,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 410,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24476,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

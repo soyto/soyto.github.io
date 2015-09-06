@@ -2,10 +2,10 @@
  "characterID": 405879,
  "characterClassID": 10,
  "raceID": 1,
- "position": 212,
- "rankingPositionChange": 0,
- "gloryPoint": 23500,
- "gloryPointChange": 151,
+ "position": 213,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23751,
+ "gloryPointChange": 251,
  "soldierRankID": 13,
  "characterName": "Ninfas",
  "guildName": "LinK InC",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 23500,
    "gloryPointChange": 151,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 213,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23751,
+   "gloryPointChange": 251,
    "soldierRankID": 13
   }
  ],

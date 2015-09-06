@@ -2,10 +2,10 @@
  "characterID": 197246,
  "characterClassID": 8,
  "raceID": 0,
- "position": 761,
- "rankingPositionChange": 0,
- "gloryPoint": 22190,
- "gloryPointChange": 93,
+ "position": 760,
+ "rankingPositionChange": 1,
+ "gloryPoint": 22183,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cayla",
  "guildName": "Ordensschwestern eV",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 22190,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 760,
+   "rankingPositionChange": 1,
+   "gloryPoint": 22183,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

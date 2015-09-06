@@ -2,9 +2,9 @@
  "characterID": 204727,
  "characterClassID": 5,
  "raceID": 1,
- "position": 363,
- "rankingPositionChange": 0,
- "gloryPoint": 18119,
+ "position": 364,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18091,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Notfound",
@@ -272,6 +272,14 @@
    "position": 363,
    "rankingPositionChange": 0,
    "gloryPoint": 18119,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18091,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

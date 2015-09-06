@@ -2,10 +2,10 @@
  "characterID": 960831,
  "characterClassID": 14,
  "raceID": 1,
- "position": 472,
- "rankingPositionChange": 4,
- "gloryPoint": 10668,
- "gloryPointChange": 22,
+ "position": 473,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10640,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Uandmybullet",
  "guildName": "Bruderschaft der Apokalypse",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 10668,
    "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 473,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10640,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

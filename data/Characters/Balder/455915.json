@@ -2,9 +2,9 @@
  "characterID": 455915,
  "characterClassID": 10,
  "raceID": 0,
- "position": 70,
- "rankingPositionChange": 0,
- "gloryPoint": 107424,
+ "position": 71,
+ "rankingPositionChange": -1,
+ "gloryPoint": 107317,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Asamii",
@@ -264,6 +264,14 @@
    "position": 70,
    "rankingPositionChange": 0,
    "gloryPoint": 107424,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 71,
+   "rankingPositionChange": -1,
+   "gloryPoint": 107317,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

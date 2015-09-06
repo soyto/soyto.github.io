@@ -2,9 +2,9 @@
  "characterID": 985868,
  "characterClassID": 10,
  "raceID": 1,
- "position": 553,
- "rankingPositionChange": -2,
- "gloryPoint": 1700,
+ "position": 552,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1686,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kiltara",
@@ -272,6 +272,14 @@
    "position": 553,
    "rankingPositionChange": -2,
    "gloryPoint": 1700,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 552,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1686,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

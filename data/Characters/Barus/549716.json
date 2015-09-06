@@ -2,10 +2,10 @@
  "characterID": 549716,
  "characterClassID": 10,
  "raceID": 1,
- "position": 680,
- "rankingPositionChange": 0,
- "gloryPoint": 19009,
- "gloryPointChange": 30,
+ "position": 678,
+ "rankingPositionChange": 2,
+ "gloryPoint": 19007,
+ "gloryPointChange": -2,
  "soldierRankID": 11,
  "characterName": "Vivies",
  "guildName": "DarkAngel",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 19009,
    "gloryPointChange": 30,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 678,
+   "rankingPositionChange": 2,
+   "gloryPoint": 19007,
+   "gloryPointChange": -2,
    "soldierRankID": 11
   }
  ],

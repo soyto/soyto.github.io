@@ -2,9 +2,9 @@
  "characterID": 843420,
  "characterClassID": 1,
  "raceID": 0,
- "position": 343,
- "rankingPositionChange": 0,
- "gloryPoint": 29355,
+ "position": 345,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29327,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Fluflu",
@@ -240,6 +240,14 @@
    "position": 343,
    "rankingPositionChange": 0,
    "gloryPoint": 29355,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 345,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29327,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

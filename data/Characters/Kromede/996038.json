@@ -2,9 +2,9 @@
  "characterID": 996038,
  "characterClassID": 14,
  "raceID": 1,
- "position": 224,
- "rankingPositionChange": 2,
- "gloryPoint": 33580,
+ "position": 226,
+ "rankingPositionChange": -2,
+ "gloryPoint": 33554,
  "gloryPointChange": -26,
  "soldierRankID": 13,
  "characterName": "Nenija",
@@ -272,6 +272,14 @@
    "position": 224,
    "rankingPositionChange": 2,
    "gloryPoint": 33580,
+   "gloryPointChange": -26,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 226,
+   "rankingPositionChange": -2,
+   "gloryPoint": 33554,
    "gloryPointChange": -26,
    "soldierRankID": 13
   }

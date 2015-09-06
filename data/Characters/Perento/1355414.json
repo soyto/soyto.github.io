@@ -2,9 +2,9 @@
  "characterID": 1355414,
  "characterClassID": 7,
  "raceID": 0,
- "position": 415,
- "rankingPositionChange": -1,
- "gloryPoint": 25987,
+ "position": 414,
+ "rankingPositionChange": 1,
+ "gloryPoint": 25959,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Likever",
@@ -272,6 +272,14 @@
    "position": 415,
    "rankingPositionChange": -1,
    "gloryPoint": 25987,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 414,
+   "rankingPositionChange": 1,
+   "gloryPoint": 25959,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

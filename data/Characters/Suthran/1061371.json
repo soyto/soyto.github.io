@@ -2,9 +2,9 @@
  "characterID": 1061371,
  "characterClassID": 16,
  "raceID": 1,
- "position": 143,
- "rankingPositionChange": -3,
- "gloryPoint": 79688,
+ "position": 142,
+ "rankingPositionChange": 1,
+ "gloryPoint": 79639,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ratatoun",
@@ -272,6 +272,14 @@
    "position": 143,
    "rankingPositionChange": -3,
    "gloryPoint": 79688,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 142,
+   "rankingPositionChange": 1,
+   "gloryPoint": 79639,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 1393274,
  "characterClassID": 11,
  "raceID": 0,
- "position": 914,
- "rankingPositionChange": -3,
- "gloryPoint": 5982,
+ "position": 911,
+ "rankingPositionChange": 3,
+ "gloryPoint": 5975,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ardeviso",
@@ -270,6 +270,14 @@
    "position": 914,
    "rankingPositionChange": -3,
    "gloryPoint": 5982,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 911,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5975,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

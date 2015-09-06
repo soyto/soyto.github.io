@@ -2,10 +2,10 @@
  "characterID": 244812,
  "characterClassID": 16,
  "raceID": 1,
- "position": 501,
- "rankingPositionChange": 3,
- "gloryPoint": 12637,
- "gloryPointChange": 287,
+ "position": 502,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12693,
+ "gloryPointChange": 56,
  "soldierRankID": 11,
  "characterName": "Pomponellecasse",
  "guildName": "R I P",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 12637,
    "gloryPointChange": 287,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 502,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12693,
+   "gloryPointChange": 56,
    "soldierRankID": 11
   }
  ],

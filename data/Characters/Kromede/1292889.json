@@ -2,9 +2,9 @@
  "characterID": 1292889,
  "characterClassID": 14,
  "raceID": 1,
- "position": 860,
- "rankingPositionChange": 1,
- "gloryPoint": 3812,
+ "position": 864,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3805,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vulcasio",
@@ -128,6 +128,14 @@
    "position": 860,
    "rankingPositionChange": 1,
    "gloryPoint": 3812,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 864,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3805,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

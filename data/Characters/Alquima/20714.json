@@ -2,9 +2,9 @@
  "characterID": 20714,
  "characterClassID": 8,
  "raceID": 0,
- "position": 758,
- "rankingPositionChange": 1,
- "gloryPoint": 15395,
+ "position": 759,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15388,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vuns",
@@ -272,6 +272,14 @@
    "position": 758,
    "rankingPositionChange": 1,
    "gloryPoint": 15395,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 759,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15388,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 380780,
  "characterClassID": 7,
  "raceID": 0,
- "position": 917,
- "rankingPositionChange": 0,
- "gloryPoint": 5318,
+ "position": 920,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5311,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Frozentime",
@@ -200,6 +200,14 @@
    "position": 917,
    "rankingPositionChange": 0,
    "gloryPoint": 5318,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 920,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5311,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

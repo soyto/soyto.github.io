@@ -2,9 +2,9 @@
  "characterID": 396981,
  "characterClassID": 4,
  "raceID": 1,
- "position": 380,
- "rankingPositionChange": 3,
- "gloryPoint": 15753,
+ "position": 381,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15725,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Silenthit",
@@ -270,6 +270,14 @@
    "position": 380,
    "rankingPositionChange": 3,
    "gloryPoint": 15753,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 381,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15725,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

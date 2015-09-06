@@ -2,10 +2,10 @@
  "characterID": 213499,
  "characterClassID": 10,
  "raceID": 1,
- "position": 561,
- "rankingPositionChange": 65,
- "gloryPoint": 1509,
- "gloryPointChange": 166,
+ "position": 560,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1495,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kele",
  "guildName": "I come in Peace you go in Pieces",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 65,
    "gloryPoint": 1509,
    "gloryPointChange": 166,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 560,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1495,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

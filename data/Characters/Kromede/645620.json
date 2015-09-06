@@ -2,9 +2,9 @@
  "characterID": 645620,
  "characterClassID": 1,
  "raceID": 1,
- "position": 931,
- "rankingPositionChange": 4,
- "gloryPoint": 3234,
+ "position": 935,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3227,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Niiiiklas",
@@ -64,6 +64,14 @@
    "position": 931,
    "rankingPositionChange": 4,
    "gloryPoint": 3234,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 935,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3227,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

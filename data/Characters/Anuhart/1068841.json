@@ -2,9 +2,9 @@
  "characterID": 1068841,
  "characterClassID": 16,
  "raceID": 1,
- "position": 813,
- "rankingPositionChange": 1,
- "gloryPoint": 2828,
+ "position": 816,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2821,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Beautifulrose",
@@ -272,6 +272,14 @@
    "position": 813,
    "rankingPositionChange": 1,
    "gloryPoint": 2828,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 816,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2821,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

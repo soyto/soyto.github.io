@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 70,
- "rankingPositionChange": 1,
- "gloryPoint": 108090,
- "gloryPointChange": 558,
+ "rankingPositionChange": 0,
+ "gloryPoint": 107983,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Muqqi",
  "guildName": "white widow",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 108090,
    "gloryPointChange": 558,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 70,
+   "rankingPositionChange": 0,
+   "gloryPoint": 107983,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

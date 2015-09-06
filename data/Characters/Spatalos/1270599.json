@@ -2,10 +2,10 @@
  "characterID": 1270599,
  "characterClassID": 14,
  "raceID": 0,
- "position": 236,
- "rankingPositionChange": -2,
- "gloryPoint": 64160,
- "gloryPointChange": 60,
+ "position": 235,
+ "rankingPositionChange": 1,
+ "gloryPoint": 64235,
+ "gloryPointChange": 75,
  "soldierRankID": 13,
  "characterName": "Enngineer",
  "guildName": "Our Army Comes From Deep Within",
@@ -265,6 +265,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 64160,
    "gloryPointChange": 60,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 235,
+   "rankingPositionChange": 1,
+   "gloryPoint": 64235,
+   "gloryPointChange": 75,
    "soldierRankID": 13
   }
  ],

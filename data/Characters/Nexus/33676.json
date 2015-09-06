@@ -2,10 +2,10 @@
  "characterID": 33676,
  "characterClassID": 8,
  "raceID": 1,
- "position": 278,
- "rankingPositionChange": 0,
- "gloryPoint": 61760,
- "gloryPointChange": 151,
+ "position": 279,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61714,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Younami",
  "guildName": " im too tiny to be your target ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 61760,
    "gloryPointChange": 151,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 279,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61714,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 554277,
  "characterClassID": 10,
  "raceID": 1,
- "position": 216,
- "rankingPositionChange": 2,
- "gloryPoint": 42235,
- "gloryPointChange": 613,
+ "position": 218,
+ "rankingPositionChange": -2,
+ "gloryPoint": 42343,
+ "gloryPointChange": 108,
  "soldierRankID": 13,
  "characterName": "Applebees",
  "guildName": "Mc Donalds",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 42235,
    "gloryPointChange": 613,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 218,
+   "rankingPositionChange": -2,
+   "gloryPoint": 42343,
+   "gloryPointChange": 108,
    "soldierRankID": 13
   }
  ],

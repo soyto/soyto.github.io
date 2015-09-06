@@ -2,9 +2,9 @@
  "characterID": 49838,
  "characterClassID": 1,
  "raceID": 1,
- "position": 384,
- "rankingPositionChange": 1,
- "gloryPoint": 16075,
+ "position": 385,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16047,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kahyam",
@@ -270,6 +270,14 @@
    "position": 384,
    "rankingPositionChange": 1,
    "gloryPoint": 16075,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 385,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16047,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

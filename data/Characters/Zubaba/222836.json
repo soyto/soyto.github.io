@@ -2,9 +2,9 @@
  "characterID": 222836,
  "characterClassID": 11,
  "raceID": 1,
- "position": 957,
- "rankingPositionChange": 1,
- "gloryPoint": 1252,
+ "position": 965,
+ "rankingPositionChange": -8,
+ "gloryPoint": 1245,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Happydoctor",
@@ -272,6 +272,14 @@
    "position": 957,
    "rankingPositionChange": 1,
    "gloryPoint": 1252,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 965,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1245,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

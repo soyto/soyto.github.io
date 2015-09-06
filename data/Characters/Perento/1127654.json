@@ -3,9 +3,9 @@
  "characterClassID": 16,
  "raceID": 1,
  "position": 207,
- "rankingPositionChange": 1,
- "gloryPoint": 43354,
- "gloryPointChange": 103,
+ "rankingPositionChange": 0,
+ "gloryPoint": 43305,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Zaizai",
  "guildName": "The Others",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 43354,
    "gloryPointChange": 103,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 207,
+   "rankingPositionChange": 0,
+   "gloryPoint": 43305,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

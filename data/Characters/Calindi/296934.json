@@ -2,9 +2,9 @@
  "characterID": 296934,
  "characterClassID": 11,
  "raceID": 0,
- "position": 554,
- "rankingPositionChange": 2,
- "gloryPoint": 4380,
+ "position": 557,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4366,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Naruliiana",
@@ -192,6 +192,14 @@
    "position": 554,
    "rankingPositionChange": 2,
    "gloryPoint": 4380,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 557,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4366,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

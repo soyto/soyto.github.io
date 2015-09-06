@@ -2,10 +2,10 @@
  "characterID": 475385,
  "characterClassID": 1,
  "raceID": 1,
- "position": 839,
- "rankingPositionChange": 8,
- "gloryPoint": 14069,
- "gloryPointChange": 270,
+ "position": 840,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14072,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Aseria",
  "guildName": "WE HATE",
@@ -217,6 +217,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 14069,
    "gloryPointChange": 270,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14072,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

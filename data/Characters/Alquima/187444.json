@@ -2,10 +2,10 @@
  "characterID": 187444,
  "characterClassID": 7,
  "raceID": 1,
- "position": 56,
- "rankingPositionChange": 0,
- "gloryPoint": 107726,
- "gloryPointChange": -107,
+ "position": 57,
+ "rankingPositionChange": -1,
+ "gloryPoint": 107625,
+ "gloryPointChange": -101,
  "soldierRankID": 14,
  "characterName": "Bereniceeh",
  "guildName": "HYDRA",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 107726,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 57,
+   "rankingPositionChange": -1,
+   "gloryPoint": 107625,
+   "gloryPointChange": -101,
    "soldierRankID": 14
   }
  ],

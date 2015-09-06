@@ -2,9 +2,9 @@
  "characterID": 986141,
  "characterClassID": 10,
  "raceID": 0,
- "position": 285,
- "rankingPositionChange": 0,
- "gloryPoint": 58698,
+ "position": 287,
+ "rankingPositionChange": -2,
+ "gloryPoint": 58649,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Saname",
@@ -264,6 +264,14 @@
    "position": 285,
    "rankingPositionChange": 0,
    "gloryPoint": 58698,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 287,
+   "rankingPositionChange": -2,
+   "gloryPoint": 58649,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

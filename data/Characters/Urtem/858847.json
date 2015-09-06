@@ -2,9 +2,9 @@
  "characterID": 858847,
  "characterClassID": 11,
  "raceID": 0,
- "position": 938,
- "rankingPositionChange": 3,
- "gloryPoint": 14536,
+ "position": 939,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14529,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lokka",
@@ -270,6 +270,14 @@
    "position": 938,
    "rankingPositionChange": 3,
    "gloryPoint": 14536,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 939,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14529,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

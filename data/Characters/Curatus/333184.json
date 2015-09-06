@@ -2,10 +2,10 @@
  "characterID": 333184,
  "characterClassID": 4,
  "raceID": 1,
- "position": 625,
- "rankingPositionChange": 0,
- "gloryPoint": 8462,
- "gloryPointChange": -14,
+ "position": 631,
+ "rankingPositionChange": -6,
+ "gloryPoint": 8457,
+ "gloryPointChange": -5,
  "soldierRankID": 11,
  "characterName": "Spiritika",
  "guildName": "Infernal Requiem",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8462,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 631,
+   "rankingPositionChange": -6,
+   "gloryPoint": 8457,
+   "gloryPointChange": -5,
    "soldierRankID": 11
   }
  ],

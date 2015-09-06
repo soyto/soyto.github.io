@@ -2,9 +2,9 @@
  "characterID": 180274,
  "characterClassID": 10,
  "raceID": 1,
- "position": 862,
- "rankingPositionChange": 1,
- "gloryPoint": 3789,
+ "position": 868,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3782,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ladybastet",
@@ -272,6 +272,14 @@
    "position": 862,
    "rankingPositionChange": 1,
    "gloryPoint": 3789,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 868,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3782,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

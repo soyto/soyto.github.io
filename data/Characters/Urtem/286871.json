@@ -2,9 +2,9 @@
  "characterID": 286871,
  "characterClassID": 1,
  "raceID": 1,
- "position": 778,
- "rankingPositionChange": 1,
- "gloryPoint": 10191,
+ "position": 781,
+ "rankingPositionChange": -3,
+ "gloryPoint": 10184,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Spincity",
@@ -262,6 +262,14 @@
    "position": 778,
    "rankingPositionChange": 1,
    "gloryPoint": 10191,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10184,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

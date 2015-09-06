@@ -2,10 +2,10 @@
  "characterID": 949526,
  "characterClassID": 8,
  "raceID": 0,
- "position": 66,
- "rankingPositionChange": 2,
- "gloryPoint": 142449,
- "gloryPointChange": 675,
+ "position": 67,
+ "rankingPositionChange": -1,
+ "gloryPoint": 142432,
+ "gloryPointChange": -17,
  "soldierRankID": 14,
  "characterName": "Madlez",
  "guildName": "The Darkwind",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 142449,
    "gloryPointChange": 675,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 67,
+   "rankingPositionChange": -1,
+   "gloryPoint": 142432,
+   "gloryPointChange": -17,
    "soldierRankID": 14
   }
  ],

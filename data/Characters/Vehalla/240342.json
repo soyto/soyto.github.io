@@ -2,9 +2,9 @@
  "characterID": 240342,
  "characterClassID": 11,
  "raceID": 1,
- "position": 365,
- "rankingPositionChange": -1,
- "gloryPoint": 6203,
+ "position": 364,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6175,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Eatmyhotpant",
@@ -262,6 +262,14 @@
    "position": 365,
    "rankingPositionChange": -1,
    "gloryPoint": 6203,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6175,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

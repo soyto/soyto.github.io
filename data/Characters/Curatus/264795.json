@@ -2,14 +2,14 @@
  "characterID": 264795,
  "characterClassID": 2,
  "raceID": 1,
- "position": 544,
- "rankingPositionChange": 4,
- "gloryPoint": 10897,
- "gloryPointChange": 261,
+ "position": 546,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10932,
+ "gloryPointChange": 35,
  "soldierRankID": 11,
  "characterName": "Heronight",
- "guildName": "Silent Majority",
- "guildID": 5836,
+ "guildName": "  TOP  ",
+ "guildID": 2521,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 10897,
    "gloryPointChange": 261,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 546,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10932,
+   "gloryPointChange": 35,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Silent Majority",
    "guildID": 5836
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "  TOP  ",
+   "guildID": 2521
   }
  ]
 }

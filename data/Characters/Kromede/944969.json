@@ -2,9 +2,9 @@
  "characterID": 944969,
  "characterClassID": 14,
  "raceID": 0,
- "position": 531,
- "rankingPositionChange": 0,
- "gloryPoint": 21785,
+ "position": 532,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21771,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Henleys",
@@ -272,6 +272,14 @@
    "position": 531,
    "rankingPositionChange": 0,
    "gloryPoint": 21785,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 532,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21771,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 916198,
  "characterClassID": 14,
  "raceID": 1,
- "position": 902,
- "rankingPositionChange": 4,
- "gloryPoint": 2052,
+ "position": 908,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2045,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Siqn",
@@ -270,6 +270,14 @@
    "position": 902,
    "rankingPositionChange": 4,
    "gloryPoint": 2052,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 908,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2045,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 132981,
  "characterClassID": 1,
  "raceID": 1,
- "position": 751,
- "rankingPositionChange": 2,
- "gloryPoint": 3199,
+ "position": 753,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3192,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Derko",
@@ -224,6 +224,14 @@
    "position": 751,
    "rankingPositionChange": 2,
    "gloryPoint": 3199,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 753,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3192,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

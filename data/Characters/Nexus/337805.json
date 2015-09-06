@@ -2,9 +2,9 @@
  "characterID": 337805,
  "characterClassID": 10,
  "raceID": 0,
- "position": 90,
- "rankingPositionChange": 0,
- "gloryPoint": 98787,
+ "position": 92,
+ "rankingPositionChange": -2,
+ "gloryPoint": 98680,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Goldinoo",
@@ -272,6 +272,14 @@
    "position": 90,
    "rankingPositionChange": 0,
    "gloryPoint": 98787,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": -2,
+   "gloryPoint": 98680,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

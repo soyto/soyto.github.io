@@ -2,9 +2,9 @@
  "characterID": 1107836,
  "characterClassID": 14,
  "raceID": 0,
- "position": 25,
- "rankingPositionChange": 0,
- "gloryPoint": 243069,
+ "position": 26,
+ "rankingPositionChange": -1,
+ "gloryPoint": 242950,
  "gloryPointChange": -119,
  "soldierRankID": 15,
  "characterName": "Sexpistolls",
@@ -272,6 +272,14 @@
    "position": 25,
    "rankingPositionChange": 0,
    "gloryPoint": 243069,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 26,
+   "rankingPositionChange": -1,
+   "gloryPoint": 242950,
    "gloryPointChange": -119,
    "soldierRankID": 15
   }

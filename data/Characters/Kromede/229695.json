@@ -2,9 +2,9 @@
  "characterID": 229695,
  "characterClassID": 2,
  "raceID": 0,
- "position": 221,
- "rankingPositionChange": 0,
- "gloryPoint": 58440,
+ "position": 222,
+ "rankingPositionChange": -1,
+ "gloryPoint": 58391,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hariasa",
@@ -272,6 +272,14 @@
    "position": 221,
    "rankingPositionChange": 0,
    "gloryPoint": 58440,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -1,
+   "gloryPoint": 58391,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 982151,
  "characterClassID": 16,
  "raceID": 1,
- "position": 428,
- "rankingPositionChange": 1,
- "gloryPoint": 3361,
+ "position": 429,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3333,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Yamakaia",
@@ -272,6 +272,14 @@
    "position": 428,
    "rankingPositionChange": 1,
    "gloryPoint": 3361,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 429,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3333,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

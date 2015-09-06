@@ -2,10 +2,10 @@
  "characterID": 1077244,
  "characterClassID": 16,
  "raceID": 1,
- "position": 636,
- "rankingPositionChange": 5,
- "gloryPoint": 1805,
- "gloryPointChange": 4,
+ "position": 642,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1794,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Amplitude",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 1805,
    "gloryPointChange": 4,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 642,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1794,
+   "gloryPointChange": -11,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 759245,
  "characterClassID": 7,
  "raceID": 0,
- "position": 32,
- "rankingPositionChange": 1,
- "gloryPoint": 217530,
+ "position": 33,
+ "rankingPositionChange": -1,
+ "gloryPoint": 217423,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Kioumy",
@@ -272,6 +272,14 @@
    "position": 32,
    "rankingPositionChange": 1,
    "gloryPoint": 217530,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 33,
+   "rankingPositionChange": -1,
+   "gloryPoint": 217423,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

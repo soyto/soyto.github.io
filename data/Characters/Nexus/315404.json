@@ -2,14 +2,14 @@
  "characterID": 315404,
  "characterClassID": 2,
  "raceID": 0,
- "position": 278,
+ "position": 277,
  "rankingPositionChange": 1,
- "gloryPoint": 39237,
- "gloryPointChange": 81,
+ "gloryPoint": 39401,
+ "gloryPointChange": 164,
  "soldierRankID": 13,
  "characterName": "Kosheen",
- "guildName": "Touch My Body",
- "guildID": 15985,
+ "guildName": "Demi Lovato Fanclub",
+ "guildID": 16510,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 39237,
    "gloryPointChange": 81,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 277,
+   "rankingPositionChange": 1,
+   "gloryPoint": 39401,
+   "gloryPointChange": 164,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -301,6 +309,11 @@
    "date": "2015-09-02T22:00:00.000Z",
    "guildName": "Touch My Body",
    "guildID": 15985
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Demi Lovato Fanclub",
+   "guildID": 16510
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 1004738,
  "characterClassID": 11,
  "raceID": 1,
- "position": 54,
- "rankingPositionChange": 0,
- "gloryPoint": 124487,
+ "position": 56,
+ "rankingPositionChange": -2,
+ "gloryPoint": 124380,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Bluesword",
@@ -272,6 +272,14 @@
    "position": 54,
    "rankingPositionChange": 0,
    "gloryPoint": 124487,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 56,
+   "rankingPositionChange": -2,
+   "gloryPoint": 124380,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

@@ -2,9 +2,9 @@
  "characterID": 124780,
  "characterClassID": 5,
  "raceID": 1,
- "position": 443,
- "rankingPositionChange": 0,
- "gloryPoint": 33862,
+ "position": 446,
+ "rankingPositionChange": -3,
+ "gloryPoint": 33834,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kickshock",
@@ -238,6 +238,14 @@
    "position": 443,
    "rankingPositionChange": 0,
    "gloryPoint": 33862,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 446,
+   "rankingPositionChange": -3,
+   "gloryPoint": 33834,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

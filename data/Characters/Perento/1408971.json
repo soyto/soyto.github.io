@@ -2,9 +2,9 @@
  "characterID": 1408971,
  "characterClassID": 14,
  "raceID": 1,
- "position": 261,
- "rankingPositionChange": 0,
- "gloryPoint": 30660,
+ "position": 263,
+ "rankingPositionChange": -2,
+ "gloryPoint": 30611,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Arrowana",
@@ -272,6 +272,14 @@
    "position": 261,
    "rankingPositionChange": 0,
    "gloryPoint": 30660,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 263,
+   "rankingPositionChange": -2,
+   "gloryPoint": 30611,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

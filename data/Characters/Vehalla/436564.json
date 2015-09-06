@@ -2,10 +2,10 @@
  "characterID": 436564,
  "characterClassID": 1,
  "raceID": 0,
- "position": 716,
- "rankingPositionChange": 0,
- "gloryPoint": 1255,
- "gloryPointChange": 0,
+ "position": 729,
+ "rankingPositionChange": -13,
+ "gloryPoint": 1244,
+ "gloryPointChange": -11,
  "soldierRankID": 10,
  "characterName": "Fraduim",
  "status": [
@@ -103,6 +103,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 1255,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 729,
+   "rankingPositionChange": -13,
+   "gloryPoint": 1244,
+   "gloryPointChange": -11,
    "soldierRankID": 10
   }
  ],

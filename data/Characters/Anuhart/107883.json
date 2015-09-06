@@ -2,9 +2,9 @@
  "characterID": 107883,
  "characterClassID": 2,
  "raceID": 1,
- "position": 840,
- "rankingPositionChange": 3,
- "gloryPoint": 2492,
+ "position": 846,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2485,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pizdik",
@@ -270,6 +270,14 @@
    "position": 840,
    "rankingPositionChange": 3,
    "gloryPoint": 2492,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2485,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

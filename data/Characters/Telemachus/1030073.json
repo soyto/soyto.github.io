@@ -2,10 +2,10 @@
  "characterID": 1030073,
  "characterClassID": 10,
  "raceID": 0,
- "position": 208,
- "rankingPositionChange": 1,
- "gloryPoint": 70471,
- "gloryPointChange": 451,
+ "position": 209,
+ "rankingPositionChange": -1,
+ "gloryPoint": 70572,
+ "gloryPointChange": 101,
  "soldierRankID": 13,
  "characterName": "Byo",
  "guildName": "Inspirit",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 70471,
    "gloryPointChange": 451,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 209,
+   "rankingPositionChange": -1,
+   "gloryPoint": 70572,
+   "gloryPointChange": 101,
    "soldierRankID": 13
   }
  ],

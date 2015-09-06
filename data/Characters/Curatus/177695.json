@@ -2,10 +2,10 @@
  "characterID": 177695,
  "characterClassID": 13,
  "raceID": 1,
- "position": 358,
- "rankingPositionChange": 1,
- "gloryPoint": 19845,
- "gloryPointChange": 251,
+ "position": 361,
+ "rankingPositionChange": -3,
+ "gloryPoint": 19817,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Huulk",
  "guildName": "Prepotenti",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 19845,
    "gloryPointChange": 251,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 361,
+   "rankingPositionChange": -3,
+   "gloryPoint": 19817,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -3,8 +3,8 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 990,
- "rankingPositionChange": -5,
- "gloryPoint": 3017,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3010,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sylthaer",
@@ -272,6 +272,14 @@
    "position": 990,
    "rankingPositionChange": -5,
    "gloryPoint": 3017,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3010,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 228710,
  "characterClassID": 5,
  "raceID": 0,
- "position": 479,
- "rankingPositionChange": 1,
- "gloryPoint": 5858,
+ "position": 480,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5830,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ayashinata",
@@ -272,6 +272,14 @@
    "position": 479,
    "rankingPositionChange": 1,
    "gloryPoint": 5858,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 480,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5830,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

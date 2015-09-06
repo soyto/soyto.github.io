@@ -2,10 +2,10 @@
  "characterID": 150351,
  "characterClassID": 4,
  "raceID": 1,
- "position": 779,
- "rankingPositionChange": 7,
- "gloryPoint": 4588,
- "gloryPointChange": 63,
+ "position": 781,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4581,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Anukar",
  "status": [
@@ -191,6 +191,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 4588,
    "gloryPointChange": 63,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4581,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 910642,
  "characterClassID": 7,
  "raceID": 0,
- "position": 280,
- "rankingPositionChange": 2,
- "gloryPoint": 36212,
- "gloryPointChange": 401,
+ "position": 282,
+ "rankingPositionChange": -2,
+ "gloryPoint": 36169,
+ "gloryPointChange": -43,
  "soldierRankID": 13,
  "characterName": "Garija",
  "guildName": "Secretive",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 36212,
    "gloryPointChange": 401,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 282,
+   "rankingPositionChange": -2,
+   "gloryPoint": 36169,
+   "gloryPointChange": -43,
    "soldierRankID": 13
   }
  ],

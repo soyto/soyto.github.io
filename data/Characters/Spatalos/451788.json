@@ -2,9 +2,9 @@
  "characterID": 451788,
  "characterClassID": 11,
  "raceID": 0,
- "position": 384,
- "rankingPositionChange": -1,
- "gloryPoint": 35512,
+ "position": 383,
+ "rankingPositionChange": 1,
+ "gloryPoint": 35484,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Chki",
@@ -264,6 +264,14 @@
    "position": 384,
    "rankingPositionChange": -1,
    "gloryPoint": 35512,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 383,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35484,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

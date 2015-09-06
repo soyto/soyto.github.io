@@ -2,9 +2,9 @@
  "characterID": 490537,
  "characterClassID": 11,
  "raceID": 1,
- "position": 464,
- "rankingPositionChange": 2,
- "gloryPoint": 10468,
+ "position": 468,
+ "rankingPositionChange": -4,
+ "gloryPoint": 10440,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Rella",
@@ -126,6 +126,14 @@
    "position": 464,
    "rankingPositionChange": 2,
    "gloryPoint": 10468,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 468,
+   "rankingPositionChange": -4,
+   "gloryPoint": 10440,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

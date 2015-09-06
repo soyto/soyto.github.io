@@ -2,9 +2,9 @@
  "characterID": 18448,
  "characterClassID": 10,
  "raceID": 1,
- "position": 89,
- "rankingPositionChange": 0,
- "gloryPoint": 99791,
+ "position": 90,
+ "rankingPositionChange": -1,
+ "gloryPoint": 99684,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Syck",
@@ -272,6 +272,14 @@
    "position": 89,
    "rankingPositionChange": 0,
    "gloryPoint": 99791,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 90,
+   "rankingPositionChange": -1,
+   "gloryPoint": 99684,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

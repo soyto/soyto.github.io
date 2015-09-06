@@ -2,10 +2,10 @@
  "characterID": 403830,
  "characterClassID": 11,
  "raceID": 1,
- "position": 878,
- "rankingPositionChange": 24,
- "gloryPoint": 3663,
- "gloryPointChange": 196,
+ "position": 882,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3662,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Manyfaces",
  "guildName": "Superior",
@@ -49,6 +49,14 @@
    "rankingPositionChange": 24,
    "gloryPoint": 3663,
    "gloryPointChange": 196,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3662,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

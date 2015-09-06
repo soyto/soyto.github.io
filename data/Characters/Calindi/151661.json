@@ -2,9 +2,9 @@
  "characterID": 151661,
  "characterClassID": 10,
  "raceID": 1,
- "position": 124,
- "rankingPositionChange": 0,
- "gloryPoint": 12353,
+ "position": 126,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12304,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Siliconne",
@@ -80,6 +80,14 @@
    "position": 124,
    "rankingPositionChange": 0,
    "gloryPoint": 12353,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 126,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12304,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

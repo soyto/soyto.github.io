@@ -2,10 +2,10 @@
  "characterID": 1377710,
  "characterClassID": 14,
  "raceID": 1,
- "position": 468,
- "rankingPositionChange": -1,
- "gloryPoint": 20610,
- "gloryPointChange": -28,
+ "position": 466,
+ "rankingPositionChange": 2,
+ "gloryPoint": 20742,
+ "gloryPointChange": 132,
  "soldierRankID": 12,
  "characterName": "Frith",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 20610,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 466,
+   "rankingPositionChange": 2,
+   "gloryPoint": 20742,
+   "gloryPointChange": 132,
    "soldierRankID": 12
   }
  ],

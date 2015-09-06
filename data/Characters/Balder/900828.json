@@ -2,10 +2,10 @@
  "characterID": 900828,
  "characterClassID": 13,
  "raceID": 0,
- "position": 838,
- "rankingPositionChange": -3,
- "gloryPoint": 2361,
- "gloryPointChange": -140,
+ "position": 835,
+ "rankingPositionChange": 3,
+ "gloryPoint": 2354,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Taliy",
  "status": [
@@ -119,6 +119,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 2361,
    "gloryPointChange": -140,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 835,
+   "rankingPositionChange": 3,
+   "gloryPoint": 2354,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

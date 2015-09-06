@@ -2,9 +2,9 @@
  "characterID": 1145113,
  "characterClassID": 10,
  "raceID": 0,
- "position": 915,
- "rankingPositionChange": -8,
- "gloryPoint": 4965,
+ "position": 914,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4958,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Etthan",
@@ -128,6 +128,14 @@
    "position": 915,
    "rankingPositionChange": -8,
    "gloryPoint": 4965,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 914,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4958,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

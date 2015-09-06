@@ -2,9 +2,9 @@
  "characterID": 260754,
  "characterClassID": 5,
  "raceID": 1,
- "position": 709,
- "rankingPositionChange": 1,
- "gloryPoint": 3603,
+ "position": 711,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3596,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Meiosa",
@@ -272,6 +272,14 @@
    "position": 709,
    "rankingPositionChange": 1,
    "gloryPoint": 3603,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3596,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

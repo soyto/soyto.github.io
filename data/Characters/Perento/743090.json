@@ -3,8 +3,8 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 443,
- "rankingPositionChange": -1,
- "gloryPoint": 11205,
+ "rankingPositionChange": 0,
+ "gloryPoint": 11177,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Dunkler",
@@ -270,6 +270,14 @@
    "position": 443,
    "rankingPositionChange": -1,
    "gloryPoint": 11205,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 443,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11177,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 899355,
  "characterClassID": 13,
  "raceID": 0,
- "position": 225,
- "rankingPositionChange": 0,
- "gloryPoint": 34474,
- "gloryPointChange": 87,
+ "position": 224,
+ "rankingPositionChange": 1,
+ "gloryPoint": 34425,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Robolenzen",
  "guildName": "CapsuleCorporation",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 34474,
    "gloryPointChange": 87,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 224,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34425,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

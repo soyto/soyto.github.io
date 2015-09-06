@@ -2,9 +2,9 @@
  "characterID": 1057016,
  "characterClassID": 14,
  "raceID": 1,
- "position": 442,
- "rankingPositionChange": 0,
- "gloryPoint": 10047,
+ "position": 443,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10019,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tridion",
@@ -264,6 +264,14 @@
    "position": 442,
    "rankingPositionChange": 0,
    "gloryPoint": 10047,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 443,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10019,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

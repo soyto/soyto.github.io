@@ -2,10 +2,10 @@
  "characterID": 60087,
  "characterClassID": 14,
  "raceID": 0,
- "position": 223,
+ "position": 222,
  "rankingPositionChange": 1,
- "gloryPoint": 62348,
- "gloryPointChange": 516,
+ "gloryPoint": 62314,
+ "gloryPointChange": -34,
  "soldierRankID": 13,
  "characterName": "Sinnar",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 62348,
    "gloryPointChange": 516,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": 1,
+   "gloryPoint": 62314,
+   "gloryPointChange": -34,
    "soldierRankID": 13
   }
  ],

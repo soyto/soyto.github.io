@@ -2,10 +2,10 @@
  "characterID": 78489,
  "characterClassID": 11,
  "raceID": 1,
- "position": 208,
- "rankingPositionChange": 4,
- "gloryPoint": 41876,
- "gloryPointChange": 537,
+ "position": 211,
+ "rankingPositionChange": -3,
+ "gloryPoint": 41827,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pea",
  "guildName": "V for Vendetta",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 41876,
    "gloryPointChange": 537,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 211,
+   "rankingPositionChange": -3,
+   "gloryPoint": 41827,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

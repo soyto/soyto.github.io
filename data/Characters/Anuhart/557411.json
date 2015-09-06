@@ -2,10 +2,10 @@
  "characterID": 557411,
  "characterClassID": 8,
  "raceID": 0,
- "position": 506,
- "rankingPositionChange": 0,
- "gloryPoint": 14006,
- "gloryPointChange": 108,
+ "position": 508,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14012,
+ "gloryPointChange": 6,
  "soldierRankID": 11,
  "characterName": "Giapanta",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 14006,
    "gloryPointChange": 108,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14012,
+   "gloryPointChange": 6,
    "soldierRankID": 11
   }
  ],

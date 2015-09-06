@@ -2,10 +2,10 @@
  "characterID": 238314,
  "characterClassID": 11,
  "raceID": 1,
- "position": 482,
- "rankingPositionChange": 0,
- "gloryPoint": 9790,
- "gloryPointChange": -13,
+ "position": 483,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9769,
+ "gloryPointChange": -21,
  "soldierRankID": 12,
  "characterName": "Noobies",
  "guildName": "Bosphorus",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 9790,
    "gloryPointChange": -13,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 483,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9769,
+   "gloryPointChange": -21,
    "soldierRankID": 12
   }
  ],

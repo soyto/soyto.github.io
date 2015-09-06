@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 76,
- "rankingPositionChange": -1,
- "gloryPoint": 96030,
- "gloryPointChange": 99,
+ "rankingPositionChange": 0,
+ "gloryPoint": 95985,
+ "gloryPointChange": -45,
  "soldierRankID": 14,
  "characterName": "Pokomuki",
  "guildName": "Fluffy Unicorns",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 96030,
    "gloryPointChange": 99,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 76,
+   "rankingPositionChange": 0,
+   "gloryPoint": 95985,
+   "gloryPointChange": -45,
    "soldierRankID": 14
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 1178120,
  "characterClassID": 11,
  "raceID": 1,
- "position": 403,
- "rankingPositionChange": 2,
- "gloryPoint": 13638,
+ "position": 406,
+ "rankingPositionChange": -3,
+ "gloryPoint": 13610,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sunofureku",
+ "guildName": "Holysinners",
+ "guildID": 5921,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 13638,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 406,
+   "rankingPositionChange": -3,
+   "gloryPoint": 13610,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Holysinners",
+   "guildID": 5921
   }
  ]
 }

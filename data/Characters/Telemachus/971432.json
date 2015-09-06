@@ -2,10 +2,10 @@
  "characterID": 971432,
  "characterClassID": 2,
  "raceID": 1,
- "position": 239,
- "rankingPositionChange": 0,
- "gloryPoint": 18412,
- "gloryPointChange": 1,
+ "position": 241,
+ "rankingPositionChange": -2,
+ "gloryPoint": 18363,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ryudaken",
  "guildName": "The Legion of Friends",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 18412,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 241,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18363,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

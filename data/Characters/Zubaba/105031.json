@@ -2,9 +2,9 @@
  "characterID": 105031,
  "characterClassID": 16,
  "raceID": 1,
- "position": 827,
- "rankingPositionChange": 2,
- "gloryPoint": 2165,
+ "position": 830,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2158,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Agromania",
@@ -248,6 +248,14 @@
    "position": 827,
    "rankingPositionChange": 2,
    "gloryPoint": 2165,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 830,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2158,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

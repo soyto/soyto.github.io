@@ -2,10 +2,10 @@
  "characterID": 259690,
  "characterClassID": 4,
  "raceID": 1,
- "position": 485,
- "rankingPositionChange": 2,
- "gloryPoint": 9754,
- "gloryPointChange": 75,
+ "position": 486,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9726,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tesir",
  "guildName": "Nizam I Cedid",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 9754,
    "gloryPointChange": 75,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 486,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9726,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

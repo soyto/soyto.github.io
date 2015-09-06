@@ -2,9 +2,9 @@
  "characterID": 902695,
  "characterClassID": 14,
  "raceID": 1,
- "position": 222,
- "rankingPositionChange": 3,
- "gloryPoint": 43005,
+ "position": 223,
+ "rankingPositionChange": -1,
+ "gloryPoint": 42956,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Cicamaca",
@@ -246,6 +246,14 @@
    "position": 222,
    "rankingPositionChange": 3,
    "gloryPoint": 43005,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 223,
+   "rankingPositionChange": -1,
+   "gloryPoint": 42956,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

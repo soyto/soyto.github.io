@@ -2,9 +2,9 @@
  "characterID": 627371,
  "characterClassID": 10,
  "raceID": 0,
- "position": 561,
- "rankingPositionChange": -1,
- "gloryPoint": 24876,
+ "position": 560,
+ "rankingPositionChange": 1,
+ "gloryPoint": 24862,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Rannva",
@@ -272,6 +272,14 @@
    "position": 561,
    "rankingPositionChange": -1,
    "gloryPoint": 24876,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 560,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24862,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

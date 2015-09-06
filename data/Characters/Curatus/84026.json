@@ -2,9 +2,9 @@
  "characterID": 84026,
  "characterClassID": 14,
  "raceID": 0,
- "position": 668,
- "rankingPositionChange": 0,
- "gloryPoint": 18570,
+ "position": 672,
+ "rankingPositionChange": -4,
+ "gloryPoint": 18556,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Greenhat",
@@ -182,6 +182,14 @@
    "position": 668,
    "rankingPositionChange": 0,
    "gloryPoint": 18570,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 672,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18556,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

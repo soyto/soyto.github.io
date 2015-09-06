@@ -2,10 +2,10 @@
  "characterID": 207480,
  "characterClassID": 5,
  "raceID": 1,
- "position": 373,
- "rankingPositionChange": 1,
- "gloryPoint": 16907,
- "gloryPointChange": 72,
+ "position": 374,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16889,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Stormxante",
  "guildName": "NeFeS",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 16907,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 374,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16889,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

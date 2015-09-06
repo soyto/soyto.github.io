@@ -3,8 +3,8 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 371,
- "rankingPositionChange": 1,
- "gloryPoint": 5793,
+ "rankingPositionChange": 0,
+ "gloryPoint": 5765,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Maerlyn",
@@ -240,6 +240,14 @@
    "position": 371,
    "rankingPositionChange": 1,
    "gloryPoint": 5793,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 371,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5765,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

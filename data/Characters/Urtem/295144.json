@@ -2,10 +2,10 @@
  "characterID": 295144,
  "characterClassID": 11,
  "raceID": 0,
- "position": 25,
- "rankingPositionChange": 1,
- "gloryPoint": 237348,
- "gloryPointChange": 706,
+ "position": 27,
+ "rankingPositionChange": -2,
+ "gloryPoint": 237754,
+ "gloryPointChange": 406,
  "soldierRankID": 15,
  "characterName": "Haerys",
  "guildName": "Apocalypsia",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 237348,
    "gloryPointChange": 706,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 27,
+   "rankingPositionChange": -2,
+   "gloryPoint": 237754,
+   "gloryPointChange": 406,
    "soldierRankID": 15
   }
  ],

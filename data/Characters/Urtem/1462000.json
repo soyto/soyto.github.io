@@ -2,9 +2,9 @@
  "characterID": 1462000,
  "characterClassID": 13,
  "raceID": 1,
- "position": 609,
- "rankingPositionChange": 1,
- "gloryPoint": 14004,
+ "position": 610,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13990,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Okimim",
@@ -272,6 +272,14 @@
    "position": 609,
    "rankingPositionChange": 1,
    "gloryPoint": 14004,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 610,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13990,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

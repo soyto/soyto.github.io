@@ -2,10 +2,10 @@
  "characterID": 1106256,
  "characterClassID": 14,
  "raceID": 1,
- "position": 522,
- "rankingPositionChange": 0,
- "gloryPoint": 7438,
- "gloryPointChange": -14,
+ "position": 523,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7592,
+ "gloryPointChange": 154,
  "soldierRankID": 11,
  "characterName": "Vsmr",
  "guildName": "The Others",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7438,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7592,
+   "gloryPointChange": 154,
    "soldierRankID": 11
   }
  ],

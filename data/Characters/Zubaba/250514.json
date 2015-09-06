@@ -2,9 +2,9 @@
  "characterID": 250514,
  "characterClassID": 2,
  "raceID": 1,
- "position": 909,
- "rankingPositionChange": 2,
- "gloryPoint": 1454,
+ "position": 913,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1447,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nemeless",
@@ -70,6 +70,14 @@
    "position": 909,
    "rankingPositionChange": 2,
    "gloryPoint": 1454,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 913,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1447,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

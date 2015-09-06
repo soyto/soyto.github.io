@@ -2,9 +2,9 @@
  "characterID": 480944,
  "characterClassID": 2,
  "raceID": 1,
- "position": 573,
- "rankingPositionChange": -2,
- "gloryPoint": 1464,
+ "position": 572,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1450,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Niaku",
@@ -272,6 +272,14 @@
    "position": 573,
    "rankingPositionChange": -2,
    "gloryPoint": 1464,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1450,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

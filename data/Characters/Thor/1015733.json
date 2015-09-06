@@ -2,10 +2,10 @@
  "characterID": 1015733,
  "characterClassID": 10,
  "raceID": 0,
- "position": 352,
- "rankingPositionChange": 3,
- "gloryPoint": 51789,
- "gloryPointChange": 182,
+ "position": 353,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51761,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Omgboy",
  "guildName": "ALBATROS",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 51789,
    "gloryPointChange": 182,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 353,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51761,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

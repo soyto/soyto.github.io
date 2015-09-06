@@ -2,9 +2,9 @@
  "characterID": 4891,
  "characterClassID": 10,
  "raceID": 1,
- "position": 850,
- "rankingPositionChange": 1,
- "gloryPoint": 7594,
+ "position": 852,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7587,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Andrea",
@@ -264,6 +264,14 @@
    "position": 850,
    "rankingPositionChange": 1,
    "gloryPoint": 7594,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7587,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

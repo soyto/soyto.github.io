@@ -2,10 +2,10 @@
  "characterID": 970029,
  "characterClassID": 11,
  "raceID": 1,
- "position": 181,
- "rankingPositionChange": 1,
- "gloryPoint": 77378,
- "gloryPointChange": 878,
+ "position": 182,
+ "rankingPositionChange": -1,
+ "gloryPoint": 77429,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Idunya",
  "guildName": "KaTet",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 77378,
    "gloryPointChange": 878,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 182,
+   "rankingPositionChange": -1,
+   "gloryPoint": 77429,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 428659,
  "characterClassID": 2,
  "raceID": 0,
- "position": 877,
- "rankingPositionChange": 16,
- "gloryPoint": 12141,
- "gloryPointChange": 256,
+ "position": 879,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12134,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Thempes",
  "guildName": "IronCross",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 16,
    "gloryPoint": 12141,
    "gloryPointChange": 256,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 879,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12134,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

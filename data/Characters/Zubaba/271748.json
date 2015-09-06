@@ -2,10 +2,10 @@
  "characterID": 271748,
  "characterClassID": 10,
  "raceID": 0,
- "position": 786,
- "rankingPositionChange": 6,
- "gloryPoint": 5639,
- "gloryPointChange": 43,
+ "position": 790,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5632,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Camellia",
  "guildName": "NO CRY",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 5639,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 790,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5632,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

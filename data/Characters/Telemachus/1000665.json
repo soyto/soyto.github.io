@@ -2,9 +2,9 @@
  "characterID": 1000665,
  "characterClassID": 16,
  "raceID": 0,
- "position": 92,
- "rankingPositionChange": 0,
- "gloryPoint": 158310,
+ "position": 93,
+ "rankingPositionChange": -1,
+ "gloryPoint": 158203,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Shigwen",
@@ -272,6 +272,14 @@
    "position": 92,
    "rankingPositionChange": 0,
    "gloryPoint": 158310,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": -1,
+   "gloryPoint": 158203,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

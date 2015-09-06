@@ -2,9 +2,9 @@
  "characterID": 470717,
  "characterClassID": 7,
  "raceID": 1,
- "position": 854,
- "rankingPositionChange": 0,
- "gloryPoint": 7539,
+ "position": 856,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7532,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ushuneke",
@@ -264,6 +264,14 @@
    "position": 854,
    "rankingPositionChange": 0,
    "gloryPoint": 7539,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 856,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7532,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 72315,
  "characterClassID": 2,
  "raceID": 1,
- "position": 143,
- "rankingPositionChange": 0,
- "gloryPoint": 64870,
+ "position": 144,
+ "rankingPositionChange": -1,
+ "gloryPoint": 64821,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Secretsoldier",
@@ -272,6 +272,14 @@
    "position": 143,
    "rankingPositionChange": 0,
    "gloryPoint": 64870,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": -1,
+   "gloryPoint": 64821,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 402904,
  "characterClassID": 11,
  "raceID": 0,
- "position": 359,
- "rankingPositionChange": -1,
- "gloryPoint": 33760,
+ "position": 357,
+ "rankingPositionChange": 2,
+ "gloryPoint": 33732,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Asmilax",
@@ -192,6 +192,14 @@
    "position": 359,
    "rankingPositionChange": -1,
    "gloryPoint": 33760,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 357,
+   "rankingPositionChange": 2,
+   "gloryPoint": 33732,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

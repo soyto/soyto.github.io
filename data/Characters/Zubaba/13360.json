@@ -2,11 +2,11 @@
  "characterID": 13360,
  "characterClassID": 7,
  "raceID": 1,
- "position": 100,
- "rankingPositionChange": 0,
- "gloryPoint": 92281,
- "gloryPointChange": 43,
- "soldierRankID": 14,
+ "position": 101,
+ "rankingPositionChange": -1,
+ "gloryPoint": 92174,
+ "gloryPointChange": -107,
+ "soldierRankID": 13,
  "characterName": "Harem",
  "guildName": "KIZIL ORDU",
  "guildID": 1010,
@@ -274,6 +274,14 @@
    "gloryPoint": 92281,
    "gloryPointChange": 43,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 101,
+   "rankingPositionChange": -1,
+   "gloryPoint": 92174,
+   "gloryPointChange": -107,
+   "soldierRankID": 13
   }
  ],
  "names": [

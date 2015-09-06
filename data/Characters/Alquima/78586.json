@@ -2,10 +2,10 @@
  "characterID": 78586,
  "characterClassID": 2,
  "raceID": 1,
- "position": 9,
- "rankingPositionChange": 0,
- "gloryPoint": 211625,
- "gloryPointChange": 342,
+ "position": 10,
+ "rankingPositionChange": -1,
+ "gloryPoint": 211756,
+ "gloryPointChange": 131,
  "soldierRankID": 16,
  "characterName": "Squalll",
  "guildName": "Nemesis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 211625,
    "gloryPointChange": 342,
+   "soldierRankID": 16
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 10,
+   "rankingPositionChange": -1,
+   "gloryPoint": 211756,
+   "gloryPointChange": 131,
    "soldierRankID": 16
   }
  ],

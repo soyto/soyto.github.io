@@ -2,10 +2,10 @@
  "characterID": 7615,
  "characterClassID": 10,
  "raceID": 0,
- "position": 209,
- "rankingPositionChange": -2,
- "gloryPoint": 64335,
- "gloryPointChange": 51,
+ "position": 208,
+ "rankingPositionChange": 1,
+ "gloryPoint": 64286,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Mahu",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 64335,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 208,
+   "rankingPositionChange": 1,
+   "gloryPoint": 64286,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

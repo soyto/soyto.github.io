@@ -2,9 +2,9 @@
  "characterID": 303028,
  "characterClassID": 10,
  "raceID": 0,
- "position": 419,
- "rankingPositionChange": -1,
- "gloryPoint": 11106,
+ "position": 415,
+ "rankingPositionChange": 4,
+ "gloryPoint": 11078,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Klerinette",
@@ -272,6 +272,14 @@
    "position": 419,
    "rankingPositionChange": -1,
    "gloryPoint": 11106,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 415,
+   "rankingPositionChange": 4,
+   "gloryPoint": 11078,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

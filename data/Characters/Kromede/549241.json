@@ -2,9 +2,9 @@
  "characterID": 549241,
  "characterClassID": 10,
  "raceID": 1,
- "position": 776,
- "rankingPositionChange": 2,
- "gloryPoint": 4621,
+ "position": 777,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4614,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Spinnenbein",
@@ -272,6 +272,14 @@
    "position": 776,
    "rankingPositionChange": 2,
    "gloryPoint": 4621,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 777,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4614,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

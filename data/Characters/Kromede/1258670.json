@@ -2,9 +2,9 @@
  "characterID": 1258670,
  "characterClassID": 4,
  "raceID": 1,
- "position": 863,
- "rankingPositionChange": 1,
- "gloryPoint": 3784,
+ "position": 869,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3777,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Envidion",
@@ -272,6 +272,14 @@
    "position": 863,
    "rankingPositionChange": 1,
    "gloryPoint": 3784,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 869,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3777,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

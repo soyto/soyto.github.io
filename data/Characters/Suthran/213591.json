@@ -2,10 +2,10 @@
  "characterID": 213591,
  "characterClassID": 1,
  "raceID": 1,
- "position": 570,
- "rankingPositionChange": 1,
- "gloryPoint": 12954,
- "gloryPointChange": -14,
+ "position": 571,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12950,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Hashmodae",
  "guildName": "Fallen",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12954,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 571,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12950,
+   "gloryPointChange": -4,
    "soldierRankID": 11
   }
  ],

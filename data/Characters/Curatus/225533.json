@@ -2,10 +2,10 @@
  "characterID": 225533,
  "characterClassID": 16,
  "raceID": 1,
- "position": 753,
- "rankingPositionChange": 22,
- "gloryPoint": 5956,
- "gloryPointChange": 318,
+ "position": 755,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5999,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Erunir",
  "guildName": "Silent Majority",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 22,
    "gloryPoint": 5956,
    "gloryPointChange": 318,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 755,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5999,
+   "gloryPointChange": 43,
    "soldierRankID": 10
   }
  ],

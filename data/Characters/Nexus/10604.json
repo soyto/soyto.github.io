@@ -2,9 +2,9 @@
  "characterID": 10604,
  "characterClassID": 4,
  "raceID": 1,
- "position": 247,
- "rankingPositionChange": 0,
- "gloryPoint": 67937,
+ "position": 248,
+ "rankingPositionChange": -1,
+ "gloryPoint": 67888,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rapidslash",
@@ -272,6 +272,14 @@
    "position": 247,
    "rankingPositionChange": 0,
    "gloryPoint": 67937,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 248,
+   "rankingPositionChange": -1,
+   "gloryPoint": 67888,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

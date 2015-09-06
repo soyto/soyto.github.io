@@ -2,9 +2,9 @@
  "characterID": 804601,
  "characterClassID": 7,
  "raceID": 1,
- "position": 290,
- "rankingPositionChange": 1,
- "gloryPoint": 11447,
+ "position": 291,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11398,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lillyrose",
@@ -22,6 +22,14 @@
    "position": 290,
    "rankingPositionChange": 1,
    "gloryPoint": 11447,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 291,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11398,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

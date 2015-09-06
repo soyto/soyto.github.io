@@ -2,9 +2,9 @@
  "characterID": 266039,
  "characterClassID": 14,
  "raceID": 1,
- "position": 766,
- "rankingPositionChange": 4,
- "gloryPoint": 2993,
+ "position": 769,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2986,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Noext",
@@ -272,6 +272,14 @@
    "position": 766,
    "rankingPositionChange": 4,
    "gloryPoint": 2993,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 769,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2986,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

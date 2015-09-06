@@ -2,12 +2,12 @@
  "characterID": 956991,
  "characterClassID": 4,
  "raceID": 1,
- "position": 59,
- "rankingPositionChange": 0,
- "gloryPoint": 168215,
- "gloryPointChange": 3,
+ "position": 60,
+ "rankingPositionChange": -1,
+ "gloryPoint": 168361,
+ "gloryPointChange": 146,
  "soldierRankID": 14,
- "characterName": "Relacy",
+ "characterName": "Strolchmitdolch",
  "guildName": "QQ n eZ",
  "guildID": 45148,
  "status": [
@@ -274,12 +274,24 @@
    "gloryPoint": 168215,
    "gloryPointChange": 3,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 60,
+   "rankingPositionChange": -1,
+   "gloryPoint": 168361,
+   "gloryPointChange": 146,
+   "soldierRankID": 14
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Relacy"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Strolchmitdolch"
   }
  ],
  "guilds": [

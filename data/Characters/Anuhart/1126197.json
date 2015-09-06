@@ -2,9 +2,9 @@
  "characterID": 1126197,
  "characterClassID": 10,
  "raceID": 1,
- "position": 264,
- "rankingPositionChange": 2,
- "gloryPoint": 33051,
+ "position": 266,
+ "rankingPositionChange": -2,
+ "gloryPoint": 33002,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Goldengirll",
@@ -270,6 +270,14 @@
    "position": 264,
    "rankingPositionChange": 2,
    "gloryPoint": 33051,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 266,
+   "rankingPositionChange": -2,
+   "gloryPoint": 33002,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

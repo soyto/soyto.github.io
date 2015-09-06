@@ -2,9 +2,9 @@
  "characterID": 617063,
  "characterClassID": 2,
  "raceID": 0,
- "position": 515,
- "rankingPositionChange": 1,
- "gloryPoint": 16480,
+ "position": 516,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16466,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Putta",
@@ -264,6 +264,14 @@
    "position": 515,
    "rankingPositionChange": 1,
    "gloryPoint": 16480,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 516,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16466,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

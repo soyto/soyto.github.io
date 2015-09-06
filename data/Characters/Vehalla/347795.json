@@ -2,9 +2,9 @@
  "characterID": 347795,
  "characterClassID": 14,
  "raceID": 1,
- "position": 14,
- "rankingPositionChange": 0,
- "gloryPoint": 217170,
+ "position": 15,
+ "rankingPositionChange": -1,
+ "gloryPoint": 217051,
  "gloryPointChange": -119,
  "soldierRankID": 15,
  "characterName": "Merdarion",
@@ -264,6 +264,14 @@
    "position": 14,
    "rankingPositionChange": 0,
    "gloryPoint": 217170,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 15,
+   "rankingPositionChange": -1,
+   "gloryPoint": 217051,
    "gloryPointChange": -119,
    "soldierRankID": 15
   }

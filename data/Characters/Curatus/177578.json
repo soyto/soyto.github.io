@@ -2,9 +2,9 @@
  "characterID": 177578,
  "characterClassID": 10,
  "raceID": 0,
- "position": 797,
- "rankingPositionChange": 0,
- "gloryPoint": 13210,
+ "position": 799,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13203,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Thoolana",
@@ -272,6 +272,14 @@
    "position": 797,
    "rankingPositionChange": 0,
    "gloryPoint": 13210,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 799,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13203,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

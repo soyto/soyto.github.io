@@ -2,10 +2,10 @@
  "characterID": 1401810,
  "characterClassID": 16,
  "raceID": 1,
- "position": 893,
- "rankingPositionChange": 9,
- "gloryPoint": 1981,
- "gloryPointChange": 53,
+ "position": 894,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1980,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Eldiabloblanco",
  "guildName": "Black Souls",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 1981,
    "gloryPointChange": 53,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 894,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1980,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

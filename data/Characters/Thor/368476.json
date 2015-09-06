@@ -2,10 +2,10 @@
  "characterID": 368476,
  "characterClassID": 5,
  "raceID": 1,
- "position": 164,
- "rankingPositionChange": 1,
- "gloryPoint": 84706,
- "gloryPointChange": 21,
+ "position": 166,
+ "rankingPositionChange": -2,
+ "gloryPoint": 84740,
+ "gloryPointChange": 34,
  "soldierRankID": 13,
  "characterName": "Derocx",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 84706,
    "gloryPointChange": 21,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 166,
+   "rankingPositionChange": -2,
+   "gloryPoint": 84740,
+   "gloryPointChange": 34,
    "soldierRankID": 13
   }
  ],

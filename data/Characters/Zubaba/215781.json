@@ -2,10 +2,10 @@
  "characterID": 215781,
  "characterClassID": 16,
  "raceID": 0,
- "position": 227,
- "rankingPositionChange": 0,
- "gloryPoint": 49407,
- "gloryPointChange": 390,
+ "position": 228,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49358,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Neri",
  "guildName": "LETHAL",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 49407,
    "gloryPointChange": 390,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 228,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49358,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

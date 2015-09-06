@@ -2,10 +2,10 @@
  "characterID": 236951,
  "characterClassID": 16,
  "raceID": 1,
- "position": 570,
- "rankingPositionChange": 19,
- "gloryPoint": 6806,
- "gloryPointChange": 445,
+ "position": 572,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6792,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Fortunechau",
  "guildName": "G U A R D S",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 19,
    "gloryPoint": 6806,
    "gloryPointChange": 445,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6792,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

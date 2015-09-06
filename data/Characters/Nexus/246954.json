@@ -2,9 +2,9 @@
  "characterID": 246954,
  "characterClassID": 8,
  "raceID": 0,
- "position": 959,
- "rankingPositionChange": 4,
- "gloryPoint": 4773,
+ "position": 961,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4766,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wildbitch",
@@ -272,6 +272,14 @@
    "position": 959,
    "rankingPositionChange": 4,
    "gloryPoint": 4773,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4766,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1515623,
  "characterClassID": 2,
  "raceID": 1,
- "position": 419,
- "rankingPositionChange": 0,
- "gloryPoint": 23710,
+ "position": 420,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23682,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Heterzz",
@@ -270,6 +270,14 @@
    "position": 419,
    "rankingPositionChange": 0,
    "gloryPoint": 23710,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 420,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23682,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

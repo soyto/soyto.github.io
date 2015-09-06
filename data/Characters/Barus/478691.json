@@ -2,9 +2,9 @@
  "characterID": 478691,
  "characterClassID": 4,
  "raceID": 1,
- "position": 663,
- "rankingPositionChange": 1,
- "gloryPoint": 19497,
+ "position": 664,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19483,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Shann",
@@ -272,6 +272,14 @@
    "position": 663,
    "rankingPositionChange": 1,
    "gloryPoint": 19497,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 664,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19483,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

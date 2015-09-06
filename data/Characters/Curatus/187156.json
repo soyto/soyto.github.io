@@ -2,9 +2,9 @@
  "characterID": 187156,
  "characterClassID": 16,
  "raceID": 1,
- "position": 255,
- "rankingPositionChange": 1,
- "gloryPoint": 30893,
+ "position": 257,
+ "rankingPositionChange": -2,
+ "gloryPoint": 30844,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Starlyre",
@@ -272,6 +272,14 @@
    "position": 255,
    "rankingPositionChange": 1,
    "gloryPoint": 30893,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 257,
+   "rankingPositionChange": -2,
+   "gloryPoint": 30844,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 273276,
  "characterClassID": 4,
  "raceID": 1,
- "position": 391,
- "rankingPositionChange": 3,
- "gloryPoint": 4643,
+ "position": 392,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4615,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Dilmur",
@@ -272,6 +272,14 @@
    "position": 391,
    "rankingPositionChange": 3,
    "gloryPoint": 4643,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 392,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4615,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 735,
- "rankingPositionChange": 6,
- "gloryPoint": 3944,
- "gloryPointChange": 53,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3940,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Stincz",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 3944,
    "gloryPointChange": 53,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 735,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3940,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

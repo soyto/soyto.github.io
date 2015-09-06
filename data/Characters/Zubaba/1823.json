@@ -2,9 +2,9 @@
  "characterID": 1823,
  "characterClassID": 2,
  "raceID": 1,
- "position": 423,
- "rankingPositionChange": 1,
- "gloryPoint": 12719,
+ "position": 424,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12691,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Gudumsuz",
@@ -272,6 +272,14 @@
    "position": 423,
    "rankingPositionChange": 1,
    "gloryPoint": 12719,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 424,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12691,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

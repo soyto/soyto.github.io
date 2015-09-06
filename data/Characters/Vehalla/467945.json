@@ -2,9 +2,9 @@
  "characterID": 467945,
  "characterClassID": 1,
  "raceID": 1,
- "position": 371,
- "rankingPositionChange": -2,
- "gloryPoint": 5868,
+ "position": 368,
+ "rankingPositionChange": 3,
+ "gloryPoint": 5840,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Rhaymon",
@@ -272,6 +272,14 @@
    "position": 371,
    "rankingPositionChange": -2,
    "gloryPoint": 5868,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 368,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5840,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

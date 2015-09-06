@@ -2,10 +2,10 @@
  "characterID": 1716259,
  "characterClassID": 11,
  "raceID": 0,
- "position": 591,
- "rankingPositionChange": 5,
- "gloryPoint": 30330,
- "gloryPointChange": 510,
+ "position": 592,
+ "rankingPositionChange": -1,
+ "gloryPoint": 30316,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Debio",
  "guildName": "Grow or Die",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 30330,
    "gloryPointChange": 510,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 592,
+   "rankingPositionChange": -1,
+   "gloryPoint": 30316,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

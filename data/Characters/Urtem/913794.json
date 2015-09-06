@@ -2,9 +2,9 @@
  "characterID": 913794,
  "characterClassID": 11,
  "raceID": 1,
- "position": 660,
- "rankingPositionChange": 0,
- "gloryPoint": 12627,
+ "position": 662,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12613,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Playmo",
@@ -264,6 +264,14 @@
    "position": 660,
    "rankingPositionChange": 0,
    "gloryPoint": 12627,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 662,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12613,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

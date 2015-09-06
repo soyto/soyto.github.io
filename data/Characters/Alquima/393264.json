@@ -2,14 +2,14 @@
  "characterID": 393264,
  "characterClassID": 11,
  "raceID": 0,
- "position": 640,
- "rankingPositionChange": 9,
- "gloryPoint": 18519,
- "gloryPointChange": 285,
+ "position": 629,
+ "rankingPositionChange": 11,
+ "gloryPoint": 18799,
+ "gloryPointChange": 280,
  "soldierRankID": 11,
  "characterName": "Breicops",
- "guildName": "few but united",
- "guildID": 13588,
+ "guildName": "Check Ready",
+ "guildID": 14588,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 18519,
    "gloryPointChange": 285,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 629,
+   "rankingPositionChange": 11,
+   "gloryPoint": 18799,
+   "gloryPointChange": 280,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -305,6 +313,11 @@
    "date": "2015-08-27T22:00:00.000Z",
    "guildName": "few but united",
    "guildID": 13588
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Check Ready",
+   "guildID": 14588
   }
  ]
 }

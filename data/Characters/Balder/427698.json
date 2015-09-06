@@ -2,10 +2,10 @@
  "characterID": 427698,
  "characterClassID": 2,
  "raceID": 1,
- "position": 535,
- "rankingPositionChange": -1,
- "gloryPoint": 1833,
- "gloryPointChange": -14,
+ "position": 530,
+ "rankingPositionChange": 5,
+ "gloryPoint": 1875,
+ "gloryPointChange": 42,
  "soldierRankID": 11,
  "characterName": "Zenturios",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 1833,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 530,
+   "rankingPositionChange": 5,
+   "gloryPoint": 1875,
+   "gloryPointChange": 42,
    "soldierRankID": 11
   }
  ],

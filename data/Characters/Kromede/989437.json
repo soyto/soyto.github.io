@@ -2,12 +2,12 @@
  "characterID": 989437,
  "characterClassID": 7,
  "raceID": 1,
- "position": 31,
- "rankingPositionChange": 0,
- "gloryPoint": 202375,
- "gloryPointChange": 660,
- "soldierRankID": 14,
- "characterName": "Durum",
+ "position": 30,
+ "rankingPositionChange": 1,
+ "gloryPoint": 203133,
+ "gloryPointChange": 758,
+ "soldierRankID": 15,
+ "characterName": "Sayno",
  "guildName": "Covenant",
  "guildID": 13120,
  "status": [
@@ -274,6 +274,14 @@
    "gloryPoint": 202375,
    "gloryPointChange": 660,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 30,
+   "rankingPositionChange": 1,
+   "gloryPoint": 203133,
+   "gloryPointChange": 758,
+   "soldierRankID": 15
   }
  ],
  "names": [
@@ -284,6 +292,10 @@
   {
    "date": "2015-08-01T22:00:00.000Z",
    "characterName": "Durum"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Sayno"
   }
  ],
  "guilds": [

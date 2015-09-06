@@ -2,10 +2,10 @@
  "characterID": 93074,
  "characterClassID": 14,
  "raceID": 1,
- "position": 181,
- "rankingPositionChange": 1,
- "gloryPoint": 43091,
- "gloryPointChange": 51,
+ "position": 183,
+ "rankingPositionChange": -2,
+ "gloryPoint": 43042,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pinsciolto",
  "guildName": " Arkadia ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 43091,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 183,
+   "rankingPositionChange": -2,
+   "gloryPoint": 43042,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

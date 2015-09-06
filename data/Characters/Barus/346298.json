@@ -2,10 +2,10 @@
  "characterID": 346298,
  "characterClassID": 16,
  "raceID": 0,
- "position": 918,
- "rankingPositionChange": 8,
- "gloryPoint": 11970,
- "gloryPointChange": 293,
+ "position": 920,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11978,
+ "gloryPointChange": 8,
  "soldierRankID": 10,
  "characterName": "Uessi",
  "guildName": "Hades Breath",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 11970,
    "gloryPointChange": 293,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 920,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11978,
+   "gloryPointChange": 8,
    "soldierRankID": 10
   }
  ],

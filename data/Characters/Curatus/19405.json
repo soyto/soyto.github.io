@@ -2,9 +2,9 @@
  "characterID": 19405,
  "characterClassID": 7,
  "raceID": 1,
- "position": 217,
- "rankingPositionChange": 1,
- "gloryPoint": 35292,
+ "position": 220,
+ "rankingPositionChange": -3,
+ "gloryPoint": 35243,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nefurious",
@@ -272,6 +272,14 @@
    "position": 217,
    "rankingPositionChange": 1,
    "gloryPoint": 35292,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": -3,
+   "gloryPoint": 35243,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

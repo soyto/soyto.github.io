@@ -2,9 +2,9 @@
  "characterID": 500912,
  "characterClassID": 8,
  "raceID": 1,
- "position": 156,
- "rankingPositionChange": 0,
- "gloryPoint": 85780,
+ "position": 158,
+ "rankingPositionChange": -2,
+ "gloryPoint": 85731,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Gumiskowysok",
@@ -216,6 +216,14 @@
    "position": 156,
    "rankingPositionChange": 0,
    "gloryPoint": 85780,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 158,
+   "rankingPositionChange": -2,
+   "gloryPoint": 85731,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

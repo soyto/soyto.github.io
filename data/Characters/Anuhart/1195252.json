@@ -2,9 +2,9 @@
  "characterID": 1195252,
  "characterClassID": 2,
  "raceID": 1,
- "position": 720,
- "rankingPositionChange": 0,
- "gloryPoint": 3890,
+ "position": 724,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3883,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chorolinka",
@@ -216,6 +216,14 @@
    "position": 720,
    "rankingPositionChange": 0,
    "gloryPoint": 3890,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 724,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3883,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

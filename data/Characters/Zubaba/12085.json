@@ -2,9 +2,9 @@
  "characterID": 12085,
  "characterClassID": 7,
  "raceID": 1,
- "position": 763,
- "rankingPositionChange": 3,
- "gloryPoint": 3046,
+ "position": 765,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3039,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Carcos",
@@ -272,6 +272,14 @@
    "position": 763,
    "rankingPositionChange": 3,
    "gloryPoint": 3046,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 765,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3039,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1221865,
  "characterClassID": 14,
  "raceID": 0,
- "position": 89,
- "rankingPositionChange": 0,
- "gloryPoint": 163087,
+ "position": 90,
+ "rankingPositionChange": -1,
+ "gloryPoint": 162980,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Soravit",
@@ -272,6 +272,14 @@
    "position": 89,
    "rankingPositionChange": 0,
    "gloryPoint": 163087,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 90,
+   "rankingPositionChange": -1,
+   "gloryPoint": 162980,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

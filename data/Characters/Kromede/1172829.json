@@ -2,9 +2,9 @@
  "characterID": 1172829,
  "characterClassID": 5,
  "raceID": 0,
- "position": 627,
- "rankingPositionChange": 0,
- "gloryPoint": 18546,
+ "position": 629,
+ "rankingPositionChange": -2,
+ "gloryPoint": 18532,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Iliafaen",
@@ -224,6 +224,14 @@
    "position": 627,
    "rankingPositionChange": 0,
    "gloryPoint": 18546,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 629,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18532,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

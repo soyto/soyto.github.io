@@ -2,9 +2,9 @@
  "characterID": 350182,
  "characterClassID": 10,
  "raceID": 0,
- "position": 510,
- "rankingPositionChange": -1,
- "gloryPoint": 6889,
+ "position": 506,
+ "rankingPositionChange": 4,
+ "gloryPoint": 6875,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Cynthira",
@@ -264,6 +264,14 @@
    "position": 510,
    "rankingPositionChange": -1,
    "gloryPoint": 6889,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 506,
+   "rankingPositionChange": 4,
+   "gloryPoint": 6875,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 1287315,
  "characterClassID": 4,
  "raceID": 1,
- "position": 581,
- "rankingPositionChange": 3,
- "gloryPoint": 12569,
- "gloryPointChange": 89,
+ "position": 582,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12555,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ashk",
  "guildName": "Starlight Rises",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 12569,
    "gloryPointChange": 89,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 582,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12555,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 735039,
  "characterClassID": 5,
  "raceID": 1,
- "position": 556,
- "rankingPositionChange": 0,
- "gloryPoint": 6770,
+ "position": 557,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6756,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Liblikas",
@@ -152,6 +152,14 @@
    "position": 556,
    "rankingPositionChange": 0,
    "gloryPoint": 6770,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 557,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6756,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

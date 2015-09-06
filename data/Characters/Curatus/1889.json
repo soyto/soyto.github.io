@@ -2,10 +2,10 @@
  "characterID": 1889,
  "characterClassID": 10,
  "raceID": 0,
- "position": 943,
- "rankingPositionChange": -1,
- "gloryPoint": 9284,
- "gloryPointChange": -7,
+ "position": 942,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9287,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Ahet",
  "guildName": "Rebellion",
@@ -145,6 +145,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 9284,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9287,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 362583,
  "characterClassID": 16,
  "raceID": 0,
- "position": 277,
- "rankingPositionChange": 2,
- "gloryPoint": 12708,
+ "position": 279,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12659,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Amitee",
@@ -272,6 +272,14 @@
    "position": 277,
    "rankingPositionChange": 2,
    "gloryPoint": 12708,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 279,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12659,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

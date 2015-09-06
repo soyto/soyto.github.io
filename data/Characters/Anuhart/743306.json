@@ -2,9 +2,9 @@
  "characterID": 743306,
  "characterClassID": 5,
  "raceID": 1,
- "position": 940,
- "rankingPositionChange": 4,
- "gloryPoint": 1803,
+ "position": 945,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1796,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lado",
@@ -104,6 +104,14 @@
    "position": 940,
    "rankingPositionChange": 4,
    "gloryPoint": 1803,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1796,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

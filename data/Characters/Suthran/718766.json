@@ -3,9 +3,9 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 555,
- "rankingPositionChange": 10,
- "gloryPoint": 13388,
- "gloryPointChange": 216,
+ "rankingPositionChange": 0,
+ "gloryPoint": 13444,
+ "gloryPointChange": 56,
  "soldierRankID": 11,
  "characterName": "Morgiane",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 13388,
    "gloryPointChange": 216,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 555,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13444,
+   "gloryPointChange": 56,
    "soldierRankID": 11
   }
  ],

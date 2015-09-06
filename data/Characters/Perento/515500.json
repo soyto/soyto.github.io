@@ -2,10 +2,10 @@
  "characterID": 515500,
  "characterClassID": 11,
  "raceID": 1,
- "position": 788,
- "rankingPositionChange": 28,
- "gloryPoint": 2868,
- "gloryPointChange": 294,
+ "position": 792,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2861,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Miraii",
  "guildName": "Hammer of Thor",
@@ -33,6 +33,14 @@
    "rankingPositionChange": 28,
    "gloryPoint": 2868,
    "gloryPointChange": 294,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 792,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2861,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

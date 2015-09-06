@@ -2,9 +2,9 @@
  "characterID": 64350,
  "characterClassID": 1,
  "raceID": 1,
- "position": 260,
- "rankingPositionChange": 0,
- "gloryPoint": 30301,
+ "position": 261,
+ "rankingPositionChange": -1,
+ "gloryPoint": 30252,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ravanello",
@@ -256,6 +256,14 @@
    "position": 260,
    "rankingPositionChange": 0,
    "gloryPoint": 30301,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": -1,
+   "gloryPoint": 30252,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

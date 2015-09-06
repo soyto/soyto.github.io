@@ -2,9 +2,9 @@
  "characterID": 65997,
  "characterClassID": 16,
  "raceID": 1,
- "position": 708,
- "rankingPositionChange": 0,
- "gloryPoint": 6552,
+ "position": 709,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6545,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Crysalys",
@@ -272,6 +272,14 @@
    "position": 708,
    "rankingPositionChange": 0,
    "gloryPoint": 6552,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6545,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

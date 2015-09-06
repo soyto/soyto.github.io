@@ -2,10 +2,10 @@
  "characterID": 45760,
  "characterClassID": 5,
  "raceID": 0,
- "position": 109,
- "rankingPositionChange": 0,
- "gloryPoint": 87293,
- "gloryPointChange": 371,
+ "position": 110,
+ "rankingPositionChange": -1,
+ "gloryPoint": 87364,
+ "gloryPointChange": 71,
  "soldierRankID": 13,
  "characterName": "Darkwatch",
  "guildName": "Paths of Glory",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 87293,
    "gloryPointChange": 371,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 110,
+   "rankingPositionChange": -1,
+   "gloryPoint": 87364,
+   "gloryPointChange": 71,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1053036,
  "characterClassID": 5,
  "raceID": 1,
- "position": 646,
- "rankingPositionChange": 1,
- "gloryPoint": 5217,
+ "position": 649,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5203,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sikfuk",
@@ -270,6 +270,14 @@
    "position": 646,
    "rankingPositionChange": 1,
    "gloryPoint": 5217,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 649,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5203,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

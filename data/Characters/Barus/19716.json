@@ -2,9 +2,9 @@
  "characterID": 19716,
  "characterClassID": 7,
  "raceID": 1,
- "position": 926,
- "rankingPositionChange": -1,
- "gloryPoint": 11229,
+ "position": 923,
+ "rankingPositionChange": 3,
+ "gloryPoint": 11222,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Semis",
@@ -270,6 +270,14 @@
    "position": 926,
    "rankingPositionChange": -1,
    "gloryPoint": 11229,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 923,
+   "rankingPositionChange": 3,
+   "gloryPoint": 11222,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

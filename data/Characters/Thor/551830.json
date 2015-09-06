@@ -3,8 +3,8 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 987,
- "rankingPositionChange": -2,
- "gloryPoint": 10072,
+ "rankingPositionChange": 0,
+ "gloryPoint": 10065,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Loot",
@@ -272,6 +272,14 @@
    "position": 987,
    "rankingPositionChange": -2,
    "gloryPoint": 10072,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 987,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10065,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

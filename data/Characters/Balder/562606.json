@@ -2,9 +2,9 @@
  "characterID": 562606,
  "characterClassID": 11,
  "raceID": 0,
- "position": 588,
- "rankingPositionChange": -3,
- "gloryPoint": 5441,
+ "position": 585,
+ "rankingPositionChange": 3,
+ "gloryPoint": 5427,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Bisu",
@@ -264,6 +264,14 @@
    "position": 588,
    "rankingPositionChange": -3,
    "gloryPoint": 5441,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 585,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5427,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

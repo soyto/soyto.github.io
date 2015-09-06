@@ -2,9 +2,9 @@
  "characterID": 1150721,
  "characterClassID": 11,
  "raceID": 1,
- "position": 209,
- "rankingPositionChange": 0,
- "gloryPoint": 43193,
+ "position": 210,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43144,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Malcic",
@@ -272,6 +272,14 @@
    "position": 209,
    "rankingPositionChange": 0,
    "gloryPoint": 43193,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 210,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43144,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 43471,
  "characterClassID": 5,
  "raceID": 0,
- "position": 516,
- "rankingPositionChange": 8,
- "gloryPoint": 2599,
- "gloryPointChange": 132,
+ "position": 517,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2585,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zonea",
  "guildName": "CarpeDiem",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 2599,
    "gloryPointChange": 132,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2585,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

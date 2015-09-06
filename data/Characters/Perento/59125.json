@@ -2,9 +2,9 @@
  "characterID": 59125,
  "characterClassID": 1,
  "raceID": 0,
- "position": 988,
- "rankingPositionChange": -3,
- "gloryPoint": 4812,
+ "position": 985,
+ "rankingPositionChange": 3,
+ "gloryPoint": 4805,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dfect",
@@ -120,6 +120,14 @@
    "position": 988,
    "rankingPositionChange": -3,
    "gloryPoint": 4812,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": 3,
+   "gloryPoint": 4805,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

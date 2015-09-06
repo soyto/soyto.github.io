@@ -2,10 +2,10 @@
  "characterID": 328416,
  "characterClassID": 13,
  "raceID": 1,
- "position": 525,
- "rankingPositionChange": 4,
- "gloryPoint": 11450,
- "gloryPointChange": 104,
+ "position": 526,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11436,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Riribelle",
  "guildName": "Prepotenti",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 11450,
    "gloryPointChange": 104,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 526,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11436,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

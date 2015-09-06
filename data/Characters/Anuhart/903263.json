@@ -2,9 +2,9 @@
  "characterID": 903263,
  "characterClassID": 16,
  "raceID": 1,
- "position": 162,
- "rankingPositionChange": 2,
- "gloryPoint": 68393,
+ "position": 163,
+ "rankingPositionChange": -1,
+ "gloryPoint": 68344,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Constantinex",
@@ -272,6 +272,14 @@
    "position": 162,
    "rankingPositionChange": 2,
    "gloryPoint": 68393,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 163,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68344,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

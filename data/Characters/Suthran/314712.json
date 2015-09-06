@@ -2,10 +2,10 @@
  "characterID": 314712,
  "characterClassID": 10,
  "raceID": 1,
- "position": 404,
- "rankingPositionChange": 2,
- "gloryPoint": 20855,
- "gloryPointChange": 72,
+ "position": 406,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20827,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Diixie",
  "guildName": "Fallen",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 20855,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 406,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20827,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

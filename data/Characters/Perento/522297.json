@@ -2,9 +2,9 @@
  "characterID": 522297,
  "characterClassID": 5,
  "raceID": 1,
- "position": 364,
- "rankingPositionChange": 0,
- "gloryPoint": 17607,
+ "position": 366,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17579,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Aosoth",
@@ -272,6 +272,14 @@
    "position": 364,
    "rankingPositionChange": 0,
    "gloryPoint": 17607,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 366,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17579,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

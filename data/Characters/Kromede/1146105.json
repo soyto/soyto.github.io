@@ -2,9 +2,9 @@
  "characterID": 1146105,
  "characterClassID": 10,
  "raceID": 0,
- "position": 472,
- "rankingPositionChange": 0,
- "gloryPoint": 25650,
+ "position": 474,
+ "rankingPositionChange": -2,
+ "gloryPoint": 25722,
  "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Fiyala",
@@ -272,6 +272,14 @@
    "position": 472,
    "rankingPositionChange": 0,
    "gloryPoint": 25650,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 474,
+   "rankingPositionChange": -2,
+   "gloryPoint": 25722,
    "gloryPointChange": 72,
    "soldierRankID": 12
   }

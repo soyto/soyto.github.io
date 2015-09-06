@@ -2,10 +2,10 @@
  "characterID": 207657,
  "characterClassID": 10,
  "raceID": 1,
- "position": 633,
- "rankingPositionChange": -1,
- "gloryPoint": 8393,
- "gloryPointChange": -14,
+ "position": 625,
+ "rankingPositionChange": 8,
+ "gloryPoint": 8554,
+ "gloryPointChange": 161,
  "soldierRankID": 11,
  "characterName": "Birbancella",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 8393,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 625,
+   "rankingPositionChange": 8,
+   "gloryPoint": 8554,
+   "gloryPointChange": 161,
    "soldierRankID": 11
   }
  ],

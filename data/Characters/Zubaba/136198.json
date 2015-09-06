@@ -2,10 +2,10 @@
  "characterID": 136198,
  "characterClassID": 14,
  "raceID": 1,
- "position": 227,
- "rankingPositionChange": 0,
- "gloryPoint": 37948,
- "gloryPointChange": 226,
+ "position": 228,
+ "rankingPositionChange": -1,
+ "gloryPoint": 38049,
+ "gloryPointChange": 101,
  "soldierRankID": 13,
  "characterName": "Zafkiel",
  "guildName": "KIZIL ORDU",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 37948,
    "gloryPointChange": 226,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 228,
+   "rankingPositionChange": -1,
+   "gloryPoint": 38049,
+   "gloryPointChange": 101,
    "soldierRankID": 13
   }
  ],

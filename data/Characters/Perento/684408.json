@@ -2,9 +2,9 @@
  "characterID": 684408,
  "characterClassID": 10,
  "raceID": 1,
- "position": 925,
- "rankingPositionChange": -5,
- "gloryPoint": 1843,
+ "position": 924,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1836,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kilmee",
@@ -272,6 +272,14 @@
    "position": 925,
    "rankingPositionChange": -5,
    "gloryPoint": 1843,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 924,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1836,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

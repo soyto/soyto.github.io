@@ -2,10 +2,10 @@
  "characterID": 482934,
  "characterClassID": 10,
  "raceID": 1,
- "position": 639,
- "rankingPositionChange": 6,
- "gloryPoint": 1769,
- "gloryPointChange": 6,
+ "position": 645,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1755,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Floios",
  "guildName": "Valkan Mafia",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 1769,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 645,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1755,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

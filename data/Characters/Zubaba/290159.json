@@ -2,9 +2,9 @@
  "characterID": 290159,
  "characterClassID": 16,
  "raceID": 1,
- "position": 466,
- "rankingPositionChange": 0,
- "gloryPoint": 10368,
+ "position": 468,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10340,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ireliyah",
@@ -270,6 +270,14 @@
    "position": 466,
    "rankingPositionChange": 0,
    "gloryPoint": 10368,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 468,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10340,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

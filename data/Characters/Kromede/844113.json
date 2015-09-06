@@ -2,9 +2,9 @@
  "characterID": 844113,
  "characterClassID": 1,
  "raceID": 1,
- "position": 684,
- "rankingPositionChange": 2,
- "gloryPoint": 5913,
+ "position": 685,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5899,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Darkpara",
@@ -272,6 +272,14 @@
    "position": 684,
    "rankingPositionChange": 2,
    "gloryPoint": 5913,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 685,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5899,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

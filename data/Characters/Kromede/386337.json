@@ -2,9 +2,9 @@
  "characterID": 386337,
  "characterClassID": 11,
  "raceID": 1,
- "position": 835,
- "rankingPositionChange": 2,
- "gloryPoint": 3971,
+ "position": 840,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3964,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pinkyangel",
@@ -272,6 +272,14 @@
    "position": 835,
    "rankingPositionChange": 2,
    "gloryPoint": 3971,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3964,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 858280,
  "characterClassID": 16,
  "raceID": 1,
- "position": 953,
- "rankingPositionChange": 4,
- "gloryPoint": 1736,
+ "position": 958,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1729,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Myfootyourass",
@@ -272,6 +272,14 @@
    "position": 953,
    "rankingPositionChange": 4,
    "gloryPoint": 1736,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 958,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1729,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

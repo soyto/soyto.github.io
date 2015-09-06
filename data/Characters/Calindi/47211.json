@@ -2,9 +2,9 @@
  "characterID": 47211,
  "characterClassID": 10,
  "raceID": 0,
- "position": 732,
- "rankingPositionChange": 1,
- "gloryPoint": 2359,
+ "position": 734,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2352,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Efrra",
@@ -272,6 +272,14 @@
    "position": 732,
    "rankingPositionChange": 1,
    "gloryPoint": 2359,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 734,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2352,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 557732,
  "characterClassID": 11,
  "raceID": 1,
- "position": 114,
- "rankingPositionChange": -1,
- "gloryPoint": 58224,
+ "position": 113,
+ "rankingPositionChange": 1,
+ "gloryPoint": 58175,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Claiire",
@@ -272,6 +272,14 @@
    "position": 114,
    "rankingPositionChange": -1,
    "gloryPoint": 58224,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 113,
+   "rankingPositionChange": 1,
+   "gloryPoint": 58175,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

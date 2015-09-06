@@ -2,9 +2,9 @@
  "characterID": 370847,
  "characterClassID": 10,
  "raceID": 0,
- "position": 268,
- "rankingPositionChange": 1,
- "gloryPoint": 13743,
+ "position": 270,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13694,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Orlinaa",
@@ -272,6 +272,14 @@
    "position": 268,
    "rankingPositionChange": 1,
    "gloryPoint": 13743,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13694,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 168211,
  "characterClassID": 16,
  "raceID": 0,
- "position": 959,
- "rankingPositionChange": 1,
- "gloryPoint": 10502,
+ "position": 960,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10495,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fada",
@@ -272,6 +272,14 @@
    "position": 959,
    "rankingPositionChange": 1,
    "gloryPoint": 10502,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 960,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10495,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

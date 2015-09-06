@@ -2,10 +2,10 @@
  "characterID": 824854,
  "characterClassID": 1,
  "raceID": 1,
- "position": 610,
- "rankingPositionChange": 0,
- "gloryPoint": 5753,
- "gloryPointChange": 0,
+ "position": 614,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5739,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Tiqu",
  "status": [
@@ -15,6 +15,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5753,
    "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 614,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5739,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 209538,
  "characterClassID": 1,
  "raceID": 1,
- "position": 554,
- "rankingPositionChange": 0,
- "gloryPoint": 7151,
+ "position": 557,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7137,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Falaise",
@@ -270,6 +270,14 @@
    "position": 554,
    "rankingPositionChange": 0,
    "gloryPoint": 7151,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 557,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7137,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

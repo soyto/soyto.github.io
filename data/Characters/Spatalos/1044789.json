@@ -2,9 +2,9 @@
  "characterID": 1044789,
  "characterClassID": 14,
  "raceID": 0,
- "position": 136,
- "rankingPositionChange": -1,
- "gloryPoint": 107114,
+ "position": 135,
+ "rankingPositionChange": 1,
+ "gloryPoint": 107065,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rvs",
@@ -272,6 +272,14 @@
    "position": 136,
    "rankingPositionChange": -1,
    "gloryPoint": 107114,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 135,
+   "rankingPositionChange": 1,
+   "gloryPoint": 107065,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

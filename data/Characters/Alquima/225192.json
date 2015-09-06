@@ -2,10 +2,10 @@
  "characterID": 225192,
  "characterClassID": 14,
  "raceID": 1,
- "position": 456,
- "rankingPositionChange": 1,
- "gloryPoint": 17439,
- "gloryPointChange": 50,
+ "position": 457,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17509,
+ "gloryPointChange": 70,
  "soldierRankID": 12,
  "characterName": "Platt",
  "guildName": "ElAlmaDelDiablo",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 17439,
    "gloryPointChange": 50,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 457,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17509,
+   "gloryPointChange": 70,
    "soldierRankID": 12
   }
  ],

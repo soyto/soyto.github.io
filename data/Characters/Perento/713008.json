@@ -2,10 +2,10 @@
  "characterID": 713008,
  "characterClassID": 2,
  "raceID": 1,
- "position": 812,
- "rankingPositionChange": 0,
- "gloryPoint": 2635,
- "gloryPointChange": -7,
+ "position": 823,
+ "rankingPositionChange": -11,
+ "gloryPoint": 2621,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Sadiara",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 2635,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 823,
+   "rankingPositionChange": -11,
+   "gloryPoint": 2621,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

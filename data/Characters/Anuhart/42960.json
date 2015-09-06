@@ -2,9 +2,9 @@
  "characterID": 42960,
  "characterClassID": 1,
  "raceID": 1,
- "position": 963,
- "rankingPositionChange": 5,
- "gloryPoint": 1703,
+ "position": 980,
+ "rankingPositionChange": -17,
+ "gloryPoint": 1696,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Theluluone",
@@ -176,6 +176,14 @@
    "position": 963,
    "rankingPositionChange": 5,
    "gloryPoint": 1703,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": -17,
+   "gloryPoint": 1696,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

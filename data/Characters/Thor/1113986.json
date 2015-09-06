@@ -2,9 +2,9 @@
  "characterID": 1113986,
  "characterClassID": 4,
  "raceID": 0,
- "position": 411,
- "rankingPositionChange": 1,
- "gloryPoint": 44067,
+ "position": 413,
+ "rankingPositionChange": -2,
+ "gloryPoint": 44039,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Meetmyjohnson",
@@ -270,6 +270,14 @@
    "position": 411,
    "rankingPositionChange": 1,
    "gloryPoint": 44067,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 413,
+   "rankingPositionChange": -2,
+   "gloryPoint": 44039,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

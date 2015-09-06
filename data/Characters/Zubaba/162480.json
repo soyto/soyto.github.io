@@ -2,9 +2,9 @@
  "characterID": 162480,
  "characterClassID": 13,
  "raceID": 1,
- "position": 73,
- "rankingPositionChange": 0,
- "gloryPoint": 114981,
+ "position": 74,
+ "rankingPositionChange": -1,
+ "gloryPoint": 114874,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Panzerschreck",
@@ -272,6 +272,14 @@
    "position": 73,
    "rankingPositionChange": 0,
    "gloryPoint": 114981,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": -1,
+   "gloryPoint": 114874,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

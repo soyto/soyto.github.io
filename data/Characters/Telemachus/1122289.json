@@ -2,14 +2,12 @@
  "characterID": 1122289,
  "characterClassID": 5,
  "raceID": 1,
- "position": 155,
- "rankingPositionChange": 0,
- "gloryPoint": 42774,
+ "position": 157,
+ "rankingPositionChange": -2,
+ "gloryPoint": 42725,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hellbuoy",
- "guildName": "You Are Not Alone",
- "guildID": 18803,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 42774,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 157,
+   "rankingPositionChange": -2,
+   "gloryPoint": 42725,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "You Are Not Alone",
    "guildID": 18803
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 1571543,
  "characterClassID": 10,
  "raceID": 1,
- "position": 196,
- "rankingPositionChange": 0,
- "gloryPoint": 54411,
+ "position": 198,
+ "rankingPositionChange": -2,
+ "gloryPoint": 54362,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Messhyn",
@@ -264,6 +264,14 @@
    "position": 196,
    "rankingPositionChange": 0,
    "gloryPoint": 54411,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 198,
+   "rankingPositionChange": -2,
+   "gloryPoint": 54362,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

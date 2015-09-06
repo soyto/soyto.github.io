@@ -2,9 +2,9 @@
  "characterID": 620365,
  "characterClassID": 2,
  "raceID": 0,
- "position": 396,
- "rankingPositionChange": 1,
- "gloryPoint": 45765,
+ "position": 399,
+ "rankingPositionChange": -3,
+ "gloryPoint": 45737,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Arsikor",
@@ -264,6 +264,14 @@
    "position": 396,
    "rankingPositionChange": 1,
    "gloryPoint": 45765,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 399,
+   "rankingPositionChange": -3,
+   "gloryPoint": 45737,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

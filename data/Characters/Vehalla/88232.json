@@ -2,10 +2,10 @@
  "characterID": 88232,
  "characterClassID": 1,
  "raceID": 1,
- "position": 617,
- "rankingPositionChange": 6,
- "gloryPoint": 1353,
- "gloryPointChange": 3,
+ "position": 619,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1346,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rommel",
  "guildName": "Sectumsempra",
@@ -233,6 +233,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 1353,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 619,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1346,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

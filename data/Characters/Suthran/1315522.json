@@ -2,9 +2,9 @@
  "characterID": 1315522,
  "characterClassID": 16,
  "raceID": 1,
- "position": 535,
- "rankingPositionChange": 1,
- "gloryPoint": 14221,
+ "position": 537,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14207,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Misakye",
@@ -264,6 +264,14 @@
    "position": 535,
    "rankingPositionChange": 1,
    "gloryPoint": 14221,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 537,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14207,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

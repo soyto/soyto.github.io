@@ -2,9 +2,9 @@
  "characterID": 113333,
  "characterClassID": 11,
  "raceID": 1,
- "position": 576,
- "rankingPositionChange": 2,
- "gloryPoint": 9839,
+ "position": 579,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9834,
  "gloryPointChange": -5,
  "soldierRankID": 11,
  "characterName": "Nabbaccio",
@@ -270,6 +270,14 @@
    "position": 576,
    "rankingPositionChange": 2,
    "gloryPoint": 9839,
+   "gloryPointChange": -5,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 579,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9834,
    "gloryPointChange": -5,
    "soldierRankID": 11
   }

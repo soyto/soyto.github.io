@@ -2,9 +2,9 @@
  "characterID": 268595,
  "characterClassID": 4,
  "raceID": 1,
- "position": 685,
- "rankingPositionChange": 0,
- "gloryPoint": 4006,
+ "position": 687,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3992,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Darkshen",
@@ -272,6 +272,14 @@
    "position": 685,
    "rankingPositionChange": 0,
    "gloryPoint": 4006,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3992,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

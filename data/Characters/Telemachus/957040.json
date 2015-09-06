@@ -2,10 +2,10 @@
  "characterID": 957040,
  "characterClassID": 11,
  "raceID": 1,
- "position": 542,
- "rankingPositionChange": 20,
- "gloryPoint": 2820,
- "gloryPointChange": 86,
+ "position": 545,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2818,
+ "gloryPointChange": -2,
  "soldierRankID": 11,
  "characterName": "Shivaune",
  "guildName": "E N C H A N T E D",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 20,
    "gloryPoint": 2820,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 545,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2818,
+   "gloryPointChange": -2,
    "soldierRankID": 11
   }
  ],

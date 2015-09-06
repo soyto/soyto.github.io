@@ -2,10 +2,10 @@
  "characterID": 1017579,
  "characterClassID": 7,
  "raceID": 1,
- "position": 434,
- "rankingPositionChange": 1,
- "gloryPoint": 5036,
- "gloryPointChange": -18,
+ "position": 435,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5008,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tarut",
  "guildName": "M I N I O N",
@@ -177,6 +177,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 5036,
    "gloryPointChange": -18,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 435,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5008,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

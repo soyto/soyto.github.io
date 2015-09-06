@@ -2,9 +2,9 @@
  "characterID": 861348,
  "characterClassID": 16,
  "raceID": 1,
- "position": 328,
- "rankingPositionChange": 3,
- "gloryPoint": 22382,
+ "position": 329,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22354,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Neitiry",
@@ -62,6 +62,14 @@
    "position": 328,
    "rankingPositionChange": 3,
    "gloryPoint": 22382,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 329,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22354,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

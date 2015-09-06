@@ -2,10 +2,10 @@
  "characterID": 26101,
  "characterClassID": 2,
  "raceID": 0,
- "position": 780,
- "rankingPositionChange": 2,
- "gloryPoint": 13782,
- "gloryPointChange": 93,
+ "position": 781,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13775,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Paride",
  "guildName": "Eclypse",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 13782,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13775,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

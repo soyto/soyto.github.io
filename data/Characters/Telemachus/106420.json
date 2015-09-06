@@ -2,10 +2,10 @@
  "characterID": 106420,
  "characterClassID": 11,
  "raceID": 1,
- "position": 642,
- "rankingPositionChange": 4,
- "gloryPoint": 1749,
- "gloryPointChange": 2,
+ "position": 648,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1735,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Darktas",
  "guildName": "The Legion of Friends",
@@ -233,6 +233,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 1749,
    "gloryPointChange": 2,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 648,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1735,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

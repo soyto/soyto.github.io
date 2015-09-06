@@ -2,9 +2,9 @@
  "characterID": 106137,
  "characterClassID": 5,
  "raceID": 0,
- "position": 920,
- "rankingPositionChange": 0,
- "gloryPoint": 5250,
+ "position": 921,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5243,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hashirama",
@@ -86,6 +86,14 @@
    "position": 920,
    "rankingPositionChange": 0,
    "gloryPoint": 5250,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5243,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

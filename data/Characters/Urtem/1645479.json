@@ -2,9 +2,9 @@
  "characterID": 1645479,
  "characterClassID": 1,
  "raceID": 1,
- "position": 267,
- "rankingPositionChange": -1,
- "gloryPoint": 41301,
+ "position": 266,
+ "rankingPositionChange": 1,
+ "gloryPoint": 41252,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Chird",
@@ -264,6 +264,14 @@
    "position": 267,
    "rankingPositionChange": -1,
    "gloryPoint": 41301,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 266,
+   "rankingPositionChange": 1,
+   "gloryPoint": 41252,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

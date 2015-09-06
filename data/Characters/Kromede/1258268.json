@@ -2,10 +2,10 @@
  "characterID": 1258268,
  "characterClassID": 16,
  "raceID": 0,
- "position": 400,
- "rankingPositionChange": 1,
- "gloryPoint": 30957,
- "gloryPointChange": 272,
+ "position": 401,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31029,
+ "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Krump",
  "guildName": "Killer Bunnys",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 30957,
    "gloryPointChange": 272,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31029,
+   "gloryPointChange": 72,
    "soldierRankID": 12
   }
  ],

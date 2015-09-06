@@ -2,9 +2,9 @@
  "characterID": 79188,
  "characterClassID": 4,
  "raceID": 1,
- "position": 491,
- "rankingPositionChange": 1,
- "gloryPoint": 28516,
+ "position": 494,
+ "rankingPositionChange": -3,
+ "gloryPoint": 28648,
  "gloryPointChange": 132,
  "soldierRankID": 12,
  "characterName": "Darkbee",
@@ -272,6 +272,14 @@
    "position": 491,
    "rankingPositionChange": 1,
    "gloryPoint": 28516,
+   "gloryPointChange": 132,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 494,
+   "rankingPositionChange": -3,
+   "gloryPoint": 28648,
    "gloryPointChange": 132,
    "soldierRankID": 12
   }

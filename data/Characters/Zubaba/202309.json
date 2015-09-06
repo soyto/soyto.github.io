@@ -2,9 +2,9 @@
  "characterID": 202309,
  "characterClassID": 4,
  "raceID": 0,
- "position": 744,
- "rankingPositionChange": 1,
- "gloryPoint": 6658,
+ "position": 749,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6651,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tanais",
@@ -270,6 +270,14 @@
    "position": 744,
    "rankingPositionChange": 1,
    "gloryPoint": 6658,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 749,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6651,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 832844,
  "characterClassID": 10,
  "raceID": 1,
- "position": 348,
- "rankingPositionChange": 0,
- "gloryPoint": 47679,
- "gloryPointChange": 153,
+ "position": 351,
+ "rankingPositionChange": -3,
+ "gloryPoint": 47661,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Airgus",
  "guildName": " SACRED ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 47679,
    "gloryPointChange": 153,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 351,
+   "rankingPositionChange": -3,
+   "gloryPoint": 47661,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

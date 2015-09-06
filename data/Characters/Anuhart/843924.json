@@ -2,9 +2,9 @@
  "characterID": 843924,
  "characterClassID": 5,
  "raceID": 1,
- "position": 852,
- "rankingPositionChange": 5,
- "gloryPoint": 2375,
+ "position": 855,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2368,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tsakman",
@@ -256,6 +256,14 @@
    "position": 852,
    "rankingPositionChange": 5,
    "gloryPoint": 2375,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2368,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

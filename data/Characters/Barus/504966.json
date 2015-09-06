@@ -2,14 +2,12 @@
  "characterID": 504966,
  "characterClassID": 7,
  "raceID": 0,
- "position": 416,
- "rankingPositionChange": -1,
- "gloryPoint": 35122,
- "gloryPointChange": 82,
+ "position": 411,
+ "rankingPositionChange": 5,
+ "gloryPoint": 35300,
+ "gloryPointChange": 178,
  "soldierRankID": 12,
  "characterName": "Shizukun",
- "guildName": "OH GOD ASMO GET IN THE CAR",
- "guildID": 13650,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 35122,
    "gloryPointChange": 82,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 411,
+   "rankingPositionChange": 5,
+   "gloryPoint": 35300,
+   "gloryPointChange": 178,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-08-26T22:00:00.000Z",
    "guildName": "OH GOD ASMO GET IN THE CAR",
    "guildID": 13650
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

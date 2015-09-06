@@ -2,10 +2,10 @@
  "characterID": 732247,
  "characterClassID": 16,
  "raceID": 1,
- "position": 892,
- "rankingPositionChange": 23,
- "gloryPoint": 6860,
- "gloryPointChange": 329,
+ "position": 897,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6853,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Scarle",
  "guildName": "Maestros de Asmodia",
@@ -89,6 +89,14 @@
    "rankingPositionChange": 23,
    "gloryPoint": 6860,
    "gloryPointChange": 329,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 897,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6853,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

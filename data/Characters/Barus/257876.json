@@ -2,9 +2,9 @@
  "characterID": 257876,
  "characterClassID": 14,
  "raceID": 1,
- "position": 111,
- "rankingPositionChange": 0,
- "gloryPoint": 109018,
+ "position": 112,
+ "rankingPositionChange": -1,
+ "gloryPoint": 108969,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Problemator",
@@ -270,6 +270,14 @@
    "position": 111,
    "rankingPositionChange": 0,
    "gloryPoint": 109018,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 112,
+   "rankingPositionChange": -1,
+   "gloryPoint": 108969,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

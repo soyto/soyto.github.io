@@ -2,9 +2,9 @@
  "characterID": 980884,
  "characterClassID": 2,
  "raceID": 1,
- "position": 279,
- "rankingPositionChange": 1,
- "gloryPoint": 11957,
+ "position": 280,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11908,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Candise",
@@ -272,6 +272,14 @@
    "position": 279,
    "rankingPositionChange": 1,
    "gloryPoint": 11957,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 280,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11908,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

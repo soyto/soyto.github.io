@@ -2,10 +2,10 @@
  "characterID": 1810,
  "characterClassID": 7,
  "raceID": 0,
- "position": 337,
- "rankingPositionChange": -1,
- "gloryPoint": 45615,
- "gloryPointChange": 3,
+ "position": 336,
+ "rankingPositionChange": 1,
+ "gloryPoint": 45587,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tomq",
  "guildName": "Hades Breath",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 45615,
    "gloryPointChange": 3,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 336,
+   "rankingPositionChange": 1,
+   "gloryPoint": 45587,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 103659,
  "characterClassID": 16,
  "raceID": 1,
- "position": 458,
- "rankingPositionChange": 7,
- "gloryPoint": 14208,
- "gloryPointChange": 282,
+ "position": 461,
+ "rankingPositionChange": -3,
+ "gloryPoint": 14333,
+ "gloryPointChange": 125,
  "soldierRankID": 12,
  "characterName": "Lyxeria",
  "guildName": "I Caduti",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 14208,
    "gloryPointChange": 282,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 461,
+   "rankingPositionChange": -3,
+   "gloryPoint": 14333,
+   "gloryPointChange": 125,
    "soldierRankID": 12
   }
  ],

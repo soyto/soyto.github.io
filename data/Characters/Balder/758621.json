@@ -2,10 +2,10 @@
  "characterID": 758621,
  "characterClassID": 11,
  "raceID": 0,
- "position": 854,
- "rankingPositionChange": 20,
- "gloryPoint": 2257,
- "gloryPointChange": 91,
+ "position": 852,
+ "rankingPositionChange": 2,
+ "gloryPoint": 2250,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lisosia",
  "guildName": "Mahaney",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 20,
    "gloryPoint": 2257,
    "gloryPointChange": 91,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": 2,
+   "gloryPoint": 2250,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

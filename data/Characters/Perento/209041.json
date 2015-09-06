@@ -2,10 +2,10 @@
  "characterID": 209041,
  "characterClassID": 11,
  "raceID": 1,
- "position": 35,
- "rankingPositionChange": 1,
- "gloryPoint": 203528,
- "gloryPointChange": 278,
+ "position": 36,
+ "rankingPositionChange": -1,
+ "gloryPoint": 203611,
+ "gloryPointChange": 83,
  "soldierRankID": 14,
  "characterName": "Mondorica",
  "guildName": "ViRuS",
@@ -57,6 +57,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 203528,
    "gloryPointChange": 278,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 36,
+   "rankingPositionChange": -1,
+   "gloryPoint": 203611,
+   "gloryPointChange": 83,
    "soldierRankID": 14
   }
  ],

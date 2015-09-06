@@ -2,9 +2,9 @@
  "characterID": 66833,
  "characterClassID": 14,
  "raceID": 1,
- "position": 378,
- "rankingPositionChange": -4,
- "gloryPoint": 38935,
+ "position": 377,
+ "rankingPositionChange": 1,
+ "gloryPoint": 38907,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Smos",
@@ -272,6 +272,14 @@
    "position": 378,
    "rankingPositionChange": -4,
    "gloryPoint": 38935,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 377,
+   "rankingPositionChange": 1,
+   "gloryPoint": 38907,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 1187846,
  "characterClassID": 13,
  "raceID": 0,
- "position": 241,
- "rankingPositionChange": 1,
- "gloryPoint": 65477,
+ "position": 242,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65428,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Skouty",
@@ -272,6 +272,14 @@
    "position": 241,
    "rankingPositionChange": 1,
    "gloryPoint": 65477,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 242,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65428,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

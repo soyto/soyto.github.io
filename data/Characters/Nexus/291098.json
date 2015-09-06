@@ -2,9 +2,9 @@
  "characterID": 291098,
  "characterClassID": 5,
  "raceID": 1,
- "position": 272,
- "rankingPositionChange": 0,
- "gloryPoint": 62453,
+ "position": 274,
+ "rankingPositionChange": -2,
+ "gloryPoint": 62404,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nesquik",
@@ -272,6 +272,14 @@
    "position": 272,
    "rankingPositionChange": 0,
    "gloryPoint": 62453,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 274,
+   "rankingPositionChange": -2,
+   "gloryPoint": 62404,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

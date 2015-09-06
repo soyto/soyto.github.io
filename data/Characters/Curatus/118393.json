@@ -2,10 +2,10 @@
  "characterID": 118393,
  "characterClassID": 16,
  "raceID": 1,
- "position": 161,
- "rankingPositionChange": 1,
- "gloryPoint": 46635,
- "gloryPointChange": 610,
+ "position": 162,
+ "rankingPositionChange": -1,
+ "gloryPoint": 46686,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Rizee",
  "guildName": "DarkWish",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 46635,
    "gloryPointChange": 610,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46686,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

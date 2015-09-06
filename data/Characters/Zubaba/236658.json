@@ -2,10 +2,10 @@
  "characterID": 236658,
  "characterClassID": 11,
  "raceID": 0,
- "position": 648,
- "rankingPositionChange": 4,
- "gloryPoint": 9548,
- "gloryPointChange": 226,
+ "position": 654,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9534,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Arafel",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 9548,
    "gloryPointChange": 226,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 654,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9534,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

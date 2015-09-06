@@ -2,10 +2,10 @@
  "characterID": 406653,
  "characterClassID": 14,
  "raceID": 0,
- "position": 370,
- "rankingPositionChange": 3,
- "gloryPoint": 26050,
- "gloryPointChange": 122,
+ "position": 371,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26112,
+ "gloryPointChange": 62,
  "soldierRankID": 12,
  "characterName": "Alami",
  "guildName": "Heavens",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 26050,
    "gloryPointChange": 122,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 371,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26112,
+   "gloryPointChange": 62,
    "soldierRankID": 12
   }
  ],

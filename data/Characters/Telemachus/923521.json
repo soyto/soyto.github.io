@@ -2,9 +2,9 @@
  "characterID": 923521,
  "characterClassID": 1,
  "raceID": 1,
- "position": 538,
- "rankingPositionChange": 2,
- "gloryPoint": 2893,
+ "position": 540,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2879,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Qykon",
@@ -270,6 +270,14 @@
    "position": 538,
    "rankingPositionChange": 2,
    "gloryPoint": 2893,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2879,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

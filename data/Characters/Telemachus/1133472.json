@@ -2,10 +2,10 @@
  "characterID": 1133472,
  "characterClassID": 13,
  "raceID": 1,
- "position": 242,
- "rankingPositionChange": 2,
- "gloryPoint": 18086,
- "gloryPointChange": 266,
+ "position": 244,
+ "rankingPositionChange": -2,
+ "gloryPoint": 18125,
+ "gloryPointChange": 39,
  "soldierRankID": 13,
  "characterName": "Maralyn",
  "guildName": "Reload",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 18086,
    "gloryPointChange": 266,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 244,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18125,
+   "gloryPointChange": 39,
    "soldierRankID": 13
   }
  ],

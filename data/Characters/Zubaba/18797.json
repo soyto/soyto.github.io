@@ -2,9 +2,9 @@
  "characterID": 18797,
  "characterClassID": 2,
  "raceID": 1,
- "position": 111,
- "rankingPositionChange": 0,
- "gloryPoint": 81762,
+ "position": 113,
+ "rankingPositionChange": -2,
+ "gloryPoint": 81713,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Murasame",
@@ -272,6 +272,14 @@
    "position": 111,
    "rankingPositionChange": 0,
    "gloryPoint": 81762,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 113,
+   "rankingPositionChange": -2,
+   "gloryPoint": 81713,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

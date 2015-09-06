@@ -2,12 +2,12 @@
  "characterID": 1422468,
  "characterClassID": 13,
  "raceID": 1,
- "position": 565,
- "rankingPositionChange": -2,
- "gloryPoint": 6416,
- "gloryPointChange": 9,
+ "position": 548,
+ "rankingPositionChange": 17,
+ "gloryPoint": 6802,
+ "gloryPointChange": 386,
  "soldierRankID": 11,
- "characterName": "Sirzaion",
+ "characterName": "Sirwolf",
  "guildName": "Hope",
  "guildID": 1169,
  "status": [
@@ -274,12 +274,24 @@
    "gloryPoint": 6416,
    "gloryPointChange": 9,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 548,
+   "rankingPositionChange": 17,
+   "gloryPoint": 6802,
+   "gloryPointChange": 386,
+   "soldierRankID": 11
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Sirzaion"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Sirwolf"
   }
  ],
  "guilds": [

@@ -2,9 +2,9 @@
  "characterID": 778248,
  "characterClassID": 8,
  "raceID": 1,
- "position": 603,
- "rankingPositionChange": 5,
- "gloryPoint": 6245,
+ "position": 604,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6281,
  "gloryPointChange": 36,
  "soldierRankID": 11,
  "characterName": "Littlewise",
@@ -272,6 +272,14 @@
    "position": 603,
    "rankingPositionChange": 5,
    "gloryPoint": 6245,
+   "gloryPointChange": 36,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6281,
    "gloryPointChange": 36,
    "soldierRankID": 11
   }

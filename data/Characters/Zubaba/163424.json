@@ -2,9 +2,9 @@
  "characterID": 163424,
  "characterClassID": 14,
  "raceID": 1,
- "position": 38,
- "rankingPositionChange": 0,
- "gloryPoint": 160197,
+ "position": 39,
+ "rankingPositionChange": -1,
+ "gloryPoint": 160090,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Desperados",
@@ -272,6 +272,14 @@
    "position": 38,
    "rankingPositionChange": 0,
    "gloryPoint": 160197,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 39,
+   "rankingPositionChange": -1,
+   "gloryPoint": 160090,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

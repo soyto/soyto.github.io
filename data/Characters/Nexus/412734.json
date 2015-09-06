@@ -2,9 +2,9 @@
  "characterID": 412734,
  "characterClassID": 16,
  "raceID": 1,
- "position": 329,
- "rankingPositionChange": 0,
- "gloryPoint": 53167,
+ "position": 331,
+ "rankingPositionChange": -2,
+ "gloryPoint": 53139,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zenshy",
@@ -272,6 +272,14 @@
    "position": 329,
    "rankingPositionChange": 0,
    "gloryPoint": 53167,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 331,
+   "rankingPositionChange": -2,
+   "gloryPoint": 53139,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

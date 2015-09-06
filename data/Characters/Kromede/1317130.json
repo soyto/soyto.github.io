@@ -2,9 +2,9 @@
  "characterID": 1317130,
  "characterClassID": 4,
  "raceID": 1,
- "position": 896,
- "rankingPositionChange": 0,
- "gloryPoint": 3505,
+ "position": 900,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3498,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yukumai",
@@ -48,6 +48,14 @@
    "position": 896,
    "rankingPositionChange": 0,
    "gloryPoint": 3505,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 900,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3498,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

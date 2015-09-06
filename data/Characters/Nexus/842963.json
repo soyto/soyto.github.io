@@ -2,9 +2,9 @@
  "characterID": 842963,
  "characterClassID": 2,
  "raceID": 0,
- "position": 675,
- "rankingPositionChange": 0,
- "gloryPoint": 10405,
+ "position": 676,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10391,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mlpg",
@@ -248,6 +248,14 @@
    "position": 675,
    "rankingPositionChange": 0,
    "gloryPoint": 10405,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10391,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

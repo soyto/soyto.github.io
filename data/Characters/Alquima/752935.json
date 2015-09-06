@@ -3,11 +3,13 @@
  "characterClassID": 13,
  "raceID": 1,
  "position": 756,
- "rankingPositionChange": 12,
- "gloryPoint": 9572,
- "gloryPointChange": 373,
+ "rankingPositionChange": 0,
+ "gloryPoint": 9599,
+ "gloryPointChange": 27,
  "soldierRankID": 10,
  "characterName": "Hatsure",
+ "guildName": "Nemesis",
+ "guildID": 3416,
  "status": [
   {
    "date": "2015-08-21T22:00:00.000Z",
@@ -104,6 +106,14 @@
    "gloryPoint": 9572,
    "gloryPointChange": 373,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 756,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9599,
+   "gloryPointChange": 27,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -120,6 +130,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Nemesis",
+   "guildID": 3416
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 174628,
  "characterClassID": 14,
  "raceID": 0,
- "position": 778,
- "rankingPositionChange": 6,
- "gloryPoint": 5824,
- "gloryPointChange": 43,
+ "position": 783,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5817,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Whitesong",
  "guildName": "D O S T",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 5824,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 783,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5817,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

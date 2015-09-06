@@ -2,10 +2,10 @@
  "characterID": 1319306,
  "characterClassID": 10,
  "raceID": 1,
- "position": 854,
- "rankingPositionChange": 4,
- "gloryPoint": 8926,
- "gloryPointChange": 43,
+ "position": 855,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8919,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Raitokira",
  "guildName": "Ergo Proxy",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 8926,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8919,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 460593,
  "characterClassID": 10,
  "raceID": 1,
- "position": 711,
- "rankingPositionChange": 5,
- "gloryPoint": 11678,
- "gloryPointChange": 118,
+ "position": 715,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11671,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chamali",
  "guildName": "Les Kronenbourgs",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 11678,
    "gloryPointChange": 118,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 715,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11671,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

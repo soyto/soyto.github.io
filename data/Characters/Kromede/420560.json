@@ -2,10 +2,10 @@
  "characterID": 420560,
  "characterClassID": 10,
  "raceID": 0,
- "position": 367,
- "rankingPositionChange": 1,
- "gloryPoint": 34274,
- "gloryPointChange": 7,
+ "position": 368,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34246,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Cheyennee",
  "guildName": "Paranoid",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 34274,
    "gloryPointChange": 7,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 368,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34246,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

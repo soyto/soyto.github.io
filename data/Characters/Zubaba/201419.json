@@ -2,10 +2,10 @@
  "characterID": 201419,
  "characterClassID": 10,
  "raceID": 0,
- "position": 989,
- "rankingPositionChange": 11,
- "gloryPoint": 2803,
- "gloryPointChange": 50,
+ "position": 995,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2796,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Helanka",
  "guildName": "Turk Yildizlari",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 2803,
    "gloryPointChange": 50,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2796,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

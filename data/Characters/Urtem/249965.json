@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 595,
- "rankingPositionChange": 23,
- "gloryPoint": 14301,
- "gloryPointChange": 405,
+ "rankingPositionChange": 0,
+ "gloryPoint": 14287,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sheoman",
  "guildName": "Wings of Blood",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 23,
    "gloryPoint": 14301,
    "gloryPointChange": 405,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": 0,
+   "gloryPoint": 14287,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

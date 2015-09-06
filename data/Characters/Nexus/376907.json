@@ -2,9 +2,9 @@
  "characterID": 376907,
  "characterClassID": 7,
  "raceID": 0,
- "position": 734,
- "rankingPositionChange": 1,
- "gloryPoint": 9067,
+ "position": 736,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9060,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zoye",
@@ -272,6 +272,14 @@
    "position": 734,
    "rankingPositionChange": 1,
    "gloryPoint": 9067,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 736,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9060,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

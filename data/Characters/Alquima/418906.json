@@ -2,12 +2,14 @@
  "characterID": 418906,
  "characterClassID": 2,
  "raceID": 1,
- "position": 785,
- "rankingPositionChange": -1,
- "gloryPoint": 8885,
+ "position": 792,
+ "rankingPositionChange": -7,
+ "gloryPoint": 8878,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bloodklein",
+ "guildName": "Heart of Swarm",
+ "guildID": 14613,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -264,6 +266,14 @@
    "gloryPoint": 8885,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 792,
+   "rankingPositionChange": -7,
+   "gloryPoint": 8878,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -280,6 +290,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Heart of Swarm",
+   "guildID": 14613
   }
  ]
 }

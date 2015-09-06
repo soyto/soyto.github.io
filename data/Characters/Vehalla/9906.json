@@ -2,9 +2,9 @@
  "characterID": 9906,
  "characterClassID": 11,
  "raceID": 1,
- "position": 166,
- "rankingPositionChange": -3,
- "gloryPoint": 26749,
+ "position": 165,
+ "rankingPositionChange": 1,
+ "gloryPoint": 26728,
  "gloryPointChange": -21,
  "soldierRankID": 13,
  "characterName": "Wuscheline",
@@ -272,6 +272,14 @@
    "position": 166,
    "rankingPositionChange": -3,
    "gloryPoint": 26749,
+   "gloryPointChange": -21,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 165,
+   "rankingPositionChange": 1,
+   "gloryPoint": 26728,
    "gloryPointChange": -21,
    "soldierRankID": 13
   }

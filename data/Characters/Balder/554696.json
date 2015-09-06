@@ -2,9 +2,9 @@
  "characterID": 554696,
  "characterClassID": 5,
  "raceID": 1,
- "position": 452,
- "rankingPositionChange": 1,
- "gloryPoint": 2800,
+ "position": 455,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2772,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Xilidas",
@@ -272,6 +272,14 @@
    "position": 452,
    "rankingPositionChange": 1,
    "gloryPoint": 2800,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 455,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2772,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

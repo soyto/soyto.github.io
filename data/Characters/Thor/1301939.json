@@ -2,10 +2,10 @@
  "characterID": 1301939,
  "characterClassID": 1,
  "raceID": 0,
- "position": 318,
- "rankingPositionChange": 0,
- "gloryPoint": 60105,
- "gloryPointChange": 182,
+ "position": 319,
+ "rankingPositionChange": -1,
+ "gloryPoint": 60177,
+ "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Youpi",
  "guildName": "Glo Up Dinero Gang",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 60105,
    "gloryPointChange": 182,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": -1,
+   "gloryPoint": 60177,
+   "gloryPointChange": 72,
    "soldierRankID": 12
   }
  ],

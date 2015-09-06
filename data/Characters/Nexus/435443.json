@@ -2,9 +2,9 @@
  "characterID": 435443,
  "characterClassID": 14,
  "raceID": 0,
- "position": 980,
- "rankingPositionChange": 3,
- "gloryPoint": 4470,
+ "position": 983,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4463,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Acyna",
@@ -248,6 +248,14 @@
    "position": 980,
    "rankingPositionChange": 3,
    "gloryPoint": 4470,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4463,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

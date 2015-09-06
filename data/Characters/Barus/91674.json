@@ -2,10 +2,10 @@
  "characterID": 91674,
  "characterClassID": 2,
  "raceID": 1,
- "position": 103,
- "rankingPositionChange": 0,
- "gloryPoint": 114380,
- "gloryPointChange": 195,
+ "position": 104,
+ "rankingPositionChange": -1,
+ "gloryPoint": 114734,
+ "gloryPointChange": 354,
  "soldierRankID": 13,
  "characterName": "Yerzul",
  "guildName": "OutOfControl",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 114380,
    "gloryPointChange": 195,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": -1,
+   "gloryPoint": 114734,
+   "gloryPointChange": 354,
    "soldierRankID": 13
   }
  ],

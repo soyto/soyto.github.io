@@ -2,14 +2,12 @@
  "characterID": 878506,
  "characterClassID": 8,
  "raceID": 0,
- "position": 999,
- "rankingPositionChange": 0,
- "gloryPoint": 9889,
- "gloryPointChange": 0,
+ "position": 993,
+ "rankingPositionChange": 6,
+ "gloryPoint": 10052,
+ "gloryPointChange": 163,
  "soldierRankID": 10,
  "characterName": "Kalypsoo",
- "guildName": "Xpress",
- "guildID": 43765,
  "status": [
   {
    "date": "2015-09-03T22:00:00.000Z",
@@ -17,6 +15,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 9889,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": 6,
+   "gloryPoint": 10052,
+   "gloryPointChange": 163,
    "soldierRankID": 10
   }
  ],
@@ -31,6 +37,9 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "Xpress",
    "guildID": 43765
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

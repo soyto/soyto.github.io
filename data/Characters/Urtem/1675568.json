@@ -2,9 +2,9 @@
  "characterID": 1675568,
  "characterClassID": 5,
  "raceID": 1,
- "position": 799,
- "rankingPositionChange": 0,
- "gloryPoint": 9842,
+ "position": 801,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9835,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Picfessier",
@@ -272,6 +272,14 @@
    "position": 799,
    "rankingPositionChange": 0,
    "gloryPoint": 9842,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 801,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9835,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

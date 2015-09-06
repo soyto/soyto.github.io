@@ -2,9 +2,9 @@
  "characterID": 2367,
  "characterClassID": 7,
  "raceID": 1,
- "position": 941,
- "rankingPositionChange": -5,
- "gloryPoint": 10867,
+ "position": 940,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10860,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bladek",
@@ -270,6 +270,14 @@
    "position": 941,
    "rankingPositionChange": -5,
    "gloryPoint": 10867,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10860,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

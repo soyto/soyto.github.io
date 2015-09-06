@@ -2,10 +2,10 @@
  "characterID": 76597,
  "characterClassID": 2,
  "raceID": 1,
- "position": 752,
- "rankingPositionChange": 9,
- "gloryPoint": 5965,
- "gloryPointChange": 218,
+ "position": 753,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6014,
+ "gloryPointChange": 49,
  "soldierRankID": 10,
  "characterName": "Sakro",
  "guildName": "Stalkers",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 5965,
    "gloryPointChange": 218,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 753,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6014,
+   "gloryPointChange": 49,
    "soldierRankID": 10
   }
  ],

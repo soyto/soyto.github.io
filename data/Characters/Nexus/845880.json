@@ -2,9 +2,9 @@
  "characterID": 845880,
  "characterClassID": 7,
  "raceID": 1,
- "position": 315,
- "rankingPositionChange": 0,
- "gloryPoint": 55732,
+ "position": 316,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55704,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Furiiya",
@@ -270,6 +270,14 @@
    "position": 315,
    "rankingPositionChange": 0,
    "gloryPoint": 55732,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55704,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

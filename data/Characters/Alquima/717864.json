@@ -2,9 +2,9 @@
  "characterID": 717864,
  "characterClassID": 10,
  "raceID": 0,
- "position": 887,
- "rankingPositionChange": 0,
- "gloryPoint": 11961,
+ "position": 889,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11954,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kaaras",
@@ -270,6 +270,14 @@
    "position": 887,
    "rankingPositionChange": 0,
    "gloryPoint": 11961,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 889,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11954,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

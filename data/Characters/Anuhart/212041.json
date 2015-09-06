@@ -2,9 +2,9 @@
  "characterID": 212041,
  "characterClassID": 11,
  "raceID": 1,
- "position": 432,
- "rankingPositionChange": 2,
- "gloryPoint": 12040,
+ "position": 438,
+ "rankingPositionChange": -6,
+ "gloryPoint": 12012,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Makinaa",
@@ -118,6 +118,14 @@
    "position": 432,
    "rankingPositionChange": 2,
    "gloryPoint": 12040,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 438,
+   "rankingPositionChange": -6,
+   "gloryPoint": 12012,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

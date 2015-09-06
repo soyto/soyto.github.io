@@ -2,9 +2,9 @@
  "characterID": 1152278,
  "characterClassID": 14,
  "raceID": 1,
- "position": 724,
- "rankingPositionChange": 0,
- "gloryPoint": 11256,
+ "position": 727,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11249,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Theleb",
@@ -270,6 +270,14 @@
    "position": 724,
    "rankingPositionChange": 0,
    "gloryPoint": 11256,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 727,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11249,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

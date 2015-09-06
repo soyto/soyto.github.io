@@ -2,11 +2,11 @@
  "characterID": 1175317,
  "characterClassID": 2,
  "raceID": 1,
- "position": 996,
- "rankingPositionChange": 4,
- "gloryPoint": 2859,
- "gloryPointChange": 0,
- "soldierRankID": 10,
+ "position": 1000,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2852,
+ "gloryPointChange": -7,
+ "soldierRankID": 0,
  "characterName": "Thuriell",
  "guildName": "Elysea Shall Burn",
  "guildID": 16415,
@@ -274,6 +274,14 @@
    "gloryPoint": 2859,
    "gloryPointChange": 0,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2852,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
   }
  ],
  "names": [

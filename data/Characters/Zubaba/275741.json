@@ -2,9 +2,9 @@
  "characterID": 275741,
  "characterClassID": 16,
  "raceID": 0,
- "position": 810,
- "rankingPositionChange": 2,
- "gloryPoint": 5203,
+ "position": 814,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5196,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alejendru",
@@ -272,6 +272,14 @@
    "position": 810,
    "rankingPositionChange": 2,
    "gloryPoint": 5203,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5196,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

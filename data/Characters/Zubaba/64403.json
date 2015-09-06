@@ -2,10 +2,10 @@
  "characterID": 64403,
  "characterClassID": 7,
  "raceID": 1,
- "position": 47,
- "rankingPositionChange": 0,
- "gloryPoint": 143875,
- "gloryPointChange": 733,
+ "position": 48,
+ "rankingPositionChange": -1,
+ "gloryPoint": 144468,
+ "gloryPointChange": 593,
  "soldierRankID": 14,
  "characterName": "Kralzagor",
  "guildName": "G U A R D S",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 143875,
    "gloryPointChange": 733,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 48,
+   "rankingPositionChange": -1,
+   "gloryPoint": 144468,
+   "gloryPointChange": 593,
    "soldierRankID": 14
   }
  ],

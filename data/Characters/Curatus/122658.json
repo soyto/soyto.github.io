@@ -2,10 +2,10 @@
  "characterID": 122658,
  "characterClassID": 16,
  "raceID": 1,
- "position": 196,
- "rankingPositionChange": 1,
- "gloryPoint": 39453,
- "gloryPointChange": 139,
+ "position": 198,
+ "rankingPositionChange": -2,
+ "gloryPoint": 39404,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ghael",
  "guildName": "  TOP  ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 39453,
    "gloryPointChange": 139,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 198,
+   "rankingPositionChange": -2,
+   "gloryPoint": 39404,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

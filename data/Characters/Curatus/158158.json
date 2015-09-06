@@ -2,9 +2,9 @@
  "characterID": 158158,
  "characterClassID": 8,
  "raceID": 0,
- "position": 960,
- "rankingPositionChange": -1,
- "gloryPoint": 9072,
+ "position": 959,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9065,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kiyom",
@@ -264,6 +264,14 @@
    "position": 960,
    "rankingPositionChange": -1,
    "gloryPoint": 9072,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9065,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

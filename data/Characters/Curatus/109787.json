@@ -2,10 +2,10 @@
  "characterID": 109787,
  "characterClassID": 2,
  "raceID": 0,
- "position": 230,
- "rankingPositionChange": 0,
- "gloryPoint": 71136,
- "gloryPointChange": 54,
+ "position": 231,
+ "rankingPositionChange": -1,
+ "gloryPoint": 71442,
+ "gloryPointChange": 306,
  "soldierRankID": 13,
  "characterName": "Wishmasteer",
  "guildName": " Outlaw ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 71136,
    "gloryPointChange": 54,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 231,
+   "rankingPositionChange": -1,
+   "gloryPoint": 71442,
+   "gloryPointChange": 306,
    "soldierRankID": 13
   }
  ],

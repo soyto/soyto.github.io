@@ -2,10 +2,10 @@
  "characterID": 1381721,
  "characterClassID": 14,
  "raceID": 1,
- "position": 479,
- "rankingPositionChange": 1,
- "gloryPoint": 16720,
- "gloryPointChange": 32,
+ "position": 484,
+ "rankingPositionChange": -5,
+ "gloryPoint": 16692,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Remskyll",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 16720,
    "gloryPointChange": 32,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 484,
+   "rankingPositionChange": -5,
+   "gloryPoint": 16692,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

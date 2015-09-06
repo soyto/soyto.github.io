@@ -2,10 +2,10 @@
  "characterID": 1202127,
  "characterClassID": 4,
  "raceID": 1,
- "position": 575,
- "rankingPositionChange": 23,
- "gloryPoint": 6888,
- "gloryPointChange": 549,
+ "position": 579,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6874,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Belmando",
  "guildName": "U S S R",
@@ -177,6 +177,14 @@
    "rankingPositionChange": 23,
    "gloryPoint": 6888,
    "gloryPointChange": 549,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 579,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6874,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

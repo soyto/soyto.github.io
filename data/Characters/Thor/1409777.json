@@ -2,9 +2,9 @@
  "characterID": 1409777,
  "characterClassID": 14,
  "raceID": 1,
- "position": 456,
- "rankingPositionChange": -5,
- "gloryPoint": 31934,
+ "position": 455,
+ "rankingPositionChange": 1,
+ "gloryPoint": 31906,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Carrypotter",
@@ -272,6 +272,14 @@
    "position": 456,
    "rankingPositionChange": -5,
    "gloryPoint": 31934,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 455,
+   "rankingPositionChange": 1,
+   "gloryPoint": 31906,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

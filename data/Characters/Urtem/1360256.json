@@ -3,9 +3,9 @@
  "characterClassID": 13,
  "raceID": 0,
  "position": 112,
- "rankingPositionChange": 1,
- "gloryPoint": 115695,
- "gloryPointChange": 558,
+ "rankingPositionChange": 0,
+ "gloryPoint": 115646,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Quaritch",
  "guildName": "Living Sparks",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 115695,
    "gloryPointChange": 558,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 112,
+   "rankingPositionChange": 0,
+   "gloryPoint": 115646,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

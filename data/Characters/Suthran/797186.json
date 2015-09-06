@@ -2,10 +2,10 @@
  "characterID": 797186,
  "characterClassID": 7,
  "raceID": 1,
- "position": 191,
- "rankingPositionChange": 0,
- "gloryPoint": 60358,
- "gloryPointChange": 334,
+ "position": 190,
+ "rankingPositionChange": 1,
+ "gloryPoint": 60329,
+ "gloryPointChange": -29,
  "soldierRankID": 13,
  "characterName": "Exmen",
  "guildName": "Night Shade",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 60358,
    "gloryPointChange": 334,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 190,
+   "rankingPositionChange": 1,
+   "gloryPoint": 60329,
+   "gloryPointChange": -29,
    "soldierRankID": 13
   }
  ],

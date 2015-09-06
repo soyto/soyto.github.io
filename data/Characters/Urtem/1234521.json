@@ -3,9 +3,9 @@
  "characterClassID": 16,
  "raceID": 1,
  "position": 625,
- "rankingPositionChange": 5,
- "gloryPoint": 13642,
- "gloryPointChange": 137,
+ "rankingPositionChange": 0,
+ "gloryPoint": 13634,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Niera",
  "guildName": "Wings of Blood",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 13642,
    "gloryPointChange": 137,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 625,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13634,
+   "gloryPointChange": -8,
    "soldierRankID": 11
   }
  ],

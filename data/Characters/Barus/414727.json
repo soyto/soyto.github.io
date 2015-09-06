@@ -2,9 +2,9 @@
  "characterID": 414727,
  "characterClassID": 2,
  "raceID": 1,
- "position": 806,
- "rankingPositionChange": -1,
- "gloryPoint": 14533,
+ "position": 801,
+ "rankingPositionChange": 5,
+ "gloryPoint": 14526,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Brzuzek",
@@ -270,6 +270,14 @@
    "position": 806,
    "rankingPositionChange": -1,
    "gloryPoint": 14533,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 801,
+   "rankingPositionChange": 5,
+   "gloryPoint": 14526,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

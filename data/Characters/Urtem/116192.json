@@ -2,9 +2,9 @@
  "characterID": 116192,
  "characterClassID": 5,
  "raceID": 1,
- "position": 781,
- "rankingPositionChange": 0,
- "gloryPoint": 10135,
+ "position": 785,
+ "rankingPositionChange": -4,
+ "gloryPoint": 10128,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yronjx",
@@ -264,6 +264,14 @@
    "position": 781,
    "rankingPositionChange": 0,
    "gloryPoint": 10135,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 785,
+   "rankingPositionChange": -4,
+   "gloryPoint": 10128,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 268706,
  "characterClassID": 8,
  "raceID": 0,
- "position": 208,
- "rankingPositionChange": 1,
- "gloryPoint": 76753,
- "gloryPointChange": 332,
+ "position": 210,
+ "rankingPositionChange": -2,
+ "gloryPoint": 76704,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Chitra",
  "guildName": "Warmness",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 76753,
    "gloryPointChange": 332,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 210,
+   "rankingPositionChange": -2,
+   "gloryPoint": 76704,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

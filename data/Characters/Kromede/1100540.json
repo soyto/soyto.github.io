@@ -2,12 +2,14 @@
  "characterID": 1100540,
  "characterClassID": 13,
  "raceID": 0,
- "position": 225,
+ "position": 224,
  "rankingPositionChange": 1,
- "gloryPoint": 57112,
- "gloryPointChange": 751,
+ "gloryPoint": 57567,
+ "gloryPointChange": 455,
  "soldierRankID": 13,
  "characterName": "Keijun",
+ "guildName": "NoLimit",
+ "guildID": 35695,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 57112,
    "gloryPointChange": 751,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 224,
+   "rankingPositionChange": 1,
+   "gloryPoint": 57567,
+   "gloryPointChange": 455,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "NoLimit",
+   "guildID": 35695
   }
  ]
 }

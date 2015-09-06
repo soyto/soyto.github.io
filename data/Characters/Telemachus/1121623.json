@@ -2,9 +2,9 @@
  "characterID": 1121623,
  "characterClassID": 14,
  "raceID": 1,
- "position": 574,
- "rankingPositionChange": 3,
- "gloryPoint": 2534,
+ "position": 579,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2520,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Smokeandfly",
@@ -134,6 +134,14 @@
    "position": 574,
    "rankingPositionChange": 3,
    "gloryPoint": 2534,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 579,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2520,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

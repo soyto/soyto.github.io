@@ -2,9 +2,9 @@
  "characterID": 93159,
  "characterClassID": 10,
  "raceID": 1,
- "position": 857,
- "rankingPositionChange": 4,
- "gloryPoint": 1943,
+ "position": 862,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1936,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rahibee",
@@ -270,6 +270,14 @@
    "position": 857,
    "rankingPositionChange": 4,
    "gloryPoint": 1943,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1936,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

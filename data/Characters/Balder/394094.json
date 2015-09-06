@@ -2,10 +2,10 @@
  "characterID": 394094,
  "characterClassID": 2,
  "raceID": 0,
- "position": 704,
- "rankingPositionChange": 4,
- "gloryPoint": 3413,
- "gloryPointChange": 17,
+ "position": 703,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3406,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pyrus",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 3413,
    "gloryPointChange": 17,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 703,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3406,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

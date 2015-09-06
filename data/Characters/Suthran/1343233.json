@@ -2,9 +2,9 @@
  "characterID": 1343233,
  "characterClassID": 11,
  "raceID": 1,
- "position": 898,
- "rankingPositionChange": 0,
- "gloryPoint": 5620,
+ "position": 899,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5613,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Azyira",
@@ -24,6 +24,14 @@
    "position": 898,
    "rankingPositionChange": 0,
    "gloryPoint": 5620,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 899,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5613,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

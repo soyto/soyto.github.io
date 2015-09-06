@@ -2,9 +2,9 @@
  "characterID": 360179,
  "characterClassID": 11,
  "raceID": 0,
- "position": 180,
- "rankingPositionChange": 0,
- "gloryPoint": 31319,
+ "position": 181,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31270,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Answin",
@@ -272,6 +272,14 @@
    "position": 180,
    "rankingPositionChange": 0,
    "gloryPoint": 31319,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 181,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31270,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

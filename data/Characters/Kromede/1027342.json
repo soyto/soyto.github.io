@@ -2,12 +2,12 @@
  "characterID": 1027342,
  "characterClassID": 4,
  "raceID": 1,
- "position": 437,
- "rankingPositionChange": 5,
- "gloryPoint": 12260,
- "gloryPointChange": 138,
+ "position": 438,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12232,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
- "characterName": "Zunlane",
+ "characterName": "Saynow",
  "guildName": "Covenant",
  "guildID": 13120,
  "status": [
@@ -266,12 +266,24 @@
    "gloryPoint": 12260,
    "gloryPointChange": 138,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 438,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12232,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Zunlane"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Saynow"
   }
  ],
  "guilds": [

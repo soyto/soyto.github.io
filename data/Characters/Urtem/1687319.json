@@ -2,10 +2,10 @@
  "characterID": 1687319,
  "characterClassID": 14,
  "raceID": 1,
- "position": 682,
- "rankingPositionChange": 6,
- "gloryPoint": 12306,
- "gloryPointChange": 136,
+ "position": 686,
+ "rankingPositionChange": -4,
+ "gloryPoint": 12295,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Bulletphile",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 12306,
    "gloryPointChange": 136,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 686,
+   "rankingPositionChange": -4,
+   "gloryPoint": 12295,
+   "gloryPointChange": -11,
    "soldierRankID": 11
   }
  ],

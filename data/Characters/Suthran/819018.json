@@ -2,10 +2,10 @@
  "characterID": 819018,
  "characterClassID": 1,
  "raceID": 1,
- "position": 553,
- "rankingPositionChange": 0,
- "gloryPoint": 13510,
- "gloryPointChange": 6,
+ "position": 554,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13496,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Deathangels",
  "guildName": "Oo Desert Storm Oo",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 13510,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 554,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13496,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

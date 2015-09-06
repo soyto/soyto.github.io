@@ -2,10 +2,10 @@
  "characterID": 234607,
  "characterClassID": 7,
  "raceID": 0,
- "position": 586,
- "rankingPositionChange": 1,
- "gloryPoint": 11347,
- "gloryPointChange": 74,
+ "position": 591,
+ "rankingPositionChange": -5,
+ "gloryPoint": 11336,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Duncann",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 11347,
    "gloryPointChange": 74,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 591,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11336,
+   "gloryPointChange": -11,
    "soldierRankID": 11
   }
  ],

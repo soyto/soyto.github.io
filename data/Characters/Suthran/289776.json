@@ -2,9 +2,9 @@
  "characterID": 289776,
  "characterClassID": 10,
  "raceID": 1,
- "position": 346,
- "rankingPositionChange": 0,
- "gloryPoint": 26653,
+ "position": 347,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26625,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Biologic",
@@ -72,6 +72,14 @@
    "position": 346,
    "rankingPositionChange": 0,
    "gloryPoint": 26653,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 347,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26625,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 1078723,
  "characterClassID": 2,
  "raceID": 0,
- "position": 234,
- "rankingPositionChange": 0,
- "gloryPoint": 55184,
- "gloryPointChange": 227,
+ "position": 236,
+ "rankingPositionChange": -2,
+ "gloryPoint": 55155,
+ "gloryPointChange": -29,
  "soldierRankID": 13,
  "characterName": "Ytto",
  "guildName": "Zergschmetterlinge",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 55184,
    "gloryPointChange": 227,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 236,
+   "rankingPositionChange": -2,
+   "gloryPoint": 55155,
+   "gloryPointChange": -29,
    "soldierRankID": 13
   }
  ],

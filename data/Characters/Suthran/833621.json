@@ -2,9 +2,9 @@
  "characterID": 833621,
  "characterClassID": 1,
  "raceID": 0,
- "position": 179,
- "rankingPositionChange": 1,
- "gloryPoint": 81306,
+ "position": 181,
+ "rankingPositionChange": -2,
+ "gloryPoint": 81257,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Komara",
@@ -270,6 +270,14 @@
    "position": 179,
    "rankingPositionChange": 1,
    "gloryPoint": 81306,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 181,
+   "rankingPositionChange": -2,
+   "gloryPoint": 81257,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

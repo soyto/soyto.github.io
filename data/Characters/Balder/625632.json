@@ -2,9 +2,9 @@
  "characterID": 625632,
  "characterClassID": 1,
  "raceID": 1,
- "position": 287,
- "rankingPositionChange": 1,
- "gloryPoint": 11529,
+ "position": 288,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11480,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Madcookie",
@@ -270,6 +270,14 @@
    "position": 287,
    "rankingPositionChange": 1,
    "gloryPoint": 11529,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 288,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11480,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

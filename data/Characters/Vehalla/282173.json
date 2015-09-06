@@ -2,9 +2,9 @@
  "characterID": 282173,
  "characterClassID": 4,
  "raceID": 1,
- "position": 638,
- "rankingPositionChange": 1,
- "gloryPoint": 1313,
+ "position": 639,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1306,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Steelyy",
@@ -264,6 +264,14 @@
    "position": 638,
    "rankingPositionChange": 1,
    "gloryPoint": 1313,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 639,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1306,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

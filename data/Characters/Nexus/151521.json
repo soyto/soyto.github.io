@@ -2,14 +2,14 @@
  "characterID": 151521,
  "characterClassID": 4,
  "raceID": 0,
- "position": 178,
- "rankingPositionChange": -1,
- "gloryPoint": 61650,
- "gloryPointChange": 391,
+ "position": 177,
+ "rankingPositionChange": 1,
+ "gloryPoint": 61875,
+ "gloryPointChange": 225,
  "soldierRankID": 13,
  "characterName": "Itsmebisu",
- "guildName": "Touch My Body",
- "guildID": 15985,
+ "guildName": "Demi Lovato Fanclub",
+ "guildID": 16510,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 61650,
    "gloryPointChange": 391,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 177,
+   "rankingPositionChange": 1,
+   "gloryPoint": 61875,
+   "gloryPointChange": 225,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Touch My Body",
    "guildID": 15985
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Demi Lovato Fanclub",
+   "guildID": 16510
   }
  ]
 }

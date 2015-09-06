@@ -2,10 +2,10 @@
  "characterID": 769676,
  "characterClassID": 1,
  "raceID": 1,
- "position": 644,
- "rankingPositionChange": 8,
- "gloryPoint": 5296,
- "gloryPointChange": 199,
+ "position": 647,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5282,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lakshni",
  "guildName": "Exiled Riders",
@@ -233,6 +233,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 5296,
    "gloryPointChange": 199,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 647,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5282,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,12 +2,12 @@
  "characterID": 1734329,
  "characterClassID": 14,
  "raceID": 1,
- "position": 921,
- "rankingPositionChange": -1,
- "gloryPoint": 11945,
- "gloryPointChange": 93,
+ "position": 913,
+ "rankingPositionChange": 8,
+ "gloryPoint": 12181,
+ "gloryPointChange": 236,
  "soldierRankID": 10,
- "characterName": "Hiromota",
+ "characterName": "Esposito",
  "status": [
   {
    "date": "2015-08-19T22:00:00.000Z",
@@ -120,12 +120,24 @@
    "gloryPoint": 11945,
    "gloryPointChange": 93,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 913,
+   "rankingPositionChange": 8,
+   "gloryPoint": 12181,
+   "gloryPointChange": 236,
+   "soldierRankID": 10
   }
  ],
  "names": [
   {
    "date": "2015-08-19T22:00:00.000Z",
    "characterName": "Hiromota"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Esposito"
   }
  ],
  "guilds": [

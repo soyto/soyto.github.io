@@ -2,9 +2,9 @@
  "characterID": 684315,
  "characterClassID": 8,
  "raceID": 1,
- "position": 471,
- "rankingPositionChange": 2,
- "gloryPoint": 10279,
+ "position": 474,
+ "rankingPositionChange": -3,
+ "gloryPoint": 10251,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tactictoe",
@@ -272,6 +272,14 @@
    "position": 471,
    "rankingPositionChange": 2,
    "gloryPoint": 10279,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 474,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10251,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

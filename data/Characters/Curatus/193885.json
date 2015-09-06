@@ -2,10 +2,10 @@
  "characterID": 193885,
  "characterClassID": 10,
  "raceID": 1,
- "position": 265,
- "rankingPositionChange": 1,
- "gloryPoint": 29625,
- "gloryPointChange": 39,
+ "position": 266,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29757,
+ "gloryPointChange": 132,
  "soldierRankID": 13,
  "characterName": "Kanashimi",
  "guildName": "RNG",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 29625,
    "gloryPointChange": 39,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 266,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29757,
+   "gloryPointChange": 132,
    "soldierRankID": 13
   }
  ],

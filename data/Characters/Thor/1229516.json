@@ -2,10 +2,10 @@
  "characterID": 1229516,
  "characterClassID": 1,
  "raceID": 0,
- "position": 205,
- "rankingPositionChange": 0,
- "gloryPoint": 87967,
- "gloryPointChange": 97,
+ "position": 206,
+ "rankingPositionChange": -1,
+ "gloryPoint": 87918,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Bazy",
  "guildName": "One  Way",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 87967,
    "gloryPointChange": 97,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 206,
+   "rankingPositionChange": -1,
+   "gloryPoint": 87918,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

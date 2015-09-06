@@ -2,10 +2,10 @@
  "characterID": 432674,
  "characterClassID": 1,
  "raceID": 0,
- "position": 197,
- "rankingPositionChange": 5,
- "gloryPoint": 26720,
- "gloryPointChange": 417,
+ "position": 199,
+ "rankingPositionChange": -2,
+ "gloryPoint": 26671,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Maerix",
  "guildName": "Moon",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 26720,
    "gloryPointChange": 417,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 199,
+   "rankingPositionChange": -2,
+   "gloryPoint": 26671,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 955538,
  "characterClassID": 10,
  "raceID": 1,
- "position": 753,
- "rankingPositionChange": 0,
- "gloryPoint": 10742,
+ "position": 755,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10735,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mikuhime",
@@ -272,6 +272,14 @@
    "position": 753,
    "rankingPositionChange": 0,
    "gloryPoint": 10742,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 755,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10735,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 917606,
  "characterClassID": 2,
  "raceID": 1,
- "position": 336,
- "rankingPositionChange": -2,
- "gloryPoint": 46831,
+ "position": 335,
+ "rankingPositionChange": 1,
+ "gloryPoint": 46803,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Triaz",
@@ -264,6 +264,14 @@
    "position": 336,
    "rankingPositionChange": -2,
    "gloryPoint": 46831,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 335,
+   "rankingPositionChange": 1,
+   "gloryPoint": 46803,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

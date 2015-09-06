@@ -2,9 +2,9 @@
  "characterID": 478824,
  "characterClassID": 14,
  "raceID": 0,
- "position": 750,
- "rankingPositionChange": 0,
- "gloryPoint": 2261,
+ "position": 751,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2254,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zetsuena",
@@ -272,6 +272,14 @@
    "position": 750,
    "rankingPositionChange": 0,
    "gloryPoint": 2261,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 751,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2254,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

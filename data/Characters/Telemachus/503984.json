@@ -2,9 +2,9 @@
  "characterID": 503984,
  "characterClassID": 10,
  "raceID": 1,
- "position": 423,
- "rankingPositionChange": 1,
- "gloryPoint": 5458,
+ "position": 424,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5430,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Healarou",
@@ -272,6 +272,14 @@
    "position": 423,
    "rankingPositionChange": 1,
    "gloryPoint": 5458,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 424,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5430,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

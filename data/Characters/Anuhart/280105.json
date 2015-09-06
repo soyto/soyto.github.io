@@ -2,9 +2,9 @@
  "characterID": 280105,
  "characterClassID": 1,
  "raceID": 1,
- "position": 807,
- "rankingPositionChange": 2,
- "gloryPoint": 2850,
+ "position": 811,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2843,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vicardio",
@@ -272,6 +272,14 @@
    "position": 807,
    "rankingPositionChange": 2,
    "gloryPoint": 2850,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 811,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2843,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 82840,
  "characterClassID": 1,
  "raceID": 0,
- "position": 322,
- "rankingPositionChange": -1,
- "gloryPoint": 17531,
+ "position": 321,
+ "rankingPositionChange": 1,
+ "gloryPoint": 17503,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Deimos",
@@ -272,6 +272,14 @@
    "position": 322,
    "rankingPositionChange": -1,
    "gloryPoint": 17531,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 321,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17503,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

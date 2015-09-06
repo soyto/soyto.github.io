@@ -2,10 +2,10 @@
  "characterID": 742629,
  "characterClassID": 10,
  "raceID": 1,
- "position": 353,
- "rankingPositionChange": 0,
- "gloryPoint": 29135,
- "gloryPointChange": 160,
+ "position": 354,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29235,
+ "gloryPointChange": 100,
  "soldierRankID": 12,
  "characterName": "Lakeen",
  "guildName": "Osef Stuff Need GamePlay",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 29135,
    "gloryPointChange": 160,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 354,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29235,
+   "gloryPointChange": 100,
    "soldierRankID": 12
   }
  ],

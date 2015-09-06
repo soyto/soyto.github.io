@@ -2,10 +2,10 @@
  "characterID": 760384,
  "characterClassID": 5,
  "raceID": 0,
- "position": 854,
- "rankingPositionChange": 2,
- "gloryPoint": 18396,
- "gloryPointChange": 93,
+ "position": 855,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18392,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Netii",
  "guildName": "Arch Angelus",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 18396,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18392,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

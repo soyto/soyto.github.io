@@ -2,9 +2,9 @@
  "characterID": 284804,
  "characterClassID": 16,
  "raceID": 1,
- "position": 804,
- "rankingPositionChange": 2,
- "gloryPoint": 2378,
+ "position": 808,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2371,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cenena",
@@ -272,6 +272,14 @@
    "position": 804,
    "rankingPositionChange": 2,
    "gloryPoint": 2378,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 808,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2371,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -3,8 +3,8 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 340,
- "rankingPositionChange": 2,
- "gloryPoint": 9760,
+ "rankingPositionChange": 0,
+ "gloryPoint": 9732,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Nasus",
@@ -272,6 +272,14 @@
    "position": 340,
    "rankingPositionChange": 2,
    "gloryPoint": 9760,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 340,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9732,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 3900,
  "characterClassID": 1,
  "raceID": 1,
- "position": 127,
- "rankingPositionChange": 0,
- "gloryPoint": 71964,
+ "position": 129,
+ "rankingPositionChange": -2,
+ "gloryPoint": 71915,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kurtbey",
@@ -272,6 +272,14 @@
    "position": 127,
    "rankingPositionChange": 0,
    "gloryPoint": 71964,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 129,
+   "rankingPositionChange": -2,
+   "gloryPoint": 71915,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

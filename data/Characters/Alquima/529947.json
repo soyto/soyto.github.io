@@ -2,10 +2,10 @@
  "characterID": 529947,
  "characterClassID": 10,
  "raceID": 1,
- "position": 259,
- "rankingPositionChange": 5,
- "gloryPoint": 33831,
- "gloryPointChange": 532,
+ "position": 260,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34091,
+ "gloryPointChange": 260,
  "soldierRankID": 13,
  "characterName": "Agniss",
  "guildName": "Dark Einhasad",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 33831,
    "gloryPointChange": 532,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 260,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34091,
+   "gloryPointChange": 260,
    "soldierRankID": 13
   }
  ],

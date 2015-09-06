@@ -2,10 +2,10 @@
  "characterID": 14222,
  "characterClassID": 5,
  "raceID": 0,
- "position": 528,
- "rankingPositionChange": 6,
- "gloryPoint": 13875,
- "gloryPointChange": 155,
+ "position": 530,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13861,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Stronggirl",
  "guildName": "D O S T",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 13875,
    "gloryPointChange": 155,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 530,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13861,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

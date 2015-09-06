@@ -2,10 +2,10 @@
  "characterID": 1169236,
  "characterClassID": 1,
  "raceID": 1,
- "position": 519,
- "rankingPositionChange": 2,
- "gloryPoint": 27161,
- "gloryPointChange": 192,
+ "position": 520,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27200,
+ "gloryPointChange": 39,
  "soldierRankID": 11,
  "characterName": "Sijora",
  "guildName": "Black listed",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 27161,
    "gloryPointChange": 192,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 520,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27200,
+   "gloryPointChange": 39,
    "soldierRankID": 11
   }
  ],

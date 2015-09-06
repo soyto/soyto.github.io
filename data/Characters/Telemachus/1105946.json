@@ -2,9 +2,9 @@
  "characterID": 1105946,
  "characterClassID": 13,
  "raceID": 1,
- "position": 594,
- "rankingPositionChange": 4,
- "gloryPoint": 2241,
+ "position": 598,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2227,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Cyrilla",
@@ -272,6 +272,14 @@
    "position": 594,
    "rankingPositionChange": 4,
    "gloryPoint": 2241,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 598,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2227,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

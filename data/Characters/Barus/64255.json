@@ -2,10 +2,10 @@
  "characterID": 64255,
  "characterClassID": 14,
  "raceID": 0,
- "position": 326,
- "rankingPositionChange": 0,
- "gloryPoint": 46720,
- "gloryPointChange": 122,
+ "position": 327,
+ "rankingPositionChange": -1,
+ "gloryPoint": 46692,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Jimjam",
  "guildName": "   Prestige   ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 46720,
    "gloryPointChange": 122,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 327,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46692,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

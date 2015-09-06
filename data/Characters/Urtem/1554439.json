@@ -2,9 +2,9 @@
  "characterID": 1554439,
  "characterClassID": 8,
  "raceID": 1,
- "position": 806,
- "rankingPositionChange": 0,
- "gloryPoint": 9732,
+ "position": 808,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9725,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xeam",
@@ -272,6 +272,14 @@
    "position": 806,
    "rankingPositionChange": 0,
    "gloryPoint": 9732,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 808,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9725,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

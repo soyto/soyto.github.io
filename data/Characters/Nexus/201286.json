@@ -2,10 +2,10 @@
  "characterID": 201286,
  "characterClassID": 2,
  "raceID": 0,
- "position": 632,
- "rankingPositionChange": 5,
- "gloryPoint": 11600,
- "gloryPointChange": 106,
+ "position": 634,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11586,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Stabilyzer",
  "guildName": "Low Profile",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 11600,
    "gloryPointChange": 106,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 634,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11586,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

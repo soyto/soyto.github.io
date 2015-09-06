@@ -2,9 +2,9 @@
  "characterID": 51295,
  "characterClassID": 11,
  "raceID": 1,
- "position": 220,
- "rankingPositionChange": 1,
- "gloryPoint": 34769,
+ "position": 221,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34720,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Reinz",
@@ -272,6 +272,14 @@
    "position": 220,
    "rankingPositionChange": 1,
    "gloryPoint": 34769,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 221,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34720,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

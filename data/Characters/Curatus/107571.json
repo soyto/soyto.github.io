@@ -2,9 +2,9 @@
  "characterID": 107571,
  "characterClassID": 2,
  "raceID": 1,
- "position": 146,
- "rankingPositionChange": 0,
- "gloryPoint": 52578,
+ "position": 147,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52529,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Geminii",
@@ -272,6 +272,14 @@
    "position": 146,
    "rankingPositionChange": 0,
    "gloryPoint": 52578,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52529,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 117296,
  "characterClassID": 16,
  "raceID": 0,
- "position": 861,
- "rankingPositionChange": 3,
- "gloryPoint": 4186,
+ "position": 867,
+ "rankingPositionChange": -6,
+ "gloryPoint": 4179,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eswicca",
@@ -272,6 +272,14 @@
    "position": 861,
    "rankingPositionChange": 3,
    "gloryPoint": 4186,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 867,
+   "rankingPositionChange": -6,
+   "gloryPoint": 4179,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

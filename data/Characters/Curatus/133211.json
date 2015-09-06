@@ -2,10 +2,10 @@
  "characterID": 133211,
  "characterClassID": 10,
  "raceID": 0,
- "position": 265,
- "rankingPositionChange": 1,
- "gloryPoint": 63075,
- "gloryPointChange": 1,
+ "position": 266,
+ "rankingPositionChange": -1,
+ "gloryPoint": 63026,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Advanced",
  "guildName": " Enigma ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 63075,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 266,
+   "rankingPositionChange": -1,
+   "gloryPoint": 63026,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 911537,
  "characterClassID": 11,
  "raceID": 0,
- "position": 903,
- "rankingPositionChange": 0,
- "gloryPoint": 5561,
+ "position": 906,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5554,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sliiz",
@@ -134,6 +134,14 @@
    "position": 903,
    "rankingPositionChange": 0,
    "gloryPoint": 5561,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 906,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5554,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

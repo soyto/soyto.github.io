@@ -2,9 +2,9 @@
  "characterID": 297998,
  "characterClassID": 10,
  "raceID": 1,
- "position": 950,
- "rankingPositionChange": 3,
- "gloryPoint": 1286,
+ "position": 957,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1279,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Copro",
@@ -272,6 +272,14 @@
    "position": 950,
    "rankingPositionChange": 3,
    "gloryPoint": 1286,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 957,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1279,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

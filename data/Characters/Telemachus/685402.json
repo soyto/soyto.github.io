@@ -2,10 +2,10 @@
  "characterID": 685402,
  "characterClassID": 8,
  "raceID": 0,
- "position": 438,
- "rankingPositionChange": 2,
- "gloryPoint": 28328,
- "gloryPointChange": 242,
+ "position": 439,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28300,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tylerr",
  "guildName": "Touch My PvPnis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 28328,
    "gloryPointChange": 242,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 439,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28300,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

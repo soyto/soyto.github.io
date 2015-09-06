@@ -2,9 +2,9 @@
  "characterID": 130627,
  "characterClassID": 10,
  "raceID": 1,
- "position": 668,
- "rankingPositionChange": 1,
- "gloryPoint": 4296,
+ "position": 672,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4282,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Cardyn",
@@ -272,6 +272,14 @@
    "position": 668,
    "rankingPositionChange": 1,
    "gloryPoint": 4296,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 672,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4282,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

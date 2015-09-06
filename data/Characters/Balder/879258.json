@@ -2,9 +2,9 @@
  "characterID": 879258,
  "characterClassID": 4,
  "raceID": 1,
- "position": 245,
- "rankingPositionChange": 1,
- "gloryPoint": 14733,
+ "position": 246,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14684,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Leiiya",
@@ -272,6 +272,14 @@
    "position": 245,
    "rankingPositionChange": 1,
    "gloryPoint": 14733,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 246,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14684,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

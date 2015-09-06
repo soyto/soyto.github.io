@@ -2,10 +2,10 @@
  "characterID": 9836,
  "characterClassID": 8,
  "raceID": 1,
- "position": 591,
- "rankingPositionChange": 1,
- "gloryPoint": 6313,
- "gloryPointChange": 16,
+ "position": 592,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6319,
+ "gloryPointChange": 6,
  "soldierRankID": 11,
  "characterName": "Magitana",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 6313,
    "gloryPointChange": 16,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 592,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6319,
+   "gloryPointChange": 6,
    "soldierRankID": 11
   }
  ],

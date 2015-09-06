@@ -2,12 +2,14 @@
  "characterID": 1285623,
  "characterClassID": 10,
  "raceID": 1,
- "position": 698,
- "rankingPositionChange": 10,
- "gloryPoint": 5609,
- "gloryPointChange": 103,
+ "position": 696,
+ "rankingPositionChange": 2,
+ "gloryPoint": 5719,
+ "gloryPointChange": 110,
  "soldierRankID": 11,
  "characterName": "Drachenpaladin",
+ "guildName": "The Soul Catcher",
+ "guildID": 20657,
  "status": [
   {
    "date": "2015-08-13T22:00:00.000Z",
@@ -168,6 +170,14 @@
    "gloryPoint": 5609,
    "gloryPointChange": 103,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 696,
+   "rankingPositionChange": 2,
+   "gloryPoint": 5719,
+   "gloryPointChange": 110,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -184,6 +194,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "The Soul Catcher",
+   "guildID": 20657
   }
  ]
 }

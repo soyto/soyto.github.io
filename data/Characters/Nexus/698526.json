@@ -2,9 +2,9 @@
  "characterID": 698526,
  "characterClassID": 14,
  "raceID": 0,
- "position": 481,
- "rankingPositionChange": 0,
- "gloryPoint": 18264,
+ "position": 484,
+ "rankingPositionChange": -3,
+ "gloryPoint": 18236,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Juliocesar",
@@ -272,6 +272,14 @@
    "position": 481,
    "rankingPositionChange": 0,
    "gloryPoint": 18264,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 484,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18236,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

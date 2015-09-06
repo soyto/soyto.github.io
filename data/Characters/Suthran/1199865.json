@@ -2,10 +2,10 @@
  "characterID": 1199865,
  "characterClassID": 11,
  "raceID": 0,
- "position": 217,
- "rankingPositionChange": 2,
- "gloryPoint": 71507,
- "gloryPointChange": 263,
+ "position": 218,
+ "rankingPositionChange": -1,
+ "gloryPoint": 71458,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Encium",
  "guildName": "Vent de Farore",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 71507,
    "gloryPointChange": 263,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 218,
+   "rankingPositionChange": -1,
+   "gloryPoint": 71458,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

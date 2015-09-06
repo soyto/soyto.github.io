@@ -3,11 +3,11 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 196,
- "rankingPositionChange": 5,
- "gloryPoint": 40292,
- "gloryPointChange": 501,
+ "rankingPositionChange": 0,
+ "gloryPoint": 40449,
+ "gloryPointChange": 157,
  "soldierRankID": 13,
- "characterName": "Maihes",
+ "characterName": "Andromeeda",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,12 +272,24 @@
    "gloryPoint": 40292,
    "gloryPointChange": 501,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": 0,
+   "gloryPoint": 40449,
+   "gloryPointChange": 157,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Maihes"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Andromeeda"
   }
  ],
  "guilds": [

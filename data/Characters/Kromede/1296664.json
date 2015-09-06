@@ -2,9 +2,9 @@
  "characterID": 1296664,
  "characterClassID": 4,
  "raceID": 1,
- "position": 506,
- "rankingPositionChange": 2,
- "gloryPoint": 9582,
+ "position": 508,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9568,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Spiiritus",
@@ -264,6 +264,14 @@
    "position": 506,
    "rankingPositionChange": 2,
    "gloryPoint": 9582,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9568,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

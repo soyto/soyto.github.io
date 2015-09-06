@@ -2,10 +2,10 @@
  "characterID": 99261,
  "characterClassID": 1,
  "raceID": 0,
- "position": 588,
- "rankingPositionChange": 3,
- "gloryPoint": 22414,
- "gloryPointChange": 296,
+ "position": 587,
+ "rankingPositionChange": 1,
+ "gloryPoint": 22400,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Raydn",
  "guildName": "JFF",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 22414,
    "gloryPointChange": 296,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 587,
+   "rankingPositionChange": 1,
+   "gloryPoint": 22400,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

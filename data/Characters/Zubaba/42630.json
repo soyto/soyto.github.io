@@ -2,9 +2,9 @@
  "characterID": 42630,
  "characterClassID": 7,
  "raceID": 0,
- "position": 797,
- "rankingPositionChange": 3,
- "gloryPoint": 5399,
+ "position": 800,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5392,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mihrace",
@@ -272,6 +272,14 @@
    "position": 797,
    "rankingPositionChange": 3,
    "gloryPoint": 5399,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5392,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 185748,
  "characterClassID": 14,
  "raceID": 0,
- "position": 844,
- "rankingPositionChange": 2,
- "gloryPoint": 4527,
+ "position": 848,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4520,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Serimnir",
@@ -270,6 +270,14 @@
    "position": 844,
    "rankingPositionChange": 2,
    "gloryPoint": 4527,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 848,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4520,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

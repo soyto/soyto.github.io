@@ -3,9 +3,9 @@
  "characterClassID": 2,
  "raceID": 0,
  "position": 307,
- "rankingPositionChange": 2,
- "gloryPoint": 62181,
- "gloryPointChange": 525,
+ "rankingPositionChange": 0,
+ "gloryPoint": 62156,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Chirno",
  "guildName": " La Vida Loca ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 62181,
    "gloryPointChange": 525,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": 0,
+   "gloryPoint": 62156,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

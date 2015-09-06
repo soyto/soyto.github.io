@@ -2,10 +2,10 @@
  "characterID": 269180,
  "characterClassID": 8,
  "raceID": 0,
- "position": 518,
- "rankingPositionChange": 1,
- "gloryPoint": 27299,
- "gloryPointChange": 86,
+ "position": 520,
+ "rankingPositionChange": -2,
+ "gloryPoint": 27285,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Quul",
  "guildName": "Heavenly",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 27299,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 520,
+   "rankingPositionChange": -2,
+   "gloryPoint": 27285,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

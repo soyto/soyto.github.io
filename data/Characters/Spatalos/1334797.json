@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 742,
- "rankingPositionChange": 1,
- "gloryPoint": 3909,
- "gloryPointChange": 26,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3902,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mattheo",
  "guildName": "SK friends CZ",
@@ -233,6 +233,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 3909,
    "gloryPointChange": 26,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3902,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

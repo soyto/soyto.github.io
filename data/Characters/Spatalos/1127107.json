@@ -2,9 +2,9 @@
  "characterID": 1127107,
  "characterClassID": 16,
  "raceID": 1,
- "position": 443,
- "rankingPositionChange": 0,
- "gloryPoint": 10040,
+ "position": 444,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10012,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Jenniie",
@@ -264,6 +264,14 @@
    "position": 443,
    "rankingPositionChange": 0,
    "gloryPoint": 10040,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 444,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10012,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

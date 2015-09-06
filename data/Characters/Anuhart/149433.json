@@ -2,9 +2,9 @@
  "characterID": 149433,
  "characterClassID": 2,
  "raceID": 0,
- "position": 356,
- "rankingPositionChange": -4,
- "gloryPoint": 25601,
+ "position": 355,
+ "rankingPositionChange": 1,
+ "gloryPoint": 25573,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Jokk",
@@ -168,6 +168,14 @@
    "position": 356,
    "rankingPositionChange": -4,
    "gloryPoint": 25601,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 355,
+   "rankingPositionChange": 1,
+   "gloryPoint": 25573,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

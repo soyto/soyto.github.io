@@ -2,10 +2,10 @@
  "characterID": 790871,
  "characterClassID": 1,
  "raceID": 0,
- "position": 225,
- "rankingPositionChange": 1,
- "gloryPoint": 48532,
- "gloryPointChange": 521,
+ "position": 226,
+ "rankingPositionChange": -1,
+ "gloryPoint": 48861,
+ "gloryPointChange": 329,
  "soldierRankID": 13,
  "characterName": "Kanita",
  "guildName": "Fantasy",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 48532,
    "gloryPointChange": 521,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 226,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48861,
+   "gloryPointChange": 329,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1167419,
  "characterClassID": 11,
  "raceID": 1,
- "position": 554,
- "rankingPositionChange": 3,
- "gloryPoint": 7608,
+ "position": 556,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7594,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Neroulita",
@@ -272,6 +272,14 @@
    "position": 554,
    "rankingPositionChange": 3,
    "gloryPoint": 7608,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7594,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

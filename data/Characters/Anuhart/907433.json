@@ -2,9 +2,9 @@
  "characterID": 907433,
  "characterClassID": 10,
  "raceID": 1,
- "position": 654,
- "rankingPositionChange": 1,
- "gloryPoint": 5043,
+ "position": 657,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5029,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mrheall",
@@ -142,6 +142,14 @@
    "position": 654,
    "rankingPositionChange": 1,
    "gloryPoint": 5043,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 657,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5029,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

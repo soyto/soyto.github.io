@@ -2,9 +2,9 @@
  "characterID": 97545,
  "characterClassID": 16,
  "raceID": 1,
- "position": 779,
- "rankingPositionChange": 1,
- "gloryPoint": 2743,
+ "position": 785,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2736,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Juviia",
@@ -272,6 +272,14 @@
    "position": 779,
    "rankingPositionChange": 1,
    "gloryPoint": 2743,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 785,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2736,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

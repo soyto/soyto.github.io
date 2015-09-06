@@ -2,11 +2,11 @@
  "characterID": 302029,
  "characterClassID": 16,
  "raceID": 0,
- "position": 999,
- "rankingPositionChange": 0,
- "gloryPoint": 9655,
+ "position": 1000,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9648,
  "gloryPointChange": -7,
- "soldierRankID": 10,
+ "soldierRankID": 0,
  "characterName": "Hydris",
  "status": [
   {
@@ -256,6 +256,14 @@
    "gloryPoint": 9655,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9648,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
   }
  ],
  "names": [

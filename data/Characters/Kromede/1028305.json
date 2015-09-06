@@ -2,9 +2,9 @@
  "characterID": 1028305,
  "characterClassID": 10,
  "raceID": 1,
- "position": 994,
- "rankingPositionChange": 1,
- "gloryPoint": 2874,
+ "position": 998,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2867,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hazzzel",
@@ -254,6 +254,14 @@
    "position": 994,
    "rankingPositionChange": 1,
    "gloryPoint": 2874,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2867,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

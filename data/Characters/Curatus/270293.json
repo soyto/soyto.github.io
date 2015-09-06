@@ -2,9 +2,9 @@
  "characterID": 270293,
  "characterClassID": 10,
  "raceID": 1,
- "position": 170,
- "rankingPositionChange": 1,
- "gloryPoint": 44652,
+ "position": 175,
+ "rankingPositionChange": -5,
+ "gloryPoint": 44603,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Redeemer",
@@ -272,6 +272,14 @@
    "position": 170,
    "rankingPositionChange": 1,
    "gloryPoint": 44652,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 175,
+   "rankingPositionChange": -5,
+   "gloryPoint": 44603,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

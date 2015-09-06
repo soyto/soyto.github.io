@@ -2,14 +2,12 @@
  "characterID": 1275985,
  "characterClassID": 2,
  "raceID": 1,
- "position": 778,
- "rankingPositionChange": -2,
- "gloryPoint": 7770,
- "gloryPointChange": -7,
+ "position": 772,
+ "rankingPositionChange": 6,
+ "gloryPoint": 7947,
+ "gloryPointChange": 177,
  "soldierRankID": 10,
- "characterName": "Bartanl",
- "guildName": "Illlllllllllllll",
- "guildID": 42665,
+ "characterName": "Yubias",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,12 +272,24 @@
    "gloryPoint": 7770,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 772,
+   "rankingPositionChange": 6,
+   "gloryPoint": 7947,
+   "gloryPointChange": 177,
+   "soldierRankID": 10
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Bartanl"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Yubias"
   }
  ],
  "guilds": [
@@ -287,6 +297,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Illlllllllllllll",
    "guildID": 42665
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

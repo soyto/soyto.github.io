@@ -2,9 +2,9 @@
  "characterID": 1180987,
  "characterClassID": 10,
  "raceID": 1,
- "position": 957,
- "rankingPositionChange": 5,
- "gloryPoint": 1726,
+ "position": 962,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1719,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Verica",
@@ -32,6 +32,14 @@
    "position": 957,
    "rankingPositionChange": 5,
    "gloryPoint": 1726,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1719,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

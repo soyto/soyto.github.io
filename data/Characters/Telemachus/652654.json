@@ -2,9 +2,9 @@
  "characterID": 652654,
  "characterClassID": 10,
  "raceID": 1,
- "position": 361,
- "rankingPositionChange": 1,
- "gloryPoint": 8177,
+ "position": 364,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8149,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Nermen",
@@ -272,6 +272,14 @@
    "position": 361,
    "rankingPositionChange": 1,
    "gloryPoint": 8177,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8149,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

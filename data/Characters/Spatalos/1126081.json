@@ -2,10 +2,10 @@
  "characterID": 1126081,
  "characterClassID": 2,
  "raceID": 1,
- "position": 561,
- "rankingPositionChange": -1,
- "gloryPoint": 6632,
- "gloryPointChange": -11,
+ "position": 559,
+ "rankingPositionChange": 2,
+ "gloryPoint": 6710,
+ "gloryPointChange": 78,
  "soldierRankID": 11,
  "characterName": "Ringman",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 6632,
    "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 559,
+   "rankingPositionChange": 2,
+   "gloryPoint": 6710,
+   "gloryPointChange": 78,
    "soldierRankID": 11
   }
  ],

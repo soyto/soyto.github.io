@@ -2,9 +2,9 @@
  "characterID": 1261564,
  "characterClassID": 5,
  "raceID": 1,
- "position": 952,
- "rankingPositionChange": -3,
- "gloryPoint": 1717,
+ "position": 951,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1710,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Matejovsky",
@@ -136,6 +136,14 @@
    "position": 952,
    "rankingPositionChange": -3,
    "gloryPoint": 1717,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1710,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

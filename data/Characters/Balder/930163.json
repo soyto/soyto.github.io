@@ -2,9 +2,9 @@
  "characterID": 930163,
  "characterClassID": 16,
  "raceID": 1,
- "position": 389,
- "rankingPositionChange": 3,
- "gloryPoint": 4714,
+ "position": 390,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4686,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kamunila",
@@ -272,6 +272,14 @@
    "position": 389,
    "rankingPositionChange": 3,
    "gloryPoint": 4714,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 390,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4686,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

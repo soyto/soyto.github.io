@@ -2,9 +2,9 @@
  "characterID": 120296,
  "characterClassID": 4,
  "raceID": 1,
- "position": 792,
- "rankingPositionChange": 0,
- "gloryPoint": 2537,
+ "position": 797,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2530,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Physicity",
@@ -272,6 +272,14 @@
    "position": 792,
    "rankingPositionChange": 0,
    "gloryPoint": 2537,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 797,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2530,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

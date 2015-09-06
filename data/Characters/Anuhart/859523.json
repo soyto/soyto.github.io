@@ -2,9 +2,9 @@
  "characterID": 859523,
  "characterClassID": 14,
  "raceID": 1,
- "position": 871,
- "rankingPositionChange": 4,
- "gloryPoint": 2254,
+ "position": 876,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2247,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fullyerect",
@@ -272,6 +272,14 @@
    "position": 871,
    "rankingPositionChange": 4,
    "gloryPoint": 2254,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 876,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2247,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 567353,
  "characterClassID": 5,
  "raceID": 1,
- "position": 826,
- "rankingPositionChange": 1,
- "gloryPoint": 6688,
+ "position": 832,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6681,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Azrya",
@@ -272,6 +272,14 @@
    "position": 826,
    "rankingPositionChange": 1,
    "gloryPoint": 6688,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 832,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6681,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

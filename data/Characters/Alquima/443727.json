@@ -2,9 +2,9 @@
  "characterID": 443727,
  "characterClassID": 7,
  "raceID": 0,
- "position": 75,
- "rankingPositionChange": -1,
- "gloryPoint": 131070,
+ "position": 74,
+ "rankingPositionChange": 1,
+ "gloryPoint": 130963,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Guildenstern",
@@ -264,6 +264,14 @@
    "position": 75,
    "rankingPositionChange": -1,
    "gloryPoint": 131070,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": 1,
+   "gloryPoint": 130963,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

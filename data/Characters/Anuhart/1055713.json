@@ -2,9 +2,9 @@
  "characterID": 1055713,
  "characterClassID": 2,
  "raceID": 1,
- "position": 835,
- "rankingPositionChange": 4,
- "gloryPoint": 2532,
+ "position": 840,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2528,
  "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Windfire",
@@ -272,6 +272,14 @@
    "position": 835,
    "rankingPositionChange": 4,
    "gloryPoint": 2532,
+   "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2528,
    "gloryPointChange": -4,
    "soldierRankID": 10
   }

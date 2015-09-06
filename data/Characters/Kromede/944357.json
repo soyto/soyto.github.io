@@ -2,9 +2,9 @@
  "characterID": 944357,
  "characterClassID": 14,
  "raceID": 1,
- "position": 443,
- "rankingPositionChange": 2,
- "gloryPoint": 12008,
+ "position": 444,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11980,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tescut",
@@ -272,6 +272,14 @@
    "position": 443,
    "rankingPositionChange": 2,
    "gloryPoint": 12008,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 444,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11980,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

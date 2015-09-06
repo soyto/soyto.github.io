@@ -2,10 +2,10 @@
  "characterID": 1107081,
  "characterClassID": 10,
  "raceID": 0,
- "position": 275,
- "rankingPositionChange": 2,
- "gloryPoint": 68565,
- "gloryPointChange": 251,
+ "position": 276,
+ "rankingPositionChange": -1,
+ "gloryPoint": 68616,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Euthanasie",
  "guildName": "Broins Berserker",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 68565,
    "gloryPointChange": 251,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 276,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68616,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

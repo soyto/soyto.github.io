@@ -2,10 +2,10 @@
  "characterID": 1491134,
  "characterClassID": 14,
  "raceID": 0,
- "position": 518,
- "rankingPositionChange": 0,
- "gloryPoint": 32107,
- "gloryPointChange": -14,
+ "position": 519,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32158,
+ "gloryPointChange": 51,
  "soldierRankID": 11,
  "characterName": "Bakasensei",
  "status": [
@@ -199,6 +199,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 32107,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 519,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32158,
+   "gloryPointChange": 51,
    "soldierRankID": 11
   }
  ],

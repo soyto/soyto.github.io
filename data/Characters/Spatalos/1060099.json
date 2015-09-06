@@ -2,9 +2,9 @@
  "characterID": 1060099,
  "characterClassID": 16,
  "raceID": 0,
- "position": 891,
- "rankingPositionChange": -2,
- "gloryPoint": 7834,
+ "position": 890,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7827,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wire",
@@ -272,6 +272,14 @@
    "position": 891,
    "rankingPositionChange": -2,
    "gloryPoint": 7834,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 890,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7827,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

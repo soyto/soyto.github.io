@@ -2,9 +2,9 @@
  "characterID": 524466,
  "characterClassID": 10,
  "raceID": 0,
- "position": 242,
- "rankingPositionChange": 0,
- "gloryPoint": 75530,
+ "position": 244,
+ "rankingPositionChange": -2,
+ "gloryPoint": 75481,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Schokiheal",
@@ -272,6 +272,14 @@
    "position": 242,
    "rankingPositionChange": 0,
    "gloryPoint": 75530,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 244,
+   "rankingPositionChange": -2,
+   "gloryPoint": 75481,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

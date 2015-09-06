@@ -2,12 +2,14 @@
  "characterID": 176282,
  "characterClassID": 8,
  "raceID": 1,
- "position": 695,
- "rankingPositionChange": -4,
- "gloryPoint": 4013,
+ "position": 700,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3999,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Yppaf",
+ "guildName": " TwentyPercentCooler ",
+ "guildID": 17921,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 4013,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 700,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3999,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": " TwentyPercentCooler ",
+   "guildID": 17921
   }
  ]
 }

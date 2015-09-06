@@ -2,9 +2,9 @@
  "characterID": 535966,
  "characterClassID": 4,
  "raceID": 0,
- "position": 73,
- "rankingPositionChange": 0,
- "gloryPoint": 136435,
+ "position": 74,
+ "rankingPositionChange": -1,
+ "gloryPoint": 136328,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Krix",
@@ -272,6 +272,14 @@
    "position": 73,
    "rankingPositionChange": 0,
    "gloryPoint": 136435,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": -1,
+   "gloryPoint": 136328,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

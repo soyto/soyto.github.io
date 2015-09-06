@@ -2,9 +2,9 @@
  "characterID": 950812,
  "characterClassID": 2,
  "raceID": 1,
- "position": 610,
- "rankingPositionChange": 4,
- "gloryPoint": 2062,
+ "position": 614,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2048,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mpilio",
@@ -272,6 +272,14 @@
    "position": 610,
    "rankingPositionChange": 4,
    "gloryPoint": 2062,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 614,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2048,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

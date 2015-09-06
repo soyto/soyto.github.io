@@ -2,12 +2,14 @@
  "characterID": 220827,
  "characterClassID": 14,
  "raceID": 1,
- "position": 684,
+ "position": 688,
  "rankingPositionChange": -4,
- "gloryPoint": 11073,
- "gloryPointChange": -8,
+ "gloryPoint": 11062,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Sentry",
+ "guildName": "RATATATATATATATA",
+ "guildID": 14910,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 11073,
    "gloryPointChange": -8,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 688,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11062,
+   "gloryPointChange": -11,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -283,6 +293,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "RATATATATATATATA",
+   "guildID": 14910
   }
  ]
 }

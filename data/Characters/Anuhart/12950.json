@@ -2,9 +2,9 @@
  "characterID": 12950,
  "characterClassID": 4,
  "raceID": 1,
- "position": 281,
- "rankingPositionChange": 2,
- "gloryPoint": 28571,
+ "position": 282,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28522,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nukez",
@@ -262,6 +262,14 @@
    "position": 281,
    "rankingPositionChange": 2,
    "gloryPoint": 28571,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 282,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28522,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

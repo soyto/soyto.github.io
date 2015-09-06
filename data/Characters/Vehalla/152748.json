@@ -2,10 +2,10 @@
  "characterID": 152748,
  "characterClassID": 1,
  "raceID": 0,
- "position": 421,
- "rankingPositionChange": 1,
- "gloryPoint": 4524,
- "gloryPointChange": 78,
+ "position": 422,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4596,
+ "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Hmpf",
  "guildName": "Tenshi no Tsuki",
@@ -201,6 +201,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 4524,
    "gloryPointChange": 78,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 422,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4596,
+   "gloryPointChange": 72,
    "soldierRankID": 12
   }
  ],

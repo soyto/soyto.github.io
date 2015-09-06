@@ -2,9 +2,9 @@
  "characterID": 969573,
  "characterClassID": 10,
  "raceID": 1,
- "position": 263,
- "rankingPositionChange": 1,
- "gloryPoint": 13462,
+ "position": 264,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13413,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Thedevilmoon",
@@ -272,6 +272,14 @@
    "position": 263,
    "rankingPositionChange": 1,
    "gloryPoint": 13462,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 264,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13413,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 299559,
  "characterClassID": 5,
  "raceID": 1,
- "position": 778,
- "rankingPositionChange": 1,
- "gloryPoint": 9002,
+ "position": 782,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8995,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Finee",
@@ -264,6 +264,14 @@
    "position": 778,
    "rankingPositionChange": 1,
    "gloryPoint": 9002,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 782,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8995,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

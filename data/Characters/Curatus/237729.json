@@ -2,12 +2,14 @@
  "characterID": 237729,
  "characterClassID": 16,
  "raceID": 1,
- "position": 957,
- "rankingPositionChange": -4,
- "gloryPoint": 3299,
- "gloryPointChange": 3,
+ "position": 949,
+ "rankingPositionChange": 8,
+ "gloryPoint": 3395,
+ "gloryPointChange": 96,
  "soldierRankID": 10,
  "characterName": "Sskunk",
+ "guildName": "OneShot",
+ "guildID": 6763,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 3299,
    "gloryPointChange": 3,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": 8,
+   "gloryPoint": 3395,
+   "gloryPointChange": 96,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "OneShot",
+   "guildID": 6763
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 1205060,
  "characterClassID": 5,
  "raceID": 1,
- "position": 678,
- "rankingPositionChange": 2,
- "gloryPoint": 4481,
+ "position": 682,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4467,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kiryen",
@@ -272,6 +272,14 @@
    "position": 678,
    "rankingPositionChange": 2,
    "gloryPoint": 4481,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 682,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4467,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

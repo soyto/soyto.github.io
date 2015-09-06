@@ -2,9 +2,9 @@
  "characterID": 1000338,
  "characterClassID": 7,
  "raceID": 0,
- "position": 482,
- "rankingPositionChange": -1,
- "gloryPoint": 19296,
+ "position": 481,
+ "rankingPositionChange": 1,
+ "gloryPoint": 19268,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Erebas",
@@ -272,6 +272,14 @@
    "position": 482,
    "rankingPositionChange": -1,
    "gloryPoint": 19296,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 481,
+   "rankingPositionChange": 1,
+   "gloryPoint": 19268,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

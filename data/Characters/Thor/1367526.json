@@ -2,9 +2,9 @@
  "characterID": 1367526,
  "characterClassID": 14,
  "raceID": 0,
- "position": 103,
- "rankingPositionChange": 0,
- "gloryPoint": 154906,
+ "position": 104,
+ "rankingPositionChange": -1,
+ "gloryPoint": 154857,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Goetti",
@@ -272,6 +272,14 @@
    "position": 103,
    "rankingPositionChange": 0,
    "gloryPoint": 154906,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": -1,
+   "gloryPoint": 154857,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

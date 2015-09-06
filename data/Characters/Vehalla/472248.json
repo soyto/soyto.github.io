@@ -2,10 +2,10 @@
  "characterID": 472248,
  "characterClassID": 16,
  "raceID": 0,
- "position": 613,
- "rankingPositionChange": 41,
- "gloryPoint": 1620,
- "gloryPointChange": 236,
+ "position": 618,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1606,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Fluorescence",
  "guildName": "Dead Elyos Society",
@@ -73,6 +73,14 @@
    "rankingPositionChange": 41,
    "gloryPoint": 1620,
    "gloryPointChange": 236,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 618,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1606,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

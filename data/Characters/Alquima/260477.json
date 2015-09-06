@@ -2,10 +2,10 @@
  "characterID": 260477,
  "characterClassID": 10,
  "raceID": 1,
- "position": 60,
- "rankingPositionChange": 2,
- "gloryPoint": 100379,
- "gloryPointChange": 256,
+ "position": 61,
+ "rankingPositionChange": -1,
+ "gloryPoint": 100380,
+ "gloryPointChange": 1,
  "soldierRankID": 14,
  "characterName": "Faragel",
  "guildName": " Essence ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 100379,
    "gloryPointChange": 256,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 61,
+   "rankingPositionChange": -1,
+   "gloryPoint": 100380,
+   "gloryPointChange": 1,
    "soldierRankID": 14
   }
  ],

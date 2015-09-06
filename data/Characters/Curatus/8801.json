@@ -2,9 +2,9 @@
  "characterID": 8801,
  "characterClassID": 10,
  "raceID": 1,
- "position": 668,
- "rankingPositionChange": 0,
- "gloryPoint": 7395,
+ "position": 671,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7381,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Peegasos",
@@ -272,6 +272,14 @@
    "position": 668,
    "rankingPositionChange": 0,
    "gloryPoint": 7395,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7381,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

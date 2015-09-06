@@ -3,8 +3,8 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 234,
- "rankingPositionChange": -1,
- "gloryPoint": 45616,
+ "rankingPositionChange": 0,
+ "gloryPoint": 45567,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Arcdemonne",
@@ -264,6 +264,14 @@
    "position": 234,
    "rankingPositionChange": -1,
    "gloryPoint": 45616,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 234,
+   "rankingPositionChange": 0,
+   "gloryPoint": 45567,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

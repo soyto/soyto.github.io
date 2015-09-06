@@ -2,9 +2,9 @@
  "characterID": 301105,
  "characterClassID": 4,
  "raceID": 1,
- "position": 774,
- "rankingPositionChange": 3,
- "gloryPoint": 2795,
+ "position": 781,
+ "rankingPositionChange": -7,
+ "gloryPoint": 2788,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pisqo",
@@ -198,6 +198,14 @@
    "position": 774,
    "rankingPositionChange": 3,
    "gloryPoint": 2795,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": -7,
+   "gloryPoint": 2788,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

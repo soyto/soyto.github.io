@@ -2,10 +2,10 @@
  "characterID": 303461,
  "characterClassID": 1,
  "raceID": 1,
- "position": 209,
- "rankingPositionChange": 0,
- "gloryPoint": 37370,
- "gloryPointChange": 151,
+ "position": 210,
+ "rankingPositionChange": -1,
+ "gloryPoint": 37331,
+ "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Kamon",
  "guildName": "AbyssGates",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 37370,
    "gloryPointChange": 151,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 210,
+   "rankingPositionChange": -1,
+   "gloryPoint": 37331,
+   "gloryPointChange": -39,
    "soldierRankID": 13
   }
  ],

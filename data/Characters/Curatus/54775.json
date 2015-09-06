@@ -2,10 +2,10 @@
  "characterID": 54775,
  "characterClassID": 11,
  "raceID": 0,
- "position": 205,
- "rankingPositionChange": 1,
- "gloryPoint": 77657,
- "gloryPointChange": 517,
+ "position": 206,
+ "rankingPositionChange": -1,
+ "gloryPoint": 78028,
+ "gloryPointChange": 371,
  "soldierRankID": 13,
  "characterName": "Alexiels",
  "guildName": " Outlaw ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 77657,
    "gloryPointChange": 517,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 206,
+   "rankingPositionChange": -1,
+   "gloryPoint": 78028,
+   "gloryPointChange": 371,
    "soldierRankID": 13
   }
  ],

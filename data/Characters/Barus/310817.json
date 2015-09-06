@@ -2,10 +2,10 @@
  "characterID": 310817,
  "characterClassID": 8,
  "raceID": 1,
- "position": 58,
- "rankingPositionChange": 0,
- "gloryPoint": 148072,
- "gloryPointChange": -107,
+ "position": 59,
+ "rankingPositionChange": -1,
+ "gloryPoint": 148065,
+ "gloryPointChange": -7,
  "soldierRankID": 14,
  "characterName": "Hantiel",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 148072,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": -1,
+   "gloryPoint": 148065,
+   "gloryPointChange": -7,
    "soldierRankID": 14
   }
  ],

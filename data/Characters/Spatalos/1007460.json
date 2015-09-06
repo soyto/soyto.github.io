@@ -2,9 +2,9 @@
  "characterID": 1007460,
  "characterClassID": 16,
  "raceID": 0,
- "position": 415,
- "rankingPositionChange": -1,
- "gloryPoint": 31576,
+ "position": 413,
+ "rankingPositionChange": 2,
+ "gloryPoint": 31548,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Blye",
@@ -264,6 +264,14 @@
    "position": 415,
    "rankingPositionChange": -1,
    "gloryPoint": 31576,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 413,
+   "rankingPositionChange": 2,
+   "gloryPoint": 31548,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

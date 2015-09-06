@@ -2,9 +2,9 @@
  "characterID": 788880,
  "characterClassID": 5,
  "raceID": 0,
- "position": 772,
- "rankingPositionChange": 3,
- "gloryPoint": 8143,
+ "position": 773,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8136,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Darmey",
@@ -86,6 +86,14 @@
    "position": 772,
    "rankingPositionChange": 3,
    "gloryPoint": 8143,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 773,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8136,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

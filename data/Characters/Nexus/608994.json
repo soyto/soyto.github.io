@@ -2,9 +2,9 @@
  "characterID": 608994,
  "characterClassID": 8,
  "raceID": 0,
- "position": 873,
- "rankingPositionChange": 3,
- "gloryPoint": 5949,
+ "position": 876,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5942,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Daisette",
@@ -272,6 +272,14 @@
    "position": 873,
    "rankingPositionChange": 3,
    "gloryPoint": 5949,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 876,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5942,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

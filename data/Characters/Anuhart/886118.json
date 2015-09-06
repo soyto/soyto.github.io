@@ -2,10 +2,10 @@
  "characterID": 886118,
  "characterClassID": 7,
  "raceID": 0,
- "position": 213,
- "rankingPositionChange": 0,
- "gloryPoint": 46922,
- "gloryPointChange": 328,
+ "position": 212,
+ "rankingPositionChange": 1,
+ "gloryPoint": 46873,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lilieweiss",
  "guildName": "Elite Fighter GER",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 46922,
    "gloryPointChange": 328,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 212,
+   "rankingPositionChange": 1,
+   "gloryPoint": 46873,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

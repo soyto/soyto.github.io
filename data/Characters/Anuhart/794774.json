@@ -2,12 +2,14 @@
  "characterID": 794774,
  "characterClassID": 8,
  "raceID": 1,
- "position": 916,
- "rankingPositionChange": 8,
- "gloryPoint": 1951,
- "gloryPointChange": 19,
+ "position": 910,
+ "rankingPositionChange": 6,
+ "gloryPoint": 2007,
+ "gloryPointChange": 56,
  "soldierRankID": 10,
  "characterName": "Ltudragiux",
+ "guildName": "KingDom oF Kings",
+ "guildID": 9436,
  "status": [
   {
    "date": "2015-08-12T22:00:00.000Z",
@@ -176,6 +178,14 @@
    "gloryPoint": 1951,
    "gloryPointChange": 19,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 910,
+   "rankingPositionChange": 6,
+   "gloryPoint": 2007,
+   "gloryPointChange": 56,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -192,6 +202,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "KingDom oF Kings",
+   "guildID": 9436
   }
  ]
 }

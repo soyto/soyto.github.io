@@ -2,10 +2,10 @@
  "characterID": 1345514,
  "characterClassID": 5,
  "raceID": 0,
- "position": 502,
- "rankingPositionChange": -3,
- "gloryPoint": 23710,
- "gloryPointChange": -28,
+ "position": 501,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23696,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Wolfgun",
  "guildName": "Feiry Tail",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 23710,
    "gloryPointChange": -28,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 501,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23696,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

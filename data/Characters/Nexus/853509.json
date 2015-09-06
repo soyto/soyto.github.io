@@ -2,9 +2,9 @@
  "characterID": 853509,
  "characterClassID": 13,
  "raceID": 0,
- "position": 507,
- "rankingPositionChange": 1,
- "gloryPoint": 17091,
+ "position": 508,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17077,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hyperkarma",
@@ -270,6 +270,14 @@
    "position": 507,
    "rankingPositionChange": 1,
    "gloryPoint": 17091,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17077,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

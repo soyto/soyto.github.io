@@ -2,10 +2,10 @@
  "characterID": 222526,
  "characterClassID": 16,
  "raceID": 0,
- "position": 681,
- "rankingPositionChange": 0,
- "gloryPoint": 8323,
- "gloryPointChange": 16,
+ "position": 685,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8309,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Miglers",
  "guildName": "D O S T",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8323,
    "gloryPointChange": 16,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 685,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8309,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

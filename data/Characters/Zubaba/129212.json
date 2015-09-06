@@ -2,9 +2,9 @@
  "characterID": 129212,
  "characterClassID": 16,
  "raceID": 1,
- "position": 945,
- "rankingPositionChange": 3,
- "gloryPoint": 1306,
+ "position": 951,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1299,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nzz",
@@ -208,6 +208,14 @@
    "position": 945,
    "rankingPositionChange": 3,
    "gloryPoint": 1306,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1299,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 630029,
  "characterClassID": 11,
  "raceID": 1,
- "position": 381,
- "rankingPositionChange": 2,
- "gloryPoint": 7294,
+ "position": 383,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7266,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lifeowner",
@@ -272,6 +272,14 @@
    "position": 381,
    "rankingPositionChange": 2,
    "gloryPoint": 7294,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 383,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7266,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

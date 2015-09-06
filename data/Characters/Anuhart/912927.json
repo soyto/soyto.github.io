@@ -2,9 +2,9 @@
  "characterID": 912927,
  "characterClassID": 13,
  "raceID": 1,
- "position": 374,
- "rankingPositionChange": 3,
- "gloryPoint": 16343,
+ "position": 378,
+ "rankingPositionChange": -4,
+ "gloryPoint": 16315,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Deadlystyle",
@@ -270,6 +270,14 @@
    "position": 374,
    "rankingPositionChange": 3,
    "gloryPoint": 16343,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 378,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16315,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

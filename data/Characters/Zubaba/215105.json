@@ -2,9 +2,9 @@
  "characterID": 215105,
  "characterClassID": 14,
  "raceID": 0,
- "position": 261,
- "rankingPositionChange": 0,
- "gloryPoint": 41351,
+ "position": 262,
+ "rankingPositionChange": -1,
+ "gloryPoint": 41302,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ooopitipiti",
@@ -272,6 +272,14 @@
    "position": 261,
    "rankingPositionChange": 0,
    "gloryPoint": 41351,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 262,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41302,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

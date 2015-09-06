@@ -2,9 +2,9 @@
  "characterID": 823603,
  "characterClassID": 1,
  "raceID": 0,
- "position": 220,
- "rankingPositionChange": -1,
- "gloryPoint": 45352,
+ "position": 219,
+ "rankingPositionChange": 1,
+ "gloryPoint": 45303,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Perdec",
@@ -272,6 +272,14 @@
    "position": 220,
    "rankingPositionChange": -1,
    "gloryPoint": 45352,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 219,
+   "rankingPositionChange": 1,
+   "gloryPoint": 45303,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

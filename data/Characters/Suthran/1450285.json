@@ -2,9 +2,9 @@
  "characterID": 1450285,
  "characterClassID": 10,
  "raceID": 1,
- "position": 857,
- "rankingPositionChange": 1,
- "gloryPoint": 6148,
+ "position": 860,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6141,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Twinzi",
@@ -232,6 +232,14 @@
    "position": 857,
    "rankingPositionChange": 1,
    "gloryPoint": 6148,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6141,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

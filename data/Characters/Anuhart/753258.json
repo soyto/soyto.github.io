@@ -2,9 +2,9 @@
  "characterID": 753258,
  "characterClassID": 8,
  "raceID": 0,
- "position": 165,
- "rankingPositionChange": -1,
- "gloryPoint": 59153,
+ "position": 164,
+ "rankingPositionChange": 1,
+ "gloryPoint": 59104,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Podpolya",
@@ -272,6 +272,14 @@
    "position": 165,
    "rankingPositionChange": -1,
    "gloryPoint": 59153,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 164,
+   "rankingPositionChange": 1,
+   "gloryPoint": 59104,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

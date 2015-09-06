@@ -2,9 +2,9 @@
  "characterID": 279018,
  "characterClassID": 5,
  "raceID": 1,
- "position": 678,
- "rankingPositionChange": 1,
- "gloryPoint": 6022,
+ "position": 679,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6008,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mentorlius",
@@ -128,6 +128,14 @@
    "position": 678,
    "rankingPositionChange": 1,
    "gloryPoint": 6022,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6008,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

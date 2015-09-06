@@ -2,9 +2,9 @@
  "characterID": 17157,
  "characterClassID": 4,
  "raceID": 0,
- "position": 539,
- "rankingPositionChange": 0,
- "gloryPoint": 15656,
+ "position": 540,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15642,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Jamis",
@@ -264,6 +264,14 @@
    "position": 539,
    "rankingPositionChange": 0,
    "gloryPoint": 15656,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15642,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

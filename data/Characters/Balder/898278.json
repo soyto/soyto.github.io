@@ -2,9 +2,9 @@
  "characterID": 898278,
  "characterClassID": 1,
  "raceID": 1,
- "position": 302,
- "rankingPositionChange": 1,
- "gloryPoint": 10166,
+ "position": 303,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10138,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Petersilikum",
@@ -94,6 +94,14 @@
    "position": 302,
    "rankingPositionChange": 1,
    "gloryPoint": 10166,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 303,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10138,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

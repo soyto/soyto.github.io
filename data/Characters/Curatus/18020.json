@@ -2,10 +2,10 @@
  "characterID": 18020,
  "characterClassID": 2,
  "raceID": 1,
- "position": 459,
- "rankingPositionChange": -2,
- "gloryPoint": 14197,
- "gloryPointChange": -9,
+ "position": 449,
+ "rankingPositionChange": 10,
+ "gloryPoint": 14508,
+ "gloryPointChange": 311,
  "soldierRankID": 12,
  "characterName": "Freeplayer",
  "guildName": "Prepotenti",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 14197,
    "gloryPointChange": -9,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 449,
+   "rankingPositionChange": 10,
+   "gloryPoint": 14508,
+   "gloryPointChange": 311,
    "soldierRankID": 12
   }
  ],

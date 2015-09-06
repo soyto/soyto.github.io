@@ -2,10 +2,10 @@
  "characterID": 270437,
  "characterClassID": 2,
  "raceID": 0,
- "position": 980,
- "rankingPositionChange": -1,
- "gloryPoint": 5972,
- "gloryPointChange": 21,
+ "position": 979,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5965,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gilko",
  "guildName": "Ascensus Structus",
@@ -145,6 +145,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 5972,
    "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 979,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5965,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

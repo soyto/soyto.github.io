@@ -2,9 +2,9 @@
  "characterID": 757755,
  "characterClassID": 8,
  "raceID": 1,
- "position": 568,
- "rankingPositionChange": 0,
- "gloryPoint": 13064,
+ "position": 569,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13050,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lokxar",
@@ -264,6 +264,14 @@
    "position": 568,
    "rankingPositionChange": 0,
    "gloryPoint": 13064,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 569,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13050,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

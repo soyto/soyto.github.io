@@ -2,9 +2,9 @@
  "characterID": 421928,
  "characterClassID": 16,
  "raceID": 1,
- "position": 158,
- "rankingPositionChange": 0,
- "gloryPoint": 85400,
+ "position": 159,
+ "rankingPositionChange": -1,
+ "gloryPoint": 85351,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Terrashi",
@@ -272,6 +272,14 @@
    "position": 158,
    "rankingPositionChange": 0,
    "gloryPoint": 85400,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": -1,
+   "gloryPoint": 85351,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

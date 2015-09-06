@@ -2,14 +2,14 @@
  "characterID": 838546,
  "characterClassID": 16,
  "raceID": 0,
- "position": 217,
+ "position": 218,
  "rankingPositionChange": -1,
- "gloryPoint": 50299,
- "gloryPointChange": 351,
+ "gloryPoint": 50370,
+ "gloryPointChange": 71,
  "soldierRankID": 13,
  "characterName": "Meyius",
- "guildName": "ChillOut",
- "guildID": 1506,
+ "guildName": "BlackWolves",
+ "guildID": 2234,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 50299,
    "gloryPointChange": 351,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 218,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50370,
+   "gloryPointChange": 71,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "ChillOut",
    "guildID": 1506
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "BlackWolves",
+   "guildID": 2234
   }
  ]
 }

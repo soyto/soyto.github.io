@@ -2,9 +2,9 @@
  "characterID": 1183998,
  "characterClassID": 14,
  "raceID": 1,
- "position": 277,
- "rankingPositionChange": 3,
- "gloryPoint": 29384,
+ "position": 279,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29335,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Silentfarm",
@@ -272,6 +272,14 @@
    "position": 277,
    "rankingPositionChange": 3,
    "gloryPoint": 29384,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 279,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29335,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

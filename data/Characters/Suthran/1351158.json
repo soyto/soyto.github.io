@@ -2,9 +2,9 @@
  "characterID": 1351158,
  "characterClassID": 5,
  "raceID": 1,
- "position": 831,
- "rankingPositionChange": 1,
- "gloryPoint": 6649,
+ "position": 837,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6642,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Choubidoubidou",
@@ -272,6 +272,14 @@
    "position": 831,
    "rankingPositionChange": 1,
    "gloryPoint": 6649,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 837,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6642,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

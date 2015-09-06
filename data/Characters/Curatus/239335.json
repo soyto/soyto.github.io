@@ -2,9 +2,9 @@
  "characterID": 239335,
  "characterClassID": 4,
  "raceID": 1,
- "position": 285,
- "rankingPositionChange": 0,
- "gloryPoint": 26771,
+ "position": 287,
+ "rankingPositionChange": -2,
+ "gloryPoint": 26722,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Exsir",
@@ -256,6 +256,14 @@
    "position": 285,
    "rankingPositionChange": 0,
    "gloryPoint": 26771,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 287,
+   "rankingPositionChange": -2,
+   "gloryPoint": 26722,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

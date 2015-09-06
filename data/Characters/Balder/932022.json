@@ -2,9 +2,9 @@
  "characterID": 932022,
  "characterClassID": 11,
  "raceID": 0,
- "position": 96,
- "rankingPositionChange": 0,
- "gloryPoint": 88112,
+ "position": 97,
+ "rankingPositionChange": -1,
+ "gloryPoint": 88005,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Ariiah",
@@ -168,6 +168,14 @@
    "position": 96,
    "rankingPositionChange": 0,
    "gloryPoint": 88112,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 97,
+   "rankingPositionChange": -1,
+   "gloryPoint": 88005,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

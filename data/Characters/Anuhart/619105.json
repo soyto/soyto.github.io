@@ -2,10 +2,10 @@
  "characterID": 619105,
  "characterClassID": 4,
  "raceID": 1,
- "position": 776,
- "rankingPositionChange": 11,
- "gloryPoint": 3296,
- "gloryPointChange": 121,
+ "position": 781,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3289,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Blia",
  "guildName": "Angry Scavengers",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 3296,
    "gloryPointChange": 121,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3289,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 395693,
  "characterClassID": 4,
  "raceID": 1,
- "position": 68,
- "rankingPositionChange": 3,
- "gloryPoint": 98023,
- "gloryPointChange": 1158,
+ "position": 69,
+ "rankingPositionChange": -1,
+ "gloryPoint": 97998,
+ "gloryPointChange": -25,
  "soldierRankID": 14,
  "characterName": "Accelarator",
  "guildName": " Game Over",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 98023,
    "gloryPointChange": 1158,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 69,
+   "rankingPositionChange": -1,
+   "gloryPoint": 97998,
+   "gloryPointChange": -25,
    "soldierRankID": 14
   }
  ],

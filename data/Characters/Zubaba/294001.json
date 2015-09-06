@@ -2,12 +2,12 @@
  "characterID": 294001,
  "characterClassID": 13,
  "raceID": 1,
- "position": 613,
- "rankingPositionChange": 1,
- "gloryPoint": 5676,
- "gloryPointChange": -8,
+ "position": 615,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5662,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
- "characterName": "Donkishot",
+ "characterName": "Gamlibaykush",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,12 +272,24 @@
    "gloryPoint": 5676,
    "gloryPointChange": -8,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 615,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5662,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Donkishot"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Gamlibaykush"
   }
  ],
  "guilds": [

@@ -2,10 +2,10 @@
  "characterID": 843758,
  "characterClassID": 1,
  "raceID": 1,
- "position": 74,
- "rankingPositionChange": 0,
- "gloryPoint": 153489,
- "gloryPointChange": 299,
+ "position": 75,
+ "rankingPositionChange": -1,
+ "gloryPoint": 153382,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Fuddi",
  "guildName": "Evolution",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 153489,
    "gloryPointChange": 299,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 75,
+   "rankingPositionChange": -1,
+   "gloryPoint": 153382,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

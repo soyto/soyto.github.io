@@ -2,9 +2,9 @@
  "characterID": 852703,
  "characterClassID": 7,
  "raceID": 0,
- "position": 193,
- "rankingPositionChange": 0,
- "gloryPoint": 76059,
+ "position": 195,
+ "rankingPositionChange": -2,
+ "gloryPoint": 76010,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ando",
@@ -264,6 +264,14 @@
    "position": 193,
    "rankingPositionChange": 0,
    "gloryPoint": 76059,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": -2,
+   "gloryPoint": 76010,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

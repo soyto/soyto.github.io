@@ -2,10 +2,10 @@
  "characterID": 1516919,
  "characterClassID": 13,
  "raceID": 0,
- "position": 245,
- "rankingPositionChange": 2,
- "gloryPoint": 67219,
- "gloryPointChange": 401,
+ "position": 246,
+ "rankingPositionChange": -1,
+ "gloryPoint": 67332,
+ "gloryPointChange": 113,
  "soldierRankID": 13,
  "characterName": "Cheldor",
  "guildName": "Pays Des Bisounours",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 67219,
    "gloryPointChange": 401,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 246,
+   "rankingPositionChange": -1,
+   "gloryPoint": 67332,
+   "gloryPointChange": 113,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 31435,
  "characterClassID": 4,
  "raceID": 1,
- "position": 506,
- "rankingPositionChange": 1,
- "gloryPoint": 27327,
- "gloryPointChange": 73,
+ "position": 507,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27615,
+ "gloryPointChange": 288,
  "soldierRankID": 11,
  "characterName": "Hashasin",
  "guildName": "A N O N Y M O U S",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 27327,
    "gloryPointChange": 73,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 507,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27615,
+   "gloryPointChange": 288,
    "soldierRankID": 11
   }
  ],

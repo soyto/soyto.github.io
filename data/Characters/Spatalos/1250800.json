@@ -2,9 +2,9 @@
  "characterID": 1250800,
  "characterClassID": 11,
  "raceID": 1,
- "position": 126,
- "rankingPositionChange": 0,
- "gloryPoint": 54962,
+ "position": 127,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55013,
  "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Lookatmyhorse",
@@ -272,6 +272,14 @@
    "position": 126,
    "rankingPositionChange": 0,
    "gloryPoint": 54962,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55013,
    "gloryPointChange": 51,
    "soldierRankID": 13
   }

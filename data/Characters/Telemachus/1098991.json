@@ -2,10 +2,10 @@
  "characterID": 1098991,
  "characterClassID": 13,
  "raceID": 1,
- "position": 468,
- "rankingPositionChange": 29,
- "gloryPoint": 3746,
- "gloryPointChange": 383,
+ "position": 473,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3718,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ltmu",
  "status": [
@@ -87,6 +87,14 @@
    "rankingPositionChange": 29,
    "gloryPoint": 3746,
    "gloryPointChange": 383,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 473,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3718,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

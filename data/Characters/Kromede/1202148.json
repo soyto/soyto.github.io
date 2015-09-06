@@ -2,9 +2,9 @@
  "characterID": 1202148,
  "characterClassID": 1,
  "raceID": 1,
- "position": 734,
- "rankingPositionChange": 2,
- "gloryPoint": 5101,
+ "position": 739,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5094,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Papemheimer",
@@ -270,6 +270,14 @@
    "position": 734,
    "rankingPositionChange": 2,
    "gloryPoint": 5101,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 739,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5094,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

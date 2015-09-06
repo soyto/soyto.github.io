@@ -2,9 +2,9 @@
  "characterID": 1112443,
  "characterClassID": 14,
  "raceID": 1,
- "position": 58,
- "rankingPositionChange": 0,
- "gloryPoint": 145935,
+ "position": 59,
+ "rankingPositionChange": -1,
+ "gloryPoint": 145828,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Squal",
@@ -264,6 +264,14 @@
    "position": 58,
    "rankingPositionChange": 0,
    "gloryPoint": 145935,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": -1,
+   "gloryPoint": 145828,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

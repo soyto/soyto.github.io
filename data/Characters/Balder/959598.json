@@ -2,9 +2,9 @@
  "characterID": 959598,
  "characterClassID": 8,
  "raceID": 1,
- "position": 332,
- "rankingPositionChange": 0,
- "gloryPoint": 7665,
+ "position": 333,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7637,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hakuta",
@@ -270,6 +270,14 @@
    "position": 332,
    "rankingPositionChange": 0,
    "gloryPoint": 7665,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 333,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7637,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

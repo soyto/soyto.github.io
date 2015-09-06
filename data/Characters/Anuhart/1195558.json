@@ -2,9 +2,9 @@
  "characterID": 1195558,
  "characterClassID": 14,
  "raceID": 1,
- "position": 870,
- "rankingPositionChange": 4,
- "gloryPoint": 2255,
+ "position": 875,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2248,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Djak",
@@ -88,6 +88,14 @@
    "position": 870,
    "rankingPositionChange": 4,
    "gloryPoint": 2255,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 875,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2248,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

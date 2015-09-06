@@ -2,9 +2,9 @@
  "characterID": 1001377,
  "characterClassID": 14,
  "raceID": 0,
- "position": 458,
- "rankingPositionChange": -2,
- "gloryPoint": 27119,
+ "position": 457,
+ "rankingPositionChange": 1,
+ "gloryPoint": 27091,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Snipergun",
@@ -272,6 +272,14 @@
    "position": 458,
    "rankingPositionChange": -2,
    "gloryPoint": 27119,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 457,
+   "rankingPositionChange": 1,
+   "gloryPoint": 27091,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

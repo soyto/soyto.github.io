@@ -2,10 +2,10 @@
  "characterID": 605049,
  "characterClassID": 16,
  "raceID": 1,
- "position": 464,
- "rankingPositionChange": 3,
- "gloryPoint": 17216,
- "gloryPointChange": 263,
+ "position": 465,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17339,
+ "gloryPointChange": 123,
  "soldierRankID": 12,
  "characterName": "Janga",
  "guildName": "Destinados",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 17216,
    "gloryPointChange": 263,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 465,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17339,
+   "gloryPointChange": 123,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 978390,
  "characterClassID": 13,
  "raceID": 1,
- "position": 463,
- "rankingPositionChange": 22,
+ "position": 466,
+ "rankingPositionChange": -3,
  "gloryPoint": 2535,
- "gloryPointChange": 250,
+ "gloryPointChange": 0,
  "soldierRankID": 12,
  "characterName": "Xayner",
  "guildName": "Scout Regiment",
@@ -169,6 +169,14 @@
    "rankingPositionChange": 22,
    "gloryPoint": 2535,
    "gloryPointChange": 250,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 466,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2535,
+   "gloryPointChange": 0,
    "soldierRankID": 12
   }
  ],

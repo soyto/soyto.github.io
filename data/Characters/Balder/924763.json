@@ -2,9 +2,9 @@
  "characterID": 924763,
  "characterClassID": 2,
  "raceID": 1,
- "position": 289,
- "rankingPositionChange": 1,
- "gloryPoint": 11509,
+ "position": 290,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11460,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Emarosa",
@@ -272,6 +272,14 @@
    "position": 289,
    "rankingPositionChange": 1,
    "gloryPoint": 11509,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 290,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11460,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

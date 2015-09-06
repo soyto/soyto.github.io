@@ -2,9 +2,9 @@
  "characterID": 111685,
  "characterClassID": 16,
  "raceID": 1,
- "position": 358,
- "rankingPositionChange": 0,
- "gloryPoint": 18559,
+ "position": 359,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18531,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Quanj",
@@ -248,6 +248,14 @@
    "position": 358,
    "rankingPositionChange": 0,
    "gloryPoint": 18559,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 359,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18531,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 59357,
  "characterClassID": 4,
  "raceID": 0,
- "position": 121,
- "rankingPositionChange": 0,
- "gloryPoint": 94226,
+ "position": 122,
+ "rankingPositionChange": -1,
+ "gloryPoint": 94177,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shankz",
@@ -262,6 +262,14 @@
    "position": 121,
    "rankingPositionChange": 0,
    "gloryPoint": 94226,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 122,
+   "rankingPositionChange": -1,
+   "gloryPoint": 94177,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

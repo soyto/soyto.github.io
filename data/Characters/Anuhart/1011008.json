@@ -2,9 +2,9 @@
  "characterID": 1011008,
  "characterClassID": 11,
  "raceID": 1,
- "position": 866,
- "rankingPositionChange": 4,
- "gloryPoint": 2283,
+ "position": 871,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2276,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cakerr",
@@ -230,6 +230,14 @@
    "position": 866,
    "rankingPositionChange": 4,
    "gloryPoint": 2283,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 871,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2276,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

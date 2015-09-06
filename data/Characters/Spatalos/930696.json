@@ -2,10 +2,10 @@
  "characterID": 930696,
  "characterClassID": 7,
  "raceID": 0,
- "position": 372,
- "rankingPositionChange": 0,
- "gloryPoint": 38321,
- "gloryPointChange": 104,
+ "position": 370,
+ "rankingPositionChange": 2,
+ "gloryPoint": 38293,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Milako",
  "guildName": "Not My Fault",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 38321,
    "gloryPointChange": 104,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 370,
+   "rankingPositionChange": 2,
+   "gloryPoint": 38293,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

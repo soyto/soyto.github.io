@@ -2,9 +2,9 @@
  "characterID": 92873,
  "characterClassID": 1,
  "raceID": 1,
- "position": 317,
- "rankingPositionChange": -2,
- "gloryPoint": 8347,
+ "position": 316,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8319,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Shaimali",
@@ -158,6 +158,14 @@
    "position": 317,
    "rankingPositionChange": -2,
    "gloryPoint": 8347,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8319,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

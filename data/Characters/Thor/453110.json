@@ -2,9 +2,9 @@
  "characterID": 453110,
  "characterClassID": 5,
  "raceID": 1,
- "position": 340,
- "rankingPositionChange": -2,
- "gloryPoint": 46617,
+ "position": 339,
+ "rankingPositionChange": 1,
+ "gloryPoint": 46589,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Icedshot",
@@ -264,6 +264,14 @@
    "position": 340,
    "rankingPositionChange": -2,
    "gloryPoint": 46617,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 339,
+   "rankingPositionChange": 1,
+   "gloryPoint": 46589,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 777423,
  "characterClassID": 7,
  "raceID": 1,
- "position": 251,
- "rankingPositionChange": 3,
- "gloryPoint": 34433,
+ "position": 253,
+ "rankingPositionChange": -2,
+ "gloryPoint": 34384,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sheinna",
@@ -272,6 +272,14 @@
    "position": 251,
    "rankingPositionChange": 3,
    "gloryPoint": 34433,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 253,
+   "rankingPositionChange": -2,
+   "gloryPoint": 34384,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

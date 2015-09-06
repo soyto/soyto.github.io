@@ -2,9 +2,9 @@
  "characterID": 1633957,
  "characterClassID": 7,
  "raceID": 1,
- "position": 178,
- "rankingPositionChange": 0,
- "gloryPoint": 78450,
+ "position": 179,
+ "rankingPositionChange": -1,
+ "gloryPoint": 78401,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Madrayrey",
@@ -272,6 +272,14 @@
    "position": 178,
    "rankingPositionChange": 0,
    "gloryPoint": 78450,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 179,
+   "rankingPositionChange": -1,
+   "gloryPoint": 78401,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

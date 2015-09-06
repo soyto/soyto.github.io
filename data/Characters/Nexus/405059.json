@@ -2,9 +2,9 @@
  "characterID": 405059,
  "characterClassID": 14,
  "raceID": 1,
- "position": 339,
- "rankingPositionChange": 0,
- "gloryPoint": 49633,
+ "position": 341,
+ "rankingPositionChange": -2,
+ "gloryPoint": 49605,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Specialeffectz",
@@ -272,6 +272,14 @@
    "position": 339,
    "rankingPositionChange": 0,
    "gloryPoint": 49633,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 341,
+   "rankingPositionChange": -2,
+   "gloryPoint": 49605,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

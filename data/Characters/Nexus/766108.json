@@ -2,9 +2,9 @@
  "characterID": 766108,
  "characterClassID": 5,
  "raceID": 0,
- "position": 553,
- "rankingPositionChange": 1,
- "gloryPoint": 14728,
+ "position": 554,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14714,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Dommyy",
@@ -264,6 +264,14 @@
    "position": 553,
    "rankingPositionChange": 1,
    "gloryPoint": 14728,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 554,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14714,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

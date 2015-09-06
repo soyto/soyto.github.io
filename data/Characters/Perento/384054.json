@@ -2,14 +2,14 @@
  "characterID": 384054,
  "characterClassID": 11,
  "raceID": 0,
- "position": 479,
- "rankingPositionChange": 11,
- "gloryPoint": 19396,
- "gloryPointChange": 382,
+ "position": 474,
+ "rankingPositionChange": 5,
+ "gloryPoint": 19726,
+ "gloryPointChange": 330,
  "soldierRankID": 12,
  "characterName": "Hayley",
- "guildName": "Circle of Nine",
- "guildID": 11873,
+ "guildName": "Maximum Baddies",
+ "guildID": 29461,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 19396,
    "gloryPointChange": 382,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 474,
+   "rankingPositionChange": 5,
+   "gloryPoint": 19726,
+   "gloryPointChange": 330,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -292,6 +300,11 @@
    "date": "2015-09-02T22:00:00.000Z",
    "guildName": "Circle of Nine",
    "guildID": 11873
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Maximum Baddies",
+   "guildID": 29461
   }
  ]
 }

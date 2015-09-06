@@ -3,8 +3,8 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 325,
- "rankingPositionChange": -3,
- "gloryPoint": 30958,
+ "rankingPositionChange": 0,
+ "gloryPoint": 30930,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Nadoka",
@@ -270,6 +270,14 @@
    "position": 325,
    "rankingPositionChange": -3,
    "gloryPoint": 30958,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 325,
+   "rankingPositionChange": 0,
+   "gloryPoint": 30930,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

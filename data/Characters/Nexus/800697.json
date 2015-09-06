@@ -2,9 +2,9 @@
  "characterID": 800697,
  "characterClassID": 16,
  "raceID": 1,
- "position": 280,
- "rankingPositionChange": 0,
- "gloryPoint": 60865,
+ "position": 283,
+ "rankingPositionChange": -3,
+ "gloryPoint": 60816,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Gabuszka",
@@ -272,6 +272,14 @@
    "position": 280,
    "rankingPositionChange": 0,
    "gloryPoint": 60865,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 283,
+   "rankingPositionChange": -3,
+   "gloryPoint": 60816,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

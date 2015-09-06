@@ -2,9 +2,9 @@
  "characterID": 967590,
  "characterClassID": 7,
  "raceID": 1,
- "position": 588,
- "rankingPositionChange": 4,
- "gloryPoint": 2309,
+ "position": 592,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2295,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lexylove",
@@ -272,6 +272,14 @@
    "position": 588,
    "rankingPositionChange": 4,
    "gloryPoint": 2309,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 592,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2295,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

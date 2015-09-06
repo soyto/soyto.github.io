@@ -2,9 +2,9 @@
  "characterID": 492985,
  "characterClassID": 2,
  "raceID": 1,
- "position": 369,
- "rankingPositionChange": 3,
- "gloryPoint": 17007,
+ "position": 373,
+ "rankingPositionChange": -4,
+ "gloryPoint": 16979,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Greektank",
@@ -270,6 +270,14 @@
    "position": 369,
    "rankingPositionChange": 3,
    "gloryPoint": 17007,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 373,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16979,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

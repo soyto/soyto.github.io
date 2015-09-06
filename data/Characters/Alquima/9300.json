@@ -2,10 +2,10 @@
  "characterID": 9300,
  "characterClassID": 1,
  "raceID": 1,
- "position": 621,
- "rankingPositionChange": 0,
- "gloryPoint": 12593,
- "gloryPointChange": 76,
+ "position": 620,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12699,
+ "gloryPointChange": 106,
  "soldierRankID": 11,
  "characterName": "Pendulum",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 12593,
    "gloryPointChange": 76,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 620,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12699,
+   "gloryPointChange": 106,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 33085,
  "characterClassID": 14,
  "raceID": 1,
- "position": 272,
- "rankingPositionChange": 1,
- "gloryPoint": 28529,
+ "position": 274,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28480,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Evillman",
@@ -248,6 +248,14 @@
    "position": 272,
    "rankingPositionChange": 1,
    "gloryPoint": 28529,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 274,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28480,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

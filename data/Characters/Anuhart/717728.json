@@ -2,9 +2,9 @@
  "characterID": 717728,
  "characterClassID": 1,
  "raceID": 1,
- "position": 737,
- "rankingPositionChange": 0,
- "gloryPoint": 3720,
+ "position": 742,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3713,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yiindo",
@@ -272,6 +272,14 @@
    "position": 737,
    "rankingPositionChange": 0,
    "gloryPoint": 3720,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3713,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

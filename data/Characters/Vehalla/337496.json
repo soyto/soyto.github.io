@@ -2,10 +2,10 @@
  "characterID": 337496,
  "characterClassID": 14,
  "raceID": 1,
- "position": 556,
- "rankingPositionChange": 38,
- "gloryPoint": 1542,
- "gloryPointChange": 126,
+ "position": 555,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1528,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nour",
  "guildName": "EiskaIt EntfesseIt",
@@ -105,6 +105,14 @@
    "rankingPositionChange": 38,
    "gloryPoint": 1542,
    "gloryPointChange": 126,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 555,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1528,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

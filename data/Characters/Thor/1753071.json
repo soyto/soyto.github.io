@@ -2,10 +2,10 @@
  "characterID": 1753071,
  "characterClassID": 10,
  "raceID": 1,
- "position": 403,
- "rankingPositionChange": 1,
- "gloryPoint": 36553,
- "gloryPointChange": 375,
+ "position": 404,
+ "rankingPositionChange": -1,
+ "gloryPoint": 36545,
+ "gloryPointChange": -8,
  "soldierRankID": 12,
  "characterName": "Ceravin",
  "guildName": "Karamellisierte Pinguine",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 36553,
    "gloryPointChange": 375,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 404,
+   "rankingPositionChange": -1,
+   "gloryPoint": 36545,
+   "gloryPointChange": -8,
    "soldierRankID": 12
   }
  ],

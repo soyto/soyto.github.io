@@ -2,10 +2,10 @@
  "characterID": 770054,
  "characterClassID": 1,
  "raceID": 1,
- "position": 582,
- "rankingPositionChange": 1,
- "gloryPoint": 12559,
- "gloryPointChange": 70,
+ "position": 583,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12545,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Akirra",
  "guildName": "SchizoFriends",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12559,
    "gloryPointChange": 70,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 583,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12545,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

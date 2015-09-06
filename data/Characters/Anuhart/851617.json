@@ -2,9 +2,9 @@
  "characterID": 851617,
  "characterClassID": 14,
  "raceID": 1,
- "position": 262,
- "rankingPositionChange": 2,
- "gloryPoint": 33167,
+ "position": 263,
+ "rankingPositionChange": -1,
+ "gloryPoint": 33118,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nuked",
@@ -262,6 +262,14 @@
    "position": 262,
    "rankingPositionChange": 2,
    "gloryPoint": 33167,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 263,
+   "rankingPositionChange": -1,
+   "gloryPoint": 33118,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 1246632,
  "characterClassID": 1,
  "raceID": 1,
- "position": 31,
- "rankingPositionChange": 1,
- "gloryPoint": 225289,
- "gloryPointChange": 1059,
+ "position": 32,
+ "rankingPositionChange": -1,
+ "gloryPoint": 225182,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Yolostyle",
  "guildName": "Not Today",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 225289,
    "gloryPointChange": 1059,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 32,
+   "rankingPositionChange": -1,
+   "gloryPoint": 225182,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

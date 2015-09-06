@@ -2,9 +2,9 @@
  "characterID": 432373,
  "characterClassID": 5,
  "raceID": 1,
- "position": 952,
- "rankingPositionChange": 1,
- "gloryPoint": 3122,
+ "position": 954,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3115,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yakami",
@@ -272,6 +272,14 @@
    "position": 952,
    "rankingPositionChange": 1,
    "gloryPoint": 3122,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 954,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3115,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

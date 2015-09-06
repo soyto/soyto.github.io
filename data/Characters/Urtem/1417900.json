@@ -2,9 +2,9 @@
  "characterID": 1417900,
  "characterClassID": 2,
  "raceID": 0,
- "position": 318,
- "rankingPositionChange": -1,
- "gloryPoint": 53500,
+ "position": 317,
+ "rankingPositionChange": 1,
+ "gloryPoint": 53472,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Chinwii",
@@ -256,6 +256,14 @@
    "position": 318,
    "rankingPositionChange": -1,
    "gloryPoint": 53500,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 317,
+   "rankingPositionChange": 1,
+   "gloryPoint": 53472,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

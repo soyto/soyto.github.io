@@ -2,10 +2,10 @@
  "characterID": 83486,
  "characterClassID": 7,
  "raceID": 1,
- "position": 698,
- "rankingPositionChange": -11,
- "gloryPoint": 1248,
- "gloryPointChange": -14,
+ "position": 668,
+ "rankingPositionChange": 30,
+ "gloryPoint": 1261,
+ "gloryPointChange": 13,
  "soldierRankID": 10,
  "characterName": "Paliena",
  "status": [
@@ -151,6 +151,14 @@
    "rankingPositionChange": -11,
    "gloryPoint": 1248,
    "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 668,
+   "rankingPositionChange": 30,
+   "gloryPoint": 1261,
+   "gloryPointChange": 13,
    "soldierRankID": 10
   }
  ],

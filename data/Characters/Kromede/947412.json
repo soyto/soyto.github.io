@@ -3,8 +3,8 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 445,
- "rankingPositionChange": 1,
- "gloryPoint": 11984,
+ "rankingPositionChange": 0,
+ "gloryPoint": 11956,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Starcrusher",
@@ -264,6 +264,14 @@
    "position": 445,
    "rankingPositionChange": 1,
    "gloryPoint": 11984,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 445,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11956,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

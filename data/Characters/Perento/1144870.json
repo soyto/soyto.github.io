@@ -2,9 +2,9 @@
  "characterID": 1144870,
  "characterClassID": 11,
  "raceID": 1,
- "position": 107,
- "rankingPositionChange": 0,
- "gloryPoint": 101423,
+ "position": 108,
+ "rankingPositionChange": -1,
+ "gloryPoint": 101374,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rheaxen",
@@ -272,6 +272,14 @@
    "position": 107,
    "rankingPositionChange": 0,
    "gloryPoint": 101423,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 108,
+   "rankingPositionChange": -1,
+   "gloryPoint": 101374,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

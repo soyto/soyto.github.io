@@ -2,9 +2,9 @@
  "characterID": 1253450,
  "characterClassID": 5,
  "raceID": 1,
- "position": 461,
- "rankingPositionChange": -2,
- "gloryPoint": 31403,
+ "position": 459,
+ "rankingPositionChange": 2,
+ "gloryPoint": 31375,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Synis",
@@ -272,6 +272,14 @@
    "position": 461,
    "rankingPositionChange": -2,
    "gloryPoint": 31403,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 459,
+   "rankingPositionChange": 2,
+   "gloryPoint": 31375,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

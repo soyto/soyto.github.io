@@ -2,9 +2,9 @@
  "characterID": 255582,
  "characterClassID": 14,
  "raceID": 0,
- "position": 768,
- "rankingPositionChange": 0,
- "gloryPoint": 5982,
+ "position": 771,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5975,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sofie",
@@ -272,6 +272,14 @@
    "position": 768,
    "rankingPositionChange": 0,
    "gloryPoint": 5982,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 771,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5975,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

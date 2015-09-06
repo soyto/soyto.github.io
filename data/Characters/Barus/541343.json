@@ -2,10 +2,10 @@
  "characterID": 541343,
  "characterClassID": 7,
  "raceID": 0,
- "position": 920,
- "rankingPositionChange": 5,
- "gloryPoint": 11963,
- "gloryPointChange": 249,
+ "position": 921,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11965,
+ "gloryPointChange": 2,
  "soldierRankID": 10,
  "characterName": "Kaydo",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 11963,
    "gloryPointChange": 249,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11965,
+   "gloryPointChange": 2,
    "soldierRankID": 10
   }
  ],

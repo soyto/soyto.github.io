@@ -2,10 +2,10 @@
  "characterID": 1198082,
  "characterClassID": 11,
  "raceID": 0,
- "position": 761,
- "rankingPositionChange": 0,
- "gloryPoint": 7290,
- "gloryPointChange": 21,
+ "position": 760,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7283,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nicecleric",
  "guildName": "KISSGODS",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7290,
    "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 760,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7283,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

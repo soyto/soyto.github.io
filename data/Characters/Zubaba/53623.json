@@ -2,10 +2,10 @@
  "characterID": 53623,
  "characterClassID": 8,
  "raceID": 1,
- "position": 863,
- "rankingPositionChange": 12,
- "gloryPoint": 1912,
- "gloryPointChange": 111,
+ "position": 867,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1905,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hasyri",
  "guildName": "The Nightmare",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 12,
    "gloryPoint": 1912,
    "gloryPointChange": 111,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 867,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1905,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

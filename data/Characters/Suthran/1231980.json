@@ -2,10 +2,10 @@
  "characterID": 1231980,
  "characterClassID": 13,
  "raceID": 1,
- "position": 366,
- "rankingPositionChange": 1,
- "gloryPoint": 24064,
- "gloryPointChange": -28,
+ "position": 369,
+ "rankingPositionChange": -3,
+ "gloryPoint": 24008,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Riiiider",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 24064,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 369,
+   "rankingPositionChange": -3,
+   "gloryPoint": 24008,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

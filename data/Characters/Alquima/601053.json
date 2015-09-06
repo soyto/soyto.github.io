@@ -2,9 +2,9 @@
  "characterID": 601053,
  "characterClassID": 8,
  "raceID": 0,
- "position": 577,
- "rankingPositionChange": 0,
- "gloryPoint": 20447,
+ "position": 576,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20433,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Badoc",
@@ -272,6 +272,14 @@
    "position": 577,
    "rankingPositionChange": 0,
    "gloryPoint": 20447,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 576,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20433,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

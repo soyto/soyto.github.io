@@ -2,10 +2,10 @@
  "characterID": 815780,
  "characterClassID": 16,
  "raceID": 0,
- "position": 161,
- "rankingPositionChange": 2,
- "gloryPoint": 51739,
- "gloryPointChange": 716,
+ "position": 162,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51940,
+ "gloryPointChange": 201,
  "soldierRankID": 13,
  "characterName": "Occtavia",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 51739,
    "gloryPointChange": 716,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51940,
+   "gloryPointChange": 201,
    "soldierRankID": 13
   }
  ],

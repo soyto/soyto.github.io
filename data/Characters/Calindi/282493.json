@@ -2,10 +2,10 @@
  "characterID": 282493,
  "characterClassID": 10,
  "raceID": 0,
- "position": 739,
- "rankingPositionChange": 2,
- "gloryPoint": 2316,
- "gloryPointChange": 10,
+ "position": 740,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2309,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nashii",
  "guildName": "Sol Invictus",
@@ -169,6 +169,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 2316,
    "gloryPointChange": 10,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 740,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2309,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

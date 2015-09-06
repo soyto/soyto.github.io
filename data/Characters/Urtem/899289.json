@@ -2,9 +2,9 @@
  "characterID": 899289,
  "characterClassID": 8,
  "raceID": 0,
- "position": 90,
- "rankingPositionChange": 1,
- "gloryPoint": 137687,
+ "position": 91,
+ "rankingPositionChange": -1,
+ "gloryPoint": 137680,
  "gloryPointChange": -7,
  "soldierRankID": 14,
  "characterName": "Deathscyt",
@@ -272,6 +272,14 @@
    "position": 90,
    "rankingPositionChange": 1,
    "gloryPoint": 137687,
+   "gloryPointChange": -7,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 91,
+   "rankingPositionChange": -1,
+   "gloryPoint": 137680,
    "gloryPointChange": -7,
    "soldierRankID": 14
   }

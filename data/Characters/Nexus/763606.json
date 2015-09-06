@@ -2,9 +2,9 @@
  "characterID": 763606,
  "characterClassID": 2,
  "raceID": 0,
- "position": 945,
- "rankingPositionChange": 1,
- "gloryPoint": 4986,
+ "position": 948,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4979,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Naturalxxl",
@@ -264,6 +264,14 @@
    "position": 945,
    "rankingPositionChange": 1,
    "gloryPoint": 4986,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 948,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4979,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

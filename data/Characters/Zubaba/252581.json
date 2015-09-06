@@ -3,9 +3,9 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 512,
- "rankingPositionChange": 9,
- "gloryPoint": 8866,
- "gloryPointChange": 508,
+ "rankingPositionChange": 0,
+ "gloryPoint": 8852,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Feverish",
  "guildName": "Villains",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 8866,
    "gloryPointChange": 508,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 512,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8852,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

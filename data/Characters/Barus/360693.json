@@ -2,9 +2,9 @@
  "characterID": 360693,
  "characterClassID": 10,
  "raceID": 0,
- "position": 292,
- "rankingPositionChange": 0,
- "gloryPoint": 50703,
+ "position": 294,
+ "rankingPositionChange": -2,
+ "gloryPoint": 50654,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hally",
@@ -270,6 +270,14 @@
    "position": 292,
    "rankingPositionChange": 0,
    "gloryPoint": 50703,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 294,
+   "rankingPositionChange": -2,
+   "gloryPoint": 50654,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 1228081,
  "characterClassID": 16,
  "raceID": 0,
- "position": 79,
- "rankingPositionChange": 0,
- "gloryPoint": 170177,
- "gloryPointChange": 206,
+ "position": 80,
+ "rankingPositionChange": -1,
+ "gloryPoint": 170070,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Niphelinchen",
  "guildName": "The Unique",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 170177,
    "gloryPointChange": 206,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 80,
+   "rankingPositionChange": -1,
+   "gloryPoint": 170070,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

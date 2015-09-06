@@ -2,10 +2,10 @@
  "characterID": 906281,
  "characterClassID": 7,
  "raceID": 1,
- "position": 205,
- "rankingPositionChange": 0,
- "gloryPoint": 30971,
- "gloryPointChange": -49,
+ "position": 206,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31081,
+ "gloryPointChange": 110,
  "soldierRankID": 13,
  "characterName": "Iznogoud",
  "guildName": "Elegibo",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 30971,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 206,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31081,
+   "gloryPointChange": 110,
    "soldierRankID": 13
   }
  ],

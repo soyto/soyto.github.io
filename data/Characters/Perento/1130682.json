@@ -2,9 +2,9 @@
  "characterID": 1130682,
  "characterClassID": 10,
  "raceID": 1,
- "position": 260,
- "rankingPositionChange": 0,
- "gloryPoint": 30716,
+ "position": 262,
+ "rankingPositionChange": -2,
+ "gloryPoint": 30667,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tasukete",
@@ -272,6 +272,14 @@
    "position": 260,
    "rankingPositionChange": 0,
    "gloryPoint": 30716,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 262,
+   "rankingPositionChange": -2,
+   "gloryPoint": 30667,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

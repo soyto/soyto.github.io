@@ -2,9 +2,9 @@
  "characterID": 243532,
  "characterClassID": 2,
  "raceID": 0,
- "position": 847,
- "rankingPositionChange": -1,
- "gloryPoint": 11410,
+ "position": 846,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11403,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alesya",
@@ -272,6 +272,14 @@
    "position": 847,
    "rankingPositionChange": -1,
    "gloryPoint": 11410,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11403,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

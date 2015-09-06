@@ -2,9 +2,9 @@
  "characterID": 1002100,
  "characterClassID": 11,
  "raceID": 1,
- "position": 547,
- "rankingPositionChange": 1,
- "gloryPoint": 13727,
+ "position": 549,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13713,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Deessebou",
@@ -264,6 +264,14 @@
    "position": 547,
    "rankingPositionChange": 1,
    "gloryPoint": 13727,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 549,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13713,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 1160914,
  "characterClassID": 1,
  "raceID": 1,
- "position": 508,
- "rankingPositionChange": 2,
- "gloryPoint": 9292,
+ "position": 512,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9278,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Robipapa",
@@ -192,6 +192,14 @@
    "position": 508,
    "rankingPositionChange": 2,
    "gloryPoint": 9292,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 512,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9278,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

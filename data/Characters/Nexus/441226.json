@@ -2,13 +2,13 @@
  "characterID": 441226,
  "characterClassID": 8,
  "raceID": 0,
- "position": 382,
- "rankingPositionChange": 1,
- "gloryPoint": 25071,
+ "position": 383,
+ "rankingPositionChange": -1,
+ "gloryPoint": 25043,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Pepinazo",
- "guildName": "Armageddon",
+ "guildName": "Anoha",
  "guildID": 7325,
  "status": [
   {
@@ -272,6 +272,14 @@
    "position": 382,
    "rankingPositionChange": 1,
    "gloryPoint": 25071,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 383,
+   "rankingPositionChange": -1,
+   "gloryPoint": 25043,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

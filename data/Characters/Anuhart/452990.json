@@ -2,9 +2,9 @@
  "characterID": 452990,
  "characterClassID": 11,
  "raceID": 1,
- "position": 901,
- "rankingPositionChange": 4,
- "gloryPoint": 2055,
+ "position": 907,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2048,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Osir",
@@ -272,6 +272,14 @@
    "position": 901,
    "rankingPositionChange": 4,
    "gloryPoint": 2055,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 907,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2048,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

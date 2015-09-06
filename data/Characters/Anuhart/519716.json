@@ -2,14 +2,14 @@
  "characterID": 519716,
  "characterClassID": 5,
  "raceID": 1,
- "position": 335,
- "rankingPositionChange": 8,
- "gloryPoint": 21273,
- "gloryPointChange": 513,
+ "position": 338,
+ "rankingPositionChange": -3,
+ "gloryPoint": 21376,
+ "gloryPointChange": 103,
  "soldierRankID": 12,
  "characterName": "Bartxx",
- "guildName": "Army of Pain",
- "guildID": 7929,
+ "guildName": "Legendary Dragons",
+ "guildID": 21166,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 21273,
    "gloryPointChange": 513,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 338,
+   "rankingPositionChange": -3,
+   "gloryPoint": 21376,
+   "gloryPointChange": 103,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -298,6 +306,11 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "Army of Pain",
    "guildID": 7929
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Legendary Dragons",
+   "guildID": 21166
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 713659,
  "characterClassID": 7,
  "raceID": 1,
- "position": 563,
- "rankingPositionChange": 0,
- "gloryPoint": 8072,
+ "position": 565,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8058,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Miniluett",
@@ -272,6 +272,14 @@
    "position": 563,
    "rankingPositionChange": 0,
    "gloryPoint": 8072,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 565,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8058,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

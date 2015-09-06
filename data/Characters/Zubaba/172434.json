@@ -2,10 +2,10 @@
  "characterID": 172434,
  "characterClassID": 1,
  "raceID": 1,
- "position": 67,
- "rankingPositionChange": 0,
- "gloryPoint": 118434,
- "gloryPointChange": 404,
+ "position": 68,
+ "rankingPositionChange": -1,
+ "gloryPoint": 119241,
+ "gloryPointChange": 807,
  "soldierRankID": 14,
  "characterName": "Gaaddaar",
  "guildName": "ANCHOR",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 118434,
    "gloryPointChange": 404,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 68,
+   "rankingPositionChange": -1,
+   "gloryPoint": 119241,
+   "gloryPointChange": 807,
    "soldierRankID": 14
   }
  ],

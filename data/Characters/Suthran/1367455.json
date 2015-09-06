@@ -2,9 +2,9 @@
  "characterID": 1367455,
  "characterClassID": 1,
  "raceID": 1,
- "position": 158,
- "rankingPositionChange": 0,
- "gloryPoint": 72409,
+ "position": 159,
+ "rankingPositionChange": -1,
+ "gloryPoint": 72360,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pixeld",
@@ -272,6 +272,14 @@
    "position": 158,
    "rankingPositionChange": 0,
    "gloryPoint": 72409,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": -1,
+   "gloryPoint": 72360,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

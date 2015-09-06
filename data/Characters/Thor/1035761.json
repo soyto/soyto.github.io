@@ -2,10 +2,10 @@
  "characterID": 1035761,
  "characterClassID": 10,
  "raceID": 0,
- "position": 510,
- "rankingPositionChange": 0,
- "gloryPoint": 35630,
- "gloryPointChange": 86,
+ "position": 511,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35616,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Chahira",
  "guildName": " Synced ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35630,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35616,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

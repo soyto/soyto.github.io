@@ -2,10 +2,10 @@
  "characterID": 524784,
  "characterClassID": 2,
  "raceID": 1,
- "position": 66,
- "rankingPositionChange": 0,
- "gloryPoint": 29488,
- "gloryPointChange": 93,
+ "position": 67,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29381,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Nadisie",
  "guildName": "Chasseurs de Foudre",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 29488,
    "gloryPointChange": 93,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 67,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29381,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

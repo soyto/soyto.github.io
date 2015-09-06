@@ -2,9 +2,9 @@
  "characterID": 1118795,
  "characterClassID": 10,
  "raceID": 1,
- "position": 512,
- "rankingPositionChange": 2,
- "gloryPoint": 3163,
+ "position": 514,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3149,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nekogirl",
@@ -272,6 +272,14 @@
    "position": 512,
    "rankingPositionChange": 2,
    "gloryPoint": 3163,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3149,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

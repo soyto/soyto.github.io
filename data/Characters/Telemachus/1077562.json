@@ -2,10 +2,10 @@
  "characterID": 1077562,
  "characterClassID": 10,
  "raceID": 1,
- "position": 411,
- "rankingPositionChange": 4,
- "gloryPoint": 5924,
- "gloryPointChange": 69,
+ "position": 416,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5896,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Calesy",
  "guildName": "You Are Not Alone",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 5924,
    "gloryPointChange": 69,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5896,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

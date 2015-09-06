@@ -2,10 +2,10 @@
  "characterID": 80368,
  "characterClassID": 11,
  "raceID": 1,
- "position": 910,
- "rankingPositionChange": 2,
- "gloryPoint": 1452,
- "gloryPointChange": -7,
+ "position": 912,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1448,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Muckk",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 1452,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1448,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 486,
- "rankingPositionChange": -2,
- "gloryPoint": 8745,
- "gloryPointChange": -15,
+ "rankingPositionChange": 0,
+ "gloryPoint": 8860,
+ "gloryPointChange": 115,
  "soldierRankID": 12,
  "characterName": "Altaira",
  "guildName": "Hope",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 8745,
    "gloryPointChange": -15,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 486,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8860,
+   "gloryPointChange": 115,
    "soldierRankID": 12
   }
  ],

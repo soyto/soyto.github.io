@@ -2,10 +2,10 @@
  "characterID": 763590,
  "characterClassID": 1,
  "raceID": 1,
- "position": 160,
- "rankingPositionChange": 0,
- "gloryPoint": 39532,
- "gloryPointChange": 154,
+ "position": 161,
+ "rankingPositionChange": -1,
+ "gloryPoint": 39483,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ramyz",
  "guildName": "M I N I O N",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 39532,
    "gloryPointChange": 154,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 161,
+   "rankingPositionChange": -1,
+   "gloryPoint": 39483,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1057166,
  "characterClassID": 11,
  "raceID": 0,
- "position": 585,
- "rankingPositionChange": 0,
- "gloryPoint": 15368,
+ "position": 586,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15354,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Piny",
@@ -272,6 +272,14 @@
    "position": 585,
    "rankingPositionChange": 0,
    "gloryPoint": 15368,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 586,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15354,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

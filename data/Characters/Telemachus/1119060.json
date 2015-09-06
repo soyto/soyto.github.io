@@ -2,9 +2,9 @@
  "characterID": 1119060,
  "characterClassID": 4,
  "raceID": 1,
- "position": 162,
- "rankingPositionChange": 0,
- "gloryPoint": 38248,
+ "position": 163,
+ "rankingPositionChange": -1,
+ "gloryPoint": 38199,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Skyyyy",
@@ -272,6 +272,14 @@
    "position": 162,
    "rankingPositionChange": 0,
    "gloryPoint": 38248,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 163,
+   "rankingPositionChange": -1,
+   "gloryPoint": 38199,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

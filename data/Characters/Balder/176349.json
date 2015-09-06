@@ -2,9 +2,9 @@
  "characterID": 176349,
  "characterClassID": 10,
  "raceID": 1,
- "position": 631,
- "rankingPositionChange": 1,
- "gloryPoint": 1320,
+ "position": 632,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1313,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kleinerhobbit",
@@ -104,6 +104,14 @@
    "position": 631,
    "rankingPositionChange": 1,
    "gloryPoint": 1320,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 632,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1313,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 500881,
  "characterClassID": 13,
  "raceID": 0,
- "position": 412,
- "rankingPositionChange": 3,
- "gloryPoint": 4791,
+ "position": 413,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4863,
  "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Paulin",
@@ -272,6 +272,14 @@
    "position": 412,
    "rankingPositionChange": 3,
    "gloryPoint": 4791,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 413,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4863,
    "gloryPointChange": 72,
    "soldierRankID": 12
   }

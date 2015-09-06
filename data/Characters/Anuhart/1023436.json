@@ -2,10 +2,10 @@
  "characterID": 1023436,
  "characterClassID": 4,
  "raceID": 0,
- "position": 888,
- "rankingPositionChange": 0,
- "gloryPoint": 5280,
- "gloryPointChange": 102,
+ "position": 887,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5273,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kanybalka",
  "guildName": "Light Essence CZ",
@@ -81,6 +81,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5280,
    "gloryPointChange": 102,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 887,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5273,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

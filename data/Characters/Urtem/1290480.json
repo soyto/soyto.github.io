@@ -2,9 +2,9 @@
  "characterID": 1290480,
  "characterClassID": 4,
  "raceID": 1,
- "position": 578,
- "rankingPositionChange": 0,
- "gloryPoint": 14913,
+ "position": 580,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14899,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Serhide",
@@ -256,6 +256,14 @@
    "position": 578,
    "rankingPositionChange": 0,
    "gloryPoint": 14913,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 580,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14899,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

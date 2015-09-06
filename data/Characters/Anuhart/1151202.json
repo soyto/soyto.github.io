@@ -2,10 +2,10 @@
  "characterID": 1151202,
  "characterClassID": 2,
  "raceID": 0,
- "position": 568,
- "rankingPositionChange": -6,
- "gloryPoint": 12128,
- "gloryPointChange": -11,
+ "position": 566,
+ "rankingPositionChange": 2,
+ "gloryPoint": 12228,
+ "gloryPointChange": 100,
  "soldierRankID": 11,
  "characterName": "Ancile",
  "guildName": "Blue square",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 12128,
    "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 566,
+   "rankingPositionChange": 2,
+   "gloryPoint": 12228,
+   "gloryPointChange": 100,
    "soldierRankID": 11
   }
  ],

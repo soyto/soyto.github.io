@@ -2,9 +2,9 @@
  "characterID": 166524,
  "characterClassID": 13,
  "raceID": 0,
- "position": 783,
- "rankingPositionChange": 0,
- "gloryPoint": 13680,
+ "position": 784,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13673,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jeagers",
@@ -240,6 +240,14 @@
    "position": 783,
    "rankingPositionChange": 0,
    "gloryPoint": 13680,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 784,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13673,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

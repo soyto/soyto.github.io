@@ -3,13 +3,13 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 192,
- "rankingPositionChange": 1,
- "gloryPoint": 93128,
- "gloryPointChange": 514,
+ "rankingPositionChange": 0,
+ "gloryPoint": 93379,
+ "gloryPointChange": 251,
  "soldierRankID": 13,
  "characterName": "Aiju",
- "guildName": "  Pink Fluffy Unicorns  ",
- "guildID": 47961,
+ "guildName": " woof ",
+ "guildID": 45852,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 93128,
    "gloryPointChange": 514,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 192,
+   "rankingPositionChange": 0,
+   "gloryPoint": 93379,
+   "gloryPointChange": 251,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "  Pink Fluffy Unicorns  ",
    "guildID": 47961
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": " woof ",
+   "guildID": 45852
   }
  ]
 }

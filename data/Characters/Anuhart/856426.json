@@ -2,9 +2,9 @@
  "characterID": 856426,
  "characterClassID": 16,
  "raceID": 1,
- "position": 532,
- "rankingPositionChange": 3,
- "gloryPoint": 8491,
+ "position": 535,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8477,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Trubesmodia",
@@ -272,6 +272,14 @@
    "position": 532,
    "rankingPositionChange": 3,
    "gloryPoint": 8491,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 535,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8477,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

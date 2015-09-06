@@ -2,9 +2,9 @@
  "characterID": 464702,
  "characterClassID": 16,
  "raceID": 1,
- "position": 460,
- "rankingPositionChange": -3,
- "gloryPoint": 2512,
+ "position": 456,
+ "rankingPositionChange": 4,
+ "gloryPoint": 2484,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ilmenschenaffell",
@@ -128,6 +128,14 @@
    "position": 460,
    "rankingPositionChange": -3,
    "gloryPoint": 2512,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": 4,
+   "gloryPoint": 2484,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

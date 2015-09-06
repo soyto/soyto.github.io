@@ -2,10 +2,10 @@
  "characterID": 368518,
  "characterClassID": 16,
  "raceID": 1,
- "position": 171,
- "rankingPositionChange": 0,
- "gloryPoint": 80004,
- "gloryPointChange": -46,
+ "position": 172,
+ "rankingPositionChange": -1,
+ "gloryPoint": 79955,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ingloria",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 80004,
    "gloryPointChange": -46,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 172,
+   "rankingPositionChange": -1,
+   "gloryPoint": 79955,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

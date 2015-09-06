@@ -2,10 +2,10 @@
  "characterID": 1507436,
  "characterClassID": 11,
  "raceID": 1,
- "position": 717,
- "rankingPositionChange": 2,
- "gloryPoint": 11543,
- "gloryPointChange": 39,
+ "position": 720,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11542,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Moyama",
  "guildName": "YWNWA",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 11543,
    "gloryPointChange": 39,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 720,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11542,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

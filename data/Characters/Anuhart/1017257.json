@@ -2,9 +2,9 @@
  "characterID": 1017257,
  "characterClassID": 16,
  "raceID": 1,
- "position": 489,
- "rankingPositionChange": 0,
- "gloryPoint": 9526,
+ "position": 492,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9498,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Laoh",
@@ -272,6 +272,14 @@
    "position": 489,
    "rankingPositionChange": 0,
    "gloryPoint": 9526,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 492,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9498,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

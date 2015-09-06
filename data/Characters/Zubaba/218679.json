@@ -2,9 +2,9 @@
  "characterID": 218679,
  "characterClassID": 2,
  "raceID": 0,
- "position": 211,
- "rankingPositionChange": 0,
- "gloryPoint": 53460,
+ "position": 212,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53411,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lounger",
@@ -262,6 +262,14 @@
    "position": 211,
    "rankingPositionChange": 0,
    "gloryPoint": 53460,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 212,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53411,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

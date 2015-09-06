@@ -2,9 +2,9 @@
  "characterID": 873737,
  "characterClassID": 4,
  "raceID": 0,
- "position": 349,
- "rankingPositionChange": 0,
- "gloryPoint": 48155,
+ "position": 348,
+ "rankingPositionChange": 1,
+ "gloryPoint": 48127,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zapagon",
@@ -166,6 +166,14 @@
    "position": 349,
    "rankingPositionChange": 0,
    "gloryPoint": 48155,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 348,
+   "rankingPositionChange": 1,
+   "gloryPoint": 48127,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

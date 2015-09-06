@@ -2,10 +2,10 @@
  "characterID": 1131324,
  "characterClassID": 1,
  "raceID": 0,
- "position": 188,
- "rankingPositionChange": 1,
- "gloryPoint": 69463,
- "gloryPointChange": 193,
+ "position": 189,
+ "rankingPositionChange": -1,
+ "gloryPoint": 69464,
+ "gloryPointChange": 1,
  "soldierRankID": 13,
  "characterName": "Tarasu",
  "guildName": "E G O I S T",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 69463,
    "gloryPointChange": 193,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 189,
+   "rankingPositionChange": -1,
+   "gloryPoint": 69464,
+   "gloryPointChange": 1,
    "soldierRankID": 13
   }
  ],

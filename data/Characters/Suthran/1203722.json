@@ -2,10 +2,10 @@
  "characterID": 1203722,
  "characterClassID": 8,
  "raceID": 0,
- "position": 364,
- "rankingPositionChange": -2,
- "gloryPoint": 43801,
- "gloryPointChange": -28,
+ "position": 363,
+ "rankingPositionChange": 1,
+ "gloryPoint": 43998,
+ "gloryPointChange": 197,
  "soldierRankID": 12,
  "characterName": "Ahr",
  "guildName": "Nyudera",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 43801,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 363,
+   "rankingPositionChange": 1,
+   "gloryPoint": 43998,
+   "gloryPointChange": 197,
    "soldierRankID": 12
   }
  ],

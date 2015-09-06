@@ -2,9 +2,9 @@
  "characterID": 899627,
  "characterClassID": 8,
  "raceID": 1,
- "position": 270,
- "rankingPositionChange": 3,
- "gloryPoint": 31794,
+ "position": 271,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31745,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lillyeen",
@@ -272,6 +272,14 @@
    "position": 270,
    "rankingPositionChange": 3,
    "gloryPoint": 31794,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 271,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31745,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 516491,
  "characterClassID": 5,
  "raceID": 0,
- "position": 309,
- "rankingPositionChange": 6,
- "gloryPoint": 9958,
- "gloryPointChange": 340,
+ "position": 310,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9940,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Arathes",
  "guildName": "Moon",
@@ -161,6 +161,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 9958,
    "gloryPointChange": 340,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 310,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9940,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

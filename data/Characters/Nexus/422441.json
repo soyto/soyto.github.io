@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 560,
- "rankingPositionChange": 5,
- "gloryPoint": 14358,
- "gloryPointChange": 108,
+ "rankingPositionChange": 0,
+ "gloryPoint": 14344,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Suny",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 14358,
    "gloryPointChange": 108,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 560,
+   "rankingPositionChange": 0,
+   "gloryPoint": 14344,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

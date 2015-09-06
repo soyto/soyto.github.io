@@ -2,9 +2,9 @@
  "characterID": 552890,
  "characterClassID": 4,
  "raceID": 1,
- "position": 508,
- "rankingPositionChange": 0,
- "gloryPoint": 3227,
+ "position": 511,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3213,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kalig",
@@ -272,6 +272,14 @@
    "position": 508,
    "rankingPositionChange": 0,
    "gloryPoint": 3227,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3213,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

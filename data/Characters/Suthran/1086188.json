@@ -2,9 +2,9 @@
  "characterID": 1086188,
  "characterClassID": 14,
  "raceID": 1,
- "position": 272,
- "rankingPositionChange": -1,
- "gloryPoint": 39693,
+ "position": 271,
+ "rankingPositionChange": 1,
+ "gloryPoint": 39644,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Skyttle",
@@ -270,6 +270,14 @@
    "position": 272,
    "rankingPositionChange": -1,
    "gloryPoint": 39693,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 271,
+   "rankingPositionChange": 1,
+   "gloryPoint": 39644,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

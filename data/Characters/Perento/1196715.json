@@ -2,9 +2,9 @@
  "characterID": 1196715,
  "characterClassID": 14,
  "raceID": 1,
- "position": 950,
- "rankingPositionChange": -3,
- "gloryPoint": 1722,
+ "position": 949,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1715,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ramara",
@@ -192,6 +192,14 @@
    "position": 950,
    "rankingPositionChange": -3,
    "gloryPoint": 1722,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1715,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

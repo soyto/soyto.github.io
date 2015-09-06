@@ -2,10 +2,10 @@
  "characterID": 1130998,
  "characterClassID": 10,
  "raceID": 0,
- "position": 175,
- "rankingPositionChange": 0,
- "gloryPoint": 82645,
- "gloryPointChange": 4,
+ "position": 176,
+ "rankingPositionChange": -1,
+ "gloryPoint": 82666,
+ "gloryPointChange": 21,
  "soldierRankID": 13,
  "characterName": "Nirhr",
  "guildName": "Nyudera",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 82645,
    "gloryPointChange": 4,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 176,
+   "rankingPositionChange": -1,
+   "gloryPoint": 82666,
+   "gloryPointChange": 21,
    "soldierRankID": 13
   }
  ],

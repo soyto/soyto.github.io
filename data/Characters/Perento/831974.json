@@ -2,9 +2,9 @@
  "characterID": 831974,
  "characterClassID": 10,
  "raceID": 1,
- "position": 210,
- "rankingPositionChange": 0,
- "gloryPoint": 43085,
+ "position": 211,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43036,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sodomnia",
@@ -270,6 +270,14 @@
    "position": 210,
    "rankingPositionChange": 0,
    "gloryPoint": 43085,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 211,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43036,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

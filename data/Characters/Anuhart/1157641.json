@@ -2,10 +2,10 @@
  "characterID": 1157641,
  "characterClassID": 11,
  "raceID": 1,
- "position": 937,
- "rankingPositionChange": 15,
- "gloryPoint": 1821,
- "gloryPointChange": 61,
+ "position": 938,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1824,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Chavette",
  "guildName": "Anime Dannate",
@@ -33,6 +33,14 @@
    "rankingPositionChange": 15,
    "gloryPoint": 1821,
    "gloryPointChange": 61,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 938,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1824,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

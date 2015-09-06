@@ -2,9 +2,9 @@
  "characterID": 482274,
  "characterClassID": 1,
  "raceID": 1,
- "position": 405,
- "rankingPositionChange": 0,
- "gloryPoint": 4132,
+ "position": 401,
+ "rankingPositionChange": 4,
+ "gloryPoint": 4104,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Chichiki",
@@ -102,6 +102,14 @@
    "position": 405,
    "rankingPositionChange": 0,
    "gloryPoint": 4132,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": 4,
+   "gloryPoint": 4104,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

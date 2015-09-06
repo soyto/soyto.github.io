@@ -2,9 +2,9 @@
  "characterID": 1201537,
  "characterClassID": 4,
  "raceID": 1,
- "position": 943,
- "rankingPositionChange": 4,
- "gloryPoint": 1792,
+ "position": 948,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1785,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Brinz",
@@ -224,6 +224,14 @@
    "position": 943,
    "rankingPositionChange": 4,
    "gloryPoint": 1792,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 948,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1785,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

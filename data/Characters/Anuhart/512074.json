@@ -2,10 +2,10 @@
  "characterID": 512074,
  "characterClassID": 1,
  "raceID": 0,
- "position": 893,
- "rankingPositionChange": 25,
- "gloryPoint": 5175,
- "gloryPointChange": 290,
+ "position": 890,
+ "rankingPositionChange": 3,
+ "gloryPoint": 5171,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Damond",
  "guildName": "The Spartans",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 25,
    "gloryPoint": 5175,
    "gloryPointChange": 290,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 890,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5171,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

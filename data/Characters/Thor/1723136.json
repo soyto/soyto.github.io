@@ -2,10 +2,10 @@
  "characterID": 1723136,
  "characterClassID": 13,
  "raceID": 1,
- "position": 605,
- "rankingPositionChange": 2,
- "gloryPoint": 22849,
- "gloryPointChange": 55,
+ "position": 606,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22835,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Beormn",
  "guildName": "X Affen mit Waffen X",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 22849,
    "gloryPointChange": 55,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 606,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22835,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

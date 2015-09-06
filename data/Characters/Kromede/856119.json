@@ -2,9 +2,9 @@
  "characterID": 856119,
  "characterClassID": 10,
  "raceID": 0,
- "position": 163,
- "rankingPositionChange": 0,
- "gloryPoint": 82712,
+ "position": 167,
+ "rankingPositionChange": -4,
+ "gloryPoint": 82663,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sensanilia",
@@ -262,6 +262,14 @@
    "position": 163,
    "rankingPositionChange": 0,
    "gloryPoint": 82712,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 167,
+   "rankingPositionChange": -4,
+   "gloryPoint": 82663,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

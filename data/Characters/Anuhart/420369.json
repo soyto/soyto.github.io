@@ -2,9 +2,9 @@
  "characterID": 420369,
  "characterClassID": 8,
  "raceID": 0,
- "position": 290,
- "rankingPositionChange": -3,
- "gloryPoint": 34980,
+ "position": 289,
+ "rankingPositionChange": 1,
+ "gloryPoint": 34931,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rimini",
@@ -272,6 +272,14 @@
    "position": 290,
    "rankingPositionChange": -3,
    "gloryPoint": 34980,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 289,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34931,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

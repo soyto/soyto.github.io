@@ -2,9 +2,9 @@
  "characterID": 1045,
  "characterClassID": 2,
  "raceID": 1,
- "position": 351,
- "rankingPositionChange": -2,
- "gloryPoint": 43134,
+ "position": 350,
+ "rankingPositionChange": 1,
+ "gloryPoint": 43106,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Seraphiela",
@@ -270,6 +270,14 @@
    "position": 351,
    "rankingPositionChange": -2,
    "gloryPoint": 43134,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 350,
+   "rankingPositionChange": 1,
+   "gloryPoint": 43106,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

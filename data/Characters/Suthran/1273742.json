@@ -2,14 +2,14 @@
  "characterID": 1273742,
  "characterClassID": 7,
  "raceID": 1,
- "position": 374,
- "rankingPositionChange": -1,
- "gloryPoint": 23508,
- "gloryPointChange": -28,
+ "position": 368,
+ "rankingPositionChange": 6,
+ "gloryPoint": 24355,
+ "gloryPointChange": 847,
  "soldierRankID": 12,
  "characterName": "Skiooou",
- "guildName": "The Stand Alone",
- "guildID": 43714,
+ "guildName": "Korean Panda Crew",
+ "guildID": 11871,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -250,6 +250,14 @@
    "gloryPoint": 23508,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 368,
+   "rankingPositionChange": 6,
+   "gloryPoint": 24355,
+   "gloryPointChange": 847,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -268,6 +276,11 @@
    "date": "2015-08-30T22:00:00.000Z",
    "guildName": "The Stand Alone",
    "guildID": 43714
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Korean Panda Crew",
+   "guildID": 11871
   }
  ]
 }

@@ -2,14 +2,14 @@
  "characterID": 606541,
  "characterClassID": 8,
  "raceID": 0,
- "position": 792,
- "rankingPositionChange": 1,
- "gloryPoint": 7743,
- "gloryPointChange": -7,
+ "position": 793,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7746,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Shadis",
- "guildName": "Mystery Of San",
- "guildID": 16470,
+ "guildName": "Army Of Shadows",
+ "guildID": 16467,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 7743,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 793,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7746,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -298,6 +306,11 @@
    "date": "2015-08-27T22:00:00.000Z",
    "guildName": "Mystery Of San",
    "guildID": 16470
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Army Of Shadows",
+   "guildID": 16467
   }
  ]
 }

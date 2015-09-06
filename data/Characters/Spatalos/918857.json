@@ -2,9 +2,9 @@
  "characterID": 918857,
  "characterClassID": 5,
  "raceID": 0,
- "position": 23,
- "rankingPositionChange": 0,
- "gloryPoint": 263117,
+ "position": 24,
+ "rankingPositionChange": -1,
+ "gloryPoint": 262998,
  "gloryPointChange": -119,
  "soldierRankID": 15,
  "characterName": "Ilusis",
@@ -270,6 +270,14 @@
    "position": 23,
    "rankingPositionChange": 0,
    "gloryPoint": 263117,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 24,
+   "rankingPositionChange": -1,
+   "gloryPoint": 262998,
    "gloryPointChange": -119,
    "soldierRankID": 15
   }

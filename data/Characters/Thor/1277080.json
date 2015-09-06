@@ -2,9 +2,9 @@
  "characterID": 1277080,
  "characterClassID": 1,
  "raceID": 1,
- "position": 288,
- "rankingPositionChange": 0,
- "gloryPoint": 55794,
+ "position": 290,
+ "rankingPositionChange": -2,
+ "gloryPoint": 55745,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Xyraphina",
@@ -272,6 +272,14 @@
    "position": 288,
    "rankingPositionChange": 0,
    "gloryPoint": 55794,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 290,
+   "rankingPositionChange": -2,
+   "gloryPoint": 55745,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

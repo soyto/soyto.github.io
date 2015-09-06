@@ -2,10 +2,10 @@
  "characterID": 930839,
  "characterClassID": 2,
  "raceID": 1,
- "position": 577,
- "rankingPositionChange": 5,
- "gloryPoint": 2496,
- "gloryPointChange": 39,
+ "position": 582,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2482,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hellsings",
  "guildName": "You Are Not Alone",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 2496,
    "gloryPointChange": 39,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 582,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2482,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

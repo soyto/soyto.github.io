@@ -2,9 +2,9 @@
  "characterID": 676829,
  "characterClassID": 8,
  "raceID": 1,
- "position": 523,
- "rankingPositionChange": 0,
- "gloryPoint": 1905,
+ "position": 525,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1891,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sweetchilli",
@@ -272,6 +272,14 @@
    "position": 523,
    "rankingPositionChange": 0,
    "gloryPoint": 1905,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 525,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1891,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,14 +2,12 @@
  "characterID": 272991,
  "characterClassID": 14,
  "raceID": 0,
- "position": 561,
- "rankingPositionChange": 1,
- "gloryPoint": 12496,
- "gloryPointChange": -14,
+ "position": 571,
+ "rankingPositionChange": -10,
+ "gloryPoint": 12412,
+ "gloryPointChange": -84,
  "soldierRankID": 11,
  "characterName": "Noblelion",
- "guildName": "LETHAL",
- "guildID": 3529,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -234,6 +232,14 @@
    "gloryPoint": 12496,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 571,
+   "rankingPositionChange": -10,
+   "gloryPoint": 12412,
+   "gloryPointChange": -84,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -247,6 +253,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "LETHAL",
    "guildID": 3529
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

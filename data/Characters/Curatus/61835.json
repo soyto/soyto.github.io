@@ -2,9 +2,9 @@
  "characterID": 61835,
  "characterClassID": 5,
  "raceID": 1,
- "position": 715,
- "rankingPositionChange": 0,
- "gloryPoint": 6416,
+ "position": 716,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6409,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Resonator",
@@ -270,6 +270,14 @@
    "position": 715,
    "rankingPositionChange": 0,
    "gloryPoint": 6416,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 716,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6409,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

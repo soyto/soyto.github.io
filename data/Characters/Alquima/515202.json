@@ -2,10 +2,10 @@
  "characterID": 515202,
  "characterClassID": 14,
  "raceID": 1,
- "position": 506,
- "rankingPositionChange": 1,
- "gloryPoint": 15837,
- "gloryPointChange": 107,
+ "position": 508,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15823,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Reol",
  "guildName": "Nemesis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 15837,
    "gloryPointChange": 107,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15823,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

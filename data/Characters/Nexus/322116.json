@@ -2,9 +2,9 @@
  "characterID": 322116,
  "characterClassID": 4,
  "raceID": 1,
- "position": 277,
- "rankingPositionChange": 0,
- "gloryPoint": 61839,
+ "position": 278,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61790,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Vzzz",
@@ -272,6 +272,14 @@
    "position": 277,
    "rankingPositionChange": 0,
    "gloryPoint": 61839,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 278,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61790,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

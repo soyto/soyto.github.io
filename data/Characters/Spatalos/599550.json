@@ -2,14 +2,12 @@
  "characterID": 599550,
  "characterClassID": 4,
  "raceID": 1,
- "position": 32,
- "rankingPositionChange": -1,
- "gloryPoint": 155252,
- "gloryPointChange": 708,
+ "position": 31,
+ "rankingPositionChange": 1,
+ "gloryPoint": 155999,
+ "gloryPointChange": 747,
  "soldierRankID": 14,
  "characterName": "Tentenxy",
- "guildName": "Goon Squad",
- "guildID": 30331,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 155252,
    "gloryPointChange": 708,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 31,
+   "rankingPositionChange": 1,
+   "gloryPoint": 155999,
+   "gloryPointChange": 747,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -300,6 +306,9 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "Goon Squad",
    "guildID": 30331
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 81057,
  "characterClassID": 16,
  "raceID": 0,
- "position": 811,
- "rankingPositionChange": 3,
- "gloryPoint": 5189,
+ "position": 815,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5182,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kasilda",
@@ -270,6 +270,14 @@
    "position": 811,
    "rankingPositionChange": 3,
    "gloryPoint": 5189,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 815,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5182,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

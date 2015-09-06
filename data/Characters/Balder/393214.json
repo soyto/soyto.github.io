@@ -2,9 +2,9 @@
  "characterID": 393214,
  "characterClassID": 10,
  "raceID": 0,
- "position": 361,
- "rankingPositionChange": -4,
- "gloryPoint": 15852,
+ "position": 358,
+ "rankingPositionChange": 3,
+ "gloryPoint": 15824,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lucina",
@@ -272,6 +272,14 @@
    "position": 361,
    "rankingPositionChange": -4,
    "gloryPoint": 15852,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 358,
+   "rankingPositionChange": 3,
+   "gloryPoint": 15824,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 1072940,
  "characterClassID": 1,
  "raceID": 1,
- "position": 882,
- "rankingPositionChange": -5,
- "gloryPoint": 13020,
+ "position": 881,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13013,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sirkdalot",
@@ -272,6 +272,14 @@
    "position": 882,
    "rankingPositionChange": -5,
    "gloryPoint": 13020,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 881,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13013,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

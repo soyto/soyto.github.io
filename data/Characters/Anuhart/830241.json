@@ -2,9 +2,9 @@
  "characterID": 830241,
  "characterClassID": 2,
  "raceID": 1,
- "position": 868,
- "rankingPositionChange": 4,
- "gloryPoint": 2271,
+ "position": 873,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2264,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fortheemperor",
@@ -272,6 +272,14 @@
    "position": 868,
    "rankingPositionChange": 4,
    "gloryPoint": 2271,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 873,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2264,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

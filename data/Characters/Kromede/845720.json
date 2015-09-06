@@ -2,9 +2,9 @@
  "characterID": 845720,
  "characterClassID": 10,
  "raceID": 0,
- "position": 534,
- "rankingPositionChange": 0,
- "gloryPoint": 21715,
+ "position": 535,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21701,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Naturi",
@@ -46,6 +46,14 @@
    "position": 534,
    "rankingPositionChange": 0,
    "gloryPoint": 21715,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 535,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21701,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

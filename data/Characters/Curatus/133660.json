@@ -2,9 +2,9 @@
  "characterID": 133660,
  "characterClassID": 11,
  "raceID": 0,
- "position": 742,
- "rankingPositionChange": 0,
- "gloryPoint": 15743,
+ "position": 743,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15736,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Esta",
@@ -262,6 +262,14 @@
    "position": 742,
    "rankingPositionChange": 0,
    "gloryPoint": 15743,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 743,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15736,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 870652,
  "characterClassID": 1,
  "raceID": 1,
- "position": 390,
- "rankingPositionChange": 3,
- "gloryPoint": 4690,
+ "position": 391,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4662,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Awo",
@@ -272,6 +272,14 @@
    "position": 390,
    "rankingPositionChange": 3,
    "gloryPoint": 4690,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 391,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4662,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

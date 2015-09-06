@@ -2,10 +2,10 @@
  "characterID": 439684,
  "characterClassID": 14,
  "raceID": 0,
- "position": 925,
- "rankingPositionChange": 3,
- "gloryPoint": 11310,
- "gloryPointChange": 43,
+ "position": 928,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11303,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zoidberg",
  "guildName": "Simphony of Destruction",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 11310,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 928,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11303,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

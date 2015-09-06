@@ -2,9 +2,9 @@
  "characterID": 80073,
  "characterClassID": 14,
  "raceID": 1,
- "position": 947,
- "rankingPositionChange": 3,
- "gloryPoint": 1300,
+ "position": 954,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1293,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Starcraf",
@@ -78,6 +78,14 @@
    "position": 947,
    "rankingPositionChange": 3,
    "gloryPoint": 1300,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 954,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1293,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

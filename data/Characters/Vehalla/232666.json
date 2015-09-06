@@ -3,9 +3,9 @@
  "characterClassID": 11,
  "raceID": 0,
  "position": 185,
- "rankingPositionChange": 1,
- "gloryPoint": 29372,
- "gloryPointChange": 194,
+ "rankingPositionChange": 0,
+ "gloryPoint": 29323,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kerima",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 29372,
    "gloryPointChange": 194,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 185,
+   "rankingPositionChange": 0,
+   "gloryPoint": 29323,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

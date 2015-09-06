@@ -2,9 +2,9 @@
  "characterID": 277370,
  "characterClassID": 1,
  "raceID": 1,
- "position": 838,
- "rankingPositionChange": 0,
- "gloryPoint": 6468,
+ "position": 842,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6461,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Natyronne",
@@ -272,6 +272,14 @@
    "position": 838,
    "rankingPositionChange": 0,
    "gloryPoint": 6468,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 842,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6461,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

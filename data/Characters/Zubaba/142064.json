@@ -2,9 +2,9 @@
  "characterID": 142064,
  "characterClassID": 1,
  "raceID": 1,
- "position": 341,
- "rankingPositionChange": 1,
- "gloryPoint": 20499,
+ "position": 342,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20471,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Bugatti",
@@ -198,6 +198,14 @@
    "position": 341,
    "rankingPositionChange": 1,
    "gloryPoint": 20499,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 342,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20471,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

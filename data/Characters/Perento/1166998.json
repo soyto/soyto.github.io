@@ -2,10 +2,10 @@
  "characterID": 1166998,
  "characterClassID": 16,
  "raceID": 0,
- "position": 250,
- "rankingPositionChange": 0,
- "gloryPoint": 52789,
- "gloryPointChange": 84,
+ "position": 251,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52798,
+ "gloryPointChange": 9,
  "soldierRankID": 13,
  "characterName": "Bassman",
  "guildName": "FLAWLESS VICTORY",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 52789,
    "gloryPointChange": 84,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 251,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52798,
+   "gloryPointChange": 9,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 101024,
  "characterClassID": 5,
  "raceID": 0,
- "position": 656,
- "rankingPositionChange": 2,
- "gloryPoint": 18024,
+ "position": 659,
+ "rankingPositionChange": -3,
+ "gloryPoint": 18010,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Bakkuryu",
@@ -272,6 +272,14 @@
    "position": 656,
    "rankingPositionChange": 2,
    "gloryPoint": 18024,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 659,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18010,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

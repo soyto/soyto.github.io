@@ -2,9 +2,9 @@
  "characterID": 722681,
  "characterClassID": 4,
  "raceID": 0,
- "position": 251,
- "rankingPositionChange": 0,
- "gloryPoint": 63459,
+ "position": 253,
+ "rankingPositionChange": -2,
+ "gloryPoint": 63410,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Jahko",
@@ -272,6 +272,14 @@
    "position": 251,
    "rankingPositionChange": 0,
    "gloryPoint": 63459,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 253,
+   "rankingPositionChange": -2,
+   "gloryPoint": 63410,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

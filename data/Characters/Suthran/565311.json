@@ -2,9 +2,9 @@
  "characterID": 565311,
  "characterClassID": 10,
  "raceID": 1,
- "position": 889,
- "rankingPositionChange": 0,
- "gloryPoint": 5739,
+ "position": 892,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5732,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kinni",
@@ -262,6 +262,14 @@
    "position": 889,
    "rankingPositionChange": 0,
    "gloryPoint": 5739,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 892,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5732,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

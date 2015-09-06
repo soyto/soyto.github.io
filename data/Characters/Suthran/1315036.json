@@ -2,14 +2,12 @@
  "characterID": 1315036,
  "characterClassID": 7,
  "raceID": 1,
- "position": 307,
- "rankingPositionChange": -1,
- "gloryPoint": 34166,
+ "position": 305,
+ "rankingPositionChange": 2,
+ "gloryPoint": 34138,
  "gloryPointChange": -28,
  "soldierRankID": 12,
- "characterName": "Maaayer",
- "guildName": "Nou York Unite Special",
- "guildID": 43817,
+ "characterName": "Crowdctrl",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 34166,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": 2,
+   "gloryPoint": 34138,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -288,6 +294,10 @@
   {
    "date": "2015-08-04T22:00:00.000Z",
    "characterName": "Maaayer"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Crowdctrl"
   }
  ],
  "guilds": [
@@ -311,6 +321,9 @@
    "date": "2015-08-29T22:00:00.000Z",
    "guildName": "Nou York Unite Special",
    "guildID": 43817
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

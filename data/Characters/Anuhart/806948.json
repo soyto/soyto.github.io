@@ -2,9 +2,9 @@
  "characterID": 806948,
  "characterClassID": 10,
  "raceID": 1,
- "position": 893,
- "rankingPositionChange": 3,
- "gloryPoint": 2103,
+ "position": 898,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2096,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kureha",
@@ -270,6 +270,14 @@
    "position": 893,
    "rankingPositionChange": 3,
    "gloryPoint": 2103,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 898,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2096,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

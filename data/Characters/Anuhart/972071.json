@@ -2,9 +2,9 @@
  "characterID": 972071,
  "characterClassID": 10,
  "raceID": 1,
- "position": 203,
- "rankingPositionChange": 1,
- "gloryPoint": 49639,
+ "position": 204,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49590,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Heavently",
@@ -272,6 +272,14 @@
    "position": 203,
    "rankingPositionChange": 1,
    "gloryPoint": 49639,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 204,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49590,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

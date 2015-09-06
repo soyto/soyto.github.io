@@ -2,10 +2,10 @@
  "characterID": 157248,
  "characterClassID": 4,
  "raceID": 0,
- "position": 504,
- "rankingPositionChange": 2,
- "gloryPoint": 28675,
- "gloryPointChange": 506,
+ "position": 505,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28661,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nightmoon",
  "guildName": "JFF",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 28675,
    "gloryPointChange": 506,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 505,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28661,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

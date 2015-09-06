@@ -2,9 +2,9 @@
  "characterID": 95975,
  "characterClassID": 10,
  "raceID": 1,
- "position": 105,
- "rankingPositionChange": 0,
- "gloryPoint": 54126,
+ "position": 107,
+ "rankingPositionChange": -2,
+ "gloryPoint": 54077,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Thiaa",
@@ -272,6 +272,14 @@
    "position": 105,
    "rankingPositionChange": 0,
    "gloryPoint": 54126,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": -2,
+   "gloryPoint": 54077,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

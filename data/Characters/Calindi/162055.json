@@ -2,12 +2,14 @@
  "characterID": 162055,
  "characterClassID": 2,
  "raceID": 0,
- "position": 761,
- "rankingPositionChange": 0,
- "gloryPoint": 2185,
+ "position": 764,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2178,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zebrabraco",
+ "guildName": "le bistrot de calindi",
+ "guildID": 16069,
  "status": [
   {
    "date": "2015-08-07T22:00:00.000Z",
@@ -216,6 +218,14 @@
    "gloryPoint": 2185,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 764,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2178,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -232,6 +242,11 @@
   },
   {
    "date": "2015-08-28T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "le bistrot de calindi",
+   "guildID": 16069
   }
  ]
 }

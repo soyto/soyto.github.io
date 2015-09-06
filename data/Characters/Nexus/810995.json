@@ -2,9 +2,9 @@
  "characterID": 810995,
  "characterClassID": 2,
  "raceID": 1,
- "position": 199,
- "rankingPositionChange": 0,
- "gloryPoint": 81993,
+ "position": 200,
+ "rankingPositionChange": -1,
+ "gloryPoint": 81944,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Badcozmad",
@@ -230,6 +230,14 @@
    "position": 199,
    "rankingPositionChange": 0,
    "gloryPoint": 81993,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 200,
+   "rankingPositionChange": -1,
+   "gloryPoint": 81944,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

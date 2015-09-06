@@ -2,9 +2,9 @@
  "characterID": 1123192,
  "characterClassID": 14,
  "raceID": 1,
- "position": 120,
- "rankingPositionChange": 0,
- "gloryPoint": 91802,
+ "position": 122,
+ "rankingPositionChange": -2,
+ "gloryPoint": 91753,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ddk",
@@ -272,6 +272,14 @@
    "position": 120,
    "rankingPositionChange": 0,
    "gloryPoint": 91802,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 122,
+   "rankingPositionChange": -2,
+   "gloryPoint": 91753,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

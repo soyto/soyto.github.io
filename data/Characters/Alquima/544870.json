@@ -2,10 +2,10 @@
  "characterID": 544870,
  "characterClassID": 14,
  "raceID": 1,
- "position": 995,
- "rankingPositionChange": 2,
- "gloryPoint": 5549,
- "gloryPointChange": 46,
+ "position": 998,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5542,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vekith",
  "guildName": "Only One",
@@ -185,6 +185,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 5549,
    "gloryPointChange": 46,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5542,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

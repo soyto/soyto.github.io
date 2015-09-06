@@ -2,10 +2,10 @@
  "characterID": 292088,
  "characterClassID": 10,
  "raceID": 0,
- "position": 794,
- "rankingPositionChange": 2,
- "gloryPoint": 7685,
- "gloryPointChange": 13,
+ "position": 797,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7678,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ravenica",
  "guildName": "Low Profile",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 7685,
    "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 797,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7678,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

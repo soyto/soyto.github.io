@@ -2,9 +2,9 @@
  "characterID": 837034,
  "characterClassID": 5,
  "raceID": 1,
- "position": 346,
- "rankingPositionChange": 3,
- "gloryPoint": 20071,
+ "position": 348,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20043,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tekys",
@@ -272,6 +272,14 @@
    "position": 346,
    "rankingPositionChange": 3,
    "gloryPoint": 20071,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 348,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20043,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

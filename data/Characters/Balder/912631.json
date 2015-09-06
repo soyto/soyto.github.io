@@ -2,10 +2,10 @@
  "characterID": 912631,
  "characterClassID": 10,
  "raceID": 1,
- "position": 122,
- "rankingPositionChange": 0,
- "gloryPoint": 53663,
- "gloryPointChange": 7,
+ "position": 121,
+ "rankingPositionChange": 1,
+ "gloryPoint": 53642,
+ "gloryPointChange": -21,
  "soldierRankID": 13,
  "characterName": "Yhren",
  "guildName": "Tote Kekse kruemeln nicht",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 53663,
    "gloryPointChange": 7,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": 1,
+   "gloryPoint": 53642,
+   "gloryPointChange": -21,
    "soldierRankID": 13
   }
  ],

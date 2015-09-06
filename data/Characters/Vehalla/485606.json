@@ -2,9 +2,9 @@
  "characterID": 485606,
  "characterClassID": 1,
  "raceID": 1,
- "position": 506,
- "rankingPositionChange": -1,
- "gloryPoint": 1824,
+ "position": 503,
+ "rankingPositionChange": 3,
+ "gloryPoint": 1810,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Corefreak",
@@ -264,6 +264,14 @@
    "position": 506,
    "rankingPositionChange": -1,
    "gloryPoint": 1824,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 503,
+   "rankingPositionChange": 3,
+   "gloryPoint": 1810,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

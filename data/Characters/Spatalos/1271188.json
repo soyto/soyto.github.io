@@ -2,9 +2,9 @@
  "characterID": 1271188,
  "characterClassID": 5,
  "raceID": 0,
- "position": 912,
- "rankingPositionChange": 0,
- "gloryPoint": 7421,
+ "position": 911,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7414,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nawn",
@@ -270,6 +270,14 @@
    "position": 912,
    "rankingPositionChange": 0,
    "gloryPoint": 7421,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 911,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7414,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 295626,
  "characterClassID": 10,
  "raceID": 0,
- "position": 944,
- "rankingPositionChange": 1,
- "gloryPoint": 3215,
+ "position": 948,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3208,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Seyyarbombs",
@@ -272,6 +272,14 @@
    "position": 944,
    "rankingPositionChange": 1,
    "gloryPoint": 3215,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 948,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3208,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

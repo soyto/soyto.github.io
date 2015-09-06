@@ -2,10 +2,10 @@
  "characterID": 139496,
  "characterClassID": 10,
  "raceID": 1,
- "position": 668,
- "rankingPositionChange": 13,
- "gloryPoint": 1262,
- "gloryPointChange": 7,
+ "position": 673,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1255,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Antischmerz",
  "guildName": "Sword Of Wings",
@@ -97,6 +97,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 1262,
    "gloryPointChange": 7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 673,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1255,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

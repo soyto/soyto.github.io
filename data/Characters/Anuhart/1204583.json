@@ -2,9 +2,9 @@
  "characterID": 1204583,
  "characterClassID": 1,
  "raceID": 1,
- "position": 798,
- "rankingPositionChange": 3,
- "gloryPoint": 2964,
+ "position": 802,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2957,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Takakage",
@@ -272,6 +272,14 @@
    "position": 798,
    "rankingPositionChange": 3,
    "gloryPoint": 2964,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 802,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2957,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

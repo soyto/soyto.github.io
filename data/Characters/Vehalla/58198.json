@@ -2,9 +2,9 @@
  "characterID": 58198,
  "characterClassID": 7,
  "raceID": 0,
- "position": 292,
- "rankingPositionChange": 1,
- "gloryPoint": 11590,
+ "position": 293,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11541,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ahryi",
@@ -272,6 +272,14 @@
    "position": 292,
    "rankingPositionChange": 1,
    "gloryPoint": 11590,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 293,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11541,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

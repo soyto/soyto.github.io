@@ -2,9 +2,9 @@
  "characterID": 1209678,
  "characterClassID": 10,
  "raceID": 1,
- "position": 334,
- "rankingPositionChange": 3,
- "gloryPoint": 21370,
+ "position": 339,
+ "rankingPositionChange": -5,
+ "gloryPoint": 21342,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Benzalten",
@@ -272,6 +272,14 @@
    "position": 334,
    "rankingPositionChange": 3,
    "gloryPoint": 21370,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 339,
+   "rankingPositionChange": -5,
+   "gloryPoint": 21342,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

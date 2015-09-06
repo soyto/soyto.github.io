@@ -2,9 +2,9 @@
  "characterID": 230357,
  "characterClassID": 16,
  "raceID": 1,
- "position": 773,
- "rankingPositionChange": 3,
- "gloryPoint": 2822,
+ "position": 779,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2815,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hiraayono",
@@ -270,6 +270,14 @@
    "position": 773,
    "rankingPositionChange": 3,
    "gloryPoint": 2822,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 779,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2815,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 242692,
  "characterClassID": 5,
  "raceID": 1,
- "position": 925,
- "rankingPositionChange": 7,
- "gloryPoint": 3668,
- "gloryPointChange": 133,
+ "position": 927,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3671,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Nokke",
  "guildName": "I Falsi Profeti",
@@ -201,6 +201,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 3668,
    "gloryPointChange": 133,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 927,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3671,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

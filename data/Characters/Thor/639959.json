@@ -2,10 +2,10 @@
  "characterID": 639959,
  "characterClassID": 1,
  "raceID": 0,
- "position": 208,
- "rankingPositionChange": 0,
- "gloryPoint": 87234,
- "gloryPointChange": 350,
+ "position": 209,
+ "rankingPositionChange": -1,
+ "gloryPoint": 87235,
+ "gloryPointChange": 1,
  "soldierRankID": 13,
  "characterName": "Crenq",
  "guildName": "Underground Strawberry Nation",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 87234,
    "gloryPointChange": 350,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 209,
+   "rankingPositionChange": -1,
+   "gloryPoint": 87235,
+   "gloryPointChange": 1,
    "soldierRankID": 13
   }
  ],

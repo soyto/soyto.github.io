@@ -2,9 +2,9 @@
  "characterID": 744959,
  "characterClassID": 13,
  "raceID": 0,
- "position": 989,
- "rankingPositionChange": 3,
- "gloryPoint": 4388,
+ "position": 992,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4381,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kweryx",
@@ -102,6 +102,14 @@
    "position": 989,
    "rankingPositionChange": 3,
    "gloryPoint": 4388,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4381,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

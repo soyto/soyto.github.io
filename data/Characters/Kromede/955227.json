@@ -2,9 +2,9 @@
  "characterID": 955227,
  "characterClassID": 14,
  "raceID": 1,
- "position": 844,
- "rankingPositionChange": 3,
- "gloryPoint": 3892,
+ "position": 850,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3885,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ayeri",
@@ -262,6 +262,14 @@
    "position": 844,
    "rankingPositionChange": 3,
    "gloryPoint": 3892,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 850,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3885,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

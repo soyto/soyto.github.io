@@ -2,9 +2,9 @@
  "characterID": 192567,
  "characterClassID": 11,
  "raceID": 0,
- "position": 505,
- "rankingPositionChange": 0,
- "gloryPoint": 14691,
+ "position": 510,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14677,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Shehzade",
@@ -272,6 +272,14 @@
    "position": 505,
    "rankingPositionChange": 0,
    "gloryPoint": 14691,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 510,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14677,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

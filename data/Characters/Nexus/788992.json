@@ -2,10 +2,10 @@
  "characterID": 788992,
  "characterClassID": 8,
  "raceID": 1,
- "position": 579,
- "rankingPositionChange": 1,
- "gloryPoint": 22329,
- "gloryPointChange": 216,
+ "position": 582,
+ "rankingPositionChange": -3,
+ "gloryPoint": 22368,
+ "gloryPointChange": 39,
  "soldierRankID": 11,
  "characterName": "Albuus",
  "guildName": "Night Raid",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 22329,
    "gloryPointChange": 216,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 582,
+   "rankingPositionChange": -3,
+   "gloryPoint": 22368,
+   "gloryPointChange": 39,
    "soldierRankID": 11
   }
  ],

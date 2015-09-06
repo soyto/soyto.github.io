@@ -2,9 +2,9 @@
  "characterID": 1171959,
  "characterClassID": 1,
  "raceID": 1,
- "position": 777,
- "rankingPositionChange": 1,
- "gloryPoint": 10195,
+ "position": 780,
+ "rankingPositionChange": -3,
+ "gloryPoint": 10188,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fenzu",
@@ -104,6 +104,14 @@
    "position": 777,
    "rankingPositionChange": 1,
    "gloryPoint": 10195,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 780,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10188,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

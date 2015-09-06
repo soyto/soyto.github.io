@@ -2,9 +2,9 @@
  "characterID": 881000,
  "characterClassID": 1,
  "raceID": 0,
- "position": 977,
- "rankingPositionChange": -1,
- "gloryPoint": 4962,
+ "position": 973,
+ "rankingPositionChange": 4,
+ "gloryPoint": 4955,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alvons",
@@ -272,6 +272,14 @@
    "position": 977,
    "rankingPositionChange": -1,
    "gloryPoint": 4962,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 973,
+   "rankingPositionChange": 4,
+   "gloryPoint": 4955,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

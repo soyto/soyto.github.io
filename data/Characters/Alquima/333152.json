@@ -2,12 +2,14 @@
  "characterID": 333152,
  "characterClassID": 5,
  "raceID": 0,
- "position": 312,
- "rankingPositionChange": -4,
- "gloryPoint": 40014,
- "gloryPointChange": 78,
+ "position": 307,
+ "rankingPositionChange": 5,
+ "gloryPoint": 40361,
+ "gloryPointChange": 347,
  "soldierRankID": 12,
  "characterName": "Elseiscientos",
+ "guildName": "Black Lights",
+ "guildID": 5893,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 40014,
    "gloryPointChange": 78,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": 5,
+   "gloryPoint": 40361,
+   "gloryPointChange": 347,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -283,6 +293,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Black Lights",
+   "guildID": 5893
   }
  ]
 }

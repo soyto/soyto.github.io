@@ -2,9 +2,9 @@
  "characterID": 117913,
  "characterClassID": 1,
  "raceID": 0,
- "position": 946,
- "rankingPositionChange": 1,
- "gloryPoint": 4977,
+ "position": 949,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4970,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hyrou",
@@ -272,6 +272,14 @@
    "position": 946,
    "rankingPositionChange": 1,
    "gloryPoint": 4977,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4970,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 246040,
  "characterClassID": 10,
  "raceID": 0,
- "position": 274,
- "rankingPositionChange": 2,
- "gloryPoint": 37695,
- "gloryPointChange": 481,
+ "position": 275,
+ "rankingPositionChange": -1,
+ "gloryPoint": 38066,
+ "gloryPointChange": 371,
  "soldierRankID": 13,
  "characterName": "Yalaz",
  "guildName": "LETHAL",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 37695,
    "gloryPointChange": 481,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 275,
+   "rankingPositionChange": -1,
+   "gloryPoint": 38066,
+   "gloryPointChange": 371,
    "soldierRankID": 13
   }
  ],

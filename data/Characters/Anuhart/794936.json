@@ -2,9 +2,9 @@
  "characterID": 794936,
  "characterClassID": 11,
  "raceID": 1,
- "position": 414,
- "rankingPositionChange": 1,
- "gloryPoint": 13036,
+ "position": 417,
+ "rankingPositionChange": -3,
+ "gloryPoint": 13008,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Arakova",
@@ -272,6 +272,14 @@
    "position": 414,
    "rankingPositionChange": 1,
    "gloryPoint": 13036,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 417,
+   "rankingPositionChange": -3,
+   "gloryPoint": 13008,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

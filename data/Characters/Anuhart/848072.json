@@ -2,10 +2,10 @@
  "characterID": 848072,
  "characterClassID": 4,
  "raceID": 0,
- "position": 983,
- "rankingPositionChange": 3,
- "gloryPoint": 4209,
- "gloryPointChange": 49,
+ "position": 984,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4202,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Oplja",
  "status": [
@@ -135,6 +135,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 4209,
    "gloryPointChange": 49,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4202,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

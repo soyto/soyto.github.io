@@ -2,9 +2,9 @@
  "characterID": 204890,
  "characterClassID": 1,
  "raceID": 1,
- "position": 509,
- "rankingPositionChange": 1,
- "gloryPoint": 2025,
+ "position": 511,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2011,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lowen",
@@ -136,6 +136,14 @@
    "position": 509,
    "rankingPositionChange": 1,
    "gloryPoint": 2025,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2011,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

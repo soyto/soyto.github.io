@@ -2,9 +2,9 @@
  "characterID": 1210143,
  "characterClassID": 14,
  "raceID": 1,
- "position": 526,
- "rankingPositionChange": 1,
- "gloryPoint": 8979,
+ "position": 530,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8965,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Yuugi",
@@ -264,6 +264,14 @@
    "position": 526,
    "rankingPositionChange": 1,
    "gloryPoint": 8979,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 530,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8965,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

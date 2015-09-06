@@ -2,9 +2,9 @@
  "characterID": 5520,
  "characterClassID": 10,
  "raceID": 0,
- "position": 236,
- "rankingPositionChange": 1,
- "gloryPoint": 76358,
+ "position": 238,
+ "rankingPositionChange": -2,
+ "gloryPoint": 76309,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pali",
@@ -270,6 +270,14 @@
    "position": 236,
    "rankingPositionChange": 1,
    "gloryPoint": 76358,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 238,
+   "rankingPositionChange": -2,
+   "gloryPoint": 76309,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

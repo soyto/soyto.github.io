@@ -2,10 +2,10 @@
  "characterID": 166600,
  "characterClassID": 16,
  "raceID": 0,
- "position": 88,
- "rankingPositionChange": 0,
- "gloryPoint": 119237,
- "gloryPointChange": 149,
+ "position": 87,
+ "rankingPositionChange": 1,
+ "gloryPoint": 119236,
+ "gloryPointChange": -1,
  "soldierRankID": 14,
  "characterName": "Zurraspa",
  "guildName": "Noob Killers",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 119237,
    "gloryPointChange": 149,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 87,
+   "rankingPositionChange": 1,
+   "gloryPoint": 119236,
+   "gloryPointChange": -1,
    "soldierRankID": 14
   }
  ],

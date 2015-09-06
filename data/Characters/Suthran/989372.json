@@ -3,8 +3,8 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 806,
- "rankingPositionChange": -4,
- "gloryPoint": 7040,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7033,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Holloway",
@@ -272,6 +272,14 @@
    "position": 806,
    "rankingPositionChange": -4,
    "gloryPoint": 7040,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 806,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7033,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

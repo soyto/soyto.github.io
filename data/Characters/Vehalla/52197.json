@@ -2,10 +2,10 @@
  "characterID": 52197,
  "characterClassID": 10,
  "raceID": 0,
- "position": 300,
- "rankingPositionChange": -1,
- "gloryPoint": 10556,
- "gloryPointChange": -49,
+ "position": 299,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10857,
+ "gloryPointChange": 301,
  "soldierRankID": 13,
  "characterName": "Azio",
  "guildName": "Himmelsfront Soldaten",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 10556,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10857,
+   "gloryPointChange": 301,
    "soldierRankID": 13
   }
  ],

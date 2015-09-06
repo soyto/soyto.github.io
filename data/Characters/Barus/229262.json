@@ -2,9 +2,9 @@
  "characterID": 229262,
  "characterClassID": 10,
  "raceID": 1,
- "position": 928,
- "rankingPositionChange": -1,
- "gloryPoint": 11165,
+ "position": 927,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11158,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pifonek",
@@ -272,6 +272,14 @@
    "position": 928,
    "rankingPositionChange": -1,
    "gloryPoint": 11165,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 927,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11158,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

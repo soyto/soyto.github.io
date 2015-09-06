@@ -2,9 +2,9 @@
  "characterID": 1431723,
  "characterClassID": 10,
  "raceID": 0,
- "position": 299,
- "rankingPositionChange": 0,
- "gloryPoint": 64078,
+ "position": 300,
+ "rankingPositionChange": -1,
+ "gloryPoint": 64029,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Promiise",
@@ -272,6 +272,14 @@
    "position": 299,
    "rankingPositionChange": 0,
    "gloryPoint": 64078,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 300,
+   "rankingPositionChange": -1,
+   "gloryPoint": 64029,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

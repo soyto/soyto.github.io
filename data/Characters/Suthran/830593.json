@@ -2,10 +2,10 @@
  "characterID": 830593,
  "characterClassID": 7,
  "raceID": 0,
- "position": 118,
- "rankingPositionChange": 1,
- "gloryPoint": 111923,
- "gloryPointChange": 195,
+ "position": 119,
+ "rankingPositionChange": -1,
+ "gloryPoint": 112038,
+ "gloryPointChange": 115,
  "soldierRankID": 13,
  "characterName": "Banged",
  "guildName": "No Authority",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 111923,
    "gloryPointChange": 195,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 119,
+   "rankingPositionChange": -1,
+   "gloryPoint": 112038,
+   "gloryPointChange": 115,
    "soldierRankID": 13
   }
  ],

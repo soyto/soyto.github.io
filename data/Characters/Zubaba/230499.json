@@ -2,10 +2,10 @@
  "characterID": 230499,
  "characterClassID": 1,
  "raceID": 1,
- "position": 768,
- "rankingPositionChange": 16,
- "gloryPoint": 2919,
- "gloryPointChange": 261,
+ "position": 772,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2912,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Malefix",
  "guildName": "Black or White",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 16,
    "gloryPoint": 2919,
    "gloryPointChange": 261,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 772,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2912,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

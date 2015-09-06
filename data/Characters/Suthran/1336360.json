@@ -2,10 +2,10 @@
  "characterID": 1336360,
  "characterClassID": 10,
  "raceID": 0,
- "position": 412,
- "rankingPositionChange": 0,
- "gloryPoint": 39076,
- "gloryPointChange": 242,
+ "position": 413,
+ "rankingPositionChange": -1,
+ "gloryPoint": 39171,
+ "gloryPointChange": 95,
  "soldierRankID": 12,
  "characterName": "Kellyn",
  "guildName": "Neo Destiny",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 39076,
    "gloryPointChange": 242,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 413,
+   "rankingPositionChange": -1,
+   "gloryPoint": 39171,
+   "gloryPointChange": 95,
    "soldierRankID": 12
   }
  ],

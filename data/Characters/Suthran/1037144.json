@@ -2,10 +2,10 @@
  "characterID": 1037144,
  "characterClassID": 10,
  "raceID": 1,
- "position": 777,
- "rankingPositionChange": 14,
- "gloryPoint": 7789,
- "gloryPointChange": 297,
+ "position": 783,
+ "rankingPositionChange": -6,
+ "gloryPoint": 7785,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Kouneka",
  "guildName": "no hope",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 14,
    "gloryPoint": 7789,
    "gloryPointChange": 297,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 783,
+   "rankingPositionChange": -6,
+   "gloryPoint": 7785,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

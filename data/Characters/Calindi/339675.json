@@ -2,9 +2,9 @@
  "characterID": 339675,
  "characterClassID": 11,
  "raceID": 0,
- "position": 484,
- "rankingPositionChange": 2,
- "gloryPoint": 5697,
+ "position": 485,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5669,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ventripotant",
@@ -248,6 +248,14 @@
    "position": 484,
    "rankingPositionChange": 2,
    "gloryPoint": 5697,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 485,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5669,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

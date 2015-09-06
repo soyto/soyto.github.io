@@ -2,10 +2,10 @@
  "characterID": 232212,
  "characterClassID": 11,
  "raceID": 0,
- "position": 265,
- "rankingPositionChange": 1,
- "gloryPoint": 61868,
- "gloryPointChange": 101,
+ "position": 266,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61919,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Whip",
  "guildName": "Kiss me etc etc",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 61868,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 266,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61919,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

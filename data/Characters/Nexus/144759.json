@@ -2,9 +2,9 @@
  "characterID": 144759,
  "characterClassID": 10,
  "raceID": 0,
- "position": 151,
- "rankingPositionChange": 0,
- "gloryPoint": 68846,
+ "position": 152,
+ "rankingPositionChange": -1,
+ "gloryPoint": 68797,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Presiana",
@@ -272,6 +272,14 @@
    "position": 151,
    "rankingPositionChange": 0,
    "gloryPoint": 68846,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 152,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68797,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

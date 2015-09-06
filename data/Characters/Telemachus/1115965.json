@@ -2,10 +2,10 @@
  "characterID": 1115965,
  "characterClassID": 14,
  "raceID": 1,
- "position": 42,
- "rankingPositionChange": 0,
- "gloryPoint": 99106,
- "gloryPointChange": -11,
+ "position": 43,
+ "rankingPositionChange": -1,
+ "gloryPoint": 99100,
+ "gloryPointChange": -6,
  "soldierRankID": 14,
  "characterName": "Mamee",
  "guildName": "Unwonted",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 99106,
    "gloryPointChange": -11,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 43,
+   "rankingPositionChange": -1,
+   "gloryPoint": 99100,
+   "gloryPointChange": -6,
    "soldierRankID": 14
   }
  ],

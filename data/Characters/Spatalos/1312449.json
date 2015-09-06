@@ -2,9 +2,9 @@
  "characterID": 1312449,
  "characterClassID": 14,
  "raceID": 0,
- "position": 146,
- "rankingPositionChange": -1,
- "gloryPoint": 99893,
+ "position": 145,
+ "rankingPositionChange": 1,
+ "gloryPoint": 99844,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lewiax",
@@ -272,6 +272,14 @@
    "position": 146,
    "rankingPositionChange": -1,
    "gloryPoint": 99893,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": 1,
+   "gloryPoint": 99844,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 851831,
  "characterClassID": 14,
  "raceID": 1,
- "position": 269,
- "rankingPositionChange": 3,
- "gloryPoint": 31972,
+ "position": 270,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31923,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Furiy",
@@ -192,6 +192,14 @@
    "position": 269,
    "rankingPositionChange": 3,
    "gloryPoint": 31972,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31923,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

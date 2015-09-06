@@ -2,9 +2,9 @@
  "characterID": 1265402,
  "characterClassID": 11,
  "raceID": 1,
- "position": 873,
- "rankingPositionChange": 0,
- "gloryPoint": 5949,
+ "position": 874,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5942,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Spoderman",
@@ -272,6 +272,14 @@
    "position": 873,
    "rankingPositionChange": 0,
    "gloryPoint": 5949,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 874,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5942,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

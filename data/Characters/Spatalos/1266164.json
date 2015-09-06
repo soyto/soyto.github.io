@@ -2,9 +2,9 @@
  "characterID": 1266164,
  "characterClassID": 11,
  "raceID": 0,
- "position": 239,
- "rankingPositionChange": -1,
- "gloryPoint": 63800,
+ "position": 238,
+ "rankingPositionChange": 1,
+ "gloryPoint": 63751,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Highfrequency",
@@ -264,6 +264,14 @@
    "position": 239,
    "rankingPositionChange": -1,
    "gloryPoint": 63800,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 238,
+   "rankingPositionChange": 1,
+   "gloryPoint": 63751,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

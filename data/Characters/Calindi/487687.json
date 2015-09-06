@@ -2,9 +2,9 @@
  "characterID": 487687,
  "characterClassID": 13,
  "raceID": 1,
- "position": 84,
- "rankingPositionChange": 0,
- "gloryPoint": 20290,
+ "position": 86,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20183,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Hinory",
@@ -192,6 +192,14 @@
    "position": 84,
    "rankingPositionChange": 0,
    "gloryPoint": 20290,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 86,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20183,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

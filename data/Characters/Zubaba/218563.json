@@ -2,9 +2,9 @@
  "characterID": 218563,
  "characterClassID": 13,
  "raceID": 1,
- "position": 913,
- "rankingPositionChange": 2,
- "gloryPoint": 1435,
+ "position": 915,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1428,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Borsy",
@@ -270,6 +270,14 @@
    "position": 913,
    "rankingPositionChange": 2,
    "gloryPoint": 1435,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 915,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1428,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

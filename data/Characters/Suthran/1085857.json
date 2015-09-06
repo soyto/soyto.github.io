@@ -2,10 +2,10 @@
  "characterID": 1085857,
  "characterClassID": 7,
  "raceID": 0,
- "position": 81,
- "rankingPositionChange": 0,
- "gloryPoint": 130623,
- "gloryPointChange": 106,
+ "position": 82,
+ "rankingPositionChange": -1,
+ "gloryPoint": 130747,
+ "gloryPointChange": 124,
  "soldierRankID": 14,
  "characterName": "Mariette",
  "guildName": "les teleteber",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 130623,
    "gloryPointChange": 106,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 82,
+   "rankingPositionChange": -1,
+   "gloryPoint": 130747,
+   "gloryPointChange": 124,
    "soldierRankID": 14
   }
  ],

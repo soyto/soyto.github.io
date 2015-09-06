@@ -2,9 +2,9 @@
  "characterID": 320372,
  "characterClassID": 5,
  "raceID": 1,
- "position": 123,
- "rankingPositionChange": 0,
- "gloryPoint": 12604,
+ "position": 124,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12555,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Xolism",
@@ -184,6 +184,14 @@
    "position": 123,
    "rankingPositionChange": 0,
    "gloryPoint": 12604,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 124,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12555,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

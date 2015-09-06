@@ -2,9 +2,9 @@
  "characterID": 859680,
  "characterClassID": 1,
  "raceID": 1,
- "position": 848,
- "rankingPositionChange": 2,
- "gloryPoint": 3862,
+ "position": 854,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3855,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bisha",
@@ -272,6 +272,14 @@
    "position": 848,
    "rankingPositionChange": 2,
    "gloryPoint": 3862,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 854,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3855,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

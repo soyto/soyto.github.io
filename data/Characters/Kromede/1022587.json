@@ -2,10 +2,10 @@
  "characterID": 1022587,
  "characterClassID": 16,
  "raceID": 1,
- "position": 374,
- "rankingPositionChange": 2,
- "gloryPoint": 16269,
- "gloryPointChange": -28,
+ "position": 375,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16244,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Celljina",
  "guildName": "Shades of Phoenix",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 16269,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 375,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16244,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

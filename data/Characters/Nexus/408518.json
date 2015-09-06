@@ -2,10 +2,10 @@
  "characterID": 408518,
  "characterClassID": 5,
  "raceID": 1,
- "position": 455,
- "rankingPositionChange": 1,
- "gloryPoint": 32906,
- "gloryPointChange": 82,
+ "position": 458,
+ "rankingPositionChange": -3,
+ "gloryPoint": 32878,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hinginia",
  "guildName": " EMPIRE OF DEATH",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 32906,
    "gloryPointChange": 82,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 458,
+   "rankingPositionChange": -3,
+   "gloryPoint": 32878,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

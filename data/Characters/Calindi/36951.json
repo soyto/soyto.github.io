@@ -2,9 +2,9 @@
  "characterID": 36951,
  "characterClassID": 8,
  "raceID": 0,
- "position": 432,
- "rankingPositionChange": 0,
- "gloryPoint": 8040,
+ "position": 431,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8012,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Liberty",
@@ -272,6 +272,14 @@
    "position": 432,
    "rankingPositionChange": 0,
    "gloryPoint": 8040,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 431,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8012,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

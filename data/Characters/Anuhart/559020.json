@@ -2,9 +2,9 @@
  "characterID": 559020,
  "characterClassID": 11,
  "raceID": 1,
- "position": 439,
- "rankingPositionChange": 1,
- "gloryPoint": 11521,
+ "position": 442,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11493,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Swartalf",
@@ -230,6 +230,14 @@
    "position": 439,
    "rankingPositionChange": 1,
    "gloryPoint": 11521,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 442,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11493,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

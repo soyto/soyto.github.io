@@ -2,9 +2,9 @@
  "characterID": 386600,
  "characterClassID": 5,
  "raceID": 0,
- "position": 358,
- "rankingPositionChange": -2,
- "gloryPoint": 41214,
+ "position": 357,
+ "rankingPositionChange": 1,
+ "gloryPoint": 41186,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zawadda",
@@ -272,6 +272,14 @@
    "position": 358,
    "rankingPositionChange": -2,
    "gloryPoint": 41214,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 357,
+   "rankingPositionChange": 1,
+   "gloryPoint": 41186,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

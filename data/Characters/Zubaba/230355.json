@@ -2,10 +2,10 @@
  "characterID": 230355,
  "characterClassID": 8,
  "raceID": 0,
- "position": 874,
- "rankingPositionChange": 18,
- "gloryPoint": 4050,
- "gloryPointChange": 256,
+ "position": 882,
+ "rankingPositionChange": -8,
+ "gloryPoint": 4043,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Baksi",
  "guildName": "D O S T",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 18,
    "gloryPoint": 4050,
    "gloryPointChange": 256,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": -8,
+   "gloryPoint": 4043,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

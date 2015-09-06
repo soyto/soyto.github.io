@@ -2,9 +2,9 @@
  "characterID": 206319,
  "characterClassID": 1,
  "raceID": 0,
- "position": 331,
- "rankingPositionChange": 0,
- "gloryPoint": 28198,
+ "position": 333,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28170,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Racon",
@@ -272,6 +272,14 @@
    "position": 331,
    "rankingPositionChange": 0,
    "gloryPoint": 28198,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 333,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28170,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

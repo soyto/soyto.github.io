@@ -2,9 +2,9 @@
  "characterID": 301088,
  "characterClassID": 7,
  "raceID": 1,
- "position": 612,
- "rankingPositionChange": 0,
- "gloryPoint": 1357,
+ "position": 614,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1350,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lichtel",
@@ -256,6 +256,14 @@
    "position": 612,
    "rankingPositionChange": 0,
    "gloryPoint": 1357,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 614,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1350,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

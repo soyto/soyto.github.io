@@ -2,9 +2,9 @@
  "characterID": 1199310,
  "characterClassID": 16,
  "raceID": 1,
- "position": 780,
- "rankingPositionChange": 0,
- "gloryPoint": 3247,
+ "position": 785,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3240,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ozlina",
@@ -272,6 +272,14 @@
    "position": 780,
    "rankingPositionChange": 0,
    "gloryPoint": 3247,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 785,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3240,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

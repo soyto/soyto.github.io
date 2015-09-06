@@ -2,9 +2,9 @@
  "characterID": 1140621,
  "characterClassID": 10,
  "raceID": 1,
- "position": 100,
- "rankingPositionChange": -2,
- "gloryPoint": 102383,
+ "position": 99,
+ "rankingPositionChange": 1,
+ "gloryPoint": 102276,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Shiinmu",
@@ -272,6 +272,14 @@
    "position": 100,
    "rankingPositionChange": -2,
    "gloryPoint": 102383,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 99,
+   "rankingPositionChange": 1,
+   "gloryPoint": 102276,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

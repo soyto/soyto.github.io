@@ -2,9 +2,9 @@
  "characterID": 1180071,
  "characterClassID": 16,
  "raceID": 1,
- "position": 539,
- "rankingPositionChange": 1,
- "gloryPoint": 13986,
+ "position": 542,
+ "rankingPositionChange": -3,
+ "gloryPoint": 13972,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Cillona",
@@ -262,6 +262,14 @@
    "position": 539,
    "rankingPositionChange": 1,
    "gloryPoint": 13986,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 542,
+   "rankingPositionChange": -3,
+   "gloryPoint": 13972,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

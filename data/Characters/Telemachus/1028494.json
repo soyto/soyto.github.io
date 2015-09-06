@@ -2,10 +2,10 @@
  "characterID": 1028494,
  "characterClassID": 7,
  "raceID": 1,
- "position": 465,
- "rankingPositionChange": 15,
- "gloryPoint": 3859,
- "gloryPointChange": 222,
+ "position": 468,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3831,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ephi",
  "guildName": "Worldwake",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 15,
    "gloryPoint": 3859,
    "gloryPointChange": 222,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 468,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3831,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,11 +2,11 @@
  "characterID": 1090539,
  "characterClassID": 14,
  "raceID": 0,
- "position": 1000,
- "rankingPositionChange": -3,
+ "position": 997,
+ "rankingPositionChange": 3,
  "gloryPoint": 5711,
- "gloryPointChange": -7,
- "soldierRankID": 0,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
  "characterName": "Honored",
  "status": [
   {
@@ -272,6 +272,14 @@
    "gloryPoint": 5711,
    "gloryPointChange": -7,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5711,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
   }
  ],
  "names": [

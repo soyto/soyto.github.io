@@ -2,9 +2,9 @@
  "characterID": 1128515,
  "characterClassID": 14,
  "raceID": 0,
- "position": 926,
- "rankingPositionChange": -1,
- "gloryPoint": 5805,
+ "position": 925,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5798,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Saikal",
@@ -272,6 +272,14 @@
    "position": 926,
    "rankingPositionChange": -1,
    "gloryPoint": 5805,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 925,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5798,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

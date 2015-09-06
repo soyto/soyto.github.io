@@ -2,10 +2,10 @@
  "characterID": 147518,
  "characterClassID": 11,
  "raceID": 0,
- "position": 312,
- "rankingPositionChange": -1,
- "gloryPoint": 51885,
- "gloryPointChange": -9,
+ "position": 311,
+ "rankingPositionChange": 1,
+ "gloryPoint": 52042,
+ "gloryPointChange": 157,
  "soldierRankID": 12,
  "characterName": "Seanna",
  "guildName": "Rebellion",
@@ -265,6 +265,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 51885,
    "gloryPointChange": -9,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": 1,
+   "gloryPoint": 52042,
+   "gloryPointChange": 157,
    "soldierRankID": 12
   }
  ],

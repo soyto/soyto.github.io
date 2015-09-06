@@ -2,10 +2,10 @@
  "characterID": 172745,
  "characterClassID": 14,
  "raceID": 0,
- "position": 912,
- "rankingPositionChange": 1,
- "gloryPoint": 3577,
- "gloryPointChange": 13,
+ "position": 915,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3610,
+ "gloryPointChange": 33,
  "soldierRankID": 10,
  "characterName": "Sesil",
  "status": [
@@ -143,6 +143,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 3577,
    "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 915,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3610,
+   "gloryPointChange": 33,
    "soldierRankID": 10
   }
  ],

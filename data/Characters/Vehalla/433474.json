@@ -2,14 +2,12 @@
  "characterID": 433474,
  "characterClassID": 14,
  "raceID": 0,
- "position": 605,
- "rankingPositionChange": 9,
- "gloryPoint": 1708,
- "gloryPointChange": 110,
+ "position": 609,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1694,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Chutaro",
- "guildName": "Brotherhood of Destiny",
- "guildID": 11488,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 1708,
    "gloryPointChange": 110,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 609,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1694,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Brotherhood of Destiny",
    "guildID": 11488
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

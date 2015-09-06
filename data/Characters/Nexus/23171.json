@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 70,
- "rankingPositionChange": 1,
- "gloryPoint": 145796,
- "gloryPointChange": 293,
+ "rankingPositionChange": 0,
+ "gloryPoint": 145689,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Icebreaker",
  "guildName": "OroForBg",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 145796,
    "gloryPointChange": 293,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 70,
+   "rankingPositionChange": 0,
+   "gloryPoint": 145689,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

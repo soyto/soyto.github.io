@@ -2,9 +2,9 @@
  "characterID": 55108,
  "characterClassID": 10,
  "raceID": 0,
- "position": 853,
- "rankingPositionChange": 4,
- "gloryPoint": 4311,
+ "position": 858,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4304,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ramerya",
@@ -270,6 +270,14 @@
    "position": 853,
    "rankingPositionChange": 4,
    "gloryPoint": 4311,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 858,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4304,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

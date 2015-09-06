@@ -2,9 +2,9 @@
  "characterID": 779099,
  "characterClassID": 11,
  "raceID": 1,
- "position": 672,
- "rankingPositionChange": 1,
- "gloryPoint": 6221,
+ "position": 673,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6207,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Helljoy",
@@ -272,6 +272,14 @@
    "position": 672,
    "rankingPositionChange": 1,
    "gloryPoint": 6221,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 673,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6207,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

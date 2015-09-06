@@ -2,10 +2,10 @@
  "characterID": 213807,
  "characterClassID": 11,
  "raceID": 1,
- "position": 904,
- "rankingPositionChange": 0,
- "gloryPoint": 6693,
- "gloryPointChange": 3,
+ "position": 910,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6692,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Sherooo",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6693,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 910,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6692,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 87131,
  "characterClassID": 16,
  "raceID": 1,
- "position": 532,
- "rankingPositionChange": 0,
- "gloryPoint": 7900,
+ "position": 534,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7886,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Judia",
@@ -270,6 +270,14 @@
    "position": 532,
    "rankingPositionChange": 0,
    "gloryPoint": 7900,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 534,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7886,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 870298,
  "characterClassID": 11,
  "raceID": 0,
- "position": 733,
- "rankingPositionChange": -1,
- "gloryPoint": 15047,
+ "position": 732,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15040,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Levago",
@@ -272,6 +272,14 @@
    "position": 733,
    "rankingPositionChange": -1,
    "gloryPoint": 15047,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 732,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15040,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

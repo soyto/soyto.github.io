@@ -2,14 +2,12 @@
  "characterID": 394391,
  "characterClassID": 1,
  "raceID": 0,
- "position": 85,
- "rankingPositionChange": -1,
- "gloryPoint": 147143,
+ "position": 84,
+ "rankingPositionChange": 1,
+ "gloryPoint": 147636,
  "gloryPointChange": 493,
  "soldierRankID": 14,
  "characterName": "Character",
- "guildName": "Hello Asmodian",
- "guildID": 4259,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 147143,
    "gloryPointChange": 493,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 84,
+   "rankingPositionChange": 1,
+   "gloryPoint": 147636,
+   "gloryPointChange": 493,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Hello Asmodian",
    "guildID": 4259
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

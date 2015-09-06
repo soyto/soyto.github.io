@@ -3,8 +3,8 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 220,
- "rankingPositionChange": -2,
- "gloryPoint": 49773,
+ "rankingPositionChange": 0,
+ "gloryPoint": 49724,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Silos",
@@ -264,6 +264,14 @@
    "position": 220,
    "rankingPositionChange": -2,
    "gloryPoint": 49773,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": 0,
+   "gloryPoint": 49724,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

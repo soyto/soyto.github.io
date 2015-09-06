@@ -2,10 +2,10 @@
  "characterID": 6062,
  "characterClassID": 8,
  "raceID": 0,
- "position": 160,
- "rankingPositionChange": -1,
- "gloryPoint": 90827,
- "gloryPointChange": -49,
+ "position": 159,
+ "rankingPositionChange": 1,
+ "gloryPoint": 90987,
+ "gloryPointChange": 160,
  "soldierRankID": 13,
  "characterName": "Maurin",
  "guildName": "BlueWolves",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 90827,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": 1,
+   "gloryPoint": 90987,
+   "gloryPointChange": 160,
    "soldierRankID": 13
   }
  ],

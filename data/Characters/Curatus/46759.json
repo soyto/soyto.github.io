@@ -2,10 +2,10 @@
  "characterID": 46759,
  "characterClassID": 1,
  "raceID": 1,
- "position": 156,
- "rankingPositionChange": 1,
- "gloryPoint": 47625,
- "gloryPointChange": 108,
+ "position": 158,
+ "rankingPositionChange": -2,
+ "gloryPoint": 47626,
+ "gloryPointChange": 1,
  "soldierRankID": 13,
  "characterName": "Lyako",
  "guildName": "Dei Ex Mortis",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 47625,
    "gloryPointChange": 108,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 158,
+   "rankingPositionChange": -2,
+   "gloryPoint": 47626,
+   "gloryPointChange": 1,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 242003,
  "characterClassID": 11,
  "raceID": 1,
- "position": 422,
- "rankingPositionChange": 1,
- "gloryPoint": 12906,
+ "position": 423,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12878,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Chaoshero",
@@ -272,6 +272,14 @@
    "position": 422,
    "rankingPositionChange": 1,
    "gloryPoint": 12906,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 423,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12878,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

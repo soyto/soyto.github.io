@@ -2,9 +2,9 @@
  "characterID": 94888,
  "characterClassID": 16,
  "raceID": 1,
- "position": 703,
- "rankingPositionChange": 0,
- "gloryPoint": 6632,
+ "position": 704,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6625,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Soundkill",
@@ -272,6 +272,14 @@
    "position": 703,
    "rankingPositionChange": 0,
    "gloryPoint": 6632,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 704,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6625,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

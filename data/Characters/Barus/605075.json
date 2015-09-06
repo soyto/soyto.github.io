@@ -2,10 +2,10 @@
  "characterID": 605075,
  "characterClassID": 11,
  "raceID": 0,
- "position": 650,
- "rankingPositionChange": 6,
- "gloryPoint": 21266,
- "gloryPointChange": 246,
+ "position": 649,
+ "rankingPositionChange": 1,
+ "gloryPoint": 21252,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Yogis",
  "guildName": "Heart of Anger",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 21266,
    "gloryPointChange": 246,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 649,
+   "rankingPositionChange": 1,
+   "gloryPoint": 21252,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 121023,
  "characterClassID": 10,
  "raceID": 0,
- "position": 145,
- "rankingPositionChange": 0,
- "gloryPoint": 99777,
- "gloryPointChange": 61,
+ "position": 146,
+ "rankingPositionChange": -1,
+ "gloryPoint": 99784,
+ "gloryPointChange": 7,
  "soldierRankID": 13,
  "characterName": "Matta",
  "guildName": "Ascension",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 99777,
    "gloryPointChange": 61,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": -1,
+   "gloryPoint": 99784,
+   "gloryPointChange": 7,
    "soldierRankID": 13
   }
  ],

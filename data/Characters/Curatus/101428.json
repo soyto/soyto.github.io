@@ -2,10 +2,10 @@
  "characterID": 101428,
  "characterClassID": 4,
  "raceID": 1,
- "position": 510,
- "rankingPositionChange": 3,
- "gloryPoint": 12095,
- "gloryPointChange": 86,
+ "position": 511,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12084,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Ghoul",
  "guildName": "Dei Ex Mortis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 12095,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12084,
+   "gloryPointChange": -11,
    "soldierRankID": 11
   }
  ],

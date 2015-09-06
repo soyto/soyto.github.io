@@ -2,10 +2,10 @@
  "characterID": 1101313,
  "characterClassID": 10,
  "raceID": 0,
- "position": 734,
- "rankingPositionChange": 2,
- "gloryPoint": 23813,
- "gloryPointChange": 193,
+ "position": 735,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23806,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Francisco",
  "guildName": "Kingdom Hearts Soldiers",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 23813,
    "gloryPointChange": 193,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 735,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23806,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

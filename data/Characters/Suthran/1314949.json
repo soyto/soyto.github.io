@@ -2,12 +2,14 @@
  "characterID": 1314949,
  "characterClassID": 2,
  "raceID": 0,
- "position": 61,
- "rankingPositionChange": 0,
- "gloryPoint": 154214,
- "gloryPointChange": 322,
+ "position": 60,
+ "rankingPositionChange": 1,
+ "gloryPoint": 154557,
+ "gloryPointChange": 343,
  "soldierRankID": 14,
  "characterName": "Epyonn",
+ "guildName": "Rakuzan",
+ "guildID": 43857,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 154214,
    "gloryPointChange": 322,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 60,
+   "rankingPositionChange": 1,
+   "gloryPoint": 154557,
+   "gloryPointChange": 343,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-25T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Rakuzan",
+   "guildID": 43857
   }
  ]
 }

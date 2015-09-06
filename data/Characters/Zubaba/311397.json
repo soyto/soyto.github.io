@@ -2,9 +2,9 @@
  "characterID": 311397,
  "characterClassID": 14,
  "raceID": 1,
- "position": 902,
- "rankingPositionChange": 2,
- "gloryPoint": 1493,
+ "position": 907,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1486,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dreamspace",
@@ -70,6 +70,14 @@
    "position": 902,
    "rankingPositionChange": 2,
    "gloryPoint": 1493,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 907,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1486,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

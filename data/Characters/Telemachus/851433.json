@@ -2,9 +2,9 @@
  "characterID": 851433,
  "characterClassID": 4,
  "raceID": 1,
- "position": 205,
- "rankingPositionChange": 0,
- "gloryPoint": 25874,
+ "position": 206,
+ "rankingPositionChange": -1,
+ "gloryPoint": 25825,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Auramortem",
@@ -272,6 +272,14 @@
    "position": 205,
    "rankingPositionChange": 0,
    "gloryPoint": 25874,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 206,
+   "rankingPositionChange": -1,
+   "gloryPoint": 25825,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

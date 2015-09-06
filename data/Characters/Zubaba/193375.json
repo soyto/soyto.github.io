@@ -3,13 +3,11 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 288,
- "rankingPositionChange": -3,
- "gloryPoint": 35034,
- "gloryPointChange": 120,
+ "rankingPositionChange": 0,
+ "gloryPoint": 35033,
+ "gloryPointChange": -1,
  "soldierRankID": 13,
  "characterName": "Water",
- "guildName": "ElyosBELEDIYESI",
- "guildID": 4387,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 35034,
    "gloryPointChange": 120,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 288,
+   "rankingPositionChange": 0,
+   "gloryPoint": 35033,
+   "gloryPointChange": -1,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -292,6 +298,9 @@
    "date": "2015-08-21T22:00:00.000Z",
    "guildName": "ElyosBELEDIYESI",
    "guildID": 4387
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 1581794,
  "characterClassID": 16,
  "raceID": 1,
- "position": 569,
- "rankingPositionChange": 0,
- "gloryPoint": 15194,
+ "position": 572,
+ "rankingPositionChange": -3,
+ "gloryPoint": 15180,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Synphonia",
@@ -256,6 +256,14 @@
    "position": 569,
    "rankingPositionChange": 0,
    "gloryPoint": 15194,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15180,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

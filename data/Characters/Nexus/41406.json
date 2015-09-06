@@ -2,9 +2,9 @@
  "characterID": 41406,
  "characterClassID": 4,
  "raceID": 1,
- "position": 477,
- "rankingPositionChange": 0,
- "gloryPoint": 29878,
+ "position": 480,
+ "rankingPositionChange": -3,
+ "gloryPoint": 29850,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Vanesza",
@@ -272,6 +272,14 @@
    "position": 477,
    "rankingPositionChange": 0,
    "gloryPoint": 29878,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 480,
+   "rankingPositionChange": -3,
+   "gloryPoint": 29850,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

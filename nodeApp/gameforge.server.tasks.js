@@ -82,15 +82,18 @@ module.exports = function(grunt) {
           })
           .sort(function(a, b){ return a.date - b.date});
 
+        $log.debug('Generating characterInfo');
         //Retrieve characters array
         var storedCharacters = gameForgeServer.generateCharacterInfo(serverPreviousDates);
 
+        $log.debug('Updating server and character files');
         //Update both, storedCharacters and server
         gameForgeServer.updateServerCharacters(storedCharacters, server);
 
+        $log.debug('Removing characterInfo files');
         //Remove all characterInfo files
         grunt.file.expand(serverCharactersFolder + '*').forEach(function(file){
-          grunt.file.delete(file);
+          //grunt.file.delete(file);
         });
 
         //Store characterInfos
@@ -308,6 +311,42 @@ module.exports = function(grunt) {
     //Confirm all
     sp.then(function(){
       done();
+    });
+  });
+
+  grunt.registerTask('create-players-database', function(){
+
+    var baseFolder            = config.application['base-folder'];
+    var charactersBaseFolder  = baseFolder + 'Characters/';
+
+    gameForgeServer.servers.forEach(function(server){
+      var serverCharactersFolder = charactersBaseFolder + server.name + '/';
+
+      //Extract previous dates
+      var serverPreviousDates = grunt.file.expand('data/*/' + server.name + '.json')
+        .select(function(fileName) {
+          var data = grunt.file.readJSON(fileName);
+          return {
+            date : new Date(fileName.split('/')[1]),
+            characters: data.elyos.concat(data.asmodians)
+          };
+        })
+        .sort(function(a, b){ return a.date - b.date});
+
+        //Retrieve characters array
+        var storedCharacters = gameForgeServer.generateCharacterInfo(serverPreviousDates);
+
+      //Remove all characterInfo files
+      //grunt.file.expand(serverCharactersFolder + '*').forEach(function(file){
+        //grunt.file.delete(file);
+      //});
+
+      //Store characterInfos
+      storedCharacters.forEach(function(character){
+        $log.debug('Storing [%s:%s] characterInfo', colors.yellow(server.name), colors.cyan(character.names[character.names.length - 1].characterName));
+        grunt.file.write(serverCharactersFolder + character.characterID + '.json', JSON.stringify(character, null, ' '));
+      });
+
     });
   });
 

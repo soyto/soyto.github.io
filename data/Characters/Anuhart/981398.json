@@ -2,10 +2,10 @@
  "characterID": 981398,
  "characterClassID": 10,
  "raceID": 1,
- "position": 854,
- "rankingPositionChange": 33,
- "gloryPoint": 2369,
- "gloryPointChange": 193,
+ "position": 857,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2362,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ktysiar",
  "status": [
@@ -47,6 +47,14 @@
    "rankingPositionChange": 33,
    "gloryPoint": 2369,
    "gloryPointChange": 193,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 857,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2362,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

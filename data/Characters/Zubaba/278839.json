@@ -2,10 +2,10 @@
  "characterID": 278839,
  "characterClassID": 10,
  "raceID": 1,
- "position": 516,
- "rankingPositionChange": 6,
- "gloryPoint": 8573,
- "gloryPointChange": 236,
+ "position": 517,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8559,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Simirna",
  "guildName": "Black or White",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 8573,
    "gloryPointChange": 236,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8559,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

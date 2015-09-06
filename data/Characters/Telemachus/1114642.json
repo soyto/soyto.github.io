@@ -2,9 +2,9 @@
  "characterID": 1114642,
  "characterClassID": 5,
  "raceID": 1,
- "position": 547,
- "rankingPositionChange": 1,
- "gloryPoint": 2801,
+ "position": 549,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2787,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Vuke",
@@ -32,6 +32,14 @@
    "position": 547,
    "rankingPositionChange": 1,
    "gloryPoint": 2801,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 549,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2787,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

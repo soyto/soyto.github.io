@@ -3,9 +3,9 @@
  "characterClassID": 7,
  "raceID": 0,
  "position": 825,
- "rankingPositionChange": 2,
- "gloryPoint": 19456,
- "gloryPointChange": 43,
+ "rankingPositionChange": 0,
+ "gloryPoint": 19449,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bristleback",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 19456,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 825,
+   "rankingPositionChange": 0,
+   "gloryPoint": 19449,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

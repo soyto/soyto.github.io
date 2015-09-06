@@ -2,9 +2,9 @@
  "characterID": 535543,
  "characterClassID": 1,
  "raceID": 1,
- "position": 138,
- "rankingPositionChange": 0,
- "gloryPoint": 77368,
+ "position": 139,
+ "rankingPositionChange": -1,
+ "gloryPoint": 77319,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Levithia",
@@ -272,6 +272,14 @@
    "position": 138,
    "rankingPositionChange": 0,
    "gloryPoint": 77368,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 139,
+   "rankingPositionChange": -1,
+   "gloryPoint": 77319,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

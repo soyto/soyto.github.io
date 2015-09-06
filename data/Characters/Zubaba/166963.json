@@ -2,9 +2,9 @@
  "characterID": 166963,
  "characterClassID": 11,
  "raceID": 1,
- "position": 615,
- "rankingPositionChange": 2,
- "gloryPoint": 5617,
+ "position": 617,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5603,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Yellowpunch",
@@ -222,6 +222,14 @@
    "position": 615,
    "rankingPositionChange": 2,
    "gloryPoint": 5617,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 617,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5603,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

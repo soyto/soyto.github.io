@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 98,
- "rankingPositionChange": -1,
- "gloryPoint": 59517,
- "gloryPointChange": -19,
+ "rankingPositionChange": 0,
+ "gloryPoint": 59773,
+ "gloryPointChange": 256,
  "soldierRankID": 14,
  "characterName": "Kefka",
  "guildName": "Pave Low",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 59517,
    "gloryPointChange": -19,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 98,
+   "rankingPositionChange": 0,
+   "gloryPoint": 59773,
+   "gloryPointChange": 256,
    "soldierRankID": 14
   }
  ],

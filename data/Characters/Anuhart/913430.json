@@ -2,9 +2,9 @@
  "characterID": 913430,
  "characterClassID": 11,
  "raceID": 1,
- "position": 629,
- "rankingPositionChange": 2,
- "gloryPoint": 5784,
+ "position": 632,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5770,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Decys",
@@ -272,6 +272,14 @@
    "position": 629,
    "rankingPositionChange": 2,
    "gloryPoint": 5784,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 632,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5770,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

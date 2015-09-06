@@ -2,9 +2,9 @@
  "characterID": 160842,
  "characterClassID": 10,
  "raceID": 0,
- "position": 973,
- "rankingPositionChange": 3,
- "gloryPoint": 10239,
+ "position": 974,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10232,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rekika",
@@ -272,6 +272,14 @@
    "position": 973,
    "rankingPositionChange": 3,
    "gloryPoint": 10239,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10232,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

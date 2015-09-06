@@ -2,9 +2,9 @@
  "characterID": 843498,
  "characterClassID": 13,
  "raceID": 0,
- "position": 883,
- "rankingPositionChange": 1,
- "gloryPoint": 5809,
+ "position": 884,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5802,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Royjonesjr",
@@ -88,6 +88,14 @@
    "position": 883,
    "rankingPositionChange": 1,
    "gloryPoint": 5809,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 884,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5802,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

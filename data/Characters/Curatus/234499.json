@@ -2,10 +2,10 @@
  "characterID": 234499,
  "characterClassID": 2,
  "raceID": 1,
- "position": 230,
- "rankingPositionChange": 2,
- "gloryPoint": 33709,
- "gloryPointChange": 164,
+ "position": 231,
+ "rankingPositionChange": -1,
+ "gloryPoint": 33821,
+ "gloryPointChange": 112,
  "soldierRankID": 13,
  "characterName": "Marataf",
  "guildName": "TOFA",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 33709,
    "gloryPointChange": 164,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 231,
+   "rankingPositionChange": -1,
+   "gloryPoint": 33821,
+   "gloryPointChange": 112,
    "soldierRankID": 13
   }
  ],

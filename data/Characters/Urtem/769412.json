@@ -2,9 +2,9 @@
  "characterID": 769412,
  "characterClassID": 5,
  "raceID": 1,
- "position": 876,
- "rankingPositionChange": 0,
- "gloryPoint": 8511,
+ "position": 879,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8504,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tarantio",
@@ -272,6 +272,14 @@
    "position": 876,
    "rankingPositionChange": 0,
    "gloryPoint": 8511,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 879,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8504,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

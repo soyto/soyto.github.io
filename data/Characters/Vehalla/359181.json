@@ -2,9 +2,9 @@
  "characterID": 359181,
  "characterClassID": 16,
  "raceID": 1,
- "position": 569,
- "rankingPositionChange": -2,
- "gloryPoint": 1485,
+ "position": 568,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1471,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Knurrhahn",
@@ -240,6 +240,14 @@
    "position": 569,
    "rankingPositionChange": -2,
    "gloryPoint": 1485,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 568,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1471,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

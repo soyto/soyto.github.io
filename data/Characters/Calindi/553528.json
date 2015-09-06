@@ -2,9 +2,9 @@
  "characterID": 553528,
  "characterClassID": 10,
  "raceID": 0,
- "position": 916,
- "rankingPositionChange": 0,
- "gloryPoint": 1302,
+ "position": 915,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1295,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sitelia",
@@ -88,6 +88,14 @@
    "position": 916,
    "rankingPositionChange": 0,
    "gloryPoint": 1302,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 915,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1295,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 743490,
  "characterClassID": 8,
  "raceID": 1,
- "position": 944,
- "rankingPositionChange": 45,
- "gloryPoint": 3160,
- "gloryPointChange": 252,
+ "position": 947,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3153,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mightydavid",
  "guildName": "The Nobodies",
@@ -25,6 +25,14 @@
    "rankingPositionChange": 45,
    "gloryPoint": 3160,
    "gloryPointChange": 252,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 947,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3153,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

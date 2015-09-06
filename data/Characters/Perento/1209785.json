@@ -2,9 +2,9 @@
  "characterID": 1209785,
  "characterClassID": 4,
  "raceID": 1,
- "position": 612,
- "rankingPositionChange": -4,
- "gloryPoint": 5435,
+ "position": 611,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5421,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Fonzin",
@@ -272,6 +272,14 @@
    "position": 612,
    "rankingPositionChange": -4,
    "gloryPoint": 5435,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5421,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

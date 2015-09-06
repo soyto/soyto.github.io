@@ -2,9 +2,9 @@
  "characterID": 38410,
  "characterClassID": 14,
  "raceID": 0,
- "position": 799,
- "rankingPositionChange": 3,
- "gloryPoint": 5359,
+ "position": 803,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5352,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Astrakar",
@@ -270,6 +270,14 @@
    "position": 799,
    "rankingPositionChange": 3,
    "gloryPoint": 5359,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 803,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5352,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

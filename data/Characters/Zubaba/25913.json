@@ -2,9 +2,9 @@
  "characterID": 25913,
  "characterClassID": 8,
  "raceID": 0,
- "position": 964,
- "rankingPositionChange": 3,
- "gloryPoint": 2951,
+ "position": 966,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2944,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aquamarine",
@@ -272,6 +272,14 @@
    "position": 964,
    "rankingPositionChange": 3,
    "gloryPoint": 2951,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 966,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2944,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

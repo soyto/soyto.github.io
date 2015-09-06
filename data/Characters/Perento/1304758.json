@@ -2,9 +2,9 @@
  "characterID": 1304758,
  "characterClassID": 14,
  "raceID": 1,
- "position": 756,
- "rankingPositionChange": -1,
- "gloryPoint": 3345,
+ "position": 746,
+ "rankingPositionChange": 10,
+ "gloryPoint": 3422,
  "gloryPointChange": 77,
  "soldierRankID": 10,
  "characterName": "Stige",
@@ -272,6 +272,14 @@
    "position": 756,
    "rankingPositionChange": -1,
    "gloryPoint": 3345,
+   "gloryPointChange": 77,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 746,
+   "rankingPositionChange": 10,
+   "gloryPoint": 3422,
    "gloryPointChange": 77,
    "soldierRankID": 10
   }

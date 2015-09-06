@@ -2,10 +2,10 @@
  "characterID": 757745,
  "characterClassID": 16,
  "raceID": 1,
- "position": 376,
- "rankingPositionChange": 0,
- "gloryPoint": 43525,
- "gloryPointChange": 102,
+ "position": 377,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43864,
+ "gloryPointChange": 339,
  "soldierRankID": 12,
  "characterName": "Onooki",
  "guildName": "Night Raid",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 43525,
    "gloryPointChange": 102,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 377,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43864,
+   "gloryPointChange": 339,
    "soldierRankID": 12
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 52923,
  "characterClassID": 1,
  "raceID": 1,
- "position": 114,
- "rankingPositionChange": 0,
- "gloryPoint": 14442,
+ "position": 115,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14393,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Gladess",
@@ -192,6 +192,14 @@
    "position": 114,
    "rankingPositionChange": 0,
    "gloryPoint": 14442,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 115,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14393,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

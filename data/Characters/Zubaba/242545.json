@@ -2,10 +2,10 @@
  "characterID": 242545,
  "characterClassID": 1,
  "raceID": 1,
- "position": 513,
- "rankingPositionChange": 0,
- "gloryPoint": 8782,
- "gloryPointChange": 112,
+ "position": 514,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8788,
+ "gloryPointChange": 6,
  "soldierRankID": 11,
  "characterName": "Desperadollc",
  "guildName": "Black or White",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8782,
    "gloryPointChange": 112,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8788,
+   "gloryPointChange": 6,
    "soldierRankID": 11
   }
  ],

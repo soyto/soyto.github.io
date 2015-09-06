@@ -2,9 +2,9 @@
  "characterID": 373052,
  "characterClassID": 7,
  "raceID": 1,
- "position": 664,
- "rankingPositionChange": 1,
- "gloryPoint": 19463,
+ "position": 665,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19449,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Buuka",
@@ -270,6 +270,14 @@
    "position": 664,
    "rankingPositionChange": 1,
    "gloryPoint": 19463,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19449,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

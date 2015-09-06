@@ -2,9 +2,9 @@
  "characterID": 455745,
  "characterClassID": 11,
  "raceID": 1,
- "position": 816,
- "rankingPositionChange": 1,
- "gloryPoint": 2796,
+ "position": 819,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2789,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Syden",
@@ -272,6 +272,14 @@
    "position": 816,
    "rankingPositionChange": 1,
    "gloryPoint": 2796,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 819,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2789,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

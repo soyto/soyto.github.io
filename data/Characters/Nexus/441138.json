@@ -2,9 +2,9 @@
  "characterID": 441138,
  "characterClassID": 1,
  "raceID": 0,
- "position": 621,
- "rankingPositionChange": 1,
- "gloryPoint": 12236,
+ "position": 622,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12222,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Saraf",
@@ -272,6 +272,14 @@
    "position": 621,
    "rankingPositionChange": 1,
    "gloryPoint": 12236,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 622,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12222,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 338584,
  "characterClassID": 10,
  "raceID": 0,
- "position": 724,
- "rankingPositionChange": 1,
- "gloryPoint": 9207,
+ "position": 725,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9200,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Flavour",
@@ -158,6 +158,14 @@
    "position": 724,
    "rankingPositionChange": 1,
    "gloryPoint": 9207,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 725,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9200,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

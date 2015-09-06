@@ -2,12 +2,14 @@
  "characterID": 1021891,
  "characterClassID": 4,
  "raceID": 0,
- "position": 251,
+ "position": 252,
  "rankingPositionChange": -1,
- "gloryPoint": 57830,
- "gloryPointChange": 16,
+ "gloryPoint": 57881,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Gyk",
+ "guildName": " N o A n i ",
+ "guildID": 25887,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 57830,
    "gloryPointChange": 16,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 252,
+   "rankingPositionChange": -1,
+   "gloryPoint": 57881,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -309,6 +319,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": " N o A n i ",
+   "guildID": 25887
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 484380,
  "characterClassID": 13,
  "raceID": 1,
- "position": 610,
- "rankingPositionChange": 0,
- "gloryPoint": 1357,
+ "position": 612,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1350,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Incacerus",
@@ -270,6 +270,14 @@
    "position": 610,
    "rankingPositionChange": 0,
    "gloryPoint": 1357,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1350,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 516874,
  "characterClassID": 2,
  "raceID": 0,
- "position": 903,
- "rankingPositionChange": 4,
- "gloryPoint": 11670,
+ "position": 907,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11663,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sifu",
@@ -272,6 +272,14 @@
    "position": 903,
    "rankingPositionChange": 4,
    "gloryPoint": 11670,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 907,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11663,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

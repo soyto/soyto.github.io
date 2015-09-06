@@ -2,10 +2,10 @@
  "characterID": 404580,
  "characterClassID": 16,
  "raceID": 1,
- "position": 674,
- "rankingPositionChange": 22,
- "gloryPoint": 1254,
- "gloryPointChange": 5,
+ "position": 678,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1250,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Brooksan",
  "guildName": "Dark Devil",
@@ -161,6 +161,14 @@
    "rankingPositionChange": 22,
    "gloryPoint": 1254,
    "gloryPointChange": 5,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 678,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1250,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 306306,
  "characterClassID": 8,
  "raceID": 1,
- "position": 558,
- "rankingPositionChange": 2,
- "gloryPoint": 10269,
- "gloryPointChange": 6,
+ "position": 560,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10258,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Miraziel",
+ "guildName": "Stalkers",
+ "guildID": 5288,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 10269,
    "gloryPointChange": 6,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 560,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10258,
+   "gloryPointChange": -11,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Stalkers",
+   "guildID": 5288
   }
  ]
 }

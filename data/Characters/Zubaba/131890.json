@@ -2,9 +2,9 @@
  "characterID": 131890,
  "characterClassID": 16,
  "raceID": 0,
- "position": 813,
- "rankingPositionChange": 3,
- "gloryPoint": 5175,
+ "position": 817,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5168,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rockandroll",
@@ -272,6 +272,14 @@
    "position": 813,
    "rankingPositionChange": 3,
    "gloryPoint": 5175,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5168,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

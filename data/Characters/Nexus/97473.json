@@ -2,9 +2,9 @@
  "characterID": 97473,
  "characterClassID": 11,
  "raceID": 1,
- "position": 486,
- "rankingPositionChange": 3,
- "gloryPoint": 28876,
+ "position": 488,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28948,
  "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Szurkeszel",
@@ -272,6 +272,14 @@
    "position": 486,
    "rankingPositionChange": 3,
    "gloryPoint": 28876,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 488,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28948,
    "gloryPointChange": 72,
    "soldierRankID": 12
   }

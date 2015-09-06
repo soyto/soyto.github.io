@@ -2,9 +2,9 @@
  "characterID": 245555,
  "characterClassID": 16,
  "raceID": 1,
- "position": 635,
- "rankingPositionChange": 0,
- "gloryPoint": 5138,
+ "position": 638,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5124,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Barbies",
@@ -270,6 +270,14 @@
    "position": 635,
    "rankingPositionChange": 0,
    "gloryPoint": 5138,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 638,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5124,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

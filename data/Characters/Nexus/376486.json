@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 0,
  "position": 364,
- "rankingPositionChange": 1,
- "gloryPoint": 26961,
- "gloryPointChange": 281,
+ "rankingPositionChange": 0,
+ "gloryPoint": 26933,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Majstor",
  "guildName": "Fire Shadows",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 26961,
    "gloryPointChange": 281,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": 0,
+   "gloryPoint": 26933,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1403690,
  "characterClassID": 13,
  "raceID": 1,
- "position": 300,
- "rankingPositionChange": -2,
- "gloryPoint": 35439,
+ "position": 299,
+ "rankingPositionChange": 1,
+ "gloryPoint": 35390,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pepiiii",
@@ -270,6 +270,14 @@
    "position": 300,
    "rankingPositionChange": -2,
    "gloryPoint": 35439,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35390,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

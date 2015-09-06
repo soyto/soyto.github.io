@@ -2,10 +2,10 @@
  "characterID": 275348,
  "characterClassID": 4,
  "raceID": 1,
- "position": 528,
- "rankingPositionChange": 0,
- "gloryPoint": 11350,
- "gloryPointChange": -4,
+ "position": 524,
+ "rankingPositionChange": 4,
+ "gloryPoint": 11472,
+ "gloryPointChange": 122,
  "soldierRankID": 11,
  "characterName": "Diabolicum",
  "guildName": "Lords of Chaos",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 11350,
    "gloryPointChange": -4,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 524,
+   "rankingPositionChange": 4,
+   "gloryPoint": 11472,
+   "gloryPointChange": 122,
    "soldierRankID": 11
   }
  ],

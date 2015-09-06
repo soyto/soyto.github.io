@@ -2,9 +2,9 @@
  "characterID": 1261382,
  "characterClassID": 11,
  "raceID": 0,
- "position": 598,
- "rankingPositionChange": -1,
- "gloryPoint": 15101,
+ "position": 597,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15087,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mso",
@@ -272,6 +272,14 @@
    "position": 598,
    "rankingPositionChange": -1,
    "gloryPoint": 15101,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 597,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15087,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

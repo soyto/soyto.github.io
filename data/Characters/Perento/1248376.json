@@ -2,9 +2,9 @@
  "characterID": 1248376,
  "characterClassID": 13,
  "raceID": 0,
- "position": 217,
- "rankingPositionChange": -1,
- "gloryPoint": 62769,
+ "position": 216,
+ "rankingPositionChange": 1,
+ "gloryPoint": 62720,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Protobot",
@@ -272,6 +272,14 @@
    "position": 217,
    "rankingPositionChange": -1,
    "gloryPoint": 62769,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 216,
+   "rankingPositionChange": 1,
+   "gloryPoint": 62720,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 917360,
  "characterClassID": 1,
  "raceID": 1,
- "position": 140,
- "rankingPositionChange": 2,
- "gloryPoint": 98131,
- "gloryPointChange": 650,
+ "position": 141,
+ "rankingPositionChange": -1,
+ "gloryPoint": 98082,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Angelwolf",
  "guildName": "Noctis Umbrae",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 98131,
    "gloryPointChange": 650,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 141,
+   "rankingPositionChange": -1,
+   "gloryPoint": 98082,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

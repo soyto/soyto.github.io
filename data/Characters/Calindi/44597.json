@@ -3,13 +3,13 @@
  "characterClassID": 1,
  "raceID": 0,
  "position": 81,
- "rankingPositionChange": -1,
- "gloryPoint": 98464,
- "gloryPointChange": 378,
+ "rankingPositionChange": 0,
+ "gloryPoint": 98674,
+ "gloryPointChange": 210,
  "soldierRankID": 14,
  "characterName": "Themak",
- "guildName": "Savage Spirit",
- "guildID": 13827,
+ "guildName": "Frozen Moon",
+ "guildID": 6478,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 98464,
    "gloryPointChange": 378,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 81,
+   "rankingPositionChange": 0,
+   "gloryPoint": 98674,
+   "gloryPointChange": 210,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Frozen Moon",
+   "guildID": 6478
   }
  ]
 }

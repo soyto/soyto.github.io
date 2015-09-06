@@ -2,9 +2,9 @@
  "characterID": 90125,
  "characterClassID": 7,
  "raceID": 1,
- "position": 949,
- "rankingPositionChange": 3,
- "gloryPoint": 1288,
+ "position": 956,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1281,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hakangren",
@@ -270,6 +270,14 @@
    "position": 949,
    "rankingPositionChange": 3,
    "gloryPoint": 1288,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 956,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1281,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

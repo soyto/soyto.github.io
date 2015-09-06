@@ -2,9 +2,9 @@
  "characterID": 493846,
  "characterClassID": 10,
  "raceID": 0,
- "position": 701,
- "rankingPositionChange": 3,
- "gloryPoint": 16905,
+ "position": 702,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16898,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shedu",
@@ -272,6 +272,14 @@
    "position": 701,
    "rankingPositionChange": 3,
    "gloryPoint": 16905,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 702,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16898,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

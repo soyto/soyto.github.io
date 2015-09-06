@@ -2,9 +2,9 @@
  "characterID": 1169282,
  "characterClassID": 8,
  "raceID": 0,
- "position": 557,
- "rankingPositionChange": -5,
- "gloryPoint": 12605,
+ "position": 556,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12591,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Morebeer",
@@ -272,6 +272,14 @@
    "position": 557,
    "rankingPositionChange": -5,
    "gloryPoint": 12605,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12591,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

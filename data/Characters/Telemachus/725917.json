@@ -2,9 +2,9 @@
  "characterID": 725917,
  "characterClassID": 10,
  "raceID": 1,
- "position": 98,
- "rankingPositionChange": 0,
- "gloryPoint": 62548,
+ "position": 99,
+ "rankingPositionChange": -1,
+ "gloryPoint": 62441,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Thoringer",
@@ -272,6 +272,14 @@
    "position": 98,
    "rankingPositionChange": 0,
    "gloryPoint": 62548,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 99,
+   "rankingPositionChange": -1,
+   "gloryPoint": 62441,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

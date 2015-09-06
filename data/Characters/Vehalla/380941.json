@@ -2,10 +2,10 @@
  "characterID": 380941,
  "characterClassID": 5,
  "raceID": 0,
- "position": 549,
- "rankingPositionChange": 14,
- "gloryPoint": 2298,
- "gloryPointChange": 99,
+ "position": 551,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2284,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lilius",
  "guildName": "Gods of madness",
@@ -49,6 +49,14 @@
    "rankingPositionChange": 14,
    "gloryPoint": 2298,
    "gloryPointChange": 99,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 551,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2284,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 62202,
  "characterClassID": 1,
  "raceID": 0,
- "position": 488,
- "rankingPositionChange": 0,
- "gloryPoint": 15202,
- "gloryPointChange": -25,
+ "position": 492,
+ "rankingPositionChange": -4,
+ "gloryPoint": 15174,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Bloodry",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 15202,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 492,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15174,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

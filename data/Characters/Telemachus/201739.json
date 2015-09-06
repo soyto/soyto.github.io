@@ -2,9 +2,9 @@
  "characterID": 201739,
  "characterClassID": 5,
  "raceID": 1,
- "position": 608,
- "rankingPositionChange": 4,
- "gloryPoint": 2077,
+ "position": 613,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2063,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Gandar",
@@ -272,6 +272,14 @@
    "position": 608,
    "rankingPositionChange": 4,
    "gloryPoint": 2077,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 613,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2063,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

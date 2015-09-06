@@ -2,14 +2,12 @@
  "characterID": 385316,
  "characterClassID": 10,
  "raceID": 1,
- "position": 454,
- "rankingPositionChange": -3,
- "gloryPoint": 17565,
+ "position": 456,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17537,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Bonsay",
- "guildName": "Nemesis",
- "guildID": 3416,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 17565,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17537,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Nemesis",
    "guildID": 3416
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

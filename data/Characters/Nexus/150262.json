@@ -2,10 +2,10 @@
  "characterID": 150262,
  "characterClassID": 10,
  "raceID": 1,
- "position": 5,
- "rankingPositionChange": 0,
- "gloryPoint": 324335,
- "gloryPointChange": 693,
+ "position": 6,
+ "rankingPositionChange": -1,
+ "gloryPoint": 324567,
+ "gloryPointChange": 232,
  "soldierRankID": 16,
  "characterName": "Chaosthunder",
  "guildName": " Carebears ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 324335,
    "gloryPointChange": 693,
+   "soldierRankID": 16
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 6,
+   "rankingPositionChange": -1,
+   "gloryPoint": 324567,
+   "gloryPointChange": 232,
    "soldierRankID": 16
   }
  ],

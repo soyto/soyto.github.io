@@ -2,10 +2,10 @@
  "characterID": 1369906,
  "characterClassID": 11,
  "raceID": 1,
- "position": 499,
- "rankingPositionChange": 5,
- "gloryPoint": 16105,
- "gloryPointChange": 198,
+ "position": 500,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16077,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Darkazus",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 16105,
    "gloryPointChange": 198,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 500,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16077,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

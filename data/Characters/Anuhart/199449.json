@@ -2,9 +2,9 @@
  "characterID": 199449,
  "characterClassID": 8,
  "raceID": 1,
- "position": 345,
- "rankingPositionChange": 3,
- "gloryPoint": 20072,
+ "position": 347,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20044,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Panicterror",
@@ -238,6 +238,14 @@
    "position": 345,
    "rankingPositionChange": 3,
    "gloryPoint": 20072,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 347,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20044,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

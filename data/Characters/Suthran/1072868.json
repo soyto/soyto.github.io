@@ -3,8 +3,8 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 978,
- "rankingPositionChange": -2,
- "gloryPoint": 10322,
+ "rankingPositionChange": 0,
+ "gloryPoint": 10343,
  "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Elcinad",
@@ -254,6 +254,14 @@
    "position": 978,
    "rankingPositionChange": -2,
    "gloryPoint": 10322,
+   "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10343,
    "gloryPointChange": 21,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1095585,
  "characterClassID": 1,
  "raceID": 1,
- "position": 962,
- "rankingPositionChange": -4,
- "gloryPoint": 1666,
+ "position": 961,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1659,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Denito",
@@ -270,6 +270,14 @@
    "position": 962,
    "rankingPositionChange": -4,
    "gloryPoint": 1666,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1659,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

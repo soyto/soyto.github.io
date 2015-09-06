@@ -2,9 +2,9 @@
  "characterID": 297897,
  "characterClassID": 1,
  "raceID": 1,
- "position": 846,
- "rankingPositionChange": 2,
- "gloryPoint": 2022,
+ "position": 851,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2015,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Juggler",
@@ -272,6 +272,14 @@
    "position": 846,
    "rankingPositionChange": 2,
    "gloryPoint": 2022,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2015,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

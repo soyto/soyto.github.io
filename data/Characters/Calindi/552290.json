@@ -2,10 +2,10 @@
  "characterID": 552290,
  "characterClassID": 10,
  "raceID": 0,
- "position": 971,
- "rankingPositionChange": 0,
- "gloryPoint": 1281,
- "gloryPointChange": 0,
+ "position": 972,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1274,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kaenya",
  "guildName": "Absolute Duo",
@@ -17,6 +17,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 1281,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 972,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1274,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

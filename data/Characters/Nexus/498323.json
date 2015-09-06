@@ -2,10 +2,10 @@
  "characterID": 498323,
  "characterClassID": 10,
  "raceID": 0,
- "position": 448,
- "rankingPositionChange": 8,
- "gloryPoint": 20046,
- "gloryPointChange": 285,
+ "position": 449,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20018,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Migdo",
  "guildName": "Army Of Shadows",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 20046,
    "gloryPointChange": 285,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 449,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20018,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 543556,
  "characterClassID": 5,
  "raceID": 0,
- "position": 819,
- "rankingPositionChange": 5,
- "gloryPoint": 7129,
- "gloryPointChange": 89,
+ "position": 820,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7142,
+ "gloryPointChange": 13,
  "soldierRankID": 10,
  "characterName": "Mizutny",
  "guildName": "Fire Shadows",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 7129,
    "gloryPointChange": 89,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 820,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7142,
+   "gloryPointChange": 13,
    "soldierRankID": 10
   }
  ],

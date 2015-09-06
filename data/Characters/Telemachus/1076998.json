@@ -2,10 +2,10 @@
  "characterID": 1076998,
  "characterClassID": 14,
  "raceID": 0,
- "position": 297,
- "rankingPositionChange": 4,
- "gloryPoint": 49059,
- "gloryPointChange": 410,
+ "position": 298,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49010,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dulces",
  "guildName": "Empyrium Transcendence",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 49059,
    "gloryPointChange": 410,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 298,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49010,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

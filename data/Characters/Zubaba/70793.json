@@ -2,9 +2,9 @@
  "characterID": 70793,
  "characterClassID": 16,
  "raceID": 0,
- "position": 773,
- "rankingPositionChange": 2,
- "gloryPoint": 5906,
+ "position": 777,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5899,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kardema",
@@ -272,6 +272,14 @@
    "position": 773,
    "rankingPositionChange": 2,
    "gloryPoint": 5906,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 777,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5899,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

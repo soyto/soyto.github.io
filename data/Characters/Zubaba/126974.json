@@ -2,9 +2,9 @@
  "characterID": 126974,
  "characterClassID": 10,
  "raceID": 1,
- "position": 396,
- "rankingPositionChange": 0,
- "gloryPoint": 15163,
+ "position": 397,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15135,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Liric",
@@ -272,6 +272,14 @@
    "position": 396,
    "rankingPositionChange": 0,
    "gloryPoint": 15163,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 397,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15135,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

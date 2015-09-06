@@ -3,11 +3,13 @@
  "characterClassID": 13,
  "raceID": 0,
  "position": 150,
- "rankingPositionChange": -1,
- "gloryPoint": 69047,
- "gloryPointChange": 74,
+ "rankingPositionChange": 0,
+ "gloryPoint": 69151,
+ "gloryPointChange": 104,
  "soldierRankID": 13,
- "characterName": "Oriyuki",
+ "characterName": "Evolajn",
+ "guildName": "Save the Trees Eat Beaver",
+ "guildID": 15947,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,12 +274,24 @@
    "gloryPoint": 69047,
    "gloryPointChange": 74,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": 0,
+   "gloryPoint": 69151,
+   "gloryPointChange": 104,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Oriyuki"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Evolajn"
   }
  ],
  "guilds": [
@@ -288,6 +302,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Save the Trees Eat Beaver",
+   "guildID": 15947
   }
  ]
 }

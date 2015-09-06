@@ -2,10 +2,10 @@
  "characterID": 387210,
  "characterClassID": 4,
  "raceID": 1,
- "position": 363,
- "rankingPositionChange": 0,
- "gloryPoint": 6401,
- "gloryPointChange": -1,
+ "position": 361,
+ "rankingPositionChange": 2,
+ "gloryPoint": 6373,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Aggrosiv",
  "guildName": "Dark Devil",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6401,
    "gloryPointChange": -1,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 361,
+   "rankingPositionChange": 2,
+   "gloryPoint": 6373,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

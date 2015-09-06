@@ -2,9 +2,9 @@
  "characterID": 1087718,
  "characterClassID": 16,
  "raceID": 0,
- "position": 625,
- "rankingPositionChange": 0,
- "gloryPoint": 17188,
+ "position": 626,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17174,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Smurfjimaon",
@@ -264,6 +264,14 @@
    "position": 625,
    "rankingPositionChange": 0,
    "gloryPoint": 17188,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 626,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17174,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

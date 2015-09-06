@@ -2,9 +2,9 @@
  "characterID": 1218835,
  "characterClassID": 11,
  "raceID": 1,
- "position": 933,
- "rankingPositionChange": 4,
- "gloryPoint": 3223,
+ "position": 939,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3216,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Utequendrineb",
@@ -200,6 +200,14 @@
    "position": 933,
    "rankingPositionChange": 4,
    "gloryPoint": 3223,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 939,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3216,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

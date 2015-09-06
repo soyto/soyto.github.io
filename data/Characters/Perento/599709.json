@@ -2,9 +2,9 @@
  "characterID": 599709,
  "characterClassID": 11,
  "raceID": 0,
- "position": 296,
- "rankingPositionChange": 0,
- "gloryPoint": 44102,
+ "position": 298,
+ "rankingPositionChange": -2,
+ "gloryPoint": 44053,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Skina",
@@ -272,6 +272,14 @@
    "position": 296,
    "rankingPositionChange": 0,
    "gloryPoint": 44102,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 298,
+   "rankingPositionChange": -2,
+   "gloryPoint": 44053,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

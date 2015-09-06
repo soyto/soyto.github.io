@@ -2,10 +2,10 @@
  "characterID": 921375,
  "characterClassID": 4,
  "raceID": 1,
- "position": 406,
- "rankingPositionChange": 3,
- "gloryPoint": 13438,
- "gloryPointChange": -19,
+ "position": 411,
+ "rankingPositionChange": -5,
+ "gloryPoint": 13413,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Paxis",
  "guildName": "ValarMorghulis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 13438,
    "gloryPointChange": -19,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 411,
+   "rankingPositionChange": -5,
+   "gloryPoint": 13413,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

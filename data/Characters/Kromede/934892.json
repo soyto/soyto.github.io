@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 662,
- "rankingPositionChange": 7,
- "gloryPoint": 6373,
- "gloryPointChange": 101,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6359,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Syphiron",
  "status": [
@@ -199,6 +199,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 6373,
    "gloryPointChange": 101,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 662,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6359,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

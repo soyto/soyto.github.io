@@ -2,10 +2,10 @@
  "characterID": 520016,
  "characterClassID": 2,
  "raceID": 1,
- "position": 76,
- "rankingPositionChange": 0,
- "gloryPoint": 124781,
- "gloryPointChange": 142,
+ "position": 77,
+ "rankingPositionChange": -1,
+ "gloryPoint": 124933,
+ "gloryPointChange": 152,
  "soldierRankID": 14,
  "characterName": "Kolovos",
  "guildName": "Not Today",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 124781,
    "gloryPointChange": 142,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 77,
+   "rankingPositionChange": -1,
+   "gloryPoint": 124933,
+   "gloryPointChange": 152,
    "soldierRankID": 14
   }
  ],

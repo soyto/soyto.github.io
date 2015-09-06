@@ -2,9 +2,9 @@
  "characterID": 254012,
  "characterClassID": 4,
  "raceID": 1,
- "position": 900,
- "rankingPositionChange": 2,
- "gloryPoint": 1509,
+ "position": 905,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1502,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jay",
@@ -262,6 +262,14 @@
    "position": 900,
    "rankingPositionChange": 2,
    "gloryPoint": 1509,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 905,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1502,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

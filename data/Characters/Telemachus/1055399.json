@@ -2,10 +2,10 @@
  "characterID": 1055399,
  "characterClassID": 16,
  "raceID": 0,
- "position": 643,
- "rankingPositionChange": 6,
- "gloryPoint": 16329,
- "gloryPointChange": 417,
+ "position": 644,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16315,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kalliroe",
  "guildName": "Greek Spirits",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 16329,
    "gloryPointChange": 417,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 644,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16315,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 1456337,
  "characterClassID": 13,
  "raceID": 1,
- "position": 198,
- "rankingPositionChange": 0,
- "gloryPoint": 54356,
- "gloryPointChange": 561,
+ "position": 192,
+ "rankingPositionChange": 6,
+ "gloryPoint": 54910,
+ "gloryPointChange": 554,
  "soldierRankID": 13,
  "characterName": "Lyyla",
+ "guildName": "Osef stuff Love GamePlay",
+ "guildID": 48579,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -264,6 +266,14 @@
    "gloryPoint": 54356,
    "gloryPointChange": 561,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 192,
+   "rankingPositionChange": 6,
+   "gloryPoint": 54910,
+   "gloryPointChange": 554,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -280,6 +290,11 @@
   },
   {
    "date": "2015-08-23T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Osef stuff Love GamePlay",
+   "guildID": 48579
   }
  ]
 }

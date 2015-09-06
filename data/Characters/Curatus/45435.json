@@ -2,10 +2,10 @@
  "characterID": 45435,
  "characterClassID": 14,
  "raceID": 1,
- "position": 337,
- "rankingPositionChange": 1,
- "gloryPoint": 21678,
- "gloryPointChange": -25,
+ "position": 340,
+ "rankingPositionChange": -3,
+ "gloryPoint": 21650,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sireny",
  "guildName": "Lonely Soul",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 21678,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 340,
+   "rankingPositionChange": -3,
+   "gloryPoint": 21650,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

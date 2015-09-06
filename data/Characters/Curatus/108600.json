@@ -2,14 +2,14 @@
  "characterID": 108600,
  "characterClassID": 10,
  "raceID": 1,
- "position": 401,
- "rankingPositionChange": 11,
- "gloryPoint": 16243,
- "gloryPointChange": 344,
+ "position": 396,
+ "rankingPositionChange": 5,
+ "gloryPoint": 16715,
+ "gloryPointChange": 472,
  "soldierRankID": 12,
  "characterName": "Kintaro",
- "guildName": "N o S",
- "guildID": 1770,
+ "guildName": "SouL  TeaR",
+ "guildID": 1039,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 16243,
    "gloryPointChange": 344,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 396,
+   "rankingPositionChange": 5,
+   "gloryPoint": 16715,
+   "gloryPointChange": 472,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "N o S",
    "guildID": 1770
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "SouL  TeaR",
+   "guildID": 1039
   }
  ]
 }

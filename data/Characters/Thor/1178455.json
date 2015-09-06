@@ -2,9 +2,9 @@
  "characterID": 1178455,
  "characterClassID": 1,
  "raceID": 1,
- "position": 355,
- "rankingPositionChange": -1,
- "gloryPoint": 44177,
+ "position": 354,
+ "rankingPositionChange": 1,
+ "gloryPoint": 44249,
  "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Skyfisch",
@@ -264,6 +264,14 @@
    "position": 355,
    "rankingPositionChange": -1,
    "gloryPoint": 44177,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 354,
+   "rankingPositionChange": 1,
+   "gloryPoint": 44249,
    "gloryPointChange": 72,
    "soldierRankID": 12
   }

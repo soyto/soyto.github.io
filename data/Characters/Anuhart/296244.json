@@ -2,9 +2,9 @@
  "characterID": 296244,
  "characterClassID": 5,
  "raceID": 1,
- "position": 534,
- "rankingPositionChange": 2,
- "gloryPoint": 8452,
+ "position": 536,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8438,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Diablosg",
@@ -272,6 +272,14 @@
    "position": 534,
    "rankingPositionChange": 2,
    "gloryPoint": 8452,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 536,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8438,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

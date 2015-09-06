@@ -2,10 +2,10 @@
  "characterID": 1227669,
  "characterClassID": 16,
  "raceID": 1,
- "position": 219,
- "rankingPositionChange": 0,
- "gloryPoint": 67172,
- "gloryPointChange": 251,
+ "position": 221,
+ "rankingPositionChange": -2,
+ "gloryPoint": 67123,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Litchy",
  "guildName": "Heer der Finsternis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 67172,
    "gloryPointChange": 251,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 221,
+   "rankingPositionChange": -2,
+   "gloryPoint": 67123,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

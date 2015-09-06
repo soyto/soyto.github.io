@@ -2,9 +2,9 @@
  "characterID": 532488,
  "characterClassID": 8,
  "raceID": 1,
- "position": 834,
- "rankingPositionChange": 2,
- "gloryPoint": 3981,
+ "position": 838,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3974,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Opkul",
@@ -240,6 +240,14 @@
    "position": 834,
    "rankingPositionChange": 2,
    "gloryPoint": 3981,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 838,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3974,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

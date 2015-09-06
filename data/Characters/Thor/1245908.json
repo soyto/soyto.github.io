@@ -2,9 +2,9 @@
  "characterID": 1245908,
  "characterClassID": 16,
  "raceID": 0,
- "position": 53,
- "rankingPositionChange": 0,
- "gloryPoint": 199510,
+ "position": 54,
+ "rankingPositionChange": -1,
+ "gloryPoint": 199403,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Shuuko",
@@ -272,6 +272,14 @@
    "position": 53,
    "rankingPositionChange": 0,
    "gloryPoint": 199510,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 54,
+   "rankingPositionChange": -1,
+   "gloryPoint": 199403,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

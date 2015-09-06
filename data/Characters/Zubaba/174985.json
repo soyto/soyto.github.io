@@ -3,11 +3,13 @@
  "characterClassID": 4,
  "raceID": 0,
  "position": 503,
- "rankingPositionChange": -3,
- "gloryPoint": 14739,
- "gloryPointChange": -28,
+ "rankingPositionChange": 0,
+ "gloryPoint": 14775,
+ "gloryPointChange": 36,
  "soldierRankID": 11,
  "characterName": "Freizy",
+ "guildName": "    A  L  P  H  A   ",
+ "guildID": 1051,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -32,6 +34,14 @@
    "gloryPoint": 14739,
    "gloryPointChange": -28,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 503,
+   "rankingPositionChange": 0,
+   "gloryPoint": 14775,
+   "gloryPointChange": 36,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -43,6 +53,11 @@
  "guilds": [
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "    A  L  P  H  A   ",
+   "guildID": 1051
   }
  ]
 }

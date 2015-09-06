@@ -2,10 +2,10 @@
  "characterID": 1112515,
  "characterClassID": 10,
  "raceID": 1,
- "position": 716,
- "rankingPositionChange": 0,
- "gloryPoint": 4142,
- "gloryPointChange": 93,
+ "position": 717,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4135,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fareyouwell",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 4142,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 717,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4135,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

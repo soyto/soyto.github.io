@@ -2,14 +2,12 @@
  "characterID": 1079937,
  "characterClassID": 13,
  "raceID": 1,
- "position": 694,
- "rankingPositionChange": -4,
- "gloryPoint": 1387,
+ "position": 702,
+ "rankingPositionChange": -8,
+ "gloryPoint": 1373,
  "gloryPointChange": -14,
- "soldierRankID": 11,
+ "soldierRankID": 10,
  "characterName": "Abdoooo",
- "guildName": "EMPIRE OF DEATH",
- "guildID": 5766,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -258,6 +256,14 @@
    "gloryPoint": 1387,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 702,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1373,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -271,6 +277,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "EMPIRE OF DEATH",
    "guildID": 5766
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

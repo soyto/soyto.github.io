@@ -2,10 +2,10 @@
  "characterID": 557554,
  "characterClassID": 14,
  "raceID": 1,
- "position": 105,
- "rankingPositionChange": 0,
- "gloryPoint": 15659,
- "gloryPointChange": -5,
+ "position": 106,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15610,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Linok",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 15659,
    "gloryPointChange": -5,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 106,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15610,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

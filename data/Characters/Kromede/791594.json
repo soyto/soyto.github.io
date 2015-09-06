@@ -2,9 +2,9 @@
  "characterID": 791594,
  "characterClassID": 10,
  "raceID": 1,
- "position": 679,
- "rankingPositionChange": 1,
- "gloryPoint": 6008,
+ "position": 680,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5994,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Asimina",
@@ -272,6 +272,14 @@
    "position": 679,
    "rankingPositionChange": 1,
    "gloryPoint": 6008,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5994,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

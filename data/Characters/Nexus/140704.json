@@ -2,10 +2,10 @@
  "characterID": 140704,
  "characterClassID": 5,
  "raceID": 1,
- "position": 518,
- "rankingPositionChange": 1,
- "gloryPoint": 26342,
- "gloryPointChange": 90,
+ "position": 523,
+ "rankingPositionChange": -5,
+ "gloryPoint": 26328,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Anzori",
  "guildName": "A N O N Y M O U S",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 26342,
    "gloryPointChange": 90,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": -5,
+   "gloryPoint": 26328,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

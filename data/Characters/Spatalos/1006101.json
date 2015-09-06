@@ -2,9 +2,9 @@
  "characterID": 1006101,
  "characterClassID": 16,
  "raceID": 0,
- "position": 978,
- "rankingPositionChange": -4,
- "gloryPoint": 6033,
+ "position": 977,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6026,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Birra",
@@ -272,6 +272,14 @@
    "position": 978,
    "rankingPositionChange": -4,
    "gloryPoint": 6033,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 977,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6026,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

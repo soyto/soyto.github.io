@@ -2,10 +2,10 @@
  "characterID": 1095384,
  "characterClassID": 10,
  "raceID": 0,
- "position": 507,
- "rankingPositionChange": 7,
- "gloryPoint": 23598,
- "gloryPointChange": 501,
+ "position": 508,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23712,
+ "gloryPointChange": 114,
  "soldierRankID": 11,
  "characterName": "Healice",
  "guildName": "Empyrium Transcendence",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 23598,
    "gloryPointChange": 501,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23712,
+   "gloryPointChange": 114,
    "soldierRankID": 11
   }
  ],

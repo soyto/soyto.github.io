@@ -2,9 +2,9 @@
  "characterID": 883506,
  "characterClassID": 11,
  "raceID": 0,
- "position": 942,
- "rankingPositionChange": 2,
- "gloryPoint": 5003,
+ "position": 945,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4996,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kirittuh",
@@ -272,6 +272,14 @@
    "position": 942,
    "rankingPositionChange": 2,
    "gloryPoint": 5003,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4996,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

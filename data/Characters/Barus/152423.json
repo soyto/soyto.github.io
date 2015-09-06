@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 142,
- "rankingPositionChange": -1,
- "gloryPoint": 91507,
- "gloryPointChange": 10,
+ "rankingPositionChange": 0,
+ "gloryPoint": 91547,
+ "gloryPointChange": 40,
  "soldierRankID": 13,
  "characterName": "Spearmaster",
  "guildName": "You Mad Man",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 91507,
    "gloryPointChange": 10,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 142,
+   "rankingPositionChange": 0,
+   "gloryPoint": 91547,
+   "gloryPointChange": 40,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 573902,
  "characterClassID": 13,
  "raceID": 1,
- "position": 210,
- "rankingPositionChange": 2,
- "gloryPoint": 3125,
- "gloryPointChange": 72,
+ "position": 214,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3079,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Lysln",
  "guildName": "Chasseurs de Foudre",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 3125,
    "gloryPointChange": 72,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 214,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3079,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

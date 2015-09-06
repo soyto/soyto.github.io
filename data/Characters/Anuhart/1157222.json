@@ -2,9 +2,9 @@
  "characterID": 1157222,
  "characterClassID": 14,
  "raceID": 1,
- "position": 619,
- "rankingPositionChange": 0,
- "gloryPoint": 5955,
+ "position": 623,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5941,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Aikillu",
@@ -270,6 +270,14 @@
    "position": 619,
    "rankingPositionChange": 0,
    "gloryPoint": 5955,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 623,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5941,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

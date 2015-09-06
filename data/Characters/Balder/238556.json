@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 0,
  "position": 199,
- "rankingPositionChange": -1,
- "gloryPoint": 39729,
- "gloryPointChange": -26,
+ "rankingPositionChange": 0,
+ "gloryPoint": 39730,
+ "gloryPointChange": 1,
  "soldierRankID": 13,
  "characterName": "Yatani",
  "guildName": "Inseparable",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 39729,
    "gloryPointChange": -26,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 199,
+   "rankingPositionChange": 0,
+   "gloryPoint": 39730,
+   "gloryPointChange": 1,
    "soldierRankID": 13
   }
  ],

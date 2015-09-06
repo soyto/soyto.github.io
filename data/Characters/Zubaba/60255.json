@@ -2,9 +2,9 @@
  "characterID": 60255,
  "characterClassID": 11,
  "raceID": 0,
- "position": 818,
- "rankingPositionChange": 2,
- "gloryPoint": 5004,
+ "position": 823,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4997,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Arcantos",
@@ -262,6 +262,14 @@
    "position": 818,
    "rankingPositionChange": 2,
    "gloryPoint": 5004,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 823,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4997,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 539910,
  "characterClassID": 1,
  "raceID": 1,
- "position": 277,
- "rankingPositionChange": 1,
- "gloryPoint": 21500,
- "gloryPointChange": 54,
+ "position": 279,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21551,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Hocuspocus",
  "guildName": "Malevolent Masterminds",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 21500,
    "gloryPointChange": 54,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 279,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21551,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

@@ -3,8 +3,8 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 604,
- "rankingPositionChange": 1,
- "gloryPoint": 1445,
+ "rankingPositionChange": 0,
+ "gloryPoint": 1431,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sabriel",
@@ -272,6 +272,14 @@
    "position": 604,
    "rankingPositionChange": 1,
    "gloryPoint": 1445,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1431,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

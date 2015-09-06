@@ -2,9 +2,9 @@
  "characterID": 421209,
  "characterClassID": 8,
  "raceID": 0,
- "position": 516,
- "rankingPositionChange": 3,
- "gloryPoint": 5377,
+ "position": 518,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5363,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Fabsou",
@@ -270,6 +270,14 @@
    "position": 516,
    "rankingPositionChange": 3,
    "gloryPoint": 5377,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 518,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5363,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

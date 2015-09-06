@@ -2,10 +2,10 @@
  "characterID": 989488,
  "characterClassID": 16,
  "raceID": 1,
- "position": 422,
- "rankingPositionChange": 9,
- "gloryPoint": 3505,
- "gloryPointChange": 172,
+ "position": 423,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3507,
+ "gloryPointChange": 2,
  "soldierRankID": 12,
  "characterName": "Godoflove",
  "guildName": "MoonStar",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 3505,
    "gloryPointChange": 172,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 423,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3507,
+   "gloryPointChange": 2,
    "soldierRankID": 12
   }
  ],

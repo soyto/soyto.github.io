@@ -2,10 +2,10 @@
  "characterID": 760350,
  "characterClassID": 2,
  "raceID": 1,
- "position": 762,
- "rankingPositionChange": 11,
- "gloryPoint": 4752,
- "gloryPointChange": 90,
+ "position": 764,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4745,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ostsoldat",
  "guildName": "Black Pearl",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 4752,
    "gloryPointChange": 90,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 764,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4745,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

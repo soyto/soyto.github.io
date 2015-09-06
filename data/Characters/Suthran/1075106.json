@@ -2,9 +2,9 @@
  "characterID": 1075106,
  "characterClassID": 16,
  "raceID": 1,
- "position": 179,
- "rankingPositionChange": 0,
- "gloryPoint": 63803,
+ "position": 180,
+ "rankingPositionChange": -1,
+ "gloryPoint": 63754,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Haoria",
@@ -272,6 +272,14 @@
    "position": 179,
    "rankingPositionChange": 0,
    "gloryPoint": 63803,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 180,
+   "rankingPositionChange": -1,
+   "gloryPoint": 63754,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

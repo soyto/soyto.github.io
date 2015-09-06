@@ -2,9 +2,9 @@
  "characterID": 435252,
  "characterClassID": 11,
  "raceID": 1,
- "position": 159,
- "rankingPositionChange": 2,
- "gloryPoint": 54269,
+ "position": 160,
+ "rankingPositionChange": -1,
+ "gloryPoint": 54220,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kithjara",
@@ -272,6 +272,14 @@
    "position": 159,
    "rankingPositionChange": 2,
    "gloryPoint": 54269,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 160,
+   "rankingPositionChange": -1,
+   "gloryPoint": 54220,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

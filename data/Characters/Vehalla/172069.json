@@ -2,9 +2,9 @@
  "characterID": 172069,
  "characterClassID": 10,
  "raceID": 1,
- "position": 613,
- "rankingPositionChange": 0,
- "gloryPoint": 1356,
+ "position": 615,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1349,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kuraketo",
@@ -136,6 +136,14 @@
    "position": 613,
    "rankingPositionChange": 0,
    "gloryPoint": 1356,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 615,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1349,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

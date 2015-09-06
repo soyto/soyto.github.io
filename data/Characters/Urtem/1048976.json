@@ -2,10 +2,10 @@
  "characterID": 1048976,
  "characterClassID": 10,
  "raceID": 0,
- "position": 220,
- "rankingPositionChange": 1,
- "gloryPoint": 71612,
- "gloryPointChange": 372,
+ "position": 222,
+ "rankingPositionChange": -2,
+ "gloryPoint": 71563,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tylanor",
  "guildName": " Enjoy ",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 71612,
    "gloryPointChange": 372,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -2,
+   "gloryPoint": 71563,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1133258,
  "characterClassID": 7,
  "raceID": 0,
- "position": 851,
- "rankingPositionChange": 3,
- "gloryPoint": 8321,
- "gloryPointChange": 178,
+ "position": 852,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8314,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shhao",
  "guildName": "ENTAXH",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 8321,
    "gloryPointChange": 178,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8314,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

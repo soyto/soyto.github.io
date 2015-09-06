@@ -2,9 +2,9 @@
  "characterID": 1516331,
  "characterClassID": 10,
  "raceID": 0,
- "position": 501,
- "rankingPositionChange": 1,
- "gloryPoint": 36481,
+ "position": 502,
+ "rankingPositionChange": -1,
+ "gloryPoint": 36467,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lydanora",
@@ -112,6 +112,14 @@
    "position": 501,
    "rankingPositionChange": 1,
    "gloryPoint": 36481,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 502,
+   "rankingPositionChange": -1,
+   "gloryPoint": 36467,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

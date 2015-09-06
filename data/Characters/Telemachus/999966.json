@@ -2,9 +2,9 @@
  "characterID": 999966,
  "characterClassID": 16,
  "raceID": 1,
- "position": 183,
- "rankingPositionChange": 0,
- "gloryPoint": 29153,
+ "position": 185,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29104,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Porikaki",
@@ -272,6 +272,14 @@
    "position": 183,
    "rankingPositionChange": 0,
    "gloryPoint": 29153,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 185,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29104,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

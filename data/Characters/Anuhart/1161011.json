@@ -3,8 +3,8 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 42,
- "rankingPositionChange": 1,
- "gloryPoint": 186300,
+ "rankingPositionChange": 0,
+ "gloryPoint": 186193,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Deccymus",
@@ -272,6 +272,14 @@
    "position": 42,
    "rankingPositionChange": 1,
    "gloryPoint": 186300,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 42,
+   "rankingPositionChange": 0,
+   "gloryPoint": 186193,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

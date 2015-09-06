@@ -2,9 +2,9 @@
  "characterID": 66791,
  "characterClassID": 11,
  "raceID": 1,
- "position": 247,
- "rankingPositionChange": 0,
- "gloryPoint": 31838,
+ "position": 250,
+ "rankingPositionChange": -3,
+ "gloryPoint": 31789,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Buffalobeel",
@@ -272,6 +272,14 @@
    "position": 247,
    "rankingPositionChange": 0,
    "gloryPoint": 31838,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 250,
+   "rankingPositionChange": -3,
+   "gloryPoint": 31789,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

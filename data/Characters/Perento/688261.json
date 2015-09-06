@@ -2,9 +2,9 @@
  "characterID": 688261,
  "characterClassID": 5,
  "raceID": 0,
- "position": 295,
- "rankingPositionChange": 0,
- "gloryPoint": 44131,
+ "position": 296,
+ "rankingPositionChange": -1,
+ "gloryPoint": 44082,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Moiz",
@@ -272,6 +272,14 @@
    "position": 295,
    "rankingPositionChange": 0,
    "gloryPoint": 44131,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 296,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44082,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

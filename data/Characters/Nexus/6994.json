@@ -2,10 +2,10 @@
  "characterID": 6994,
  "characterClassID": 7,
  "raceID": 1,
- "position": 889,
- "rankingPositionChange": 9,
- "gloryPoint": 9671,
- "gloryPointChange": 315,
+ "position": 893,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9664,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ariadne",
  "guildName": " im too tiny to be your target ",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 9671,
    "gloryPointChange": 315,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 893,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9664,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

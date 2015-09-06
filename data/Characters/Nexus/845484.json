@@ -2,9 +2,9 @@
  "characterID": 845484,
  "characterClassID": 1,
  "raceID": 0,
- "position": 900,
- "rankingPositionChange": 0,
- "gloryPoint": 5577,
+ "position": 903,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5570,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fosoke",
@@ -86,6 +86,14 @@
    "position": 900,
    "rankingPositionChange": 0,
    "gloryPoint": 5577,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 903,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5570,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

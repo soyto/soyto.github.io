@@ -2,9 +2,9 @@
  "characterID": 150340,
  "characterClassID": 10,
  "raceID": 0,
- "position": 160,
- "rankingPositionChange": 0,
- "gloryPoint": 35080,
+ "position": 162,
+ "rankingPositionChange": -2,
+ "gloryPoint": 35031,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Mariee",
@@ -272,6 +272,14 @@
    "position": 160,
    "rankingPositionChange": 0,
    "gloryPoint": 35080,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": -2,
+   "gloryPoint": 35031,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

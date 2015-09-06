@@ -2,10 +2,10 @@
  "characterID": 27032,
  "characterClassID": 11,
  "raceID": 1,
- "position": 720,
- "rankingPositionChange": 19,
- "gloryPoint": 3473,
- "gloryPointChange": 93,
+ "position": 722,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3476,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Hayaly",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 19,
    "gloryPoint": 3473,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 722,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3476,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

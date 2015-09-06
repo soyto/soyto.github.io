@@ -2,9 +2,9 @@
  "characterID": 1238224,
  "characterClassID": 16,
  "raceID": 1,
- "position": 257,
- "rankingPositionChange": 0,
- "gloryPoint": 60184,
+ "position": 258,
+ "rankingPositionChange": -1,
+ "gloryPoint": 60135,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Badbass",
@@ -30,6 +30,14 @@
    "position": 257,
    "rankingPositionChange": 0,
    "gloryPoint": 60184,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 258,
+   "rankingPositionChange": -1,
+   "gloryPoint": 60135,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

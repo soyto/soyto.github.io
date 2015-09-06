@@ -2,14 +2,12 @@
  "characterID": 1676293,
  "characterClassID": 2,
  "raceID": 0,
- "position": 717,
- "rankingPositionChange": 10,
- "gloryPoint": 24454,
- "gloryPointChange": 251,
+ "position": 711,
+ "rankingPositionChange": 6,
+ "gloryPoint": 24873,
+ "gloryPointChange": 419,
  "soldierRankID": 10,
  "characterName": "Viriazz",
- "guildName": "I Die Sieben Siegel I",
- "guildID": 45974,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 24454,
    "gloryPointChange": 251,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": 6,
+   "gloryPoint": 24873,
+   "gloryPointChange": 419,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -297,6 +303,9 @@
    "date": "2015-08-02T22:00:00.000Z",
    "guildName": "I Die Sieben Siegel I",
    "guildID": 45974
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

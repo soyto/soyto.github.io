@@ -2,9 +2,9 @@
  "characterID": 293022,
  "characterClassID": 1,
  "raceID": 1,
- "position": 718,
- "rankingPositionChange": 3,
- "gloryPoint": 3493,
+ "position": 720,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3486,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tribes",
@@ -232,6 +232,14 @@
    "position": 718,
    "rankingPositionChange": 3,
    "gloryPoint": 3493,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 720,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3486,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

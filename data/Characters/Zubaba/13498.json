@@ -2,9 +2,9 @@
  "characterID": 13498,
  "characterClassID": 5,
  "raceID": 1,
- "position": 160,
- "rankingPositionChange": 0,
- "gloryPoint": 56449,
+ "position": 161,
+ "rankingPositionChange": -1,
+ "gloryPoint": 56400,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Goodwill",
@@ -272,6 +272,14 @@
    "position": 160,
    "rankingPositionChange": 0,
    "gloryPoint": 56449,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 161,
+   "rankingPositionChange": -1,
+   "gloryPoint": 56400,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

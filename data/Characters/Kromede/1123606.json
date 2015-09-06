@@ -2,9 +2,9 @@
  "characterID": 1123606,
  "characterClassID": 16,
  "raceID": 1,
- "position": 900,
- "rankingPositionChange": 0,
- "gloryPoint": 3486,
+ "position": 904,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3479,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Littelmisscaos",
@@ -272,6 +272,14 @@
    "position": 900,
    "rankingPositionChange": 0,
    "gloryPoint": 3486,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 904,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3479,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

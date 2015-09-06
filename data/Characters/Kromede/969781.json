@@ -2,9 +2,9 @@
  "characterID": 969781,
  "characterClassID": 16,
  "raceID": 1,
- "position": 991,
- "rankingPositionChange": 1,
- "gloryPoint": 2895,
+ "position": 995,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2888,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ludelei",
@@ -22,6 +22,14 @@
    "position": 991,
    "rankingPositionChange": 1,
    "gloryPoint": 2895,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2888,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

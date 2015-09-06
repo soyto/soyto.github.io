@@ -2,9 +2,9 @@
  "characterID": 368217,
  "characterClassID": 16,
  "raceID": 0,
- "position": 912,
- "rankingPositionChange": 3,
- "gloryPoint": 11443,
+ "position": 913,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11436,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cucurucha",
@@ -160,6 +160,14 @@
    "position": 912,
    "rankingPositionChange": 3,
    "gloryPoint": 11443,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 913,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11436,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

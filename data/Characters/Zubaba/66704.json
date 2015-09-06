@@ -2,9 +2,9 @@
  "characterID": 66704,
  "characterClassID": 14,
  "raceID": 1,
- "position": 882,
- "rankingPositionChange": 0,
- "gloryPoint": 1688,
+ "position": 885,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1681,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hazardous",
@@ -72,6 +72,14 @@
    "position": 882,
    "rankingPositionChange": 0,
    "gloryPoint": 1688,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 885,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1681,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

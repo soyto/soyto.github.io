@@ -2,9 +2,9 @@
  "characterID": 1079016,
  "characterClassID": 16,
  "raceID": 1,
- "position": 657,
- "rankingPositionChange": 0,
- "gloryPoint": 6450,
+ "position": 658,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6436,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Yuzuky",
@@ -78,6 +78,14 @@
    "position": 657,
    "rankingPositionChange": 0,
    "gloryPoint": 6450,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 658,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6436,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

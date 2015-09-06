@@ -2,9 +2,9 @@
  "characterID": 1726364,
  "characterClassID": 7,
  "raceID": 1,
- "position": 907,
- "rankingPositionChange": 2,
- "gloryPoint": 7906,
+ "position": 908,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7899,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rooooooob",
@@ -144,6 +144,14 @@
    "position": 907,
    "rankingPositionChange": 2,
    "gloryPoint": 7906,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 908,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7899,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

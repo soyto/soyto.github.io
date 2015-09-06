@@ -2,9 +2,9 @@
  "characterID": 485434,
  "characterClassID": 10,
  "raceID": 0,
- "position": 101,
- "rankingPositionChange": 0,
- "gloryPoint": 84980,
+ "position": 102,
+ "rankingPositionChange": -1,
+ "gloryPoint": 84931,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Vivacitas",
@@ -176,6 +176,14 @@
    "position": 101,
    "rankingPositionChange": 0,
    "gloryPoint": 84980,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 102,
+   "rankingPositionChange": -1,
+   "gloryPoint": 84931,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

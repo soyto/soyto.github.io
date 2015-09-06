@@ -2,9 +2,9 @@
  "characterID": 391404,
  "characterClassID": 16,
  "raceID": 1,
- "position": 328,
- "rankingPositionChange": 0,
- "gloryPoint": 7743,
+ "position": 325,
+ "rankingPositionChange": 3,
+ "gloryPoint": 7715,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sancho",
@@ -272,6 +272,14 @@
    "position": 328,
    "rankingPositionChange": 0,
    "gloryPoint": 7743,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 325,
+   "rankingPositionChange": 3,
+   "gloryPoint": 7715,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

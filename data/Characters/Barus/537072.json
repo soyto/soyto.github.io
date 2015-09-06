@@ -2,9 +2,9 @@
  "characterID": 537072,
  "characterClassID": 5,
  "raceID": 0,
- "position": 490,
- "rankingPositionChange": 0,
- "gloryPoint": 28910,
+ "position": 492,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28882,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Wojtashinigami",
@@ -264,6 +264,14 @@
    "position": 490,
    "rankingPositionChange": 0,
    "gloryPoint": 28910,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 492,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28882,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

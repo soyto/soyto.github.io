@@ -2,10 +2,10 @@
  "characterID": 179202,
  "characterClassID": 16,
  "raceID": 0,
- "position": 380,
- "rankingPositionChange": 0,
- "gloryPoint": 21940,
- "gloryPointChange": 22,
+ "position": 383,
+ "rankingPositionChange": -3,
+ "gloryPoint": 21912,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Chefff",
  "guildName": "GameMasters",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 21940,
    "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 383,
+   "rankingPositionChange": -3,
+   "gloryPoint": 21912,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

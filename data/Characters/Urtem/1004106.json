@@ -2,9 +2,9 @@
  "characterID": 1004106,
  "characterClassID": 4,
  "raceID": 1,
- "position": 92,
- "rankingPositionChange": 0,
- "gloryPoint": 89050,
+ "position": 94,
+ "rankingPositionChange": -2,
+ "gloryPoint": 88943,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Shadekilleur",
@@ -270,6 +270,14 @@
    "position": 92,
    "rankingPositionChange": 0,
    "gloryPoint": 89050,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 94,
+   "rankingPositionChange": -2,
+   "gloryPoint": 88943,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

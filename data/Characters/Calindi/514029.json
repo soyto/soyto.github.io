@@ -2,9 +2,9 @@
  "characterID": 514029,
  "characterClassID": 10,
  "raceID": 0,
- "position": 543,
- "rankingPositionChange": 1,
- "gloryPoint": 4803,
+ "position": 544,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4789,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Toytoy",
@@ -272,6 +272,14 @@
    "position": 543,
    "rankingPositionChange": 1,
    "gloryPoint": 4803,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 544,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4789,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

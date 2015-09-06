@@ -2,10 +2,10 @@
  "characterID": 1126529,
  "characterClassID": 14,
  "raceID": 1,
- "position": 502,
- "rankingPositionChange": 2,
- "gloryPoint": 18302,
- "gloryPointChange": 66,
+ "position": 504,
+ "rankingPositionChange": -2,
+ "gloryPoint": 18328,
+ "gloryPointChange": 26,
  "soldierRankID": 11,
  "characterName": "Zziva",
  "guildName": "Drake",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 18302,
    "gloryPointChange": 66,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 504,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18328,
+   "gloryPointChange": 26,
    "soldierRankID": 11
   }
  ],

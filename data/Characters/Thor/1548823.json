@@ -2,10 +2,10 @@
  "characterID": 1548823,
  "characterClassID": 16,
  "raceID": 0,
- "position": 262,
- "rankingPositionChange": 0,
- "gloryPoint": 71284,
- "gloryPointChange": 164,
+ "position": 263,
+ "rankingPositionChange": -1,
+ "gloryPoint": 71235,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Musicdevil",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 71284,
    "gloryPointChange": 164,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 263,
+   "rankingPositionChange": -1,
+   "gloryPoint": 71235,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

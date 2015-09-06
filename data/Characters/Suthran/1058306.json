@@ -2,9 +2,9 @@
  "characterID": 1058306,
  "characterClassID": 16,
  "raceID": 1,
- "position": 194,
- "rankingPositionChange": -1,
- "gloryPoint": 59344,
+ "position": 193,
+ "rankingPositionChange": 1,
+ "gloryPoint": 59295,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Yaag",
@@ -272,6 +272,14 @@
    "position": 194,
    "rankingPositionChange": -1,
    "gloryPoint": 59344,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 193,
+   "rankingPositionChange": 1,
+   "gloryPoint": 59295,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

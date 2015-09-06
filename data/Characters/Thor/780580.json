@@ -2,9 +2,9 @@
  "characterID": 780580,
  "characterClassID": 1,
  "raceID": 0,
- "position": 494,
- "rankingPositionChange": 1,
- "gloryPoint": 36901,
+ "position": 496,
+ "rankingPositionChange": -2,
+ "gloryPoint": 36873,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Darkpetri",
@@ -272,6 +272,14 @@
    "position": 494,
    "rankingPositionChange": 1,
    "gloryPoint": 36901,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 496,
+   "rankingPositionChange": -2,
+   "gloryPoint": 36873,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

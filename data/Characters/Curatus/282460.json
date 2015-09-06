@@ -2,10 +2,10 @@
  "characterID": 282460,
  "characterClassID": 14,
  "raceID": 1,
- "position": 261,
- "rankingPositionChange": 1,
- "gloryPoint": 30139,
- "gloryPointChange": 70,
+ "position": 262,
+ "rankingPositionChange": -1,
+ "gloryPoint": 30200,
+ "gloryPointChange": 61,
  "soldierRankID": 13,
  "characterName": "Selinas",
  "guildName": "AbyssGates",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 30139,
    "gloryPointChange": 70,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 262,
+   "rankingPositionChange": -1,
+   "gloryPoint": 30200,
+   "gloryPointChange": 61,
    "soldierRankID": 13
   }
  ],

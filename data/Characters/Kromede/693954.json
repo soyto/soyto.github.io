@@ -2,9 +2,9 @@
  "characterID": 693954,
  "characterClassID": 4,
  "raceID": 1,
- "position": 811,
- "rankingPositionChange": 2,
- "gloryPoint": 4238,
+ "position": 812,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4231,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Darkyoda",
@@ -256,6 +256,14 @@
    "position": 811,
    "rankingPositionChange": 2,
    "gloryPoint": 4238,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4231,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 508123,
  "characterClassID": 11,
  "raceID": 0,
- "position": 390,
- "rankingPositionChange": 1,
- "gloryPoint": 24492,
- "gloryPointChange": 225,
+ "position": 392,
+ "rankingPositionChange": -2,
+ "gloryPoint": 24537,
+ "gloryPointChange": 45,
  "soldierRankID": 12,
  "characterName": "Sethyan",
  "guildName": " NEMESIS ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 24492,
    "gloryPointChange": 225,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 392,
+   "rankingPositionChange": -2,
+   "gloryPoint": 24537,
+   "gloryPointChange": 45,
    "soldierRankID": 12
   }
  ],

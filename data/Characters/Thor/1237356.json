@@ -2,9 +2,9 @@
  "characterID": 1237356,
  "characterClassID": 16,
  "raceID": 0,
- "position": 147,
- "rankingPositionChange": 0,
- "gloryPoint": 114493,
+ "position": 148,
+ "rankingPositionChange": -1,
+ "gloryPoint": 114444,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hiitomi",
@@ -272,6 +272,14 @@
    "position": 147,
    "rankingPositionChange": 0,
    "gloryPoint": 114493,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 148,
+   "rankingPositionChange": -1,
+   "gloryPoint": 114444,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,13 +2,13 @@
  "characterID": 545510,
  "characterClassID": 4,
  "raceID": 0,
- "position": 785,
- "rankingPositionChange": 1,
- "gloryPoint": 7920,
+ "position": 786,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7913,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Seephiiiroth",
- "guildName": "Armageddon",
+ "guildName": "Anoha",
  "guildID": 7325,
  "status": [
   {
@@ -272,6 +272,14 @@
    "position": 785,
    "rankingPositionChange": 1,
    "gloryPoint": 7920,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 786,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7913,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

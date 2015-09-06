@@ -2,10 +2,10 @@
  "characterID": 1317372,
  "characterClassID": 7,
  "raceID": 0,
- "position": 993,
- "rankingPositionChange": 1,
- "gloryPoint": 10040,
- "gloryPointChange": 89,
+ "position": 994,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10033,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Commandor",
  "guildName": "ooOO FAIRY TAIL OOoo",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 10040,
    "gloryPointChange": 89,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10033,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 940804,
  "characterClassID": 10,
  "raceID": 0,
- "position": 517,
- "rankingPositionChange": 0,
- "gloryPoint": 34842,
+ "position": 518,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34828,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Asatsuyu",
@@ -272,6 +272,14 @@
    "position": 517,
    "rankingPositionChange": 0,
    "gloryPoint": 34842,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 518,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34828,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

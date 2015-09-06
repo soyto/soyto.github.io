@@ -2,9 +2,9 @@
  "characterID": 7886,
  "characterClassID": 10,
  "raceID": 1,
- "position": 334,
- "rankingPositionChange": 1,
- "gloryPoint": 21880,
+ "position": 335,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21852,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Shidozukuto",
@@ -272,6 +272,14 @@
    "position": 334,
    "rankingPositionChange": 1,
    "gloryPoint": 21880,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 335,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21852,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

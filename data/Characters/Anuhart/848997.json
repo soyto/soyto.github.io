@@ -2,9 +2,9 @@
  "characterID": 848997,
  "characterClassID": 14,
  "raceID": 1,
- "position": 929,
- "rankingPositionChange": 6,
- "gloryPoint": 1858,
+ "position": 935,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1851,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Guynus",
@@ -112,6 +112,14 @@
    "position": 929,
    "rankingPositionChange": 6,
    "gloryPoint": 1858,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 935,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1851,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

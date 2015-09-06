@@ -2,9 +2,9 @@
  "characterID": 159807,
  "characterClassID": 2,
  "raceID": 1,
- "position": 331,
- "rankingPositionChange": 0,
- "gloryPoint": 52664,
+ "position": 333,
+ "rankingPositionChange": -2,
+ "gloryPoint": 52636,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Firmm",
@@ -222,6 +222,14 @@
    "position": 331,
    "rankingPositionChange": 0,
    "gloryPoint": 52664,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 333,
+   "rankingPositionChange": -2,
+   "gloryPoint": 52636,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

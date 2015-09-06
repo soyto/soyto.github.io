@@ -2,9 +2,9 @@
  "characterID": 111816,
  "characterClassID": 16,
  "raceID": 1,
- "position": 739,
- "rankingPositionChange": 2,
- "gloryPoint": 3360,
+ "position": 741,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3353,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fyilmaz",
@@ -270,6 +270,14 @@
    "position": 739,
    "rankingPositionChange": 2,
    "gloryPoint": 3360,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 741,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3353,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

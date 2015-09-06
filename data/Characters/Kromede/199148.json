@@ -2,9 +2,9 @@
  "characterID": 199148,
  "characterClassID": 11,
  "raceID": 1,
- "position": 360,
- "rankingPositionChange": 3,
- "gloryPoint": 17133,
+ "position": 361,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17105,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mantrasch",
@@ -270,6 +270,14 @@
    "position": 360,
    "rankingPositionChange": 3,
    "gloryPoint": 17133,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 361,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17105,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

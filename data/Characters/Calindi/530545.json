@@ -2,9 +2,9 @@
  "characterID": 530545,
  "characterClassID": 2,
  "raceID": 0,
- "position": 752,
- "rankingPositionChange": 0,
- "gloryPoint": 2256,
+ "position": 753,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2249,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Neix",
@@ -166,6 +166,14 @@
    "position": 752,
    "rankingPositionChange": 0,
    "gloryPoint": 2256,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 753,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2249,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

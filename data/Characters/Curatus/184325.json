@@ -2,9 +2,9 @@
  "characterID": 184325,
  "characterClassID": 1,
  "raceID": 1,
- "position": 276,
- "rankingPositionChange": 0,
- "gloryPoint": 28015,
+ "position": 277,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27966,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nimura",
@@ -256,6 +256,14 @@
    "position": 276,
    "rankingPositionChange": 0,
    "gloryPoint": 28015,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 277,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27966,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

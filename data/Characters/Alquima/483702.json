@@ -2,9 +2,9 @@
  "characterID": 483702,
  "characterClassID": 16,
  "raceID": 0,
- "position": 858,
- "rankingPositionChange": 2,
- "gloryPoint": 12475,
+ "position": 860,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12468,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vya",
@@ -176,6 +176,14 @@
    "position": 858,
    "rankingPositionChange": 2,
    "gloryPoint": 12475,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12468,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

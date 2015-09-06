@@ -2,9 +2,9 @@
  "characterID": 1169494,
  "characterClassID": 16,
  "raceID": 1,
- "position": 280,
- "rankingPositionChange": 2,
- "gloryPoint": 28705,
+ "position": 281,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28656,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Buumtsy",
@@ -240,6 +240,14 @@
    "position": 280,
    "rankingPositionChange": 2,
    "gloryPoint": 28705,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 281,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28656,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

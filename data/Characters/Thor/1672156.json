@@ -2,12 +2,14 @@
  "characterID": 1672156,
  "characterClassID": 10,
  "raceID": 0,
- "position": 506,
- "rankingPositionChange": 2,
- "gloryPoint": 36069,
- "gloryPointChange": 236,
- "soldierRankID": 11,
+ "position": 500,
+ "rankingPositionChange": 6,
+ "gloryPoint": 36613,
+ "gloryPointChange": 544,
+ "soldierRankID": 12,
  "characterName": "Aenys",
+ "guildName": " woof ",
+ "guildID": 45852,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 36069,
    "gloryPointChange": 236,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 500,
+   "rankingPositionChange": 6,
+   "gloryPoint": 36613,
+   "gloryPointChange": 544,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-16T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": " woof ",
+   "guildID": 45852
   }
  ]
 }

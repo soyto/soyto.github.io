@@ -2,10 +2,10 @@
  "characterID": 421640,
  "characterClassID": 8,
  "raceID": 0,
- "position": 765,
- "rankingPositionChange": 11,
- "gloryPoint": 2177,
- "gloryPointChange": 55,
+ "position": 767,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2170,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lovamour",
  "guildName": "AsianSquare",
@@ -249,6 +249,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 2177,
    "gloryPointChange": 55,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 767,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2170,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

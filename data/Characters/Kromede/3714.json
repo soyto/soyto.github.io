@@ -2,10 +2,10 @@
  "characterID": 3714,
  "characterClassID": 10,
  "raceID": 1,
- "position": 870,
- "rankingPositionChange": 6,
- "gloryPoint": 3733,
- "gloryPointChange": 43,
+ "position": 874,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3726,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sangu",
  "guildName": "Ultimus Imperium",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 3733,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 874,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3726,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

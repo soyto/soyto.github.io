@@ -2,14 +2,14 @@
  "characterID": 685562,
  "characterClassID": 5,
  "raceID": 1,
- "position": 235,
- "rankingPositionChange": 3,
- "gloryPoint": 65654,
- "gloryPointChange": 405,
+ "position": 237,
+ "rankingPositionChange": -2,
+ "gloryPoint": 65605,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Babadook",
- "guildName": "Heer der Finsternis",
- "guildID": 41586,
+ "guildName": "SEALS INC",
+ "guildID": 25193,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 65654,
    "gloryPointChange": 405,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 237,
+   "rankingPositionChange": -2,
+   "gloryPoint": 65605,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Heer der Finsternis",
    "guildID": 41586
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "SEALS INC",
+   "guildID": 25193
   }
  ]
 }

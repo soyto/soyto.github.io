@@ -2,9 +2,9 @@
  "characterID": 1207455,
  "characterClassID": 5,
  "raceID": 1,
- "position": 451,
- "rankingPositionChange": 2,
- "gloryPoint": 11414,
+ "position": 455,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11386,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Psynuclear",
@@ -232,6 +232,14 @@
    "position": 451,
    "rankingPositionChange": 2,
    "gloryPoint": 11414,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 455,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11386,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

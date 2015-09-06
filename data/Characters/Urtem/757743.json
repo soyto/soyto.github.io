@@ -2,10 +2,10 @@
  "characterID": 757743,
  "characterClassID": 4,
  "raceID": 1,
- "position": 618,
- "rankingPositionChange": 21,
- "gloryPoint": 13855,
- "gloryPointChange": 609,
+ "position": 619,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13841,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Qexqaneh",
  "guildName": "Cycle of Tschai",
@@ -193,6 +193,14 @@
    "rankingPositionChange": 21,
    "gloryPoint": 13855,
    "gloryPointChange": 609,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 619,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13841,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

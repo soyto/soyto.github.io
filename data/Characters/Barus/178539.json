@@ -2,9 +2,9 @@
  "characterID": 178539,
  "characterClassID": 1,
  "raceID": 1,
- "position": 214,
- "rankingPositionChange": 0,
- "gloryPoint": 68599,
+ "position": 215,
+ "rankingPositionChange": -1,
+ "gloryPoint": 68550,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Threesome",
@@ -270,6 +270,14 @@
    "position": 214,
    "rankingPositionChange": 0,
    "gloryPoint": 68599,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 215,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68550,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

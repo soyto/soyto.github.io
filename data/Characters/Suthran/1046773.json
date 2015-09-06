@@ -2,9 +2,9 @@
  "characterID": 1046773,
  "characterClassID": 2,
  "raceID": 1,
- "position": 577,
- "rankingPositionChange": 0,
- "gloryPoint": 12724,
+ "position": 578,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12710,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Erezya",
@@ -264,6 +264,14 @@
    "position": 577,
    "rankingPositionChange": 0,
    "gloryPoint": 12724,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 578,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12710,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

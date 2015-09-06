@@ -2,9 +2,9 @@
  "characterID": 303618,
  "characterClassID": 14,
  "raceID": 1,
- "position": 917,
- "rankingPositionChange": -3,
- "gloryPoint": 11559,
+ "position": 914,
+ "rankingPositionChange": 3,
+ "gloryPoint": 11552,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Leerena",
@@ -272,6 +272,14 @@
    "position": 917,
    "rankingPositionChange": -3,
    "gloryPoint": 11559,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 914,
+   "rankingPositionChange": 3,
+   "gloryPoint": 11552,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

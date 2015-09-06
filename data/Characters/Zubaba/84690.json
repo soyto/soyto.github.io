@@ -2,10 +2,10 @@
  "characterID": 84690,
  "characterClassID": 5,
  "raceID": 1,
- "position": 98,
- "rankingPositionChange": 0,
- "gloryPoint": 93412,
- "gloryPointChange": 198,
+ "position": 100,
+ "rankingPositionChange": -2,
+ "gloryPoint": 93417,
+ "gloryPointChange": 5,
  "soldierRankID": 14,
  "characterName": "Firuzem",
  "guildName": "G U A R D S",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 93412,
    "gloryPointChange": 198,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 100,
+   "rankingPositionChange": -2,
+   "gloryPoint": 93417,
+   "gloryPointChange": 5,
    "soldierRankID": 14
   }
  ],

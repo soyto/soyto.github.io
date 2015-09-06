@@ -2,9 +2,9 @@
  "characterID": 879574,
  "characterClassID": 14,
  "raceID": 1,
- "position": 540,
- "rankingPositionChange": 2,
- "gloryPoint": 8233,
+ "position": 544,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8219,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hellbreed",
@@ -190,6 +190,14 @@
    "position": 540,
    "rankingPositionChange": 2,
    "gloryPoint": 8233,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 544,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8219,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

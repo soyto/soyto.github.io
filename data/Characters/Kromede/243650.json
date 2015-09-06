@@ -2,9 +2,9 @@
  "characterID": 243650,
  "characterClassID": 1,
  "raceID": 1,
- "position": 919,
- "rankingPositionChange": 1,
- "gloryPoint": 3336,
+ "position": 921,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3329,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "ProloVT",
@@ -256,6 +256,14 @@
    "position": 919,
    "rankingPositionChange": 1,
    "gloryPoint": 3336,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3329,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

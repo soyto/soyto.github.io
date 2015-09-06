@@ -2,10 +2,10 @@
  "characterID": 1201061,
  "characterClassID": 8,
  "raceID": 1,
- "position": 204,
- "rankingPositionChange": 4,
- "gloryPoint": 70445,
- "gloryPointChange": 523,
+ "position": 205,
+ "rankingPositionChange": -1,
+ "gloryPoint": 70396,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Naliria",
  "guildName": "Old Dirty Basterdz",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 70445,
    "gloryPointChange": 523,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 205,
+   "rankingPositionChange": -1,
+   "gloryPoint": 70396,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 430794,
  "characterClassID": 10,
  "raceID": 1,
- "position": 971,
- "rankingPositionChange": 0,
- "gloryPoint": 2977,
+ "position": 975,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2970,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mentor",
@@ -64,6 +64,14 @@
    "position": 971,
    "rankingPositionChange": 0,
    "gloryPoint": 2977,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2970,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 934984,
  "characterClassID": 2,
  "raceID": 1,
- "position": 565,
- "rankingPositionChange": 1,
- "gloryPoint": 2658,
+ "position": 568,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2644,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sakwanakielbase",
@@ -272,6 +272,14 @@
    "position": 565,
    "rankingPositionChange": 1,
    "gloryPoint": 2658,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 568,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2644,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

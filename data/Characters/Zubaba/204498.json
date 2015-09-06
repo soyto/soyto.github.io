@@ -2,10 +2,10 @@
  "characterID": 204498,
  "characterClassID": 1,
  "raceID": 1,
- "position": 59,
- "rankingPositionChange": 0,
- "gloryPoint": 127341,
- "gloryPointChange": 588,
+ "position": 60,
+ "rankingPositionChange": -1,
+ "gloryPoint": 127234,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Dreamwalk",
  "guildName": "Bosphorus",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 127341,
    "gloryPointChange": 588,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 60,
+   "rankingPositionChange": -1,
+   "gloryPoint": 127234,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

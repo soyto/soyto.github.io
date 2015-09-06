@@ -2,10 +2,10 @@
  "characterID": 7740,
  "characterClassID": 7,
  "raceID": 1,
- "position": 868,
- "rankingPositionChange": 7,
- "gloryPoint": 2174,
- "gloryPointChange": 93,
+ "position": 869,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2167,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kire",
  "guildName": "Asmodae Society",
@@ -97,6 +97,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 2174,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 869,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2167,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

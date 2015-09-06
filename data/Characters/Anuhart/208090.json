@@ -2,9 +2,9 @@
  "characterID": 208090,
  "characterClassID": 4,
  "raceID": 0,
- "position": 103,
- "rankingPositionChange": -1,
- "gloryPoint": 89292,
+ "position": 102,
+ "rankingPositionChange": 1,
+ "gloryPoint": 89243,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Xcam",
@@ -270,6 +270,14 @@
    "position": 103,
    "rankingPositionChange": -1,
    "gloryPoint": 89292,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 102,
+   "rankingPositionChange": 1,
+   "gloryPoint": 89243,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

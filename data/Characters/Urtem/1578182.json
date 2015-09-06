@@ -2,10 +2,10 @@
  "characterID": 1578182,
  "characterClassID": 16,
  "raceID": 1,
- "position": 483,
- "rankingPositionChange": 0,
- "gloryPoint": 19087,
- "gloryPointChange": -19,
+ "position": 484,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19062,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Hokutomada",
  "guildName": "The Brotherhood Of The PVP",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 19087,
    "gloryPointChange": -19,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 484,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19062,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

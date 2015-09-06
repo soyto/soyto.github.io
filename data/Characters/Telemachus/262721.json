@@ -2,9 +2,9 @@
  "characterID": 262721,
  "characterClassID": 10,
  "raceID": 1,
- "position": 593,
- "rankingPositionChange": 4,
- "gloryPoint": 2255,
+ "position": 596,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2241,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Helkarakse",
@@ -272,6 +272,14 @@
    "position": 593,
    "rankingPositionChange": 4,
    "gloryPoint": 2255,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2241,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

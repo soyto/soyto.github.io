@@ -2,10 +2,10 @@
  "characterID": 215797,
  "characterClassID": 2,
  "raceID": 1,
- "position": 83,
- "rankingPositionChange": 1,
- "gloryPoint": 88636,
- "gloryPointChange": -104,
+ "position": 84,
+ "rankingPositionChange": -1,
+ "gloryPoint": 88635,
+ "gloryPointChange": -1,
  "soldierRankID": 14,
  "characterName": "Colossus",
  "guildName": "  TOP  ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 88636,
    "gloryPointChange": -104,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 84,
+   "rankingPositionChange": -1,
+   "gloryPoint": 88635,
+   "gloryPointChange": -1,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 279120,
  "characterClassID": 16,
  "raceID": 0,
- "position": 849,
- "rankingPositionChange": 2,
- "gloryPoint": 4432,
- "gloryPointChange": 13,
+ "position": 851,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4488,
+ "gloryPointChange": 56,
  "soldierRankID": 10,
  "characterName": "Seksenbes",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 4432,
    "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4488,
+   "gloryPointChange": 56,
    "soldierRankID": 10
   }
  ],

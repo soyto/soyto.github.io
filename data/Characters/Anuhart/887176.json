@@ -2,9 +2,9 @@
  "characterID": 887176,
  "characterClassID": 14,
  "raceID": 1,
- "position": 524,
- "rankingPositionChange": 2,
- "gloryPoint": 8923,
+ "position": 526,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8909,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Chaosik",
@@ -182,6 +182,14 @@
    "position": 524,
    "rankingPositionChange": 2,
    "gloryPoint": 8923,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 526,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8909,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

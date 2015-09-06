@@ -2,9 +2,9 @@
  "characterID": 888641,
  "characterClassID": 14,
  "raceID": 0,
- "position": 112,
- "rankingPositionChange": 0,
- "gloryPoint": 81092,
+ "position": 111,
+ "rankingPositionChange": 1,
+ "gloryPoint": 81043,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Athrez",
@@ -272,6 +272,14 @@
    "position": 112,
    "rankingPositionChange": 0,
    "gloryPoint": 81092,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 111,
+   "rankingPositionChange": 1,
+   "gloryPoint": 81043,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

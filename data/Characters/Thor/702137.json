@@ -2,10 +2,10 @@
  "characterID": 702137,
  "characterClassID": 7,
  "raceID": 1,
- "position": 101,
- "rankingPositionChange": 0,
- "gloryPoint": 136039,
- "gloryPointChange": -701,
+ "position": 102,
+ "rankingPositionChange": -1,
+ "gloryPoint": 136366,
+ "gloryPointChange": 327,
  "soldierRankID": 13,
  "characterName": "Nathandieweise",
  "guildName": "Phoenix aus der Asche",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 136039,
    "gloryPointChange": -701,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 102,
+   "rankingPositionChange": -1,
+   "gloryPoint": 136366,
+   "gloryPointChange": 327,
    "soldierRankID": 13
   }
  ],

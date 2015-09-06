@@ -2,9 +2,9 @@
  "characterID": 1449304,
  "characterClassID": 13,
  "raceID": 1,
- "position": 806,
- "rankingPositionChange": 0,
- "gloryPoint": 15002,
+ "position": 812,
+ "rankingPositionChange": -6,
+ "gloryPoint": 14995,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Linsensuppe",
@@ -270,6 +270,14 @@
    "position": 806,
    "rankingPositionChange": 0,
    "gloryPoint": 15002,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": -6,
+   "gloryPoint": 14995,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

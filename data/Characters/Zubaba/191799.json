@@ -2,9 +2,9 @@
  "characterID": 191799,
  "characterClassID": 16,
  "raceID": 1,
- "position": 723,
- "rankingPositionChange": 2,
- "gloryPoint": 3440,
+ "position": 725,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3433,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Harmoli",
@@ -272,6 +272,14 @@
    "position": 723,
    "rankingPositionChange": 2,
    "gloryPoint": 3440,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 725,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3433,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

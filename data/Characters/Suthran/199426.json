@@ -2,10 +2,10 @@
  "characterID": 199426,
  "characterClassID": 5,
  "raceID": 1,
- "position": 593,
- "rankingPositionChange": 1,
- "gloryPoint": 12124,
- "gloryPointChange": -14,
+ "position": 595,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12170,
+ "gloryPointChange": 46,
  "soldierRankID": 11,
  "characterName": "Ayolit",
  "guildName": "Fallen",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12124,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12170,
+   "gloryPointChange": 46,
    "soldierRankID": 11
   }
  ],

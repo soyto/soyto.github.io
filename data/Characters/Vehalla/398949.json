@@ -2,9 +2,9 @@
  "characterID": 398949,
  "characterClassID": 10,
  "raceID": 0,
- "position": 568,
- "rankingPositionChange": 1,
- "gloryPoint": 2103,
+ "position": 569,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2089,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Guest",
@@ -216,6 +216,14 @@
    "position": 568,
    "rankingPositionChange": 1,
    "gloryPoint": 2103,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 569,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2089,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

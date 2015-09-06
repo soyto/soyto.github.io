@@ -2,9 +2,9 @@
  "characterID": 273031,
  "characterClassID": 13,
  "raceID": 1,
- "position": 667,
- "rankingPositionChange": 1,
- "gloryPoint": 4332,
+ "position": 671,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4318,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Fiqo",
@@ -270,6 +270,14 @@
    "position": 667,
    "rankingPositionChange": 1,
    "gloryPoint": 4332,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4318,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

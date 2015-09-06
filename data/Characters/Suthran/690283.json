@@ -2,9 +2,9 @@
  "characterID": 690283,
  "characterClassID": 2,
  "raceID": 1,
- "position": 541,
- "rankingPositionChange": 0,
- "gloryPoint": 13959,
+ "position": 543,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13945,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Darkyx",
@@ -264,6 +264,14 @@
    "position": 541,
    "rankingPositionChange": 0,
    "gloryPoint": 13959,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 543,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13945,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

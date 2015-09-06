@@ -2,9 +2,9 @@
  "characterID": 969412,
  "characterClassID": 4,
  "raceID": 1,
- "position": 559,
- "rankingPositionChange": 0,
- "gloryPoint": 6710,
+ "position": 561,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6696,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Schvaltz",
@@ -54,6 +54,14 @@
    "position": 559,
    "rankingPositionChange": 0,
    "gloryPoint": 6710,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 561,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6696,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

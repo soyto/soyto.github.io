@@ -2,10 +2,10 @@
  "characterID": 289370,
  "characterClassID": 10,
  "raceID": 0,
- "position": 496,
- "rankingPositionChange": 36,
- "gloryPoint": 2816,
- "gloryPointChange": 440,
+ "position": 498,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2794,
+ "gloryPointChange": -22,
  "soldierRankID": 12,
  "characterName": "Portgas",
  "guildName": "Tenshi no Tsuki",
@@ -41,6 +41,14 @@
    "rankingPositionChange": 36,
    "gloryPoint": 2816,
    "gloryPointChange": 440,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 498,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2794,
+   "gloryPointChange": -22,
    "soldierRankID": 12
   }
  ],

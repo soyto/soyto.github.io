@@ -2,10 +2,10 @@
  "characterID": 527465,
  "characterClassID": 11,
  "raceID": 0,
- "position": 437,
- "rankingPositionChange": 6,
- "gloryPoint": 41233,
- "gloryPointChange": 247,
+ "position": 439,
+ "rankingPositionChange": -2,
+ "gloryPoint": 41205,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Harleylady",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 41233,
    "gloryPointChange": 247,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 439,
+   "rankingPositionChange": -2,
+   "gloryPoint": 41205,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

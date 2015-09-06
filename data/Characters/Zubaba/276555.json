@@ -2,10 +2,10 @@
  "characterID": 276555,
  "characterClassID": 14,
  "raceID": 1,
- "position": 338,
- "rankingPositionChange": 1,
- "gloryPoint": 20886,
- "gloryPointChange": 103,
+ "position": 339,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20868,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Nelzac",
  "guildName": "Smile",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20886,
    "gloryPointChange": 103,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 339,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20868,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

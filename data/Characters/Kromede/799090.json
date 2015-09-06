@@ -3,11 +3,11 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 152,
- "rankingPositionChange": 1,
- "gloryPoint": 57554,
- "gloryPointChange": 102,
+ "rankingPositionChange": 0,
+ "gloryPoint": 57505,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
- "characterName": "Siqq",
+ "characterName": "Sayyes",
  "guildName": "Covenant",
  "guildID": 13120,
  "status": [
@@ -274,12 +274,24 @@
    "gloryPoint": 57554,
    "gloryPointChange": 102,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 152,
+   "rankingPositionChange": 0,
+   "gloryPoint": 57505,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Siqq"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Sayyes"
   }
  ],
  "guilds": [

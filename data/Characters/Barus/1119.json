@@ -2,9 +2,9 @@
  "characterID": 1119,
  "characterClassID": 4,
  "raceID": 1,
- "position": 601,
- "rankingPositionChange": 0,
- "gloryPoint": 21977,
+ "position": 603,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21963,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Michiyo",
@@ -270,6 +270,14 @@
    "position": 601,
    "rankingPositionChange": 0,
    "gloryPoint": 21977,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 603,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21963,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

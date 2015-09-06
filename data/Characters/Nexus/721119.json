@@ -2,9 +2,9 @@
  "characterID": 721119,
  "characterClassID": 2,
  "raceID": 1,
- "position": 261,
- "rankingPositionChange": 0,
- "gloryPoint": 65946,
+ "position": 262,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65897,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lomoguard",
@@ -272,6 +272,14 @@
    "position": 261,
    "rankingPositionChange": 0,
    "gloryPoint": 65946,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 262,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65897,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

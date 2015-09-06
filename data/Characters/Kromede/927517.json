@@ -2,9 +2,9 @@
  "characterID": 927517,
  "characterClassID": 4,
  "raceID": 1,
- "position": 694,
- "rankingPositionChange": 1,
- "gloryPoint": 5767,
+ "position": 695,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5753,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Luspy",
@@ -272,6 +272,14 @@
    "position": 694,
    "rankingPositionChange": 1,
    "gloryPoint": 5767,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 695,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5753,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 826800,
  "characterClassID": 8,
  "raceID": 1,
- "position": 618,
- "rankingPositionChange": 1,
- "gloryPoint": 20324,
- "gloryPointChange": 86,
+ "position": 624,
+ "rankingPositionChange": -6,
+ "gloryPoint": 20310,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nectro",
  "guildName": "Bones",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20324,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 624,
+   "rankingPositionChange": -6,
+   "gloryPoint": 20310,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

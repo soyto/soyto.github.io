@@ -2,10 +2,10 @@
  "characterID": 199377,
  "characterClassID": 4,
  "raceID": 1,
- "position": 245,
- "rankingPositionChange": 1,
- "gloryPoint": 31973,
- "gloryPointChange": 1,
+ "position": 249,
+ "rankingPositionChange": -4,
+ "gloryPoint": 31924,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Raiijin",
  "guildName": "Dei Ex Mortis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 31973,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 249,
+   "rankingPositionChange": -4,
+   "gloryPoint": 31924,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

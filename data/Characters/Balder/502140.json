@@ -2,9 +2,9 @@
  "characterID": 502140,
  "characterClassID": 11,
  "raceID": 1,
- "position": 448,
- "rankingPositionChange": 2,
- "gloryPoint": 2862,
+ "position": 451,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2834,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Limay",
@@ -272,6 +272,14 @@
    "position": 448,
    "rankingPositionChange": 2,
    "gloryPoint": 2862,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 451,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2834,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 1239237,
  "characterClassID": 11,
  "raceID": 0,
- "position": 714,
- "rankingPositionChange": -4,
- "gloryPoint": 13926,
+ "position": 713,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13919,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shnizer",
@@ -272,6 +272,14 @@
    "position": 714,
    "rankingPositionChange": -4,
    "gloryPoint": 13926,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 713,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13919,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

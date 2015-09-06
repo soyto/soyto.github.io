@@ -2,10 +2,10 @@
  "characterID": 509901,
  "characterClassID": 4,
  "raceID": 1,
- "position": 145,
- "rankingPositionChange": 1,
- "gloryPoint": 46656,
- "gloryPointChange": 245,
+ "position": 146,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47047,
+ "gloryPointChange": 391,
  "soldierRankID": 13,
  "characterName": "Cestia",
  "guildName": "BandOfBrothers",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 46656,
    "gloryPointChange": 245,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47047,
+   "gloryPointChange": 391,
    "soldierRankID": 13
   }
  ],

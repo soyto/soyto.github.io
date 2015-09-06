@@ -2,10 +2,10 @@
  "characterID": 73504,
  "characterClassID": 10,
  "raceID": 0,
- "position": 404,
- "rankingPositionChange": 0,
- "gloryPoint": 20481,
- "gloryPointChange": 0,
+ "position": 415,
+ "rankingPositionChange": -11,
+ "gloryPoint": 19949,
+ "gloryPointChange": -532,
  "soldierRankID": 12,
  "characterName": "Vlademiir",
  "status": [
@@ -135,6 +135,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 20481,
    "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 415,
+   "rankingPositionChange": -11,
+   "gloryPoint": 19949,
+   "gloryPointChange": -532,
    "soldierRankID": 12
   }
  ],

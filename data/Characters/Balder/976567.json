@@ -2,10 +2,10 @@
  "characterID": 976567,
  "characterClassID": 14,
  "raceID": 0,
- "position": 452,
- "rankingPositionChange": 0,
- "gloryPoint": 9263,
- "gloryPointChange": 282,
+ "position": 449,
+ "rankingPositionChange": 3,
+ "gloryPoint": 9255,
+ "gloryPointChange": -8,
  "soldierRankID": 12,
  "characterName": "Shinonome",
  "guildName": "Oops I crit it again",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 9263,
    "gloryPointChange": 282,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 449,
+   "rankingPositionChange": 3,
+   "gloryPoint": 9255,
+   "gloryPointChange": -8,
    "soldierRankID": 12
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 34073,
  "characterClassID": 1,
  "raceID": 0,
- "position": 290,
- "rankingPositionChange": 1,
- "gloryPoint": 57816,
+ "position": 291,
+ "rankingPositionChange": -1,
+ "gloryPoint": 57767,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Bigjam",
@@ -264,6 +264,14 @@
    "position": 290,
    "rankingPositionChange": 1,
    "gloryPoint": 57816,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 291,
+   "rankingPositionChange": -1,
+   "gloryPoint": 57767,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

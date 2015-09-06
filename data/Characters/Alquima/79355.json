@@ -2,9 +2,9 @@
  "characterID": 79355,
  "characterClassID": 14,
  "raceID": 1,
- "position": 782,
- "rankingPositionChange": 0,
- "gloryPoint": 8944,
+ "position": 787,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8937,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chaval",
@@ -264,6 +264,14 @@
    "position": 782,
    "rankingPositionChange": 0,
    "gloryPoint": 8944,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 787,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8937,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

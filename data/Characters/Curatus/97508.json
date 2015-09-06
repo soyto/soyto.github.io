@@ -2,10 +2,10 @@
  "characterID": 97508,
  "characterClassID": 10,
  "raceID": 1,
- "position": 218,
- "rankingPositionChange": 1,
- "gloryPoint": 35143,
- "gloryPointChange": 101,
+ "position": 219,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35397,
+ "gloryPointChange": 254,
  "soldierRankID": 13,
  "characterName": "Victrix",
  "guildName": "DarkWish",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 35143,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 219,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35397,
+   "gloryPointChange": 254,
    "soldierRankID": 13
   }
  ],

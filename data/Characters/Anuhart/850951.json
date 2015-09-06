@@ -2,9 +2,9 @@
  "characterID": 850951,
  "characterClassID": 14,
  "raceID": 1,
- "position": 888,
- "rankingPositionChange": 5,
- "gloryPoint": 2132,
+ "position": 894,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2125,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Galorea",
@@ -272,6 +272,14 @@
    "position": 888,
    "rankingPositionChange": 5,
    "gloryPoint": 2132,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 894,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2125,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

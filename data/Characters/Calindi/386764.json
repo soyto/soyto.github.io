@@ -2,14 +2,14 @@
  "characterID": 386764,
  "characterClassID": 14,
  "raceID": 0,
- "position": 653,
- "rankingPositionChange": 0,
- "gloryPoint": 2723,
+ "position": 657,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2709,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Aschtek",
- "guildName": "Savage Spirit",
- "guildID": 13827,
+ "guildName": "Fantasia",
+ "guildID": 1197,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 2723,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 657,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2709,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Fantasia",
+   "guildID": 1197
   }
  ]
 }

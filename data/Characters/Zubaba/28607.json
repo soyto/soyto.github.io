@@ -2,9 +2,9 @@
  "characterID": 28607,
  "characterClassID": 14,
  "raceID": 0,
- "position": 219,
- "rankingPositionChange": 0,
- "gloryPoint": 51852,
+ "position": 220,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51803,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Massacreking",
@@ -248,6 +248,14 @@
    "position": 219,
    "rankingPositionChange": 0,
    "gloryPoint": 51852,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51803,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 55982,
  "characterClassID": 5,
  "raceID": 0,
- "position": 168,
- "rankingPositionChange": -1,
- "gloryPoint": 58459,
- "gloryPointChange": -49,
+ "position": 167,
+ "rankingPositionChange": 1,
+ "gloryPoint": 58746,
+ "gloryPointChange": 287,
  "soldierRankID": 13,
  "characterName": "Yuck",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 58459,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 167,
+   "rankingPositionChange": 1,
+   "gloryPoint": 58746,
+   "gloryPointChange": 287,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 14159,
  "characterClassID": 1,
  "raceID": 0,
- "position": 630,
- "rankingPositionChange": 1,
- "gloryPoint": 11624,
+ "position": 632,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11610,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Wollverine",
@@ -270,6 +270,14 @@
    "position": 630,
    "rankingPositionChange": 1,
    "gloryPoint": 11624,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 632,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11610,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

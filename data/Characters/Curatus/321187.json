@@ -2,10 +2,10 @@
  "characterID": 321187,
  "characterClassID": 8,
  "raceID": 1,
- "position": 429,
- "rankingPositionChange": 0,
- "gloryPoint": 15168,
- "gloryPointChange": 110,
+ "position": 431,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15140,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Yosukehunter",
  "guildName": "Fallen soulS",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 15168,
    "gloryPointChange": 110,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 431,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15140,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

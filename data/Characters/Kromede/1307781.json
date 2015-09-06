@@ -2,9 +2,9 @@
  "characterID": 1307781,
  "characterClassID": 4,
  "raceID": 1,
- "position": 989,
- "rankingPositionChange": 1,
- "gloryPoint": 2901,
+ "position": 993,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2894,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lordbremsspur",
@@ -80,6 +80,14 @@
    "position": 989,
    "rankingPositionChange": 1,
    "gloryPoint": 2901,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2894,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

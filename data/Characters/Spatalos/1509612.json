@@ -2,10 +2,10 @@
  "characterID": 1509612,
  "characterClassID": 14,
  "raceID": 1,
- "position": 615,
- "rankingPositionChange": 0,
- "gloryPoint": 5694,
- "gloryPointChange": 59,
+ "position": 617,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5700,
+ "gloryPointChange": 6,
  "soldierRankID": 11,
  "characterName": "Goldain",
  "guildName": "Berserkers",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5694,
    "gloryPointChange": 59,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 617,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5700,
+   "gloryPointChange": 6,
    "soldierRankID": 11
   }
  ],

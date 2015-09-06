@@ -2,10 +2,10 @@
  "characterID": 1034561,
  "characterClassID": 10,
  "raceID": 0,
- "position": 366,
- "rankingPositionChange": -1,
- "gloryPoint": 32124,
- "gloryPointChange": 161,
+ "position": 365,
+ "rankingPositionChange": 1,
+ "gloryPoint": 32117,
+ "gloryPointChange": -7,
  "soldierRankID": 12,
  "characterName": "Eannie",
  "guildName": "Czech Legend",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 32124,
    "gloryPointChange": 161,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 365,
+   "rankingPositionChange": 1,
+   "gloryPoint": 32117,
+   "gloryPointChange": -7,
    "soldierRankID": 12
   }
  ],

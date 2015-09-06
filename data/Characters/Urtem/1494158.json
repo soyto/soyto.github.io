@@ -2,9 +2,9 @@
  "characterID": 1494158,
  "characterClassID": 11,
  "raceID": 1,
- "position": 661,
- "rankingPositionChange": 0,
- "gloryPoint": 12598,
+ "position": 663,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12584,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Stickofglue",
@@ -208,6 +208,14 @@
    "position": 661,
    "rankingPositionChange": 0,
    "gloryPoint": 12598,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 663,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12584,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

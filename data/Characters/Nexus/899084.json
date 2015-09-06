@@ -2,9 +2,9 @@
  "characterID": 899084,
  "characterClassID": 1,
  "raceID": 0,
- "position": 964,
- "rankingPositionChange": 4,
- "gloryPoint": 4721,
+ "position": 967,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4714,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Toonie",
@@ -262,6 +262,14 @@
    "position": 964,
    "rankingPositionChange": 4,
    "gloryPoint": 4721,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4714,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

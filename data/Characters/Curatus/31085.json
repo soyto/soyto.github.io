@@ -2,9 +2,9 @@
  "characterID": 31085,
  "characterClassID": 14,
  "raceID": 1,
- "position": 665,
- "rankingPositionChange": 1,
- "gloryPoint": 7472,
+ "position": 668,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7458,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ghiro",
@@ -232,6 +232,14 @@
    "position": 665,
    "rankingPositionChange": 1,
    "gloryPoint": 7472,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 668,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7458,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

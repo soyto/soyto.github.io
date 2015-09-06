@@ -2,9 +2,9 @@
  "characterID": 549522,
  "characterClassID": 11,
  "raceID": 0,
- "position": 520,
- "rankingPositionChange": 3,
- "gloryPoint": 5296,
+ "position": 523,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5282,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Khaizer",
@@ -272,6 +272,14 @@
    "position": 520,
    "rankingPositionChange": 3,
    "gloryPoint": 5296,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5282,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 1093911,
  "characterClassID": 14,
  "raceID": 1,
- "position": 206,
- "rankingPositionChange": 0,
- "gloryPoint": 25363,
+ "position": 207,
+ "rankingPositionChange": -1,
+ "gloryPoint": 25314,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Corthana",
@@ -272,6 +272,14 @@
    "position": 206,
    "rankingPositionChange": 0,
    "gloryPoint": 25363,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 207,
+   "rankingPositionChange": -1,
+   "gloryPoint": 25314,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

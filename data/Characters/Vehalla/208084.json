@@ -2,9 +2,9 @@
  "characterID": 208084,
  "characterClassID": 5,
  "raceID": 0,
- "position": 231,
- "rankingPositionChange": 2,
- "gloryPoint": 18524,
+ "position": 232,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18475,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Myrila",
@@ -264,6 +264,14 @@
    "position": 231,
    "rankingPositionChange": 2,
    "gloryPoint": 18524,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 232,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18475,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

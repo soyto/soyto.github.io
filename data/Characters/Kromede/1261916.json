@@ -2,9 +2,9 @@
  "characterID": 1261916,
  "characterClassID": 1,
  "raceID": 1,
- "position": 714,
- "rankingPositionChange": 2,
- "gloryPoint": 5397,
+ "position": 715,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5390,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Submatik",
@@ -272,6 +272,14 @@
    "position": 714,
    "rankingPositionChange": 2,
    "gloryPoint": 5397,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 715,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5390,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

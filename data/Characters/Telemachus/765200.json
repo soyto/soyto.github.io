@@ -2,9 +2,9 @@
  "characterID": 765200,
  "characterClassID": 10,
  "raceID": 0,
- "position": 59,
- "rankingPositionChange": 0,
- "gloryPoint": 202303,
+ "position": 60,
+ "rankingPositionChange": -1,
+ "gloryPoint": 202196,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Dolcelady",
@@ -272,6 +272,14 @@
    "position": 59,
    "rankingPositionChange": 0,
    "gloryPoint": 202303,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 60,
+   "rankingPositionChange": -1,
+   "gloryPoint": 202196,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

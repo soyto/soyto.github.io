@@ -2,9 +2,9 @@
  "characterID": 6545,
  "characterClassID": 5,
  "raceID": 0,
- "position": 734,
- "rankingPositionChange": 0,
- "gloryPoint": 6901,
+ "position": 738,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6894,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Excision",
@@ -272,6 +272,14 @@
    "position": 734,
    "rankingPositionChange": 0,
    "gloryPoint": 6901,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 738,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6894,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 974761,
  "characterClassID": 10,
  "raceID": 1,
- "position": 464,
- "rankingPositionChange": 0,
- "gloryPoint": 2531,
+ "position": 467,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2503,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Boticelli",
@@ -270,6 +270,14 @@
    "position": 464,
    "rankingPositionChange": 0,
    "gloryPoint": 2531,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 467,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2503,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

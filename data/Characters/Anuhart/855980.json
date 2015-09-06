@@ -2,9 +2,9 @@
  "characterID": 855980,
  "characterClassID": 16,
  "raceID": 1,
- "position": 861,
- "rankingPositionChange": 4,
- "gloryPoint": 2325,
+ "position": 867,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2318,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Smetanka",
@@ -272,6 +272,14 @@
    "position": 861,
    "rankingPositionChange": 4,
    "gloryPoint": 2325,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 867,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2318,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }
