@@ -2,9 +2,9 @@
  "characterID": 565551,
  "characterClassID": 16,
  "raceID": 0,
- "position": 434,
- "rankingPositionChange": -1,
- "gloryPoint": 7925,
+ "position": 433,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7897,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kaizuuki",
@@ -272,6 +272,14 @@
    "position": 434,
    "rankingPositionChange": -1,
    "gloryPoint": 7925,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 433,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7897,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

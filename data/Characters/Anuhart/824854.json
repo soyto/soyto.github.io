@@ -2,10 +2,10 @@
  "characterID": 824854,
  "characterClassID": 4,
  "raceID": 1,
- "position": 824,
- "rankingPositionChange": 5,
- "gloryPoint": 2714,
- "gloryPointChange": 6,
+ "position": 828,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2707,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Morrint",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 2714,
    "gloryPointChange": 6,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 828,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2707,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

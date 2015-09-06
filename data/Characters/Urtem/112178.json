@@ -2,10 +2,10 @@
  "characterID": 112178,
  "characterClassID": 10,
  "raceID": 1,
- "position": 266,
- "rankingPositionChange": -1,
- "gloryPoint": 41448,
- "gloryPointChange": 1,
+ "position": 265,
+ "rankingPositionChange": 1,
+ "gloryPoint": 41399,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hatan",
  "guildName": "Insert Name Here",
@@ -265,6 +265,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 41448,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 265,
+   "rankingPositionChange": 1,
+   "gloryPoint": 41399,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

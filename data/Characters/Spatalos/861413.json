@@ -2,10 +2,10 @@
  "characterID": 861413,
  "characterClassID": 11,
  "raceID": 1,
- "position": 180,
- "rankingPositionChange": 0,
- "gloryPoint": 36135,
- "gloryPointChange": 291,
+ "position": 183,
+ "rankingPositionChange": -3,
+ "gloryPoint": 36086,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lamess",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 36135,
    "gloryPointChange": 291,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 183,
+   "rankingPositionChange": -3,
+   "gloryPoint": 36086,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

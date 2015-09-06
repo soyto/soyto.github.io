@@ -3,13 +3,13 @@
  "characterClassID": 8,
  "raceID": 0,
  "position": 711,
- "rankingPositionChange": 19,
- "gloryPoint": 7371,
- "gloryPointChange": 393,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7614,
+ "gloryPointChange": 243,
  "soldierRankID": 10,
  "characterName": "Nostress",
- "guildName": "GameMasters",
- "guildID": 4577,
+ "guildName": "Be Happy",
+ "guildID": 6871,
  "status": [
   {
    "date": "2015-08-06T22:00:00.000Z",
@@ -226,6 +226,14 @@
    "gloryPoint": 7371,
    "gloryPointChange": 393,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7614,
+   "gloryPointChange": 243,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -257,6 +265,11 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "GameMasters",
    "guildID": 4577
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Be Happy",
+   "guildID": 6871
   }
  ]
 }

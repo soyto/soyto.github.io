@@ -2,10 +2,10 @@
  "characterID": 1124917,
  "characterClassID": 2,
  "raceID": 0,
- "position": 849,
+ "position": 848,
  "rankingPositionChange": 1,
- "gloryPoint": 11366,
- "gloryPointChange": 93,
+ "gloryPoint": 11359,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ferrox",
  "guildName": "Famous",
@@ -161,6 +161,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 11366,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 848,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11359,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,11 +2,11 @@
  "characterID": 572288,
  "characterClassID": 10,
  "raceID": 0,
- "position": 1000,
- "rankingPositionChange": -4,
+ "position": 995,
+ "rankingPositionChange": 5,
  "gloryPoint": 4750,
- "gloryPointChange": 242,
- "soldierRankID": 0,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
  "characterName": "Sibila",
  "guildName": "bombastic",
  "guildID": 29482,
@@ -74,6 +74,14 @@
    "gloryPoint": 4750,
    "gloryPointChange": 242,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": 5,
+   "gloryPoint": 4750,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
   }
  ],
  "names": [

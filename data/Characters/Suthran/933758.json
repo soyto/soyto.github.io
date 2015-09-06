@@ -2,10 +2,10 @@
  "characterID": 933758,
  "characterClassID": 1,
  "raceID": 0,
- "position": 240,
- "rankingPositionChange": 1,
- "gloryPoint": 65594,
- "gloryPointChange": 25,
+ "position": 241,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65545,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aragniel",
  "guildName": "Touktouk",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 65594,
    "gloryPointChange": 25,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 241,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65545,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

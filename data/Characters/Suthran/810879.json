@@ -2,9 +2,9 @@
  "characterID": 810879,
  "characterClassID": 10,
  "raceID": 1,
- "position": 571,
- "rankingPositionChange": 1,
- "gloryPoint": 12921,
+ "position": 572,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12907,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Clairasia",
@@ -256,6 +256,14 @@
    "position": 571,
    "rankingPositionChange": 1,
    "gloryPoint": 12921,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12907,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

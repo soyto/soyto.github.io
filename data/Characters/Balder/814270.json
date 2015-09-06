@@ -2,9 +2,9 @@
  "characterID": 814270,
  "characterClassID": 14,
  "raceID": 1,
- "position": 637,
- "rankingPositionChange": 1,
- "gloryPoint": 1309,
+ "position": 638,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1302,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Revolverheldin",
@@ -32,6 +32,14 @@
    "position": 637,
    "rankingPositionChange": 1,
    "gloryPoint": 1309,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 638,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1302,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

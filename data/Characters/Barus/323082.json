@@ -2,10 +2,10 @@
  "characterID": 323082,
  "characterClassID": 7,
  "raceID": 0,
- "position": 762,
- "rankingPositionChange": 5,
- "gloryPoint": 17396,
- "gloryPointChange": 214,
+ "position": 761,
+ "rankingPositionChange": 1,
+ "gloryPoint": 17392,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Decanon",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 17396,
    "gloryPointChange": 214,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 761,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17392,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 124217,
  "characterClassID": 16,
  "raceID": 0,
- "position": 745,
- "rankingPositionChange": 1,
- "gloryPoint": 6645,
+ "position": 750,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6638,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bumblebe",
@@ -272,6 +272,14 @@
    "position": 745,
    "rankingPositionChange": 1,
    "gloryPoint": 6645,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 750,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6638,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

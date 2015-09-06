@@ -2,9 +2,9 @@
  "characterID": 1146882,
  "characterClassID": 11,
  "raceID": 1,
- "position": 784,
- "rankingPositionChange": 0,
- "gloryPoint": 3216,
+ "position": 788,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3209,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aoua",
@@ -272,6 +272,14 @@
    "position": 784,
    "rankingPositionChange": 0,
    "gloryPoint": 3216,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 788,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3209,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

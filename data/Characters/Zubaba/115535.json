@@ -2,9 +2,9 @@
  "characterID": 115535,
  "characterClassID": 11,
  "raceID": 0,
- "position": 213,
- "rankingPositionChange": 0,
- "gloryPoint": 53440,
+ "position": 214,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53391,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Swaiin",
@@ -262,6 +262,14 @@
    "position": 213,
    "rankingPositionChange": 0,
    "gloryPoint": 53440,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 214,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53391,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

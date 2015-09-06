@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 160,
- "rankingPositionChange": -1,
- "gloryPoint": 53660,
- "gloryPointChange": 1,
+ "rankingPositionChange": 0,
+ "gloryPoint": 53621,
+ "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Iriade",
  "guildName": "Dark Einhasad",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 53660,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 160,
+   "rankingPositionChange": 0,
+   "gloryPoint": 53621,
+   "gloryPointChange": -39,
    "soldierRankID": 13
   }
  ],

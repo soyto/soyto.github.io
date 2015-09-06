@@ -2,10 +2,10 @@
  "characterID": 781655,
  "characterClassID": 10,
  "raceID": 1,
- "position": 349,
- "rankingPositionChange": 0,
- "gloryPoint": 45117,
- "gloryPointChange": 132,
+ "position": 348,
+ "rankingPositionChange": 1,
+ "gloryPoint": 45367,
+ "gloryPointChange": 250,
  "soldierRankID": 12,
  "characterName": "Ahnara",
  "guildName": "Seek n Destroy",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 45117,
    "gloryPointChange": 132,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 348,
+   "rankingPositionChange": 1,
+   "gloryPoint": 45367,
+   "gloryPointChange": 250,
    "soldierRankID": 12
   }
  ],

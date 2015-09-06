@@ -2,9 +2,9 @@
  "characterID": 911228,
  "characterClassID": 8,
  "raceID": 0,
- "position": 82,
- "rankingPositionChange": 0,
- "gloryPoint": 164601,
+ "position": 84,
+ "rankingPositionChange": -2,
+ "gloryPoint": 164494,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Luckylady",
@@ -272,6 +272,14 @@
    "position": 82,
    "rankingPositionChange": 0,
    "gloryPoint": 164601,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 84,
+   "rankingPositionChange": -2,
+   "gloryPoint": 164494,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

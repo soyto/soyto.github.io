@@ -2,10 +2,10 @@
  "characterID": 1222325,
  "characterClassID": 4,
  "raceID": 1,
- "position": 230,
- "rankingPositionChange": 0,
- "gloryPoint": 47550,
- "gloryPointChange": 213,
+ "position": 229,
+ "rankingPositionChange": 1,
+ "gloryPoint": 47504,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Niiicotine",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 47550,
    "gloryPointChange": 213,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 229,
+   "rankingPositionChange": 1,
+   "gloryPoint": 47504,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1856,
  "characterClassID": 5,
  "raceID": 1,
- "position": 84,
- "rankingPositionChange": 0,
- "gloryPoint": 103244,
- "gloryPointChange": -57,
+ "position": 85,
+ "rankingPositionChange": -1,
+ "gloryPoint": 103137,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Cranium",
  "guildName": "Bosphorus",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 103244,
    "gloryPointChange": -57,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 85,
+   "rankingPositionChange": -1,
+   "gloryPoint": 103137,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

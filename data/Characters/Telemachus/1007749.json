@@ -2,10 +2,10 @@
  "characterID": 1007749,
  "characterClassID": 14,
  "raceID": 0,
- "position": 420,
- "rankingPositionChange": 7,
- "gloryPoint": 30532,
- "gloryPointChange": 1072,
+ "position": 422,
+ "rankingPositionChange": -2,
+ "gloryPoint": 30654,
+ "gloryPointChange": 122,
  "soldierRankID": 12,
  "characterName": "Nomatter",
  "guildName": "Fifth Dawn",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 30532,
    "gloryPointChange": 1072,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 422,
+   "rankingPositionChange": -2,
+   "gloryPoint": 30654,
+   "gloryPointChange": 122,
    "soldierRankID": 12
   }
  ],

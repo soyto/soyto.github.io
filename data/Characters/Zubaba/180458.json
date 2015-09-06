@@ -2,9 +2,9 @@
  "characterID": 180458,
  "characterClassID": 14,
  "raceID": 1,
- "position": 37,
- "rankingPositionChange": 0,
- "gloryPoint": 161599,
+ "position": 38,
+ "rankingPositionChange": -1,
+ "gloryPoint": 161492,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Whiteskin",
@@ -270,6 +270,14 @@
    "position": 37,
    "rankingPositionChange": 0,
    "gloryPoint": 161599,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 38,
+   "rankingPositionChange": -1,
+   "gloryPoint": 161492,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

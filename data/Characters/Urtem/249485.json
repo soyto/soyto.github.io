@@ -2,9 +2,9 @@
  "characterID": 249485,
  "characterClassID": 7,
  "raceID": 0,
- "position": 275,
- "rankingPositionChange": 0,
- "gloryPoint": 60867,
+ "position": 276,
+ "rankingPositionChange": -1,
+ "gloryPoint": 60818,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Agathea",
@@ -264,6 +264,14 @@
    "position": 275,
    "rankingPositionChange": 0,
    "gloryPoint": 60867,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 276,
+   "rankingPositionChange": -1,
+   "gloryPoint": 60818,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

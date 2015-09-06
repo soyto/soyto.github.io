@@ -2,9 +2,9 @@
  "characterID": 561223,
  "characterClassID": 10,
  "raceID": 0,
- "position": 741,
- "rankingPositionChange": 4,
- "gloryPoint": 15808,
+ "position": 742,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15801,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Celestte",
@@ -270,6 +270,14 @@
    "position": 741,
    "rankingPositionChange": 4,
    "gloryPoint": 15808,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15801,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

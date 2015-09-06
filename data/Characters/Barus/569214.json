@@ -3,8 +3,8 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 999,
- "rankingPositionChange": -2,
- "gloryPoint": 9175,
+ "rankingPositionChange": 0,
+ "gloryPoint": 9168,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Szyderca",
@@ -246,6 +246,14 @@
    "position": 999,
    "rankingPositionChange": -2,
    "gloryPoint": 9175,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9168,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

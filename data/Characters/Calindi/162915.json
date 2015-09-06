@@ -2,9 +2,9 @@
  "characterID": 162915,
  "characterClassID": 1,
  "raceID": 0,
- "position": 480,
- "rankingPositionChange": 1,
- "gloryPoint": 5846,
+ "position": 481,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5818,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Miramiss",
@@ -264,6 +264,14 @@
    "position": 480,
    "rankingPositionChange": 1,
    "gloryPoint": 5846,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 481,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5818,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

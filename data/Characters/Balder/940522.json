@@ -2,10 +2,10 @@
  "characterID": 940522,
  "characterClassID": 10,
  "raceID": 0,
- "position": 69,
- "rankingPositionChange": 0,
- "gloryPoint": 107899,
- "gloryPointChange": -16,
+ "position": 70,
+ "rankingPositionChange": -1,
+ "gloryPoint": 107792,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Queenbeell",
  "guildName": "Welcome to PvE",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 107899,
    "gloryPointChange": -16,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 70,
+   "rankingPositionChange": -1,
+   "gloryPoint": 107792,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

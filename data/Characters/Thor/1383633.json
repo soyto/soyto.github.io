@@ -2,10 +2,10 @@
  "characterID": 1383633,
  "characterClassID": 10,
  "raceID": 0,
- "position": 631,
- "rankingPositionChange": 0,
- "gloryPoint": 27976,
- "gloryPointChange": 96,
+ "position": 630,
+ "rankingPositionChange": 1,
+ "gloryPoint": 27962,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Elabella",
  "guildName": "asdf",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 27976,
    "gloryPointChange": 96,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 630,
+   "rankingPositionChange": 1,
+   "gloryPoint": 27962,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

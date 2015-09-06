@@ -2,12 +2,14 @@
  "characterID": 1115624,
  "characterClassID": 10,
  "raceID": 0,
- "position": 358,
- "rankingPositionChange": 0,
- "gloryPoint": 33515,
- "gloryPointChange": 90,
+ "position": 357,
+ "rankingPositionChange": 1,
+ "gloryPoint": 33587,
+ "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Faraaa",
+ "guildName": "Maximum Baddies",
+ "guildID": 29461,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 33515,
    "gloryPointChange": 90,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 357,
+   "rankingPositionChange": 1,
+   "gloryPoint": 33587,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -283,6 +293,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Maximum Baddies",
+   "guildID": 29461
   }
  ]
 }

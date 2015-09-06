@@ -2,10 +2,10 @@
  "characterID": 1084349,
  "characterClassID": 1,
  "raceID": 0,
- "position": 650,
- "rankingPositionChange": 0,
- "gloryPoint": 27237,
- "gloryPointChange": 120,
+ "position": 651,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27223,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Scrino",
  "guildName": "Licht der Nacht",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 27237,
    "gloryPointChange": 120,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 651,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27223,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

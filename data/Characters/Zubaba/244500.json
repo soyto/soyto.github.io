@@ -2,10 +2,10 @@
  "characterID": 244500,
  "characterClassID": 8,
  "raceID": 1,
- "position": 743,
- "rankingPositionChange": 1,
- "gloryPoint": 3282,
- "gloryPointChange": -7,
+ "position": 744,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3317,
+ "gloryPointChange": 35,
  "soldierRankID": 10,
  "characterName": "Arachad",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 3282,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 744,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3317,
+   "gloryPointChange": 35,
    "soldierRankID": 10
   }
  ],

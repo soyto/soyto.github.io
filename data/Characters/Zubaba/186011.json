@@ -2,9 +2,9 @@
  "characterID": 186011,
  "characterClassID": 14,
  "raceID": 0,
- "position": 958,
- "rankingPositionChange": 4,
- "gloryPoint": 3026,
+ "position": 961,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3019,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dhorja",
@@ -30,6 +30,14 @@
    "position": 958,
    "rankingPositionChange": 4,
    "gloryPoint": 3026,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3019,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

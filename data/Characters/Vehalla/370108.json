@@ -2,9 +2,9 @@
  "characterID": 370108,
  "characterClassID": 16,
  "raceID": 0,
- "position": 267,
- "rankingPositionChange": 0,
- "gloryPoint": 13901,
+ "position": 268,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13852,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lunariya",
@@ -216,6 +216,14 @@
    "position": 267,
    "rankingPositionChange": 0,
    "gloryPoint": 13901,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 268,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13852,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

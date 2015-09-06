@@ -2,9 +2,9 @@
  "characterID": 741023,
  "characterClassID": 5,
  "raceID": 1,
- "position": 198,
- "rankingPositionChange": 1,
- "gloryPoint": 23699,
+ "position": 199,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23650,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Braedor",
@@ -272,6 +272,14 @@
    "position": 198,
    "rankingPositionChange": 1,
    "gloryPoint": 23699,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 199,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23650,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

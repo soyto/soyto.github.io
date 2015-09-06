@@ -3,9 +3,9 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 153,
- "rankingPositionChange": 1,
- "gloryPoint": 75536,
- "gloryPointChange": 523,
+ "rankingPositionChange": 0,
+ "gloryPoint": 75487,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Katsune",
  "guildName": "Army of Pain",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 75536,
    "gloryPointChange": 523,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 153,
+   "rankingPositionChange": 0,
+   "gloryPoint": 75487,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 370755,
  "characterClassID": 10,
  "raceID": 1,
- "position": 354,
- "rankingPositionChange": -3,
- "gloryPoint": 6808,
+ "position": 351,
+ "rankingPositionChange": 3,
+ "gloryPoint": 6780,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Seraphoris",
@@ -272,6 +272,14 @@
    "position": 354,
    "rankingPositionChange": -3,
    "gloryPoint": 6808,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 351,
+   "rankingPositionChange": 3,
+   "gloryPoint": 6780,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

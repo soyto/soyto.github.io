@@ -2,9 +2,9 @@
  "characterID": 1218434,
  "characterClassID": 5,
  "raceID": 1,
- "position": 799,
- "rankingPositionChange": 3,
- "gloryPoint": 2959,
+ "position": 803,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2952,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Existens",
@@ -96,6 +96,14 @@
    "position": 799,
    "rankingPositionChange": 3,
    "gloryPoint": 2959,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 803,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2952,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

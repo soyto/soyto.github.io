@@ -2,9 +2,9 @@
  "characterID": 369684,
  "characterClassID": 7,
  "raceID": 0,
- "position": 117,
- "rankingPositionChange": 0,
- "gloryPoint": 55630,
+ "position": 118,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55581,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aurulio",
@@ -270,6 +270,14 @@
    "position": 117,
    "rankingPositionChange": 0,
    "gloryPoint": 55630,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 118,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55581,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 39243,
  "characterClassID": 4,
  "raceID": 1,
- "position": 903,
- "rankingPositionChange": 2,
- "gloryPoint": 1491,
+ "position": 908,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1484,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Moderate",
@@ -54,6 +54,14 @@
    "position": 903,
    "rankingPositionChange": 2,
    "gloryPoint": 1491,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 908,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1484,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

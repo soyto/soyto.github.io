@@ -2,9 +2,9 @@
  "characterID": 942953,
  "characterClassID": 16,
  "raceID": 1,
- "position": 262,
- "rankingPositionChange": 1,
- "gloryPoint": 13472,
+ "position": 263,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13423,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Darkmysticia",
@@ -272,6 +272,14 @@
    "position": 262,
    "rankingPositionChange": 1,
    "gloryPoint": 13472,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 263,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13423,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

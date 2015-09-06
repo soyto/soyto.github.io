@@ -2,10 +2,10 @@
  "characterID": 1326323,
  "characterClassID": 10,
  "raceID": 1,
- "position": 756,
- "rankingPositionChange": 10,
- "gloryPoint": 10694,
- "gloryPointChange": 160,
+ "position": 757,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10700,
+ "gloryPointChange": 6,
  "soldierRankID": 10,
  "characterName": "Yumichann",
  "guildName": "Ergo Proxy",
@@ -225,6 +225,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 10694,
    "gloryPointChange": 160,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 757,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10700,
+   "gloryPointChange": 6,
    "soldierRankID": 10
   }
  ],

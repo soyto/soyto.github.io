@@ -2,9 +2,9 @@
  "characterID": 1648072,
  "characterClassID": 14,
  "raceID": 1,
- "position": 372,
- "rankingPositionChange": -2,
- "gloryPoint": 40245,
+ "position": 371,
+ "rankingPositionChange": 1,
+ "gloryPoint": 40217,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hdcannon",
@@ -232,6 +232,14 @@
    "position": 372,
    "rankingPositionChange": -2,
    "gloryPoint": 40245,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 371,
+   "rankingPositionChange": 1,
+   "gloryPoint": 40217,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

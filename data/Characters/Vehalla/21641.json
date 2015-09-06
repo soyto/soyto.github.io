@@ -2,9 +2,9 @@
  "characterID": 21641,
  "characterClassID": 2,
  "raceID": 1,
- "position": 176,
- "rankingPositionChange": -3,
- "gloryPoint": 25067,
+ "position": 175,
+ "rankingPositionChange": 1,
+ "gloryPoint": 25018,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tyrania",
@@ -64,6 +64,14 @@
    "position": 176,
    "rankingPositionChange": -3,
    "gloryPoint": 25067,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 175,
+   "rankingPositionChange": 1,
+   "gloryPoint": 25018,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 50906,
  "characterClassID": 7,
  "raceID": 1,
- "position": 886,
- "rankingPositionChange": 15,
- "gloryPoint": 1635,
- "gloryPointChange": 108,
+ "position": 889,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1628,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kahmunraha",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 15,
    "gloryPoint": 1635,
    "gloryPointChange": 108,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 889,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1628,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1133651,
  "characterClassID": 14,
  "raceID": 1,
- "position": 603,
- "rankingPositionChange": 0,
- "gloryPoint": 14124,
- "gloryPointChange": -14,
+ "position": 604,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14119,
+ "gloryPointChange": -5,
  "soldierRankID": 11,
  "characterName": "Gunxblade",
  "guildName": "ONLYPVP",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 14124,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14119,
+   "gloryPointChange": -5,
    "soldierRankID": 11
   }
  ],

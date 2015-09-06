@@ -2,10 +2,10 @@
  "characterID": 931984,
  "characterClassID": 11,
  "raceID": 0,
- "position": 352,
- "rankingPositionChange": -1,
- "gloryPoint": 41223,
- "gloryPointChange": -28,
+ "position": 349,
+ "rankingPositionChange": 3,
+ "gloryPoint": 41607,
+ "gloryPointChange": 384,
  "soldierRankID": 12,
  "characterName": "Vanesser",
  "guildName": "Our Army Comes From Deep Within",
@@ -265,6 +265,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 41223,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 349,
+   "rankingPositionChange": 3,
+   "gloryPoint": 41607,
+   "gloryPointChange": 384,
    "soldierRankID": 12
   }
  ],

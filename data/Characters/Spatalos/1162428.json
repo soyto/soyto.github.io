@@ -2,9 +2,9 @@
  "characterID": 1162428,
  "characterClassID": 2,
  "raceID": 1,
- "position": 95,
- "rankingPositionChange": 0,
- "gloryPoint": 72729,
+ "position": 97,
+ "rankingPositionChange": -2,
+ "gloryPoint": 72622,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Tessan",
@@ -272,6 +272,14 @@
    "position": 95,
    "rankingPositionChange": 0,
    "gloryPoint": 72729,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 97,
+   "rankingPositionChange": -2,
+   "gloryPoint": 72622,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

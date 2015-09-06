@@ -2,10 +2,10 @@
  "characterID": 326274,
  "characterClassID": 16,
  "raceID": 1,
- "position": 852,
- "rankingPositionChange": 24,
- "gloryPoint": 4412,
- "gloryPointChange": 256,
+ "position": 855,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4405,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Monkay",
  "guildName": "NEXT",
@@ -65,6 +65,14 @@
    "rankingPositionChange": 24,
    "gloryPoint": 4412,
    "gloryPointChange": 256,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4405,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

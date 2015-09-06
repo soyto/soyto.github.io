@@ -2,9 +2,9 @@
  "characterID": 338635,
  "characterClassID": 16,
  "raceID": 0,
- "position": 286,
- "rankingPositionChange": 1,
- "gloryPoint": 12118,
+ "position": 287,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12069,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Juilliard",
@@ -272,6 +272,14 @@
    "position": 286,
    "rankingPositionChange": 1,
    "gloryPoint": 12118,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 287,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12069,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

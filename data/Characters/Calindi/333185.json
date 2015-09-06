@@ -2,9 +2,9 @@
  "characterID": 333185,
  "characterClassID": 11,
  "raceID": 0,
- "position": 613,
- "rankingPositionChange": 1,
- "gloryPoint": 3251,
+ "position": 615,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3237,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Weaz",
@@ -270,6 +270,14 @@
    "position": 613,
    "rankingPositionChange": 1,
    "gloryPoint": 3251,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 615,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3237,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

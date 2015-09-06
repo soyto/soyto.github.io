@@ -2,9 +2,9 @@
  "characterID": 1165788,
  "characterClassID": 7,
  "raceID": 1,
- "position": 658,
- "rankingPositionChange": 1,
- "gloryPoint": 4936,
+ "position": 661,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4922,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ayken",
@@ -272,6 +272,14 @@
    "position": 658,
    "rankingPositionChange": 1,
    "gloryPoint": 4936,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 661,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4922,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

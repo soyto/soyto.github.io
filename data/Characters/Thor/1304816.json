@@ -2,9 +2,9 @@
  "characterID": 1304816,
  "characterClassID": 1,
  "raceID": 1,
- "position": 329,
- "rankingPositionChange": -1,
- "gloryPoint": 48635,
+ "position": 328,
+ "rankingPositionChange": 1,
+ "gloryPoint": 48707,
  "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Tambii",
@@ -264,6 +264,14 @@
    "position": 329,
    "rankingPositionChange": -1,
    "gloryPoint": 48635,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 328,
+   "rankingPositionChange": 1,
+   "gloryPoint": 48707,
    "gloryPointChange": 72,
    "soldierRankID": 12
   }

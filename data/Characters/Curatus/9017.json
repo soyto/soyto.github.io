@@ -2,10 +2,10 @@
  "characterID": 9017,
  "characterClassID": 11,
  "raceID": 0,
- "position": 831,
- "rankingPositionChange": 0,
- "gloryPoint": 12248,
- "gloryPointChange": 85,
+ "position": 834,
+ "rankingPositionChange": -3,
+ "gloryPoint": 12251,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Fairfly",
  "guildName": "Ascension",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 12248,
    "gloryPointChange": 85,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 834,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12251,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

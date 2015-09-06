@@ -2,9 +2,9 @@
  "characterID": 1165304,
  "characterClassID": 5,
  "raceID": 1,
- "position": 750,
- "rankingPositionChange": 0,
- "gloryPoint": 3596,
+ "position": 755,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3589,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tetrah",
@@ -160,6 +160,14 @@
    "position": 750,
    "rankingPositionChange": 0,
    "gloryPoint": 3596,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 755,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3589,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

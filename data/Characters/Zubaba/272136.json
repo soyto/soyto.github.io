@@ -2,9 +2,9 @@
  "characterID": 272136,
  "characterClassID": 8,
  "raceID": 0,
- "position": 876,
- "rankingPositionChange": 0,
- "gloryPoint": 4037,
+ "position": 885,
+ "rankingPositionChange": -9,
+ "gloryPoint": 4030,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Azirr",
@@ -160,6 +160,14 @@
    "position": 876,
    "rankingPositionChange": 0,
    "gloryPoint": 4037,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 885,
+   "rankingPositionChange": -9,
+   "gloryPoint": 4030,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

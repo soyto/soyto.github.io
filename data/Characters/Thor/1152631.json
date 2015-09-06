@@ -2,9 +2,9 @@
  "characterID": 1152631,
  "characterClassID": 1,
  "raceID": 1,
- "position": 357,
- "rankingPositionChange": -1,
- "gloryPoint": 43979,
+ "position": 356,
+ "rankingPositionChange": 1,
+ "gloryPoint": 43951,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tokido",
@@ -264,6 +264,14 @@
    "position": 357,
    "rankingPositionChange": -1,
    "gloryPoint": 43979,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 356,
+   "rankingPositionChange": 1,
+   "gloryPoint": 43951,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

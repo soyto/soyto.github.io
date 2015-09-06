@@ -2,10 +2,10 @@
  "characterID": 726318,
  "characterClassID": 4,
  "raceID": 0,
- "position": 42,
- "rankingPositionChange": 0,
- "gloryPoint": 174098,
- "gloryPointChange": -104,
+ "position": 43,
+ "rankingPositionChange": -1,
+ "gloryPoint": 174106,
+ "gloryPointChange": 8,
  "soldierRankID": 14,
  "characterName": "Kanana",
  "guildName": "Axe",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 174098,
    "gloryPointChange": -104,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 43,
+   "rankingPositionChange": -1,
+   "gloryPoint": 174106,
+   "gloryPointChange": 8,
    "soldierRankID": 14
   }
  ],

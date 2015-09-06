@@ -2,10 +2,10 @@
  "characterID": 1211173,
  "characterClassID": 13,
  "raceID": 1,
- "position": 807,
- "rankingPositionChange": 0,
- "gloryPoint": 2670,
- "gloryPointChange": -7,
+ "position": 816,
+ "rankingPositionChange": -9,
+ "gloryPoint": 2665,
+ "gloryPointChange": -5,
  "soldierRankID": 10,
  "characterName": "Techii",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 2670,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 816,
+   "rankingPositionChange": -9,
+   "gloryPoint": 2665,
+   "gloryPointChange": -5,
    "soldierRankID": 10
   }
  ],

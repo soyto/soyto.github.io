@@ -2,9 +2,9 @@
  "characterID": 1111946,
  "characterClassID": 16,
  "raceID": 0,
- "position": 35,
- "rankingPositionChange": 0,
- "gloryPoint": 195963,
+ "position": 36,
+ "rankingPositionChange": -1,
+ "gloryPoint": 195856,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Perfume",
@@ -272,6 +272,14 @@
    "position": 35,
    "rankingPositionChange": 0,
    "gloryPoint": 195963,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 36,
+   "rankingPositionChange": -1,
+   "gloryPoint": 195856,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

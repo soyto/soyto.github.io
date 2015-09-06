@@ -2,9 +2,9 @@
  "characterID": 1116502,
  "characterClassID": 4,
  "raceID": 1,
- "position": 573,
- "rankingPositionChange": 3,
- "gloryPoint": 2572,
+ "position": 577,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2558,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Callouss",
@@ -216,6 +216,14 @@
    "position": 573,
    "rankingPositionChange": 3,
    "gloryPoint": 2572,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 577,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2558,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

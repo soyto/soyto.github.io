@@ -2,9 +2,9 @@
  "characterID": 244817,
  "characterClassID": 4,
  "raceID": 1,
- "position": 710,
- "rankingPositionChange": 1,
- "gloryPoint": 3564,
+ "position": 712,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3557,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lamy",
@@ -166,6 +166,14 @@
    "position": 710,
    "rankingPositionChange": 1,
    "gloryPoint": 3564,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 712,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3557,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 591475,
  "characterClassID": 7,
  "raceID": 0,
- "position": 518,
- "rankingPositionChange": 0,
- "gloryPoint": 34827,
- "gloryPointChange": 186,
+ "position": 519,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34813,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Magistre",
  "guildName": "Seraphim Reloaded",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 34827,
    "gloryPointChange": 186,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 519,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34813,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

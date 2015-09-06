@@ -2,10 +2,10 @@
  "characterID": 727400,
  "characterClassID": 4,
  "raceID": 0,
- "position": 456,
- "rankingPositionChange": 2,
- "gloryPoint": 27155,
- "gloryPointChange": 347,
+ "position": 457,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27127,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zerael",
  "guildName": "Polish Fighter Squadron",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 27155,
    "gloryPointChange": 347,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 457,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27127,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

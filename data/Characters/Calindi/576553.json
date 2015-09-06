@@ -2,10 +2,10 @@
  "characterID": 576553,
  "characterClassID": 7,
  "raceID": 1,
- "position": 148,
- "rankingPositionChange": 1,
- "gloryPoint": 7484,
- "gloryPointChange": 358,
+ "position": 150,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7798,
+ "gloryPointChange": 314,
  "soldierRankID": 13,
  "characterName": "Takaaa",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7484,
    "gloryPointChange": 358,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7798,
+   "gloryPointChange": 314,
    "soldierRankID": 13
   }
  ],

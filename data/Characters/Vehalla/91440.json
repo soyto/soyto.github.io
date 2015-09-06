@@ -2,9 +2,9 @@
  "characterID": 91440,
  "characterClassID": 1,
  "raceID": 0,
- "position": 215,
- "rankingPositionChange": 0,
- "gloryPoint": 22170,
+ "position": 216,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22121,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Naijura",
@@ -102,6 +102,14 @@
    "position": 215,
    "rankingPositionChange": 0,
    "gloryPoint": 22170,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 216,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22121,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

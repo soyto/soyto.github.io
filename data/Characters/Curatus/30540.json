@@ -2,9 +2,9 @@
  "characterID": 30540,
  "characterClassID": 14,
  "raceID": 1,
- "position": 103,
- "rankingPositionChange": 1,
- "gloryPoint": 77982,
+ "position": 104,
+ "rankingPositionChange": -1,
+ "gloryPoint": 77933,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sberla",
@@ -272,6 +272,14 @@
    "position": 103,
    "rankingPositionChange": 1,
    "gloryPoint": 77982,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": -1,
+   "gloryPoint": 77933,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

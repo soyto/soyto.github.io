@@ -2,9 +2,9 @@
  "characterID": 1155063,
  "characterClassID": 8,
  "raceID": 1,
- "position": 357,
- "rankingPositionChange": 3,
- "gloryPoint": 18442,
+ "position": 359,
+ "rankingPositionChange": -2,
+ "gloryPoint": 18414,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tokinette",
@@ -272,6 +272,14 @@
    "position": 357,
    "rankingPositionChange": 3,
    "gloryPoint": 18442,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 359,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18414,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

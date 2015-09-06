@@ -2,10 +2,10 @@
  "characterID": 400499,
  "characterClassID": 5,
  "raceID": 1,
- "position": 77,
- "rankingPositionChange": 1,
- "gloryPoint": 124467,
- "gloryPointChange": 663,
+ "position": 78,
+ "rankingPositionChange": -1,
+ "gloryPoint": 124710,
+ "gloryPointChange": 243,
  "soldierRankID": 14,
  "characterName": "Qber",
  "guildName": "The Others",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 124467,
    "gloryPointChange": 663,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 78,
+   "rankingPositionChange": -1,
+   "gloryPoint": 124710,
+   "gloryPointChange": 243,
    "soldierRankID": 14
   }
  ],

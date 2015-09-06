@@ -2,10 +2,10 @@
  "characterID": 449020,
  "characterClassID": 4,
  "raceID": 0,
- "position": 885,
- "rankingPositionChange": 1,
- "gloryPoint": 11979,
- "gloryPointChange": 6,
+ "position": 887,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11972,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Totona",
  "guildName": "Retard Forces",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 11979,
    "gloryPointChange": 6,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 887,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11972,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

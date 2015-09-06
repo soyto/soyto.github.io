@@ -2,10 +2,10 @@
  "characterID": 375245,
  "characterClassID": 7,
  "raceID": 1,
- "position": 636,
- "rankingPositionChange": 1,
- "gloryPoint": 19897,
- "gloryPointChange": 186,
+ "position": 639,
+ "rankingPositionChange": -3,
+ "gloryPoint": 19883,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Minipower",
  "guildName": "Bones",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 19897,
    "gloryPointChange": 186,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 639,
+   "rankingPositionChange": -3,
+   "gloryPoint": 19883,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

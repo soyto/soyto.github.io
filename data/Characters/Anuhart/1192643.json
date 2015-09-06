@@ -2,10 +2,10 @@
  "characterID": 1192643,
  "characterClassID": 4,
  "raceID": 1,
- "position": 862,
- "rankingPositionChange": -3,
- "gloryPoint": 2387,
- "gloryPointChange": -7,
+ "position": 860,
+ "rankingPositionChange": 2,
+ "gloryPoint": 2345,
+ "gloryPointChange": -42,
  "soldierRankID": 10,
  "characterName": "Pulseout",
  "guildName": "Exiled Riders",
@@ -233,6 +233,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 2387,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": 2,
+   "gloryPoint": 2345,
+   "gloryPointChange": -42,
    "soldierRankID": 10
   }
  ],

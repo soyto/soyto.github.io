@@ -2,9 +2,9 @@
  "characterID": 724724,
  "characterClassID": 11,
  "raceID": 0,
- "position": 592,
- "rankingPositionChange": 0,
- "gloryPoint": 19503,
+ "position": 597,
+ "rankingPositionChange": -5,
+ "gloryPoint": 19489,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Valeila",
@@ -272,6 +272,14 @@
    "position": 592,
    "rankingPositionChange": 0,
    "gloryPoint": 19503,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 597,
+   "rankingPositionChange": -5,
+   "gloryPoint": 19489,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 915604,
  "characterClassID": 13,
  "raceID": 1,
- "position": 507,
- "rankingPositionChange": 8,
- "gloryPoint": 9350,
- "gloryPointChange": 140,
+ "position": 511,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9336,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Taihen",
  "guildName": "Lubricant",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 9350,
    "gloryPointChange": 140,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9336,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

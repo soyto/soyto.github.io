@@ -2,10 +2,10 @@
  "characterID": 1153162,
  "characterClassID": 2,
  "raceID": 1,
- "position": 251,
- "rankingPositionChange": 0,
- "gloryPoint": 62050,
- "gloryPointChange": 563,
+ "position": 252,
+ "rankingPositionChange": -1,
+ "gloryPoint": 62101,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Serentor",
  "guildName": "Bananenbobos",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 62050,
    "gloryPointChange": 563,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 252,
+   "rankingPositionChange": -1,
+   "gloryPoint": 62101,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

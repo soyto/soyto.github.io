@@ -2,10 +2,10 @@
  "characterID": 1277043,
  "characterClassID": 8,
  "raceID": 1,
- "position": 940,
- "rankingPositionChange": 5,
- "gloryPoint": 3181,
- "gloryPointChange": 3,
+ "position": 945,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3174,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Happydog",
  "guildName": "Elysea Shall Burn",
@@ -201,6 +201,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 3181,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3174,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

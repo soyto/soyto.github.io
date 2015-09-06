@@ -2,9 +2,9 @@
  "characterID": 1038690,
  "characterClassID": 11,
  "raceID": 1,
- "position": 290,
- "rankingPositionChange": -1,
- "gloryPoint": 36534,
+ "position": 289,
+ "rankingPositionChange": 1,
+ "gloryPoint": 36485,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aximilia",
@@ -270,6 +270,14 @@
    "position": 290,
    "rankingPositionChange": -1,
    "gloryPoint": 36534,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 289,
+   "rankingPositionChange": 1,
+   "gloryPoint": 36485,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

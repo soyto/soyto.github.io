@@ -2,9 +2,9 @@
  "characterID": 250465,
  "characterClassID": 5,
  "raceID": 0,
- "position": 736,
- "rankingPositionChange": -1,
- "gloryPoint": 16040,
+ "position": 735,
+ "rankingPositionChange": 1,
+ "gloryPoint": 16033,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aggo",
@@ -270,6 +270,14 @@
    "position": 736,
    "rankingPositionChange": -1,
    "gloryPoint": 16040,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 735,
+   "rankingPositionChange": 1,
+   "gloryPoint": 16033,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

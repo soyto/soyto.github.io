@@ -2,14 +2,14 @@
  "characterID": 511481,
  "characterClassID": 10,
  "raceID": 0,
- "position": 476,
- "rankingPositionChange": 0,
- "gloryPoint": 29743,
- "gloryPointChange": 218,
+ "position": 473,
+ "rankingPositionChange": 3,
+ "gloryPoint": 30016,
+ "gloryPointChange": 273,
  "soldierRankID": 12,
  "characterName": "Nizanaa",
- "guildName": "OH GOD ASMO GET IN THE CAR",
- "guildID": 13650,
+ "guildName": "Divine Light",
+ "guildID": 3041,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 29743,
    "gloryPointChange": 218,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 473,
+   "rankingPositionChange": 3,
+   "gloryPoint": 30016,
+   "gloryPointChange": 273,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -297,6 +305,11 @@
    "date": "2015-08-26T22:00:00.000Z",
    "guildName": "OH GOD ASMO GET IN THE CAR",
    "guildID": 13650
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Divine Light",
+   "guildID": 3041
   }
  ]
 }

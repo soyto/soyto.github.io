@@ -2,9 +2,9 @@
  "characterID": 398081,
  "characterClassID": 8,
  "raceID": 0,
- "position": 416,
- "rankingPositionChange": -6,
- "gloryPoint": 20484,
+ "position": 415,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20456,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lyenor",
@@ -272,6 +272,14 @@
    "position": 416,
    "rankingPositionChange": -6,
    "gloryPoint": 20484,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 415,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20456,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

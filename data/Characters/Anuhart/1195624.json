@@ -2,9 +2,9 @@
  "characterID": 1195624,
  "characterClassID": 16,
  "raceID": 1,
- "position": 638,
- "rankingPositionChange": 2,
- "gloryPoint": 5512,
+ "position": 641,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5518,
  "gloryPointChange": 6,
  "soldierRankID": 11,
  "characterName": "Falren",
@@ -272,6 +272,14 @@
    "position": 638,
    "rankingPositionChange": 2,
    "gloryPoint": 5512,
+   "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5518,
    "gloryPointChange": 6,
    "soldierRankID": 11
   }

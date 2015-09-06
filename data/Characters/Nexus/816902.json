@@ -2,9 +2,9 @@
  "characterID": 816902,
  "characterClassID": 14,
  "raceID": 0,
- "position": 140,
- "rankingPositionChange": 0,
- "gloryPoint": 71806,
+ "position": 143,
+ "rankingPositionChange": -3,
+ "gloryPoint": 71757,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shkets",
@@ -272,6 +272,14 @@
    "position": 140,
    "rankingPositionChange": 0,
    "gloryPoint": 71806,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 143,
+   "rankingPositionChange": -3,
+   "gloryPoint": 71757,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

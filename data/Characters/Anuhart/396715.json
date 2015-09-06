@@ -2,9 +2,9 @@
  "characterID": 396715,
  "characterClassID": 1,
  "raceID": 1,
- "position": 303,
- "rankingPositionChange": 1,
- "gloryPoint": 26476,
+ "position": 304,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26448,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Cronus",
@@ -272,6 +272,14 @@
    "position": 303,
    "rankingPositionChange": 1,
    "gloryPoint": 26476,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 304,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26448,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 274796,
  "characterClassID": 8,
  "raceID": 0,
- "position": 826,
- "rankingPositionChange": 17,
- "gloryPoint": 4845,
- "gloryPointChange": 248,
+ "position": 830,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4841,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Amassein",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 17,
    "gloryPoint": 4845,
    "gloryPointChange": 248,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 830,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4841,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

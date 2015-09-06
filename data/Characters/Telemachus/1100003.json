@@ -2,10 +2,10 @@
  "characterID": 1100003,
  "characterClassID": 2,
  "raceID": 1,
- "position": 197,
- "rankingPositionChange": 1,
- "gloryPoint": 26507,
- "gloryPointChange": 321,
+ "position": 198,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26568,
+ "gloryPointChange": 61,
  "soldierRankID": 13,
  "characterName": "Licitius",
  "guildName": "K a r m a",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 26507,
    "gloryPointChange": 321,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 198,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26568,
+   "gloryPointChange": 61,
    "soldierRankID": 13
   }
  ],

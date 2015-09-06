@@ -2,9 +2,9 @@
  "characterID": 345243,
  "characterClassID": 1,
  "raceID": 1,
- "position": 260,
- "rankingPositionChange": -2,
- "gloryPoint": 12543,
+ "position": 258,
+ "rankingPositionChange": 2,
+ "gloryPoint": 12494,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Smoking",
@@ -272,6 +272,14 @@
    "position": 260,
    "rankingPositionChange": -2,
    "gloryPoint": 12543,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 258,
+   "rankingPositionChange": 2,
+   "gloryPoint": 12494,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

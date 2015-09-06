@@ -2,10 +2,10 @@
  "characterID": 1550886,
  "characterClassID": 11,
  "raceID": 1,
- "position": 458,
- "rankingPositionChange": 0,
- "gloryPoint": 21091,
- "gloryPointChange": -28,
+ "position": 459,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21066,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Sayoo",
  "guildName": "Cycle of Tschai",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 21091,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 459,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21066,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

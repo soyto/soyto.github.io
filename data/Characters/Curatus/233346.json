@@ -2,9 +2,9 @@
  "characterID": 233346,
  "characterClassID": 10,
  "raceID": 1,
- "position": 532,
- "rankingPositionChange": 0,
- "gloryPoint": 11275,
+ "position": 534,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11261,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Toukaa",
@@ -272,6 +272,14 @@
    "position": 532,
    "rankingPositionChange": 0,
    "gloryPoint": 11275,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 534,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11261,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,14 +2,14 @@
  "characterID": 679337,
  "characterClassID": 8,
  "raceID": 0,
- "position": 667,
- "rankingPositionChange": -2,
- "gloryPoint": 22031,
- "gloryPointChange": -14,
+ "position": 670,
+ "rankingPositionChange": -3,
+ "gloryPoint": 22027,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Tueurelios",
- "guildName": "Lux Aetherna",
- "guildID": 42641,
+ "guildName": "Mirages",
+ "guildID": 5361,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 22031,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 670,
+   "rankingPositionChange": -3,
+   "gloryPoint": 22027,
+   "gloryPointChange": -4,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Lux Aetherna",
    "guildID": 42641
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Mirages",
+   "guildID": 5361
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 208236,
  "characterClassID": 4,
  "raceID": 0,
- "position": 572,
- "rankingPositionChange": 1,
- "gloryPoint": 3992,
+ "position": 576,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3978,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Daxolus",
@@ -270,6 +270,14 @@
    "position": 572,
    "rankingPositionChange": 1,
    "gloryPoint": 3992,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 576,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3978,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

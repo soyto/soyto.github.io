@@ -2,9 +2,9 @@
  "characterID": 1140762,
  "characterClassID": 1,
  "raceID": 1,
- "position": 688,
- "rankingPositionChange": 0,
- "gloryPoint": 4345,
+ "position": 692,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4331,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Reyzorr",
@@ -272,6 +272,14 @@
    "position": 688,
    "rankingPositionChange": 0,
    "gloryPoint": 4345,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 692,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4331,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

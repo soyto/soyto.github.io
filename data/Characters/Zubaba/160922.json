@@ -2,10 +2,10 @@
  "characterID": 160922,
  "characterClassID": 7,
  "raceID": 0,
- "position": 606,
- "rankingPositionChange": 14,
- "gloryPoint": 10666,
- "gloryPointChange": 494,
+ "position": 612,
+ "rankingPositionChange": -6,
+ "gloryPoint": 10664,
+ "gloryPointChange": -2,
  "soldierRankID": 11,
  "characterName": "Vampenez",
  "guildName": "OSMANLI",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 14,
    "gloryPoint": 10666,
    "gloryPointChange": 494,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": -6,
+   "gloryPoint": 10664,
+   "gloryPointChange": -2,
    "soldierRankID": 11
   }
  ],

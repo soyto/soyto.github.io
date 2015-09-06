@@ -2,10 +2,10 @@
  "characterID": 151324,
  "characterClassID": 16,
  "raceID": 1,
- "position": 198,
- "rankingPositionChange": 0,
- "gloryPoint": 44063,
- "gloryPointChange": 135,
+ "position": 200,
+ "rankingPositionChange": -2,
+ "gloryPoint": 44058,
+ "gloryPointChange": -5,
  "soldierRankID": 13,
  "characterName": "Lemondrops",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 44063,
    "gloryPointChange": 135,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 200,
+   "rankingPositionChange": -2,
+   "gloryPoint": 44058,
+   "gloryPointChange": -5,
    "soldierRankID": 13
   }
  ],

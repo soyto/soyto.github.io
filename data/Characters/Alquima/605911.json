@@ -2,10 +2,10 @@
  "characterID": 605911,
  "characterClassID": 4,
  "raceID": 1,
- "position": 716,
- "rankingPositionChange": 6,
- "gloryPoint": 10439,
- "gloryPointChange": 118,
+ "position": 720,
+ "rankingPositionChange": -4,
+ "gloryPoint": 10432,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Stylz",
  "guildName": "Expert Gore",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 10439,
    "gloryPointChange": 118,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 720,
+   "rankingPositionChange": -4,
+   "gloryPoint": 10432,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

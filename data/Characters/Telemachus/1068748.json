@@ -2,9 +2,9 @@
  "characterID": 1068748,
  "characterClassID": 2,
  "raceID": 1,
- "position": 204,
- "rankingPositionChange": 0,
- "gloryPoint": 26003,
+ "position": 205,
+ "rankingPositionChange": -1,
+ "gloryPoint": 25954,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aiiizen",
@@ -272,6 +272,14 @@
    "position": 204,
    "rankingPositionChange": 0,
    "gloryPoint": 26003,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 205,
+   "rankingPositionChange": -1,
+   "gloryPoint": 25954,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

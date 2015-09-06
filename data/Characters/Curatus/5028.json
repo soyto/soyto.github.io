@@ -2,10 +2,10 @@
  "characterID": 5028,
  "characterClassID": 7,
  "raceID": 1,
- "position": 777,
- "rankingPositionChange": -1,
- "gloryPoint": 5619,
- "gloryPointChange": -7,
+ "position": 776,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5660,
+ "gloryPointChange": 41,
  "soldierRankID": 10,
  "characterName": "Udir",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 5619,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 776,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5660,
+   "gloryPointChange": 41,
    "soldierRankID": 10
   }
  ],

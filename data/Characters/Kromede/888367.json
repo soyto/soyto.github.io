@@ -2,9 +2,9 @@
  "characterID": 888367,
  "characterClassID": 11,
  "raceID": 1,
- "position": 476,
- "rankingPositionChange": 2,
- "gloryPoint": 10455,
+ "position": 477,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10427,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Crewpalace",
@@ -264,6 +264,14 @@
    "position": 476,
    "rankingPositionChange": 2,
    "gloryPoint": 10455,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 477,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10427,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 89882,
  "characterClassID": 14,
  "raceID": 0,
- "position": 274,
- "rankingPositionChange": 0,
- "gloryPoint": 61641,
- "gloryPointChange": 347,
+ "position": 275,
+ "rankingPositionChange": -1,
+ "gloryPoint": 62051,
+ "gloryPointChange": 410,
  "soldierRankID": 13,
  "characterName": "Miiko",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 61641,
    "gloryPointChange": 347,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 275,
+   "rankingPositionChange": -1,
+   "gloryPoint": 62051,
+   "gloryPointChange": 410,
    "soldierRankID": 13
   }
  ],

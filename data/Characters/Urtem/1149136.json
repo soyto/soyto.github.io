@@ -2,9 +2,9 @@
  "characterID": 1149136,
  "characterClassID": 14,
  "raceID": 0,
- "position": 310,
- "rankingPositionChange": -1,
- "gloryPoint": 55174,
+ "position": 309,
+ "rankingPositionChange": 1,
+ "gloryPoint": 55146,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Daiiki",
@@ -264,6 +264,14 @@
    "position": 310,
    "rankingPositionChange": -1,
    "gloryPoint": 55174,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 309,
+   "rankingPositionChange": 1,
+   "gloryPoint": 55146,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

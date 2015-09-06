@@ -2,10 +2,10 @@
  "characterID": 282141,
  "characterClassID": 1,
  "raceID": 1,
- "position": 400,
- "rankingPositionChange": 1,
- "gloryPoint": 16245,
- "gloryPointChange": -28,
+ "position": 405,
+ "rankingPositionChange": -5,
+ "gloryPoint": 16223,
+ "gloryPointChange": -22,
  "soldierRankID": 12,
  "characterName": "Viperion",
  "guildName": "AbyssGates",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 16245,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 405,
+   "rankingPositionChange": -5,
+   "gloryPoint": 16223,
+   "gloryPointChange": -22,
    "soldierRankID": 12
   }
  ],

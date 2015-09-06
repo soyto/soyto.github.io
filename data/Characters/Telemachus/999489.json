@@ -2,10 +2,10 @@
  "characterID": 999489,
  "characterClassID": 14,
  "raceID": 1,
- "position": 665,
- "rankingPositionChange": 66,
- "gloryPoint": 1536,
- "gloryPointChange": 225,
+ "position": 674,
+ "rankingPositionChange": -9,
+ "gloryPoint": 1522,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Tirabalas",
  "status": [
@@ -87,6 +87,14 @@
    "rankingPositionChange": 66,
    "gloryPoint": 1536,
    "gloryPointChange": 225,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 674,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1522,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

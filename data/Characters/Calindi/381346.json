@@ -2,9 +2,9 @@
  "characterID": 381346,
  "characterClassID": 16,
  "raceID": 0,
- "position": 883,
- "rankingPositionChange": -1,
- "gloryPoint": 1429,
+ "position": 882,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1422,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yeesha",
@@ -272,6 +272,14 @@
    "position": 883,
    "rankingPositionChange": -1,
    "gloryPoint": 1429,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1422,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 940,
- "rankingPositionChange": -1,
- "gloryPoint": 11404,
- "gloryPointChange": 43,
+ "rankingPositionChange": 0,
+ "gloryPoint": 11397,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vecius",
  "guildName": "Armee der Schatten",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 11404,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11397,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1205330,
  "characterClassID": 4,
  "raceID": 1,
- "position": 839,
- "rankingPositionChange": 3,
- "gloryPoint": 3959,
+ "position": 843,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3952,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tazu",
@@ -232,6 +232,14 @@
    "position": 839,
    "rankingPositionChange": 3,
    "gloryPoint": 3959,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 843,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3952,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

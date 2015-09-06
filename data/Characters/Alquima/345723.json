@@ -2,10 +2,10 @@
  "characterID": 345723,
  "characterClassID": 1,
  "raceID": 0,
- "position": 260,
- "rankingPositionChange": 0,
- "gloryPoint": 47428,
- "gloryPointChange": 1,
+ "position": 259,
+ "rankingPositionChange": 1,
+ "gloryPoint": 47389,
+ "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Blastoiise",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 47428,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 259,
+   "rankingPositionChange": 1,
+   "gloryPoint": 47389,
+   "gloryPointChange": -39,
    "soldierRankID": 13
   }
  ],

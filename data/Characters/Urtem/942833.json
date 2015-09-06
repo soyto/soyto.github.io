@@ -2,9 +2,9 @@
  "characterID": 942833,
  "characterClassID": 10,
  "raceID": 1,
- "position": 837,
- "rankingPositionChange": 1,
- "gloryPoint": 9162,
+ "position": 838,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9155,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Massinissa",
@@ -272,6 +272,14 @@
    "position": 837,
    "rankingPositionChange": 1,
    "gloryPoint": 9162,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 838,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9155,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

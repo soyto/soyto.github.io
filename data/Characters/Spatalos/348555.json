@@ -2,9 +2,9 @@
  "characterID": 348555,
  "characterClassID": 10,
  "raceID": 0,
- "position": 410,
- "rankingPositionChange": -1,
- "gloryPoint": 32150,
+ "position": 408,
+ "rankingPositionChange": 2,
+ "gloryPoint": 32122,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Motecuro",
@@ -264,6 +264,14 @@
    "position": 410,
    "rankingPositionChange": -1,
    "gloryPoint": 32150,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 408,
+   "rankingPositionChange": 2,
+   "gloryPoint": 32122,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

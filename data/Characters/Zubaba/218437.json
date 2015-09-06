@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 410,
- "rankingPositionChange": -1,
- "gloryPoint": 14370,
- "gloryPointChange": -16,
+ "rankingPositionChange": 0,
+ "gloryPoint": 14360,
+ "gloryPointChange": -10,
  "soldierRankID": 12,
  "characterName": "Reaxen",
  "guildName": "Black or White",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 14370,
    "gloryPointChange": -16,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 410,
+   "rankingPositionChange": 0,
+   "gloryPoint": 14360,
+   "gloryPointChange": -10,
    "soldierRankID": 12
   }
  ],

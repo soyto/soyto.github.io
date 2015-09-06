@@ -2,10 +2,10 @@
  "characterID": 100383,
  "characterClassID": 10,
  "raceID": 1,
- "position": 61,
- "rankingPositionChange": 1,
- "gloryPoint": 99645,
- "gloryPointChange": 3,
+ "position": 62,
+ "rankingPositionChange": -1,
+ "gloryPoint": 99641,
+ "gloryPointChange": -4,
  "soldierRankID": 14,
  "characterName": "Coldsummer",
  "guildName": "Prepotenti",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 99645,
    "gloryPointChange": 3,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 62,
+   "rankingPositionChange": -1,
+   "gloryPoint": 99641,
+   "gloryPointChange": -4,
    "soldierRankID": 14
   }
  ],

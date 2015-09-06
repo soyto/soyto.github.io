@@ -2,9 +2,9 @@
  "characterID": 842748,
  "characterClassID": 2,
  "raceID": 1,
- "position": 118,
- "rankingPositionChange": 0,
- "gloryPoint": 54923,
+ "position": 120,
+ "rankingPositionChange": -2,
+ "gloryPoint": 54874,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Memoxxx",
@@ -272,6 +272,14 @@
    "position": 118,
    "rankingPositionChange": 0,
    "gloryPoint": 54923,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 120,
+   "rankingPositionChange": -2,
+   "gloryPoint": 54874,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

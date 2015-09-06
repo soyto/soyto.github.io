@@ -2,10 +2,10 @@
  "characterID": 160363,
  "characterClassID": 10,
  "raceID": 0,
- "position": 634,
- "rankingPositionChange": 0,
- "gloryPoint": 11577,
- "gloryPointChange": 42,
+ "position": 635,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11563,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Effective",
  "guildName": "S N G",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 11577,
    "gloryPointChange": 42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 635,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11563,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1354258,
  "characterClassID": 5,
  "raceID": 1,
- "position": 868,
- "rankingPositionChange": 0,
- "gloryPoint": 6038,
+ "position": 869,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6031,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Azrraphel",
@@ -272,6 +272,14 @@
    "position": 868,
    "rankingPositionChange": 0,
    "gloryPoint": 6038,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 869,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6031,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

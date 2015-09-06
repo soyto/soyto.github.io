@@ -2,9 +2,9 @@
  "characterID": 1483147,
  "characterClassID": 10,
  "raceID": 1,
- "position": 846,
- "rankingPositionChange": 0,
- "gloryPoint": 9046,
+ "position": 849,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9039,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Anzak",
@@ -272,6 +272,14 @@
    "position": 846,
    "rankingPositionChange": 0,
    "gloryPoint": 9046,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 849,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9039,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

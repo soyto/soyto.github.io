@@ -2,9 +2,9 @@
  "characterID": 9611,
  "characterClassID": 14,
  "raceID": 1,
- "position": 848,
- "rankingPositionChange": 2,
- "gloryPoint": 2013,
+ "position": 854,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2006,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ayasofia",
@@ -222,6 +222,14 @@
    "position": 848,
    "rankingPositionChange": 2,
    "gloryPoint": 2013,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 854,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2006,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

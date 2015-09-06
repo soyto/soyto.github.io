@@ -2,9 +2,9 @@
  "characterID": 395312,
  "characterClassID": 1,
  "raceID": 1,
- "position": 614,
- "rankingPositionChange": 1,
- "gloryPoint": 13888,
+ "position": 616,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13874,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Topher",
@@ -272,6 +272,14 @@
    "position": 614,
    "rankingPositionChange": 1,
    "gloryPoint": 13888,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 616,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13874,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

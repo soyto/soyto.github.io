@@ -2,9 +2,9 @@
  "characterID": 184869,
  "characterClassID": 7,
  "raceID": 1,
- "position": 712,
- "rankingPositionChange": 0,
- "gloryPoint": 6466,
+ "position": 713,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6459,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Noitilov",
@@ -272,6 +272,14 @@
    "position": 712,
    "rankingPositionChange": 0,
    "gloryPoint": 6466,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 713,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6459,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

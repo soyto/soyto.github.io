@@ -2,9 +2,9 @@
  "characterID": 1320214,
  "characterClassID": 2,
  "raceID": 1,
- "position": 773,
- "rankingPositionChange": 1,
- "gloryPoint": 10319,
+ "position": 775,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10312,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kottoro",
@@ -264,6 +264,14 @@
    "position": 773,
    "rankingPositionChange": 1,
    "gloryPoint": 10319,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 775,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10312,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

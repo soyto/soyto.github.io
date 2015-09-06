@@ -2,10 +2,10 @@
  "characterID": 884811,
  "characterClassID": 4,
  "raceID": 1,
- "position": 191,
- "rankingPositionChange": 1,
- "gloryPoint": 27788,
- "gloryPointChange": 204,
+ "position": 192,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27739,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aeroxxx",
  "guildName": "M I N I O N",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 27788,
    "gloryPointChange": 204,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 192,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27739,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 832409,
  "characterClassID": 10,
  "raceID": 0,
- "position": 211,
- "rankingPositionChange": 1,
- "gloryPoint": 61013,
- "gloryPointChange": 401,
+ "position": 212,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61174,
+ "gloryPointChange": 161,
  "soldierRankID": 13,
  "characterName": "Princepa",
  "guildName": "The Wind is pushing meeeeeeeeeee",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 61013,
    "gloryPointChange": 401,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 212,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61174,
+   "gloryPointChange": 161,
    "soldierRankID": 13
   }
  ],

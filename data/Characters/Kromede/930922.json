@@ -2,10 +2,10 @@
  "characterID": 930922,
  "characterClassID": 14,
  "raceID": 0,
- "position": 266,
- "rankingPositionChange": 3,
- "gloryPoint": 48937,
- "gloryPointChange": 351,
+ "position": 267,
+ "rankingPositionChange": -1,
+ "gloryPoint": 48888,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Imperatorremus",
  "guildName": "The Reborn",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 48937,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 267,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48888,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

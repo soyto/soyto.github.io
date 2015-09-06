@@ -3,8 +3,8 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 103,
- "rankingPositionChange": 1,
- "gloryPoint": 110860,
+ "rankingPositionChange": 0,
+ "gloryPoint": 110811,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Psit",
@@ -272,6 +272,14 @@
    "position": 103,
    "rankingPositionChange": 1,
    "gloryPoint": 110860,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 103,
+   "rankingPositionChange": 0,
+   "gloryPoint": 110811,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,14 +2,14 @@
  "characterID": 550751,
  "characterClassID": 8,
  "raceID": 0,
- "position": 962,
- "rankingPositionChange": -4,
- "gloryPoint": 1278,
- "gloryPointChange": -7,
+ "position": 919,
+ "rankingPositionChange": 43,
+ "gloryPoint": 1286,
+ "gloryPointChange": 8,
  "soldierRankID": 10,
  "characterName": "Oxsir",
- "guildName": "Savage Spirit",
- "guildID": 13827,
+ "guildName": "Frozen Moon",
+ "guildID": 6478,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -122,6 +122,14 @@
    "gloryPoint": 1278,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 919,
+   "rankingPositionChange": 43,
+   "gloryPoint": 1286,
+   "gloryPointChange": 8,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -135,6 +143,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Frozen Moon",
+   "guildID": 6478
   }
  ]
 }

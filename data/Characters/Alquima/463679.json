@@ -2,9 +2,9 @@
  "characterID": 463679,
  "characterClassID": 4,
  "raceID": 1,
- "position": 270,
- "rankingPositionChange": 0,
- "gloryPoint": 31914,
+ "position": 272,
+ "rankingPositionChange": -2,
+ "gloryPoint": 31865,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sure",
@@ -272,6 +272,14 @@
    "position": 270,
    "rankingPositionChange": 0,
    "gloryPoint": 31914,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 272,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31865,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

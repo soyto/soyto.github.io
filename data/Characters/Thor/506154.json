@@ -2,9 +2,9 @@
  "characterID": 506154,
  "characterClassID": 4,
  "raceID": 0,
- "position": 410,
- "rankingPositionChange": 1,
- "gloryPoint": 44150,
+ "position": 412,
+ "rankingPositionChange": -2,
+ "gloryPoint": 44122,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Rbt",
@@ -272,6 +272,14 @@
    "position": 410,
    "rankingPositionChange": 1,
    "gloryPoint": 44150,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 412,
+   "rankingPositionChange": -2,
+   "gloryPoint": 44122,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

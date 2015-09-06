@@ -2,10 +2,10 @@
  "characterID": 308783,
  "characterClassID": 1,
  "raceID": 0,
- "position": 476,
- "rankingPositionChange": 11,
- "gloryPoint": 3199,
- "gloryPointChange": 238,
+ "position": 477,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3171,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kortirion",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 3199,
    "gloryPointChange": 238,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 477,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3171,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

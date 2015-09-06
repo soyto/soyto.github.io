@@ -2,12 +2,14 @@
  "characterID": 641565,
  "characterClassID": 16,
  "raceID": 1,
- "position": 912,
- "rankingPositionChange": 11,
- "gloryPoint": 11632,
- "gloryPointChange": 369,
+ "position": 903,
+ "rankingPositionChange": 9,
+ "gloryPoint": 11760,
+ "gloryPointChange": 128,
  "soldierRankID": 10,
  "characterName": "Donorka",
+ "guildName": "CrazyCats",
+ "guildID": 5061,
  "status": [
   {
    "date": "2015-08-27T22:00:00.000Z",
@@ -64,6 +66,14 @@
    "gloryPoint": 11632,
    "gloryPointChange": 369,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 903,
+   "rankingPositionChange": 9,
+   "gloryPoint": 11760,
+   "gloryPointChange": 128,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -80,6 +90,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "CrazyCats",
+   "guildID": 5061
   }
  ]
 }

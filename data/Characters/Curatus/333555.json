@@ -2,9 +2,9 @@
  "characterID": 333555,
  "characterClassID": 1,
  "raceID": 1,
- "position": 702,
- "rankingPositionChange": 0,
- "gloryPoint": 6638,
+ "position": 703,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6631,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Spakkamilano",
@@ -168,6 +168,14 @@
    "position": 702,
    "rankingPositionChange": 0,
    "gloryPoint": 6638,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 703,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6631,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

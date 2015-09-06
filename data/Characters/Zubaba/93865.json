@@ -2,9 +2,9 @@
  "characterID": 93865,
  "characterClassID": 16,
  "raceID": 1,
- "position": 510,
- "rankingPositionChange": 1,
- "gloryPoint": 8904,
+ "position": 511,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8890,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Katakulli",
@@ -270,6 +270,14 @@
    "position": 510,
    "rankingPositionChange": 1,
    "gloryPoint": 8904,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8890,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

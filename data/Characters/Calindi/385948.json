@@ -2,9 +2,9 @@
  "characterID": 385948,
  "characterClassID": 16,
  "raceID": 0,
- "position": 734,
- "rankingPositionChange": 1,
- "gloryPoint": 2338,
+ "position": 736,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2331,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ticiia",
@@ -272,6 +272,14 @@
    "position": 734,
    "rankingPositionChange": 1,
    "gloryPoint": 2338,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 736,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2331,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

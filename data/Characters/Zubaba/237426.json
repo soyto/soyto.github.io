@@ -2,10 +2,10 @@
  "characterID": 237426,
  "characterClassID": 1,
  "raceID": 1,
- "position": 377,
- "rankingPositionChange": -1,
- "gloryPoint": 16576,
- "gloryPointChange": 144,
+ "position": 376,
+ "rankingPositionChange": 1,
+ "gloryPoint": 16636,
+ "gloryPointChange": 60,
  "soldierRankID": 12,
  "characterName": "Monstarr",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 16576,
    "gloryPointChange": 144,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 376,
+   "rankingPositionChange": 1,
+   "gloryPoint": 16636,
+   "gloryPointChange": 60,
    "soldierRankID": 12
   }
  ],

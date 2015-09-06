@@ -2,9 +2,9 @@
  "characterID": 47777,
  "characterClassID": 16,
  "raceID": 0,
- "position": 197,
- "rankingPositionChange": 0,
- "gloryPoint": 57686,
+ "position": 198,
+ "rankingPositionChange": -1,
+ "gloryPoint": 57637,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Reverse",
@@ -270,6 +270,14 @@
    "position": 197,
    "rankingPositionChange": 0,
    "gloryPoint": 57686,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 198,
+   "rankingPositionChange": -1,
+   "gloryPoint": 57637,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

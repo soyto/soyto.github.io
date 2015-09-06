@@ -2,9 +2,9 @@
  "characterID": 859152,
  "characterClassID": 16,
  "raceID": 1,
- "position": 830,
- "rankingPositionChange": 2,
- "gloryPoint": 2655,
+ "position": 833,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2648,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Earlene",
@@ -270,6 +270,14 @@
    "position": 830,
    "rankingPositionChange": 2,
    "gloryPoint": 2655,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2648,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

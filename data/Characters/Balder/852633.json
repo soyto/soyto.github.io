@@ -2,9 +2,9 @@
  "characterID": 852633,
  "characterClassID": 10,
  "raceID": 0,
- "position": 227,
- "rankingPositionChange": -1,
- "gloryPoint": 34279,
+ "position": 226,
+ "rankingPositionChange": 1,
+ "gloryPoint": 34230,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ritonia",
@@ -272,6 +272,14 @@
    "position": 227,
    "rankingPositionChange": -1,
    "gloryPoint": 34279,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 226,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34230,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

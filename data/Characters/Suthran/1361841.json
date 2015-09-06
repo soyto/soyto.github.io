@@ -2,10 +2,10 @@
  "characterID": 1361841,
  "characterClassID": 1,
  "raceID": 1,
- "position": 892,
- "rankingPositionChange": 2,
- "gloryPoint": 5725,
- "gloryPointChange": 43,
+ "position": 893,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5728,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Reen",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 5725,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 893,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5728,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

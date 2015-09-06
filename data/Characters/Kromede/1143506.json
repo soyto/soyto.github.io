@@ -2,9 +2,9 @@
  "characterID": 1143506,
  "characterClassID": 16,
  "raceID": 1,
- "position": 430,
- "rankingPositionChange": 3,
- "gloryPoint": 12790,
+ "position": 432,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12762,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Butterbluemchen",
@@ -272,6 +272,14 @@
    "position": 430,
    "rankingPositionChange": 3,
    "gloryPoint": 12790,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 432,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12762,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

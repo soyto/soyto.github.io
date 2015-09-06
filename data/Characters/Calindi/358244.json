@@ -2,10 +2,10 @@
  "characterID": 358244,
  "characterClassID": 8,
  "raceID": 0,
- "position": 960,
- "rankingPositionChange": 18,
- "gloryPoint": 1282,
- "gloryPointChange": -14,
+ "position": 961,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1275,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Spital",
  "guildName": "Pandore",
@@ -153,6 +153,14 @@
    "rankingPositionChange": 18,
    "gloryPoint": 1282,
    "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1275,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

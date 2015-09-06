@@ -2,10 +2,10 @@
  "characterID": 35593,
  "characterClassID": 16,
  "raceID": 1,
- "position": 256,
- "rankingPositionChange": 5,
- "gloryPoint": 30727,
- "gloryPointChange": 624,
+ "position": 258,
+ "rankingPositionChange": -2,
+ "gloryPoint": 30767,
+ "gloryPointChange": 40,
  "soldierRankID": 13,
  "characterName": "Ludwig",
  "guildName": "Prepotenti",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 30727,
    "gloryPointChange": 624,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 258,
+   "rankingPositionChange": -2,
+   "gloryPoint": 30767,
+   "gloryPointChange": 40,
    "soldierRankID": 13
   }
  ],

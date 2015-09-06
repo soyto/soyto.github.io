@@ -2,10 +2,10 @@
  "characterID": 1088248,
  "characterClassID": 1,
  "raceID": 1,
- "position": 643,
- "rankingPositionChange": 31,
- "gloryPoint": 1724,
- "gloryPointChange": 236,
+ "position": 649,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1710,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Tied",
  "guildName": "Never Say No To Panda",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 31,
    "gloryPoint": 1724,
    "gloryPointChange": 236,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 649,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1710,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 290308,
  "characterClassID": 13,
  "raceID": 1,
- "position": 270,
- "rankingPositionChange": 0,
- "gloryPoint": 29382,
- "gloryPointChange": 107,
+ "position": 271,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29336,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Asrielx",
  "guildName": "Deads Can Dance",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 29382,
    "gloryPointChange": 107,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 271,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29336,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

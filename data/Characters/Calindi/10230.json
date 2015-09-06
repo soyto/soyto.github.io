@@ -2,10 +2,10 @@
  "characterID": 10230,
  "characterClassID": 7,
  "raceID": 1,
- "position": 181,
- "rankingPositionChange": 9,
- "gloryPoint": 4661,
- "gloryPointChange": 371,
+ "position": 186,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4612,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lyn",
  "guildName": "The Valley Of Death",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 4661,
    "gloryPointChange": 371,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 186,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4612,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

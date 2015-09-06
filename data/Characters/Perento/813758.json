@@ -2,9 +2,9 @@
  "characterID": 813758,
  "characterClassID": 10,
  "raceID": 1,
- "position": 939,
- "rankingPositionChange": -4,
- "gloryPoint": 1775,
+ "position": 938,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1768,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Silvertung",
@@ -272,6 +272,14 @@
    "position": 939,
    "rankingPositionChange": -4,
    "gloryPoint": 1775,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 938,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1768,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

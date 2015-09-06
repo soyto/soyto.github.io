@@ -2,9 +2,9 @@
  "characterID": 517564,
  "characterClassID": 5,
  "raceID": 0,
- "position": 376,
- "rankingPositionChange": -1,
- "gloryPoint": 30045,
+ "position": 375,
+ "rankingPositionChange": 1,
+ "gloryPoint": 30017,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Reily",
@@ -272,6 +272,14 @@
    "position": 376,
    "rankingPositionChange": -1,
    "gloryPoint": 30045,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 375,
+   "rankingPositionChange": 1,
+   "gloryPoint": 30017,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

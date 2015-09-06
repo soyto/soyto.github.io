@@ -2,9 +2,9 @@
  "characterID": 1121531,
  "characterClassID": 7,
  "raceID": 1,
- "position": 949,
- "rankingPositionChange": 1,
- "gloryPoint": 3131,
+ "position": 951,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3124,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eowyyyn",
@@ -272,6 +272,14 @@
    "position": 949,
    "rankingPositionChange": 1,
    "gloryPoint": 3131,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3124,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

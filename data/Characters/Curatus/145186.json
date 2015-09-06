@@ -2,10 +2,10 @@
  "characterID": 145186,
  "characterClassID": 14,
  "raceID": 0,
- "position": 264,
+ "position": 265,
  "rankingPositionChange": -1,
- "gloryPoint": 63422,
- "gloryPointChange": 1,
+ "gloryPoint": 63383,
+ "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Chrome",
  "guildName": "Eclypse",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 63422,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 265,
+   "rankingPositionChange": -1,
+   "gloryPoint": 63383,
+   "gloryPointChange": -39,
    "soldierRankID": 13
   }
  ],

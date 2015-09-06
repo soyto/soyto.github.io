@@ -2,9 +2,9 @@
  "characterID": 1275857,
  "characterClassID": 14,
  "raceID": 1,
- "position": 815,
- "rankingPositionChange": 3,
- "gloryPoint": 4161,
+ "position": 817,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4154,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Thieph",
@@ -208,6 +208,14 @@
    "position": 815,
    "rankingPositionChange": 3,
    "gloryPoint": 4161,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4154,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

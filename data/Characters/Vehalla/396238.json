@@ -2,10 +2,10 @@
  "characterID": 396238,
  "characterClassID": 16,
  "raceID": 1,
- "position": 641,
- "rankingPositionChange": 1,
- "gloryPoint": 1312,
- "gloryPointChange": -7,
+ "position": 601,
+ "rankingPositionChange": 40,
+ "gloryPoint": 1367,
+ "gloryPointChange": 55,
  "soldierRankID": 10,
  "characterName": "Qaluba",
  "status": [
@@ -127,6 +127,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 1312,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 601,
+   "rankingPositionChange": 40,
+   "gloryPoint": 1367,
+   "gloryPointChange": 55,
    "soldierRankID": 10
   }
  ],

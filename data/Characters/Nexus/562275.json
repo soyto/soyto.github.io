@@ -2,10 +2,10 @@
  "characterID": 562275,
  "characterClassID": 10,
  "raceID": 0,
- "position": 321,
- "rankingPositionChange": 1,
- "gloryPoint": 32038,
- "gloryPointChange": 107,
+ "position": 322,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32060,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Shhen",
  "guildName": "Infinity",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 32038,
    "gloryPointChange": 107,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 322,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32060,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

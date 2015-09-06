@@ -2,9 +2,9 @@
  "characterID": 454700,
  "characterClassID": 10,
  "raceID": 1,
- "position": 604,
- "rankingPositionChange": 3,
- "gloryPoint": 2107,
+ "position": 608,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2093,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Salvya",
@@ -144,6 +144,14 @@
    "position": 604,
    "rankingPositionChange": 3,
    "gloryPoint": 2107,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 608,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2093,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

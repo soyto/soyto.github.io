@@ -2,9 +2,9 @@
  "characterID": 411027,
  "characterClassID": 2,
  "raceID": 0,
- "position": 786,
- "rankingPositionChange": 0,
- "gloryPoint": 2077,
+ "position": 787,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2070,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Deaad",
@@ -270,6 +270,14 @@
    "position": 786,
    "rankingPositionChange": 0,
    "gloryPoint": 2077,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 787,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2070,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

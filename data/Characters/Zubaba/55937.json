@@ -2,9 +2,9 @@
  "characterID": 55937,
  "characterClassID": 1,
  "raceID": 1,
- "position": 171,
- "rankingPositionChange": 0,
- "gloryPoint": 52040,
+ "position": 174,
+ "rankingPositionChange": -3,
+ "gloryPoint": 51991,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ragnarok",
@@ -272,6 +272,14 @@
    "position": 171,
    "rankingPositionChange": 0,
    "gloryPoint": 52040,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 174,
+   "rankingPositionChange": -3,
+   "gloryPoint": 51991,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

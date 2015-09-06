@@ -2,10 +2,10 @@
  "characterID": 653445,
  "characterClassID": 4,
  "raceID": 1,
- "position": 163,
- "rankingPositionChange": 2,
- "gloryPoint": 52822,
- "gloryPointChange": -49,
+ "position": 164,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52782,
+ "gloryPointChange": -40,
  "soldierRankID": 13,
  "characterName": "Seitenshi",
  "guildName": "Covenant",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 52822,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 164,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52782,
+   "gloryPointChange": -40,
    "soldierRankID": 13
   }
  ],

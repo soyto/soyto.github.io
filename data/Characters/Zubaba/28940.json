@@ -2,12 +2,14 @@
  "characterID": 28940,
  "characterClassID": 11,
  "raceID": 0,
- "position": 996,
- "rankingPositionChange": 3,
- "gloryPoint": 2751,
- "gloryPointChange": -7,
+ "position": 983,
+ "rankingPositionChange": 13,
+ "gloryPoint": 2844,
+ "gloryPointChange": 93,
  "soldierRankID": 10,
  "characterName": "Demigod",
+ "guildName": "The Order",
+ "guildID": 5668,
  "status": [
   {
    "date": "2015-08-19T22:00:00.000Z",
@@ -64,6 +66,14 @@
    "gloryPoint": 2751,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": 13,
+   "gloryPoint": 2844,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -75,6 +85,11 @@
  "guilds": [
   {
    "date": "2015-08-19T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "The Order",
+   "guildID": 5668
   }
  ]
 }

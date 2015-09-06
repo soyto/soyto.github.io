@@ -2,9 +2,9 @@
  "characterID": 1018312,
  "characterClassID": 11,
  "raceID": 1,
- "position": 658,
- "rankingPositionChange": 1,
- "gloryPoint": 1625,
+ "position": 664,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1611,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Belueth",
@@ -272,6 +272,14 @@
    "position": 658,
    "rankingPositionChange": 1,
    "gloryPoint": 1625,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 664,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1611,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

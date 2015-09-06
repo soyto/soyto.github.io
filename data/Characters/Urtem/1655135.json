@@ -2,9 +2,9 @@
  "characterID": 1655135,
  "characterClassID": 8,
  "raceID": 1,
- "position": 607,
- "rankingPositionChange": 1,
- "gloryPoint": 14025,
+ "position": 608,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14011,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kayase",
@@ -254,6 +254,14 @@
    "position": 607,
    "rankingPositionChange": 1,
    "gloryPoint": 14025,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 608,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14011,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

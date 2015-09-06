@@ -2,9 +2,9 @@
  "characterID": 1420761,
  "characterClassID": 8,
  "raceID": 1,
- "position": 827,
- "rankingPositionChange": 1,
- "gloryPoint": 6686,
+ "position": 833,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6679,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kyeen",
@@ -272,6 +272,14 @@
    "position": 827,
    "rankingPositionChange": 1,
    "gloryPoint": 6686,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6679,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

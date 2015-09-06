@@ -2,9 +2,9 @@
  "characterID": 1140065,
  "characterClassID": 16,
  "raceID": 0,
- "position": 919,
- "rankingPositionChange": -2,
- "gloryPoint": 5916,
+ "position": 916,
+ "rankingPositionChange": 3,
+ "gloryPoint": 5909,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Balkery",
@@ -272,6 +272,14 @@
    "position": 919,
    "rankingPositionChange": -2,
    "gloryPoint": 5916,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5909,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

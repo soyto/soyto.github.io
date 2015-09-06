@@ -2,9 +2,9 @@
  "characterID": 882988,
  "characterClassID": 5,
  "raceID": 1,
- "position": 804,
- "rankingPositionChange": 2,
- "gloryPoint": 2895,
+ "position": 808,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2888,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Slingshot",
@@ -272,6 +272,14 @@
    "position": 804,
    "rankingPositionChange": 2,
    "gloryPoint": 2895,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 808,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2888,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

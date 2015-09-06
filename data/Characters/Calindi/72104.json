@@ -2,9 +2,9 @@
  "characterID": 72104,
  "characterClassID": 7,
  "raceID": 0,
- "position": 913,
- "rankingPositionChange": 0,
- "gloryPoint": 1303,
+ "position": 912,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1296,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Maevia",
@@ -206,6 +206,14 @@
    "position": 913,
    "rankingPositionChange": 0,
    "gloryPoint": 1303,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1296,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

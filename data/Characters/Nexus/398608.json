@@ -2,10 +2,10 @@
  "characterID": 398608,
  "characterClassID": 14,
  "raceID": 1,
- "position": 744,
- "rankingPositionChange": 5,
- "gloryPoint": 14928,
- "gloryPointChange": 286,
+ "position": 745,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14971,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Gihest",
  "guildName": "Divine",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 14928,
    "gloryPointChange": 286,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 745,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14971,
+   "gloryPointChange": 43,
    "soldierRankID": 10
   }
  ],

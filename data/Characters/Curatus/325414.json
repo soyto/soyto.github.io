@@ -2,10 +2,10 @@
  "characterID": 325414,
  "characterClassID": 2,
  "raceID": 1,
- "position": 351,
- "rankingPositionChange": 0,
- "gloryPoint": 20574,
- "gloryPointChange": 22,
+ "position": 352,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20546,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tarakani",
  "guildName": "SouL  TeaR",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 20574,
    "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 352,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20546,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

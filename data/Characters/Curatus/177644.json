@@ -2,9 +2,9 @@
  "characterID": 177644,
  "characterClassID": 4,
  "raceID": 1,
- "position": 662,
- "rankingPositionChange": 1,
- "gloryPoint": 7526,
+ "position": 665,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7512,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nymeriaa",
@@ -272,6 +272,14 @@
    "position": 662,
    "rankingPositionChange": 1,
    "gloryPoint": 7526,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7512,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 230840,
  "characterClassID": 1,
  "raceID": 0,
- "position": 869,
- "rankingPositionChange": 10,
- "gloryPoint": 4106,
- "gloryPointChange": 135,
+ "position": 877,
+ "rankingPositionChange": -8,
+ "gloryPoint": 4099,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Abalister",
  "guildName": "Friendship",
@@ -57,6 +57,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 4106,
    "gloryPointChange": 135,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 877,
+   "rankingPositionChange": -8,
+   "gloryPoint": 4099,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

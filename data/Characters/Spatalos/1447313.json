@@ -2,10 +2,10 @@
  "characterID": 1447313,
  "characterClassID": 1,
  "raceID": 1,
- "position": 393,
- "rankingPositionChange": 1,
- "gloryPoint": 12944,
- "gloryPointChange": 33,
+ "position": 394,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13025,
+ "gloryPointChange": 81,
  "soldierRankID": 12,
  "characterName": "Devilglad",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12944,
    "gloryPointChange": 33,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13025,
+   "gloryPointChange": 81,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 606644,
  "characterClassID": 10,
  "raceID": 0,
- "position": 504,
- "rankingPositionChange": 3,
- "gloryPoint": 36175,
- "gloryPointChange": 242,
+ "position": 506,
+ "rankingPositionChange": -2,
+ "gloryPoint": 36211,
+ "gloryPointChange": 36,
  "soldierRankID": 11,
  "characterName": "Ynoe",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 36175,
    "gloryPointChange": 242,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 506,
+   "rankingPositionChange": -2,
+   "gloryPoint": 36211,
+   "gloryPointChange": 36,
    "soldierRankID": 11
   }
  ],

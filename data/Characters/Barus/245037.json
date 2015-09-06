@@ -2,10 +2,10 @@
  "characterID": 245037,
  "characterClassID": 10,
  "raceID": 1,
- "position": 101,
- "rankingPositionChange": 0,
- "gloryPoint": 115696,
- "gloryPointChange": 131,
+ "position": 102,
+ "rankingPositionChange": -1,
+ "gloryPoint": 115917,
+ "gloryPointChange": 221,
  "soldierRankID": 13,
  "characterName": "Sililjana",
  "guildName": "OutOfControl",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 115696,
    "gloryPointChange": 131,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 102,
+   "rankingPositionChange": -1,
+   "gloryPoint": 115917,
+   "gloryPointChange": 221,
    "soldierRankID": 13
   }
  ],

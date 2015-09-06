@@ -2,9 +2,9 @@
  "characterID": 1290091,
  "characterClassID": 14,
  "raceID": 1,
- "position": 148,
- "rankingPositionChange": -1,
- "gloryPoint": 77605,
+ "position": 147,
+ "rankingPositionChange": 1,
+ "gloryPoint": 77556,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kanden",
@@ -272,6 +272,14 @@
    "position": 148,
    "rankingPositionChange": -1,
    "gloryPoint": 77605,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": 1,
+   "gloryPoint": 77556,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

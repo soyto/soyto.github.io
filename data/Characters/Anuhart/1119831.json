@@ -2,9 +2,9 @@
  "characterID": 1119831,
  "characterClassID": 14,
  "raceID": 1,
- "position": 448,
- "rankingPositionChange": 2,
- "gloryPoint": 11099,
+ "position": 453,
+ "rankingPositionChange": -5,
+ "gloryPoint": 11071,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Gunns",
@@ -272,6 +272,14 @@
    "position": 448,
    "rankingPositionChange": 2,
    "gloryPoint": 11099,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 453,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11071,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

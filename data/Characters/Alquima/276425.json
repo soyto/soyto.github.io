@@ -2,10 +2,10 @@
  "characterID": 276425,
  "characterClassID": 5,
  "raceID": 1,
- "position": 713,
- "rankingPositionChange": 1,
- "gloryPoint": 10529,
- "gloryPointChange": 99,
+ "position": 716,
+ "rankingPositionChange": -3,
+ "gloryPoint": 10572,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Arrowhite",
  "guildName": "AlmaFuerte",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 10529,
    "gloryPointChange": 99,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 716,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10572,
+   "gloryPointChange": 43,
    "soldierRankID": 10
   }
  ],

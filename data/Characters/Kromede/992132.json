@@ -2,9 +2,9 @@
  "characterID": 992132,
  "characterClassID": 4,
  "raceID": 1,
- "position": 489,
- "rankingPositionChange": 0,
- "gloryPoint": 10202,
+ "position": 491,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10174,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Bonney",
@@ -224,6 +224,14 @@
    "position": 489,
    "rankingPositionChange": 0,
    "gloryPoint": 10202,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 491,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10174,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

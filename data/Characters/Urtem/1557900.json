@@ -2,9 +2,9 @@
  "characterID": 1557900,
  "characterClassID": 5,
  "raceID": 1,
- "position": 731,
- "rankingPositionChange": 2,
- "gloryPoint": 11020,
+ "position": 736,
+ "rankingPositionChange": -5,
+ "gloryPoint": 11013,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dudhei",
@@ -270,6 +270,14 @@
    "position": 731,
    "rankingPositionChange": 2,
    "gloryPoint": 11020,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 736,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11013,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

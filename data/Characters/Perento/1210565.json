@@ -2,9 +2,9 @@
  "characterID": 1210565,
  "characterClassID": 16,
  "raceID": 0,
- "position": 346,
- "rankingPositionChange": -1,
- "gloryPoint": 35972,
+ "position": 345,
+ "rankingPositionChange": 1,
+ "gloryPoint": 35944,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Twanny",
@@ -168,6 +168,14 @@
    "position": 346,
    "rankingPositionChange": -1,
    "gloryPoint": 35972,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 345,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35944,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 2141,
  "characterClassID": 10,
  "raceID": 1,
- "position": 92,
- "rankingPositionChange": 1,
- "gloryPoint": 83188,
+ "position": 93,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83081,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Lacio",
@@ -272,6 +272,14 @@
    "position": 92,
    "rankingPositionChange": 1,
    "gloryPoint": 83188,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83081,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

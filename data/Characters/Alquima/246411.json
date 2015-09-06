@@ -2,14 +2,14 @@
  "characterID": 246411,
  "characterClassID": 10,
  "raceID": 1,
- "position": 771,
- "rankingPositionChange": -2,
- "gloryPoint": 9182,
- "gloryPointChange": 13,
+ "position": 766,
+ "rankingPositionChange": 5,
+ "gloryPoint": 9356,
+ "gloryPointChange": 174,
  "soldierRankID": 10,
  "characterName": "Hoshigakii",
- "guildName": "Miserables Con Suerte",
- "guildID": 5223,
+ "guildName": " Essence ",
+ "guildID": 1667,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -258,6 +258,14 @@
    "gloryPoint": 9182,
    "gloryPointChange": 13,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 766,
+   "rankingPositionChange": 5,
+   "gloryPoint": 9356,
+   "gloryPointChange": 174,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -271,6 +279,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Miserables Con Suerte",
    "guildID": 5223
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": " Essence ",
+   "guildID": 1667
   }
  ]
 }

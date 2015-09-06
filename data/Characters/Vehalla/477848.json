@@ -2,9 +2,9 @@
  "characterID": 477848,
  "characterClassID": 16,
  "raceID": 1,
- "position": 629,
- "rankingPositionChange": 1,
- "gloryPoint": 1333,
+ "position": 631,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1326,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alaskax",
@@ -264,6 +264,14 @@
    "position": 629,
    "rankingPositionChange": 1,
    "gloryPoint": 1333,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 631,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1326,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

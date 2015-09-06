@@ -2,10 +2,10 @@
  "characterID": 938317,
  "characterClassID": 16,
  "raceID": 1,
- "position": 340,
- "rankingPositionChange": 0,
- "gloryPoint": 21008,
- "gloryPointChange": -25,
+ "position": 341,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21030,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Medduza",
  "guildName": "U M B R E L L A",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 21008,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 341,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21030,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

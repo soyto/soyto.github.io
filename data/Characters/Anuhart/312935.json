@@ -2,10 +2,10 @@
  "characterID": 312935,
  "characterClassID": 10,
  "raceID": 0,
- "position": 49,
- "rankingPositionChange": 1,
- "gloryPoint": 144017,
- "gloryPointChange": 1286,
+ "position": 50,
+ "rankingPositionChange": -1,
+ "gloryPoint": 144126,
+ "gloryPointChange": 109,
  "soldierRankID": 14,
  "characterName": "Lwiczus",
  "guildName": "S A T S U I",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 144017,
    "gloryPointChange": 1286,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 50,
+   "rankingPositionChange": -1,
+   "gloryPoint": 144126,
+   "gloryPointChange": 109,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1283990,
  "characterClassID": 16,
  "raceID": 1,
- "position": 554,
- "rankingPositionChange": 6,
- "gloryPoint": 13425,
- "gloryPointChange": 198,
+ "position": 557,
+ "rankingPositionChange": -3,
+ "gloryPoint": 13420,
+ "gloryPointChange": -5,
  "soldierRankID": 11,
  "characterName": "Nellyna",
  "guildName": "Les Evades d Elysea",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 13425,
    "gloryPointChange": 198,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 557,
+   "rankingPositionChange": -3,
+   "gloryPoint": 13420,
+   "gloryPointChange": -5,
    "soldierRankID": 11
   }
  ],

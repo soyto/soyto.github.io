@@ -2,9 +2,9 @@
  "characterID": 124535,
  "characterClassID": 1,
  "raceID": 1,
- "position": 113,
- "rankingPositionChange": 0,
- "gloryPoint": 80797,
+ "position": 114,
+ "rankingPositionChange": -1,
+ "gloryPoint": 80748,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Jews",
@@ -272,6 +272,14 @@
    "position": 113,
    "rankingPositionChange": 0,
    "gloryPoint": 80797,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 114,
+   "rankingPositionChange": -1,
+   "gloryPoint": 80748,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

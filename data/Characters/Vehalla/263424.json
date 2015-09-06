@@ -2,10 +2,10 @@
  "characterID": 263424,
  "characterClassID": 4,
  "raceID": 0,
- "position": 649,
- "rankingPositionChange": 12,
- "gloryPoint": 1417,
- "gloryPointChange": 55,
+ "position": 652,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1403,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Vaizel",
  "status": [
@@ -31,6 +31,14 @@
    "rankingPositionChange": 12,
    "gloryPoint": 1417,
    "gloryPointChange": 55,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 652,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1403,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

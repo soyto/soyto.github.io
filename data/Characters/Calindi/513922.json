@@ -2,9 +2,9 @@
  "characterID": 513922,
  "characterClassID": 10,
  "raceID": 0,
- "position": 728,
- "rankingPositionChange": 0,
- "gloryPoint": 2385,
+ "position": 730,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2378,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Esmaira",
@@ -272,6 +272,14 @@
    "position": 728,
    "rankingPositionChange": 0,
    "gloryPoint": 2385,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 730,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2378,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

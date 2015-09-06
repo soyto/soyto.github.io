@@ -2,9 +2,9 @@
  "characterID": 176286,
  "characterClassID": 4,
  "raceID": 1,
- "position": 720,
- "rankingPositionChange": 2,
- "gloryPoint": 5307,
+ "position": 722,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5300,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eatmypara",
@@ -270,6 +270,14 @@
    "position": 720,
    "rankingPositionChange": 2,
    "gloryPoint": 5307,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 722,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5300,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

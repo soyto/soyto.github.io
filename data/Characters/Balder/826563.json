@@ -2,9 +2,9 @@
  "characterID": 826563,
  "characterClassID": 11,
  "raceID": 1,
- "position": 479,
- "rankingPositionChange": 1,
- "gloryPoint": 2390,
+ "position": 481,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2362,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zyreon",
@@ -272,6 +272,14 @@
    "position": 479,
    "rankingPositionChange": 1,
    "gloryPoint": 2390,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 481,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2362,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

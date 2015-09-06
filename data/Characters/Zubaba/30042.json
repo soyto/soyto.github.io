@@ -2,9 +2,9 @@
  "characterID": 30042,
  "characterClassID": 14,
  "raceID": 1,
- "position": 951,
- "rankingPositionChange": 3,
- "gloryPoint": 1284,
+ "position": 958,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1277,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Akai",
@@ -272,6 +272,14 @@
    "position": 951,
    "rankingPositionChange": 3,
    "gloryPoint": 1284,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 958,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1277,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

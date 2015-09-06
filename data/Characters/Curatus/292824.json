@@ -2,9 +2,9 @@
  "characterID": 292824,
  "characterClassID": 5,
  "raceID": 1,
- "position": 559,
- "rankingPositionChange": 2,
- "gloryPoint": 10249,
+ "position": 561,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10235,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Johnlee",
@@ -272,6 +272,14 @@
    "position": 559,
    "rankingPositionChange": 2,
    "gloryPoint": 10249,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 561,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10235,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

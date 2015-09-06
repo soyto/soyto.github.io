@@ -2,9 +2,9 @@
  "characterID": 821203,
  "characterClassID": 16,
  "raceID": 0,
- "position": 64,
- "rankingPositionChange": 0,
- "gloryPoint": 112364,
+ "position": 65,
+ "rankingPositionChange": -1,
+ "gloryPoint": 112257,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Usahana",
@@ -264,6 +264,14 @@
    "position": 64,
    "rankingPositionChange": 0,
    "gloryPoint": 112364,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": -1,
+   "gloryPoint": 112257,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

@@ -2,9 +2,9 @@
  "characterID": 93513,
  "characterClassID": 16,
  "raceID": 0,
- "position": 817,
- "rankingPositionChange": 2,
- "gloryPoint": 5010,
+ "position": 822,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5003,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Saranzaya",
@@ -270,6 +270,14 @@
    "position": 817,
    "rankingPositionChange": 2,
    "gloryPoint": 5010,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 822,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5003,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

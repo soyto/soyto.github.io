@@ -2,9 +2,9 @@
  "characterID": 560874,
  "characterClassID": 11,
  "raceID": 1,
- "position": 353,
- "rankingPositionChange": 1,
- "gloryPoint": 8685,
+ "position": 354,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8657,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Niktia",
@@ -272,6 +272,14 @@
    "position": 353,
    "rankingPositionChange": 1,
    "gloryPoint": 8685,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 354,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8657,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

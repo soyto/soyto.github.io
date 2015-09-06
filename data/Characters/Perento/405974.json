@@ -2,10 +2,10 @@
  "characterID": 405974,
  "characterClassID": 11,
  "raceID": 1,
- "position": 315,
- "rankingPositionChange": 0,
- "gloryPoint": 21883,
- "gloryPointChange": 166,
+ "position": 317,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21955,
+ "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Alchymist",
  "guildName": "Existence",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 21883,
    "gloryPointChange": 166,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 317,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21955,
+   "gloryPointChange": 72,
    "soldierRankID": 12
   }
  ],

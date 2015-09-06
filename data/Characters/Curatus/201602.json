@@ -2,12 +2,14 @@
  "characterID": 201602,
  "characterClassID": 16,
  "raceID": 0,
- "position": 891,
- "rankingPositionChange": 0,
- "gloryPoint": 10617,
+ "position": 892,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10610,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zakeo",
+ "guildName": "Insomnia",
+ "guildID": 7048,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 10617,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 892,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10610,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-29T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Insomnia",
+   "guildID": 7048
   }
  ]
 }

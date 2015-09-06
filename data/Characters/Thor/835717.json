@@ -2,9 +2,9 @@
  "characterID": 835717,
  "characterClassID": 11,
  "raceID": 0,
- "position": 379,
- "rankingPositionChange": 0,
- "gloryPoint": 48025,
+ "position": 380,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47997,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tweeti",
@@ -270,6 +270,14 @@
    "position": 379,
    "rankingPositionChange": 0,
    "gloryPoint": 48025,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47997,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

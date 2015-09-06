@@ -2,9 +2,9 @@
  "characterID": 183028,
  "characterClassID": 11,
  "raceID": 0,
- "position": 751,
- "rankingPositionChange": 0,
- "gloryPoint": 2261,
+ "position": 752,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2254,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fulminique",
@@ -112,6 +112,14 @@
    "position": 751,
    "rankingPositionChange": 0,
    "gloryPoint": 2261,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 752,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2254,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

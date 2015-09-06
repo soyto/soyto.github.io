@@ -2,9 +2,9 @@
  "characterID": 1485420,
  "characterClassID": 11,
  "raceID": 1,
- "position": 511,
- "rankingPositionChange": 0,
- "gloryPoint": 17932,
+ "position": 515,
+ "rankingPositionChange": -4,
+ "gloryPoint": 17918,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Grabule",
@@ -240,6 +240,14 @@
    "position": 511,
    "rankingPositionChange": 0,
    "gloryPoint": 17932,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 515,
+   "rankingPositionChange": -4,
+   "gloryPoint": 17918,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

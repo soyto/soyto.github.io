@@ -2,9 +2,9 @@
  "characterID": 131616,
  "characterClassID": 11,
  "raceID": 0,
- "position": 526,
- "rankingPositionChange": 2,
- "gloryPoint": 5239,
+ "position": 528,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5225,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Agress",
@@ -224,6 +224,14 @@
    "position": 526,
    "rankingPositionChange": 2,
    "gloryPoint": 5239,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 528,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5225,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

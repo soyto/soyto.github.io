@@ -2,9 +2,9 @@
  "characterID": 1002405,
  "characterClassID": 1,
  "raceID": 1,
- "position": 587,
- "rankingPositionChange": -3,
- "gloryPoint": 6015,
+ "position": 586,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6001,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zonnie",
@@ -272,6 +272,14 @@
    "position": 587,
    "rankingPositionChange": -3,
    "gloryPoint": 6015,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 586,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6001,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

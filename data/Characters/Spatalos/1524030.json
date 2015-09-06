@@ -2,9 +2,9 @@
  "characterID": 1524030,
  "characterClassID": 16,
  "raceID": 1,
- "position": 447,
- "rankingPositionChange": 0,
- "gloryPoint": 9851,
+ "position": 448,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9823,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hypnobear",
@@ -262,6 +262,14 @@
    "position": 447,
    "rankingPositionChange": 0,
    "gloryPoint": 9851,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 448,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9823,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

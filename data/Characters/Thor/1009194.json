@@ -2,9 +2,9 @@
  "characterID": 1009194,
  "characterClassID": 10,
  "raceID": 0,
- "position": 419,
- "rankingPositionChange": 1,
- "gloryPoint": 42776,
+ "position": 420,
+ "rankingPositionChange": -1,
+ "gloryPoint": 42748,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Xeeni",
@@ -272,6 +272,14 @@
    "position": 419,
    "rankingPositionChange": 1,
    "gloryPoint": 42776,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 420,
+   "rankingPositionChange": -1,
+   "gloryPoint": 42748,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

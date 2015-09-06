@@ -2,9 +2,9 @@
  "characterID": 230588,
  "characterClassID": 14,
  "raceID": 0,
- "position": 981,
- "rankingPositionChange": 3,
- "gloryPoint": 2823,
+ "position": 986,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2816,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cehennemlordu",
@@ -272,6 +272,14 @@
    "position": 981,
    "rankingPositionChange": 3,
    "gloryPoint": 2823,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2816,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 563713,
  "characterClassID": 8,
  "raceID": 1,
- "position": 213,
- "rankingPositionChange": 3,
- "gloryPoint": 45492,
+ "position": 214,
+ "rankingPositionChange": -1,
+ "gloryPoint": 45443,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Vedmamlja",
@@ -272,6 +272,14 @@
    "position": 213,
    "rankingPositionChange": 3,
    "gloryPoint": 45492,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 214,
+   "rankingPositionChange": -1,
+   "gloryPoint": 45443,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

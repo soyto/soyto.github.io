@@ -2,9 +2,9 @@
  "characterID": 917060,
  "characterClassID": 5,
  "raceID": 0,
- "position": 926,
- "rankingPositionChange": -2,
- "gloryPoint": 6965,
+ "position": 925,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6958,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Stillwild",
@@ -272,6 +272,14 @@
    "position": 926,
    "rankingPositionChange": -2,
    "gloryPoint": 6965,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 925,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6958,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

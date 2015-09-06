@@ -2,9 +2,9 @@
  "characterID": 244421,
  "characterClassID": 16,
  "raceID": 0,
- "position": 560,
- "rankingPositionChange": -2,
- "gloryPoint": 24515,
+ "position": 559,
+ "rankingPositionChange": 1,
+ "gloryPoint": 24501,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Reim",
@@ -272,6 +272,14 @@
    "position": 560,
    "rankingPositionChange": -2,
    "gloryPoint": 24515,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 559,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24501,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

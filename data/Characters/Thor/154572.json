@@ -2,10 +2,10 @@
  "characterID": 154572,
  "characterClassID": 2,
  "raceID": 0,
- "position": 759,
- "rankingPositionChange": 0,
- "gloryPoint": 22289,
- "gloryPointChange": 54,
+ "position": 758,
+ "rankingPositionChange": 1,
+ "gloryPoint": 22288,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Drevor",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 22289,
    "gloryPointChange": 54,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 758,
+   "rankingPositionChange": 1,
+   "gloryPoint": 22288,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

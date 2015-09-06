@@ -2,9 +2,9 @@
  "characterID": 194367,
  "characterClassID": 5,
  "raceID": 1,
- "position": 938,
- "rankingPositionChange": 5,
- "gloryPoint": 1818,
+ "position": 942,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1811,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Malandra",
@@ -96,6 +96,14 @@
    "position": 938,
    "rankingPositionChange": 5,
    "gloryPoint": 1818,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1811,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

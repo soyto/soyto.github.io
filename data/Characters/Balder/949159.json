@@ -2,10 +2,10 @@
  "characterID": 949159,
  "characterClassID": 1,
  "raceID": 1,
- "position": 531,
- "rankingPositionChange": 6,
- "gloryPoint": 1861,
- "gloryPointChange": 39,
+ "position": 533,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1847,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Spinderella",
  "guildName": "Souls of Infinity",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 1861,
    "gloryPointChange": 39,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 533,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1847,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

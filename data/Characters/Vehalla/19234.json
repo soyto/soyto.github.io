@@ -2,9 +2,9 @@
  "characterID": 19234,
  "characterClassID": 1,
  "raceID": 1,
- "position": 213,
- "rankingPositionChange": -1,
- "gloryPoint": 17710,
+ "position": 212,
+ "rankingPositionChange": 1,
+ "gloryPoint": 17661,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Wodka",
@@ -272,6 +272,14 @@
    "position": 213,
    "rankingPositionChange": -1,
    "gloryPoint": 17710,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 212,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17661,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

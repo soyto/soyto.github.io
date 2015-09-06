@@ -2,9 +2,9 @@
  "characterID": 286896,
  "characterClassID": 1,
  "raceID": 1,
- "position": 98,
- "rankingPositionChange": 0,
- "gloryPoint": 17371,
+ "position": 99,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17264,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Ilkayne",
@@ -272,6 +272,14 @@
    "position": 98,
    "rankingPositionChange": 0,
    "gloryPoint": 17371,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 99,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17264,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

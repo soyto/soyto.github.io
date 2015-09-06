@@ -2,9 +2,9 @@
  "characterID": 19218,
  "characterClassID": 4,
  "raceID": 1,
- "position": 121,
- "rankingPositionChange": 0,
- "gloryPoint": 12649,
+ "position": 122,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12600,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Senseianubiis",
@@ -192,6 +192,14 @@
    "position": 121,
    "rankingPositionChange": 0,
    "gloryPoint": 12649,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 122,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12600,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -3,9 +3,9 @@
  "characterClassID": 16,
  "raceID": 0,
  "position": 65,
- "rankingPositionChange": 1,
- "gloryPoint": 158912,
- "gloryPointChange": 273,
+ "rankingPositionChange": 0,
+ "gloryPoint": 158805,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Cledesol",
  "guildName": "Apocalypsia",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 158912,
    "gloryPointChange": 273,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": 0,
+   "gloryPoint": 158805,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

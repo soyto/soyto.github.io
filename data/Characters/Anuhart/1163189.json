@@ -2,9 +2,9 @@
  "characterID": 1163189,
  "characterClassID": 14,
  "raceID": 1,
- "position": 796,
- "rankingPositionChange": 2,
- "gloryPoint": 2985,
+ "position": 800,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2978,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shinomy",
@@ -272,6 +272,14 @@
    "position": 796,
    "rankingPositionChange": 2,
    "gloryPoint": 2985,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2978,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

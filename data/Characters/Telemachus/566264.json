@@ -2,10 +2,10 @@
  "characterID": 566264,
  "characterClassID": 1,
  "raceID": 0,
- "position": 93,
- "rankingPositionChange": 0,
- "gloryPoint": 158298,
- "gloryPointChange": 103,
+ "position": 94,
+ "rankingPositionChange": -1,
+ "gloryPoint": 158191,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Highway",
  "guildName": "ENTAXH",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 158298,
    "gloryPointChange": 103,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 94,
+   "rankingPositionChange": -1,
+   "gloryPoint": 158191,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

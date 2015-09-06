@@ -2,9 +2,9 @@
  "characterID": 1487310,
  "characterClassID": 1,
  "raceID": 1,
- "position": 780,
- "rankingPositionChange": 0,
- "gloryPoint": 16374,
+ "position": 781,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16367,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Trench",
@@ -256,6 +256,14 @@
    "position": 780,
    "rankingPositionChange": 0,
    "gloryPoint": 16374,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16367,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

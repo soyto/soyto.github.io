@@ -2,10 +2,10 @@
  "characterID": 79627,
  "characterClassID": 4,
  "raceID": 1,
- "position": 95,
- "rankingPositionChange": 1,
- "gloryPoint": 95160,
- "gloryPointChange": 346,
+ "position": 96,
+ "rankingPositionChange": -1,
+ "gloryPoint": 95153,
+ "gloryPointChange": -7,
  "soldierRankID": 14,
  "characterName": "Volt",
  "guildName": "Bosphorus",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 95160,
    "gloryPointChange": 346,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 96,
+   "rankingPositionChange": -1,
+   "gloryPoint": 95153,
+   "gloryPointChange": -7,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 828148,
  "characterClassID": 2,
  "raceID": 0,
- "position": 715,
- "rankingPositionChange": 0,
- "gloryPoint": 9522,
+ "position": 716,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9515,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Templlar",
@@ -248,6 +248,14 @@
    "position": 715,
    "rankingPositionChange": 0,
    "gloryPoint": 9522,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 716,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9515,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

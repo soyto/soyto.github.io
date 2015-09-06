@@ -2,9 +2,9 @@
  "characterID": 336556,
  "characterClassID": 1,
  "raceID": 0,
- "position": 832,
- "rankingPositionChange": 3,
- "gloryPoint": 13413,
+ "position": 833,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13406,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kimbrah",
@@ -272,6 +272,14 @@
    "position": 832,
    "rankingPositionChange": 3,
    "gloryPoint": 13413,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13406,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

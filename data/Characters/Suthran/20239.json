@@ -2,10 +2,10 @@
  "characterID": 20239,
  "characterClassID": 2,
  "raceID": 0,
- "position": 952,
- "rankingPositionChange": 6,
- "gloryPoint": 10801,
- "gloryPointChange": 92,
+ "position": 954,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10794,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wyx",
  "guildName": "Human Brain Project",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 10801,
    "gloryPointChange": 92,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 954,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10794,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 252064,
  "characterClassID": 11,
  "raceID": 0,
- "position": 221,
- "rankingPositionChange": 3,
- "gloryPoint": 73196,
- "gloryPointChange": 750,
+ "position": 222,
+ "rankingPositionChange": -1,
+ "gloryPoint": 73739,
+ "gloryPointChange": 543,
  "soldierRankID": 13,
  "characterName": "Eriki",
  "guildName": "Long Island",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 73196,
    "gloryPointChange": 750,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -1,
+   "gloryPoint": 73739,
+   "gloryPointChange": 543,
    "soldierRankID": 13
   }
  ],

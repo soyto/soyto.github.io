@@ -3,8 +3,8 @@
  "characterClassID": 11,
  "raceID": 1,
  "position": 101,
- "rankingPositionChange": 1,
- "gloryPoint": 113231,
+ "rankingPositionChange": 0,
+ "gloryPoint": 113182,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Februar",
@@ -272,6 +272,14 @@
    "position": 101,
    "rankingPositionChange": 1,
    "gloryPoint": 113231,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 101,
+   "rankingPositionChange": 0,
+   "gloryPoint": 113182,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

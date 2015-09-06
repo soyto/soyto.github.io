@@ -2,10 +2,10 @@
  "characterID": 526681,
  "characterClassID": 1,
  "raceID": 0,
- "position": 606,
- "rankingPositionChange": 1,
- "gloryPoint": 29269,
- "gloryPointChange": 86,
+ "position": 608,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29255,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Marena",
  "guildName": "SoeldnerMBH",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 29269,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 608,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29255,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

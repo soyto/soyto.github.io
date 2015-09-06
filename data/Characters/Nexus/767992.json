@@ -2,9 +2,9 @@
  "characterID": 767992,
  "characterClassID": 13,
  "raceID": 0,
- "position": 975,
- "rankingPositionChange": 2,
- "gloryPoint": 4564,
+ "position": 977,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4557,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bananero",
@@ -104,6 +104,14 @@
    "position": 975,
    "rankingPositionChange": 2,
    "gloryPoint": 4564,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 977,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4557,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

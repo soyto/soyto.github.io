@@ -2,9 +2,9 @@
  "characterID": 1140928,
  "characterClassID": 14,
  "raceID": 1,
- "position": 869,
- "rankingPositionChange": 1,
- "gloryPoint": 3746,
+ "position": 873,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3739,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Selllina",
@@ -270,6 +270,14 @@
    "position": 869,
    "rankingPositionChange": 1,
    "gloryPoint": 3746,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 873,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3739,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,12 +2,12 @@
  "characterID": 242131,
  "characterClassID": 2,
  "raceID": 0,
- "position": 326,
- "rankingPositionChange": 0,
- "gloryPoint": 37286,
+ "position": 325,
+ "rankingPositionChange": 1,
+ "gloryPoint": 37258,
  "gloryPointChange": -28,
  "soldierRankID": 12,
- "characterName": "Dalion",
+ "characterName": "Termor",
  "guildName": "SemperFidelis",
  "guildID": 2804,
  "status": [
@@ -274,12 +274,24 @@
    "gloryPoint": 37286,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 325,
+   "rankingPositionChange": 1,
+   "gloryPoint": 37258,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Dalion"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Termor"
   }
  ],
  "guilds": [

@@ -2,10 +2,10 @@
  "characterID": 436471,
  "characterClassID": 16,
  "raceID": 1,
- "position": 411,
- "rankingPositionChange": 1,
- "gloryPoint": 20341,
- "gloryPointChange": 72,
+ "position": 413,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20363,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Irikah",
  "guildName": "Lujuria",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20341,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 413,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20363,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 257459,
  "characterClassID": 16,
  "raceID": 1,
- "position": 861,
- "rankingPositionChange": 3,
- "gloryPoint": 1921,
+ "position": 865,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1914,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Piksel",
@@ -38,6 +38,14 @@
    "position": 861,
    "rankingPositionChange": 3,
    "gloryPoint": 1921,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 865,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1914,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

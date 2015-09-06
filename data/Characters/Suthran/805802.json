@@ -2,10 +2,10 @@
  "characterID": 805802,
  "characterClassID": 10,
  "raceID": 0,
- "position": 406,
- "rankingPositionChange": 1,
- "gloryPoint": 39476,
- "gloryPointChange": 147,
+ "position": 407,
+ "rankingPositionChange": -1,
+ "gloryPoint": 39448,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Katelynn",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 39476,
    "gloryPointChange": 147,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 407,
+   "rankingPositionChange": -1,
+   "gloryPoint": 39448,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

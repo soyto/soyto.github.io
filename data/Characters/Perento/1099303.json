@@ -2,9 +2,9 @@
  "characterID": 1099303,
  "characterClassID": 16,
  "raceID": 0,
- "position": 274,
- "rankingPositionChange": -1,
- "gloryPoint": 47833,
+ "position": 273,
+ "rankingPositionChange": 1,
+ "gloryPoint": 47784,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Trubaduuri",
@@ -272,6 +272,14 @@
    "position": 274,
    "rankingPositionChange": -1,
    "gloryPoint": 47833,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 273,
+   "rankingPositionChange": 1,
+   "gloryPoint": 47784,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

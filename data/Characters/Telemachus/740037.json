@@ -2,10 +2,10 @@
  "characterID": 740037,
  "characterClassID": 8,
  "raceID": 1,
- "position": 744,
- "rankingPositionChange": 57,
- "gloryPoint": 1291,
- "gloryPointChange": 43,
+ "position": 754,
+ "rankingPositionChange": -10,
+ "gloryPoint": 1284,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sixam",
  "status": [
@@ -23,6 +23,14 @@
    "rankingPositionChange": 57,
    "gloryPoint": 1291,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 754,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1284,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

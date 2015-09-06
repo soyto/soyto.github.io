@@ -2,9 +2,9 @@
  "characterID": 170226,
  "characterClassID": 13,
  "raceID": 1,
- "position": 331,
- "rankingPositionChange": 0,
- "gloryPoint": 22225,
+ "position": 332,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22197,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Neumann",
@@ -272,6 +272,14 @@
    "position": 331,
    "rankingPositionChange": 0,
    "gloryPoint": 22225,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 332,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22197,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

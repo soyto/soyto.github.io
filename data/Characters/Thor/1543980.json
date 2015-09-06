@@ -2,9 +2,9 @@
  "characterID": 1543980,
  "characterClassID": 1,
  "raceID": 1,
- "position": 289,
- "rankingPositionChange": 0,
- "gloryPoint": 55742,
+ "position": 291,
+ "rankingPositionChange": -2,
+ "gloryPoint": 55693,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Jackstraw",
@@ -176,6 +176,14 @@
    "position": 289,
    "rankingPositionChange": 0,
    "gloryPoint": 55742,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 291,
+   "rankingPositionChange": -2,
+   "gloryPoint": 55693,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

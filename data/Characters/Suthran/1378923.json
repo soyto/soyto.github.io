@@ -2,10 +2,10 @@
  "characterID": 1378923,
  "characterClassID": 1,
  "raceID": 1,
- "position": 271,
+ "position": 270,
  "rankingPositionChange": 1,
- "gloryPoint": 39914,
- "gloryPointChange": 285,
+ "gloryPoint": 39865,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Bartn",
  "guildName": "SchizoFriends",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 39914,
    "gloryPointChange": 285,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": 1,
+   "gloryPoint": 39865,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

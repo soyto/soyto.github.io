@@ -2,9 +2,9 @@
  "characterID": 218448,
  "characterClassID": 10,
  "raceID": 0,
- "position": 729,
- "rankingPositionChange": 0,
- "gloryPoint": 6987,
+ "position": 734,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6980,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fzt",
@@ -272,6 +272,14 @@
    "position": 729,
    "rankingPositionChange": 0,
    "gloryPoint": 6987,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 734,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6980,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

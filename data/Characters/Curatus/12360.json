@@ -2,10 +2,10 @@
  "characterID": 12360,
  "characterClassID": 10,
  "raceID": 0,
- "position": 275,
- "rankingPositionChange": 0,
- "gloryPoint": 60802,
- "gloryPointChange": 51,
+ "position": 276,
+ "rankingPositionChange": -1,
+ "gloryPoint": 60809,
+ "gloryPointChange": 7,
  "soldierRankID": 13,
  "characterName": "Kendrah",
  "guildName": "R A G E",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 60802,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 276,
+   "rankingPositionChange": -1,
+   "gloryPoint": 60809,
+   "gloryPointChange": 7,
    "soldierRankID": 13
   }
  ],

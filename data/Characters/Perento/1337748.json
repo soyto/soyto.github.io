@@ -2,9 +2,9 @@
  "characterID": 1337748,
  "characterClassID": 2,
  "raceID": 0,
- "position": 362,
- "rankingPositionChange": 0,
- "gloryPoint": 32324,
+ "position": 363,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32296,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Niemiec",
@@ -272,6 +272,14 @@
    "position": 362,
    "rankingPositionChange": 0,
    "gloryPoint": 32324,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 363,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32296,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

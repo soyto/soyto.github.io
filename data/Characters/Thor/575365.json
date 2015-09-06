@@ -2,9 +2,9 @@
  "characterID": 575365,
  "characterClassID": 11,
  "raceID": 1,
- "position": 198,
- "rankingPositionChange": 0,
- "gloryPoint": 71411,
+ "position": 203,
+ "rankingPositionChange": -5,
+ "gloryPoint": 71362,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Fantasybabe",
@@ -272,6 +272,14 @@
    "position": 198,
    "rankingPositionChange": 0,
    "gloryPoint": 71411,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 203,
+   "rankingPositionChange": -5,
+   "gloryPoint": 71362,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

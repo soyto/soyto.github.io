@@ -2,10 +2,10 @@
  "characterID": 1109357,
  "characterClassID": 14,
  "raceID": 1,
- "position": 87,
- "rankingPositionChange": 0,
- "gloryPoint": 67537,
- "gloryPointChange": 5,
+ "position": 88,
+ "rankingPositionChange": -1,
+ "gloryPoint": 67490,
+ "gloryPointChange": -47,
  "soldierRankID": 14,
  "characterName": "Alzack",
  "guildName": "Ordem Secreta",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 67537,
    "gloryPointChange": 5,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 88,
+   "rankingPositionChange": -1,
+   "gloryPoint": 67490,
+   "gloryPointChange": -47,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 2619,
  "characterClassID": 11,
  "raceID": 0,
- "position": 35,
- "rankingPositionChange": 0,
- "gloryPoint": 241646,
+ "position": 36,
+ "rankingPositionChange": -1,
+ "gloryPoint": 241539,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Alrun",
@@ -230,6 +230,14 @@
    "position": 35,
    "rankingPositionChange": 0,
    "gloryPoint": 241646,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 36,
+   "rankingPositionChange": -1,
+   "gloryPoint": 241539,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

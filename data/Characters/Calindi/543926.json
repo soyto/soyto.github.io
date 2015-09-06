@@ -2,10 +2,10 @@
  "characterID": 543926,
  "characterClassID": 11,
  "raceID": 0,
- "position": 658,
- "rankingPositionChange": 0,
- "gloryPoint": 2702,
- "gloryPointChange": 22,
+ "position": 662,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2688,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Akinory",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 2702,
    "gloryPointChange": 22,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 662,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2688,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

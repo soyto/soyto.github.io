@@ -2,9 +2,9 @@
  "characterID": 7405,
  "characterClassID": 1,
  "raceID": 0,
- "position": 842,
- "rankingPositionChange": 3,
- "gloryPoint": 4554,
+ "position": 846,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4547,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Heike",
@@ -272,6 +272,14 @@
    "position": 842,
    "rankingPositionChange": 3,
    "gloryPoint": 4554,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4547,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

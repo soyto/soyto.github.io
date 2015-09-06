@@ -2,9 +2,9 @@
  "characterID": 849376,
  "characterClassID": 14,
  "raceID": 1,
- "position": 325,
- "rankingPositionChange": 3,
- "gloryPoint": 22739,
+ "position": 326,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22711,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Walkerr",
@@ -270,6 +270,14 @@
    "position": 325,
    "rankingPositionChange": 3,
    "gloryPoint": 22739,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 326,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22711,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

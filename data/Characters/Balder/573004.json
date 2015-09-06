@@ -2,10 +2,10 @@
  "characterID": 573004,
  "characterClassID": 4,
  "raceID": 1,
- "position": 179,
- "rankingPositionChange": 1,
- "gloryPoint": 30785,
- "gloryPointChange": -49,
+ "position": 180,
+ "rankingPositionChange": -1,
+ "gloryPoint": 30746,
+ "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Razzy",
  "guildName": "Flaming Wings",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 30785,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 180,
+   "rankingPositionChange": -1,
+   "gloryPoint": 30746,
+   "gloryPointChange": -39,
    "soldierRankID": 13
   }
  ],

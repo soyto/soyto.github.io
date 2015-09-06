@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 0,
  "position": 222,
- "rankingPositionChange": 1,
- "gloryPoint": 50363,
- "gloryPointChange": 667,
+ "rankingPositionChange": 0,
+ "gloryPoint": 50314,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Mols",
  "guildName": "Soul Reapers",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 50363,
    "gloryPointChange": 667,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": 0,
+   "gloryPoint": 50314,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

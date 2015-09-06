@@ -2,9 +2,9 @@
  "characterID": 70205,
  "characterClassID": 2,
  "raceID": 1,
- "position": 208,
- "rankingPositionChange": 0,
- "gloryPoint": 30761,
+ "position": 209,
+ "rankingPositionChange": -1,
+ "gloryPoint": 30712,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hobo",
@@ -272,6 +272,14 @@
    "position": 208,
    "rankingPositionChange": 0,
    "gloryPoint": 30761,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 209,
+   "rankingPositionChange": -1,
+   "gloryPoint": 30712,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

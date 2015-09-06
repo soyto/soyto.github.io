@@ -2,10 +2,10 @@
  "characterID": 1046833,
  "characterClassID": 11,
  "raceID": 1,
- "position": 157,
- "rankingPositionChange": 0,
- "gloryPoint": 40522,
- "gloryPointChange": 161,
+ "position": 158,
+ "rankingPositionChange": -1,
+ "gloryPoint": 41098,
+ "gloryPointChange": 576,
  "soldierRankID": 13,
  "characterName": "Celenna",
  "guildName": "Reload",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 40522,
    "gloryPointChange": 161,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 158,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41098,
+   "gloryPointChange": 576,
    "soldierRankID": 13
   }
  ],

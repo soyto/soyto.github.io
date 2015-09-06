@@ -2,9 +2,9 @@
  "characterID": 490990,
  "characterClassID": 2,
  "raceID": 1,
- "position": 311,
- "rankingPositionChange": 2,
- "gloryPoint": 25575,
+ "position": 313,
+ "rankingPositionChange": -2,
+ "gloryPoint": 25547,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Jentara",
@@ -272,6 +272,14 @@
    "position": 311,
    "rankingPositionChange": 2,
    "gloryPoint": 25575,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 313,
+   "rankingPositionChange": -2,
+   "gloryPoint": 25547,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

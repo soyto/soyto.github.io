@@ -2,9 +2,9 @@
  "characterID": 211143,
  "characterClassID": 2,
  "raceID": 0,
- "position": 785,
- "rankingPositionChange": 2,
- "gloryPoint": 14620,
+ "position": 786,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14613,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pedorretas",
@@ -224,6 +224,14 @@
    "position": 785,
    "rankingPositionChange": 2,
    "gloryPoint": 14620,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 786,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14613,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

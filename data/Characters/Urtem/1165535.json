@@ -2,9 +2,9 @@
  "characterID": 1165535,
  "characterClassID": 11,
  "raceID": 1,
- "position": 904,
- "rankingPositionChange": 1,
- "gloryPoint": 7957,
+ "position": 905,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7950,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Moussi",
@@ -224,6 +224,14 @@
    "position": 904,
    "rankingPositionChange": 1,
    "gloryPoint": 7957,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 905,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7950,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

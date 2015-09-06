@@ -2,10 +2,10 @@
  "characterID": 260200,
  "characterClassID": 11,
  "raceID": 1,
- "position": 535,
- "rankingPositionChange": 5,
- "gloryPoint": 8748,
- "gloryPointChange": 61,
+ "position": 536,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8734,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "KantilVT",
  "guildName": "END of all H O P E",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 8748,
    "gloryPointChange": 61,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 536,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8734,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

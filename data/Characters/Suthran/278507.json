@@ -2,9 +2,9 @@
  "characterID": 278507,
  "characterClassID": 2,
  "raceID": 1,
- "position": 245,
- "rankingPositionChange": 0,
- "gloryPoint": 44178,
+ "position": 244,
+ "rankingPositionChange": 1,
+ "gloryPoint": 44129,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Karius",
@@ -272,6 +272,14 @@
    "position": 245,
    "rankingPositionChange": 0,
    "gloryPoint": 44178,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 244,
+   "rankingPositionChange": 1,
+   "gloryPoint": 44129,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

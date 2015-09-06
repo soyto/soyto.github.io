@@ -2,9 +2,9 @@
  "characterID": 1101895,
  "characterClassID": 16,
  "raceID": 0,
- "position": 86,
- "rankingPositionChange": 0,
- "gloryPoint": 129754,
+ "position": 87,
+ "rankingPositionChange": -1,
+ "gloryPoint": 129647,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Xanaddu",
@@ -272,6 +272,14 @@
    "position": 86,
    "rankingPositionChange": 0,
    "gloryPoint": 129754,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 87,
+   "rankingPositionChange": -1,
+   "gloryPoint": 129647,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

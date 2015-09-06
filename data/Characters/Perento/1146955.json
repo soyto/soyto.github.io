@@ -2,11 +2,11 @@
  "characterID": 1146955,
  "characterClassID": 11,
  "raceID": 0,
- "position": 999,
- "rankingPositionChange": 0,
- "gloryPoint": 4753,
- "gloryPointChange": 0,
- "soldierRankID": 10,
+ "position": 1000,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4746,
+ "gloryPointChange": -7,
+ "soldierRankID": 0,
  "characterName": "Elaisa",
  "guildName": "Maximum Baddies",
  "guildID": 29461,
@@ -18,6 +18,14 @@
    "gloryPoint": 4753,
    "gloryPointChange": 0,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4746,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
   }
  ],
  "names": [

@@ -2,10 +2,10 @@
  "characterID": 317193,
  "characterClassID": 7,
  "raceID": 0,
- "position": 384,
- "rankingPositionChange": 1,
- "gloryPoint": 24914,
- "gloryPointChange": 75,
+ "position": 385,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24896,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Ancutica",
  "guildName": "Fire Shadows",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 24914,
    "gloryPointChange": 75,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 385,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24896,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

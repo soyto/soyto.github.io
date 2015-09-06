@@ -2,12 +2,14 @@
  "characterID": 544952,
  "characterClassID": 14,
  "raceID": 1,
- "position": 242,
+ "position": 245,
  "rankingPositionChange": -3,
- "gloryPoint": 1954,
- "gloryPointChange": -28,
+ "gloryPoint": 1966,
+ "gloryPointChange": 12,
  "soldierRankID": 12,
  "characterName": "Nelyy",
+ "guildName": "HYGDRASIL",
+ "guildID": 16107,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 1954,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1966,
+   "gloryPointChange": 12,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-18T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "HYGDRASIL",
+   "guildID": 16107
   }
  ]
 }

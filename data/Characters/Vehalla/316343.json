@@ -2,9 +2,9 @@
  "characterID": 316343,
  "characterClassID": 7,
  "raceID": 1,
- "position": 349,
- "rankingPositionChange": -3,
- "gloryPoint": 7106,
+ "position": 346,
+ "rankingPositionChange": 3,
+ "gloryPoint": 7078,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Woin",
@@ -272,6 +272,14 @@
    "position": 349,
    "rankingPositionChange": -3,
    "gloryPoint": 7106,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 346,
+   "rankingPositionChange": 3,
+   "gloryPoint": 7078,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

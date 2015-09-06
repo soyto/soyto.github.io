@@ -2,10 +2,10 @@
  "characterID": 29984,
  "characterClassID": 14,
  "raceID": 1,
- "position": 481,
- "rankingPositionChange": 0,
- "gloryPoint": 13310,
- "gloryPointChange": -28,
+ "position": 482,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13332,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Dios",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 13310,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 482,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13332,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 601519,
  "characterClassID": 1,
  "raceID": 1,
- "position": 367,
- "rankingPositionChange": 1,
- "gloryPoint": 23057,
- "gloryPointChange": 163,
+ "position": 368,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23322,
+ "gloryPointChange": 265,
  "soldierRankID": 12,
  "characterName": "Knivez",
  "guildName": "Mythos Of Fregion",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 23057,
    "gloryPointChange": 163,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 368,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23322,
+   "gloryPointChange": 265,
    "soldierRankID": 12
   }
  ],

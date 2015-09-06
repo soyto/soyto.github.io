@@ -2,9 +2,9 @@
  "characterID": 486882,
  "characterClassID": 10,
  "raceID": 1,
- "position": 570,
- "rankingPositionChange": -2,
- "gloryPoint": 1483,
+ "position": 569,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1469,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Rahmina",
@@ -264,6 +264,14 @@
    "position": 570,
    "rankingPositionChange": -2,
    "gloryPoint": 1483,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 569,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1469,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 1256547,
  "characterClassID": 16,
  "raceID": 0,
- "position": 118,
- "rankingPositionChange": 1,
- "gloryPoint": 110849,
- "gloryPointChange": -49,
+ "position": 119,
+ "rankingPositionChange": -1,
+ "gloryPoint": 111073,
+ "gloryPointChange": 224,
  "soldierRankID": 13,
  "characterName": "Khallee",
  "guildName": "Pays Des Bisounours",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 110849,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 119,
+   "rankingPositionChange": -1,
+   "gloryPoint": 111073,
+   "gloryPointChange": 224,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 108866,
  "characterClassID": 11,
  "raceID": 0,
- "position": 751,
- "rankingPositionChange": 1,
- "gloryPoint": 6474,
+ "position": 755,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6467,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Scyllaa",
@@ -272,6 +272,14 @@
    "position": 751,
    "rankingPositionChange": 1,
    "gloryPoint": 6474,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 755,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6467,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

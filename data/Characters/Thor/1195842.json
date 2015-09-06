@@ -2,9 +2,9 @@
  "characterID": 1195842,
  "characterClassID": 5,
  "raceID": 0,
- "position": 387,
- "rankingPositionChange": 2,
- "gloryPoint": 46659,
+ "position": 388,
+ "rankingPositionChange": -1,
+ "gloryPoint": 46631,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Paniy",
@@ -272,6 +272,14 @@
    "position": 387,
    "rankingPositionChange": 2,
    "gloryPoint": 46659,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 388,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46631,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

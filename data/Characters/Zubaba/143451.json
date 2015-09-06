@@ -2,10 +2,10 @@
  "characterID": 143451,
  "characterClassID": 4,
  "raceID": 0,
- "position": 593,
- "rankingPositionChange": 8,
- "gloryPoint": 11064,
- "gloryPointChange": 276,
+ "position": 598,
+ "rankingPositionChange": -5,
+ "gloryPoint": 11050,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ayazates",
  "guildName": "D O S T",
@@ -193,6 +193,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 11064,
    "gloryPointChange": 276,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 598,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11050,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1083003,
  "characterClassID": 16,
  "raceID": 1,
- "position": 950,
- "rankingPositionChange": 1,
- "gloryPoint": 3126,
+ "position": 952,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3119,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Phyliicia",
@@ -272,6 +272,14 @@
    "position": 950,
    "rankingPositionChange": 1,
    "gloryPoint": 3126,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 952,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3119,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

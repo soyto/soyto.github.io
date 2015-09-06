@@ -2,9 +2,9 @@
  "characterID": 86397,
  "characterClassID": 4,
  "raceID": 0,
- "position": 491,
- "rankingPositionChange": 0,
- "gloryPoint": 24577,
+ "position": 492,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24549,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Dyuke",
@@ -272,6 +272,14 @@
    "position": 491,
    "rankingPositionChange": 0,
    "gloryPoint": 24577,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 492,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24549,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

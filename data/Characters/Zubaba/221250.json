@@ -2,9 +2,9 @@
  "characterID": 221250,
  "characterClassID": 7,
  "raceID": 1,
- "position": 118,
- "rankingPositionChange": 0,
- "gloryPoint": 78704,
+ "position": 119,
+ "rankingPositionChange": -1,
+ "gloryPoint": 78655,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Czzt",
@@ -120,6 +120,14 @@
    "position": 118,
    "rankingPositionChange": 0,
    "gloryPoint": 78704,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 119,
+   "rankingPositionChange": -1,
+   "gloryPoint": 78655,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 1119028,
  "characterClassID": 16,
  "raceID": 1,
- "position": 617,
- "rankingPositionChange": -5,
- "gloryPoint": 5338,
+ "position": 616,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5324,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Gesperida",
@@ -272,6 +272,14 @@
    "position": 617,
    "rankingPositionChange": -5,
    "gloryPoint": 5338,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 616,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5324,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

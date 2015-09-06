@@ -3,8 +3,8 @@
  "characterClassID": 13,
  "raceID": 1,
  "position": 490,
- "rankingPositionChange": 1,
- "gloryPoint": 9607,
+ "rankingPositionChange": 0,
+ "gloryPoint": 9579,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Wilussa",
@@ -272,6 +272,14 @@
    "position": 490,
    "rankingPositionChange": 1,
    "gloryPoint": 9607,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 490,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9579,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

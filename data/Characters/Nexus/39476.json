@@ -2,9 +2,9 @@
  "characterID": 39476,
  "characterClassID": 4,
  "raceID": 0,
- "position": 973,
- "rankingPositionChange": 2,
- "gloryPoint": 4600,
+ "position": 976,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4593,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Elijah",
@@ -112,6 +112,14 @@
    "position": 973,
    "rankingPositionChange": 2,
    "gloryPoint": 4600,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 976,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4593,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

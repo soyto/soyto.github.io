@@ -2,9 +2,9 @@
  "characterID": 213431,
  "characterClassID": 7,
  "raceID": 0,
- "position": 727,
- "rankingPositionChange": 0,
- "gloryPoint": 7004,
+ "position": 733,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6997,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Khansei",
@@ -270,6 +270,14 @@
    "position": 727,
    "rankingPositionChange": 0,
    "gloryPoint": 7004,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 733,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6997,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

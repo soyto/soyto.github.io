@@ -2,10 +2,10 @@
  "characterID": 1441526,
  "characterClassID": 13,
  "raceID": 1,
- "position": 461,
- "rankingPositionChange": 20,
- "gloryPoint": 17293,
- "gloryPointChange": 685,
+ "position": 464,
+ "rankingPositionChange": -3,
+ "gloryPoint": 17265,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Galaxiie",
  "guildName": "Fallen",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 20,
    "gloryPoint": 17293,
    "gloryPointChange": 685,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 464,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17265,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

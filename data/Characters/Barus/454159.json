@@ -2,10 +2,10 @@
  "characterID": 454159,
  "characterClassID": 10,
  "raceID": 1,
- "position": 295,
- "rankingPositionChange": 3,
- "gloryPoint": 51407,
- "gloryPointChange": 504,
+ "position": 297,
+ "rankingPositionChange": -2,
+ "gloryPoint": 51358,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Markox",
  "guildName": " B E R S E R K ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 51407,
    "gloryPointChange": 504,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 297,
+   "rankingPositionChange": -2,
+   "gloryPoint": 51358,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

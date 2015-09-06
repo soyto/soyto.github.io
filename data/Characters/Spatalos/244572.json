@@ -2,9 +2,9 @@
  "characterID": 244572,
  "characterClassID": 4,
  "raceID": 1,
- "position": 480,
- "rankingPositionChange": 0,
- "gloryPoint": 8614,
+ "position": 483,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8586,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Nones",
@@ -270,6 +270,14 @@
    "position": 480,
    "rankingPositionChange": 0,
    "gloryPoint": 8614,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 483,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8586,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

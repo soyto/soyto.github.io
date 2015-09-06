@@ -2,9 +2,9 @@
  "characterID": 867200,
  "characterClassID": 5,
  "raceID": 0,
- "position": 250,
- "rankingPositionChange": -1,
- "gloryPoint": 29213,
+ "position": 249,
+ "rankingPositionChange": 1,
+ "gloryPoint": 29164,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shaollino",
@@ -270,6 +270,14 @@
    "position": 250,
    "rankingPositionChange": -1,
    "gloryPoint": 29213,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 249,
+   "rankingPositionChange": 1,
+   "gloryPoint": 29164,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

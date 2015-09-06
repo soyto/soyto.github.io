@@ -2,9 +2,9 @@
  "characterID": 6035,
  "characterClassID": 5,
  "raceID": 1,
- "position": 556,
- "rankingPositionChange": 0,
- "gloryPoint": 15827,
+ "position": 561,
+ "rankingPositionChange": -5,
+ "gloryPoint": 15813,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Bloodyarrow",
@@ -256,6 +256,14 @@
    "position": 556,
    "rankingPositionChange": 0,
    "gloryPoint": 15827,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 561,
+   "rankingPositionChange": -5,
+   "gloryPoint": 15813,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

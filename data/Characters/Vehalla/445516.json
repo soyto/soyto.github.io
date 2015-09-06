@@ -2,9 +2,9 @@
  "characterID": 445516,
  "characterClassID": 1,
  "raceID": 1,
- "position": 399,
- "rankingPositionChange": 1,
- "gloryPoint": 4299,
+ "position": 395,
+ "rankingPositionChange": 4,
+ "gloryPoint": 4271,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Luela",
@@ -272,6 +272,14 @@
    "position": 399,
    "rankingPositionChange": 1,
    "gloryPoint": 4299,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 395,
+   "rankingPositionChange": 4,
+   "gloryPoint": 4271,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

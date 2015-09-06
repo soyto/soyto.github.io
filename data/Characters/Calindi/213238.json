@@ -2,9 +2,9 @@
  "characterID": 213238,
  "characterClassID": 2,
  "raceID": 0,
- "position": 366,
- "rankingPositionChange": -4,
- "gloryPoint": 13634,
+ "position": 365,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13606,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Aniibal",
@@ -240,6 +240,14 @@
    "position": 366,
    "rankingPositionChange": -4,
    "gloryPoint": 13634,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 365,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13606,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

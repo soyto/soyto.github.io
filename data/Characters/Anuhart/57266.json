@@ -2,10 +2,10 @@
  "characterID": 57266,
  "characterClassID": 4,
  "raceID": 1,
- "position": 651,
- "rankingPositionChange": 5,
- "gloryPoint": 5102,
- "gloryPointChange": 99,
+ "position": 653,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5088,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Darkcobra",
  "guildName": "BlackAngels",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 5102,
    "gloryPointChange": 99,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5088,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

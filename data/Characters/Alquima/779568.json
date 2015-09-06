@@ -2,12 +2,12 @@
  "characterID": 779568,
  "characterClassID": 1,
  "raceID": 1,
- "position": 925,
- "rankingPositionChange": 21,
- "gloryPoint": 6410,
- "gloryPointChange": 293,
+ "position": 929,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6413,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
- "characterName": "Antur",
+ "characterName": "Anakiirx",
  "status": [
   {
    "date": "2015-08-27T22:00:00.000Z",
@@ -56,12 +56,24 @@
    "gloryPoint": 6410,
    "gloryPointChange": 293,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 929,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6413,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
   }
  ],
  "names": [
   {
    "date": "2015-08-27T22:00:00.000Z",
    "characterName": "Antur"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Anakiirx"
   }
  ],
  "guilds": [

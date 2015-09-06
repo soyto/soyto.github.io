@@ -2,9 +2,9 @@
  "characterID": 159501,
  "characterClassID": 7,
  "raceID": 1,
- "position": 890,
- "rankingPositionChange": 1,
- "gloryPoint": 1614,
+ "position": 893,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1607,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chytach",
@@ -272,6 +272,14 @@
    "position": 890,
    "rankingPositionChange": 1,
    "gloryPoint": 1614,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 893,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1607,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

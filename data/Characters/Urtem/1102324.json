@@ -2,10 +2,10 @@
  "characterID": 1102324,
  "characterClassID": 7,
  "raceID": 1,
- "position": 847,
- "rankingPositionChange": 5,
- "gloryPoint": 9023,
- "gloryPointChange": 65,
+ "position": 850,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9016,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wiindalf",
  "guildName": "Mercenaries",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 9023,
    "gloryPointChange": 65,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 850,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9016,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

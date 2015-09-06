@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 1000,
- "rankingPositionChange": -7,
+ "rankingPositionChange": 0,
  "gloryPoint": 1521,
- "gloryPointChange": -7,
+ "gloryPointChange": 0,
  "soldierRankID": 0,
  "characterName": "Mungi",
  "guildName": "Hope",
@@ -265,6 +265,14 @@
    "rankingPositionChange": -7,
    "gloryPoint": 1521,
    "gloryPointChange": -7,
+   "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1521,
+   "gloryPointChange": 0,
    "soldierRankID": 0
   }
  ],

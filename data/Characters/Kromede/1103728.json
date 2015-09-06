@@ -2,10 +2,10 @@
  "characterID": 1103728,
  "characterClassID": 11,
  "raceID": 0,
- "position": 749,
- "rankingPositionChange": 7,
- "gloryPoint": 14513,
- "gloryPointChange": 189,
+ "position": 751,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14506,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Viyo",
  "guildName": "NoLimit",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 14513,
    "gloryPointChange": 189,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 751,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14506,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

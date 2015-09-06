@@ -2,10 +2,10 @@
  "characterID": 160183,
  "characterClassID": 1,
  "raceID": 0,
- "position": 247,
- "rankingPositionChange": 0,
- "gloryPoint": 52458,
- "gloryPointChange": 111,
+ "position": 248,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52409,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Laddi",
  "guildName": "Raritas Diaboli",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 52458,
    "gloryPointChange": 111,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 248,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52409,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

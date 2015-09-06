@@ -2,10 +2,10 @@
  "characterID": 226065,
  "characterClassID": 1,
  "raceID": 1,
- "position": 201,
- "rankingPositionChange": 0,
- "gloryPoint": 43479,
- "gloryPointChange": 43,
+ "position": 203,
+ "rankingPositionChange": -2,
+ "gloryPoint": 43430,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nobisukens",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 43479,
    "gloryPointChange": 43,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 203,
+   "rankingPositionChange": -2,
+   "gloryPoint": 43430,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

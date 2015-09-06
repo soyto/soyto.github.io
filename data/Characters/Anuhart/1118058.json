@@ -2,9 +2,9 @@
  "characterID": 1118058,
  "characterClassID": 16,
  "raceID": 1,
- "position": 367,
- "rankingPositionChange": 3,
- "gloryPoint": 17133,
+ "position": 370,
+ "rankingPositionChange": -3,
+ "gloryPoint": 17105,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Verdin",
@@ -272,6 +272,14 @@
    "position": 367,
    "rankingPositionChange": 3,
    "gloryPoint": 17133,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 370,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17105,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

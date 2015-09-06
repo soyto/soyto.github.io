@@ -2,10 +2,10 @@
  "characterID": 632244,
  "characterClassID": 11,
  "raceID": 1,
- "position": 80,
- "rankingPositionChange": 0,
- "gloryPoint": 147705,
- "gloryPointChange": 246,
+ "position": 81,
+ "rankingPositionChange": -1,
+ "gloryPoint": 147598,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Sithara",
  "guildName": "Symphony of Desolation",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 147705,
    "gloryPointChange": 246,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 81,
+   "rankingPositionChange": -1,
+   "gloryPoint": 147598,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

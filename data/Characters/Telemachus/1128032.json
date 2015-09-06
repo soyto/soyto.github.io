@@ -2,9 +2,9 @@
  "characterID": 1128032,
  "characterClassID": 13,
  "raceID": 1,
- "position": 358,
- "rankingPositionChange": 1,
- "gloryPoint": 8300,
+ "position": 361,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8272,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Rudytech",
@@ -272,6 +272,14 @@
    "position": 358,
    "rankingPositionChange": 1,
    "gloryPoint": 8300,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 361,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8272,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

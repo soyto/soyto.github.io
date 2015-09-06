@@ -2,9 +2,9 @@
  "characterID": 245196,
  "characterClassID": 4,
  "raceID": 1,
- "position": 563,
- "rankingPositionChange": -1,
- "gloryPoint": 1508,
+ "position": 562,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1494,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nosalis",
@@ -272,6 +272,14 @@
    "position": 563,
    "rankingPositionChange": -1,
    "gloryPoint": 1508,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 562,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1494,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

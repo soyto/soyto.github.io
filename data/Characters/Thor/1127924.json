@@ -2,10 +2,10 @@
  "characterID": 1127924,
  "characterClassID": 10,
  "raceID": 0,
- "position": 41,
- "rankingPositionChange": 0,
- "gloryPoint": 222866,
- "gloryPointChange": 339,
+ "position": 42,
+ "rankingPositionChange": -1,
+ "gloryPoint": 222809,
+ "gloryPointChange": -57,
  "soldierRankID": 14,
  "characterName": "Phillion",
  "guildName": "iPvP",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 222866,
    "gloryPointChange": 339,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 42,
+   "rankingPositionChange": -1,
+   "gloryPoint": 222809,
+   "gloryPointChange": -57,
    "soldierRankID": 14
   }
  ],

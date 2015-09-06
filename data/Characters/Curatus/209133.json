@@ -2,9 +2,9 @@
  "characterID": 209133,
  "characterClassID": 2,
  "raceID": 1,
- "position": 578,
- "rankingPositionChange": 2,
- "gloryPoint": 9791,
+ "position": 582,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9777,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Fireflake",
@@ -128,6 +128,14 @@
    "position": 578,
    "rankingPositionChange": 2,
    "gloryPoint": 9791,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 582,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9777,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 9040,
  "characterClassID": 5,
  "raceID": 1,
- "position": 244,
- "rankingPositionChange": 3,
- "gloryPoint": 34692,
- "gloryPointChange": 554,
+ "position": 245,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34848,
+ "gloryPointChange": 156,
  "soldierRankID": 13,
  "characterName": "Pixi",
  "guildName": "Hope",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 34692,
    "gloryPointChange": 554,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34848,
+   "gloryPointChange": 156,
    "soldierRankID": 13
   }
  ],

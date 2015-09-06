@@ -2,9 +2,9 @@
  "characterID": 996443,
  "characterClassID": 14,
  "raceID": 1,
- "position": 945,
- "rankingPositionChange": 4,
- "gloryPoint": 1783,
+ "position": 949,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1776,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kurennai",
@@ -72,6 +72,14 @@
    "position": 945,
    "rankingPositionChange": 4,
    "gloryPoint": 1783,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1776,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

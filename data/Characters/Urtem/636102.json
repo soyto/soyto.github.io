@@ -3,9 +3,9 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 606,
- "rankingPositionChange": 1,
- "gloryPoint": 14058,
- "gloryPointChange": -14,
+ "rankingPositionChange": 0,
+ "gloryPoint": 14072,
+ "gloryPointChange": 14,
  "soldierRankID": 11,
  "characterName": "Anctarus",
  "guildName": "Wooden Rebirth",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 14058,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 606,
+   "rankingPositionChange": 0,
+   "gloryPoint": 14072,
+   "gloryPointChange": 14,
    "soldierRankID": 11
   }
  ],

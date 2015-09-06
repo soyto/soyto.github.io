@@ -2,12 +2,14 @@
  "characterID": 774670,
  "characterClassID": 4,
  "raceID": 1,
- "position": 720,
- "rankingPositionChange": 25,
- "gloryPoint": 1337,
- "gloryPointChange": 43,
+ "position": 724,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1336,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Daggystyle",
+ "guildName": "Supah Ninjas",
+ "guildID": 25904,
  "status": [
   {
    "date": "2015-08-13T22:00:00.000Z",
@@ -152,6 +154,14 @@
    "gloryPoint": 1337,
    "gloryPointChange": 43,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 724,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1336,
+   "gloryPointChange": -1,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -163,6 +173,11 @@
  "guilds": [
   {
    "date": "2015-08-13T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Supah Ninjas",
+   "guildID": 25904
   }
  ]
 }

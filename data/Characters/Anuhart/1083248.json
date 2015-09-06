@@ -2,9 +2,9 @@
  "characterID": 1083248,
  "characterClassID": 13,
  "raceID": 1,
- "position": 878,
- "rankingPositionChange": 3,
- "gloryPoint": 2217,
+ "position": 884,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2210,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Akouama",
@@ -200,6 +200,14 @@
    "position": 878,
    "rankingPositionChange": 3,
    "gloryPoint": 2217,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 884,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2210,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

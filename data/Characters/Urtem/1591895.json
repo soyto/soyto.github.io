@@ -2,9 +2,9 @@
  "characterID": 1591895,
  "characterClassID": 16,
  "raceID": 1,
- "position": 864,
- "rankingPositionChange": 0,
- "gloryPoint": 8756,
+ "position": 867,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8749,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Frozenprincess",
@@ -272,6 +272,14 @@
    "position": 864,
    "rankingPositionChange": 0,
    "gloryPoint": 8756,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 867,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8749,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 678827,
  "characterClassID": 2,
  "raceID": 1,
- "position": 822,
- "rankingPositionChange": 1,
- "gloryPoint": 8150,
+ "position": 824,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8143,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bulll",
@@ -166,6 +166,14 @@
    "position": 822,
    "rankingPositionChange": 1,
    "gloryPoint": 8150,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 824,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8143,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

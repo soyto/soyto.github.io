@@ -2,9 +2,9 @@
  "characterID": 781612,
  "characterClassID": 11,
  "raceID": 1,
- "position": 288,
- "rankingPositionChange": 1,
- "gloryPoint": 11515,
+ "position": 289,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11466,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Glissa",
@@ -272,6 +272,14 @@
    "position": 288,
    "rankingPositionChange": 1,
    "gloryPoint": 11515,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 289,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11466,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 688613,
  "characterClassID": 5,
  "raceID": 1,
- "position": 605,
- "rankingPositionChange": 1,
- "gloryPoint": 14079,
+ "position": 607,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14065,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Alfhild",
@@ -272,6 +272,14 @@
    "position": 605,
    "rankingPositionChange": 1,
    "gloryPoint": 14079,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 607,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14065,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

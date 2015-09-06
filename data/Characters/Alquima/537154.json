@@ -2,9 +2,9 @@
  "characterID": 537154,
  "characterClassID": 2,
  "raceID": 0,
- "position": 922,
- "rankingPositionChange": 1,
- "gloryPoint": 11342,
+ "position": 924,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11335,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Orgulloeterno",
@@ -272,6 +272,14 @@
    "position": 922,
    "rankingPositionChange": 1,
    "gloryPoint": 11342,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 924,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11335,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

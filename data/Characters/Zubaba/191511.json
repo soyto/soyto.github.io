@@ -2,12 +2,14 @@
  "characterID": 191511,
  "characterClassID": 1,
  "raceID": 0,
- "position": 948,
- "rankingPositionChange": 1,
- "gloryPoint": 3167,
- "gloryPointChange": -7,
+ "position": 951,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3163,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Raving",
+ "guildName": "EntalioS",
+ "guildID": 6846,
  "status": [
   {
    "date": "2015-08-29T22:00:00.000Z",
@@ -48,6 +50,14 @@
    "gloryPoint": 3167,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3163,
+   "gloryPointChange": -4,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -69,6 +79,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "EntalioS",
+   "guildID": 6846
   }
  ]
 }

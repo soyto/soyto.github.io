@@ -2,9 +2,9 @@
  "characterID": 882018,
  "characterClassID": 13,
  "raceID": 1,
- "position": 456,
- "rankingPositionChange": 2,
- "gloryPoint": 2709,
+ "position": 458,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2681,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Robobob",
@@ -230,6 +230,14 @@
    "position": 456,
    "rankingPositionChange": 2,
    "gloryPoint": 2709,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 458,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2681,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

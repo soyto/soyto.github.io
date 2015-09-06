@@ -2,9 +2,9 @@
  "characterID": 753452,
  "characterClassID": 4,
  "raceID": 0,
- "position": 120,
- "rankingPositionChange": 0,
- "gloryPoint": 82141,
+ "position": 121,
+ "rankingPositionChange": -1,
+ "gloryPoint": 82092,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Furidashi",
@@ -270,6 +270,14 @@
    "position": 120,
    "rankingPositionChange": 0,
    "gloryPoint": 82141,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": -1,
+   "gloryPoint": 82092,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

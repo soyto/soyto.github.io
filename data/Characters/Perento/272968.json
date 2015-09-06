@@ -2,14 +2,14 @@
  "characterID": 272968,
  "characterClassID": 8,
  "raceID": 0,
- "position": 205,
+ "position": 204,
  "rankingPositionChange": 1,
- "gloryPoint": 65885,
- "gloryPointChange": 231,
+ "gloryPoint": 66156,
+ "gloryPointChange": 271,
  "soldierRankID": 13,
  "characterName": "Fourelements",
- "guildName": "Vrai",
- "guildID": 21878,
+ "guildName": "Forsaken Souls",
+ "guildID": 29832,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 65885,
    "gloryPointChange": 231,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 204,
+   "rankingPositionChange": 1,
+   "gloryPoint": 66156,
+   "gloryPointChange": 271,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Vrai",
    "guildID": 21878
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Forsaken Souls",
+   "guildID": 29832
   }
  ]
 }

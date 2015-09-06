@@ -2,10 +2,10 @@
  "characterID": 1196578,
  "characterClassID": 14,
  "raceID": 1,
- "position": 694,
- "rankingPositionChange": 13,
- "gloryPoint": 4176,
- "gloryPointChange": 103,
+ "position": 698,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4182,
+ "gloryPointChange": 6,
  "soldierRankID": 11,
  "characterName": "Drigeur",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 4176,
    "gloryPointChange": 103,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 698,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4182,
+   "gloryPointChange": 6,
    "soldierRankID": 11
   }
  ],

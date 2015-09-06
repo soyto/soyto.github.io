@@ -2,12 +2,14 @@
  "characterID": 1207942,
  "characterClassID": 16,
  "raceID": 0,
- "position": 850,
- "rankingPositionChange": -1,
- "gloryPoint": 7189,
- "gloryPointChange": 63,
+ "position": 840,
+ "rankingPositionChange": 10,
+ "gloryPoint": 7291,
+ "gloryPointChange": 102,
  "soldierRankID": 10,
  "characterName": "Duramater",
+ "guildName": "The Silence",
+ "guildID": 29806,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 7189,
    "gloryPointChange": 63,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": 10,
+   "gloryPoint": 7291,
+   "gloryPointChange": 102,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -292,6 +302,11 @@
   },
   {
    "date": "2015-08-22T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "The Silence",
+   "guildID": 29806
   }
  ]
 }

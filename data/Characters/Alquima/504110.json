@@ -2,10 +2,10 @@
  "characterID": 504110,
  "characterClassID": 5,
  "raceID": 1,
- "position": 134,
- "rankingPositionChange": 1,
- "gloryPoint": 62424,
- "gloryPointChange": 505,
+ "position": 136,
+ "rankingPositionChange": -2,
+ "gloryPoint": 62375,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Arrowoffate",
  "guildName": "HYDRA",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 62424,
    "gloryPointChange": 505,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 136,
+   "rankingPositionChange": -2,
+   "gloryPoint": 62375,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

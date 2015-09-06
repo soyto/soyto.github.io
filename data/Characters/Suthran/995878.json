@@ -2,9 +2,9 @@
  "characterID": 995878,
  "characterClassID": 1,
  "raceID": 0,
- "position": 127,
- "rankingPositionChange": 1,
- "gloryPoint": 106131,
+ "position": 128,
+ "rankingPositionChange": -1,
+ "gloryPoint": 106082,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dooze",
@@ -272,6 +272,14 @@
    "position": 127,
    "rankingPositionChange": 1,
    "gloryPoint": 106131,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": -1,
+   "gloryPoint": 106082,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 30840,
  "characterClassID": 5,
  "raceID": 1,
- "position": 906,
- "rankingPositionChange": 1,
- "gloryPoint": 7940,
- "gloryPointChange": -7,
+ "position": 901,
+ "rankingPositionChange": 5,
+ "gloryPoint": 8083,
+ "gloryPointChange": 143,
  "soldierRankID": 10,
  "characterName": "Xanaphia",
  "guildName": "Heaven",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7940,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 901,
+   "rankingPositionChange": 5,
+   "gloryPoint": 8083,
+   "gloryPointChange": 143,
    "soldierRankID": 10
   }
  ],

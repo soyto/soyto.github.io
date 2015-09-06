@@ -2,9 +2,9 @@
  "characterID": 30673,
  "characterClassID": 5,
  "raceID": 0,
- "position": 212,
- "rankingPositionChange": 0,
- "gloryPoint": 53445,
+ "position": 213,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53396,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pheton",
@@ -264,6 +264,14 @@
    "position": 212,
    "rankingPositionChange": 0,
    "gloryPoint": 53445,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 213,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53396,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

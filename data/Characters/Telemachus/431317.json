@@ -2,10 +2,10 @@
  "characterID": 431317,
  "characterClassID": 10,
  "raceID": 1,
- "position": 458,
- "rankingPositionChange": 2,
- "gloryPoint": 4230,
- "gloryPointChange": -28,
+ "position": 459,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4222,
+ "gloryPointChange": -8,
  "soldierRankID": 12,
  "characterName": "Zoja",
  "guildName": "Full of Love",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 4230,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 459,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4222,
+   "gloryPointChange": -8,
    "soldierRankID": 12
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 518770,
  "characterClassID": 8,
  "raceID": 0,
- "position": 211,
- "rankingPositionChange": 0,
- "gloryPoint": 85953,
+ "position": 212,
+ "rankingPositionChange": -1,
+ "gloryPoint": 85904,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Remulus",
@@ -272,6 +272,14 @@
    "position": 211,
    "rankingPositionChange": 0,
    "gloryPoint": 85953,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 212,
+   "rankingPositionChange": -1,
+   "gloryPoint": 85904,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 347373,
  "characterClassID": 4,
  "raceID": 1,
- "position": 209,
- "rankingPositionChange": 1,
- "gloryPoint": 20463,
- "gloryPointChange": 1,
+ "position": 210,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20414,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Divinea",
  "guildName": "Strangers with Candy",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20463,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 210,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20414,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1385526,
  "characterClassID": 10,
  "raceID": 1,
- "position": 510,
- "rankingPositionChange": 0,
- "gloryPoint": 7627,
- "gloryPointChange": -1,
+ "position": 515,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7616,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Odietamo",
  "guildName": "Lionhearts",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7627,
    "gloryPointChange": -1,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 515,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7616,
+   "gloryPointChange": -11,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 890899,
  "characterClassID": 7,
  "raceID": 1,
- "position": 905,
- "rankingPositionChange": 0,
- "gloryPoint": 3433,
+ "position": 906,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3426,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Orangy",
@@ -270,6 +270,14 @@
    "position": 905,
    "rankingPositionChange": 0,
    "gloryPoint": 3433,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 906,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3426,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

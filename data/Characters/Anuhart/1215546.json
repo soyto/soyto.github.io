@@ -2,9 +2,9 @@
  "characterID": 1215546,
  "characterClassID": 4,
  "raceID": 1,
- "position": 820,
- "rankingPositionChange": 3,
- "gloryPoint": 2742,
+ "position": 824,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2735,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Minatobg",
@@ -96,6 +96,14 @@
    "position": 820,
    "rankingPositionChange": 3,
    "gloryPoint": 2742,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 824,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2735,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 1011259,
  "characterClassID": 14,
  "raceID": 1,
- "position": 96,
+ "position": 95,
  "rankingPositionChange": 1,
- "gloryPoint": 72698,
- "gloryPointChange": 288,
+ "gloryPoint": 72641,
+ "gloryPointChange": -57,
  "soldierRankID": 14,
  "characterName": "Zabela",
  "guildName": "Syntagma",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 72698,
    "gloryPointChange": 288,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 95,
+   "rankingPositionChange": 1,
+   "gloryPoint": 72641,
+   "gloryPointChange": -57,
    "soldierRankID": 14
   }
  ],

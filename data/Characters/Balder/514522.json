@@ -2,9 +2,9 @@
  "characterID": 514522,
  "characterClassID": 1,
  "raceID": 0,
- "position": 110,
- "rankingPositionChange": 0,
- "gloryPoint": 79360,
+ "position": 111,
+ "rankingPositionChange": -1,
+ "gloryPoint": 79311,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Goacore",
@@ -240,6 +240,14 @@
    "position": 110,
    "rankingPositionChange": 0,
    "gloryPoint": 79360,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 111,
+   "rankingPositionChange": -1,
+   "gloryPoint": 79311,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

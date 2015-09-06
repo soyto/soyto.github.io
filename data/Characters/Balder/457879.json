@@ -2,9 +2,9 @@
  "characterID": 457879,
  "characterClassID": 7,
  "raceID": 1,
- "position": 333,
- "rankingPositionChange": 0,
- "gloryPoint": 7643,
+ "position": 334,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7615,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lature",
@@ -272,6 +272,14 @@
    "position": 333,
    "rankingPositionChange": 0,
    "gloryPoint": 7643,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 334,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7615,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

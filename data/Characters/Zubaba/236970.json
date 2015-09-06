@@ -2,9 +2,9 @@
  "characterID": 236970,
  "characterClassID": 14,
  "raceID": 1,
- "position": 541,
- "rankingPositionChange": 1,
- "gloryPoint": 7487,
+ "position": 545,
+ "rankingPositionChange": -4,
+ "gloryPoint": 7473,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Endofstory",
@@ -272,6 +272,14 @@
    "position": 541,
    "rankingPositionChange": 1,
    "gloryPoint": 7487,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 545,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7473,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

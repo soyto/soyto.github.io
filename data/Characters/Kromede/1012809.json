@@ -2,9 +2,9 @@
  "characterID": 1012809,
  "characterClassID": 11,
  "raceID": 1,
- "position": 413,
- "rankingPositionChange": 1,
- "gloryPoint": 13512,
+ "position": 414,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13484,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Laviria",
@@ -272,6 +272,14 @@
    "position": 413,
    "rankingPositionChange": 1,
    "gloryPoint": 13512,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 414,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13484,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

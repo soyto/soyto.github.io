@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 219,
- "rankingPositionChange": 3,
- "gloryPoint": 34580,
- "gloryPointChange": 40,
+ "rankingPositionChange": 0,
+ "gloryPoint": 34531,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kartofel",
  "guildName": "Callejon",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 34580,
    "gloryPointChange": 40,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 219,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34531,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

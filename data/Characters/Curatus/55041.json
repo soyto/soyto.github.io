@@ -2,9 +2,9 @@
  "characterID": 55041,
  "characterClassID": 14,
  "raceID": 0,
- "position": 333,
- "rankingPositionChange": 0,
- "gloryPoint": 47568,
+ "position": 335,
+ "rankingPositionChange": -2,
+ "gloryPoint": 47540,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zargor",
@@ -272,6 +272,14 @@
    "position": 333,
    "rankingPositionChange": 0,
    "gloryPoint": 47568,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 335,
+   "rankingPositionChange": -2,
+   "gloryPoint": 47540,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

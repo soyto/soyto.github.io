@@ -2,10 +2,10 @@
  "characterID": 841898,
  "characterClassID": 1,
  "raceID": 1,
- "position": 265,
- "rankingPositionChange": 1,
- "gloryPoint": 64086,
- "gloryPointChange": 211,
+ "position": 267,
+ "rankingPositionChange": -2,
+ "gloryPoint": 64037,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Toushie",
  "guildName": " Carebears ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 64086,
    "gloryPointChange": 211,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 267,
+   "rankingPositionChange": -2,
+   "gloryPoint": 64037,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

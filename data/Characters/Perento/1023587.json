@@ -2,9 +2,9 @@
  "characterID": 1023587,
  "characterClassID": 1,
  "raceID": 0,
- "position": 200,
- "rankingPositionChange": -1,
- "gloryPoint": 68047,
+ "position": 199,
+ "rankingPositionChange": 1,
+ "gloryPoint": 67998,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ghost",
@@ -272,6 +272,14 @@
    "position": 200,
    "rankingPositionChange": -1,
    "gloryPoint": 68047,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 199,
+   "rankingPositionChange": 1,
+   "gloryPoint": 67998,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

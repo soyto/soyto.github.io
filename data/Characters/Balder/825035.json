@@ -2,9 +2,9 @@
  "characterID": 825035,
  "characterClassID": 14,
  "raceID": 0,
- "position": 156,
- "rankingPositionChange": 0,
- "gloryPoint": 53089,
+ "position": 157,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53040,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pistoletta",
@@ -272,6 +272,14 @@
    "position": 156,
    "rankingPositionChange": 0,
    "gloryPoint": 53089,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 157,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53040,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

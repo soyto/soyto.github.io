@@ -2,10 +2,10 @@
  "characterID": 126577,
  "characterClassID": 2,
  "raceID": 0,
- "position": 760,
- "rankingPositionChange": 1,
- "gloryPoint": 15350,
- "gloryPointChange": 3,
+ "position": 762,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15343,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sunshine",
  "guildName": "Me VS World",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 15350,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 762,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15343,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

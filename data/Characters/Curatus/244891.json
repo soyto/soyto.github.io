@@ -2,9 +2,9 @@
  "characterID": 244891,
  "characterClassID": 11,
  "raceID": 0,
- "position": 174,
- "rankingPositionChange": 0,
- "gloryPoint": 85693,
+ "position": 175,
+ "rankingPositionChange": -1,
+ "gloryPoint": 85644,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nirone",
@@ -272,6 +272,14 @@
    "position": 174,
    "rankingPositionChange": 0,
    "gloryPoint": 85693,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 175,
+   "rankingPositionChange": -1,
+   "gloryPoint": 85644,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

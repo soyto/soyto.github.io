@@ -2,9 +2,9 @@
  "characterID": 561527,
  "characterClassID": 1,
  "raceID": 0,
- "position": 626,
- "rankingPositionChange": 0,
- "gloryPoint": 17184,
+ "position": 627,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17170,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Bunsta",
@@ -272,6 +272,14 @@
    "position": 626,
    "rankingPositionChange": 0,
    "gloryPoint": 17184,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 627,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17170,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

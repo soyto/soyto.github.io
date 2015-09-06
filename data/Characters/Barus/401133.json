@@ -2,12 +2,14 @@
  "characterID": 401133,
  "characterClassID": 11,
  "raceID": 1,
- "position": 989,
- "rankingPositionChange": 0,
- "gloryPoint": 9503,
+ "position": 988,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9496,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Katiusza",
+ "guildName": " Hollow ",
+ "guildID": 13487,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 9503,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9496,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-17T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": " Hollow ",
+   "guildID": 13487
   }
  ]
 }

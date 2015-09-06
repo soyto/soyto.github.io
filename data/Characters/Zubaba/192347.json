@@ -2,9 +2,9 @@
  "characterID": 192347,
  "characterClassID": 14,
  "raceID": 0,
- "position": 791,
- "rankingPositionChange": 3,
- "gloryPoint": 5547,
+ "position": 794,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5540,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ohyes",
@@ -238,6 +238,14 @@
    "position": 791,
    "rankingPositionChange": 3,
    "gloryPoint": 5547,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 794,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5540,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

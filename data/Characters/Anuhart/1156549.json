@@ -2,10 +2,10 @@
  "characterID": 1156549,
  "characterClassID": 8,
  "raceID": 1,
- "position": 522,
- "rankingPositionChange": 5,
- "gloryPoint": 8955,
- "gloryPointChange": 26,
+ "position": 524,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8941,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lizzana",
  "guildName": "Kuroi Neko",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 8955,
    "gloryPointChange": 26,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 524,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8941,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

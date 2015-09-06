@@ -2,10 +2,10 @@
  "characterID": 912819,
  "characterClassID": 16,
  "raceID": 1,
- "position": 492,
- "rankingPositionChange": 5,
- "gloryPoint": 2155,
- "gloryPointChange": 32,
+ "position": 493,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2127,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Nyvi",
  "guildName": "I Twist of Fate I",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 2155,
    "gloryPointChange": 32,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 493,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2127,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

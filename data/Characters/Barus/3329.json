@@ -2,12 +2,14 @@
  "characterID": 3329,
  "characterClassID": 1,
  "raceID": 1,
- "position": 695,
- "rankingPositionChange": -1,
- "gloryPoint": 18397,
- "gloryPointChange": -14,
+ "position": 687,
+ "rankingPositionChange": 8,
+ "gloryPoint": 18675,
+ "gloryPointChange": 278,
  "soldierRankID": 11,
  "characterName": "Prepared",
+ "guildName": "Haku Ryu",
+ "guildID": 12021,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 18397,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": 8,
+   "gloryPoint": 18675,
+   "gloryPointChange": 278,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -283,6 +293,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Haku Ryu",
+   "guildID": 12021
   }
  ]
 }

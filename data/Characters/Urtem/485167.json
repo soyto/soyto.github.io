@@ -2,9 +2,9 @@
  "characterID": 485167,
  "characterClassID": 1,
  "raceID": 0,
- "position": 86,
- "rankingPositionChange": 0,
- "gloryPoint": 138663,
+ "position": 87,
+ "rankingPositionChange": -1,
+ "gloryPoint": 138556,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Keyziah",
@@ -270,6 +270,14 @@
    "position": 86,
    "rankingPositionChange": 0,
    "gloryPoint": 138663,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 87,
+   "rankingPositionChange": -1,
+   "gloryPoint": 138556,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

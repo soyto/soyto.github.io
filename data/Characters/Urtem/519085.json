@@ -2,10 +2,10 @@
  "characterID": 519085,
  "characterClassID": 4,
  "raceID": 1,
- "position": 862,
- "rankingPositionChange": 4,
- "gloryPoint": 8806,
- "gloryPointChange": 170,
+ "position": 866,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8802,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Moisurtoi",
  "guildName": "TABARNAK de Sert a Rien",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 8806,
    "gloryPointChange": 170,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 866,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8802,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

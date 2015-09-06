@@ -2,14 +2,14 @@
  "characterID": 1666904,
  "characterClassID": 8,
  "raceID": 0,
- "position": 609,
- "rankingPositionChange": 5,
- "gloryPoint": 29209,
- "gloryPointChange": 547,
+ "position": 610,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29195,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Anysia",
- "guildName": " Call F for Fahrrad ",
- "guildID": 47856,
+ "guildName": "asdf",
+ "guildID": 47455,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 29209,
    "gloryPointChange": 547,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 610,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29195,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Call F for Fahrrad ",
    "guildID": 47856
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "asdf",
+   "guildID": 47455
   }
  ]
 }

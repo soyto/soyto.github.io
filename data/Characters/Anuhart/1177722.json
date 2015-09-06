@@ -2,10 +2,10 @@
  "characterID": 1177722,
  "characterClassID": 16,
  "raceID": 1,
- "position": 297,
- "rankingPositionChange": 5,
- "gloryPoint": 26610,
- "gloryPointChange": 78,
+ "position": 299,
+ "rankingPositionChange": -2,
+ "gloryPoint": 26561,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nelyiiel",
  "guildName": "NO IDEA",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 26610,
    "gloryPointChange": 78,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": -2,
+   "gloryPoint": 26561,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 1205937,
  "characterClassID": 14,
  "raceID": 0,
- "position": 597,
- "rankingPositionChange": 13,
- "gloryPoint": 19436,
- "gloryPointChange": 499,
+ "position": 596,
+ "rankingPositionChange": 1,
+ "gloryPoint": 19499,
+ "gloryPointChange": 63,
  "soldierRankID": 11,
  "characterName": "Lutra",
- "guildName": " Blood for Mercy ",
- "guildID": 37138,
+ "guildName": "Endstation",
+ "guildID": 20284,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 19436,
    "gloryPointChange": 499,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": 1,
+   "gloryPoint": 19499,
+   "gloryPointChange": 63,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Blood for Mercy ",
    "guildID": 37138
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Endstation",
+   "guildID": 20284
   }
  ]
 }

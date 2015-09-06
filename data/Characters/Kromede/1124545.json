@@ -2,12 +2,14 @@
  "characterID": 1124545,
  "characterClassID": 2,
  "raceID": 1,
- "position": 373,
- "rankingPositionChange": 2,
- "gloryPoint": 16314,
- "gloryPointChange": -28,
+ "position": 370,
+ "rankingPositionChange": 3,
+ "gloryPoint": 16486,
+ "gloryPointChange": 172,
  "soldierRankID": 12,
  "characterName": "Killumna",
+ "guildName": "Project Zero",
+ "guildID": 37678,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 16314,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 370,
+   "rankingPositionChange": 3,
+   "gloryPoint": 16486,
+   "gloryPointChange": 172,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-12T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Project Zero",
+   "guildID": 37678
   }
  ]
 }

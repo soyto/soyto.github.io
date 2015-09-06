@@ -2,9 +2,9 @@
  "characterID": 839846,
  "characterClassID": 13,
  "raceID": 0,
- "position": 889,
- "rankingPositionChange": 2,
- "gloryPoint": 5738,
+ "position": 890,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5731,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Acwel",
@@ -272,6 +272,14 @@
    "position": 889,
    "rankingPositionChange": 2,
    "gloryPoint": 5738,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 890,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5731,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

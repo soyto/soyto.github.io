@@ -2,10 +2,10 @@
  "characterID": 1511637,
  "characterClassID": 14,
  "raceID": 1,
- "position": 514,
- "rankingPositionChange": 6,
- "gloryPoint": 17800,
- "gloryPointChange": 357,
+ "position": 516,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17862,
+ "gloryPointChange": 62,
  "soldierRankID": 11,
  "characterName": "Kaldrya",
  "guildName": "Ombre et Lumiere",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 17800,
    "gloryPointChange": 357,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 516,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17862,
+   "gloryPointChange": 62,
    "soldierRankID": 11
   }
  ],

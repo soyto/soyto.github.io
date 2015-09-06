@@ -2,10 +2,10 @@
  "characterID": 826225,
  "characterClassID": 14,
  "raceID": 1,
- "position": 247,
- "rankingPositionChange": 3,
- "gloryPoint": 35512,
- "gloryPointChange": 679,
+ "position": 250,
+ "rankingPositionChange": -3,
+ "gloryPoint": 35463,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Oldplayer",
  "guildName": "After School",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 35512,
    "gloryPointChange": 679,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 250,
+   "rankingPositionChange": -3,
+   "gloryPoint": 35463,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

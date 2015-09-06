@@ -2,10 +2,10 @@
  "characterID": 523033,
  "characterClassID": 10,
  "raceID": 0,
- "position": 424,
- "rankingPositionChange": 2,
- "gloryPoint": 8700,
- "gloryPointChange": 124,
+ "position": 423,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8672,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ayman",
  "guildName": "Les Ailes de la Devastation",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 8700,
    "gloryPointChange": 124,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 423,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8672,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

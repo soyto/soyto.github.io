@@ -2,10 +2,10 @@
  "characterID": 1464765,
  "characterClassID": 16,
  "raceID": 1,
- "position": 914,
- "rankingPositionChange": 8,
- "gloryPoint": 11999,
- "gloryPointChange": 193,
+ "position": 918,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11992,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eevi",
  "guildName": "Kill Me Baby",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 11999,
    "gloryPointChange": 193,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 918,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11992,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

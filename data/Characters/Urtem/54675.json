@@ -2,11 +2,11 @@
  "characterID": 54675,
  "characterClassID": 11,
  "raceID": 1,
- "position": 300,
- "rankingPositionChange": 0,
- "gloryPoint": 36676,
- "gloryPointChange": 1,
- "soldierRankID": 13,
+ "position": 302,
+ "rankingPositionChange": -2,
+ "gloryPoint": 36627,
+ "gloryPointChange": -49,
+ "soldierRankID": 12,
  "characterName": "Tsuga",
  "guildName": "Emeraude",
  "guildID": 16419,
@@ -258,6 +258,14 @@
    "gloryPoint": 36676,
    "gloryPointChange": 1,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 302,
+   "rankingPositionChange": -2,
+   "gloryPoint": 36627,
+   "gloryPointChange": -49,
+   "soldierRankID": 12
   }
  ],
  "names": [

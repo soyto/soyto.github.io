@@ -2,9 +2,9 @@
  "characterID": 1154957,
  "characterClassID": 10,
  "raceID": 1,
- "position": 625,
- "rankingPositionChange": 0,
- "gloryPoint": 5869,
+ "position": 627,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5855,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Teenie",
@@ -112,6 +112,14 @@
    "position": 625,
    "rankingPositionChange": 0,
    "gloryPoint": 5869,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 627,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5855,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 388326,
  "characterClassID": 14,
  "raceID": 0,
- "position": 674,
- "rankingPositionChange": 0,
- "gloryPoint": 2532,
+ "position": 679,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2518,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kiryka",
@@ -272,6 +272,14 @@
    "position": 674,
    "rankingPositionChange": 0,
    "gloryPoint": 2532,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2518,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

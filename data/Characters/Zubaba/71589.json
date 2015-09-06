@@ -2,9 +2,9 @@
  "characterID": 71589,
  "characterClassID": 4,
  "raceID": 1,
- "position": 810,
- "rankingPositionChange": 0,
- "gloryPoint": 2299,
+ "position": 814,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2292,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zhilli",
@@ -272,6 +272,14 @@
    "position": 810,
    "rankingPositionChange": 0,
    "gloryPoint": 2299,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2292,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

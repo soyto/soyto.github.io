@@ -2,9 +2,9 @@
  "characterID": 132826,
  "characterClassID": 2,
  "raceID": 0,
- "position": 204,
- "rankingPositionChange": -3,
- "gloryPoint": 36550,
+ "position": 203,
+ "rankingPositionChange": 1,
+ "gloryPoint": 36501,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ulkiiorra",
@@ -272,6 +272,14 @@
    "position": 204,
    "rankingPositionChange": -3,
    "gloryPoint": 36550,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 203,
+   "rankingPositionChange": 1,
+   "gloryPoint": 36501,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

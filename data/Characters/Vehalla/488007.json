@@ -2,10 +2,10 @@
  "characterID": 488007,
  "characterClassID": 16,
  "raceID": 0,
- "position": 541,
- "rankingPositionChange": 4,
- "gloryPoint": 2339,
- "gloryPointChange": 14,
+ "position": 543,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2325,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Daneria",
  "guildName": "ClearRUN",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 2339,
    "gloryPointChange": 14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 543,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2325,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

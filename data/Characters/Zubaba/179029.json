@@ -2,9 +2,9 @@
  "characterID": 179029,
  "characterClassID": 16,
  "raceID": 0,
- "position": 971,
- "rankingPositionChange": 3,
- "gloryPoint": 2914,
+ "position": 974,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2907,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Braveheal",
@@ -272,6 +272,14 @@
    "position": 971,
    "rankingPositionChange": 3,
    "gloryPoint": 2914,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2907,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

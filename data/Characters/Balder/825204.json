@@ -2,9 +2,9 @@
  "characterID": 825204,
  "characterClassID": 14,
  "raceID": 1,
- "position": 474,
- "rankingPositionChange": 0,
- "gloryPoint": 2423,
+ "position": 475,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2395,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ythan",
@@ -272,6 +272,14 @@
    "position": 474,
    "rankingPositionChange": 0,
    "gloryPoint": 2423,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 475,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2395,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 210242,
  "characterClassID": 7,
  "raceID": 1,
- "position": 926,
- "rankingPositionChange": 3,
- "gloryPoint": 1368,
+ "position": 930,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1361,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lyha",
@@ -264,6 +264,14 @@
    "position": 926,
    "rankingPositionChange": 3,
    "gloryPoint": 1368,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 930,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1361,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 118674,
  "characterClassID": 2,
  "raceID": 1,
- "position": 479,
- "rankingPositionChange": 13,
- "gloryPoint": 9820,
- "gloryPointChange": 292,
+ "position": 480,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9992,
+ "gloryPointChange": 172,
  "soldierRankID": 12,
  "characterName": "Yellowmoon",
  "guildName": "Aftermath",
@@ -201,6 +201,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 9820,
    "gloryPointChange": 292,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 480,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9992,
+   "gloryPointChange": 172,
    "soldierRankID": 12
   }
  ],

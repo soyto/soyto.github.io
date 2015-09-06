@@ -2,9 +2,9 @@
  "characterID": 1555330,
  "characterClassID": 11,
  "raceID": 1,
- "position": 572,
- "rankingPositionChange": 2,
- "gloryPoint": 15015,
+ "position": 575,
+ "rankingPositionChange": -3,
+ "gloryPoint": 15001,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Anyssim",
@@ -256,6 +256,14 @@
    "position": 572,
    "rankingPositionChange": 2,
    "gloryPoint": 15015,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15001,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

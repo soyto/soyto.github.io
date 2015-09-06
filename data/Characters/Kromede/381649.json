@@ -2,9 +2,9 @@
  "characterID": 381649,
  "characterClassID": 4,
  "raceID": 1,
- "position": 887,
- "rankingPositionChange": 1,
- "gloryPoint": 3581,
+ "position": 888,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3574,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hardstarkill",
@@ -272,6 +272,14 @@
    "position": 887,
    "rankingPositionChange": 1,
    "gloryPoint": 3581,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 888,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3574,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

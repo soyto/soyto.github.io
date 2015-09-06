@@ -2,9 +2,9 @@
  "characterID": 291037,
  "characterClassID": 16,
  "raceID": 0,
- "position": 779,
- "rankingPositionChange": 2,
- "gloryPoint": 5824,
+ "position": 784,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5817,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cruelqueen",
@@ -272,6 +272,14 @@
    "position": 779,
    "rankingPositionChange": 2,
    "gloryPoint": 5824,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 784,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5817,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

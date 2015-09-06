@@ -2,10 +2,10 @@
  "characterID": 408914,
  "characterClassID": 2,
  "raceID": 0,
- "position": 580,
- "rankingPositionChange": 1,
- "gloryPoint": 2005,
- "gloryPointChange": -5,
+ "position": 581,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1991,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lekisa",
  "guildName": "I Ragged Domination I",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 2005,
    "gloryPointChange": -5,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 581,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1991,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

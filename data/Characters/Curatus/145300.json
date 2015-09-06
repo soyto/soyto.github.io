@@ -2,10 +2,10 @@
  "characterID": 145300,
  "characterClassID": 10,
  "raceID": 1,
- "position": 725,
- "rankingPositionChange": 5,
- "gloryPoint": 6333,
- "gloryPointChange": 93,
+ "position": 727,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6326,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Juniel",
  "guildName": " Arkadia ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 6333,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 727,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6326,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 11064,
  "characterClassID": 14,
  "raceID": 0,
- "position": 926,
- "rankingPositionChange": 1,
- "gloryPoint": 3378,
+ "position": 929,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3371,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dilek",
@@ -270,6 +270,14 @@
    "position": 926,
    "rankingPositionChange": 1,
    "gloryPoint": 3378,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 929,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3371,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

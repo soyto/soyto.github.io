@@ -2,14 +2,14 @@
  "characterID": 101021,
  "characterClassID": 4,
  "raceID": 1,
- "position": 903,
- "rankingPositionChange": 1,
- "gloryPoint": 3936,
- "gloryPointChange": 31,
+ "position": 872,
+ "rankingPositionChange": 31,
+ "gloryPoint": 4249,
+ "gloryPointChange": 313,
  "soldierRankID": 10,
  "characterName": "Meddle",
- "guildName": "N o S",
- "guildID": 1770,
+ "guildName": "SouL  TeaR",
+ "guildID": 1039,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -226,6 +226,14 @@
    "gloryPoint": 3936,
    "gloryPointChange": 31,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 872,
+   "rankingPositionChange": 31,
+   "gloryPoint": 4249,
+   "gloryPointChange": 313,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -246,6 +254,11 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "N o S",
    "guildID": 1770
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "SouL  TeaR",
+   "guildID": 1039
   }
  ]
 }

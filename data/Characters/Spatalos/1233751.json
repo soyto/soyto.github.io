@@ -2,10 +2,10 @@
  "characterID": 1233751,
  "characterClassID": 7,
  "raceID": 1,
- "position": 914,
- "rankingPositionChange": 32,
- "gloryPoint": 2474,
- "gloryPointChange": 172,
+ "position": 918,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2467,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Arkaliz",
  "guildName": "Day  Club",
@@ -49,6 +49,14 @@
    "rankingPositionChange": 32,
    "gloryPoint": 2474,
    "gloryPointChange": 172,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 918,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2467,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 473872,
  "characterClassID": 11,
  "raceID": 0,
- "position": 548,
- "rankingPositionChange": 0,
- "gloryPoint": 4733,
+ "position": 549,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4719,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Gizelle",
@@ -272,6 +272,14 @@
    "position": 548,
    "rankingPositionChange": 0,
    "gloryPoint": 4733,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 549,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4719,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

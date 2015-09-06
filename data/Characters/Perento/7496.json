@@ -2,9 +2,9 @@
  "characterID": 7496,
  "characterClassID": 7,
  "raceID": 1,
- "position": 741,
- "rankingPositionChange": -4,
- "gloryPoint": 3465,
+ "position": 740,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3458,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Crafterek",
@@ -272,6 +272,14 @@
    "position": 741,
    "rankingPositionChange": -4,
    "gloryPoint": 3465,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 740,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3458,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

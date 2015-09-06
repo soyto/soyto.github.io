@@ -2,9 +2,9 @@
  "characterID": 294886,
  "characterClassID": 10,
  "raceID": 1,
- "position": 184,
- "rankingPositionChange": 0,
- "gloryPoint": 86259,
+ "position": 185,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86210,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Specialeffect",
@@ -230,6 +230,14 @@
    "position": 184,
    "rankingPositionChange": 0,
    "gloryPoint": 86259,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 185,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86210,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

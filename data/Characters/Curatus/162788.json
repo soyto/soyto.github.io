@@ -2,14 +2,14 @@
  "characterID": 162788,
  "characterClassID": 1,
  "raceID": 1,
- "position": 37,
- "rankingPositionChange": 0,
- "gloryPoint": 136135,
- "gloryPointChange": 99,
+ "position": 36,
+ "rankingPositionChange": 1,
+ "gloryPoint": 136821,
+ "gloryPointChange": 686,
  "soldierRankID": 14,
  "characterName": "Atttila",
- "guildName": "N o S",
- "guildID": 1770,
+ "guildName": "SouL  TeaR",
+ "guildID": 1039,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,6 +266,14 @@
    "gloryPoint": 136135,
    "gloryPointChange": 99,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 36,
+   "rankingPositionChange": 1,
+   "gloryPoint": 136821,
+   "gloryPointChange": 686,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -279,6 +287,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "N o S",
    "guildID": 1770
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "SouL  TeaR",
+   "guildID": 1039
   }
  ]
 }

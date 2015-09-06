@@ -2,9 +2,9 @@
  "characterID": 459938,
  "characterClassID": 8,
  "raceID": 0,
- "position": 749,
- "rankingPositionChange": 0,
- "gloryPoint": 2262,
+ "position": 750,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2255,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Spidexia",
@@ -160,6 +160,14 @@
    "position": 749,
    "rankingPositionChange": 0,
    "gloryPoint": 2262,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 750,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2255,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

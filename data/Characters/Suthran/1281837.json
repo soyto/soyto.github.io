@@ -2,10 +2,10 @@
  "characterID": 1281837,
  "characterClassID": 16,
  "raceID": 0,
- "position": 386,
- "rankingPositionChange": 0,
- "gloryPoint": 40959,
- "gloryPointChange": 72,
+ "position": 387,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40931,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Abylie",
  "guildName": "Vent de Farore",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 40959,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40931,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

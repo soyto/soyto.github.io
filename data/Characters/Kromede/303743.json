@@ -2,10 +2,10 @@
  "characterID": 303743,
  "characterClassID": 11,
  "raceID": 0,
- "position": 278,
- "rankingPositionChange": 0,
- "gloryPoint": 47566,
- "gloryPointChange": 301,
+ "position": 280,
+ "rankingPositionChange": -2,
+ "gloryPoint": 47517,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Irrerlyniel",
  "guildName": "Killer Bunnys",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 47566,
    "gloryPointChange": 301,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 280,
+   "rankingPositionChange": -2,
+   "gloryPoint": 47517,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 282309,
  "characterClassID": 8,
  "raceID": 0,
- "position": 288,
- "rankingPositionChange": 0,
- "gloryPoint": 58515,
- "gloryPointChange": 201,
+ "position": 289,
+ "rankingPositionChange": -1,
+ "gloryPoint": 58566,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Talshir",
  "guildName": "GUYVER",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 58515,
    "gloryPointChange": 201,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 289,
+   "rankingPositionChange": -1,
+   "gloryPoint": 58566,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

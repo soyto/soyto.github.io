@@ -2,10 +2,10 @@
  "characterID": 430037,
  "characterClassID": 5,
  "raceID": 0,
- "position": 273,
- "rankingPositionChange": 5,
- "gloryPoint": 13452,
- "gloryPointChange": 509,
+ "position": 274,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13403,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Troubblexana",
  "guildName": "Tenshi no Tsuki",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 13452,
    "gloryPointChange": 509,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 274,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13403,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

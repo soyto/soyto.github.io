@@ -2,9 +2,9 @@
  "characterID": 85478,
  "characterClassID": 11,
  "raceID": 1,
- "position": 166,
- "rankingPositionChange": 2,
- "gloryPoint": 50973,
+ "position": 167,
+ "rankingPositionChange": -1,
+ "gloryPoint": 50924,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Asena",
@@ -272,6 +272,14 @@
    "position": 166,
    "rankingPositionChange": 2,
    "gloryPoint": 50973,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 167,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50924,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

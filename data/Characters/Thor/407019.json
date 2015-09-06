@@ -2,10 +2,10 @@
  "characterID": 407019,
  "characterClassID": 8,
  "raceID": 0,
- "position": 472,
- "rankingPositionChange": 1,
- "gloryPoint": 38368,
- "gloryPointChange": 25,
+ "position": 475,
+ "rankingPositionChange": -3,
+ "gloryPoint": 38343,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Kenmei",
  "guildName": " Dream ",
@@ -209,6 +209,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 38368,
    "gloryPointChange": 25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 475,
+   "rankingPositionChange": -3,
+   "gloryPoint": 38343,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

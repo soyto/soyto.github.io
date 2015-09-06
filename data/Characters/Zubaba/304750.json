@@ -2,10 +2,10 @@
  "characterID": 304750,
  "characterClassID": 5,
  "raceID": 1,
- "position": 833,
- "rankingPositionChange": 5,
- "gloryPoint": 2118,
- "gloryPointChange": 31,
+ "position": 837,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2111,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mythreal",
  "guildName": "NeFeS",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 2118,
    "gloryPointChange": 31,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 837,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2111,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

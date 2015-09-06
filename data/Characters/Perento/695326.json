@@ -2,9 +2,9 @@
  "characterID": 695326,
  "characterClassID": 5,
  "raceID": 1,
- "position": 440,
- "rankingPositionChange": -1,
- "gloryPoint": 11331,
+ "position": 439,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11303,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sachamia",
@@ -272,6 +272,14 @@
    "position": 440,
    "rankingPositionChange": -1,
    "gloryPoint": 11331,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 439,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11303,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 190937,
  "characterClassID": 14,
  "raceID": 0,
- "position": 843,
- "rankingPositionChange": 6,
- "gloryPoint": 4536,
- "gloryPointChange": 54,
+ "position": 847,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4529,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Devilmac",
  "guildName": "The Order",
@@ -177,6 +177,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 4536,
    "gloryPointChange": 54,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 847,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4529,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

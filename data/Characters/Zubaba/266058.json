@@ -2,9 +2,9 @@
  "characterID": 266058,
  "characterClassID": 1,
  "raceID": 0,
- "position": 947,
- "rankingPositionChange": 1,
- "gloryPoint": 3170,
+ "position": 950,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3163,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dragonheart",
@@ -272,6 +272,14 @@
    "position": 947,
    "rankingPositionChange": 1,
    "gloryPoint": 3170,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 950,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3163,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

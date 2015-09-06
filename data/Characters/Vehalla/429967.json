@@ -2,9 +2,9 @@
  "characterID": 429967,
  "characterClassID": 11,
  "raceID": 1,
- "position": 636,
- "rankingPositionChange": 1,
- "gloryPoint": 1318,
+ "position": 637,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1311,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kalisia",
@@ -248,6 +248,14 @@
    "position": 636,
    "rankingPositionChange": 1,
    "gloryPoint": 1318,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 637,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1311,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

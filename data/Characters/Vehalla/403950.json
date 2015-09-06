@@ -2,9 +2,9 @@
  "characterID": 403950,
  "characterClassID": 10,
  "raceID": 1,
- "position": 662,
- "rankingPositionChange": 0,
- "gloryPoint": 1273,
+ "position": 665,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1266,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Amoremio",
@@ -264,6 +264,14 @@
    "position": 662,
    "rankingPositionChange": 0,
    "gloryPoint": 1273,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1266,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

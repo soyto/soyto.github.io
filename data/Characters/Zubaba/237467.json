@@ -2,10 +2,10 @@
  "characterID": 237467,
  "characterClassID": 16,
  "raceID": 1,
- "position": 549,
- "rankingPositionChange": 0,
- "gloryPoint": 7365,
- "gloryPointChange": 14,
+ "position": 551,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7351,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Acness",
  "guildName": "KIZIL ORDU",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7365,
    "gloryPointChange": 14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 551,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7351,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

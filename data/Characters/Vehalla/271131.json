@@ -2,9 +2,9 @@
  "characterID": 271131,
  "characterClassID": 4,
  "raceID": 1,
- "position": 465,
- "rankingPositionChange": -1,
- "gloryPoint": 2425,
+ "position": 461,
+ "rankingPositionChange": 4,
+ "gloryPoint": 2397,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Shadowblade",
@@ -264,6 +264,14 @@
    "position": 465,
    "rankingPositionChange": -1,
    "gloryPoint": 2425,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 461,
+   "rankingPositionChange": 4,
+   "gloryPoint": 2397,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

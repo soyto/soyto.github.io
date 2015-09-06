@@ -2,9 +2,9 @@
  "characterID": 135703,
  "characterClassID": 11,
  "raceID": 0,
- "position": 713,
- "rankingPositionChange": 0,
- "gloryPoint": 9540,
+ "position": 714,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9533,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yukiharas",
@@ -272,6 +272,14 @@
    "position": 713,
    "rankingPositionChange": 0,
    "gloryPoint": 9540,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 714,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9533,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

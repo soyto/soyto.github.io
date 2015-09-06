@@ -2,10 +2,10 @@
  "characterID": 162865,
  "characterClassID": 16,
  "raceID": 1,
- "position": 554,
- "rankingPositionChange": 1,
- "gloryPoint": 10501,
- "gloryPointChange": 55,
+ "position": 556,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10497,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Misakiii",
  "guildName": "Dei Ex Mortis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 10501,
    "gloryPointChange": 55,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10497,
+   "gloryPointChange": -4,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 837695,
  "characterClassID": 4,
  "raceID": 0,
- "position": 456,
- "rankingPositionChange": -3,
- "gloryPoint": 35455,
- "gloryPointChange": 25,
+ "position": 455,
+ "rankingPositionChange": 1,
+ "gloryPoint": 35540,
+ "gloryPointChange": 85,
  "soldierRankID": 12,
  "characterName": "Lokuste",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 35455,
    "gloryPointChange": 25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 455,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35540,
+   "gloryPointChange": 85,
    "soldierRankID": 12
   }
  ],

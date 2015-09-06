@@ -2,9 +2,9 @@
  "characterID": 325451,
  "characterClassID": 1,
  "raceID": 0,
- "position": 43,
- "rankingPositionChange": 0,
- "gloryPoint": 157278,
+ "position": 44,
+ "rankingPositionChange": -1,
+ "gloryPoint": 157171,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Crytech",
@@ -272,6 +272,14 @@
    "position": 43,
    "rankingPositionChange": 0,
    "gloryPoint": 157278,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 44,
+   "rankingPositionChange": -1,
+   "gloryPoint": 157171,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

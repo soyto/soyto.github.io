@@ -2,10 +2,10 @@
  "characterID": 1010731,
  "characterClassID": 14,
  "raceID": 0,
- "position": 223,
- "rankingPositionChange": 0,
- "gloryPoint": 65218,
- "gloryPointChange": 149,
+ "position": 224,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65229,
+ "gloryPointChange": 11,
  "soldierRankID": 13,
  "characterName": "Sciagura",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 65218,
    "gloryPointChange": 149,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 224,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65229,
+   "gloryPointChange": 11,
    "soldierRankID": 13
   }
  ],

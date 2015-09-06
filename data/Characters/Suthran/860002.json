@@ -2,9 +2,9 @@
  "characterID": 860002,
  "characterClassID": 11,
  "raceID": 1,
- "position": 630,
- "rankingPositionChange": 1,
- "gloryPoint": 11168,
+ "position": 633,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11154,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nisbria",
@@ -272,6 +272,14 @@
    "position": 630,
    "rankingPositionChange": 1,
    "gloryPoint": 11168,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 633,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11154,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

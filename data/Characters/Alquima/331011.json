@@ -2,10 +2,10 @@
  "characterID": 331011,
  "characterClassID": 5,
  "raceID": 0,
- "position": 651,
- "rankingPositionChange": 5,
- "gloryPoint": 18135,
- "gloryPointChange": 86,
+ "position": 654,
+ "rankingPositionChange": -3,
+ "gloryPoint": 18121,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mileh",
  "guildName": "IronCross",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 18135,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 654,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18121,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

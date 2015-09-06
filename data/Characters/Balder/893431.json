@@ -2,10 +2,10 @@
  "characterID": 893431,
  "characterClassID": 1,
  "raceID": 0,
- "position": 762,
- "rankingPositionChange": 7,
- "gloryPoint": 3012,
- "gloryPointChange": 43,
+ "position": 759,
+ "rankingPositionChange": 3,
+ "gloryPoint": 3005,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Stahlschwinge",
  "guildName": "IsMirWayne",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 3012,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 759,
+   "rankingPositionChange": 3,
+   "gloryPoint": 3005,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

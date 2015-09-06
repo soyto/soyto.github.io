@@ -2,9 +2,9 @@
  "characterID": 628781,
  "characterClassID": 4,
  "raceID": 1,
- "position": 93,
- "rankingPositionChange": -1,
- "gloryPoint": 108122,
+ "position": 92,
+ "rankingPositionChange": 1,
+ "gloryPoint": 108015,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Adaam",
@@ -272,6 +272,14 @@
    "position": 93,
    "rankingPositionChange": -1,
    "gloryPoint": 108122,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": 1,
+   "gloryPoint": 108015,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

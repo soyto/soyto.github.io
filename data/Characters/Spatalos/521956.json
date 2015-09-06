@@ -2,9 +2,9 @@
  "characterID": 521956,
  "characterClassID": 1,
  "raceID": 0,
- "position": 884,
- "rankingPositionChange": -2,
- "gloryPoint": 8027,
+ "position": 882,
+ "rankingPositionChange": 2,
+ "gloryPoint": 8020,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Appetite",
@@ -272,6 +272,14 @@
    "position": 884,
    "rankingPositionChange": -2,
    "gloryPoint": 8027,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": 2,
+   "gloryPoint": 8020,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

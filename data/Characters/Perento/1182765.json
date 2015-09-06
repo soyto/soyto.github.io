@@ -2,9 +2,9 @@
  "characterID": 1182765,
  "characterClassID": 10,
  "raceID": 1,
- "position": 533,
- "rankingPositionChange": -2,
- "gloryPoint": 7294,
+ "position": 532,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7280,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Neext",
@@ -272,6 +272,14 @@
    "position": 533,
    "rankingPositionChange": -2,
    "gloryPoint": 7294,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 532,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7280,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

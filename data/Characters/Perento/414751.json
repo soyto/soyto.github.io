@@ -2,9 +2,9 @@
  "characterID": 414751,
  "characterClassID": 10,
  "raceID": 1,
- "position": 404,
- "rankingPositionChange": 1,
- "gloryPoint": 13600,
+ "position": 405,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13572,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Schizophrenic",
@@ -272,6 +272,14 @@
    "position": 404,
    "rankingPositionChange": 1,
    "gloryPoint": 13600,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 405,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13572,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

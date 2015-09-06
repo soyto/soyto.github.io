@@ -2,9 +2,9 @@
  "characterID": 642650,
  "characterClassID": 2,
  "raceID": 0,
- "position": 315,
- "rankingPositionChange": 0,
- "gloryPoint": 60546,
+ "position": 316,
+ "rankingPositionChange": -1,
+ "gloryPoint": 60518,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Daany",
@@ -272,6 +272,14 @@
    "position": 315,
    "rankingPositionChange": 0,
    "gloryPoint": 60546,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": -1,
+   "gloryPoint": 60518,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

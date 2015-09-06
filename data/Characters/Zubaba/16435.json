@@ -2,9 +2,9 @@
  "characterID": 16435,
  "characterClassID": 1,
  "raceID": 1,
- "position": 829,
- "rankingPositionChange": 2,
- "gloryPoint": 2154,
+ "position": 832,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2147,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Czubarto",
@@ -272,6 +272,14 @@
    "position": 829,
    "rankingPositionChange": 2,
    "gloryPoint": 2154,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 832,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2147,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

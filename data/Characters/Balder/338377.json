@@ -2,10 +2,10 @@
  "characterID": 338377,
  "characterClassID": 1,
  "raceID": 1,
- "position": 491,
- "rankingPositionChange": 4,
- "gloryPoint": 2157,
- "gloryPointChange": 22,
+ "position": 492,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2129,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Deloorox",
  "guildName": "Blutgarde",
@@ -193,6 +193,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 2157,
    "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 492,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2129,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

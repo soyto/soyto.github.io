@@ -2,9 +2,9 @@
  "characterID": 1111274,
  "characterClassID": 4,
  "raceID": 0,
- "position": 604,
- "rankingPositionChange": 0,
- "gloryPoint": 28148,
+ "position": 603,
+ "rankingPositionChange": 1,
+ "gloryPoint": 28134,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zystak",
@@ -272,6 +272,14 @@
    "position": 604,
    "rankingPositionChange": 0,
    "gloryPoint": 28148,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 603,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28134,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

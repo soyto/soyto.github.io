@@ -2,9 +2,9 @@
  "characterID": 1211427,
  "characterClassID": 1,
  "raceID": 1,
- "position": 738,
- "rankingPositionChange": 1,
- "gloryPoint": 5071,
+ "position": 741,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5064,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kaz",
@@ -272,6 +272,14 @@
    "position": 738,
    "rankingPositionChange": 1,
    "gloryPoint": 5071,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 741,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5064,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

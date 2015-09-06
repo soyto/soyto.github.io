@@ -2,14 +2,14 @@
  "characterID": 477435,
  "characterClassID": 16,
  "raceID": 0,
- "position": 239,
- "rankingPositionChange": 0,
- "gloryPoint": 28404,
- "gloryPointChange": 301,
+ "position": 237,
+ "rankingPositionChange": 2,
+ "gloryPoint": 28672,
+ "gloryPointChange": 268,
  "soldierRankID": 13,
  "characterName": "Tenafly",
- "guildName": "Savage Spirit",
- "guildID": 13827,
+ "guildName": "Frozen Moon",
+ "guildID": 6478,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 28404,
    "gloryPointChange": 301,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 237,
+   "rankingPositionChange": 2,
+   "gloryPoint": 28672,
+   "gloryPointChange": 268,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Frozen Moon",
+   "guildID": 6478
   }
  ]
 }

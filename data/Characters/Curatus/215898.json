@@ -2,10 +2,10 @@
  "characterID": 215898,
  "characterClassID": 1,
  "raceID": 1,
- "position": 495,
- "rankingPositionChange": 1,
- "gloryPoint": 12821,
- "gloryPointChange": 80,
+ "position": 496,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12871,
+ "gloryPointChange": 50,
  "soldierRankID": 12,
  "characterName": "Andretaker",
  "status": [
@@ -199,6 +199,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12821,
    "gloryPointChange": 80,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 496,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12871,
+   "gloryPointChange": 50,
    "soldierRankID": 12
   }
  ],

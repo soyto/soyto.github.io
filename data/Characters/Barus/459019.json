@@ -2,9 +2,9 @@
  "characterID": 459019,
  "characterClassID": 1,
  "raceID": 1,
- "position": 309,
- "rankingPositionChange": -2,
- "gloryPoint": 49728,
+ "position": 308,
+ "rankingPositionChange": 1,
+ "gloryPoint": 49700,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Gurnisson",
@@ -272,6 +272,14 @@
    "position": 309,
    "rankingPositionChange": -2,
    "gloryPoint": 49728,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 308,
+   "rankingPositionChange": 1,
+   "gloryPoint": 49700,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

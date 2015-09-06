@@ -2,9 +2,9 @@
  "characterID": 188114,
  "characterClassID": 16,
  "raceID": 0,
- "position": 555,
- "rankingPositionChange": 1,
- "gloryPoint": 21004,
+ "position": 559,
+ "rankingPositionChange": -4,
+ "gloryPoint": 20990,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sedvicius",
@@ -272,6 +272,14 @@
    "position": 555,
    "rankingPositionChange": 1,
    "gloryPoint": 21004,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 559,
+   "rankingPositionChange": -4,
+   "gloryPoint": 20990,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

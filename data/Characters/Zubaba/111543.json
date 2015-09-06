@@ -2,10 +2,10 @@
  "characterID": 111543,
  "characterClassID": 8,
  "raceID": 1,
- "position": 577,
- "rankingPositionChange": 9,
- "gloryPoint": 6639,
- "gloryPointChange": 236,
+ "position": 580,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6625,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Aspa",
  "guildName": "Black or White",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 6639,
    "gloryPointChange": 236,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 580,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6625,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

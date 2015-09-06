@@ -2,9 +2,9 @@
  "characterID": 522635,
  "characterClassID": 14,
  "raceID": 0,
- "position": 807,
- "rankingPositionChange": 0,
- "gloryPoint": 7381,
+ "position": 808,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7374,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hellrayser",
@@ -270,6 +270,14 @@
    "position": 807,
    "rankingPositionChange": 0,
    "gloryPoint": 7381,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 808,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7374,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

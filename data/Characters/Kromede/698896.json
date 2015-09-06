@@ -2,10 +2,10 @@
  "characterID": 698896,
  "characterClassID": 4,
  "raceID": 0,
- "position": 464,
- "rankingPositionChange": 4,
- "gloryPoint": 26184,
- "gloryPointChange": 222,
+ "position": 465,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26156,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mephilis",
  "guildName": "Kingdom Hearts X",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 26184,
    "gloryPointChange": 222,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 465,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26156,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

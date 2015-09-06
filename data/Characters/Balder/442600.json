@@ -2,9 +2,9 @@
  "characterID": 442600,
  "characterClassID": 5,
  "raceID": 0,
- "position": 373,
- "rankingPositionChange": -3,
- "gloryPoint": 15054,
+ "position": 370,
+ "rankingPositionChange": 3,
+ "gloryPoint": 15026,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Talasia",
@@ -272,6 +272,14 @@
    "position": 373,
    "rankingPositionChange": -3,
    "gloryPoint": 15054,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 370,
+   "rankingPositionChange": 3,
+   "gloryPoint": 15026,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

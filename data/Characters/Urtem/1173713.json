@@ -2,9 +2,9 @@
  "characterID": 1173713,
  "characterClassID": 16,
  "raceID": 1,
- "position": 911,
- "rankingPositionChange": 1,
- "gloryPoint": 7878,
+ "position": 912,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7871,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Donbardix",
@@ -272,6 +272,14 @@
    "position": 911,
    "rankingPositionChange": 1,
    "gloryPoint": 7878,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7871,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 1120839,
  "characterClassID": 5,
  "raceID": 1,
- "position": 842,
- "rankingPositionChange": 2,
- "gloryPoint": 3925,
- "gloryPointChange": -7,
+ "position": 844,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3946,
+ "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Frankenpower",
  "guildName": "Elysea Shall Burn",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 3925,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 844,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3946,
+   "gloryPointChange": 21,
    "soldierRankID": 10
   }
  ],

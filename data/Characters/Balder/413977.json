@@ -2,9 +2,9 @@
  "characterID": 413977,
  "characterClassID": 2,
  "raceID": 1,
- "position": 490,
- "rankingPositionChange": 0,
- "gloryPoint": 2161,
+ "position": 491,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2133,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Rhivanon",
@@ -272,6 +272,14 @@
    "position": 490,
    "rankingPositionChange": 0,
    "gloryPoint": 2161,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 491,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2133,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

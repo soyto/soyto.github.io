@@ -2,9 +2,9 @@
  "characterID": 546123,
  "characterClassID": 10,
  "raceID": 1,
- "position": 947,
- "rankingPositionChange": -4,
- "gloryPoint": 1736,
+ "position": 946,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1729,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fyde",
@@ -264,6 +264,14 @@
    "position": 947,
    "rankingPositionChange": -4,
    "gloryPoint": 1736,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 946,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1729,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

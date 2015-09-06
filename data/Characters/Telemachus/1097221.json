@@ -2,9 +2,9 @@
  "characterID": 1097221,
  "characterClassID": 14,
  "raceID": 1,
- "position": 525,
- "rankingPositionChange": 1,
- "gloryPoint": 3014,
+ "position": 528,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3000,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Rojy",
@@ -272,6 +272,14 @@
    "position": 525,
    "rankingPositionChange": 1,
    "gloryPoint": 3014,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 528,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3000,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

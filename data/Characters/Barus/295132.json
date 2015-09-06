@@ -2,9 +2,9 @@
  "characterID": 295132,
  "characterClassID": 14,
  "raceID": 0,
- "position": 845,
- "rankingPositionChange": 1,
- "gloryPoint": 14464,
+ "position": 846,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14457,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lirthin",
@@ -272,6 +272,14 @@
    "position": 845,
    "rankingPositionChange": 1,
    "gloryPoint": 14464,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14457,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

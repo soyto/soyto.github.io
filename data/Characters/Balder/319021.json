@@ -2,9 +2,9 @@
  "characterID": 319021,
  "characterClassID": 7,
  "raceID": 1,
- "position": 480,
- "rankingPositionChange": 2,
- "gloryPoint": 2346,
+ "position": 482,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2318,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Esthea",
@@ -272,6 +272,14 @@
    "position": 480,
    "rankingPositionChange": 2,
    "gloryPoint": 2346,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 482,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2318,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

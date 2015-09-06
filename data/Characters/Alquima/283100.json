@@ -2,9 +2,9 @@
  "characterID": 283100,
  "characterClassID": 7,
  "raceID": 1,
- "position": 985,
- "rankingPositionChange": 0,
- "gloryPoint": 5674,
+ "position": 989,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5667,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Enchantress",
@@ -264,6 +264,14 @@
    "position": 985,
    "rankingPositionChange": 0,
    "gloryPoint": 5674,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5667,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

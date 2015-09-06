@@ -2,9 +2,9 @@
  "characterID": 309104,
  "characterClassID": 2,
  "raceID": 1,
- "position": 841,
- "rankingPositionChange": 3,
- "gloryPoint": 2491,
+ "position": 847,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2484,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Humanshield",
@@ -270,6 +270,14 @@
    "position": 841,
    "rankingPositionChange": 3,
    "gloryPoint": 2491,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 847,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2484,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

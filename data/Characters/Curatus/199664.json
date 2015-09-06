@@ -2,9 +2,9 @@
  "characterID": 199664,
  "characterClassID": 4,
  "raceID": 1,
- "position": 649,
- "rankingPositionChange": 1,
- "gloryPoint": 7899,
+ "position": 651,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7885,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Loozy",
@@ -272,6 +272,14 @@
    "position": 649,
    "rankingPositionChange": 1,
    "gloryPoint": 7899,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 651,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7885,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

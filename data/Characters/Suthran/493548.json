@@ -2,10 +2,10 @@
  "characterID": 493548,
  "characterClassID": 4,
  "raceID": 0,
- "position": 287,
- "rankingPositionChange": 0,
- "gloryPoint": 56597,
- "gloryPointChange": -29,
+ "position": 288,
+ "rankingPositionChange": -1,
+ "gloryPoint": 56762,
+ "gloryPointChange": 165,
  "soldierRankID": 13,
  "characterName": "Sarkozi",
  "guildName": "I am an Anarchist",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 56597,
    "gloryPointChange": -29,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 288,
+   "rankingPositionChange": -1,
+   "gloryPoint": 56762,
+   "gloryPointChange": 165,
    "soldierRankID": 13
   }
  ],

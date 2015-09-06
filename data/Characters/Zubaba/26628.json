@@ -2,10 +2,10 @@
  "characterID": 26628,
  "characterClassID": 16,
  "raceID": 0,
- "position": 886,
- "rankingPositionChange": 5,
- "gloryPoint": 3865,
- "gloryPointChange": 65,
+ "position": 893,
+ "rankingPositionChange": -7,
+ "gloryPoint": 3858,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mercann",
  "guildName": "Haters Gonna HATE",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 3865,
    "gloryPointChange": 65,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 893,
+   "rankingPositionChange": -7,
+   "gloryPoint": 3858,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

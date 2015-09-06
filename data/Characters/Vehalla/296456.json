@@ -3,8 +3,8 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 332,
- "rankingPositionChange": -1,
- "gloryPoint": 7629,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7601,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Belimor",
@@ -270,6 +270,14 @@
    "position": 332,
    "rankingPositionChange": -1,
    "gloryPoint": 7629,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 332,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7601,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

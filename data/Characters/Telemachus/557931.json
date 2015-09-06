@@ -2,9 +2,9 @@
  "characterID": 557931,
  "characterClassID": 4,
  "raceID": 0,
- "position": 34,
- "rankingPositionChange": 0,
- "gloryPoint": 273197,
+ "position": 35,
+ "rankingPositionChange": -1,
+ "gloryPoint": 273090,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Galiana",
@@ -272,6 +272,14 @@
    "position": 34,
    "rankingPositionChange": 0,
    "gloryPoint": 273197,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 35,
+   "rankingPositionChange": -1,
+   "gloryPoint": 273090,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

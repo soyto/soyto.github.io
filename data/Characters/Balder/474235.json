@@ -2,10 +2,10 @@
  "characterID": 474235,
  "characterClassID": 10,
  "raceID": 1,
- "position": 113,
+ "position": 112,
  "rankingPositionChange": 1,
- "gloryPoint": 58293,
- "gloryPointChange": 101,
+ "gloryPoint": 58244,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Caali",
  "guildName": "Strangers with Candy",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 58293,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 112,
+   "rankingPositionChange": 1,
+   "gloryPoint": 58244,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

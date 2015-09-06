@@ -2,10 +2,10 @@
  "characterID": 309776,
  "characterClassID": 2,
  "raceID": 0,
- "position": 378,
- "rankingPositionChange": 1,
- "gloryPoint": 42164,
- "gloryPointChange": 409,
+ "position": 380,
+ "rankingPositionChange": -2,
+ "gloryPoint": 42136,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Angelsoul",
  "guildName": "No Authority",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 42164,
    "gloryPointChange": 409,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": -2,
+   "gloryPoint": 42136,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

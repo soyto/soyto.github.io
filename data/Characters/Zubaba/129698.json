@@ -2,10 +2,10 @@
  "characterID": 129698,
  "characterClassID": 10,
  "raceID": 1,
- "position": 679,
- "rankingPositionChange": 2,
- "gloryPoint": 4104,
- "gloryPointChange": 39,
+ "position": 680,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4100,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Slerik",
  "guildName": "ANCHOR",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 4104,
    "gloryPointChange": 39,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4100,
+   "gloryPointChange": -4,
    "soldierRankID": 11
   }
  ],

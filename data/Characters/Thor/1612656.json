@@ -2,9 +2,9 @@
  "characterID": 1612656,
  "characterClassID": 14,
  "raceID": 0,
- "position": 196,
- "rankingPositionChange": 0,
- "gloryPoint": 91294,
+ "position": 197,
+ "rankingPositionChange": -1,
+ "gloryPoint": 91245,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Quickndirty",
@@ -272,6 +272,14 @@
    "position": 196,
    "rankingPositionChange": 0,
    "gloryPoint": 91294,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 197,
+   "rankingPositionChange": -1,
+   "gloryPoint": 91245,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

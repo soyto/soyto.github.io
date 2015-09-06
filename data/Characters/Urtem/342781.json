@@ -2,10 +2,10 @@
  "characterID": 342781,
  "characterClassID": 4,
  "raceID": 0,
- "position": 712,
- "rankingPositionChange": 1,
- "gloryPoint": 22713,
- "gloryPointChange": 3,
+ "position": 708,
+ "rankingPositionChange": 4,
+ "gloryPoint": 22709,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Eiasriel",
  "guildName": "Le culte du Lapin aqueux",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 22713,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 708,
+   "rankingPositionChange": 4,
+   "gloryPoint": 22709,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

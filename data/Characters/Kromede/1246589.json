@@ -2,9 +2,9 @@
  "characterID": 1246589,
  "characterClassID": 5,
  "raceID": 1,
- "position": 671,
- "rankingPositionChange": 1,
- "gloryPoint": 6240,
+ "position": 672,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6226,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Esmariel",
@@ -272,6 +272,14 @@
    "position": 671,
    "rankingPositionChange": 1,
    "gloryPoint": 6240,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 672,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6226,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

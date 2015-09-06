@@ -2,10 +2,10 @@
  "characterID": 1410766,
  "characterClassID": 10,
  "raceID": 1,
- "position": 578,
- "rankingPositionChange": 1,
- "gloryPoint": 23939,
- "gloryPointChange": 186,
+ "position": 579,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23925,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Soriyo",
  "guildName": "Clan des Havoc",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 23939,
    "gloryPointChange": 186,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 579,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23925,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

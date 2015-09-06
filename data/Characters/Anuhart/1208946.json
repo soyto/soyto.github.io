@@ -2,9 +2,9 @@
  "characterID": 1208946,
  "characterClassID": 14,
  "raceID": 1,
- "position": 772,
- "rankingPositionChange": 2,
- "gloryPoint": 3393,
+ "position": 774,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3396,
  "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Celee",
@@ -272,6 +272,14 @@
    "position": 772,
    "rankingPositionChange": 2,
    "gloryPoint": 3393,
+   "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 774,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3396,
    "gloryPointChange": 3,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 964648,
  "characterClassID": 16,
  "raceID": 0,
- "position": 916,
- "rankingPositionChange": -1,
- "gloryPoint": 1912,
+ "position": 911,
+ "rankingPositionChange": 5,
+ "gloryPoint": 1905,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Skathia",
@@ -176,6 +176,14 @@
    "position": 916,
    "rankingPositionChange": -1,
    "gloryPoint": 1912,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 911,
+   "rankingPositionChange": 5,
+   "gloryPoint": 1905,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

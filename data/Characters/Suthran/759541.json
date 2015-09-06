@@ -2,9 +2,9 @@
  "characterID": 759541,
  "characterClassID": 1,
  "raceID": 1,
- "position": 761,
- "rankingPositionChange": 0,
- "gloryPoint": 8078,
+ "position": 766,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8071,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sovietic",
@@ -272,6 +272,14 @@
    "position": 761,
    "rankingPositionChange": 0,
    "gloryPoint": 8078,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 766,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8071,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

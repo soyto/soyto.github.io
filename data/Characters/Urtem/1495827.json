@@ -2,9 +2,9 @@
  "characterID": 1495827,
  "characterClassID": 1,
  "raceID": 1,
- "position": 579,
- "rankingPositionChange": 0,
- "gloryPoint": 14872,
+ "position": 581,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14858,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nakayshin",
@@ -256,6 +256,14 @@
    "position": 579,
    "rankingPositionChange": 0,
    "gloryPoint": 14872,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 581,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14858,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 741206,
  "characterClassID": 1,
  "raceID": 1,
- "position": 114,
- "rankingPositionChange": 1,
- "gloryPoint": 95990,
- "gloryPointChange": 727,
+ "position": 115,
+ "rankingPositionChange": -1,
+ "gloryPoint": 96253,
+ "gloryPointChange": 263,
  "soldierRankID": 13,
  "characterName": "Malkocogllu",
  "guildName": "OSMANLI",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 95990,
    "gloryPointChange": 727,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 115,
+   "rankingPositionChange": -1,
+   "gloryPoint": 96253,
+   "gloryPointChange": 263,
    "soldierRankID": 13
   }
  ],

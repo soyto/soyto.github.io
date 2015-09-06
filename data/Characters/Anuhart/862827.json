@@ -2,9 +2,9 @@
  "characterID": 862827,
  "characterClassID": 16,
  "raceID": 1,
- "position": 577,
- "rankingPositionChange": 2,
- "gloryPoint": 6799,
+ "position": 580,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6785,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Meliy",
@@ -272,6 +272,14 @@
    "position": 577,
    "rankingPositionChange": 2,
    "gloryPoint": 6799,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 580,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6785,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 483631,
  "characterClassID": 2,
  "raceID": 0,
- "position": 979,
- "rankingPositionChange": 19,
- "gloryPoint": 1281,
- "gloryPointChange": -14,
+ "position": 980,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1274,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Temparis",
  "status": [
@@ -71,6 +71,14 @@
    "rankingPositionChange": 19,
    "gloryPoint": 1281,
    "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1274,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

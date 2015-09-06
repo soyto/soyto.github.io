@@ -2,9 +2,9 @@
  "characterID": 366440,
  "characterClassID": 5,
  "raceID": 1,
- "position": 569,
- "rankingPositionChange": 3,
- "gloryPoint": 2609,
+ "position": 572,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2595,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kaioken",
@@ -272,6 +272,14 @@
    "position": 569,
    "rankingPositionChange": 3,
    "gloryPoint": 2609,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2595,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

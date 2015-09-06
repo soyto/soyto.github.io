@@ -2,10 +2,10 @@
  "characterID": 1188633,
  "characterClassID": 16,
  "raceID": 1,
- "position": 210,
- "rankingPositionChange": 0,
- "gloryPoint": 51214,
- "gloryPointChange": 344,
+ "position": 211,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51171,
+ "gloryPointChange": -43,
  "soldierRankID": 13,
  "characterName": "Bobydjack",
  "guildName": "Chocolat",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 51214,
    "gloryPointChange": 344,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 211,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51171,
+   "gloryPointChange": -43,
    "soldierRankID": 13
   }
  ],

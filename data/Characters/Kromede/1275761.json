@@ -2,9 +2,9 @@
  "characterID": 1275761,
  "characterClassID": 2,
  "raceID": 0,
- "position": 708,
- "rankingPositionChange": 0,
- "gloryPoint": 15651,
+ "position": 711,
+ "rankingPositionChange": -3,
+ "gloryPoint": 15644,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Darudez",
@@ -272,6 +272,14 @@
    "position": 708,
    "rankingPositionChange": 0,
    "gloryPoint": 15651,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15644,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

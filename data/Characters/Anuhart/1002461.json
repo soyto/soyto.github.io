@@ -2,10 +2,10 @@
  "characterID": 1002461,
  "characterClassID": 2,
  "raceID": 1,
- "position": 974,
- "rankingPositionChange": 0,
- "gloryPoint": 1703,
- "gloryPointChange": 0,
+ "position": 982,
+ "rankingPositionChange": -8,
+ "gloryPoint": 1696,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Flappie",
  "status": [
@@ -15,6 +15,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 1703,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 982,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1696,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

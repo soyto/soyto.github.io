@@ -2,10 +2,10 @@
  "characterID": 34988,
  "characterClassID": 7,
  "raceID": 0,
- "position": 380,
- "rankingPositionChange": 3,
- "gloryPoint": 40252,
- "gloryPointChange": 380,
+ "position": 381,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40415,
+ "gloryPointChange": 163,
  "soldierRankID": 12,
  "characterName": "Mirtox",
  "guildName": "Sick Minds",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 40252,
    "gloryPointChange": 380,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 381,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40415,
+   "gloryPointChange": 163,
    "soldierRankID": 12
   }
  ],

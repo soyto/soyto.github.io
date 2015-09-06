@@ -2,9 +2,9 @@
  "characterID": 22712,
  "characterClassID": 10,
  "raceID": 0,
- "position": 366,
- "rankingPositionChange": -4,
- "gloryPoint": 15599,
+ "position": 362,
+ "rankingPositionChange": 4,
+ "gloryPoint": 15571,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Meedi",
@@ -272,6 +272,14 @@
    "position": 366,
    "rankingPositionChange": -4,
    "gloryPoint": 15599,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 362,
+   "rankingPositionChange": 4,
+   "gloryPoint": 15571,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

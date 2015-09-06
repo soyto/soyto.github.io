@@ -2,10 +2,10 @@
  "characterID": 225253,
  "characterClassID": 13,
  "raceID": 0,
- "position": 192,
- "rankingPositionChange": 1,
- "gloryPoint": 80286,
- "gloryPointChange": 475,
+ "position": 193,
+ "rankingPositionChange": -1,
+ "gloryPoint": 80577,
+ "gloryPointChange": 291,
  "soldierRankID": 13,
  "characterName": "Hitsumi",
  "guildName": " Outlaw ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 80286,
    "gloryPointChange": 475,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 193,
+   "rankingPositionChange": -1,
+   "gloryPoint": 80577,
+   "gloryPointChange": 291,
    "soldierRankID": 13
   }
  ],

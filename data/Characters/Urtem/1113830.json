@@ -2,9 +2,9 @@
  "characterID": 1113830,
  "characterClassID": 5,
  "raceID": 0,
- "position": 242,
- "rankingPositionChange": 1,
- "gloryPoint": 67550,
+ "position": 243,
+ "rankingPositionChange": -1,
+ "gloryPoint": 67601,
  "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Overkiill",
@@ -256,6 +256,14 @@
    "position": 242,
    "rankingPositionChange": 1,
    "gloryPoint": 67550,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 243,
+   "rankingPositionChange": -1,
+   "gloryPoint": 67601,
    "gloryPointChange": 51,
    "soldierRankID": 13
   }

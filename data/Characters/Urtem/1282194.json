@@ -2,9 +2,9 @@
  "characterID": 1282194,
  "characterClassID": 8,
  "raceID": 1,
- "position": 944,
- "rankingPositionChange": 0,
- "gloryPoint": 7446,
+ "position": 946,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7439,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Harmon",
@@ -262,6 +262,14 @@
    "position": 944,
    "rankingPositionChange": 0,
    "gloryPoint": 7446,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 946,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7439,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

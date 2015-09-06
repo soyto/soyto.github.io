@@ -2,9 +2,9 @@
  "characterID": 554080,
  "characterClassID": 14,
  "raceID": 0,
- "position": 778,
- "rankingPositionChange": 0,
- "gloryPoint": 2104,
+ "position": 780,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2097,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Leechan",
@@ -192,6 +192,14 @@
    "position": 778,
    "rankingPositionChange": 0,
    "gloryPoint": 2104,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 780,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2097,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

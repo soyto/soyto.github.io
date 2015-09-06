@@ -2,9 +2,9 @@
  "characterID": 437811,
  "characterClassID": 2,
  "raceID": 0,
- "position": 156,
- "rankingPositionChange": 0,
- "gloryPoint": 83352,
+ "position": 157,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83303,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ironskin",
@@ -272,6 +272,14 @@
    "position": 156,
    "rankingPositionChange": 0,
    "gloryPoint": 83352,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 157,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83303,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

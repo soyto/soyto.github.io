@@ -2,10 +2,10 @@
  "characterID": 212593,
  "characterClassID": 1,
  "raceID": 1,
- "position": 68,
- "rankingPositionChange": 2,
- "gloryPoint": 117584,
- "gloryPointChange": 817,
+ "position": 69,
+ "rankingPositionChange": -1,
+ "gloryPoint": 118261,
+ "gloryPointChange": 677,
  "soldierRankID": 14,
  "characterName": "Kefere",
  "guildName": "Bosphorus",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 117584,
    "gloryPointChange": 817,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 69,
+   "rankingPositionChange": -1,
+   "gloryPoint": 118261,
+   "gloryPointChange": 677,
    "soldierRankID": 14
   }
  ],

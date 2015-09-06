@@ -2,9 +2,9 @@
  "characterID": 820218,
  "characterClassID": 2,
  "raceID": 0,
- "position": 534,
- "rankingPositionChange": 0,
- "gloryPoint": 15839,
+ "position": 535,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15825,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Jhermy",
@@ -264,6 +264,14 @@
    "position": 534,
    "rankingPositionChange": 0,
    "gloryPoint": 15839,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 535,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15825,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

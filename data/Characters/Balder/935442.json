@@ -2,9 +2,9 @@
  "characterID": 935442,
  "characterClassID": 10,
  "raceID": 0,
- "position": 819,
- "rankingPositionChange": 4,
- "gloryPoint": 2506,
+ "position": 820,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2499,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shuha",
@@ -160,6 +160,14 @@
    "position": 819,
    "rankingPositionChange": 4,
    "gloryPoint": 2506,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 820,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2499,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

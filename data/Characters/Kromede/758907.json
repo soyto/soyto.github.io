@@ -2,9 +2,9 @@
  "characterID": 758907,
  "characterClassID": 1,
  "raceID": 1,
- "position": 640,
- "rankingPositionChange": 0,
- "gloryPoint": 6786,
+ "position": 641,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6772,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Innocenzia",
@@ -272,6 +272,14 @@
    "position": 640,
    "rankingPositionChange": 0,
    "gloryPoint": 6786,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6772,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,12 +2,14 @@
  "characterID": 1407713,
  "characterClassID": 11,
  "raceID": 1,
- "position": 462,
- "rankingPositionChange": -2,
- "gloryPoint": 31380,
- "gloryPointChange": -28,
+ "position": 460,
+ "rankingPositionChange": 2,
+ "gloryPoint": 31355,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Yrale",
+ "guildName": "Lost Society",
+ "guildID": 48524,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 31380,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 460,
+   "rankingPositionChange": 2,
+   "gloryPoint": 31355,
+   "gloryPointChange": -25,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -283,6 +293,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Lost Society",
+   "guildID": 48524
   }
  ]
 }

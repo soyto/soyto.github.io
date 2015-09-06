@@ -2,10 +2,10 @@
  "characterID": 463182,
  "characterClassID": 10,
  "raceID": 1,
- "position": 260,
- "rankingPositionChange": 1,
- "gloryPoint": 13656,
- "gloryPointChange": -21,
+ "position": 261,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13607,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Phintias",
  "guildName": "The Dark Side",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13656,
    "gloryPointChange": -21,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13607,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

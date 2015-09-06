@@ -2,9 +2,9 @@
  "characterID": 1344529,
  "characterClassID": 11,
  "raceID": 1,
- "position": 873,
- "rankingPositionChange": 1,
- "gloryPoint": 8552,
+ "position": 875,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8545,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kyouki",
@@ -270,6 +270,14 @@
    "position": 873,
    "rankingPositionChange": 1,
    "gloryPoint": 8552,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 875,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8545,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

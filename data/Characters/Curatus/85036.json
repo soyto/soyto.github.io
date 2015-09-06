@@ -2,12 +2,14 @@
  "characterID": 85036,
  "characterClassID": 10,
  "raceID": 1,
- "position": 416,
- "rankingPositionChange": 1,
- "gloryPoint": 15639,
- "gloryPointChange": -28,
+ "position": 417,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15672,
+ "gloryPointChange": 33,
  "soldierRankID": 12,
  "characterName": "Casper",
+ "guildName": "R I P",
+ "guildID": 4252,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 15639,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 417,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15672,
+   "gloryPointChange": 33,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -293,6 +303,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "R I P",
+   "guildID": 4252
   }
  ]
 }

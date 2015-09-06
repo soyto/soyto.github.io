@@ -2,10 +2,10 @@
  "characterID": 998064,
  "characterClassID": 1,
  "raceID": 0,
- "position": 901,
- "rankingPositionChange": -6,
- "gloryPoint": 5092,
- "gloryPointChange": -2,
+ "position": 899,
+ "rankingPositionChange": 2,
+ "gloryPoint": 5089,
+ "gloryPointChange": -3,
  "soldierRankID": 10,
  "characterName": "Uzielys",
  "guildName": "Poder de Atreia",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 5092,
    "gloryPointChange": -2,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 899,
+   "rankingPositionChange": 2,
+   "gloryPoint": 5089,
+   "gloryPointChange": -3,
    "soldierRankID": 10
   }
  ],

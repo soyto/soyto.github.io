@@ -3,8 +3,8 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 343,
- "rankingPositionChange": -1,
- "gloryPoint": 30239,
+ "rankingPositionChange": 0,
+ "gloryPoint": 30211,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Agathe",
@@ -256,6 +256,14 @@
    "position": 343,
    "rankingPositionChange": -1,
    "gloryPoint": 30239,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 343,
+   "rankingPositionChange": 0,
+   "gloryPoint": 30211,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

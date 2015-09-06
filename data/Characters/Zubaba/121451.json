@@ -2,10 +2,10 @@
  "characterID": 121451,
  "characterClassID": 8,
  "raceID": 1,
- "position": 46,
- "rankingPositionChange": 0,
- "gloryPoint": 146483,
- "gloryPointChange": 437,
+ "position": 47,
+ "rankingPositionChange": -1,
+ "gloryPoint": 146893,
+ "gloryPointChange": 410,
  "soldierRankID": 14,
  "characterName": "Misket",
  "guildName": "Bosphorus",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 146483,
    "gloryPointChange": 437,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 47,
+   "rankingPositionChange": -1,
+   "gloryPoint": 146893,
+   "gloryPointChange": 410,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 195366,
  "characterClassID": 14,
  "raceID": 0,
- "position": 238,
- "rankingPositionChange": -1,
- "gloryPoint": 59201,
+ "position": 237,
+ "rankingPositionChange": 1,
+ "gloryPoint": 59152,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lejman",
@@ -272,6 +272,14 @@
    "position": 238,
    "rankingPositionChange": -1,
    "gloryPoint": 59201,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 237,
+   "rankingPositionChange": 1,
+   "gloryPoint": 59152,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

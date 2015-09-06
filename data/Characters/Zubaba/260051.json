@@ -2,9 +2,9 @@
  "characterID": 260051,
  "characterClassID": 13,
  "raceID": 1,
- "position": 391,
- "rankingPositionChange": 1,
- "gloryPoint": 15614,
+ "position": 393,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15586,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Drf",
@@ -272,6 +272,14 @@
    "position": 391,
    "rankingPositionChange": 1,
    "gloryPoint": 15614,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 393,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15586,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

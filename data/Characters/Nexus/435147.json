@@ -2,10 +2,10 @@
  "characterID": 435147,
  "characterClassID": 2,
  "raceID": 1,
- "position": 830,
- "rankingPositionChange": 5,
- "gloryPoint": 11537,
- "gloryPointChange": 225,
+ "position": 835,
+ "rankingPositionChange": -5,
+ "gloryPoint": 11540,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Brihan",
  "guildName": "Pannon Reborn",
@@ -193,6 +193,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 11537,
    "gloryPointChange": 225,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 835,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11540,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

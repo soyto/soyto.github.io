@@ -4,8 +4,8 @@
  "raceID": 1,
  "position": 72,
  "rankingPositionChange": 0,
- "gloryPoint": 88232,
- "gloryPointChange": 193,
+ "gloryPoint": 88231,
+ "gloryPointChange": -1,
  "soldierRankID": 14,
  "characterName": "Sampi",
  "guildName": "Lucky Seven",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 88232,
    "gloryPointChange": 193,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 72,
+   "rankingPositionChange": 0,
+   "gloryPoint": 88231,
+   "gloryPointChange": -1,
    "soldierRankID": 14
   }
  ],

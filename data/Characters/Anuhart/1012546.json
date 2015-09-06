@@ -2,10 +2,10 @@
  "characterID": 1012546,
  "characterClassID": 10,
  "raceID": 1,
- "position": 896,
- "rankingPositionChange": 36,
- "gloryPoint": 2086,
- "gloryPointChange": 203,
+ "position": 901,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2079,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Erikaheal",
  "guildName": "Exiled Riders",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 36,
    "gloryPoint": 2086,
    "gloryPointChange": 203,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 901,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2079,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

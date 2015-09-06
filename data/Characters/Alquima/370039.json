@@ -2,9 +2,9 @@
  "characterID": 370039,
  "characterClassID": 8,
  "raceID": 0,
- "position": 969,
- "rankingPositionChange": 1,
- "gloryPoint": 10421,
+ "position": 970,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10414,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Allena",
@@ -272,6 +272,14 @@
    "position": 969,
    "rankingPositionChange": 1,
    "gloryPoint": 10421,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 970,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10414,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

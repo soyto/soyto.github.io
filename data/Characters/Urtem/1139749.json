@@ -2,9 +2,9 @@
  "characterID": 1139749,
  "characterClassID": 4,
  "raceID": 0,
- "position": 179,
- "rankingPositionChange": 1,
- "gloryPoint": 78941,
+ "position": 181,
+ "rankingPositionChange": -2,
+ "gloryPoint": 78892,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ethylik",
@@ -262,6 +262,14 @@
    "position": 179,
    "rankingPositionChange": 1,
    "gloryPoint": 78941,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 181,
+   "rankingPositionChange": -2,
+   "gloryPoint": 78892,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

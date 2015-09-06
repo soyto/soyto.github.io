@@ -2,12 +2,14 @@
  "characterID": 387865,
  "characterClassID": 1,
  "raceID": 0,
- "position": 629,
- "rankingPositionChange": -1,
- "gloryPoint": 22064,
+ "position": 631,
+ "rankingPositionChange": -2,
+ "gloryPoint": 22050,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Akan",
+ "guildName": "Fat But Happy",
+ "guildID": 13713,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 22064,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 631,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22050,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -283,6 +293,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Fat But Happy",
+   "guildID": 13713
   }
  ]
 }

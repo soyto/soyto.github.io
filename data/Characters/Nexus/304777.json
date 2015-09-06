@@ -2,9 +2,9 @@
  "characterID": 304777,
  "characterClassID": 5,
  "raceID": 0,
- "position": 902,
- "rankingPositionChange": 0,
- "gloryPoint": 5563,
+ "position": 905,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5556,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Soullegend",
@@ -272,6 +272,14 @@
    "position": 902,
    "rankingPositionChange": 0,
    "gloryPoint": 5563,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 905,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5556,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

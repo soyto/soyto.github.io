@@ -2,9 +2,9 @@
  "characterID": 459400,
  "characterClassID": 1,
  "raceID": 0,
- "position": 952,
- "rankingPositionChange": 3,
- "gloryPoint": 10699,
+ "position": 954,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10692,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kranhostil",
@@ -70,6 +70,14 @@
    "position": 952,
    "rankingPositionChange": 3,
    "gloryPoint": 10699,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 954,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10692,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 118479,
  "characterClassID": 1,
  "raceID": 1,
- "position": 207,
- "rankingPositionChange": 0,
- "gloryPoint": 37520,
+ "position": 208,
+ "rankingPositionChange": -1,
+ "gloryPoint": 37471,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Wolfuck",
@@ -272,6 +272,14 @@
    "position": 207,
    "rankingPositionChange": 0,
    "gloryPoint": 37520,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 208,
+   "rankingPositionChange": -1,
+   "gloryPoint": 37471,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

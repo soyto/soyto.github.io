@@ -2,9 +2,9 @@
  "characterID": 782529,
  "characterClassID": 10,
  "raceID": 1,
- "position": 950,
- "rankingPositionChange": 4,
- "gloryPoint": 1740,
+ "position": 955,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1733,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hyosai",
@@ -88,6 +88,14 @@
    "position": 950,
    "rankingPositionChange": 4,
    "gloryPoint": 1740,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1733,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 654476,
  "characterClassID": 14,
  "raceID": 1,
- "position": 649,
- "rankingPositionChange": 1,
- "gloryPoint": 12052,
- "gloryPointChange": 122,
+ "position": 651,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12038,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lisay",
  "guildName": "Destinados",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12052,
    "gloryPointChange": 122,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 651,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12038,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 545616,
  "characterClassID": 14,
  "raceID": 0,
- "position": 967,
- "rankingPositionChange": 4,
- "gloryPoint": 4682,
+ "position": 971,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4675,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Marendalol",
@@ -32,6 +32,14 @@
    "position": 967,
    "rankingPositionChange": 4,
    "gloryPoint": 4682,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 971,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4675,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

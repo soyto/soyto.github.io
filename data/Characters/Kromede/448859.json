@@ -2,9 +2,9 @@
  "characterID": 448859,
  "characterClassID": 5,
  "raceID": 1,
- "position": 731,
- "rankingPositionChange": 2,
- "gloryPoint": 5221,
+ "position": 733,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5214,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bodycount",
@@ -272,6 +272,14 @@
    "position": 731,
    "rankingPositionChange": 2,
    "gloryPoint": 5221,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 733,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5214,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

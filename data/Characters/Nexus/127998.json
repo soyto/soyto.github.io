@@ -2,10 +2,10 @@
  "characterID": 127998,
  "characterClassID": 10,
  "raceID": 1,
- "position": 276,
- "rankingPositionChange": 0,
- "gloryPoint": 61983,
- "gloryPointChange": -39,
+ "position": 277,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61934,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kelth",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 61983,
    "gloryPointChange": -39,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 277,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61934,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 204884,
  "characterClassID": 7,
  "raceID": 1,
- "position": 661,
- "rankingPositionChange": 1,
- "gloryPoint": 7553,
+ "position": 664,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7539,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Reeja",
@@ -270,6 +270,14 @@
    "position": 661,
    "rankingPositionChange": 1,
    "gloryPoint": 7553,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 664,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7539,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 379788,
  "characterClassID": 10,
  "raceID": 1,
- "position": 299,
- "rankingPositionChange": 2,
- "gloryPoint": 23779,
- "gloryPointChange": -28,
+ "position": 300,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23730,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Leawina",
  "guildName": "Satanic Nightjar",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 23779,
    "gloryPointChange": -28,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 300,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23730,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 184084,
  "characterClassID": 1,
  "raceID": 0,
- "position": 745,
- "rankingPositionChange": 0,
- "gloryPoint": 2278,
+ "position": 746,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2271,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mignima",
@@ -272,6 +272,14 @@
    "position": 745,
    "rankingPositionChange": 0,
    "gloryPoint": 2278,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 746,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2271,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

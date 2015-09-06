@@ -2,9 +2,9 @@
  "characterID": 865692,
  "characterClassID": 14,
  "raceID": 1,
- "position": 249,
- "rankingPositionChange": 2,
- "gloryPoint": 35055,
+ "position": 250,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35006,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tsifo",
@@ -80,6 +80,14 @@
    "position": 249,
    "rankingPositionChange": 2,
    "gloryPoint": 35055,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 250,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35006,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

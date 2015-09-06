@@ -2,9 +2,9 @@
  "characterID": 1221442,
  "characterClassID": 14,
  "raceID": 0,
- "position": 447,
- "rankingPositionChange": 2,
- "gloryPoint": 40421,
+ "position": 450,
+ "rankingPositionChange": -3,
+ "gloryPoint": 40393,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Johnnycolt",
@@ -272,6 +272,14 @@
    "position": 447,
    "rankingPositionChange": 2,
    "gloryPoint": 40421,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": -3,
+   "gloryPoint": 40393,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

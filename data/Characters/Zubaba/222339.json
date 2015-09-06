@@ -2,12 +2,14 @@
  "characterID": 222339,
  "characterClassID": 8,
  "raceID": 1,
- "position": 60,
- "rankingPositionChange": 0,
- "gloryPoint": 124975,
- "gloryPointChange": -107,
+ "position": 61,
+ "rankingPositionChange": -1,
+ "gloryPoint": 125432,
+ "gloryPointChange": 457,
  "soldierRankID": 14,
  "characterName": "Ojit",
+ "guildName": "ANCHOR",
+ "guildID": 6633,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 124975,
    "gloryPointChange": -107,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 61,
+   "rankingPositionChange": -1,
+   "gloryPoint": 125432,
+   "gloryPointChange": 457,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "ANCHOR",
+   "guildID": 6633
   }
  ]
 }

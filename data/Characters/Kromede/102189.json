@@ -2,9 +2,9 @@
  "characterID": 102189,
  "characterClassID": 5,
  "raceID": 1,
- "position": 748,
- "rankingPositionChange": 0,
- "gloryPoint": 4917,
+ "position": 751,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4910,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Belos",
@@ -272,6 +272,14 @@
    "position": 748,
    "rankingPositionChange": 0,
    "gloryPoint": 4917,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 751,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4910,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

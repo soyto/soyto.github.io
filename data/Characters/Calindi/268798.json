@@ -4,12 +4,12 @@
  "raceID": 1,
  "position": 100,
  "rankingPositionChange": 0,
- "gloryPoint": 16788,
- "gloryPointChange": 343,
+ "gloryPoint": 16741,
+ "gloryPointChange": -47,
  "soldierRankID": 14,
  "characterName": "Noyah",
- "guildName": "INSURRECTION",
- "guildID": 3022,
+ "guildName": "STARFOULAAAAH",
+ "guildID": 16092,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 16788,
    "gloryPointChange": 343,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 100,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16741,
+   "gloryPointChange": -47,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "INSURRECTION",
    "guildID": 3022
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "STARFOULAAAAH",
+   "guildID": 16092
   }
  ]
 }

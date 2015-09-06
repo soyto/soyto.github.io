@@ -2,11 +2,11 @@
  "characterID": 781952,
  "characterClassID": 2,
  "raceID": 1,
- "position": 1000,
- "rankingPositionChange": 0,
- "gloryPoint": 9210,
- "gloryPointChange": 0,
- "soldierRankID": 0,
+ "position": 980,
+ "rankingPositionChange": 20,
+ "gloryPoint": 9722,
+ "gloryPointChange": 512,
+ "soldierRankID": 10,
  "characterName": "Yaguri",
  "status": [
   {
@@ -16,6 +16,14 @@
    "gloryPoint": 9210,
    "gloryPointChange": 0,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": 20,
+   "gloryPoint": 9722,
+   "gloryPointChange": 512,
+   "soldierRankID": 10
   }
  ],
  "names": [

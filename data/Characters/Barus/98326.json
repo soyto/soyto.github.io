@@ -2,12 +2,12 @@
  "characterID": 98326,
  "characterClassID": 10,
  "raceID": 0,
- "position": 111,
- "rankingPositionChange": 0,
- "gloryPoint": 91544,
- "gloryPointChange": -49,
+ "position": 110,
+ "rankingPositionChange": 1,
+ "gloryPoint": 91693,
+ "gloryPointChange": 149,
  "soldierRankID": 13,
- "characterName": "Hatebot",
+ "characterName": "Whooy",
  "guildName": "No Fear My Friend",
  "guildID": 8891,
  "status": [
@@ -274,12 +274,24 @@
    "gloryPoint": 91544,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 110,
+   "rankingPositionChange": 1,
+   "gloryPoint": 91693,
+   "gloryPointChange": 149,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Hatebot"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Whooy"
   }
  ],
  "guilds": [

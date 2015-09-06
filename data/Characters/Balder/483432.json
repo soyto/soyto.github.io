@@ -2,10 +2,10 @@
  "characterID": 483432,
  "characterClassID": 2,
  "raceID": 0,
- "position": 908,
- "rankingPositionChange": 0,
- "gloryPoint": 1965,
- "gloryPointChange": 3,
+ "position": 904,
+ "rankingPositionChange": 4,
+ "gloryPoint": 1958,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Neysana",
  "guildName": "White Lotus",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 1965,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 904,
+   "rankingPositionChange": 4,
+   "gloryPoint": 1958,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

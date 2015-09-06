@@ -2,9 +2,9 @@
  "characterID": 1331847,
  "characterClassID": 13,
  "raceID": 1,
- "position": 990,
- "rankingPositionChange": -3,
- "gloryPoint": 1552,
+ "position": 989,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1545,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Filutek",
@@ -110,6 +110,14 @@
    "position": 990,
    "rankingPositionChange": -3,
    "gloryPoint": 1552,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1545,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

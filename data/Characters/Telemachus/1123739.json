@@ -2,9 +2,9 @@
  "characterID": 1123739,
  "characterClassID": 7,
  "raceID": 1,
- "position": 396,
- "rankingPositionChange": 2,
- "gloryPoint": 6733,
+ "position": 398,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6705,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Monamyyy",
@@ -254,6 +254,14 @@
    "position": 396,
    "rankingPositionChange": 2,
    "gloryPoint": 6733,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 398,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6705,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

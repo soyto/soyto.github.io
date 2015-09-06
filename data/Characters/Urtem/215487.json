@@ -3,9 +3,9 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 624,
- "rankingPositionChange": 1,
- "gloryPoint": 13651,
- "gloryPointChange": 51,
+ "rankingPositionChange": 0,
+ "gloryPoint": 13640,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Bosslegions",
  "guildName": "Absolue",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13651,
    "gloryPointChange": 51,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 624,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13640,
+   "gloryPointChange": -11,
    "soldierRankID": 11
   }
  ],

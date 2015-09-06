@@ -2,10 +2,10 @@
  "characterID": 56034,
  "characterClassID": 14,
  "raceID": 0,
- "position": 473,
- "rankingPositionChange": -2,
- "gloryPoint": 30084,
- "gloryPointChange": -28,
+ "position": 472,
+ "rankingPositionChange": 1,
+ "gloryPoint": 30126,
+ "gloryPointChange": 42,
  "soldierRankID": 12,
  "characterName": "Zapalony",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 30084,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 472,
+   "rankingPositionChange": 1,
+   "gloryPoint": 30126,
+   "gloryPointChange": 42,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 910308,
  "characterClassID": 5,
  "raceID": 1,
- "position": 396,
- "rankingPositionChange": 1,
- "gloryPoint": 21567,
- "gloryPointChange": 72,
+ "position": 397,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21511,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Razzya",
  "guildName": "Sekkusu No Kami",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 21567,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 397,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21511,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

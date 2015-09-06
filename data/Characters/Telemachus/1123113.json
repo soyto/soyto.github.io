@@ -2,9 +2,9 @@
  "characterID": 1123113,
  "characterClassID": 1,
  "raceID": 1,
- "position": 464,
- "rankingPositionChange": 3,
- "gloryPoint": 3914,
+ "position": 466,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3886,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hayleybei",
@@ -272,6 +272,14 @@
    "position": 464,
    "rankingPositionChange": 3,
    "gloryPoint": 3914,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 466,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3886,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 140693,
  "characterClassID": 1,
  "raceID": 0,
- "position": 486,
- "rankingPositionChange": 0,
- "gloryPoint": 2966,
+ "position": 487,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2938,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Talquist",
@@ -272,6 +272,14 @@
    "position": 486,
    "rankingPositionChange": 0,
    "gloryPoint": 2966,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 487,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2938,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

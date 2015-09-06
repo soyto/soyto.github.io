@@ -2,9 +2,9 @@
  "characterID": 6359,
  "characterClassID": 14,
  "raceID": 1,
- "position": 178,
- "rankingPositionChange": 0,
- "gloryPoint": 50470,
+ "position": 179,
+ "rankingPositionChange": -1,
+ "gloryPoint": 50421,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Yamyam",
@@ -168,6 +168,14 @@
    "position": 178,
    "rankingPositionChange": 0,
    "gloryPoint": 50470,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 179,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50421,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 599070,
  "characterClassID": 1,
  "raceID": 0,
- "position": 416,
- "rankingPositionChange": 0,
- "gloryPoint": 25862,
- "gloryPointChange": 150,
+ "position": 415,
+ "rankingPositionChange": 1,
+ "gloryPoint": 25834,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Devilisback",
  "guildName": "Astralis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 25862,
    "gloryPointChange": 150,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 415,
+   "rankingPositionChange": 1,
+   "gloryPoint": 25834,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

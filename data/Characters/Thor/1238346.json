@@ -2,9 +2,9 @@
  "characterID": 1238346,
  "characterClassID": 14,
  "raceID": 0,
- "position": 289,
- "rankingPositionChange": 0,
- "gloryPoint": 65629,
+ "position": 291,
+ "rankingPositionChange": -2,
+ "gloryPoint": 65580,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lubbox",
@@ -272,6 +272,14 @@
    "position": 289,
    "rankingPositionChange": 0,
    "gloryPoint": 65629,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 291,
+   "rankingPositionChange": -2,
+   "gloryPoint": 65580,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

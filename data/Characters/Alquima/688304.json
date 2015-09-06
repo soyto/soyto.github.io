@@ -2,10 +2,10 @@
  "characterID": 688304,
  "characterClassID": 7,
  "raceID": 0,
- "position": 861,
- "rankingPositionChange": 1,
- "gloryPoint": 12449,
- "gloryPointChange": -7,
+ "position": 862,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12448,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Ultralubo",
  "guildName": "TodBlind",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12449,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12448,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

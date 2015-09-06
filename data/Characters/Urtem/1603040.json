@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 878,
- "rankingPositionChange": -1,
- "gloryPoint": 8501,
- "gloryPointChange": -7,
+ "rankingPositionChange": 0,
+ "gloryPoint": 8510,
+ "gloryPointChange": 9,
  "soldierRankID": 10,
  "characterName": "Haahbrant",
  "guildName": "Dux Bellorum",
@@ -265,6 +265,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 8501,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 878,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8510,
+   "gloryPointChange": 9,
    "soldierRankID": 10
   }
  ],

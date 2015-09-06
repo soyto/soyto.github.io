@@ -2,10 +2,10 @@
  "characterID": 456421,
  "characterClassID": 7,
  "raceID": 1,
- "position": 256,
- "rankingPositionChange": 0,
- "gloryPoint": 12945,
- "gloryPointChange": 154,
+ "position": 254,
+ "rankingPositionChange": 2,
+ "gloryPoint": 13030,
+ "gloryPointChange": 85,
  "soldierRankID": 13,
  "characterName": "Mordion",
  "guildName": "Maligne",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 12945,
    "gloryPointChange": 154,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 254,
+   "rankingPositionChange": 2,
+   "gloryPoint": 13030,
+   "gloryPointChange": 85,
    "soldierRankID": 13
   }
  ],

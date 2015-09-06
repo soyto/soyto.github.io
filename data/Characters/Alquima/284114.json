@@ -2,10 +2,10 @@
  "characterID": 284114,
  "characterClassID": 2,
  "raceID": 1,
- "position": 245,
- "rankingPositionChange": 1,
- "gloryPoint": 35695,
- "gloryPointChange": 371,
+ "position": 246,
+ "rankingPositionChange": -1,
+ "gloryPoint": 36055,
+ "gloryPointChange": 360,
  "soldierRankID": 13,
  "characterName": "Petersatan",
  "guildName": "Helado Oscuro",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 35695,
    "gloryPointChange": 371,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 246,
+   "rankingPositionChange": -1,
+   "gloryPoint": 36055,
+   "gloryPointChange": 360,
    "soldierRankID": 13
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 956865,
  "characterClassID": 10,
  "raceID": 0,
- "position": 731,
- "rankingPositionChange": 4,
- "gloryPoint": 3234,
+ "position": 729,
+ "rankingPositionChange": 2,
+ "gloryPoint": 3227,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yanexa",
+ "guildName": "knechten bis das lasso reisst",
+ "guildID": 25151,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 3234,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 729,
+   "rankingPositionChange": 2,
+   "gloryPoint": 3227,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "knechten bis das lasso reisst",
+   "guildID": 25151
   }
  ]
 }

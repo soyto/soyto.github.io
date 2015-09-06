@@ -2,10 +2,10 @@
  "characterID": 435570,
  "characterClassID": 1,
  "raceID": 1,
- "position": 782,
- "rankingPositionChange": 5,
- "gloryPoint": 7686,
- "gloryPointChange": 86,
+ "position": 786,
+ "rankingPositionChange": -4,
+ "gloryPoint": 7707,
+ "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Ykaille",
  "guildName": "les Namours",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 7686,
    "gloryPointChange": 86,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 786,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7707,
+   "gloryPointChange": 21,
    "soldierRankID": 10
   }
  ],

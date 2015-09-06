@@ -2,10 +2,10 @@
  "characterID": 80061,
  "characterClassID": 1,
  "raceID": 1,
- "position": 182,
- "rankingPositionChange": 1,
- "gloryPoint": 76626,
- "gloryPointChange": 392,
+ "position": 183,
+ "rankingPositionChange": -1,
+ "gloryPoint": 76737,
+ "gloryPointChange": 111,
  "soldierRankID": 13,
  "characterName": "Cotton",
  "guildName": "OutOfControl",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 76626,
    "gloryPointChange": 392,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 183,
+   "rankingPositionChange": -1,
+   "gloryPoint": 76737,
+   "gloryPointChange": 111,
    "soldierRankID": 13
   }
  ],

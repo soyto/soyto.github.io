@@ -2,10 +2,10 @@
  "characterID": 741395,
  "characterClassID": 5,
  "raceID": 0,
- "position": 755,
- "rankingPositionChange": 0,
- "gloryPoint": 17736,
- "gloryPointChange": 111,
+ "position": 754,
+ "rankingPositionChange": 1,
+ "gloryPoint": 17729,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Asugan",
  "guildName": "E X O D U S",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 17736,
    "gloryPointChange": 111,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 754,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17729,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

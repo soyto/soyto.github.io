@@ -2,10 +2,10 @@
  "characterID": 367937,
  "characterClassID": 10,
  "raceID": 1,
- "position": 91,
- "rankingPositionChange": 1,
- "gloryPoint": 62171,
- "gloryPointChange": 343,
+ "position": 92,
+ "rankingPositionChange": -1,
+ "gloryPoint": 62064,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Roygaris",
  "guildName": "Planlos Inc",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 62171,
    "gloryPointChange": 343,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": -1,
+   "gloryPoint": 62064,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

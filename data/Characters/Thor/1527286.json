@@ -2,12 +2,14 @@
  "characterID": 1527286,
  "characterClassID": 16,
  "raceID": 0,
- "position": 403,
- "rankingPositionChange": 0,
- "gloryPoint": 45112,
- "gloryPointChange": 0,
+ "position": 402,
+ "rankingPositionChange": 1,
+ "gloryPoint": 45621,
+ "gloryPointChange": 509,
  "soldierRankID": 12,
  "characterName": "Troubadiks",
+ "guildName": "IronKnights",
+ "guildID": 15611,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 45112,
    "gloryPointChange": 0,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 402,
+   "rankingPositionChange": 1,
+   "gloryPoint": 45621,
+   "gloryPointChange": 509,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-16T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "IronKnights",
+   "guildID": 15611
   }
  ]
 }

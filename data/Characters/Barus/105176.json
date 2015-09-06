@@ -2,10 +2,10 @@
  "characterID": 105176,
  "characterClassID": 14,
  "raceID": 1,
- "position": 411,
- "rankingPositionChange": -3,
- "gloryPoint": 35008,
- "gloryPointChange": -2,
+ "position": 409,
+ "rankingPositionChange": 2,
+ "gloryPoint": 34983,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Azuos",
  "guildName": "Jaszczur",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 35008,
    "gloryPointChange": -2,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 409,
+   "rankingPositionChange": 2,
+   "gloryPoint": 34983,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1437394,
  "characterClassID": 10,
  "raceID": 1,
- "position": 453,
- "rankingPositionChange": 5,
- "gloryPoint": 17702,
- "gloryPointChange": 347,
+ "position": 454,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17724,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Cantas",
  "guildName": "Birdy NamNam",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 17702,
    "gloryPointChange": 347,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 454,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17724,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

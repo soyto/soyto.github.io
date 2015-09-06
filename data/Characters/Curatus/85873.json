@@ -2,9 +2,9 @@
  "characterID": 85873,
  "characterClassID": 11,
  "raceID": 1,
- "position": 705,
- "rankingPositionChange": 0,
- "gloryPoint": 6593,
+ "position": 706,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6586,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yoe",
@@ -272,6 +272,14 @@
    "position": 705,
    "rankingPositionChange": 0,
    "gloryPoint": 6593,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 706,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6586,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

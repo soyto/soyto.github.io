@@ -2,10 +2,10 @@
  "characterID": 189992,
  "characterClassID": 14,
  "raceID": 1,
- "position": 184,
- "rankingPositionChange": 0,
- "gloryPoint": 47857,
- "gloryPointChange": 267,
+ "position": 185,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47808,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Wolke",
  "guildName": "Asabiler",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 47857,
    "gloryPointChange": 267,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 185,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47808,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

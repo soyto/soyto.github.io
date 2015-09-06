@@ -2,9 +2,9 @@
  "characterID": 323075,
  "characterClassID": 4,
  "raceID": 0,
- "position": 279,
- "rankingPositionChange": 2,
- "gloryPoint": 59785,
+ "position": 280,
+ "rankingPositionChange": -1,
+ "gloryPoint": 59896,
  "gloryPointChange": 111,
  "soldierRankID": 13,
  "characterName": "Getsu",
@@ -264,6 +264,14 @@
    "position": 279,
    "rankingPositionChange": 2,
    "gloryPoint": 59785,
+   "gloryPointChange": 111,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 280,
+   "rankingPositionChange": -1,
+   "gloryPoint": 59896,
    "gloryPointChange": 111,
    "soldierRankID": 13
   }

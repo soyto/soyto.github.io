@@ -2,10 +2,10 @@
  "characterID": 943587,
  "characterClassID": 14,
  "raceID": 1,
- "position": 248,
- "rankingPositionChange": 4,
- "gloryPoint": 35311,
- "gloryPointChange": 267,
+ "position": 249,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35262,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Helenasinner",
  "guildName": "ValarMorghulis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 35311,
    "gloryPointChange": 267,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 249,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35262,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 268109,
  "characterClassID": 7,
  "raceID": 0,
- "position": 856,
- "rankingPositionChange": 0,
- "gloryPoint": 14073,
+ "position": 858,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14066,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pelus",
@@ -270,6 +270,14 @@
    "position": 856,
    "rankingPositionChange": 0,
    "gloryPoint": 14073,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 858,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14066,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

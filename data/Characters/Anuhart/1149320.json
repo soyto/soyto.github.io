@@ -2,9 +2,9 @@
  "characterID": 1149320,
  "characterClassID": 16,
  "raceID": 1,
- "position": 484,
- "rankingPositionChange": 2,
- "gloryPoint": 9774,
+ "position": 488,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9746,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tynda",
@@ -270,6 +270,14 @@
    "position": 484,
    "rankingPositionChange": 2,
    "gloryPoint": 9774,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 488,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9746,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

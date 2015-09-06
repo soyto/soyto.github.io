@@ -2,9 +2,9 @@
  "characterID": 452364,
  "characterClassID": 11,
  "raceID": 1,
- "position": 920,
- "rankingPositionChange": 1,
- "gloryPoint": 7750,
+ "position": 922,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7743,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chrystina",
@@ -272,6 +272,14 @@
    "position": 920,
    "rankingPositionChange": 1,
    "gloryPoint": 7750,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 922,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7743,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

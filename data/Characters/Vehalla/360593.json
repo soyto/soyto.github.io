@@ -2,14 +2,14 @@
  "characterID": 360593,
  "characterClassID": 10,
  "raceID": 1,
- "position": 264,
- "rankingPositionChange": -2,
- "gloryPoint": 11956,
+ "position": 265,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11907,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Xoul",
- "guildName": "Pave Low",
- "guildID": 14747,
+ "guildName": "Bis es klatscht",
+ "guildID": 14163,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 11956,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 265,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11907,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -292,6 +300,11 @@
    "date": "2015-08-23T22:00:00.000Z",
    "guildName": "Pave Low",
    "guildID": 14747
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Bis es klatscht",
+   "guildID": 14163
   }
  ]
 }

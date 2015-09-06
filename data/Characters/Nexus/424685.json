@@ -2,9 +2,9 @@
  "characterID": 424685,
  "characterClassID": 14,
  "raceID": 0,
- "position": 590,
- "rankingPositionChange": 1,
- "gloryPoint": 13232,
+ "position": 591,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13218,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Conchita",
@@ -262,6 +262,14 @@
    "position": 590,
    "rankingPositionChange": 1,
    "gloryPoint": 13232,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 591,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13218,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

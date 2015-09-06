@@ -2,10 +2,10 @@
  "characterID": 933748,
  "characterClassID": 14,
  "raceID": 1,
- "position": 959,
- "rankingPositionChange": 26,
- "gloryPoint": 3064,
- "gloryPointChange": 143,
+ "position": 961,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3057,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Menah",
  "guildName": "Fatality",
@@ -185,6 +185,14 @@
    "rankingPositionChange": 26,
    "gloryPoint": 3064,
    "gloryPointChange": 143,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3057,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

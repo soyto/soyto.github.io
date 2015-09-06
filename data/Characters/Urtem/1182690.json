@@ -2,10 +2,10 @@
  "characterID": 1182690,
  "characterClassID": 11,
  "raceID": 0,
- "position": 241,
- "rankingPositionChange": 0,
- "gloryPoint": 67728,
- "gloryPointChange": 51,
+ "position": 242,
+ "rankingPositionChange": -1,
+ "gloryPoint": 67679,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Casika",
  "guildName": "Regional cookies",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 67728,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 242,
+   "rankingPositionChange": -1,
+   "gloryPoint": 67679,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

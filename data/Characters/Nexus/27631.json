@@ -2,9 +2,9 @@
  "characterID": 27631,
  "characterClassID": 1,
  "raceID": 1,
- "position": 559,
- "rankingPositionChange": 0,
- "gloryPoint": 23888,
+ "position": 560,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24074,
  "gloryPointChange": 186,
  "soldierRankID": 11,
  "characterName": "Dorcia",
@@ -272,6 +272,14 @@
    "position": 559,
    "rankingPositionChange": 0,
    "gloryPoint": 23888,
+   "gloryPointChange": 186,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 560,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24074,
    "gloryPointChange": 186,
    "soldierRankID": 11
   }

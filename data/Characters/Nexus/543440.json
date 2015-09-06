@@ -2,10 +2,10 @@
  "characterID": 543440,
  "characterClassID": 1,
  "raceID": 0,
- "position": 264,
+ "position": 265,
  "rankingPositionChange": -1,
- "gloryPoint": 41208,
- "gloryPointChange": 213,
+ "gloryPoint": 41169,
+ "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Rinnerlutte",
  "guildName": "Paths of Glory",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 41208,
    "gloryPointChange": 213,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 265,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41169,
+   "gloryPointChange": -39,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1672830,
  "characterClassID": 10,
  "raceID": 1,
- "position": 988,
- "rankingPositionChange": 1,
- "gloryPoint": 10039,
- "gloryPointChange": 43,
+ "position": 989,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10032,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alleswarbelegt",
  "guildName": "Fuck You",
@@ -81,6 +81,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 10039,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10032,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

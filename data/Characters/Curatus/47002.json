@@ -2,9 +2,9 @@
  "characterID": 47002,
  "characterClassID": 8,
  "raceID": 0,
- "position": 156,
- "rankingPositionChange": 0,
- "gloryPoint": 95290,
+ "position": 159,
+ "rankingPositionChange": -3,
+ "gloryPoint": 95241,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Anyse",
@@ -272,6 +272,14 @@
    "position": 156,
    "rankingPositionChange": 0,
    "gloryPoint": 95290,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": -3,
+   "gloryPoint": 95241,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

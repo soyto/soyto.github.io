@@ -2,9 +2,9 @@
  "characterID": 335619,
  "characterClassID": 10,
  "raceID": 0,
- "position": 390,
- "rankingPositionChange": 0,
- "gloryPoint": 31654,
+ "position": 393,
+ "rankingPositionChange": -3,
+ "gloryPoint": 31626,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Souru",
@@ -272,6 +272,14 @@
    "position": 390,
    "rankingPositionChange": 0,
    "gloryPoint": 31654,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 393,
+   "rankingPositionChange": -3,
+   "gloryPoint": 31626,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

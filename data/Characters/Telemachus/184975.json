@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 65,
- "rankingPositionChange": 1,
- "gloryPoint": 77723,
- "gloryPointChange": 353,
+ "rankingPositionChange": 0,
+ "gloryPoint": 77686,
+ "gloryPointChange": -37,
  "soldierRankID": 14,
  "characterName": "Gamoto",
  "guildName": "Valkan Mafia",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 77723,
    "gloryPointChange": 353,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": 0,
+   "gloryPoint": 77686,
+   "gloryPointChange": -37,
    "soldierRankID": 14
   }
  ],

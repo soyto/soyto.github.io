@@ -2,9 +2,9 @@
  "characterID": 243126,
  "characterClassID": 11,
  "raceID": 0,
- "position": 927,
- "rankingPositionChange": 0,
- "gloryPoint": 1280,
+ "position": 998,
+ "rankingPositionChange": -71,
+ "gloryPoint": 1273,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dawnee",
@@ -270,6 +270,14 @@
    "position": 927,
    "rankingPositionChange": 0,
    "gloryPoint": 1280,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -71,
+   "gloryPoint": 1273,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

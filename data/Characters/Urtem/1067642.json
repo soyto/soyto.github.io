@@ -2,10 +2,10 @@
  "characterID": 1067642,
  "characterClassID": 7,
  "raceID": 1,
- "position": 566,
- "rankingPositionChange": 6,
- "gloryPoint": 15393,
- "gloryPointChange": 286,
+ "position": 567,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15379,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Shyath",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 15393,
    "gloryPointChange": 286,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 567,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15379,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

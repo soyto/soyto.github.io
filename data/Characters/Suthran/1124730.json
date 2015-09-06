@@ -2,9 +2,9 @@
  "characterID": 1124730,
  "characterClassID": 4,
  "raceID": 1,
- "position": 756,
- "rankingPositionChange": 0,
- "gloryPoint": 8153,
+ "position": 759,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8146,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Asaulia",
@@ -134,6 +134,14 @@
    "position": 756,
    "rankingPositionChange": 0,
    "gloryPoint": 8153,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 759,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8146,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

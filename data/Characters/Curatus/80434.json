@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 991,
- "rankingPositionChange": 1,
- "gloryPoint": 3016,
- "gloryPointChange": 26,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3009,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Valkyrie",
  "guildName": "R I P",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 3016,
    "gloryPointChange": 26,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3009,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1022016,
  "characterClassID": 2,
  "raceID": 1,
- "position": 787,
- "rankingPositionChange": 1,
- "gloryPoint": 4489,
+ "position": 791,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4482,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Melianor",
@@ -272,6 +272,14 @@
    "position": 787,
    "rankingPositionChange": 1,
    "gloryPoint": 4489,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 791,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4482,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

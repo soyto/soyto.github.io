@@ -2,9 +2,9 @@
  "characterID": 185083,
  "characterClassID": 14,
  "raceID": 1,
- "position": 942,
- "rankingPositionChange": 2,
- "gloryPoint": 1314,
+ "position": 947,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1307,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Smillee",
@@ -272,6 +272,14 @@
    "position": 942,
    "rankingPositionChange": 2,
    "gloryPoint": 1314,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 947,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1307,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

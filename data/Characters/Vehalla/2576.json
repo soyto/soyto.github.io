@@ -4,10 +4,12 @@
  "raceID": 1,
  "position": 23,
  "rankingPositionChange": 0,
- "gloryPoint": 167067,
- "gloryPointChange": 62,
+ "gloryPoint": 167289,
+ "gloryPointChange": 222,
  "soldierRankID": 15,
  "characterName": "Lazar",
+ "guildName": "ReKt",
+ "guildID": 5490,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -264,6 +266,14 @@
    "gloryPoint": 167067,
    "gloryPointChange": 62,
    "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 23,
+   "rankingPositionChange": 0,
+   "gloryPoint": 167289,
+   "gloryPointChange": 222,
+   "soldierRankID": 15
   }
  ],
  "names": [
@@ -298,6 +308,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "ReKt",
+   "guildID": 5490
   }
  ]
 }

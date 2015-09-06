@@ -2,14 +2,12 @@
  "characterID": 1561165,
  "characterClassID": 1,
  "raceID": 0,
- "position": 499,
+ "position": 498,
  "rankingPositionChange": 1,
- "gloryPoint": 36630,
- "gloryPointChange": 75,
+ "gloryPoint": 36752,
+ "gloryPointChange": 122,
  "soldierRankID": 12,
- "characterName": "Bkg",
- "guildName": "Grow or Die",
- "guildID": 35254,
+ "characterName": "Legaliize",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,12 +264,24 @@
    "gloryPoint": 36630,
    "gloryPointChange": 75,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 498,
+   "rankingPositionChange": 1,
+   "gloryPoint": 36752,
+   "gloryPointChange": 122,
+   "soldierRankID": 12
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Bkg"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Legaliize"
   }
  ],
  "guilds": [
@@ -279,6 +289,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Grow or Die",
    "guildID": 35254
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

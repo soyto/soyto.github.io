@@ -2,12 +2,14 @@
  "characterID": 498114,
  "characterClassID": 10,
  "raceID": 0,
- "position": 180,
- "rankingPositionChange": -2,
- "gloryPoint": 44795,
- "gloryPointChange": 454,
+ "position": 179,
+ "rankingPositionChange": 1,
+ "gloryPoint": 44749,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Phaiitos",
+ "guildName": "DO YOU WANT A COOKIE",
+ "guildID": 13975,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 44795,
    "gloryPointChange": 454,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 179,
+   "rankingPositionChange": 1,
+   "gloryPoint": 44749,
+   "gloryPointChange": -46,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -293,6 +303,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "DO YOU WANT A COOKIE",
+   "guildID": 13975
   }
  ]
 }

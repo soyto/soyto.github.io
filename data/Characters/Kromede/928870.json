@@ -2,9 +2,9 @@
  "characterID": 928870,
  "characterClassID": 2,
  "raceID": 1,
- "position": 639,
- "rankingPositionChange": 0,
- "gloryPoint": 6793,
+ "position": 640,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6779,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ultramarine",
@@ -272,6 +272,14 @@
    "position": 639,
    "rankingPositionChange": 0,
    "gloryPoint": 6793,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 640,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6779,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

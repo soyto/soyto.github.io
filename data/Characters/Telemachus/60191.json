@@ -2,9 +2,9 @@
  "characterID": 60191,
  "characterClassID": 5,
  "raceID": 1,
- "position": 579,
- "rankingPositionChange": 1,
- "gloryPoint": 2467,
+ "position": 584,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2453,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Agis",
@@ -272,6 +272,14 @@
    "position": 579,
    "rankingPositionChange": 1,
    "gloryPoint": 2467,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 584,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2453,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

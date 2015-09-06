@@ -2,9 +2,9 @@
  "characterID": 199531,
  "characterClassID": 4,
  "raceID": 0,
- "position": 589,
- "rankingPositionChange": 0,
- "gloryPoint": 11219,
+ "position": 594,
+ "rankingPositionChange": -5,
+ "gloryPoint": 11205,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mph",
@@ -270,6 +270,14 @@
    "position": 589,
    "rankingPositionChange": 0,
    "gloryPoint": 11219,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 594,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11205,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 639998,
  "characterClassID": 2,
  "raceID": 0,
- "position": 336,
- "rankingPositionChange": -1,
- "gloryPoint": 43810,
+ "position": 335,
+ "rankingPositionChange": 1,
+ "gloryPoint": 43782,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Georgeandu",
@@ -264,6 +264,14 @@
    "position": 336,
    "rankingPositionChange": -1,
    "gloryPoint": 43810,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 335,
+   "rankingPositionChange": 1,
+   "gloryPoint": 43782,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

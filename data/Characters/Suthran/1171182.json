@@ -2,10 +2,10 @@
  "characterID": 1171182,
  "characterClassID": 14,
  "raceID": 1,
- "position": 584,
- "rankingPositionChange": 1,
- "gloryPoint": 12433,
- "gloryPointChange": 24,
+ "position": 588,
+ "rankingPositionChange": -4,
+ "gloryPoint": 12419,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Namroid",
  "guildName": " Storm In Wonderland ",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12433,
    "gloryPointChange": 24,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 588,
+   "rankingPositionChange": -4,
+   "gloryPoint": 12419,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

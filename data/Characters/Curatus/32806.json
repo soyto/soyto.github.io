@@ -2,9 +2,9 @@
  "characterID": 32806,
  "characterClassID": 16,
  "raceID": 0,
- "position": 985,
- "rankingPositionChange": -1,
- "gloryPoint": 8384,
+ "position": 984,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8377,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yoto",
@@ -262,6 +262,14 @@
    "position": 985,
    "rankingPositionChange": -1,
    "gloryPoint": 8384,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8377,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

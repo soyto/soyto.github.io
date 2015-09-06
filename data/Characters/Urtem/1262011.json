@@ -2,9 +2,9 @@
  "characterID": 1262011,
  "characterClassID": 1,
  "raceID": 1,
- "position": 422,
- "rankingPositionChange": 0,
- "gloryPoint": 23544,
+ "position": 423,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23516,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Myskinah",
@@ -238,6 +238,14 @@
    "position": 422,
    "rankingPositionChange": 0,
    "gloryPoint": 23544,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 423,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23516,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 39012,
  "characterClassID": 11,
  "raceID": 0,
- "position": 162,
- "rankingPositionChange": 0,
- "gloryPoint": 65385,
- "gloryPointChange": 55,
+ "position": 163,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65336,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Patrona",
  "guildName": "QQevenMore",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 65385,
    "gloryPointChange": 55,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 163,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65336,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

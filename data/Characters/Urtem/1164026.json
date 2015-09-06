@@ -2,9 +2,9 @@
  "characterID": 1164026,
  "characterClassID": 4,
  "raceID": 0,
- "position": 365,
- "rankingPositionChange": 0,
- "gloryPoint": 46221,
+ "position": 364,
+ "rankingPositionChange": 1,
+ "gloryPoint": 46193,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zatix",
@@ -272,6 +272,14 @@
    "position": 365,
    "rankingPositionChange": 0,
    "gloryPoint": 46221,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": 1,
+   "gloryPoint": 46193,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

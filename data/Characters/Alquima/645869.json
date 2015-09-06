@@ -2,9 +2,9 @@
  "characterID": 645869,
  "characterClassID": 1,
  "raceID": 1,
- "position": 851,
- "rankingPositionChange": 1,
- "gloryPoint": 7564,
+ "position": 853,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7560,
  "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Miinorin",
@@ -264,6 +264,14 @@
    "position": 851,
    "rankingPositionChange": 1,
    "gloryPoint": 7564,
+   "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 853,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7560,
    "gloryPointChange": -4,
    "soldierRankID": 10
   }

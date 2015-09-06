@@ -2,9 +2,9 @@
  "characterID": 1391227,
  "characterClassID": 14,
  "raceID": 0,
- "position": 780,
- "rankingPositionChange": -1,
- "gloryPoint": 8821,
+ "position": 779,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8814,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Distruptor",
@@ -272,6 +272,14 @@
    "position": 780,
    "rankingPositionChange": -1,
    "gloryPoint": 8821,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 779,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8814,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

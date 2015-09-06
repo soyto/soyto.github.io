@@ -2,9 +2,9 @@
  "characterID": 598539,
  "characterClassID": 1,
  "raceID": 1,
- "position": 805,
- "rankingPositionChange": 0,
- "gloryPoint": 9739,
+ "position": 807,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9732,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Neodivinity",
@@ -264,6 +264,14 @@
    "position": 805,
    "rankingPositionChange": 0,
    "gloryPoint": 9739,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 807,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9732,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

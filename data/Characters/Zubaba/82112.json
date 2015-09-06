@@ -2,9 +2,9 @@
  "characterID": 82112,
  "characterClassID": 16,
  "raceID": 1,
- "position": 899,
- "rankingPositionChange": 1,
- "gloryPoint": 1537,
+ "position": 901,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1533,
  "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Soulmusic",
@@ -104,6 +104,14 @@
    "position": 899,
    "rankingPositionChange": 1,
    "gloryPoint": 1537,
+   "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 901,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1533,
    "gloryPointChange": -4,
    "soldierRankID": 10
   }

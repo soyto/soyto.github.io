@@ -2,9 +2,9 @@
  "characterID": 51684,
  "characterClassID": 10,
  "raceID": 0,
- "position": 539,
- "rankingPositionChange": 1,
- "gloryPoint": 4937,
+ "position": 540,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4923,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Saiken",
@@ -272,6 +272,14 @@
    "position": 539,
    "rankingPositionChange": 1,
    "gloryPoint": 4937,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4923,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

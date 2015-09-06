@@ -2,9 +2,9 @@
  "characterID": 1240634,
  "characterClassID": 5,
  "raceID": 1,
- "position": 924,
- "rankingPositionChange": 2,
- "gloryPoint": 3308,
+ "position": 926,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3301,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lurisiana",
@@ -72,6 +72,14 @@
    "position": 924,
    "rankingPositionChange": 2,
    "gloryPoint": 3308,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3301,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

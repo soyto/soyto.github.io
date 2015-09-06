@@ -2,10 +2,10 @@
  "characterID": 191474,
  "characterClassID": 16,
  "raceID": 1,
- "position": 195,
- "rankingPositionChange": 2,
- "gloryPoint": 44652,
- "gloryPointChange": 214,
+ "position": 196,
+ "rankingPositionChange": -1,
+ "gloryPoint": 44603,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Glori",
  "guildName": "Hijos de Anuhart",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 44652,
    "gloryPointChange": 214,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44603,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

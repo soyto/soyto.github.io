@@ -2,9 +2,9 @@
  "characterID": 855124,
  "characterClassID": 4,
  "raceID": 1,
- "position": 668,
- "rankingPositionChange": 0,
- "gloryPoint": 4753,
+ "position": 670,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4739,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sorrovv",
@@ -270,6 +270,14 @@
    "position": 668,
    "rankingPositionChange": 0,
    "gloryPoint": 4753,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 670,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4739,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

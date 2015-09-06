@@ -2,10 +2,10 @@
  "characterID": 312198,
  "characterClassID": 10,
  "raceID": 1,
- "position": 964,
- "rankingPositionChange": 33,
- "gloryPoint": 3025,
- "gloryPointChange": 156,
+ "position": 968,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3018,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Akiron",
  "guildName": "Spectrum",
@@ -25,6 +25,14 @@
    "rankingPositionChange": 33,
    "gloryPoint": 3025,
    "gloryPointChange": 156,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 968,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3018,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1146515,
  "characterClassID": 14,
  "raceID": 1,
- "position": 863,
- "rankingPositionChange": 4,
- "gloryPoint": 2315,
+ "position": 868,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2308,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kyanna",
@@ -272,6 +272,14 @@
    "position": 863,
    "rankingPositionChange": 4,
    "gloryPoint": 2315,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 868,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2308,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

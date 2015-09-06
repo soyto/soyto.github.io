@@ -2,10 +2,10 @@
  "characterID": 500123,
  "characterClassID": 10,
  "raceID": 1,
- "position": 552,
- "rankingPositionChange": 16,
- "gloryPoint": 8390,
- "gloryPointChange": 420,
+ "position": 553,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8461,
+ "gloryPointChange": 71,
  "soldierRankID": 11,
  "characterName": "Mlaimis",
  "guildName": "Flawless Victory",
@@ -169,6 +169,14 @@
    "rankingPositionChange": 16,
    "gloryPoint": 8390,
    "gloryPointChange": 420,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 553,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8461,
+   "gloryPointChange": 71,
    "soldierRankID": 11
   }
  ],

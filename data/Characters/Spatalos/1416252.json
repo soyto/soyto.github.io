@@ -2,10 +2,10 @@
  "characterID": 1416252,
  "characterClassID": 16,
  "raceID": 1,
- "position": 484,
- "rankingPositionChange": 2,
- "gloryPoint": 8490,
- "gloryPointChange": 158,
+ "position": 486,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8462,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Frankodso",
  "guildName": "JEZDZCY APOKALIPSY",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 8490,
    "gloryPointChange": 158,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 486,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8462,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

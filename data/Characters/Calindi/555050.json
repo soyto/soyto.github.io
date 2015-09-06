@@ -2,14 +2,14 @@
  "characterID": 555050,
  "characterClassID": 11,
  "raceID": 0,
- "position": 721,
- "rankingPositionChange": -25,
- "gloryPoint": 2404,
- "gloryPointChange": -14,
+ "position": 716,
+ "rankingPositionChange": 5,
+ "gloryPoint": 2397,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Asthyne",
- "guildName": "Savage Spirit",
- "guildID": 13827,
+ "guildName": "Fantasia",
+ "guildID": 1197,
  "status": [
   {
    "date": "2015-08-06T22:00:00.000Z",
@@ -226,6 +226,14 @@
    "gloryPoint": 2404,
    "gloryPointChange": -14,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 716,
+   "rankingPositionChange": 5,
+   "gloryPoint": 2397,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -239,6 +247,11 @@
    "date": "2015-08-06T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Fantasia",
+   "guildID": 1197
   }
  ]
 }

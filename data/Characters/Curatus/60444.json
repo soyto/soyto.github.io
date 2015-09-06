@@ -2,10 +2,10 @@
  "characterID": 60444,
  "characterClassID": 16,
  "raceID": 1,
- "position": 199,
- "rankingPositionChange": 1,
- "gloryPoint": 38969,
- "gloryPointChange": 231,
+ "position": 200,
+ "rankingPositionChange": -1,
+ "gloryPoint": 39135,
+ "gloryPointChange": 166,
  "soldierRankID": 13,
  "characterName": "Melodyx",
  "guildName": "magical Death",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 38969,
    "gloryPointChange": 231,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 200,
+   "rankingPositionChange": -1,
+   "gloryPoint": 39135,
+   "gloryPointChange": 166,
    "soldierRankID": 13
   }
  ],

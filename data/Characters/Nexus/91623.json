@@ -2,10 +2,10 @@
  "characterID": 91623,
  "characterClassID": 10,
  "raceID": 1,
- "position": 262,
- "rankingPositionChange": 0,
- "gloryPoint": 65585,
- "gloryPointChange": 201,
+ "position": 264,
+ "rankingPositionChange": -2,
+ "gloryPoint": 65536,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Fuzz",
  "guildName": "OroForBg",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 65585,
    "gloryPointChange": 201,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 264,
+   "rankingPositionChange": -2,
+   "gloryPoint": 65536,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

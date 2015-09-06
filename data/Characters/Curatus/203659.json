@@ -2,12 +2,14 @@
  "characterID": 203659,
  "characterClassID": 10,
  "raceID": 0,
- "position": 757,
+ "position": 758,
  "rankingPositionChange": -1,
- "gloryPoint": 14859,
+ "gloryPoint": 14852,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Clud",
+ "guildName": "Xlll",
+ "guildID": 1314,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 14859,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 758,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14852,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
   },
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Xlll",
+   "guildID": 1314
   }
  ]
 }

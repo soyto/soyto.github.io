@@ -2,9 +2,9 @@
  "characterID": 43598,
  "characterClassID": 1,
  "raceID": 1,
- "position": 611,
- "rankingPositionChange": 1,
- "gloryPoint": 5764,
+ "position": 612,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5759,
  "gloryPointChange": -5,
  "soldierRankID": 11,
  "characterName": "Bossmode",
@@ -152,6 +152,14 @@
    "position": 611,
    "rankingPositionChange": 1,
    "gloryPoint": 5764,
+   "gloryPointChange": -5,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5759,
    "gloryPointChange": -5,
    "soldierRankID": 11
   }

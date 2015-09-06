@@ -2,10 +2,10 @@
  "characterID": 515218,
  "characterClassID": 7,
  "raceID": 0,
- "position": 328,
- "rankingPositionChange": 8,
- "gloryPoint": 8481,
- "gloryPointChange": 417,
+ "position": 330,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8453,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Arikazuki",
  "guildName": "The Legacy",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 8481,
    "gloryPointChange": 417,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 330,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8453,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

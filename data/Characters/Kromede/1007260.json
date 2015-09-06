@@ -2,9 +2,9 @@
  "characterID": 1007260,
  "characterClassID": 11,
  "raceID": 1,
- "position": 423,
- "rankingPositionChange": 1,
- "gloryPoint": 13041,
+ "position": 425,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13013,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kuroichi",
@@ -272,6 +272,14 @@
    "position": 423,
    "rankingPositionChange": 1,
    "gloryPoint": 13041,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 425,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13013,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

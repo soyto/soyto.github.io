@@ -2,9 +2,9 @@
  "characterID": 582166,
  "characterClassID": 5,
  "raceID": 1,
- "position": 189,
- "rankingPositionChange": 0,
- "gloryPoint": 34527,
+ "position": 190,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34478,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Synamoon",
@@ -272,6 +272,14 @@
    "position": 189,
    "rankingPositionChange": 0,
    "gloryPoint": 34527,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 190,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34478,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

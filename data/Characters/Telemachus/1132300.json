@@ -2,9 +2,9 @@
  "characterID": 1132300,
  "characterClassID": 7,
  "raceID": 1,
- "position": 190,
- "rankingPositionChange": 0,
- "gloryPoint": 27840,
+ "position": 191,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27791,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Thalionn",
@@ -272,6 +272,14 @@
    "position": 190,
    "rankingPositionChange": 0,
    "gloryPoint": 27840,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 191,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27791,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

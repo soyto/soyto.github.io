@@ -2,9 +2,9 @@
  "characterID": 585728,
  "characterClassID": 1,
  "raceID": 1,
- "position": 93,
- "rankingPositionChange": 0,
- "gloryPoint": 141018,
+ "position": 95,
+ "rankingPositionChange": -2,
+ "gloryPoint": 140911,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Triphos",
@@ -272,6 +272,14 @@
    "position": 93,
    "rankingPositionChange": 0,
    "gloryPoint": 141018,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 95,
+   "rankingPositionChange": -2,
+   "gloryPoint": 140911,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

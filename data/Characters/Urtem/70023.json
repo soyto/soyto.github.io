@@ -2,9 +2,9 @@
  "characterID": 70023,
  "characterClassID": 10,
  "raceID": 1,
- "position": 780,
- "rankingPositionChange": 0,
- "gloryPoint": 10173,
+ "position": 782,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10166,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Neophytte",
@@ -264,6 +264,14 @@
    "position": 780,
    "rankingPositionChange": 0,
    "gloryPoint": 10173,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 782,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10166,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

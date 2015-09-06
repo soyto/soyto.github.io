@@ -2,9 +2,9 @@
  "characterID": 1281358,
  "characterClassID": 10,
  "raceID": 1,
- "position": 125,
- "rankingPositionChange": 0,
- "gloryPoint": 87500,
+ "position": 124,
+ "rankingPositionChange": 1,
+ "gloryPoint": 87451,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lythana",
@@ -272,6 +272,14 @@
    "position": 125,
    "rankingPositionChange": 0,
    "gloryPoint": 87500,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 124,
+   "rankingPositionChange": 1,
+   "gloryPoint": 87451,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

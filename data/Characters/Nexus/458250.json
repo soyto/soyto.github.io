@@ -2,10 +2,10 @@
  "characterID": 458250,
  "characterClassID": 11,
  "raceID": 0,
- "position": 496,
- "rankingPositionChange": 1,
- "gloryPoint": 17759,
- "gloryPointChange": 142,
+ "position": 497,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17816,
+ "gloryPointChange": 57,
  "soldierRankID": 12,
  "characterName": "Kiraha",
  "guildName": "Heavens",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 17759,
    "gloryPointChange": 142,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 497,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17816,
+   "gloryPointChange": 57,
    "soldierRankID": 12
   }
  ],

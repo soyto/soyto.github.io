@@ -2,10 +2,10 @@
  "characterID": 196132,
  "characterClassID": 5,
  "raceID": 1,
- "position": 914,
- "rankingPositionChange": 0,
- "gloryPoint": 3776,
- "gloryPointChange": -1,
+ "position": 915,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3769,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Runaan",
  "status": [
@@ -255,6 +255,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 3776,
    "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 915,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3769,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1398591,
  "characterClassID": 4,
  "raceID": 1,
- "position": 941,
- "rankingPositionChange": -4,
- "gloryPoint": 1767,
+ "position": 940,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1760,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Schadows",
@@ -160,6 +160,14 @@
    "position": 941,
    "rankingPositionChange": -4,
    "gloryPoint": 1767,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1760,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

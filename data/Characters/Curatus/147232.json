@@ -2,9 +2,9 @@
  "characterID": 147232,
  "characterClassID": 1,
  "raceID": 1,
- "position": 223,
- "rankingPositionChange": 1,
- "gloryPoint": 34246,
+ "position": 229,
+ "rankingPositionChange": -6,
+ "gloryPoint": 34197,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kristosan",
@@ -118,6 +118,14 @@
    "position": 223,
    "rankingPositionChange": 1,
    "gloryPoint": 34246,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 229,
+   "rankingPositionChange": -6,
+   "gloryPoint": 34197,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

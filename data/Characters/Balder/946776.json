@@ -2,9 +2,9 @@
  "characterID": 946776,
  "characterClassID": 13,
  "raceID": 0,
- "position": 102,
- "rankingPositionChange": 0,
- "gloryPoint": 84502,
+ "position": 103,
+ "rankingPositionChange": -1,
+ "gloryPoint": 84453,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Appi",
@@ -272,6 +272,14 @@
    "position": 102,
    "rankingPositionChange": 0,
    "gloryPoint": 84502,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 103,
+   "rankingPositionChange": -1,
+   "gloryPoint": 84453,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

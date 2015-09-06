@@ -2,14 +2,14 @@
  "characterID": 536776,
  "characterClassID": 5,
  "raceID": 0,
- "position": 193,
- "rankingPositionChange": 0,
- "gloryPoint": 54328,
- "gloryPointChange": 285,
+ "position": 194,
+ "rankingPositionChange": -1,
+ "gloryPoint": 54747,
+ "gloryPointChange": 419,
  "soldierRankID": 13,
  "characterName": "Niewidzialna",
- "guildName": "Elements of Insanity",
- "guildID": 5819,
+ "guildName": "Reported",
+ "guildID": 15747,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 54328,
    "gloryPointChange": 285,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 194,
+   "rankingPositionChange": -1,
+   "gloryPoint": 54747,
+   "gloryPointChange": 419,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -292,6 +300,11 @@
    "date": "2015-08-27T22:00:00.000Z",
    "guildName": "Elements of Insanity",
    "guildID": 5819
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Reported",
+   "guildID": 15747
   }
  ]
 }

@@ -3,8 +3,8 @@
  "characterClassID": 13,
  "raceID": 1,
  "position": 245,
- "rankingPositionChange": -2,
- "gloryPoint": 34049,
+ "rankingPositionChange": 0,
+ "gloryPoint": 34000,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Promp",
@@ -272,6 +272,14 @@
    "position": 245,
    "rankingPositionChange": -2,
    "gloryPoint": 34049,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34000,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

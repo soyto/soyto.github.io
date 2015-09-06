@@ -2,10 +2,10 @@
  "characterID": 253548,
  "characterClassID": 10,
  "raceID": 1,
- "position": 62,
- "rankingPositionChange": 0,
- "gloryPoint": 144754,
- "gloryPointChange": -3,
+ "position": 63,
+ "rankingPositionChange": -1,
+ "gloryPoint": 144875,
+ "gloryPointChange": 121,
  "soldierRankID": 14,
  "characterName": "Himis",
  "guildName": "You Mad Man",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 144754,
    "gloryPointChange": -3,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 63,
+   "rankingPositionChange": -1,
+   "gloryPoint": 144875,
+   "gloryPointChange": 121,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1393291,
  "characterClassID": 1,
  "raceID": 1,
- "position": 815,
- "rankingPositionChange": 0,
- "gloryPoint": 2604,
- "gloryPointChange": -7,
+ "position": 826,
+ "rankingPositionChange": -11,
+ "gloryPoint": 2590,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Loudnoises",
  "status": [
@@ -191,6 +191,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 2604,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 826,
+   "rankingPositionChange": -11,
+   "gloryPoint": 2590,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

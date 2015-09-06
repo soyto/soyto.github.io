@@ -2,9 +2,9 @@
  "characterID": 1371940,
  "characterClassID": 5,
  "raceID": 0,
- "position": 440,
- "rankingPositionChange": -1,
- "gloryPoint": 37516,
+ "position": 439,
+ "rankingPositionChange": 1,
+ "gloryPoint": 37488,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Jamiss",
@@ -272,6 +272,14 @@
    "position": 440,
    "rankingPositionChange": -1,
    "gloryPoint": 37516,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 439,
+   "rankingPositionChange": 1,
+   "gloryPoint": 37488,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

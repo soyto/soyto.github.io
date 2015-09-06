@@ -2,10 +2,10 @@
  "characterID": 561919,
  "characterClassID": 2,
  "raceID": 1,
- "position": 815,
- "rankingPositionChange": 46,
- "gloryPoint": 3324,
- "gloryPointChange": 443,
+ "position": 818,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3317,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Allucard",
  "guildName": "Lionhearts",
@@ -33,6 +33,14 @@
    "rankingPositionChange": 46,
    "gloryPoint": 3324,
    "gloryPointChange": 443,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 818,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3317,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

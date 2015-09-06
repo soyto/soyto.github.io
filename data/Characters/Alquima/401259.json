@@ -2,10 +2,10 @@
  "characterID": 401259,
  "characterClassID": 10,
  "raceID": 1,
- "position": 611,
- "rankingPositionChange": 5,
- "gloryPoint": 12752,
- "gloryPointChange": 145,
+ "position": 612,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12838,
+ "gloryPointChange": 86,
  "soldierRankID": 11,
  "characterName": "Hiromy",
  "guildName": "HYDRA",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 12752,
    "gloryPointChange": 145,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12838,
+   "gloryPointChange": 86,
    "soldierRankID": 11
   }
  ],

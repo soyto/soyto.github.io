@@ -2,9 +2,9 @@
  "characterID": 1191196,
  "characterClassID": 13,
  "raceID": 1,
- "position": 829,
- "rankingPositionChange": 2,
- "gloryPoint": 2662,
+ "position": 832,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2655,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aethersick",
@@ -270,6 +270,14 @@
    "position": 829,
    "rankingPositionChange": 2,
    "gloryPoint": 2662,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 832,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2655,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

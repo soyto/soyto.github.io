@@ -2,9 +2,9 @@
  "characterID": 1708506,
  "characterClassID": 1,
  "raceID": 1,
- "position": 905,
- "rankingPositionChange": 1,
- "gloryPoint": 7953,
+ "position": 907,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7946,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Weene",
@@ -80,6 +80,14 @@
    "position": 905,
    "rankingPositionChange": 1,
    "gloryPoint": 7953,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 907,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7946,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

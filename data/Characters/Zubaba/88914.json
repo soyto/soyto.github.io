@@ -2,9 +2,9 @@
  "characterID": 88914,
  "characterClassID": 8,
  "raceID": 1,
- "position": 538,
- "rankingPositionChange": 1,
- "gloryPoint": 7762,
+ "position": 539,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7748,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Finkk",
@@ -272,6 +272,14 @@
    "position": 538,
    "rankingPositionChange": 1,
    "gloryPoint": 7762,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 539,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7748,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

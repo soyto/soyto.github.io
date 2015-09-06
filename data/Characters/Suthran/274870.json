@@ -2,10 +2,10 @@
  "characterID": 274870,
  "characterClassID": 4,
  "raceID": 0,
- "position": 106,
- "rankingPositionChange": 0,
- "gloryPoint": 119816,
- "gloryPointChange": 216,
+ "position": 107,
+ "rankingPositionChange": -1,
+ "gloryPoint": 119829,
+ "gloryPointChange": 13,
  "soldierRankID": 13,
  "characterName": "Harmonie",
  "guildName": "LUX POTENTIA",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 119816,
    "gloryPointChange": 216,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": -1,
+   "gloryPoint": 119829,
+   "gloryPointChange": 13,
    "soldierRankID": 13
   }
  ],

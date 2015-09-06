@@ -2,10 +2,10 @@
  "characterID": 95512,
  "characterClassID": 4,
  "raceID": 0,
- "position": 404,
- "rankingPositionChange": 6,
- "gloryPoint": 23368,
- "gloryPointChange": 422,
+ "position": 403,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23340,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sashaa",
  "guildName": "Fire Shadows",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 23368,
    "gloryPointChange": 422,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 403,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23340,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

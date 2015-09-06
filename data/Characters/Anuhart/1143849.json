@@ -2,10 +2,10 @@
  "characterID": 1143849,
  "characterClassID": 16,
  "raceID": 1,
- "position": 637,
- "rankingPositionChange": 2,
- "gloryPoint": 5534,
- "gloryPointChange": 6,
+ "position": 640,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5520,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Thecuchi",
  "guildName": "AmbuS",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 5534,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 640,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5520,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

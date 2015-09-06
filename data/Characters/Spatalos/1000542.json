@@ -2,9 +2,9 @@
  "characterID": 1000542,
  "characterClassID": 16,
  "raceID": 0,
- "position": 96,
- "rankingPositionChange": -1,
- "gloryPoint": 137749,
+ "position": 95,
+ "rankingPositionChange": 1,
+ "gloryPoint": 137642,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Nephyr",
@@ -272,6 +272,14 @@
    "position": 96,
    "rankingPositionChange": -1,
    "gloryPoint": 137749,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 95,
+   "rankingPositionChange": 1,
+   "gloryPoint": 137642,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

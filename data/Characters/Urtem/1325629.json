@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 0,
  "position": 249,
- "rankingPositionChange": 1,
- "gloryPoint": 66330,
- "gloryPointChange": 111,
+ "rankingPositionChange": 0,
+ "gloryPoint": 66281,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Neolyx",
  "guildName": "Phoenix Requiem",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 66330,
    "gloryPointChange": 111,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 249,
+   "rankingPositionChange": 0,
+   "gloryPoint": 66281,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

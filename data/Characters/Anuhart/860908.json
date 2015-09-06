@@ -2,9 +2,9 @@
  "characterID": 860908,
  "characterClassID": 14,
  "raceID": 1,
- "position": 381,
- "rankingPositionChange": 2,
- "gloryPoint": 15783,
+ "position": 385,
+ "rankingPositionChange": -4,
+ "gloryPoint": 15755,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Worm",
@@ -272,6 +272,14 @@
    "position": 381,
    "rankingPositionChange": 2,
    "gloryPoint": 15783,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 385,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15755,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

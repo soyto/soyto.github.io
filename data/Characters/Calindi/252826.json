@@ -2,9 +2,9 @@
  "characterID": 252826,
  "characterClassID": 2,
  "raceID": 0,
- "position": 519,
- "rankingPositionChange": 3,
- "gloryPoint": 5312,
+ "position": 522,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5298,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Thx",
@@ -272,6 +272,14 @@
    "position": 519,
    "rankingPositionChange": 3,
    "gloryPoint": 5312,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 522,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5298,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

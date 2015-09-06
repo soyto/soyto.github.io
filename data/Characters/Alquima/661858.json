@@ -2,10 +2,10 @@
  "characterID": 661858,
  "characterClassID": 1,
  "raceID": 0,
- "position": 642,
- "rankingPositionChange": 9,
- "gloryPoint": 18488,
- "gloryPointChange": 290,
+ "position": 641,
+ "rankingPositionChange": 1,
+ "gloryPoint": 18474,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Vizavi",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 18488,
    "gloryPointChange": 290,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": 1,
+   "gloryPoint": 18474,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

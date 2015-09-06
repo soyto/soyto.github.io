@@ -2,9 +2,9 @@
  "characterID": 260051,
  "characterClassID": 5,
  "raceID": 1,
- "position": 122,
- "rankingPositionChange": 0,
- "gloryPoint": 95885,
+ "position": 123,
+ "rankingPositionChange": -1,
+ "gloryPoint": 95836,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lukarek",
@@ -270,6 +270,14 @@
    "position": 122,
    "rankingPositionChange": 0,
    "gloryPoint": 95885,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 123,
+   "rankingPositionChange": -1,
+   "gloryPoint": 95836,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

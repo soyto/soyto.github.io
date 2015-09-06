@@ -2,9 +2,9 @@
  "characterID": 994640,
  "characterClassID": 11,
  "raceID": 1,
- "position": 584,
- "rankingPositionChange": 3,
- "gloryPoint": 2392,
+ "position": 590,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2378,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Khairne",
@@ -272,6 +272,14 @@
    "position": 584,
    "rankingPositionChange": 3,
    "gloryPoint": 2392,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 590,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2378,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

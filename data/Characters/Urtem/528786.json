@@ -2,9 +2,9 @@
  "characterID": 528786,
  "characterClassID": 8,
  "raceID": 1,
- "position": 839,
- "rankingPositionChange": 1,
- "gloryPoint": 9113,
+ "position": 840,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9106,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Candicia",
@@ -272,6 +272,14 @@
    "position": 839,
    "rankingPositionChange": 1,
    "gloryPoint": 9113,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9106,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

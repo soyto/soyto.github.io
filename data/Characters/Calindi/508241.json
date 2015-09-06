@@ -2,9 +2,9 @@
  "characterID": 508241,
  "characterClassID": 1,
  "raceID": 0,
- "position": 556,
- "rankingPositionChange": 2,
- "gloryPoint": 4351,
+ "position": 559,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4337,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Moulinex",
@@ -272,6 +272,14 @@
    "position": 556,
    "rankingPositionChange": 2,
    "gloryPoint": 4351,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 559,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4337,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

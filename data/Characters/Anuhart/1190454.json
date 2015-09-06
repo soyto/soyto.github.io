@@ -2,9 +2,9 @@
  "characterID": 1190454,
  "characterClassID": 1,
  "raceID": 1,
- "position": 477,
- "rankingPositionChange": 3,
- "gloryPoint": 9980,
+ "position": 481,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9952,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ymz",
@@ -270,6 +270,14 @@
    "position": 477,
    "rankingPositionChange": 3,
    "gloryPoint": 9980,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 481,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9952,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

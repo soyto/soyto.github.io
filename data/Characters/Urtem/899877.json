@@ -2,9 +2,9 @@
  "characterID": 899877,
  "characterClassID": 10,
  "raceID": 1,
- "position": 843,
- "rankingPositionChange": 1,
- "gloryPoint": 9074,
+ "position": 844,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9067,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Piwogh",
@@ -176,6 +176,14 @@
    "position": 843,
    "rankingPositionChange": 1,
    "gloryPoint": 9074,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 844,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9067,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

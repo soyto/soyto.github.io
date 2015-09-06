@@ -2,9 +2,9 @@
  "characterID": 213412,
  "characterClassID": 7,
  "raceID": 1,
- "position": 935,
- "rankingPositionChange": 2,
- "gloryPoint": 1327,
+ "position": 941,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1320,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wia",
@@ -272,6 +272,14 @@
    "position": 935,
    "rankingPositionChange": 2,
    "gloryPoint": 1327,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 941,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1320,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

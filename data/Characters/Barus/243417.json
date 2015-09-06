@@ -2,10 +2,10 @@
  "characterID": 243417,
  "characterClassID": 1,
  "raceID": 1,
- "position": 206,
- "rankingPositionChange": 1,
- "gloryPoint": 70295,
- "gloryPointChange": 324,
+ "position": 207,
+ "rankingPositionChange": -1,
+ "gloryPoint": 70428,
+ "gloryPointChange": 133,
  "soldierRankID": 13,
  "characterName": "Pixy",
  "guildName": "Dead Chicks Cant Say No",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 70295,
    "gloryPointChange": 324,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 207,
+   "rankingPositionChange": -1,
+   "gloryPoint": 70428,
+   "gloryPointChange": 133,
    "soldierRankID": 13
   }
  ],

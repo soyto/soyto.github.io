@@ -2,9 +2,9 @@
  "characterID": 306066,
  "characterClassID": 1,
  "raceID": 0,
- "position": 193,
- "rankingPositionChange": -1,
- "gloryPoint": 63401,
+ "position": 192,
+ "rankingPositionChange": 1,
+ "gloryPoint": 63352,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Monkeybar",
@@ -272,6 +272,14 @@
    "position": 193,
    "rankingPositionChange": -1,
    "gloryPoint": 63401,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 192,
+   "rankingPositionChange": 1,
+   "gloryPoint": 63352,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

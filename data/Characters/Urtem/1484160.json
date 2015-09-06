@@ -2,14 +2,14 @@
  "characterID": 1484160,
  "characterClassID": 10,
  "raceID": 0,
- "position": 222,
- "rankingPositionChange": 0,
- "gloryPoint": 71275,
- "gloryPointChange": 301,
+ "position": 221,
+ "rankingPositionChange": 1,
+ "gloryPoint": 71642,
+ "gloryPointChange": 367,
  "soldierRankID": 13,
  "characterName": "Nasuae",
- "guildName": "OMEGA",
- "guildID": 1049,
+ "guildName": "Mad Cuz Bad",
+ "guildID": 48548,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -258,6 +258,14 @@
    "gloryPoint": 71275,
    "gloryPointChange": 301,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 221,
+   "rankingPositionChange": 1,
+   "gloryPoint": 71642,
+   "gloryPointChange": 367,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -271,6 +279,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "OMEGA",
    "guildID": 1049
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Mad Cuz Bad",
+   "guildID": 48548
   }
  ]
 }

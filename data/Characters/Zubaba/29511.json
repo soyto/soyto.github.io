@@ -2,9 +2,9 @@
  "characterID": 29511,
  "characterClassID": 16,
  "raceID": 0,
- "position": 835,
- "rankingPositionChange": 3,
- "gloryPoint": 4630,
+ "position": 840,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4623,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Summonermuse",
@@ -272,6 +272,14 @@
    "position": 835,
    "rankingPositionChange": 3,
    "gloryPoint": 4630,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4623,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 942572,
  "characterClassID": 13,
  "raceID": 1,
- "position": 422,
- "rankingPositionChange": 2,
- "gloryPoint": 12668,
+ "position": 425,
+ "rankingPositionChange": -3,
+ "gloryPoint": 12640,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Motorcycle",
@@ -272,6 +272,14 @@
    "position": 422,
    "rankingPositionChange": 2,
    "gloryPoint": 12668,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 425,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12640,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

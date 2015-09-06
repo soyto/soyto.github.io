@@ -2,10 +2,10 @@
  "characterID": 146087,
  "characterClassID": 10,
  "raceID": 1,
- "position": 598,
- "rankingPositionChange": 9,
- "gloryPoint": 5774,
- "gloryPointChange": 274,
+ "position": 595,
+ "rankingPositionChange": 3,
+ "gloryPoint": 5760,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Rozene",
  "guildName": "Hope",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 5774,
    "gloryPointChange": 274,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5760,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

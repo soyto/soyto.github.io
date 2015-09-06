@@ -2,9 +2,9 @@
  "characterID": 245274,
  "characterClassID": 7,
  "raceID": 0,
- "position": 830,
- "rankingPositionChange": -1,
- "gloryPoint": 1766,
+ "position": 829,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1759,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Albatards",
@@ -270,6 +270,14 @@
    "position": 830,
    "rankingPositionChange": -1,
    "gloryPoint": 1766,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 829,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1759,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

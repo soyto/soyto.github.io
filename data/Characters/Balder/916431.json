@@ -2,10 +2,10 @@
  "characterID": 916431,
  "characterClassID": 1,
  "raceID": 1,
- "position": 624,
- "rankingPositionChange": 22,
- "gloryPoint": 1344,
- "gloryPointChange": 43,
+ "position": 625,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1337,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vivica",
  "guildName": "H Y D R A",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 22,
    "gloryPoint": 1344,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 625,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1337,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

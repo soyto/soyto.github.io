@@ -2,10 +2,10 @@
  "characterID": 121508,
  "characterClassID": 10,
  "raceID": 1,
- "position": 266,
- "rankingPositionChange": 1,
- "gloryPoint": 29557,
- "gloryPointChange": 1,
+ "position": 268,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29618,
+ "gloryPointChange": 61,
  "soldierRankID": 13,
  "characterName": "Christelle",
  "guildName": "Silent Majority",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 29557,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 268,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29618,
+   "gloryPointChange": 61,
    "soldierRankID": 13
   }
  ],

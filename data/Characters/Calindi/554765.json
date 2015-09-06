@@ -2,9 +2,9 @@
  "characterID": 554765,
  "characterClassID": 10,
  "raceID": 0,
- "position": 542,
- "rankingPositionChange": 0,
- "gloryPoint": 4839,
+ "position": 543,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4825,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Clercie",
@@ -272,6 +272,14 @@
    "position": 542,
    "rankingPositionChange": 0,
    "gloryPoint": 4839,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 543,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4825,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 19104,
  "characterClassID": 14,
  "raceID": 1,
- "position": 71,
- "rankingPositionChange": 0,
- "gloryPoint": 115892,
+ "position": 72,
+ "rankingPositionChange": -1,
+ "gloryPoint": 115785,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Harami",
@@ -248,6 +248,14 @@
    "position": 71,
    "rankingPositionChange": 0,
    "gloryPoint": 115892,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 72,
+   "rankingPositionChange": -1,
+   "gloryPoint": 115785,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 959,
- "rankingPositionChange": -3,
- "gloryPoint": 7282,
- "gloryPointChange": -7,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7285,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Gabygood",
  "status": [
@@ -255,6 +255,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 7282,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7285,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

@@ -2,14 +2,12 @@
  "characterID": 216548,
  "characterClassID": 14,
  "raceID": 0,
- "position": 542,
- "rankingPositionChange": 4,
- "gloryPoint": 21409,
+ "position": 543,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21395,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hamxolo",
- "guildName": "unpity",
- "guildID": 13300,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 21409,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 543,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21395,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "unpity",
    "guildID": 13300
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

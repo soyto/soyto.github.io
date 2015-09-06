@@ -2,9 +2,9 @@
  "characterID": 15098,
  "characterClassID": 2,
  "raceID": 1,
- "position": 634,
- "rankingPositionChange": 1,
- "gloryPoint": 1324,
+ "position": 635,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1317,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Issanami",
@@ -264,6 +264,14 @@
    "position": 634,
    "rankingPositionChange": 1,
    "gloryPoint": 1324,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 635,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1317,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

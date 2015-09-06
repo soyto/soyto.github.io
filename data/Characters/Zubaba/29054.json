@@ -2,9 +2,9 @@
  "characterID": 29054,
  "characterClassID": 8,
  "raceID": 1,
- "position": 852,
- "rankingPositionChange": 0,
- "gloryPoint": 1994,
+ "position": 857,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1987,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mirelia",
@@ -142,6 +142,14 @@
    "position": 852,
    "rankingPositionChange": 0,
    "gloryPoint": 1994,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 857,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1987,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

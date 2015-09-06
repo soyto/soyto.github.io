@@ -2,9 +2,9 @@
  "characterID": 396893,
  "characterClassID": 14,
  "raceID": 1,
- "position": 208,
- "rankingPositionChange": 0,
- "gloryPoint": 78032,
+ "position": 210,
+ "rankingPositionChange": -2,
+ "gloryPoint": 77983,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tynx",
@@ -232,6 +232,14 @@
    "position": 208,
    "rankingPositionChange": 0,
    "gloryPoint": 78032,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 210,
+   "rankingPositionChange": -2,
+   "gloryPoint": 77983,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

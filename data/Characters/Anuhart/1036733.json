@@ -2,10 +2,10 @@
  "characterID": 1036733,
  "characterClassID": 1,
  "raceID": 1,
- "position": 384,
- "rankingPositionChange": 3,
- "gloryPoint": 15601,
- "gloryPointChange": -4,
+ "position": 388,
+ "rankingPositionChange": -4,
+ "gloryPoint": 15573,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Cuchillero",
  "guildName": "AmbuS",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 15601,
    "gloryPointChange": -4,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 388,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15573,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

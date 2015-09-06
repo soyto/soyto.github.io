@@ -2,10 +2,10 @@
  "characterID": 1405076,
  "characterClassID": 1,
  "raceID": 1,
- "position": 585,
- "rankingPositionChange": 3,
- "gloryPoint": 12389,
- "gloryPointChange": 64,
+ "position": 586,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12503,
+ "gloryPointChange": 114,
  "soldierRankID": 11,
  "characterName": "Pukapuka",
  "guildName": "The Last Asmodians",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 12389,
    "gloryPointChange": 64,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 586,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12503,
+   "gloryPointChange": 114,
    "soldierRankID": 11
   }
  ],

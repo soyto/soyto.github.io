@@ -2,10 +2,10 @@
  "characterID": 691205,
  "characterClassID": 10,
  "raceID": 0,
- "position": 50,
- "rankingPositionChange": 2,
- "gloryPoint": 143504,
- "gloryPointChange": 1139,
+ "position": 52,
+ "rankingPositionChange": -2,
+ "gloryPoint": 143497,
+ "gloryPointChange": -7,
  "soldierRankID": 14,
  "characterName": "Cincin",
  "guildName": "Skullbreaker",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 143504,
    "gloryPointChange": 1139,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 52,
+   "rankingPositionChange": -2,
+   "gloryPoint": 143497,
+   "gloryPointChange": -7,
    "soldierRankID": 14
   }
  ],

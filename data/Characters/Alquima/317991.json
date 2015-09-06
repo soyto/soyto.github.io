@@ -2,10 +2,10 @@
  "characterID": 317991,
  "characterClassID": 16,
  "raceID": 0,
- "position": 47,
- "rankingPositionChange": -1,
- "gloryPoint": 160911,
- "gloryPointChange": 353,
+ "position": 46,
+ "rankingPositionChange": 1,
+ "gloryPoint": 160864,
+ "gloryPointChange": -47,
  "soldierRankID": 14,
  "characterName": "Kenae",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 160911,
    "gloryPointChange": 353,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 46,
+   "rankingPositionChange": 1,
+   "gloryPoint": 160864,
+   "gloryPointChange": -47,
    "soldierRankID": 14
   }
  ],

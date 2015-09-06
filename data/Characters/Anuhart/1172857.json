@@ -2,9 +2,9 @@
  "characterID": 1172857,
  "characterClassID": 13,
  "raceID": 1,
- "position": 626,
- "rankingPositionChange": 0,
- "gloryPoint": 5868,
+ "position": 628,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5854,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sollus",
@@ -272,6 +272,14 @@
    "position": 626,
    "rankingPositionChange": 0,
    "gloryPoint": 5868,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 628,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5854,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

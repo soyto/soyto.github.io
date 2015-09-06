@@ -2,9 +2,9 @@
  "characterID": 1132879,
  "characterClassID": 14,
  "raceID": 1,
- "position": 893,
- "rankingPositionChange": 1,
- "gloryPoint": 8241,
+ "position": 894,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8234,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Minovack",
@@ -272,6 +272,14 @@
    "position": 893,
    "rankingPositionChange": 1,
    "gloryPoint": 8241,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 894,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8234,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

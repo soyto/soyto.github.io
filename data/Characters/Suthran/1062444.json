@@ -2,9 +2,9 @@
  "characterID": 1062444,
  "characterClassID": 16,
  "raceID": 1,
- "position": 830,
- "rankingPositionChange": 1,
- "gloryPoint": 6656,
+ "position": 836,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6649,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hypnotykman",
@@ -270,6 +270,14 @@
    "position": 830,
    "rankingPositionChange": 1,
    "gloryPoint": 6656,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 836,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6649,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1643135,
  "characterClassID": 1,
  "raceID": 0,
- "position": 633,
- "rankingPositionChange": -1,
- "gloryPoint": 27839,
+ "position": 632,
+ "rankingPositionChange": 1,
+ "gloryPoint": 27825,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Allcapone",
@@ -272,6 +272,14 @@
    "position": 633,
    "rankingPositionChange": -1,
    "gloryPoint": 27839,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 632,
+   "rankingPositionChange": 1,
+   "gloryPoint": 27825,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

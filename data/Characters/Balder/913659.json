@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 370,
- "rankingPositionChange": 4,
- "gloryPoint": 5809,
- "gloryPointChange": 172,
+ "rankingPositionChange": 0,
+ "gloryPoint": 5781,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Healr",
  "guildName": "MoonStar",
@@ -249,6 +249,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 5809,
    "gloryPointChange": 172,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 370,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5781,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

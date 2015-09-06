@@ -2,12 +2,12 @@
  "characterID": 1334434,
  "characterClassID": 1,
  "raceID": 0,
- "position": 96,
- "rankingPositionChange": 0,
- "gloryPoint": 126074,
+ "position": 97,
+ "rankingPositionChange": -1,
+ "gloryPoint": 125967,
  "gloryPointChange": -107,
  "soldierRankID": 14,
- "characterName": "Jakji",
+ "characterName": "Minchul",
  "guildName": " FEED ME ",
  "guildID": 24657,
  "status": [
@@ -274,6 +274,14 @@
    "gloryPoint": 126074,
    "gloryPointChange": -107,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 97,
+   "rankingPositionChange": -1,
+   "gloryPoint": 125967,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -292,6 +300,10 @@
   {
    "date": "2015-08-14T22:00:00.000Z",
    "characterName": "Jakji"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Minchul"
   }
  ],
  "guilds": [

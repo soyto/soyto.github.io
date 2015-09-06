@@ -2,9 +2,9 @@
  "characterID": 77239,
  "characterClassID": 2,
  "raceID": 1,
- "position": 282,
- "rankingPositionChange": 0,
- "gloryPoint": 26935,
+ "position": 285,
+ "rankingPositionChange": -3,
+ "gloryPoint": 26886,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Baldracka",
@@ -256,6 +256,14 @@
    "position": 282,
    "rankingPositionChange": 0,
    "gloryPoint": 26935,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 285,
+   "rankingPositionChange": -3,
+   "gloryPoint": 26886,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

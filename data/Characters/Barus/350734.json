@@ -3,8 +3,8 @@
  "characterClassID": 13,
  "raceID": 1,
  "position": 200,
- "rankingPositionChange": -3,
- "gloryPoint": 71398,
+ "rankingPositionChange": 0,
+ "gloryPoint": 71349,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Etaril",
@@ -272,6 +272,14 @@
    "position": 200,
    "rankingPositionChange": -3,
    "gloryPoint": 71398,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 200,
+   "rankingPositionChange": 0,
+   "gloryPoint": 71349,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

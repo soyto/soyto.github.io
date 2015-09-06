@@ -2,9 +2,9 @@
  "characterID": 1118676,
  "characterClassID": 8,
  "raceID": 0,
- "position": 744,
- "rankingPositionChange": 0,
- "gloryPoint": 10247,
+ "position": 743,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10240,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alagesia",
@@ -272,6 +272,14 @@
    "position": 744,
    "rankingPositionChange": 0,
    "gloryPoint": 10247,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 743,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10240,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

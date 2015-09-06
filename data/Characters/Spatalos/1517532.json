@@ -2,10 +2,10 @@
  "characterID": 1517532,
  "characterClassID": 10,
  "raceID": 0,
- "position": 799,
+ "position": 795,
  "rankingPositionChange": 4,
- "gloryPoint": 10400,
- "gloryPointChange": 227,
+ "gloryPoint": 10393,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Risgreat",
  "guildName": "les meilleurs",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 10400,
    "gloryPointChange": 227,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 795,
+   "rankingPositionChange": 4,
+   "gloryPoint": 10393,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

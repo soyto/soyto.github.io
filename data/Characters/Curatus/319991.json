@@ -2,10 +2,10 @@
  "characterID": 319991,
  "characterClassID": 13,
  "raceID": 1,
- "position": 790,
- "rankingPositionChange": 1,
- "gloryPoint": 5333,
- "gloryPointChange": 51,
+ "position": 793,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5346,
+ "gloryPointChange": 13,
  "soldierRankID": 10,
  "characterName": "Bodret",
  "guildName": "Prepotenti",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 5333,
    "gloryPointChange": 51,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 793,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5346,
+   "gloryPointChange": 13,
    "soldierRankID": 10
   }
  ],

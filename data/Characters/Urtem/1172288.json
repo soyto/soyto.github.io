@@ -2,9 +2,9 @@
  "characterID": 1172288,
  "characterClassID": 16,
  "raceID": 1,
- "position": 900,
- "rankingPositionChange": 1,
- "gloryPoint": 8052,
+ "position": 902,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8045,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gangstastyle",
@@ -214,6 +214,14 @@
    "position": 900,
    "rankingPositionChange": 1,
    "gloryPoint": 8052,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 902,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8045,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

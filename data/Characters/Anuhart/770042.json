@@ -2,12 +2,14 @@
  "characterID": 770042,
  "characterClassID": 10,
  "raceID": 1,
- "position": 728,
- "rankingPositionChange": 1,
- "gloryPoint": 3814,
+ "position": 732,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3807,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ljosfari",
+ "guildName": "Eitradur Regnbogi",
+ "guildID": 20553,
  "status": [
   {
    "date": "2015-08-30T22:00:00.000Z",
@@ -40,6 +42,14 @@
    "gloryPoint": 3814,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 732,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3807,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -51,6 +61,11 @@
  "guilds": [
   {
    "date": "2015-08-30T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Eitradur Regnbogi",
+   "guildID": 20553
   }
  ]
 }

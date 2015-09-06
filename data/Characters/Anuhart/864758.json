@@ -3,13 +3,13 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 143,
- "rankingPositionChange": 1,
- "gloryPoint": 81446,
+ "rankingPositionChange": 0,
+ "gloryPoint": 81397,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Salvadorpt",
- "guildName": "Suicidal",
- "guildID": 11535,
+ "guildName": "Exiled Riders",
+ "guildID": 9685,
  "status": [
   {
    "date": "2015-08-04T22:00:00.000Z",
@@ -242,6 +242,14 @@
    "gloryPoint": 81446,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 143,
+   "rankingPositionChange": 0,
+   "gloryPoint": 81397,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -255,6 +263,11 @@
    "date": "2015-08-04T22:00:00.000Z",
    "guildName": "Suicidal",
    "guildID": 11535
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Exiled Riders",
+   "guildID": 9685
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 192363,
  "characterClassID": 11,
  "raceID": 0,
- "position": 763,
- "rankingPositionChange": 0,
- "gloryPoint": 15315,
+ "position": 764,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15308,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wolfelchanter",
@@ -272,6 +272,14 @@
    "position": 763,
    "rankingPositionChange": 0,
    "gloryPoint": 15315,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 764,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15308,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

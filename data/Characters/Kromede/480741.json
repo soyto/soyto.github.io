@@ -2,9 +2,9 @@
  "characterID": 480741,
  "characterClassID": 8,
  "raceID": 0,
- "position": 185,
- "rankingPositionChange": 0,
- "gloryPoint": 70809,
+ "position": 186,
+ "rankingPositionChange": -1,
+ "gloryPoint": 70760,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hinami",
@@ -264,6 +264,14 @@
    "position": 185,
    "rankingPositionChange": 0,
    "gloryPoint": 70809,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 186,
+   "rankingPositionChange": -1,
+   "gloryPoint": 70760,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

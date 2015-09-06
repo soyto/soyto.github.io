@@ -2,10 +2,10 @@
  "characterID": 1352835,
  "characterClassID": 1,
  "raceID": 1,
- "position": 399,
- "rankingPositionChange": 2,
- "gloryPoint": 12761,
- "gloryPointChange": 95,
+ "position": 400,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12743,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Mokushiroku",
  "guildName": "DaevA OmegA",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 12761,
    "gloryPointChange": 95,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 400,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12743,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

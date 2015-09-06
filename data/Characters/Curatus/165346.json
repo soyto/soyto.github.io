@@ -2,10 +2,10 @@
  "characterID": 165346,
  "characterClassID": 10,
  "raceID": 0,
- "position": 313,
- "rankingPositionChange": 1,
- "gloryPoint": 51523,
- "gloryPointChange": 4,
+ "position": 314,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51667,
+ "gloryPointChange": 144,
  "soldierRankID": 12,
  "characterName": "Lixxie",
  "guildName": "JFF",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 51523,
    "gloryPointChange": 4,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 314,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51667,
+   "gloryPointChange": 144,
    "soldierRankID": 12
   }
  ],

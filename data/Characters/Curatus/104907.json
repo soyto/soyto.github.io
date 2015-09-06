@@ -2,9 +2,9 @@
  "characterID": 104907,
  "characterClassID": 5,
  "raceID": 0,
- "position": 216,
- "rankingPositionChange": 0,
- "gloryPoint": 75189,
+ "position": 218,
+ "rankingPositionChange": -2,
+ "gloryPoint": 75140,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Minagi",
@@ -272,6 +272,14 @@
    "position": 216,
    "rankingPositionChange": 0,
    "gloryPoint": 75189,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 218,
+   "rankingPositionChange": -2,
+   "gloryPoint": 75140,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

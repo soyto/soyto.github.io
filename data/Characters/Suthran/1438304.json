@@ -2,9 +2,9 @@
  "characterID": 1438304,
  "characterClassID": 2,
  "raceID": 1,
- "position": 631,
- "rankingPositionChange": 1,
- "gloryPoint": 11164,
+ "position": 634,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11150,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ledaia",
@@ -272,6 +272,14 @@
    "position": 631,
    "rankingPositionChange": 1,
    "gloryPoint": 11164,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 634,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11150,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

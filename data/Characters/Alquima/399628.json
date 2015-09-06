@@ -2,10 +2,10 @@
  "characterID": 399628,
  "characterClassID": 1,
  "raceID": 1,
- "position": 625,
- "rankingPositionChange": -8,
- "gloryPoint": 12569,
- "gloryPointChange": -1,
+ "position": 624,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12617,
+ "gloryPointChange": 48,
  "soldierRankID": 11,
  "characterName": "Rothor",
  "guildName": "HYDRA",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 12569,
    "gloryPointChange": -1,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 624,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12617,
+   "gloryPointChange": 48,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 636944,
  "characterClassID": 11,
  "raceID": 1,
- "position": 94,
- "rankingPositionChange": 0,
- "gloryPoint": 120334,
+ "position": 95,
+ "rankingPositionChange": -1,
+ "gloryPoint": 120227,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Averley",
@@ -272,6 +272,14 @@
    "position": 94,
    "rankingPositionChange": 0,
    "gloryPoint": 120334,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 95,
+   "rankingPositionChange": -1,
+   "gloryPoint": 120227,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

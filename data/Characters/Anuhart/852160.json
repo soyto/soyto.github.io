@@ -2,9 +2,9 @@
  "characterID": 852160,
  "characterClassID": 14,
  "raceID": 1,
- "position": 751,
- "rankingPositionChange": 0,
- "gloryPoint": 3594,
+ "position": 756,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3587,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Trekkk",
@@ -96,6 +96,14 @@
    "position": 751,
    "rankingPositionChange": 0,
    "gloryPoint": 3594,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 756,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3587,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 1208416,
  "characterClassID": 10,
  "raceID": 1,
- "position": 608,
- "rankingPositionChange": 2,
- "gloryPoint": 6129,
- "gloryPointChange": -14,
+ "position": 609,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6215,
+ "gloryPointChange": 86,
  "soldierRankID": 11,
  "characterName": "Okaido",
  "guildName": "Aftermath",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 6129,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 609,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6215,
+   "gloryPointChange": 86,
    "soldierRankID": 11
   }
  ],

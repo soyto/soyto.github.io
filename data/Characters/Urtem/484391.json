@@ -2,14 +2,12 @@
  "characterID": 484391,
  "characterClassID": 11,
  "raceID": 0,
- "position": 338,
- "rankingPositionChange": 1,
- "gloryPoint": 49683,
+ "position": 339,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49655,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sativaaaa",
- "guildName": " Avengers ",
- "guildID": 42267,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,6 +264,14 @@
    "gloryPoint": 49683,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 339,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49655,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -279,6 +285,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Avengers ",
    "guildID": 42267
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

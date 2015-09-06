@@ -2,10 +2,10 @@
  "characterID": 880290,
  "characterClassID": 2,
  "raceID": 0,
- "position": 218,
- "rankingPositionChange": 1,
- "gloryPoint": 58909,
- "gloryPointChange": 101,
+ "position": 219,
+ "rankingPositionChange": -1,
+ "gloryPoint": 58860,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Biiddy",
  "guildName": "I Outsiderz I",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 58909,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 219,
+   "rankingPositionChange": -1,
+   "gloryPoint": 58860,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

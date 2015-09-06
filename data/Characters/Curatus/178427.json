@@ -2,9 +2,9 @@
  "characterID": 178427,
  "characterClassID": 13,
  "raceID": 1,
- "position": 515,
- "rankingPositionChange": 0,
- "gloryPoint": 11921,
+ "position": 519,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11907,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Garubbo",
@@ -272,6 +272,14 @@
    "position": 515,
    "rankingPositionChange": 0,
    "gloryPoint": 11921,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 519,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11907,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

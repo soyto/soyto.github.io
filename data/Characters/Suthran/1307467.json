@@ -2,9 +2,9 @@
  "characterID": 1307467,
  "characterClassID": 4,
  "raceID": 1,
- "position": 347,
- "rankingPositionChange": 0,
- "gloryPoint": 26505,
+ "position": 348,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26477,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Bering",
@@ -272,6 +272,14 @@
    "position": 347,
    "rankingPositionChange": 0,
    "gloryPoint": 26505,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 348,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26477,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

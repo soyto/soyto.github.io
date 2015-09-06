@@ -2,10 +2,10 @@
  "characterID": 131632,
  "characterClassID": 4,
  "raceID": 0,
- "position": 805,
- "rankingPositionChange": 0,
- "gloryPoint": 13097,
- "gloryPointChange": 57,
+ "position": 806,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13090,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alexraiden",
  "guildName": "  Ronin  ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 13097,
    "gloryPointChange": 57,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 806,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13090,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

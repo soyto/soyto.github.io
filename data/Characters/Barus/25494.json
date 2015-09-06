@@ -2,9 +2,9 @@
  "characterID": 25494,
  "characterClassID": 7,
  "raceID": 1,
- "position": 730,
- "rankingPositionChange": -2,
- "gloryPoint": 16938,
+ "position": 729,
+ "rankingPositionChange": 1,
+ "gloryPoint": 16931,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hiruko",
@@ -272,6 +272,14 @@
    "position": 730,
    "rankingPositionChange": -2,
    "gloryPoint": 16938,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 729,
+   "rankingPositionChange": 1,
+   "gloryPoint": 16931,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

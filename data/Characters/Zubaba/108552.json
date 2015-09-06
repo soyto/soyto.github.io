@@ -2,9 +2,9 @@
  "characterID": 108552,
  "characterClassID": 16,
  "raceID": 1,
- "position": 609,
- "rankingPositionChange": 0,
- "gloryPoint": 5787,
+ "position": 610,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5773,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Xerontr",
@@ -270,6 +270,14 @@
    "position": 609,
    "rankingPositionChange": 0,
    "gloryPoint": 5787,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 610,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5773,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

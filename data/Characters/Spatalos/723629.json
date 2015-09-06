@@ -2,9 +2,9 @@
  "characterID": 723629,
  "characterClassID": 11,
  "raceID": 0,
- "position": 355,
- "rankingPositionChange": -1,
- "gloryPoint": 40812,
+ "position": 353,
+ "rankingPositionChange": 2,
+ "gloryPoint": 40784,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ingvard",
@@ -264,6 +264,14 @@
    "position": 355,
    "rankingPositionChange": -1,
    "gloryPoint": 40812,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 353,
+   "rankingPositionChange": 2,
+   "gloryPoint": 40784,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

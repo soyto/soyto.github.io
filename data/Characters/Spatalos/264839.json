@@ -2,10 +2,10 @@
  "characterID": 264839,
  "characterClassID": 2,
  "raceID": 0,
- "position": 51,
- "rankingPositionChange": 1,
- "gloryPoint": 191148,
- "gloryPointChange": 765,
+ "position": 52,
+ "rankingPositionChange": -1,
+ "gloryPoint": 191041,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Roxstorm",
  "guildName": "Pride and Honor",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 191148,
    "gloryPointChange": 765,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 52,
+   "rankingPositionChange": -1,
+   "gloryPoint": 191041,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

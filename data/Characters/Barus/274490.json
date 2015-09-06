@@ -2,14 +2,12 @@
  "characterID": 274490,
  "characterClassID": 7,
  "raceID": 1,
- "position": 412,
- "rankingPositionChange": -2,
- "gloryPoint": 34906,
+ "position": 411,
+ "rankingPositionChange": 1,
+ "gloryPoint": 34878,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Misko",
- "guildName": "Fight Or Die",
- "guildID": 2521,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 34906,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 411,
+   "rankingPositionChange": 1,
+   "gloryPoint": 34878,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Fight Or Die",
    "guildID": 2521
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

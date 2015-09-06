@@ -2,10 +2,10 @@
  "characterID": 541045,
  "characterClassID": 1,
  "raceID": 0,
- "position": 458,
- "rankingPositionChange": 2,
- "gloryPoint": 25161,
- "gloryPointChange": 72,
+ "position": 459,
+ "rankingPositionChange": -1,
+ "gloryPoint": 25143,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Kyrial",
  "guildName": "OUTLAWS",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 25161,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 459,
+   "rankingPositionChange": -1,
+   "gloryPoint": 25143,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

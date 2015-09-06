@@ -2,10 +2,10 @@
  "characterID": 1492071,
  "characterClassID": 16,
  "raceID": 1,
- "position": 96,
- "rankingPositionChange": 1,
- "gloryPoint": 88676,
- "gloryPointChange": 771,
+ "position": 97,
+ "rankingPositionChange": -1,
+ "gloryPoint": 88669,
+ "gloryPointChange": -7,
  "soldierRankID": 14,
  "characterName": "Olenka",
  "guildName": " No Name ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 88676,
    "gloryPointChange": 771,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 97,
+   "rankingPositionChange": -1,
+   "gloryPoint": 88669,
+   "gloryPointChange": -7,
    "soldierRankID": 14
   }
  ],

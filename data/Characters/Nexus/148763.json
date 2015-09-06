@@ -2,10 +2,10 @@
  "characterID": 148763,
  "characterClassID": 5,
  "raceID": 0,
- "position": 483,
- "rankingPositionChange": 4,
- "gloryPoint": 18169,
- "gloryPointChange": 169,
+ "position": 487,
+ "rankingPositionChange": -4,
+ "gloryPoint": 18144,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Ladyheart",
  "guildName": "Fire Shadows",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 18169,
    "gloryPointChange": 169,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 487,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18144,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

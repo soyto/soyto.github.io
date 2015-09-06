@@ -2,9 +2,9 @@
  "characterID": 739075,
  "characterClassID": 4,
  "raceID": 1,
- "position": 930,
- "rankingPositionChange": 6,
- "gloryPoint": 1848,
+ "position": 936,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1841,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yorukaze",
@@ -272,6 +272,14 @@
    "position": 930,
    "rankingPositionChange": 6,
    "gloryPoint": 1848,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 936,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1841,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 228082,
  "characterClassID": 14,
  "raceID": 0,
- "position": 354,
- "rankingPositionChange": 1,
- "gloryPoint": 34251,
+ "position": 355,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34223,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zorrok",
@@ -270,6 +270,14 @@
    "position": 354,
    "rankingPositionChange": 1,
    "gloryPoint": 34251,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 355,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34223,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 908044,
  "characterClassID": 5,
  "raceID": 0,
- "position": 409,
+ "position": 405,
  "rankingPositionChange": 4,
- "gloryPoint": 11952,
- "gloryPointChange": 600,
+ "gloryPoint": 11924,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hyono",
  "guildName": "RamaLamaDingDong",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 11952,
    "gloryPointChange": 600,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 405,
+   "rankingPositionChange": 4,
+   "gloryPoint": 11924,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

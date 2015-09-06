@@ -2,9 +2,9 @@
  "characterID": 923750,
  "characterClassID": 10,
  "raceID": 1,
- "position": 730,
- "rankingPositionChange": 2,
- "gloryPoint": 5246,
+ "position": 731,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5239,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yukickoo",
@@ -272,6 +272,14 @@
    "position": 730,
    "rankingPositionChange": 2,
    "gloryPoint": 5246,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 731,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5239,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

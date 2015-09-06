@@ -2,9 +2,9 @@
  "characterID": 939845,
  "characterClassID": 16,
  "raceID": 1,
- "position": 866,
- "rankingPositionChange": 1,
- "gloryPoint": 3763,
+ "position": 871,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3756,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vretiel",
@@ -248,6 +248,14 @@
    "position": 866,
    "rankingPositionChange": 1,
    "gloryPoint": 3763,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 871,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3756,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

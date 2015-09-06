@@ -2,9 +2,9 @@
  "characterID": 277296,
  "characterClassID": 1,
  "raceID": 0,
- "position": 253,
- "rankingPositionChange": -1,
- "gloryPoint": 49407,
+ "position": 252,
+ "rankingPositionChange": 1,
+ "gloryPoint": 49358,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hizachi",
@@ -272,6 +272,14 @@
    "position": 253,
    "rankingPositionChange": -1,
    "gloryPoint": 49407,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 252,
+   "rankingPositionChange": 1,
+   "gloryPoint": 49358,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

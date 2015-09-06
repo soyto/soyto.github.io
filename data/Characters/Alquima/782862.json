@@ -2,9 +2,9 @@
  "characterID": 782862,
  "characterClassID": 14,
  "raceID": 1,
- "position": 383,
- "rankingPositionChange": 0,
- "gloryPoint": 21649,
+ "position": 389,
+ "rankingPositionChange": -6,
+ "gloryPoint": 21621,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sloog",
@@ -262,6 +262,14 @@
    "position": 383,
    "rankingPositionChange": 0,
    "gloryPoint": 21649,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 389,
+   "rankingPositionChange": -6,
+   "gloryPoint": 21621,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

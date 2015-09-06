@@ -2,9 +2,9 @@
  "characterID": 1124995,
  "characterClassID": 4,
  "raceID": 1,
- "position": 365,
- "rankingPositionChange": 0,
- "gloryPoint": 8105,
+ "position": 366,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8077,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Arakiis",
@@ -240,6 +240,14 @@
    "position": 365,
    "rankingPositionChange": 0,
    "gloryPoint": 8105,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 366,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8077,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

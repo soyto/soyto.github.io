@@ -2,10 +2,10 @@
  "characterID": 115868,
  "characterClassID": 10,
  "raceID": 0,
- "position": 951,
- "rankingPositionChange": 2,
- "gloryPoint": 9172,
- "gloryPointChange": 43,
+ "position": 952,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9165,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Telos",
  "guildName": " Oblivion ",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 9172,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 952,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9165,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

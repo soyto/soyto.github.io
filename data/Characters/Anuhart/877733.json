@@ -2,9 +2,9 @@
  "characterID": 877733,
  "characterClassID": 4,
  "raceID": 1,
- "position": 254,
- "rankingPositionChange": 3,
- "gloryPoint": 34145,
+ "position": 255,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34096,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Diesoon",
@@ -272,6 +272,14 @@
    "position": 254,
    "rankingPositionChange": 3,
    "gloryPoint": 34145,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34096,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

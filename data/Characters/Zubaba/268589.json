@@ -2,9 +2,9 @@
  "characterID": 268589,
  "characterClassID": 4,
  "raceID": 1,
- "position": 643,
- "rankingPositionChange": 0,
- "gloryPoint": 4910,
+ "position": 646,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4896,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Raazack",
@@ -272,6 +272,14 @@
    "position": 643,
    "rankingPositionChange": 0,
    "gloryPoint": 4910,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 646,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4896,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

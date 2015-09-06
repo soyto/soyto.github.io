@@ -2,10 +2,10 @@
  "characterID": 898462,
  "characterClassID": 10,
  "raceID": 0,
- "position": 439,
- "rankingPositionChange": 3,
- "gloryPoint": 41111,
- "gloryPointChange": 100,
+ "position": 440,
+ "rankingPositionChange": -1,
+ "gloryPoint": 41083,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Yorvet",
  "guildName": "The War of Elyos",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 41111,
    "gloryPointChange": 100,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 440,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41083,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

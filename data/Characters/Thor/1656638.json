@@ -2,10 +2,10 @@
  "characterID": 1656638,
  "characterClassID": 11,
  "raceID": 0,
- "position": 382,
- "rankingPositionChange": 4,
- "gloryPoint": 47434,
- "gloryPointChange": 469,
+ "position": 383,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47406,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Oriihime",
  "guildName": "Paths of Pain",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 47434,
    "gloryPointChange": 469,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 383,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47406,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

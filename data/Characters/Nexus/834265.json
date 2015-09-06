@@ -2,9 +2,9 @@
  "characterID": 834265,
  "characterClassID": 2,
  "raceID": 0,
- "position": 711,
- "rankingPositionChange": 0,
- "gloryPoint": 9556,
+ "position": 712,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9549,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shlass",
@@ -272,6 +272,14 @@
    "position": 711,
    "rankingPositionChange": 0,
    "gloryPoint": 9556,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 712,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9549,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

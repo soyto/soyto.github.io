@@ -2,9 +2,9 @@
  "characterID": 1204826,
  "characterClassID": 10,
  "raceID": 1,
- "position": 681,
- "rankingPositionChange": 1,
- "gloryPoint": 5979,
+ "position": 682,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5965,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hygalg",
@@ -272,6 +272,14 @@
    "position": 681,
    "rankingPositionChange": 1,
    "gloryPoint": 5979,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 682,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5965,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

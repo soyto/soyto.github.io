@@ -2,10 +2,10 @@
  "characterID": 44853,
  "characterClassID": 10,
  "raceID": 0,
- "position": 202,
- "rankingPositionChange": 2,
- "gloryPoint": 53062,
- "gloryPointChange": 372,
+ "position": 203,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53103,
+ "gloryPointChange": 41,
  "soldierRankID": 13,
  "characterName": "Ajurveda",
  "guildName": "Reported",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 53062,
    "gloryPointChange": 372,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 203,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53103,
+   "gloryPointChange": 41,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1288695,
  "characterClassID": 1,
  "raceID": 1,
- "position": 900,
- "rankingPositionChange": 0,
- "gloryPoint": 5569,
- "gloryPointChange": 40,
+ "position": 902,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5562,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kiriaz",
  "guildName": "BlacKSheeP",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5569,
    "gloryPointChange": 40,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 902,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5562,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

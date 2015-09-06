@@ -2,10 +2,10 @@
  "characterID": 100182,
  "characterClassID": 14,
  "raceID": 0,
- "position": 568,
- "rankingPositionChange": 6,
- "gloryPoint": 20690,
- "gloryPointChange": 135,
+ "position": 569,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20686,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Givirus",
  "guildName": "I Kill You Baddie",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 20690,
    "gloryPointChange": 135,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 569,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20686,
+   "gloryPointChange": -4,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 295201,
  "characterClassID": 1,
  "raceID": 0,
- "position": 206,
- "rankingPositionChange": 0,
- "gloryPoint": 52604,
- "gloryPointChange": 308,
+ "position": 207,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52625,
+ "gloryPointChange": 21,
  "soldierRankID": 13,
  "characterName": "Zyankali",
  "guildName": "Low Profile",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 52604,
    "gloryPointChange": 308,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 207,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52625,
+   "gloryPointChange": 21,
    "soldierRankID": 13
   }
  ],

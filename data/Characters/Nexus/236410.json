@@ -2,10 +2,10 @@
  "characterID": 236410,
  "characterClassID": 1,
  "raceID": 0,
- "position": 118,
- "rankingPositionChange": 0,
- "gloryPoint": 83540,
- "gloryPointChange": 115,
+ "position": 119,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83532,
+ "gloryPointChange": -8,
  "soldierRankID": 13,
  "characterName": "Qtj",
  "guildName": "Even Captain Of Titanic Said Lag",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 83540,
    "gloryPointChange": 115,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 119,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83532,
+   "gloryPointChange": -8,
    "soldierRankID": 13
   }
  ],

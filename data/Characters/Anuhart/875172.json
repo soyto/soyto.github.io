@@ -2,10 +2,10 @@
  "characterID": 875172,
  "characterClassID": 16,
  "raceID": 1,
- "position": 409,
- "rankingPositionChange": 7,
- "gloryPoint": 13348,
- "gloryPointChange": 292,
+ "position": 410,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13420,
+ "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Pandii",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 13348,
    "gloryPointChange": 292,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 410,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13420,
+   "gloryPointChange": 72,
    "soldierRankID": 12
   }
  ],

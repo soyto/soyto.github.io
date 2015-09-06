@@ -2,10 +2,10 @@
  "characterID": 12566,
  "characterClassID": 4,
  "raceID": 0,
- "position": 808,
- "rankingPositionChange": 6,
- "gloryPoint": 2603,
- "gloryPointChange": 21,
+ "position": 807,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2596,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Uniqa",
  "guildName": "Leviathan",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 2603,
    "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 807,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2596,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1390304,
  "characterClassID": 10,
  "raceID": 1,
- "position": 493,
- "rankingPositionChange": -3,
- "gloryPoint": 28221,
+ "position": 492,
+ "rankingPositionChange": 1,
+ "gloryPoint": 28193,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Geomen",
@@ -272,6 +272,14 @@
    "position": 493,
    "rankingPositionChange": -3,
    "gloryPoint": 28221,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 492,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28193,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

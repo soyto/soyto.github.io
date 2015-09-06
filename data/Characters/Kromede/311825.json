@@ -2,9 +2,9 @@
  "characterID": 311825,
  "characterClassID": 1,
  "raceID": 0,
- "position": 706,
- "rankingPositionChange": 0,
- "gloryPoint": 15687,
+ "position": 709,
+ "rankingPositionChange": -3,
+ "gloryPoint": 15680,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nosda",
@@ -272,6 +272,14 @@
    "position": 706,
    "rankingPositionChange": 0,
    "gloryPoint": 15687,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15680,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

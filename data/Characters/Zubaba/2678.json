@@ -2,10 +2,10 @@
  "characterID": 2678,
  "characterClassID": 14,
  "raceID": 1,
- "position": 431,
- "rankingPositionChange": 1,
- "gloryPoint": 12085,
- "gloryPointChange": 30,
+ "position": 433,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12160,
+ "gloryPointChange": 75,
  "soldierRankID": 12,
  "characterName": "Senecion",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12085,
    "gloryPointChange": 30,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 433,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12160,
+   "gloryPointChange": 75,
    "soldierRankID": 12
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1207792,
  "characterClassID": 4,
  "raceID": 1,
- "position": 465,
- "rankingPositionChange": 0,
- "gloryPoint": 10987,
+ "position": 467,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10959,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Utequendraf",
@@ -264,6 +264,14 @@
    "position": 465,
    "rankingPositionChange": 0,
    "gloryPoint": 10987,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 467,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10959,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

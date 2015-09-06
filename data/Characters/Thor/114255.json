@@ -2,10 +2,10 @@
  "characterID": 114255,
  "characterClassID": 7,
  "raceID": 0,
- "position": 223,
- "rankingPositionChange": 0,
- "gloryPoint": 82651,
- "gloryPointChange": 154,
+ "position": 224,
+ "rankingPositionChange": -1,
+ "gloryPoint": 82602,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Chokini",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 82651,
    "gloryPointChange": 154,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 224,
+   "rankingPositionChange": -1,
+   "gloryPoint": 82602,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

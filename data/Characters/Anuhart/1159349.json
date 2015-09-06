@@ -2,9 +2,9 @@
  "characterID": 1159349,
  "characterClassID": 10,
  "raceID": 1,
- "position": 774,
- "rankingPositionChange": 1,
- "gloryPoint": 3337,
+ "position": 778,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3330,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Temnay",
@@ -270,6 +270,14 @@
    "position": 774,
    "rankingPositionChange": 1,
    "gloryPoint": 3337,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 778,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3330,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 975599,
  "characterClassID": 4,
  "raceID": 0,
- "position": 705,
- "rankingPositionChange": -1,
- "gloryPoint": 3397,
+ "position": 704,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3390,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Akasie",
@@ -272,6 +272,14 @@
    "position": 705,
    "rankingPositionChange": -1,
    "gloryPoint": 3397,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 704,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3390,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

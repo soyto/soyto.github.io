@@ -2,10 +2,10 @@
  "characterID": 249665,
  "characterClassID": 1,
  "raceID": 1,
- "position": 159,
- "rankingPositionChange": 2,
- "gloryPoint": 53667,
- "gloryPointChange": 80,
+ "position": 161,
+ "rankingPositionChange": -2,
+ "gloryPoint": 53618,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aoe",
  "guildName": "OMG KITTENS MEW MEW",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 53667,
    "gloryPointChange": 80,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 161,
+   "rankingPositionChange": -2,
+   "gloryPoint": 53618,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

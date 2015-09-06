@@ -2,10 +2,10 @@
  "characterID": 951414,
  "characterClassID": 7,
  "raceID": 0,
- "position": 902,
- "rankingPositionChange": 0,
- "gloryPoint": 11679,
- "gloryPointChange": 67,
+ "position": 903,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11672,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mezzy",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 11679,
    "gloryPointChange": 67,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 903,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11672,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

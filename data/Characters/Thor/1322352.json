@@ -2,10 +2,10 @@
  "characterID": 1322352,
  "characterClassID": 8,
  "raceID": 0,
- "position": 238,
- "rankingPositionChange": 1,
- "gloryPoint": 76153,
- "gloryPointChange": 201,
+ "position": 240,
+ "rankingPositionChange": -2,
+ "gloryPoint": 76210,
+ "gloryPointChange": 57,
  "soldierRankID": 13,
  "characterName": "Wermouth",
  "guildName": "to Glory",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 76153,
    "gloryPointChange": 201,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 240,
+   "rankingPositionChange": -2,
+   "gloryPoint": 76210,
+   "gloryPointChange": 57,
    "soldierRankID": 13
   }
  ],

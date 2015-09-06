@@ -2,10 +2,10 @@
  "characterID": 746584,
  "characterClassID": 2,
  "raceID": 1,
- "position": 712,
- "rankingPositionChange": 20,
- "gloryPoint": 1349,
- "gloryPointChange": 41,
+ "position": 719,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1342,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Philistia",
  "guildName": "Paradigma",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 20,
    "gloryPoint": 1349,
    "gloryPointChange": 41,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 719,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1342,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

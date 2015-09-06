@@ -2,12 +2,14 @@
  "characterID": 352447,
  "characterClassID": 8,
  "raceID": 1,
- "position": 872,
- "rankingPositionChange": -5,
- "gloryPoint": 10187,
- "gloryPointChange": -7,
+ "position": 874,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10204,
+ "gloryPointChange": 17,
  "soldierRankID": 10,
  "characterName": "Fearboot",
+ "guildName": " SACRED ",
+ "guildID": 2133,
  "status": [
   {
    "date": "2015-08-23T22:00:00.000Z",
@@ -88,6 +90,14 @@
    "gloryPoint": 10187,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 874,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10204,
+   "gloryPointChange": 17,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -99,6 +109,11 @@
  "guilds": [
   {
    "date": "2015-08-23T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": " SACRED ",
+   "guildID": 2133
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 597593,
  "characterClassID": 7,
  "raceID": 1,
- "position": 457,
- "rankingPositionChange": 6,
- "gloryPoint": 10103,
- "gloryPointChange": 225,
+ "position": 456,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10075,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Yanissa",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 10103,
    "gloryPointChange": 225,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10075,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

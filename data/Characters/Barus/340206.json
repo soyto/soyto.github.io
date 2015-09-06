@@ -2,9 +2,9 @@
  "characterID": 340206,
  "characterClassID": 16,
  "raceID": 0,
- "position": 772,
- "rankingPositionChange": -1,
- "gloryPoint": 17121,
+ "position": 771,
+ "rankingPositionChange": 1,
+ "gloryPoint": 17114,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eumnice",
@@ -272,6 +272,14 @@
    "position": 772,
    "rankingPositionChange": -1,
    "gloryPoint": 17121,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 771,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17114,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

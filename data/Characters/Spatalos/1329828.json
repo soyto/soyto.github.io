@@ -2,9 +2,9 @@
  "characterID": 1329828,
  "characterClassID": 16,
  "raceID": 1,
- "position": 264,
- "rankingPositionChange": 0,
- "gloryPoint": 22369,
+ "position": 266,
+ "rankingPositionChange": -2,
+ "gloryPoint": 22320,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Elanee",
@@ -272,6 +272,14 @@
    "position": 264,
    "rankingPositionChange": 0,
    "gloryPoint": 22369,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 266,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22320,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

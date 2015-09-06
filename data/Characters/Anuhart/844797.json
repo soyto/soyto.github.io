@@ -2,14 +2,14 @@
  "characterID": 844797,
  "characterClassID": 10,
  "raceID": 1,
- "position": 385,
- "rankingPositionChange": 3,
- "gloryPoint": 15540,
- "gloryPointChange": -28,
+ "position": 384,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15773,
+ "gloryPointChange": 233,
  "soldierRankID": 12,
  "characterName": "Kaiiidey",
- "guildName": "Super Eguchi Kiwi Club",
- "guildID": 21086,
+ "guildName": "         ",
+ "guildID": 20087,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 15540,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15773,
+   "gloryPointChange": 233,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -321,6 +329,11 @@
    "date": "2015-08-18T22:00:00.000Z",
    "guildName": "Super Eguchi Kiwi Club",
    "guildID": 21086
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "         ",
+   "guildID": 20087
   }
  ]
 }

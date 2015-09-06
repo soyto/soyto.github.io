@@ -2,14 +2,14 @@
  "characterID": 51214,
  "characterClassID": 14,
  "raceID": 1,
- "position": 119,
- "rankingPositionChange": 0,
- "gloryPoint": 69220,
- "gloryPointChange": 25,
+ "position": 120,
+ "rankingPositionChange": -1,
+ "gloryPoint": 69413,
+ "gloryPointChange": 193,
  "soldierRankID": 13,
  "characterName": "Kingbradley",
- "guildName": "N o S",
- "guildID": 1770,
+ "guildName": "SouL  TeaR",
+ "guildID": 1039,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 69220,
    "gloryPointChange": 25,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 120,
+   "rankingPositionChange": -1,
+   "gloryPoint": 69413,
+   "gloryPointChange": 193,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "N o S",
    "guildID": 1770
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "SouL  TeaR",
+   "guildID": 1039
   }
  ]
 }

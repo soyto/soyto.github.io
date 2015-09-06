@@ -2,9 +2,9 @@
  "characterID": 1045296,
  "characterClassID": 16,
  "raceID": 1,
- "position": 175,
- "rankingPositionChange": 0,
- "gloryPoint": 32588,
+ "position": 176,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32539,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Butterflycz",
@@ -272,6 +272,14 @@
    "position": 175,
    "rankingPositionChange": 0,
    "gloryPoint": 32588,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 176,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32539,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

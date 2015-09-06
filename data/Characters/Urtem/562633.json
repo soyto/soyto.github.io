@@ -2,9 +2,9 @@
  "characterID": 562633,
  "characterClassID": 4,
  "raceID": 0,
- "position": 182,
- "rankingPositionChange": 0,
- "gloryPoint": 78240,
+ "position": 184,
+ "rankingPositionChange": -2,
+ "gloryPoint": 78191,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Maeri",
@@ -264,6 +264,14 @@
    "position": 182,
    "rankingPositionChange": 0,
    "gloryPoint": 78240,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 184,
+   "rankingPositionChange": -2,
+   "gloryPoint": 78191,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

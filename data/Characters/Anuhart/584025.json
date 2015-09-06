@@ -2,9 +2,9 @@
  "characterID": 584025,
  "characterClassID": 11,
  "raceID": 1,
- "position": 400,
- "rankingPositionChange": 3,
- "gloryPoint": 13817,
+ "position": 404,
+ "rankingPositionChange": -4,
+ "gloryPoint": 13789,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kizumi",
@@ -256,6 +256,14 @@
    "position": 400,
    "rankingPositionChange": 3,
    "gloryPoint": 13817,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 404,
+   "rankingPositionChange": -4,
+   "gloryPoint": 13789,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

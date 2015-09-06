@@ -2,9 +2,9 @@
  "characterID": 1102776,
  "characterClassID": 16,
  "raceID": 1,
- "position": 753,
- "rankingPositionChange": 1,
- "gloryPoint": 4868,
+ "position": 755,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4861,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wungabunga",
@@ -272,6 +272,14 @@
    "position": 753,
    "rankingPositionChange": 1,
    "gloryPoint": 4868,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 755,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4861,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

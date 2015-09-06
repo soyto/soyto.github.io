@@ -2,9 +2,9 @@
  "characterID": 878659,
  "characterClassID": 1,
  "raceID": 1,
- "position": 430,
- "rankingPositionChange": 2,
- "gloryPoint": 12125,
+ "position": 435,
+ "rankingPositionChange": -5,
+ "gloryPoint": 12097,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Contest",
@@ -272,6 +272,14 @@
    "position": 430,
    "rankingPositionChange": 2,
    "gloryPoint": 12125,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 435,
+   "rankingPositionChange": -5,
+   "gloryPoint": 12097,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

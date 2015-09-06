@@ -2,9 +2,9 @@
  "characterID": 1325917,
  "characterClassID": 11,
  "raceID": 0,
- "position": 731,
- "rankingPositionChange": -6,
- "gloryPoint": 13149,
+ "position": 730,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13142,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Begarso",
@@ -272,6 +272,14 @@
    "position": 731,
    "rankingPositionChange": -6,
    "gloryPoint": 13149,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 730,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13142,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

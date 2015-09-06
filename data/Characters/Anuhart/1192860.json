@@ -2,9 +2,9 @@
  "characterID": 1192860,
  "characterClassID": 4,
  "raceID": 1,
- "position": 791,
- "rankingPositionChange": 1,
- "gloryPoint": 3043,
+ "position": 795,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3036,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mrsfancey",
@@ -216,6 +216,14 @@
    "position": 791,
    "rankingPositionChange": 1,
    "gloryPoint": 3043,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 795,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3036,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

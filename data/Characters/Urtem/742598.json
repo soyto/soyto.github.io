@@ -2,10 +2,10 @@
  "characterID": 742598,
  "characterClassID": 1,
  "raceID": 1,
- "position": 923,
- "rankingPositionChange": 1,
- "gloryPoint": 7723,
- "gloryPointChange": 8,
+ "position": 924,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7716,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Klooe",
  "guildName": "LeeCh mY PoneY",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7723,
    "gloryPointChange": 8,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 924,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7716,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

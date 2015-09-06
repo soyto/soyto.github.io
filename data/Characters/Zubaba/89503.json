@@ -2,10 +2,10 @@
  "characterID": 89503,
  "characterClassID": 10,
  "raceID": 0,
- "position": 271,
- "rankingPositionChange": 0,
- "gloryPoint": 39226,
- "gloryPointChange": 42,
+ "position": 270,
+ "rankingPositionChange": 1,
+ "gloryPoint": 39218,
+ "gloryPointChange": -8,
  "soldierRankID": 13,
  "characterName": "Fixi",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 39226,
    "gloryPointChange": 42,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": 1,
+   "gloryPoint": 39218,
+   "gloryPointChange": -8,
    "soldierRankID": 13
   }
  ],

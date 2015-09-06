@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 150,
- "rankingPositionChange": -1,
- "gloryPoint": 93152,
- "gloryPointChange": 102,
+ "rankingPositionChange": 0,
+ "gloryPoint": 93245,
+ "gloryPointChange": 93,
  "soldierRankID": 13,
  "characterName": "Aeriskisaragi",
  "guildName": "Symphony of Desolation",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 93152,
    "gloryPointChange": 102,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": 0,
+   "gloryPoint": 93245,
+   "gloryPointChange": 93,
    "soldierRankID": 13
   }
  ],

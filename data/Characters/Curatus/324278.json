@@ -2,9 +2,9 @@
  "characterID": 324278,
  "characterClassID": 5,
  "raceID": 1,
- "position": 395,
- "rankingPositionChange": 0,
- "gloryPoint": 16490,
+ "position": 399,
+ "rankingPositionChange": -4,
+ "gloryPoint": 16462,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kitamy",
@@ -272,6 +272,14 @@
    "position": 395,
    "rankingPositionChange": 0,
    "gloryPoint": 16490,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 399,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16462,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

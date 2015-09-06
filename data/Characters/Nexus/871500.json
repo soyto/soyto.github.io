@@ -2,10 +2,10 @@
  "characterID": 871500,
  "characterClassID": 4,
  "raceID": 1,
- "position": 785,
- "rankingPositionChange": 8,
- "gloryPoint": 12933,
- "gloryPointChange": 363,
+ "position": 788,
+ "rankingPositionChange": -3,
+ "gloryPoint": 12926,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Abaldui",
  "guildName": "Divine",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 12933,
    "gloryPointChange": 363,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 788,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12926,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 873710,
  "characterClassID": 14,
  "raceID": 0,
- "position": 149,
- "rankingPositionChange": 0,
- "gloryPoint": 56754,
- "gloryPointChange": 521,
+ "position": 150,
+ "rankingPositionChange": -1,
+ "gloryPoint": 56755,
+ "gloryPointChange": 1,
  "soldierRankID": 13,
  "characterName": "Miyukina",
  "guildName": "Random",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 56754,
    "gloryPointChange": 521,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": -1,
+   "gloryPoint": 56755,
+   "gloryPointChange": 1,
    "soldierRankID": 13
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 219758,
  "characterClassID": 16,
  "raceID": 1,
- "position": 376,
- "rankingPositionChange": 6,
- "gloryPoint": 16578,
- "gloryPointChange": 384,
+ "position": 377,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16550,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Massacre",
- "guildName": "Dark Army",
- "guildID": 6641,
+ "guildName": "T U G R A",
+ "guildID": 5568,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 16578,
    "gloryPointChange": 384,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 377,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16550,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Dark Army",
    "guildID": 6641
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "T U G R A",
+   "guildID": 5568
   }
  ]
 }

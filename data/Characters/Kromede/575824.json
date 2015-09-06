@@ -2,9 +2,9 @@
  "characterID": 575824,
  "characterClassID": 7,
  "raceID": 1,
- "position": 993,
- "rankingPositionChange": 1,
- "gloryPoint": 2876,
+ "position": 997,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2869,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hephaiystos",
@@ -272,6 +272,14 @@
    "position": 993,
    "rankingPositionChange": 1,
    "gloryPoint": 2876,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2869,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 371462,
  "characterClassID": 14,
  "raceID": 0,
- "position": 63,
- "rankingPositionChange": 0,
- "gloryPoint": 92148,
- "gloryPointChange": 303,
+ "position": 64,
+ "rankingPositionChange": -1,
+ "gloryPoint": 92251,
+ "gloryPointChange": 103,
  "soldierRankID": 14,
  "characterName": "Majesteria",
  "guildName": "SONS OF ANARCHY",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 92148,
    "gloryPointChange": 303,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 64,
+   "rankingPositionChange": -1,
+   "gloryPoint": 92251,
+   "gloryPointChange": 103,
    "soldierRankID": 14
   }
  ],

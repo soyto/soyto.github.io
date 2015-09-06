@@ -2,9 +2,9 @@
  "characterID": 584228,
  "characterClassID": 2,
  "raceID": 0,
- "position": 250,
- "rankingPositionChange": 0,
- "gloryPoint": 73953,
+ "position": 252,
+ "rankingPositionChange": -2,
+ "gloryPoint": 73904,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Zyari",
@@ -272,6 +272,14 @@
    "position": 250,
    "rankingPositionChange": 0,
    "gloryPoint": 73953,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 252,
+   "rankingPositionChange": -2,
+   "gloryPoint": 73904,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

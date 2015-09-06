@@ -2,9 +2,9 @@
  "characterID": 297317,
  "characterClassID": 2,
  "raceID": 1,
- "position": 999,
- "rankingPositionChange": -2,
- "gloryPoint": 9222,
+ "position": 997,
+ "rankingPositionChange": 2,
+ "gloryPoint": 9215,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Galdibar",
@@ -264,6 +264,14 @@
    "position": 999,
    "rankingPositionChange": -2,
    "gloryPoint": 9222,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9215,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

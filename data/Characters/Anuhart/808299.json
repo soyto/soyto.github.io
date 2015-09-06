@@ -2,9 +2,9 @@
  "characterID": 808299,
  "characterClassID": 8,
  "raceID": 1,
- "position": 814,
- "rankingPositionChange": 1,
- "gloryPoint": 2819,
+ "position": 817,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2812,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xawerlin",
@@ -272,6 +272,14 @@
    "position": 814,
    "rankingPositionChange": 1,
    "gloryPoint": 2819,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2812,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

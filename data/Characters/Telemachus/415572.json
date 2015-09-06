@@ -2,10 +2,10 @@
  "characterID": 415572,
  "characterClassID": 7,
  "raceID": 0,
- "position": 265,
- "rankingPositionChange": 0,
- "gloryPoint": 53652,
- "gloryPointChange": 30,
+ "position": 268,
+ "rankingPositionChange": -3,
+ "gloryPoint": 53603,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tearsdrop",
  "guildName": "Fifth Dawn",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 53652,
    "gloryPointChange": 30,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 268,
+   "rankingPositionChange": -3,
+   "gloryPoint": 53603,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

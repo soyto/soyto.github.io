@@ -2,9 +2,9 @@
  "characterID": 699962,
  "characterClassID": 1,
  "raceID": 1,
- "position": 198,
- "rankingPositionChange": 0,
- "gloryPoint": 32403,
+ "position": 199,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32354,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tippmann",
@@ -272,6 +272,14 @@
    "position": 198,
    "rankingPositionChange": 0,
    "gloryPoint": 32403,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 199,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32354,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

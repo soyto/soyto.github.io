@@ -2,9 +2,9 @@
  "characterID": 884123,
  "characterClassID": 11,
  "raceID": 1,
- "position": 736,
- "rankingPositionChange": 0,
- "gloryPoint": 3727,
+ "position": 741,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3720,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chantika",
@@ -272,6 +272,14 @@
    "position": 736,
    "rankingPositionChange": 0,
    "gloryPoint": 3727,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 741,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3720,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

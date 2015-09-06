@@ -2,10 +2,10 @@
  "characterID": 468484,
  "characterClassID": 7,
  "raceID": 1,
- "position": 669,
- "rankingPositionChange": 8,
- "gloryPoint": 1253,
- "gloryPointChange": 5,
+ "position": 680,
+ "rankingPositionChange": -11,
+ "gloryPoint": 1246,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mat",
  "guildName": "O M E N",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 1253,
    "gloryPointChange": 5,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": -11,
+   "gloryPoint": 1246,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

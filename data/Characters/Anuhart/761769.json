@@ -2,9 +2,9 @@
  "characterID": 761769,
  "characterClassID": 5,
  "raceID": 1,
- "position": 962,
- "rankingPositionChange": 5,
- "gloryPoint": 1706,
+ "position": 967,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1699,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Masterpeps",
@@ -32,6 +32,14 @@
    "position": 962,
    "rankingPositionChange": 5,
    "gloryPoint": 1706,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1699,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 764350,
  "characterClassID": 10,
  "raceID": 0,
- "position": 800,
- "rankingPositionChange": 1,
- "gloryPoint": 7572,
+ "position": 802,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7565,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Briliance",
@@ -270,6 +270,14 @@
    "position": 800,
    "rankingPositionChange": 1,
    "gloryPoint": 7572,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 802,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7565,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

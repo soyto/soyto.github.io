@@ -2,9 +2,9 @@
  "characterID": 87392,
  "characterClassID": 2,
  "raceID": 1,
- "position": 473,
- "rankingPositionChange": 1,
- "gloryPoint": 10656,
+ "position": 474,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10628,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Azaradel",
@@ -184,6 +184,14 @@
    "position": 473,
    "rankingPositionChange": 1,
    "gloryPoint": 10656,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 474,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10628,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

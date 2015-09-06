@@ -2,10 +2,10 @@
  "characterID": 1001394,
  "characterClassID": 14,
  "raceID": 0,
- "position": 762,
- "rankingPositionChange": 1,
- "gloryPoint": 11205,
- "gloryPointChange": 93,
+ "position": 763,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11208,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Sselene",
  "guildName": "ENTAXH",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 11205,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 763,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11208,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1281027,
  "characterClassID": 8,
  "raceID": 1,
- "position": 957,
- "rankingPositionChange": 1,
- "gloryPoint": 3068,
+ "position": 959,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3061,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Missanna",
@@ -272,6 +272,14 @@
    "position": 957,
    "rankingPositionChange": 1,
    "gloryPoint": 3068,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3061,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

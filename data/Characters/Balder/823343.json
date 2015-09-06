@@ -2,9 +2,9 @@
  "characterID": 823343,
  "characterClassID": 16,
  "raceID": 0,
- "position": 178,
- "rankingPositionChange": 0,
- "gloryPoint": 46112,
+ "position": 180,
+ "rankingPositionChange": -2,
+ "gloryPoint": 46063,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ratzefummel",
@@ -272,6 +272,14 @@
    "position": 178,
    "rankingPositionChange": 0,
    "gloryPoint": 46112,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 180,
+   "rankingPositionChange": -2,
+   "gloryPoint": 46063,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

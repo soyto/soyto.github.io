@@ -2,9 +2,9 @@
  "characterID": 1537351,
  "characterClassID": 7,
  "raceID": 0,
- "position": 360,
- "rankingPositionChange": 0,
- "gloryPoint": 46485,
+ "position": 361,
+ "rankingPositionChange": -1,
+ "gloryPoint": 46457,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Feis",
@@ -264,6 +264,14 @@
    "position": 360,
    "rankingPositionChange": 0,
    "gloryPoint": 46485,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 361,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46457,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 205230,
  "characterClassID": 1,
  "raceID": 1,
- "position": 448,
- "rankingPositionChange": 10,
- "gloryPoint": 17826,
- "gloryPointChange": 447,
+ "position": 451,
+ "rankingPositionChange": -3,
+ "gloryPoint": 17798,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Beneke",
  "guildName": "Malkavian",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 17826,
    "gloryPointChange": 447,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 451,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17798,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

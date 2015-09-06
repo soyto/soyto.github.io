@@ -2,10 +2,10 @@
  "characterID": 889133,
  "characterClassID": 10,
  "raceID": 1,
- "position": 392,
- "rankingPositionChange": 4,
- "gloryPoint": 4632,
- "gloryPointChange": 12,
+ "position": 393,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4614,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Asun",
  "guildName": "Surdi Slayer",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 4632,
    "gloryPointChange": 12,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 393,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4614,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

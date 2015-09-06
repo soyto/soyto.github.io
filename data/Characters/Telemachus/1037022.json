@@ -2,10 +2,10 @@
  "characterID": 1037022,
  "characterClassID": 16,
  "raceID": 1,
- "position": 491,
- "rankingPositionChange": 4,
- "gloryPoint": 3453,
- "gloryPointChange": 72,
+ "position": 493,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3425,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Skyweaver",
  "guildName": "You Are Not Alone",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 3453,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 493,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3425,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

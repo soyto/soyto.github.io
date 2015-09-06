@@ -2,9 +2,9 @@
  "characterID": 55327,
  "characterClassID": 8,
  "raceID": 1,
- "position": 729,
- "rankingPositionChange": 2,
- "gloryPoint": 3413,
+ "position": 731,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3406,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rituel",
@@ -270,6 +270,14 @@
    "position": 729,
    "rankingPositionChange": 2,
    "gloryPoint": 3413,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 731,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3406,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

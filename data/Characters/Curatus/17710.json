@@ -2,10 +2,10 @@
  "characterID": 17710,
  "characterClassID": 10,
  "raceID": 0,
- "position": 522,
- "rankingPositionChange": -1,
- "gloryPoint": 27126,
- "gloryPointChange": -11,
+ "position": 521,
+ "rankingPositionChange": 1,
+ "gloryPoint": 27168,
+ "gloryPointChange": 42,
  "soldierRankID": 11,
  "characterName": "Allyson",
  "guildName": " Enigma ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 27126,
    "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 521,
+   "rankingPositionChange": 1,
+   "gloryPoint": 27168,
+   "gloryPointChange": 42,
    "soldierRankID": 11
   }
  ],

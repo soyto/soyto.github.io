@@ -2,9 +2,9 @@
  "characterID": 963112,
  "characterClassID": 16,
  "raceID": 1,
- "position": 822,
- "rankingPositionChange": 3,
- "gloryPoint": 2738,
+ "position": 826,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2731,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Muzikanta",
@@ -256,6 +256,14 @@
    "position": 822,
    "rankingPositionChange": 3,
    "gloryPoint": 2738,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 826,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2731,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1350595,
  "characterClassID": 1,
  "raceID": 1,
- "position": 922,
- "rankingPositionChange": 0,
- "gloryPoint": 7732,
+ "position": 923,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7725,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tehn",
@@ -264,6 +264,14 @@
    "position": 922,
    "rankingPositionChange": 0,
    "gloryPoint": 7732,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 923,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7725,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

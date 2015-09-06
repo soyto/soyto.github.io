@@ -2,9 +2,9 @@
  "characterID": 551671,
  "characterClassID": 4,
  "raceID": 0,
- "position": 483,
- "rankingPositionChange": 1,
- "gloryPoint": 37449,
+ "position": 484,
+ "rankingPositionChange": -1,
+ "gloryPoint": 37421,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Silverine",
@@ -272,6 +272,14 @@
    "position": 483,
    "rankingPositionChange": 1,
    "gloryPoint": 37449,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 484,
+   "rankingPositionChange": -1,
+   "gloryPoint": 37421,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 1573362,
  "characterClassID": 2,
  "raceID": 1,
- "position": 861,
- "rankingPositionChange": 1,
- "gloryPoint": 8830,
+ "position": 862,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8823,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tersekiz",
@@ -270,6 +270,14 @@
    "position": 861,
    "rankingPositionChange": 1,
    "gloryPoint": 8830,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8823,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

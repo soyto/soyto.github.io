@@ -2,10 +2,10 @@
  "characterID": 844356,
  "characterClassID": 5,
  "raceID": 1,
- "position": 164,
- "rankingPositionChange": 1,
- "gloryPoint": 40868,
- "gloryPointChange": 604,
+ "position": 166,
+ "rankingPositionChange": -2,
+ "gloryPoint": 40819,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tucnak",
  "guildName": "Disco",
@@ -225,6 +225,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 40868,
    "gloryPointChange": 604,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 166,
+   "rankingPositionChange": -2,
+   "gloryPoint": 40819,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

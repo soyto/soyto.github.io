@@ -2,9 +2,9 @@
  "characterID": 1049659,
  "characterClassID": 1,
  "raceID": 0,
- "position": 104,
- "rankingPositionChange": 0,
- "gloryPoint": 118572,
+ "position": 106,
+ "rankingPositionChange": -2,
+ "gloryPoint": 118523,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dissconnect",
@@ -272,6 +272,14 @@
    "position": 104,
    "rankingPositionChange": 0,
    "gloryPoint": 118572,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 106,
+   "rankingPositionChange": -2,
+   "gloryPoint": 118523,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

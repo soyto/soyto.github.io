@@ -2,9 +2,9 @@
  "characterID": 272657,
  "characterClassID": 13,
  "raceID": 1,
- "position": 936,
- "rankingPositionChange": 3,
- "gloryPoint": 1323,
+ "position": 942,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1316,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Toisia",
@@ -120,6 +120,14 @@
    "position": 936,
    "rankingPositionChange": 3,
    "gloryPoint": 1323,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1316,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

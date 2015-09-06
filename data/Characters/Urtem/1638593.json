@@ -2,12 +2,14 @@
  "characterID": 1638593,
  "characterClassID": 8,
  "raceID": 1,
- "position": 450,
- "rankingPositionChange": 6,
- "gloryPoint": 21648,
- "gloryPointChange": 484,
+ "position": 451,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21670,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "MizashiVD",
+ "guildName": "Oo FOCUS ME oO",
+ "guildID": 48040,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -264,6 +266,14 @@
    "gloryPoint": 21648,
    "gloryPointChange": 484,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 451,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21670,
+   "gloryPointChange": 22,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -284,6 +294,11 @@
   },
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Oo FOCUS ME oO",
+   "guildID": 48040
   }
  ]
 }

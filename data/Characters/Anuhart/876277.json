@@ -2,9 +2,9 @@
  "characterID": 876277,
  "characterClassID": 10,
  "raceID": 1,
- "position": 675,
- "rankingPositionChange": 2,
- "gloryPoint": 4546,
+ "position": 678,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4532,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nyi",
@@ -272,6 +272,14 @@
    "position": 675,
    "rankingPositionChange": 2,
    "gloryPoint": 4546,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 678,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4532,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

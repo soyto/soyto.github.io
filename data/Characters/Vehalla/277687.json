@@ -2,10 +2,10 @@
  "characterID": 277687,
  "characterClassID": 7,
  "raceID": 1,
- "position": 609,
- "rankingPositionChange": 12,
- "gloryPoint": 1358,
- "gloryPointChange": 5,
+ "position": 611,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1351,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Protoner",
  "guildName": "Dark Devil",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 12,
    "gloryPoint": 1358,
    "gloryPointChange": 5,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1351,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

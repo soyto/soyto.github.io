@@ -2,9 +2,9 @@
  "characterID": 782390,
  "characterClassID": 2,
  "raceID": 0,
- "position": 118,
- "rankingPositionChange": 0,
- "gloryPoint": 111342,
+ "position": 119,
+ "rankingPositionChange": -1,
+ "gloryPoint": 111293,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Powerick",
@@ -272,6 +272,14 @@
    "position": 118,
    "rankingPositionChange": 0,
    "gloryPoint": 111342,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 119,
+   "rankingPositionChange": -1,
+   "gloryPoint": 111293,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

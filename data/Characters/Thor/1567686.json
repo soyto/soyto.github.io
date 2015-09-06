@@ -2,12 +2,14 @@
  "characterID": 1567686,
  "characterClassID": 4,
  "raceID": 0,
- "position": 995,
- "rankingPositionChange": -8,
- "gloryPoint": 13539,
+ "position": 996,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13532,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tallox",
+ "guildName": "  Pink Fluffy Unicorns  ",
+ "guildID": 47961,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -208,6 +210,14 @@
    "gloryPoint": 13539,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13532,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -224,6 +234,11 @@
   },
   {
    "date": "2015-08-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "  Pink Fluffy Unicorns  ",
+   "guildID": 47961
   }
  ]
 }

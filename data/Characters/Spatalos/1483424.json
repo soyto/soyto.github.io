@@ -2,9 +2,9 @@
  "characterID": 1483424,
  "characterClassID": 14,
  "raceID": 0,
- "position": 710,
- "rankingPositionChange": -3,
- "gloryPoint": 14055,
+ "position": 709,
+ "rankingPositionChange": 1,
+ "gloryPoint": 14048,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jetgun",
@@ -272,6 +272,14 @@
    "position": 710,
    "rankingPositionChange": -3,
    "gloryPoint": 14055,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": 1,
+   "gloryPoint": 14048,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 487479,
  "characterClassID": 13,
  "raceID": 1,
- "position": 219,
- "rankingPositionChange": 3,
- "gloryPoint": 2903,
- "gloryPointChange": 86,
+ "position": 220,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2975,
+ "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Grovirux",
  "guildName": "The Valley Of Death",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 2903,
    "gloryPointChange": 86,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2975,
+   "gloryPointChange": 72,
    "soldierRankID": 12
   }
  ],

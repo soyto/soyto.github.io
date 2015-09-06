@@ -2,14 +2,12 @@
  "characterID": 167338,
  "characterClassID": 13,
  "raceID": 1,
- "position": 695,
- "rankingPositionChange": 0,
- "gloryPoint": 6782,
+ "position": 697,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6768,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hildapolaris",
- "guildName": "Greatest Caution",
- "guildID": 5897,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 6782,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 697,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6768,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Greatest Caution",
    "guildID": 5897
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

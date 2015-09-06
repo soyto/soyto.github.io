@@ -2,9 +2,9 @@
  "characterID": 558637,
  "characterClassID": 11,
  "raceID": 1,
- "position": 612,
- "rankingPositionChange": 4,
- "gloryPoint": 2029,
+ "position": 616,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2015,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lyraesel",
@@ -248,6 +248,14 @@
    "position": 612,
    "rankingPositionChange": 4,
    "gloryPoint": 2029,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 616,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2015,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

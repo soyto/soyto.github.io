@@ -3,8 +3,8 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 243,
- "rankingPositionChange": 1,
- "gloryPoint": 44550,
+ "rankingPositionChange": 0,
+ "gloryPoint": 44501,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Guifrall",
@@ -254,6 +254,14 @@
    "position": 243,
    "rankingPositionChange": 1,
    "gloryPoint": 44550,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 243,
+   "rankingPositionChange": 0,
+   "gloryPoint": 44501,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

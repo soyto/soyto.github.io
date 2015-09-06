@@ -2,9 +2,9 @@
  "characterID": 217838,
  "characterClassID": 13,
  "raceID": 1,
- "position": 119,
- "rankingPositionChange": 0,
- "gloryPoint": 77986,
+ "position": 120,
+ "rankingPositionChange": -1,
+ "gloryPoint": 77937,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Akame",
@@ -272,6 +272,14 @@
    "position": 119,
    "rankingPositionChange": 0,
    "gloryPoint": 77986,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 120,
+   "rankingPositionChange": -1,
+   "gloryPoint": 77937,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

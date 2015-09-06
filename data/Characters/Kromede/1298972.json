@@ -2,9 +2,9 @@
  "characterID": 1298972,
  "characterClassID": 7,
  "raceID": 1,
- "position": 721,
- "rankingPositionChange": 2,
- "gloryPoint": 5297,
+ "position": 723,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5290,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Revolve",
@@ -272,6 +272,14 @@
    "position": 721,
    "rankingPositionChange": 2,
    "gloryPoint": 5297,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 723,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5290,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

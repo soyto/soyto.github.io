@@ -2,14 +2,12 @@
  "characterID": 1044639,
  "characterClassID": 11,
  "raceID": 1,
- "position": 275,
- "rankingPositionChange": -2,
- "gloryPoint": 14350,
+ "position": 276,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14301,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hvc",
- "guildName": "EMPIRE OF DEATH",
- "guildID": 5766,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -146,6 +144,14 @@
    "gloryPoint": 14350,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 276,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14301,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -159,6 +165,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "EMPIRE OF DEATH",
    "guildID": 5766
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

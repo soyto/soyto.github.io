@@ -2,9 +2,9 @@
  "characterID": 759166,
  "characterClassID": 1,
  "raceID": 1,
- "position": 831,
- "rankingPositionChange": 1,
- "gloryPoint": 4008,
+ "position": 835,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4001,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Miinatox",
@@ -182,6 +182,14 @@
    "position": 831,
    "rankingPositionChange": 1,
    "gloryPoint": 4008,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 835,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4001,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

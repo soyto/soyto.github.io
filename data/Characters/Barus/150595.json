@@ -2,10 +2,10 @@
  "characterID": 150595,
  "characterClassID": 11,
  "raceID": 1,
- "position": 386,
- "rankingPositionChange": 0,
- "gloryPoint": 37768,
- "gloryPointChange": 62,
+ "position": 384,
+ "rankingPositionChange": 2,
+ "gloryPoint": 37750,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Tiktak",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 37768,
    "gloryPointChange": 62,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": 2,
+   "gloryPoint": 37750,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

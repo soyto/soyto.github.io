@@ -2,9 +2,9 @@
  "characterID": 1128647,
  "characterClassID": 14,
  "raceID": 0,
- "position": 95,
- "rankingPositionChange": 0,
- "gloryPoint": 126490,
+ "position": 96,
+ "rankingPositionChange": -1,
+ "gloryPoint": 126383,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Skiii",
@@ -272,6 +272,14 @@
    "position": 95,
    "rankingPositionChange": 0,
    "gloryPoint": 126490,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 96,
+   "rankingPositionChange": -1,
+   "gloryPoint": 126383,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

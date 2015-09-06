@@ -2,9 +2,9 @@
  "characterID": 1429,
  "characterClassID": 7,
  "raceID": 1,
- "position": 724,
- "rankingPositionChange": 2,
- "gloryPoint": 5282,
+ "position": 726,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5275,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Darahten",
@@ -272,6 +272,14 @@
    "position": 724,
    "rankingPositionChange": 2,
    "gloryPoint": 5282,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 726,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5275,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

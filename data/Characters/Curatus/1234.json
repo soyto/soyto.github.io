@@ -2,9 +2,9 @@
  "characterID": 1234,
  "characterClassID": 1,
  "raceID": 1,
- "position": 998,
- "rankingPositionChange": -4,
- "gloryPoint": 2962,
+ "position": 999,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2955,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Exow",
@@ -48,6 +48,14 @@
    "position": 998,
    "rankingPositionChange": -4,
    "gloryPoint": 2962,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2955,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

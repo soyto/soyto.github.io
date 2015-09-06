@@ -2,9 +2,9 @@
  "characterID": 864404,
  "characterClassID": 5,
  "raceID": 1,
- "position": 691,
- "rankingPositionChange": 0,
- "gloryPoint": 5827,
+ "position": 692,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5813,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Iskariel",
@@ -272,6 +272,14 @@
    "position": 691,
    "rankingPositionChange": 0,
    "gloryPoint": 5827,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 692,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5813,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

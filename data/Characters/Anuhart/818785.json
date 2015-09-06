@@ -2,9 +2,9 @@
  "characterID": 818785,
  "characterClassID": 11,
  "raceID": 1,
- "position": 834,
- "rankingPositionChange": 4,
- "gloryPoint": 2533,
+ "position": 841,
+ "rankingPositionChange": -7,
+ "gloryPoint": 2526,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lacrimi",
@@ -272,6 +272,14 @@
    "position": 834,
    "rankingPositionChange": 4,
    "gloryPoint": 2533,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 841,
+   "rankingPositionChange": -7,
+   "gloryPoint": 2526,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

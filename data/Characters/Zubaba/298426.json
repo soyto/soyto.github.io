@@ -2,10 +2,10 @@
  "characterID": 298426,
  "characterClassID": 14,
  "raceID": 0,
- "position": 922,
- "rankingPositionChange": 10,
- "gloryPoint": 3433,
- "gloryPointChange": 96,
+ "position": 926,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3426,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ncyx",
  "guildName": "Be Happy",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 3433,
    "gloryPointChange": 96,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3426,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

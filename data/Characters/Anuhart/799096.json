@@ -2,9 +2,9 @@
  "characterID": 799096,
  "characterClassID": 5,
  "raceID": 1,
- "position": 391,
- "rankingPositionChange": 3,
- "gloryPoint": 14928,
+ "position": 395,
+ "rankingPositionChange": -4,
+ "gloryPoint": 14900,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ironeagle",
@@ -270,6 +270,14 @@
    "position": 391,
    "rankingPositionChange": 3,
    "gloryPoint": 14928,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 395,
+   "rankingPositionChange": -4,
+   "gloryPoint": 14900,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

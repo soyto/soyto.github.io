@@ -2,10 +2,10 @@
  "characterID": 664149,
  "characterClassID": 14,
  "raceID": 1,
- "position": 814,
- "rankingPositionChange": 3,
- "gloryPoint": 8318,
- "gloryPointChange": 68,
+ "position": 816,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8311,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nemari",
  "guildName": "Time Off",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 8318,
    "gloryPointChange": 68,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 816,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8311,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

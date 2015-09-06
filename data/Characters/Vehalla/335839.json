@@ -2,9 +2,9 @@
  "characterID": 335839,
  "characterClassID": 14,
  "raceID": 0,
- "position": 93,
- "rankingPositionChange": 0,
- "gloryPoint": 69086,
+ "position": 97,
+ "rankingPositionChange": -4,
+ "gloryPoint": 68979,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Stadthalter",
@@ -264,6 +264,14 @@
    "position": 93,
    "rankingPositionChange": 0,
    "gloryPoint": 69086,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 97,
+   "rankingPositionChange": -4,
+   "gloryPoint": 68979,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

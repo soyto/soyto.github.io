@@ -2,9 +2,9 @@
  "characterID": 146865,
  "characterClassID": 14,
  "raceID": 1,
- "position": 753,
- "rankingPositionChange": 3,
- "gloryPoint": 3178,
+ "position": 755,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3171,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shindy",
@@ -272,6 +272,14 @@
    "position": 753,
    "rankingPositionChange": 3,
    "gloryPoint": 3178,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 755,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3171,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

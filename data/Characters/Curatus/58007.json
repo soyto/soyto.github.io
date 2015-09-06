@@ -2,10 +2,10 @@
  "characterID": 58007,
  "characterClassID": 8,
  "raceID": 0,
- "position": 59,
- "rankingPositionChange": -1,
- "gloryPoint": 155360,
- "gloryPointChange": 181,
+ "position": 58,
+ "rankingPositionChange": 1,
+ "gloryPoint": 155960,
+ "gloryPointChange": 600,
  "soldierRankID": 14,
  "characterName": "Agility",
  "guildName": "Ascension",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 155360,
    "gloryPointChange": 181,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": 1,
+   "gloryPoint": 155960,
+   "gloryPointChange": 600,
    "soldierRankID": 14
   }
  ],

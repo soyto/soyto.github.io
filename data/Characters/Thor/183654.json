@@ -2,10 +2,10 @@
  "characterID": 183654,
  "characterClassID": 1,
  "raceID": 0,
- "position": 619,
- "rankingPositionChange": 0,
- "gloryPoint": 28425,
- "gloryPointChange": 76,
+ "position": 621,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28411,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Tanzteufel",
  "guildName": "SchildkroeteLite",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 28425,
    "gloryPointChange": 76,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28411,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1101999,
  "characterClassID": 13,
  "raceID": 1,
- "position": 419,
- "rankingPositionChange": 1,
- "gloryPoint": 13207,
- "gloryPointChange": 72,
+ "position": 420,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13179,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Flooocomookie",
  "guildName": "Shades of Phoenix",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13207,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 420,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13179,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

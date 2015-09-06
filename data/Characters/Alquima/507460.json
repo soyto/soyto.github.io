@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 743,
- "rankingPositionChange": 2,
- "gloryPoint": 9922,
- "gloryPointChange": 93,
+ "rankingPositionChange": 0,
+ "gloryPoint": 9915,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zeneris",
  "guildName": "Destinados",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 9922,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 743,
+   "rankingPositionChange": 0,
+   "gloryPoint": 9915,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

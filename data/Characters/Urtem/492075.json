@@ -2,9 +2,9 @@
  "characterID": 492075,
  "characterClassID": 4,
  "raceID": 0,
- "position": 903,
- "rankingPositionChange": 1,
- "gloryPoint": 15475,
+ "position": 904,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15468,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jaweed",
@@ -272,6 +272,14 @@
    "position": 903,
    "rankingPositionChange": 1,
    "gloryPoint": 15475,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 904,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15468,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

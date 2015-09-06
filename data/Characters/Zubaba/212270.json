@@ -2,9 +2,9 @@
  "characterID": 212270,
  "characterClassID": 16,
  "raceID": 0,
- "position": 789,
- "rankingPositionChange": 2,
- "gloryPoint": 5590,
+ "position": 792,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5583,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kirritokun",
@@ -270,6 +270,14 @@
    "position": 789,
    "rankingPositionChange": 2,
    "gloryPoint": 5590,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 792,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5583,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

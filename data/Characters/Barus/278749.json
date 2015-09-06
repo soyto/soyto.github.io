@@ -2,9 +2,9 @@
  "characterID": 278749,
  "characterClassID": 7,
  "raceID": 0,
- "position": 624,
- "rankingPositionChange": 0,
- "gloryPoint": 22154,
+ "position": 625,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22140,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Keinomenn",
@@ -272,6 +272,14 @@
    "position": 624,
    "rankingPositionChange": 0,
    "gloryPoint": 22154,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 625,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22140,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

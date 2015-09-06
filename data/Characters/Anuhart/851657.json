@@ -2,9 +2,9 @@
  "characterID": 851657,
  "characterClassID": 16,
  "raceID": 1,
- "position": 795,
- "rankingPositionChange": 2,
- "gloryPoint": 2987,
+ "position": 799,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2980,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chagrin",
@@ -272,6 +272,14 @@
    "position": 795,
    "rankingPositionChange": 2,
    "gloryPoint": 2987,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 799,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2980,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

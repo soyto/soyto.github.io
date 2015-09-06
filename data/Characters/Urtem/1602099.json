@@ -2,10 +2,10 @@
  "characterID": 1602099,
  "characterClassID": 11,
  "raceID": 0,
- "position": 287,
- "rankingPositionChange": 0,
- "gloryPoint": 58529,
- "gloryPointChange": -31,
+ "position": 288,
+ "rankingPositionChange": -1,
+ "gloryPoint": 58580,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Jerow",
  "guildName": "Garbage Collector",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 58529,
    "gloryPointChange": -31,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 288,
+   "rankingPositionChange": -1,
+   "gloryPoint": 58580,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

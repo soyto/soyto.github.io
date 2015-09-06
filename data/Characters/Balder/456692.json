@@ -2,14 +2,14 @@
  "characterID": 456692,
  "characterClassID": 11,
  "raceID": 0,
- "position": 508,
- "rankingPositionChange": -2,
- "gloryPoint": 6897,
+ "position": 504,
+ "rankingPositionChange": 4,
+ "gloryPoint": 6883,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zofia",
- "guildName": " Bis einer weint ",
- "guildID": 13141,
+ "guildName": "Unfading",
+ "guildID": 20607,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,6 +266,14 @@
    "gloryPoint": 6897,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 504,
+   "rankingPositionChange": 4,
+   "gloryPoint": 6883,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -279,6 +287,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Bis einer weint ",
    "guildID": 13141
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Unfading",
+   "guildID": 20607
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 1184059,
  "characterClassID": 13,
  "raceID": 1,
- "position": 778,
- "rankingPositionChange": 8,
- "gloryPoint": 3258,
- "gloryPointChange": 43,
+ "position": 779,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3311,
+ "gloryPointChange": 53,
  "soldierRankID": 10,
  "characterName": "Dynamus",
  "guildName": "Exiled Riders",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 3258,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 779,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3311,
+   "gloryPointChange": 53,
    "soldierRankID": 10
   }
  ],

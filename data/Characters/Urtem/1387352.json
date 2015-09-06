@@ -2,10 +2,10 @@
  "characterID": 1387352,
  "characterClassID": 14,
  "raceID": 0,
- "position": 195,
- "rankingPositionChange": 6,
- "gloryPoint": 75732,
- "gloryPointChange": 664,
+ "position": 196,
+ "rankingPositionChange": -1,
+ "gloryPoint": 75983,
+ "gloryPointChange": 251,
  "soldierRankID": 13,
  "characterName": "Nishio",
  "guildName": "SECTEUR NORD",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 75732,
    "gloryPointChange": 664,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": -1,
+   "gloryPoint": 75983,
+   "gloryPointChange": 251,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 204719,
  "characterClassID": 1,
  "raceID": 1,
- "position": 859,
- "rankingPositionChange": 3,
- "gloryPoint": 1931,
+ "position": 863,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1924,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Agit",
@@ -272,6 +272,14 @@
    "position": 859,
    "rankingPositionChange": 3,
    "gloryPoint": 1931,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 863,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1924,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

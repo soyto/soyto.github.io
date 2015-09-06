@@ -2,9 +2,9 @@
  "characterID": 447005,
  "characterClassID": 2,
  "raceID": 0,
- "position": 863,
- "rankingPositionChange": 1,
- "gloryPoint": 12430,
+ "position": 864,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12423,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Milto",
@@ -272,6 +272,14 @@
    "position": 863,
    "rankingPositionChange": 1,
    "gloryPoint": 12430,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 864,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12423,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

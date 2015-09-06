@@ -2,9 +2,9 @@
  "characterID": 178063,
  "characterClassID": 8,
  "raceID": 1,
- "position": 898,
- "rankingPositionChange": 1,
- "gloryPoint": 1540,
+ "position": 902,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1533,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Spiritmasters",
@@ -272,6 +272,14 @@
    "position": 898,
    "rankingPositionChange": 1,
    "gloryPoint": 1540,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 902,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1533,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

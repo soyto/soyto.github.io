@@ -2,12 +2,14 @@
  "characterID": 461543,
  "characterClassID": 8,
  "raceID": 1,
- "position": 842,
- "rankingPositionChange": -1,
- "gloryPoint": 6417,
- "gloryPointChange": -4,
+ "position": 840,
+ "rankingPositionChange": 2,
+ "gloryPoint": 6510,
+ "gloryPointChange": 93,
  "soldierRankID": 10,
  "characterName": "Vcs",
+ "guildName": "Pret",
+ "guildID": 44143,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 6417,
    "gloryPointChange": -4,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": 2,
+   "gloryPoint": 6510,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Pret",
+   "guildID": 44143
   }
  ]
 }

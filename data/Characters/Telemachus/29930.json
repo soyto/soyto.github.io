@@ -2,9 +2,9 @@
  "characterID": 29930,
  "characterClassID": 7,
  "raceID": 1,
- "position": 606,
- "rankingPositionChange": 4,
- "gloryPoint": 2083,
+ "position": 611,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2069,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Shaylar",
@@ -272,6 +272,14 @@
    "position": 606,
    "rankingPositionChange": 4,
    "gloryPoint": 2083,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2069,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

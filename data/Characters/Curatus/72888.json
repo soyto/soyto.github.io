@@ -2,10 +2,10 @@
  "characterID": 72888,
  "characterClassID": 7,
  "raceID": 0,
- "position": 814,
- "rankingPositionChange": 0,
- "gloryPoint": 12808,
- "gloryPointChange": 48,
+ "position": 816,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12801,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Menzio",
  "guildName": "Ascension",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 12808,
    "gloryPointChange": 48,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 816,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12801,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 145,
- "rankingPositionChange": 1,
- "gloryPoint": 42197,
- "gloryPointChange": 179,
+ "rankingPositionChange": 0,
+ "gloryPoint": 42148,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Badicemann",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 42197,
    "gloryPointChange": 179,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": 0,
+   "gloryPoint": 42148,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 9922,
  "characterClassID": 1,
  "raceID": 1,
- "position": 395,
- "rankingPositionChange": -1,
- "gloryPoint": 36672,
- "gloryPointChange": -28,
+ "position": 394,
+ "rankingPositionChange": 1,
+ "gloryPoint": 36744,
+ "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Bubek",
  "guildName": "You Touch My Tralala",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 36672,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": 1,
+   "gloryPoint": 36744,
+   "gloryPointChange": 72,
    "soldierRankID": 12
   }
  ],

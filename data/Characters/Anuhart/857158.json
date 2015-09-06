@@ -2,9 +2,9 @@
  "characterID": 857158,
  "characterClassID": 16,
  "raceID": 0,
- "position": 141,
- "rankingPositionChange": 0,
- "gloryPoint": 64228,
+ "position": 142,
+ "rankingPositionChange": -1,
+ "gloryPoint": 64179,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Controverse",
@@ -272,6 +272,14 @@
    "position": 141,
    "rankingPositionChange": 0,
    "gloryPoint": 64228,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 142,
+   "rankingPositionChange": -1,
+   "gloryPoint": 64179,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

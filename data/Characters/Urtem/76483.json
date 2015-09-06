@@ -2,9 +2,9 @@
  "characterID": 76483,
  "characterClassID": 10,
  "raceID": 1,
- "position": 720,
- "rankingPositionChange": 0,
- "gloryPoint": 11440,
+ "position": 724,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11433,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Darumbaya",
@@ -256,6 +256,14 @@
    "position": 720,
    "rankingPositionChange": 0,
    "gloryPoint": 11440,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 724,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11433,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

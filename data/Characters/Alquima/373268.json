@@ -2,10 +2,10 @@
  "characterID": 373268,
  "characterClassID": 14,
  "raceID": 0,
- "position": 123,
- "rankingPositionChange": -1,
- "gloryPoint": 95189,
- "gloryPointChange": 250,
+ "position": 122,
+ "rankingPositionChange": 1,
+ "gloryPoint": 95143,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Galerum",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 95189,
    "gloryPointChange": 250,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 122,
+   "rankingPositionChange": 1,
+   "gloryPoint": 95143,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

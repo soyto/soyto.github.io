@@ -2,10 +2,10 @@
  "characterID": 153587,
  "characterClassID": 2,
  "raceID": 1,
- "position": 689,
- "rankingPositionChange": 1,
- "gloryPoint": 10959,
- "gloryPointChange": 16,
+ "position": 690,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11045,
+ "gloryPointChange": 86,
  "soldierRankID": 11,
  "characterName": "Bruyvane",
  "guildName": "Nemesis",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 10959,
    "gloryPointChange": 16,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 690,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11045,
+   "gloryPointChange": 86,
    "soldierRankID": 11
   }
  ],

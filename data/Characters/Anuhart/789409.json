@@ -2,9 +2,9 @@
  "characterID": 789409,
  "characterClassID": 1,
  "raceID": 0,
- "position": 813,
- "rankingPositionChange": -4,
- "gloryPoint": 6436,
+ "position": 809,
+ "rankingPositionChange": 4,
+ "gloryPoint": 6429,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Seshomarw",
@@ -272,6 +272,14 @@
    "position": 813,
    "rankingPositionChange": -4,
    "gloryPoint": 6436,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 809,
+   "rankingPositionChange": 4,
+   "gloryPoint": 6429,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

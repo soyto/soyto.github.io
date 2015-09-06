@@ -2,9 +2,9 @@
  "characterID": 1166,
  "characterClassID": 8,
  "raceID": 0,
- "position": 982,
- "rankingPositionChange": 3,
- "gloryPoint": 2819,
+ "position": 988,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2812,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Uzman",
@@ -272,6 +272,14 @@
    "position": 982,
    "rankingPositionChange": 3,
    "gloryPoint": 2819,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2812,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

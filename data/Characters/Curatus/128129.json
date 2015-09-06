@@ -2,9 +2,9 @@
  "characterID": 128129,
  "characterClassID": 11,
  "raceID": 1,
- "position": 533,
- "rankingPositionChange": 0,
- "gloryPoint": 11245,
+ "position": 536,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11231,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Alkyr",
@@ -272,6 +272,14 @@
    "position": 533,
    "rankingPositionChange": 0,
    "gloryPoint": 11245,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 536,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11231,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

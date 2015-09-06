@@ -2,14 +2,12 @@
  "characterID": 95855,
  "characterClassID": 7,
  "raceID": 0,
- "position": 89,
- "rankingPositionChange": 0,
- "gloryPoint": 144896,
- "gloryPointChange": 0,
+ "position": 88,
+ "rankingPositionChange": 1,
+ "gloryPoint": 144789,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Evilina",
- "guildName": "c ude",
- "guildID": 7288,
  "status": [
   {
    "date": "2015-09-03T22:00:00.000Z",
@@ -17,6 +15,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 144896,
    "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 88,
+   "rankingPositionChange": 1,
+   "gloryPoint": 144789,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],
@@ -31,6 +37,9 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "c ude",
    "guildID": 7288
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

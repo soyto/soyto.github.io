@@ -2,9 +2,9 @@
  "characterID": 945245,
  "characterClassID": 1,
  "raceID": 1,
- "position": 342,
- "rankingPositionChange": -4,
- "gloryPoint": 27704,
+ "position": 341,
+ "rankingPositionChange": 1,
+ "gloryPoint": 27676,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Darksidious",
@@ -192,6 +192,14 @@
    "position": 342,
    "rankingPositionChange": -4,
    "gloryPoint": 27704,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 341,
+   "rankingPositionChange": 1,
+   "gloryPoint": 27676,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

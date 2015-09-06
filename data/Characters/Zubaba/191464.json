@@ -2,9 +2,9 @@
  "characterID": 191464,
  "characterClassID": 14,
  "raceID": 1,
- "position": 837,
- "rankingPositionChange": 0,
- "gloryPoint": 2081,
+ "position": 842,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2074,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lymon",
@@ -270,6 +270,14 @@
    "position": 837,
    "rankingPositionChange": 0,
    "gloryPoint": 2081,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 842,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2074,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

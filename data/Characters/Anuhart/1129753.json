@@ -2,9 +2,9 @@
  "characterID": 1129753,
  "characterClassID": 14,
  "raceID": 1,
- "position": 771,
- "rankingPositionChange": 1,
- "gloryPoint": 3397,
+ "position": 775,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3390,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Uguu",
@@ -80,6 +80,14 @@
    "position": 771,
    "rankingPositionChange": 1,
    "gloryPoint": 3397,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 775,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3390,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

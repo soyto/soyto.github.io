@@ -2,10 +2,10 @@
  "characterID": 211008,
  "characterClassID": 13,
  "raceID": 1,
- "position": 941,
- "rankingPositionChange": 22,
- "gloryPoint": 1315,
- "gloryPointChange": 67,
+ "position": 946,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1308,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Leope",
  "status": [
@@ -255,6 +255,14 @@
    "rankingPositionChange": 22,
    "gloryPoint": 1315,
    "gloryPointChange": 67,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 946,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1308,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

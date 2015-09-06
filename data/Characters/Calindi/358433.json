@@ -2,10 +2,10 @@
  "characterID": 358433,
  "characterClassID": 1,
  "raceID": 0,
- "position": 659,
- "rankingPositionChange": 27,
- "gloryPoint": 2695,
- "gloryPointChange": 236,
+ "position": 661,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2692,
+ "gloryPointChange": -3,
  "soldierRankID": 11,
  "characterName": "Kienez",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 27,
    "gloryPoint": 2695,
    "gloryPointChange": 236,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 661,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2692,
+   "gloryPointChange": -3,
    "soldierRankID": 11
   }
  ],

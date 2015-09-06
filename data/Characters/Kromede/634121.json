@@ -2,9 +2,9 @@
  "characterID": 634121,
  "characterClassID": 1,
  "raceID": 1,
- "position": 727,
- "rankingPositionChange": 2,
- "gloryPoint": 5263,
+ "position": 728,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5256,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gladicus",
@@ -224,6 +224,14 @@
    "position": 727,
    "rankingPositionChange": 2,
    "gloryPoint": 5263,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 728,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5256,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

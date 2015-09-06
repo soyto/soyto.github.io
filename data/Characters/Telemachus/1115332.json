@@ -2,10 +2,10 @@
  "characterID": 1115332,
  "characterClassID": 14,
  "raceID": 1,
- "position": 516,
- "rankingPositionChange": 33,
- "gloryPoint": 3100,
- "gloryPointChange": 286,
+ "position": 519,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3086,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Iras",
  "guildName": "STAHP",
@@ -57,6 +57,14 @@
    "rankingPositionChange": 33,
    "gloryPoint": 3100,
    "gloryPointChange": 286,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 519,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3086,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

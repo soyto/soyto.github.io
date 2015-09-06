@@ -2,10 +2,10 @@
  "characterID": 405343,
  "characterClassID": 16,
  "raceID": 1,
- "position": 434,
- "rankingPositionChange": 2,
- "gloryPoint": 2952,
- "gloryPointChange": 0,
+ "position": 430,
+ "rankingPositionChange": 4,
+ "gloryPoint": 2924,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Xenisa",
  "guildName": "The Fighting Cremmlins",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 2952,
    "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 430,
+   "rankingPositionChange": 4,
+   "gloryPoint": 2924,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

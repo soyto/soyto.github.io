@@ -2,10 +2,10 @@
  "characterID": 76916,
  "characterClassID": 16,
  "raceID": 1,
- "position": 82,
- "rankingPositionChange": 0,
- "gloryPoint": 104048,
- "gloryPointChange": 103,
+ "position": 83,
+ "rankingPositionChange": -1,
+ "gloryPoint": 104477,
+ "gloryPointChange": 429,
  "soldierRankID": 14,
  "characterName": "Pie",
  "guildName": "ANCHOR",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 104048,
    "gloryPointChange": 103,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 83,
+   "rankingPositionChange": -1,
+   "gloryPoint": 104477,
+   "gloryPointChange": 429,
    "soldierRankID": 14
   }
  ],

@@ -2,11 +2,11 @@
  "characterID": 5879,
  "characterClassID": 7,
  "raceID": 0,
- "position": 30,
- "rankingPositionChange": 0,
- "gloryPoint": 195889,
+ "position": 31,
+ "rankingPositionChange": -1,
+ "gloryPoint": 195770,
  "gloryPointChange": -119,
- "soldierRankID": 15,
+ "soldierRankID": 14,
  "characterName": "Lyra",
  "guildName": "Check Ready",
  "guildID": 14588,
@@ -266,6 +266,14 @@
    "gloryPoint": 195889,
    "gloryPointChange": -119,
    "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 31,
+   "rankingPositionChange": -1,
+   "gloryPoint": 195770,
+   "gloryPointChange": -119,
+   "soldierRankID": 14
   }
  ],
  "names": [

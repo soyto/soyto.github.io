@@ -2,12 +2,14 @@
  "characterID": 257681,
  "characterClassID": 14,
  "raceID": 0,
- "position": 671,
- "rankingPositionChange": -2,
- "gloryPoint": 8609,
+ "position": 676,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8595,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sstarr",
+ "guildName": "Friendship",
+ "guildID": 6189,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 8609,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8595,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -283,6 +293,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Friendship",
+   "guildID": 6189
   }
  ]
 }

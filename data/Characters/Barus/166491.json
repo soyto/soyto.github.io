@@ -2,14 +2,14 @@
  "characterID": 166491,
  "characterClassID": 7,
  "raceID": 0,
- "position": 135,
- "rankingPositionChange": -1,
- "gloryPoint": 81239,
- "gloryPointChange": -49,
+ "position": 134,
+ "rankingPositionChange": 1,
+ "gloryPoint": 81290,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Hexell",
- "guildName": "Heart of Anger",
- "guildID": 1467,
+ "guildName": " FAKE ",
+ "guildID": 9951,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 81239,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 134,
+   "rankingPositionChange": 1,
+   "gloryPoint": 81290,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-08-05T22:00:00.000Z",
    "guildName": "Heart of Anger",
    "guildID": 1467
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": " FAKE ",
+   "guildID": 9951
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 595143,
  "characterClassID": 4,
  "raceID": 1,
- "position": 468,
- "rankingPositionChange": -1,
- "gloryPoint": 9592,
+ "position": 467,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9564,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mirv",
@@ -272,6 +272,14 @@
    "position": 468,
    "rankingPositionChange": -1,
    "gloryPoint": 9592,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 467,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9564,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

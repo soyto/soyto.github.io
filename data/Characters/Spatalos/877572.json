@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 784,
- "rankingPositionChange": 11,
- "gloryPoint": 3560,
- "gloryPointChange": 99,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3559,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Degas",
  "guildName": "Lucky Seven",
@@ -49,6 +49,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 3560,
    "gloryPointChange": 99,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 784,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3559,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

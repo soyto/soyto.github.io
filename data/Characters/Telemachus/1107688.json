@@ -2,10 +2,10 @@
  "characterID": 1107688,
  "characterClassID": 11,
  "raceID": 1,
- "position": 680,
- "rankingPositionChange": 30,
- "gloryPoint": 1444,
- "gloryPointChange": 93,
+ "position": 689,
+ "rankingPositionChange": -9,
+ "gloryPoint": 1430,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ren",
  "guildName": "Nyerk",
@@ -121,6 +121,14 @@
    "rankingPositionChange": 30,
    "gloryPoint": 1444,
    "gloryPointChange": 93,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 689,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1430,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

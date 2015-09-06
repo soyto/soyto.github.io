@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 42,
- "rankingPositionChange": -1,
- "gloryPoint": 128339,
- "gloryPointChange": -107,
+ "rankingPositionChange": 0,
+ "gloryPoint": 128595,
+ "gloryPointChange": 256,
  "soldierRankID": 14,
  "characterName": "Regin",
  "guildName": "DarkWish",
@@ -265,6 +265,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 128339,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 42,
+   "rankingPositionChange": 0,
+   "gloryPoint": 128595,
+   "gloryPointChange": 256,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 863259,
  "characterClassID": 14,
  "raceID": 1,
- "position": 864,
- "rankingPositionChange": 4,
- "gloryPoint": 2288,
+ "position": 869,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2281,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Liito",
@@ -270,6 +270,14 @@
    "position": 864,
    "rankingPositionChange": 4,
    "gloryPoint": 2288,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 869,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2281,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 268150,
  "characterClassID": 10,
  "raceID": 1,
- "position": 659,
- "rankingPositionChange": 2,
- "gloryPoint": 4445,
+ "position": 662,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4431,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kabuuss",
@@ -270,6 +270,14 @@
    "position": 659,
    "rankingPositionChange": 2,
    "gloryPoint": 4445,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 662,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4431,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

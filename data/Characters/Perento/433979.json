@@ -2,10 +2,10 @@
  "characterID": 433979,
  "characterClassID": 4,
  "raceID": 1,
- "position": 320,
- "rankingPositionChange": 6,
- "gloryPoint": 21546,
- "gloryPointChange": 797,
+ "position": 321,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21621,
+ "gloryPointChange": 75,
  "soldierRankID": 12,
  "characterName": "Titto",
  "guildName": "Hope",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 21546,
    "gloryPointChange": 797,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 321,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21621,
+   "gloryPointChange": 75,
    "soldierRankID": 12
   }
  ],

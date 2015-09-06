@@ -2,9 +2,9 @@
  "characterID": 705368,
  "characterClassID": 4,
  "raceID": 1,
- "position": 764,
- "rankingPositionChange": 2,
- "gloryPoint": 4724,
+ "position": 766,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4717,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Silvii",
@@ -246,6 +246,14 @@
    "position": 764,
    "rankingPositionChange": 2,
    "gloryPoint": 4724,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 766,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4717,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

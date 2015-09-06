@@ -2,9 +2,9 @@
  "characterID": 310146,
  "characterClassID": 4,
  "raceID": 0,
- "position": 661,
- "rankingPositionChange": 2,
- "gloryPoint": 2649,
+ "position": 665,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2655,
  "gloryPointChange": 6,
  "soldierRankID": 11,
  "characterName": "Beresina",
@@ -240,6 +240,14 @@
    "position": 661,
    "rankingPositionChange": 2,
    "gloryPoint": 2649,
+   "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2655,
    "gloryPointChange": 6,
    "soldierRankID": 11
   }

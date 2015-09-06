@@ -2,10 +2,10 @@
  "characterID": 1522612,
  "characterClassID": 10,
  "raceID": 1,
- "position": 683,
- "rankingPositionChange": 1,
- "gloryPoint": 12290,
- "gloryPointChange": 96,
+ "position": 684,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12304,
+ "gloryPointChange": 14,
  "soldierRankID": 11,
  "characterName": "Shayma",
  "guildName": "Paradizia",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12290,
    "gloryPointChange": 96,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 684,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12304,
+   "gloryPointChange": 14,
    "soldierRankID": 11
   }
  ],

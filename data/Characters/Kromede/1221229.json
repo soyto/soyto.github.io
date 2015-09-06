@@ -2,10 +2,10 @@
  "characterID": 1221229,
  "characterClassID": 16,
  "raceID": 1,
- "position": 741,
- "rankingPositionChange": 0,
- "gloryPoint": 4995,
- "gloryPointChange": -4,
+ "position": 742,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5061,
+ "gloryPointChange": 66,
  "soldierRankID": 10,
  "characterName": "Rhotan",
  "guildName": "Noname Vampires",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 4995,
    "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5061,
+   "gloryPointChange": 66,
    "soldierRankID": 10
   }
  ],

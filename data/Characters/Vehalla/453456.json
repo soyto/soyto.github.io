@@ -2,12 +2,14 @@
  "characterID": 453456,
  "characterClassID": 14,
  "raceID": 1,
- "position": 595,
- "rankingPositionChange": -2,
- "gloryPoint": 1412,
+ "position": 593,
+ "rankingPositionChange": 2,
+ "gloryPoint": 1398,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sonjablade",
+ "guildName": "nur noch cancer",
+ "guildID": 15677,
  "status": [
   {
    "date": "2015-08-27T22:00:00.000Z",
@@ -64,6 +66,14 @@
    "gloryPoint": 1412,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 593,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1398,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -80,6 +90,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "nur noch cancer",
+   "guildID": 15677
   }
  ]
 }

@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 360,
- "rankingPositionChange": -2,
- "gloryPoint": 28372,
- "gloryPointChange": -28,
+ "rankingPositionChange": 0,
+ "gloryPoint": 28404,
+ "gloryPointChange": 32,
  "soldierRankID": 12,
  "characterName": "Dymane",
  "guildName": "Omnia",
@@ -257,6 +257,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 28372,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 360,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28404,
+   "gloryPointChange": 32,
    "soldierRankID": 12
   }
  ],

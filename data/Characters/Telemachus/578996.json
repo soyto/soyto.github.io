@@ -2,10 +2,10 @@
  "characterID": 578996,
  "characterClassID": 1,
  "raceID": 1,
- "position": 263,
- "rankingPositionChange": 1,
- "gloryPoint": 15237,
- "gloryPointChange": 1,
+ "position": 264,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15438,
+ "gloryPointChange": 201,
  "soldierRankID": 13,
  "characterName": "Oacapsha",
  "guildName": "You Are Not Alone",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 15237,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 264,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15438,
+   "gloryPointChange": 201,
    "soldierRankID": 13
   }
  ],

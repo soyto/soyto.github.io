@@ -2,9 +2,9 @@
  "characterID": 37840,
  "characterClassID": 14,
  "raceID": 0,
- "position": 945,
- "rankingPositionChange": 1,
- "gloryPoint": 3202,
+ "position": 949,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3195,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nadien",
@@ -96,6 +96,14 @@
    "position": 945,
    "rankingPositionChange": 1,
    "gloryPoint": 3202,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3195,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

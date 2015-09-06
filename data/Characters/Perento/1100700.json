@@ -2,10 +2,10 @@
  "characterID": 1100700,
  "characterClassID": 14,
  "raceID": 0,
- "position": 678,
- "rankingPositionChange": -2,
- "gloryPoint": 12133,
- "gloryPointChange": -11,
+ "position": 677,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12119,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Xollos",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 12133,
    "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 677,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12119,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

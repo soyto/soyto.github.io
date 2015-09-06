@@ -2,10 +2,10 @@
  "characterID": 304200,
  "characterClassID": 2,
  "raceID": 1,
- "position": 345,
- "rankingPositionChange": 4,
- "gloryPoint": 7191,
- "gloryPointChange": 119,
+ "position": 343,
+ "rankingPositionChange": 2,
+ "gloryPoint": 7175,
+ "gloryPointChange": -16,
  "soldierRankID": 12,
  "characterName": "Cloudstrifeasmo",
  "guildName": "Last Resort",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 7191,
    "gloryPointChange": 119,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 343,
+   "rankingPositionChange": 2,
+   "gloryPoint": 7175,
+   "gloryPointChange": -16,
    "soldierRankID": 12
   }
  ],

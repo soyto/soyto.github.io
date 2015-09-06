@@ -2,9 +2,9 @@
  "characterID": 543921,
  "characterClassID": 7,
  "raceID": 1,
- "position": 392,
- "rankingPositionChange": 0,
- "gloryPoint": 6850,
+ "position": 393,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6822,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Chickmambapt",
@@ -214,6 +214,14 @@
    "position": 392,
    "rankingPositionChange": 0,
    "gloryPoint": 6850,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 393,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6822,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

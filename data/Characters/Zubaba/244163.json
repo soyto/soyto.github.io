@@ -2,10 +2,10 @@
  "characterID": 244163,
  "characterClassID": 4,
  "raceID": 1,
- "position": 669,
- "rankingPositionChange": 8,
- "gloryPoint": 4264,
- "gloryPointChange": 155,
+ "position": 673,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4250,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Erenj",
  "guildName": "Noscateipsum",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 4264,
    "gloryPointChange": 155,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 673,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4250,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

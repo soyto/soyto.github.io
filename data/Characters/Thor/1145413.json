@@ -2,9 +2,9 @@
  "characterID": 1145413,
  "characterClassID": 10,
  "raceID": 0,
- "position": 498,
- "rankingPositionChange": 0,
- "gloryPoint": 36653,
+ "position": 499,
+ "rankingPositionChange": -1,
+ "gloryPoint": 36625,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mooniia",
@@ -272,6 +272,14 @@
    "position": 498,
    "rankingPositionChange": 0,
    "gloryPoint": 36653,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 499,
+   "rankingPositionChange": -1,
+   "gloryPoint": 36625,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

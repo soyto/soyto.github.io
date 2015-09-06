@@ -2,9 +2,9 @@
  "characterID": 870508,
  "characterClassID": 10,
  "raceID": 1,
- "position": 457,
- "rankingPositionChange": 2,
- "gloryPoint": 2709,
+ "position": 459,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2681,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hiroyana",
@@ -256,6 +256,14 @@
    "position": 457,
    "rankingPositionChange": 2,
    "gloryPoint": 2709,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 459,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2681,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

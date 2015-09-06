@@ -2,10 +2,10 @@
  "characterID": 850040,
  "characterClassID": 16,
  "raceID": 1,
- "position": 797,
- "rankingPositionChange": 1,
- "gloryPoint": 12557,
- "gloryPointChange": 93,
+ "position": 800,
+ "rankingPositionChange": -3,
+ "gloryPoint": 12550,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aeroxx",
  "guildName": "A N O N Y M O U S",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12557,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12550,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

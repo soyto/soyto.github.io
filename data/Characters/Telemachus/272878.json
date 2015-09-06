@@ -2,9 +2,9 @@
  "characterID": 272878,
  "characterClassID": 4,
  "raceID": 1,
- "position": 161,
- "rankingPositionChange": 0,
- "gloryPoint": 39311,
+ "position": 162,
+ "rankingPositionChange": -1,
+ "gloryPoint": 39262,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Blitzeruk",
@@ -272,6 +272,14 @@
    "position": 161,
    "rankingPositionChange": 0,
    "gloryPoint": 39311,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": -1,
+   "gloryPoint": 39262,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,14 +2,12 @@
  "characterID": 1235870,
  "characterClassID": 16,
  "raceID": 1,
- "position": 839,
- "rankingPositionChange": -3,
- "gloryPoint": 2396,
- "gloryPointChange": -7,
+ "position": 844,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2382,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Nenty",
- "guildName": "The Legendary Noobs",
- "guildID": 28682,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,6 +264,14 @@
    "gloryPoint": 2396,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 844,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2382,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -279,6 +285,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Legendary Noobs",
    "guildID": 28682
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

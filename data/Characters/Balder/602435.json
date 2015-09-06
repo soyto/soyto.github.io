@@ -2,9 +2,9 @@
  "characterID": 602435,
  "characterClassID": 4,
  "raceID": 0,
- "position": 36,
- "rankingPositionChange": 0,
- "gloryPoint": 172723,
+ "position": 37,
+ "rankingPositionChange": -1,
+ "gloryPoint": 172616,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Littlejon",
@@ -264,6 +264,14 @@
    "position": 36,
    "rankingPositionChange": 0,
    "gloryPoint": 172723,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 37,
+   "rankingPositionChange": -1,
+   "gloryPoint": 172616,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

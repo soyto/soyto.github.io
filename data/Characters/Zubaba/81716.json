@@ -2,10 +2,10 @@
  "characterID": 81716,
  "characterClassID": 7,
  "raceID": 1,
- "position": 128,
- "rankingPositionChange": 2,
- "gloryPoint": 71221,
- "gloryPointChange": 804,
+ "position": 130,
+ "rankingPositionChange": -2,
+ "gloryPoint": 71172,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lesandra",
  "guildName": "V for Vendetta",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 71221,
    "gloryPointChange": 804,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 130,
+   "rankingPositionChange": -2,
+   "gloryPoint": 71172,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

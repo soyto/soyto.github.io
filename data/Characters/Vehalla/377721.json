@@ -3,11 +3,13 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 96,
- "rankingPositionChange": -1,
- "gloryPoint": 60910,
- "gloryPointChange": -107,
+ "rankingPositionChange": 0,
+ "gloryPoint": 60865,
+ "gloryPointChange": -45,
  "soldierRankID": 14,
  "characterName": "Ambicatus",
+ "guildName": "SAW",
+ "guildID": 2702,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 60910,
    "gloryPointChange": -107,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 96,
+   "rankingPositionChange": 0,
+   "gloryPoint": 60865,
+   "gloryPointChange": -45,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "SAW",
+   "guildID": 2702
   }
  ]
 }

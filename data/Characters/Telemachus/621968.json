@@ -2,12 +2,12 @@
  "characterID": 621968,
  "characterClassID": 4,
  "raceID": 0,
- "position": 260,
- "rankingPositionChange": -1,
- "gloryPoint": 55198,
- "gloryPointChange": 15,
+ "position": 259,
+ "rankingPositionChange": 1,
+ "gloryPoint": 55317,
+ "gloryPointChange": 119,
  "soldierRankID": 13,
- "characterName": "Requem",
+ "characterName": "Kenshinrurouni",
  "guildName": "Never Again",
  "guildID": 22032,
  "status": [
@@ -274,12 +274,24 @@
    "gloryPoint": 55198,
    "gloryPointChange": 15,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 259,
+   "rankingPositionChange": 1,
+   "gloryPoint": 55317,
+   "gloryPointChange": 119,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Requem"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Kenshinrurouni"
   }
  ],
  "guilds": [

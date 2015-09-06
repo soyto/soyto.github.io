@@ -2,10 +2,10 @@
  "characterID": 1222980,
  "characterClassID": 16,
  "raceID": 0,
- "position": 943,
- "rankingPositionChange": -3,
- "gloryPoint": 14892,
- "gloryPointChange": -4,
+ "position": 942,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15047,
+ "gloryPointChange": 155,
  "soldierRankID": 10,
  "characterName": "Myticka",
  "guildName": "Stormy Wings",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 14892,
    "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15047,
+   "gloryPointChange": 155,
    "soldierRankID": 10
   }
  ],

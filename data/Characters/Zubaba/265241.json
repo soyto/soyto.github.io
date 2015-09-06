@@ -2,10 +2,10 @@
  "characterID": 265241,
  "characterClassID": 1,
  "raceID": 0,
- "position": 878,
- "rankingPositionChange": 3,
- "gloryPoint": 4002,
- "gloryPointChange": 63,
+ "position": 886,
+ "rankingPositionChange": -8,
+ "gloryPoint": 3995,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gurdogan",
  "guildName": "Turkish People",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 4002,
    "gloryPointChange": 63,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 886,
+   "rankingPositionChange": -8,
+   "gloryPoint": 3995,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

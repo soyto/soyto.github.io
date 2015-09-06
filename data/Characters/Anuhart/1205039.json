@@ -2,9 +2,9 @@
  "characterID": 1205039,
  "characterClassID": 11,
  "raceID": 1,
- "position": 875,
- "rankingPositionChange": 4,
- "gloryPoint": 2227,
+ "position": 881,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2220,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aretuska",
@@ -248,6 +248,14 @@
    "position": 875,
    "rankingPositionChange": 4,
    "gloryPoint": 2227,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 881,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2220,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

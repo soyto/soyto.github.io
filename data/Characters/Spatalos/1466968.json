@@ -3,9 +3,9 @@
  "characterClassID": 16,
  "raceID": 1,
  "position": 222,
- "rankingPositionChange": 1,
- "gloryPoint": 27216,
- "gloryPointChange": 102,
+ "rankingPositionChange": 0,
+ "gloryPoint": 27167,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Svotue",
  "guildName": "Lionhearts",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 27216,
    "gloryPointChange": 102,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": 0,
+   "gloryPoint": 27167,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

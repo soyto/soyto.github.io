@@ -2,9 +2,9 @@
  "characterID": 274138,
  "characterClassID": 10,
  "raceID": 0,
- "position": 695,
- "rankingPositionChange": 0,
- "gloryPoint": 17580,
+ "position": 699,
+ "rankingPositionChange": -4,
+ "gloryPoint": 17566,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Quindecim",
@@ -264,6 +264,14 @@
    "position": 695,
    "rankingPositionChange": 0,
    "gloryPoint": 17580,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 699,
+   "rankingPositionChange": -4,
+   "gloryPoint": 17566,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 36375,
  "characterClassID": 4,
  "raceID": 0,
- "position": 742,
- "rankingPositionChange": 0,
- "gloryPoint": 6761,
+ "position": 747,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6754,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Osmanlibeyi",
@@ -272,6 +272,14 @@
    "position": 742,
    "rankingPositionChange": 0,
    "gloryPoint": 6761,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 747,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6754,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

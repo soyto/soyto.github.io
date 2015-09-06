@@ -2,9 +2,9 @@
  "characterID": 1312157,
  "characterClassID": 4,
  "raceID": 1,
- "position": 338,
- "rankingPositionChange": -2,
- "gloryPoint": 46714,
+ "position": 337,
+ "rankingPositionChange": 1,
+ "gloryPoint": 46686,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Shakurr",
@@ -262,6 +262,14 @@
    "position": 338,
    "rankingPositionChange": -2,
    "gloryPoint": 46714,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 337,
+   "rankingPositionChange": 1,
+   "gloryPoint": 46686,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

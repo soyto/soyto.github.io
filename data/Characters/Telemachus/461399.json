@@ -2,9 +2,9 @@
  "characterID": 461399,
  "characterClassID": 1,
  "raceID": 1,
- "position": 551,
- "rankingPositionChange": 3,
- "gloryPoint": 2765,
+ "position": 553,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2751,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Clex",
@@ -272,6 +272,14 @@
    "position": 551,
    "rankingPositionChange": 3,
    "gloryPoint": 2765,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 553,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2751,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

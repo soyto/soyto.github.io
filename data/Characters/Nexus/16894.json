@@ -2,9 +2,9 @@
  "characterID": 16894,
  "characterClassID": 5,
  "raceID": 1,
- "position": 901,
- "rankingPositionChange": 0,
- "gloryPoint": 9309,
+ "position": 905,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9302,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Grin",
@@ -38,6 +38,14 @@
    "position": 901,
    "rankingPositionChange": 0,
    "gloryPoint": 9309,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 905,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9302,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

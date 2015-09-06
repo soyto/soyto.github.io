@@ -2,9 +2,9 @@
  "characterID": 2355,
  "characterClassID": 10,
  "raceID": 1,
- "position": 93,
- "rankingPositionChange": 0,
- "gloryPoint": 96949,
+ "position": 94,
+ "rankingPositionChange": -1,
+ "gloryPoint": 96842,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Symra",
@@ -272,6 +272,14 @@
    "position": 93,
    "rankingPositionChange": 0,
    "gloryPoint": 96949,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 94,
+   "rankingPositionChange": -1,
+   "gloryPoint": 96842,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

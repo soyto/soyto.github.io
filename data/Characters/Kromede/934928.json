@@ -2,10 +2,10 @@
  "characterID": 934928,
  "characterClassID": 16,
  "raceID": 1,
- "position": 846,
- "rankingPositionChange": 9,
- "gloryPoint": 3879,
- "gloryPointChange": 43,
+ "position": 852,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3882,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Stocksauer",
  "guildName": "The Wild Angels",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 3879,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3882,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

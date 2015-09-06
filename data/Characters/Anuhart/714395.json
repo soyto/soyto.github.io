@@ -3,11 +3,11 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 322,
- "rankingPositionChange": 2,
- "gloryPoint": 23377,
- "gloryPointChange": -28,
+ "rankingPositionChange": 0,
+ "gloryPoint": 23599,
+ "gloryPointChange": 222,
  "soldierRankID": 12,
- "characterName": "Parthenia",
+ "characterName": "Ruxa",
  "guildName": "Exiled Riders",
  "guildID": 9685,
  "status": [
@@ -274,12 +274,24 @@
    "gloryPoint": 23377,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 322,
+   "rankingPositionChange": 0,
+   "gloryPoint": 23599,
+   "gloryPointChange": 222,
+   "soldierRankID": 12
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Parthenia"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Ruxa"
   }
  ],
  "guilds": [

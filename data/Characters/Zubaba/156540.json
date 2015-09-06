@@ -2,10 +2,10 @@
  "characterID": 156540,
  "characterClassID": 5,
  "raceID": 0,
- "position": 573,
- "rankingPositionChange": 2,
- "gloryPoint": 12033,
- "gloryPointChange": 276,
+ "position": 575,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12282,
+ "gloryPointChange": 249,
  "soldierRankID": 11,
  "characterName": "Flydevils",
  "guildName": "The Order",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 12033,
    "gloryPointChange": 276,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12282,
+   "gloryPointChange": 249,
    "soldierRankID": 11
   }
  ],

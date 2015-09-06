@@ -2,9 +2,9 @@
  "characterID": 415328,
  "characterClassID": 11,
  "raceID": 1,
- "position": 783,
- "rankingPositionChange": -1,
- "gloryPoint": 15101,
+ "position": 780,
+ "rankingPositionChange": 3,
+ "gloryPoint": 15094,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pinnacle",
@@ -272,6 +272,14 @@
    "position": 783,
    "rankingPositionChange": -1,
    "gloryPoint": 15101,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 780,
+   "rankingPositionChange": 3,
+   "gloryPoint": 15094,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

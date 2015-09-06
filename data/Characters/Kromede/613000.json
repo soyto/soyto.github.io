@@ -2,9 +2,9 @@
  "characterID": 613000,
  "characterClassID": 10,
  "raceID": 1,
- "position": 892,
- "rankingPositionChange": 1,
- "gloryPoint": 3545,
+ "position": 897,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3538,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cezira",
@@ -272,6 +272,14 @@
    "position": 892,
    "rankingPositionChange": 1,
    "gloryPoint": 3545,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 897,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3538,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

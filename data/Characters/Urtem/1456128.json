@@ -2,12 +2,14 @@
  "characterID": 1456128,
  "characterClassID": 16,
  "raceID": 1,
- "position": 527,
- "rankingPositionChange": -4,
- "gloryPoint": 17310,
- "gloryPointChange": -14,
+ "position": 521,
+ "rankingPositionChange": 6,
+ "gloryPoint": 17488,
+ "gloryPointChange": 178,
  "soldierRankID": 11,
  "characterName": "Cidera",
+ "guildName": "AauiM",
+ "guildID": 48575,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -264,6 +266,14 @@
    "gloryPoint": 17310,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 521,
+   "rankingPositionChange": 6,
+   "gloryPoint": 17488,
+   "gloryPointChange": 178,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-10T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "AauiM",
+   "guildID": 48575
   }
  ]
 }

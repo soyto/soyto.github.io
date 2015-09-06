@@ -2,9 +2,9 @@
  "characterID": 472533,
  "characterClassID": 1,
  "raceID": 1,
- "position": 938,
- "rankingPositionChange": 3,
- "gloryPoint": 3200,
+ "position": 943,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3193,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Visshous",
@@ -80,6 +80,14 @@
    "position": 938,
    "rankingPositionChange": 3,
    "gloryPoint": 3200,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 943,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3193,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

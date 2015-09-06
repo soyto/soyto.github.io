@@ -2,9 +2,9 @@
  "characterID": 55752,
  "characterClassID": 1,
  "raceID": 1,
- "position": 57,
- "rankingPositionChange": 0,
- "gloryPoint": 129587,
+ "position": 58,
+ "rankingPositionChange": -1,
+ "gloryPoint": 129480,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Expertise",
@@ -270,6 +270,14 @@
    "position": 57,
    "rankingPositionChange": 0,
    "gloryPoint": 129587,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": -1,
+   "gloryPoint": 129480,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

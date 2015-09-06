@@ -2,9 +2,9 @@
  "characterID": 200386,
  "characterClassID": 10,
  "raceID": 1,
- "position": 323,
- "rankingPositionChange": -2,
- "gloryPoint": 7967,
+ "position": 321,
+ "rankingPositionChange": 2,
+ "gloryPoint": 7939,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Telmareen",
@@ -272,6 +272,14 @@
    "position": 323,
    "rankingPositionChange": -2,
    "gloryPoint": 7967,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 321,
+   "rankingPositionChange": 2,
+   "gloryPoint": 7939,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 483290,
  "characterClassID": 16,
  "raceID": 1,
- "position": 845,
- "rankingPositionChange": -1,
- "gloryPoint": 13299,
+ "position": 844,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13292,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tuner",
@@ -270,6 +270,14 @@
    "position": 845,
    "rankingPositionChange": -1,
    "gloryPoint": 13299,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 844,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13292,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

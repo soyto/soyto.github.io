@@ -2,10 +2,10 @@
  "characterID": 56545,
  "characterClassID": 1,
  "raceID": 1,
- "position": 711,
- "rankingPositionChange": 1,
- "gloryPoint": 4191,
- "gloryPointChange": 96,
+ "position": 713,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4187,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Bars",
  "guildName": "BandOfBrothers",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 4191,
    "gloryPointChange": 96,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 713,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4187,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

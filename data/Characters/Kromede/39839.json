@@ -2,9 +2,9 @@
  "characterID": 39839,
  "characterClassID": 4,
  "raceID": 1,
- "position": 890,
- "rankingPositionChange": 2,
- "gloryPoint": 3548,
+ "position": 894,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3541,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sayuri",
@@ -272,6 +272,14 @@
    "position": 890,
    "rankingPositionChange": 2,
    "gloryPoint": 3548,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 894,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3541,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

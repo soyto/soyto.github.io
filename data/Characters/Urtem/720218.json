@@ -2,10 +2,10 @@
  "characterID": 720218,
  "characterClassID": 7,
  "raceID": 0,
- "position": 236,
- "rankingPositionChange": 1,
- "gloryPoint": 68599,
- "gloryPointChange": 6,
+ "position": 238,
+ "rankingPositionChange": -2,
+ "gloryPoint": 68550,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Prunelia",
  "guildName": "The VIII Compagny",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 68599,
    "gloryPointChange": 6,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 238,
+   "rankingPositionChange": -2,
+   "gloryPoint": 68550,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

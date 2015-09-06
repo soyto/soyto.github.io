@@ -2,9 +2,9 @@
  "characterID": 1273920,
  "characterClassID": 16,
  "raceID": 1,
- "position": 547,
- "rankingPositionChange": 1,
- "gloryPoint": 8491,
+ "position": 550,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8477,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nyuuuchan",
@@ -272,6 +272,14 @@
    "position": 547,
    "rankingPositionChange": 1,
    "gloryPoint": 8491,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 550,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8477,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

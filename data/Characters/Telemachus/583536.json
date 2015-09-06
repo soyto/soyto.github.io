@@ -2,9 +2,9 @@
  "characterID": 583536,
  "characterClassID": 10,
  "raceID": 1,
- "position": 94,
- "rankingPositionChange": 0,
- "gloryPoint": 63883,
+ "position": 95,
+ "rankingPositionChange": -1,
+ "gloryPoint": 63776,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Kotorimonou",
@@ -272,6 +272,14 @@
    "position": 94,
    "rankingPositionChange": 0,
    "gloryPoint": 63883,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 95,
+   "rankingPositionChange": -1,
+   "gloryPoint": 63776,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

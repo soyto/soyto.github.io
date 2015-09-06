@@ -2,9 +2,9 @@
  "characterID": 56364,
  "characterClassID": 10,
  "raceID": 1,
- "position": 585,
- "rankingPositionChange": 1,
- "gloryPoint": 9550,
+ "position": 590,
+ "rankingPositionChange": -5,
+ "gloryPoint": 9536,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Daeneeryx",
@@ -272,6 +272,14 @@
    "position": 585,
    "rankingPositionChange": 1,
    "gloryPoint": 9550,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 590,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9536,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

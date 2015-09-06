@@ -2,9 +2,9 @@
  "characterID": 748520,
  "characterClassID": 1,
  "raceID": 0,
- "position": 313,
- "rankingPositionChange": -2,
- "gloryPoint": 49659,
+ "position": 312,
+ "rankingPositionChange": 1,
+ "gloryPoint": 49631,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Rickrack",
@@ -272,6 +272,14 @@
    "position": 313,
    "rankingPositionChange": -2,
    "gloryPoint": 49659,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 312,
+   "rankingPositionChange": 1,
+   "gloryPoint": 49631,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

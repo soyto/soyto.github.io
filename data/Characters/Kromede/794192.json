@@ -2,9 +2,9 @@
  "characterID": 794192,
  "characterClassID": 11,
  "raceID": 1,
- "position": 522,
- "rankingPositionChange": 0,
- "gloryPoint": 9057,
+ "position": 523,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9043,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Babyhedgehog",
@@ -264,6 +264,14 @@
    "position": 522,
    "rankingPositionChange": 0,
    "gloryPoint": 9057,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9043,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

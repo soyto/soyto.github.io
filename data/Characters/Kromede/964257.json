@@ -2,9 +2,9 @@
  "characterID": 964257,
  "characterClassID": 1,
  "raceID": 1,
- "position": 455,
- "rankingPositionChange": 1,
- "gloryPoint": 11392,
+ "position": 458,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11364,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Akemicx",
@@ -264,6 +264,14 @@
    "position": 455,
    "rankingPositionChange": 1,
    "gloryPoint": 11392,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 458,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11364,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

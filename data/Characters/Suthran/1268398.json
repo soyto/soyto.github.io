@@ -2,10 +2,10 @@
  "characterID": 1268398,
  "characterClassID": 7,
  "raceID": 0,
- "position": 199,
- "rankingPositionChange": 2,
- "gloryPoint": 73874,
- "gloryPointChange": 236,
+ "position": 200,
+ "rankingPositionChange": -1,
+ "gloryPoint": 73885,
+ "gloryPointChange": 11,
  "soldierRankID": 13,
  "characterName": "Sukana",
  "guildName": "Neo Destiny",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 73874,
    "gloryPointChange": 236,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 200,
+   "rankingPositionChange": -1,
+   "gloryPoint": 73885,
+   "gloryPointChange": 11,
    "soldierRankID": 13
   }
  ],

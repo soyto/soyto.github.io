@@ -2,9 +2,9 @@
  "characterID": 199307,
  "characterClassID": 5,
  "raceID": 0,
- "position": 342,
- "rankingPositionChange": -1,
- "gloryPoint": 44790,
+ "position": 341,
+ "rankingPositionChange": 1,
+ "gloryPoint": 44762,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Clapper",
@@ -272,6 +272,14 @@
    "position": 342,
    "rankingPositionChange": -1,
    "gloryPoint": 44790,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 341,
+   "rankingPositionChange": 1,
+   "gloryPoint": 44762,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

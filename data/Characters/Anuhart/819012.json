@@ -2,9 +2,9 @@
  "characterID": 819012,
  "characterClassID": 4,
  "raceID": 1,
- "position": 604,
- "rankingPositionChange": 1,
- "gloryPoint": 6244,
+ "position": 607,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6230,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Xinxiao",
@@ -158,6 +158,14 @@
    "position": 604,
    "rankingPositionChange": 1,
    "gloryPoint": 6244,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 607,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6230,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

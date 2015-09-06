@@ -2,10 +2,10 @@
  "characterID": 39174,
  "characterClassID": 1,
  "raceID": 1,
- "position": 43,
- "rankingPositionChange": 1,
- "gloryPoint": 187435,
- "gloryPointChange": 1,
+ "position": 44,
+ "rankingPositionChange": -1,
+ "gloryPoint": 187378,
+ "gloryPointChange": -57,
  "soldierRankID": 14,
  "characterName": "Ratzaa",
  "guildName": " Insomnia ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 187435,
    "gloryPointChange": 1,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 44,
+   "rankingPositionChange": -1,
+   "gloryPoint": 187378,
+   "gloryPointChange": -57,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1352558,
  "characterClassID": 16,
  "raceID": 1,
- "position": 583,
- "rankingPositionChange": -1,
- "gloryPoint": 23633,
- "gloryPointChange": -14,
+ "position": 582,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23831,
+ "gloryPointChange": 198,
  "soldierRankID": 11,
  "characterName": "Nekani",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 23633,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 582,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23831,
+   "gloryPointChange": 198,
    "soldierRankID": 11
   }
  ],

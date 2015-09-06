@@ -2,9 +2,9 @@
  "characterID": 580095,
  "characterClassID": 11,
  "raceID": 1,
- "position": 200,
- "rankingPositionChange": 0,
- "gloryPoint": 43502,
+ "position": 202,
+ "rankingPositionChange": -2,
+ "gloryPoint": 43453,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aratar",
@@ -270,6 +270,14 @@
    "position": 200,
    "rankingPositionChange": 0,
    "gloryPoint": 43502,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 202,
+   "rankingPositionChange": -2,
+   "gloryPoint": 43453,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

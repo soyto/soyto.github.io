@@ -2,10 +2,10 @@
  "characterID": 31945,
  "characterClassID": 5,
  "raceID": 1,
- "position": 558,
- "rankingPositionChange": 2,
- "gloryPoint": 23999,
- "gloryPointChange": 420,
+ "position": 559,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24125,
+ "gloryPointChange": 126,
  "soldierRankID": 11,
  "characterName": "Luthesa",
  "guildName": "Scream",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 23999,
    "gloryPointChange": 420,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 559,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24125,
+   "gloryPointChange": 126,
    "soldierRankID": 11
   }
  ],

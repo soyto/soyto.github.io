@@ -2,10 +2,10 @@
  "characterID": 1096018,
  "characterClassID": 16,
  "raceID": 1,
- "position": 553,
- "rankingPositionChange": 4,
- "gloryPoint": 2740,
- "gloryPointChange": -11,
+ "position": 555,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2726,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Poky",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 2740,
    "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 555,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2726,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

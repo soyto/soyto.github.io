@@ -2,9 +2,9 @@
  "characterID": 72287,
  "characterClassID": 7,
  "raceID": 1,
- "position": 336,
- "rankingPositionChange": 2,
- "gloryPoint": 21160,
+ "position": 340,
+ "rankingPositionChange": -4,
+ "gloryPoint": 21132,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Demonya",
@@ -272,6 +272,14 @@
    "position": 336,
    "rankingPositionChange": 2,
    "gloryPoint": 21160,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 340,
+   "rankingPositionChange": -4,
+   "gloryPoint": 21132,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

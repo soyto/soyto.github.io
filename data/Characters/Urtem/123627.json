@@ -3,9 +3,9 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 261,
- "rankingPositionChange": -1,
- "gloryPoint": 42373,
- "gloryPointChange": 263,
+ "rankingPositionChange": 0,
+ "gloryPoint": 42324,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rushtiger",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 42373,
    "gloryPointChange": 263,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": 0,
+   "gloryPoint": 42324,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

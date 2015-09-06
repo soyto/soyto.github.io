@@ -2,10 +2,10 @@
  "characterID": 296819,
  "characterClassID": 13,
  "raceID": 1,
- "position": 550,
- "rankingPositionChange": 8,
- "gloryPoint": 10553,
- "gloryPointChange": 185,
+ "position": 552,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10559,
+ "gloryPointChange": 6,
  "soldierRankID": 11,
  "characterName": "Technologic",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 10553,
    "gloryPointChange": 185,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 552,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10559,
+   "gloryPointChange": 6,
    "soldierRankID": 11
   }
  ],

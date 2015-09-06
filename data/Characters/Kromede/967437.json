@@ -2,9 +2,9 @@
  "characterID": 967437,
  "characterClassID": 11,
  "raceID": 1,
- "position": 524,
- "rankingPositionChange": 0,
- "gloryPoint": 9022,
+ "position": 526,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9008,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Akiki",
@@ -264,6 +264,14 @@
    "position": 524,
    "rankingPositionChange": 0,
    "gloryPoint": 9022,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 526,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9008,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

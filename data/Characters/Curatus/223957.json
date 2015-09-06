@@ -2,9 +2,9 @@
  "characterID": 223957,
  "characterClassID": 1,
  "raceID": 1,
- "position": 268,
- "rankingPositionChange": 0,
- "gloryPoint": 29448,
+ "position": 270,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29399,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Chirco",
@@ -256,6 +256,14 @@
    "position": 268,
    "rankingPositionChange": 0,
    "gloryPoint": 29448,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29399,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

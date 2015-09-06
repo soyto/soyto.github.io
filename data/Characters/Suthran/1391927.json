@@ -2,10 +2,10 @@
  "characterID": 1391927,
  "characterClassID": 1,
  "raceID": 1,
- "position": 373,
- "rankingPositionChange": 1,
- "gloryPoint": 23520,
- "gloryPointChange": 72,
+ "position": 375,
+ "rankingPositionChange": -2,
+ "gloryPoint": 23564,
+ "gloryPointChange": 44,
  "soldierRankID": 12,
  "characterName": "Daxneo",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 23520,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 375,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23564,
+   "gloryPointChange": 44,
    "soldierRankID": 12
   }
  ],

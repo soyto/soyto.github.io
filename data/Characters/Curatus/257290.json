@@ -2,9 +2,9 @@
  "characterID": 257290,
  "characterClassID": 5,
  "raceID": 0,
- "position": 165,
- "rankingPositionChange": 0,
- "gloryPoint": 90159,
+ "position": 167,
+ "rankingPositionChange": -2,
+ "gloryPoint": 90110,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Riiuka",
@@ -272,6 +272,14 @@
    "position": 165,
    "rankingPositionChange": 0,
    "gloryPoint": 90159,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 167,
+   "rankingPositionChange": -2,
+   "gloryPoint": 90110,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

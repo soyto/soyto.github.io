@@ -2,12 +2,14 @@
  "characterID": 207625,
  "characterClassID": 10,
  "raceID": 0,
- "position": 504,
- "rankingPositionChange": -1,
- "gloryPoint": 14721,
+ "position": 509,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14707,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nativitiy",
+ "guildName": "LiWA",
+ "guildID": 6900,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 14721,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 509,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14707,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "LiWA",
+   "guildID": 6900
   }
  ]
 }

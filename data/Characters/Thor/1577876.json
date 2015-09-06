@@ -2,12 +2,14 @@
  "characterID": 1577876,
  "characterClassID": 11,
  "raceID": 1,
- "position": 870,
- "rankingPositionChange": 6,
- "gloryPoint": 13233,
- "gloryPointChange": 205,
+ "position": 867,
+ "rankingPositionChange": 3,
+ "gloryPoint": 13276,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Yakuuuui",
+ "guildName": "QQ n eZ",
+ "guildID": 45148,
  "status": [
   {
    "date": "2015-09-02T22:00:00.000Z",
@@ -24,6 +26,14 @@
    "gloryPoint": 13233,
    "gloryPointChange": 205,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 867,
+   "rankingPositionChange": 3,
+   "gloryPoint": 13276,
+   "gloryPointChange": 43,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -35,6 +45,11 @@
  "guilds": [
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "QQ n eZ",
+   "guildID": 45148
   }
  ]
 }

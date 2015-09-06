@@ -2,10 +2,10 @@
  "characterID": 1296612,
  "characterClassID": 1,
  "raceID": 0,
- "position": 109,
- "rankingPositionChange": 1,
- "gloryPoint": 119430,
- "gloryPointChange": 579,
+ "position": 110,
+ "rankingPositionChange": -1,
+ "gloryPoint": 119611,
+ "gloryPointChange": 181,
  "soldierRankID": 13,
  "characterName": "Flasssh",
  "guildName": "We are Cats",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 119430,
    "gloryPointChange": 579,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 110,
+   "rankingPositionChange": -1,
+   "gloryPoint": 119611,
+   "gloryPointChange": 181,
    "soldierRankID": 13
   }
  ],

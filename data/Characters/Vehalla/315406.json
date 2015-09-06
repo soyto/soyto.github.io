@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 125,
- "rankingPositionChange": 4,
- "gloryPoint": 52204,
- "gloryPointChange": 776,
+ "rankingPositionChange": 0,
+ "gloryPoint": 52155,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Krio",
  "guildName": "Praehistorischer Lachsack",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 52204,
    "gloryPointChange": 776,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 125,
+   "rankingPositionChange": 0,
+   "gloryPoint": 52155,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

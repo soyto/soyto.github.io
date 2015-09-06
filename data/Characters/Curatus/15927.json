@@ -2,14 +2,12 @@
  "characterID": 15927,
  "characterClassID": 1,
  "raceID": 0,
- "position": 836,
- "rankingPositionChange": -4,
- "gloryPoint": 12093,
+ "position": 838,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12086,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Phantasio",
- "guildName": "One Man Army",
- "guildID": 3898,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 12093,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 838,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12086,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "One Man Army",
    "guildID": 3898
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 207566,
  "characterClassID": 4,
  "raceID": 0,
- "position": 665,
- "rankingPositionChange": -1,
- "gloryPoint": 18855,
+ "position": 664,
+ "rankingPositionChange": 1,
+ "gloryPoint": 18841,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mahto",
@@ -270,6 +270,14 @@
    "position": 665,
    "rankingPositionChange": -1,
    "gloryPoint": 18855,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 664,
+   "rankingPositionChange": 1,
+   "gloryPoint": 18841,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

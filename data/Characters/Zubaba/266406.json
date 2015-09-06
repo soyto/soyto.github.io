@@ -2,9 +2,9 @@
  "characterID": 266406,
  "characterClassID": 13,
  "raceID": 0,
- "position": 920,
- "rankingPositionChange": 1,
- "gloryPoint": 3457,
+ "position": 924,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3450,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mecanica",
@@ -272,6 +272,14 @@
    "position": 920,
    "rankingPositionChange": 1,
    "gloryPoint": 3457,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 924,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3450,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

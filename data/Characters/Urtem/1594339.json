@@ -2,9 +2,9 @@
  "characterID": 1594339,
  "characterClassID": 7,
  "raceID": 1,
- "position": 896,
- "rankingPositionChange": 1,
- "gloryPoint": 8196,
+ "position": 897,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8189,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Phenno",
@@ -270,6 +270,14 @@
    "position": 896,
    "rankingPositionChange": 1,
    "gloryPoint": 8196,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 897,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8189,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

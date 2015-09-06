@@ -2,9 +2,9 @@
  "characterID": 408064,
  "characterClassID": 8,
  "raceID": 1,
- "position": 131,
- "rankingPositionChange": 0,
- "gloryPoint": 45813,
+ "position": 132,
+ "rankingPositionChange": -1,
+ "gloryPoint": 45764,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hallo",
@@ -272,6 +272,14 @@
    "position": 131,
    "rankingPositionChange": 0,
    "gloryPoint": 45813,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -1,
+   "gloryPoint": 45764,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 70075,
  "characterClassID": 2,
  "raceID": 1,
- "position": 37,
- "rankingPositionChange": 0,
- "gloryPoint": 60080,
- "gloryPointChange": 118,
+ "position": 38,
+ "rankingPositionChange": -1,
+ "gloryPoint": 59973,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Stenn",
  "guildName": "Cursed",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 60080,
    "gloryPointChange": 118,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 38,
+   "rankingPositionChange": -1,
+   "gloryPoint": 59973,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

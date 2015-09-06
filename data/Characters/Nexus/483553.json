@@ -2,9 +2,9 @@
  "characterID": 483553,
  "characterClassID": 1,
  "raceID": 0,
- "position": 928,
- "rankingPositionChange": 1,
- "gloryPoint": 5146,
+ "position": 931,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5139,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Milijano",
@@ -272,6 +272,14 @@
    "position": 928,
    "rankingPositionChange": 1,
    "gloryPoint": 5146,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 931,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5139,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

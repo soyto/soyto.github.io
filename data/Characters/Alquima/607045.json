@@ -2,12 +2,14 @@
  "characterID": 607045,
  "characterClassID": 5,
  "raceID": 0,
- "position": 171,
- "rankingPositionChange": -2,
- "gloryPoint": 69871,
- "gloryPointChange": -40,
+ "position": 168,
+ "rankingPositionChange": 3,
+ "gloryPoint": 69870,
+ "gloryPointChange": -1,
  "soldierRankID": 13,
  "characterName": "Lucio",
+ "guildName": "IX Legion",
+ "guildID": 10869,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -96,6 +98,14 @@
    "gloryPoint": 69871,
    "gloryPointChange": -40,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 168,
+   "rankingPositionChange": 3,
+   "gloryPoint": 69870,
+   "gloryPointChange": -1,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -115,6 +125,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "IX Legion",
+   "guildID": 10869
   }
  ]
 }

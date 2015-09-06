@@ -2,10 +2,10 @@
  "characterID": 893371,
  "characterClassID": 10,
  "raceID": 1,
- "position": 549,
- "rankingPositionChange": 6,
- "gloryPoint": 7901,
- "gloryPointChange": 231,
+ "position": 551,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7897,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Dushzelovka",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 7901,
    "gloryPointChange": 231,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 551,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7897,
+   "gloryPointChange": -4,
    "soldierRankID": 11
   }
  ],

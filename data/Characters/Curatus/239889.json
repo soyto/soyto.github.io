@@ -2,9 +2,9 @@
  "characterID": 239889,
  "characterClassID": 5,
  "raceID": 1,
- "position": 652,
- "rankingPositionChange": 1,
- "gloryPoint": 7790,
+ "position": 653,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7776,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Suomy",
@@ -272,6 +272,14 @@
    "position": 652,
    "rankingPositionChange": 1,
    "gloryPoint": 7790,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7776,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

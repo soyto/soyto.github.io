@@ -2,10 +2,10 @@
  "characterID": 431836,
  "characterClassID": 11,
  "raceID": 0,
- "position": 104,
- "rankingPositionChange": 1,
- "gloryPoint": 145726,
- "gloryPointChange": 287,
+ "position": 105,
+ "rankingPositionChange": -1,
+ "gloryPoint": 145827,
+ "gloryPointChange": 101,
  "soldierRankID": 13,
  "characterName": "Strap",
  "guildName": "No Engrish Me Korea",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 145726,
    "gloryPointChange": 287,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": -1,
+   "gloryPoint": 145827,
+   "gloryPointChange": 101,
    "soldierRankID": 13
   }
  ],

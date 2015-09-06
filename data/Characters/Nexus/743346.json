@@ -2,9 +2,9 @@
  "characterID": 743346,
  "characterClassID": 14,
  "raceID": 0,
- "position": 568,
- "rankingPositionChange": 0,
- "gloryPoint": 14097,
+ "position": 571,
+ "rankingPositionChange": -3,
+ "gloryPoint": 14083,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Misiax",
@@ -264,6 +264,14 @@
    "position": 568,
    "rankingPositionChange": 0,
    "gloryPoint": 14097,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 571,
+   "rankingPositionChange": -3,
+   "gloryPoint": 14083,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

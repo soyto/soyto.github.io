@@ -2,10 +2,10 @@
  "characterID": 1345743,
  "characterClassID": 16,
  "raceID": 1,
- "position": 171,
- "rankingPositionChange": 1,
- "gloryPoint": 66029,
- "gloryPointChange": 254,
+ "position": 172,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65998,
+ "gloryPointChange": -31,
  "soldierRankID": 13,
  "characterName": "Cuiii",
  "guildName": "Storm",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 66029,
    "gloryPointChange": 254,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 172,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65998,
+   "gloryPointChange": -31,
    "soldierRankID": 13
   }
  ],

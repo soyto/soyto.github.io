@@ -2,14 +2,14 @@
  "characterID": 573582,
  "characterClassID": 4,
  "raceID": 0,
- "position": 320,
- "rankingPositionChange": 0,
- "gloryPoint": 17915,
- "gloryPointChange": 353,
+ "position": 305,
+ "rankingPositionChange": 15,
+ "gloryPoint": 18461,
+ "gloryPointChange": 546,
  "soldierRankID": 12,
  "characterName": "Henai",
- "guildName": "Savage Spirit",
- "guildID": 13827,
+ "guildName": "Frozen Moon",
+ "guildID": 6478,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 17915,
    "gloryPointChange": 353,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": 15,
+   "gloryPoint": 18461,
+   "gloryPointChange": 546,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Frozen Moon",
+   "guildID": 6478
   }
  ]
 }

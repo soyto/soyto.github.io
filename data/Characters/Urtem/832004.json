@@ -2,9 +2,9 @@
  "characterID": 832004,
  "characterClassID": 7,
  "raceID": 1,
- "position": 902,
- "rankingPositionChange": 1,
- "gloryPoint": 8012,
+ "position": 904,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8005,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Blois",
@@ -176,6 +176,14 @@
    "position": 902,
    "rankingPositionChange": 1,
    "gloryPoint": 8012,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 904,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8005,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

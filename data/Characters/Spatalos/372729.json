@@ -2,10 +2,10 @@
  "characterID": 372729,
  "characterClassID": 1,
  "raceID": 1,
- "position": 568,
- "rankingPositionChange": 0,
- "gloryPoint": 6490,
- "gloryPointChange": 6,
+ "position": 569,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6476,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Gazzah",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6490,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 569,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6476,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

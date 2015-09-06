@@ -2,10 +2,10 @@
  "characterID": 922500,
  "characterClassID": 1,
  "raceID": 1,
- "position": 664,
- "rankingPositionChange": 5,
- "gloryPoint": 1556,
- "gloryPointChange": 36,
+ "position": 671,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1542,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zhaoxin",
  "guildName": "Ordem Secreta",
@@ -41,6 +41,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 1556,
    "gloryPointChange": 36,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1542,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

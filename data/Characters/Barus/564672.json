@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 641,
- "rankingPositionChange": 1,
- "gloryPoint": 20469,
- "gloryPointChange": 48,
+ "rankingPositionChange": 0,
+ "gloryPoint": 20455,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Evira",
  "guildName": "No Clan ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20469,
    "gloryPointChange": 48,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": 0,
+   "gloryPoint": 20455,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

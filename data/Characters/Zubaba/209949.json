@@ -2,10 +2,10 @@
  "characterID": 209949,
  "characterClassID": 1,
  "raceID": 1,
- "position": 109,
- "rankingPositionChange": 0,
- "gloryPoint": 83274,
- "gloryPointChange": 317,
+ "position": 110,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83297,
+ "gloryPointChange": 23,
  "soldierRankID": 13,
  "characterName": "Responses",
  "guildName": "Asabiler",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 83274,
    "gloryPointChange": 317,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 110,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83297,
+   "gloryPointChange": 23,
    "soldierRankID": 13
   }
  ],

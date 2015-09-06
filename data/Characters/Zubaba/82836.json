@@ -2,9 +2,9 @@
  "characterID": 82836,
  "characterClassID": 14,
  "raceID": 1,
- "position": 717,
- "rankingPositionChange": 3,
- "gloryPoint": 3518,
+ "position": 719,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3511,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Araborn",
@@ -272,6 +272,14 @@
    "position": 717,
    "rankingPositionChange": 3,
    "gloryPoint": 3518,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 719,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3511,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

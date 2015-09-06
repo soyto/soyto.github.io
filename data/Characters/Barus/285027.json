@@ -2,9 +2,9 @@
  "characterID": 285027,
  "characterClassID": 14,
  "raceID": 0,
- "position": 170,
- "rankingPositionChange": 0,
- "gloryPoint": 72200,
+ "position": 171,
+ "rankingPositionChange": -1,
+ "gloryPoint": 72151,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Beyoo",
@@ -272,6 +272,14 @@
    "position": 170,
    "rankingPositionChange": 0,
    "gloryPoint": 72200,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 171,
+   "rankingPositionChange": -1,
+   "gloryPoint": 72151,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

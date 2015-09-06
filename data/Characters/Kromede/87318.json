@@ -2,9 +2,9 @@
  "characterID": 87318,
  "characterClassID": 10,
  "raceID": 1,
- "position": 454,
- "rankingPositionChange": 1,
- "gloryPoint": 11399,
+ "position": 457,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11371,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Bahaamuth",
@@ -112,6 +112,14 @@
    "position": 454,
    "rankingPositionChange": 1,
    "gloryPoint": 11399,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 457,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11371,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

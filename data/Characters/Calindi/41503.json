@@ -2,14 +2,14 @@
  "characterID": 41503,
  "characterClassID": 2,
  "raceID": 0,
- "position": 558,
- "rankingPositionChange": 27,
- "gloryPoint": 4321,
- "gloryPointChange": 536,
+ "position": 556,
+ "rankingPositionChange": 2,
+ "gloryPoint": 4386,
+ "gloryPointChange": 65,
  "soldierRankID": 11,
  "characterName": "Nashetina",
- "guildName": "Savage Spirit",
- "guildID": 13827,
+ "guildName": "Frozen Moon",
+ "guildID": 6478,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 4321,
    "gloryPointChange": 536,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": 2,
+   "gloryPoint": 4386,
+   "gloryPointChange": 65,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -294,6 +302,11 @@
    "date": "2015-08-19T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Frozen Moon",
+   "guildID": 6478
   }
  ]
 }

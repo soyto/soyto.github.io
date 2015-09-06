@@ -2,9 +2,9 @@
  "characterID": 173369,
  "characterClassID": 2,
  "raceID": 0,
- "position": 120,
- "rankingPositionChange": 0,
- "gloryPoint": 87930,
+ "position": 122,
+ "rankingPositionChange": -2,
+ "gloryPoint": 87881,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nepenthe",
@@ -272,6 +272,14 @@
    "position": 120,
    "rankingPositionChange": 0,
    "gloryPoint": 87930,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 122,
+   "rankingPositionChange": -2,
+   "gloryPoint": 87881,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

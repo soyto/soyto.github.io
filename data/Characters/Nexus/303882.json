@@ -2,10 +2,10 @@
  "characterID": 303882,
  "characterClassID": 10,
  "raceID": 0,
- "position": 123,
- "rankingPositionChange": 1,
- "gloryPoint": 79714,
- "gloryPointChange": 129,
+ "position": 124,
+ "rankingPositionChange": -1,
+ "gloryPoint": 79945,
+ "gloryPointChange": 231,
  "soldierRankID": 13,
  "characterName": "Kegi",
  "guildName": "Fantasy",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 79714,
    "gloryPointChange": 129,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 124,
+   "rankingPositionChange": -1,
+   "gloryPoint": 79945,
+   "gloryPointChange": 231,
    "soldierRankID": 13
   }
  ],

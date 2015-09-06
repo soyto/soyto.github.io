@@ -2,10 +2,10 @@
  "characterID": 896011,
  "characterClassID": 11,
  "raceID": 1,
- "position": 835,
- "rankingPositionChange": -5,
- "gloryPoint": 11430,
- "gloryPointChange": -7,
+ "position": 833,
+ "rankingPositionChange": 2,
+ "gloryPoint": 11705,
+ "gloryPointChange": 275,
  "soldierRankID": 10,
  "characterName": "Arathi",
  "guildName": "Dark Hunters",
@@ -265,6 +265,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 11430,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": 2,
+   "gloryPoint": 11705,
+   "gloryPointChange": 275,
    "soldierRankID": 10
   }
  ],

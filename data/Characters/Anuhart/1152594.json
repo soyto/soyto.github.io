@@ -2,10 +2,10 @@
  "characterID": 1152594,
  "characterClassID": 1,
  "raceID": 1,
- "position": 839,
- "rankingPositionChange": 12,
- "gloryPoint": 2513,
- "gloryPointChange": 103,
+ "position": 842,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2522,
+ "gloryPointChange": 9,
  "soldierRankID": 10,
  "characterName": "Pynson",
  "guildName": "Evil Souls",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 12,
    "gloryPoint": 2513,
    "gloryPointChange": 103,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 842,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2522,
+   "gloryPointChange": 9,
    "soldierRankID": 10
   }
  ],

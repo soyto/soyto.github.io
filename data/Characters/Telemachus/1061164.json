@@ -2,10 +2,10 @@
  "characterID": 1061164,
  "characterClassID": 10,
  "raceID": 1,
- "position": 670,
- "rankingPositionChange": 10,
- "gloryPoint": 1493,
- "gloryPointChange": 58,
+ "position": 676,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1503,
+ "gloryPointChange": 10,
  "soldierRankID": 11,
  "characterName": "Salves",
  "status": [
@@ -71,6 +71,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 1493,
    "gloryPointChange": 58,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1503,
+   "gloryPointChange": 10,
    "soldierRankID": 11
   }
  ],

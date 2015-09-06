@@ -2,14 +2,14 @@
  "characterID": 312785,
  "characterClassID": 11,
  "raceID": 0,
- "position": 924,
- "rankingPositionChange": -1,
- "gloryPoint": 1287,
+ "position": 926,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1280,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Orrok",
- "guildName": "Savage Spirit",
- "guildID": 13827,
+ "guildName": "Fantasia",
+ "guildID": 1197,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 1287,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1280,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Fantasia",
+   "guildID": 1197
   }
  ]
 }

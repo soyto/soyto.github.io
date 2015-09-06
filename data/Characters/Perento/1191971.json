@@ -2,9 +2,9 @@
  "characterID": 1191971,
  "characterClassID": 8,
  "raceID": 0,
- "position": 327,
- "rankingPositionChange": -1,
- "gloryPoint": 38306,
+ "position": 326,
+ "rankingPositionChange": 1,
+ "gloryPoint": 38278,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Anyia",
@@ -272,6 +272,14 @@
    "position": 327,
    "rankingPositionChange": -1,
    "gloryPoint": 38306,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 326,
+   "rankingPositionChange": 1,
+   "gloryPoint": 38278,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

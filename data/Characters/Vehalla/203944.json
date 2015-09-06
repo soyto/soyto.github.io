@@ -3,11 +3,11 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 95,
- "rankingPositionChange": 1,
- "gloryPoint": 60927,
- "gloryPointChange": 576,
+ "rankingPositionChange": 0,
+ "gloryPoint": 61247,
+ "gloryPointChange": 320,
  "soldierRankID": 14,
- "characterName": "Caamie",
+ "characterName": "Yayte",
  "guildName": "Project V",
  "guildID": 15571,
  "status": [
@@ -274,6 +274,14 @@
    "gloryPoint": 60927,
    "gloryPointChange": 576,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 95,
+   "rankingPositionChange": 0,
+   "gloryPoint": 61247,
+   "gloryPointChange": 320,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -284,6 +292,10 @@
   {
    "date": "2015-08-03T22:00:00.000Z",
    "characterName": "Caamie"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Yayte"
   }
  ],
  "guilds": [

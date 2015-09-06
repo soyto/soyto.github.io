@@ -2,9 +2,9 @@
  "characterID": 45149,
  "characterClassID": 4,
  "raceID": 1,
- "position": 800,
- "rankingPositionChange": 3,
- "gloryPoint": 2423,
+ "position": 805,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2416,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hidelife",
@@ -272,6 +272,14 @@
    "position": 800,
    "rankingPositionChange": 3,
    "gloryPoint": 2423,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 805,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2416,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

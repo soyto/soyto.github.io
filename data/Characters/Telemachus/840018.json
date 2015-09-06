@@ -2,10 +2,10 @@
  "characterID": 840018,
  "characterClassID": 4,
  "raceID": 1,
- "position": 278,
- "rankingPositionChange": 7,
- "gloryPoint": 14121,
- "gloryPointChange": 396,
+ "position": 279,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14072,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tzepes",
  "guildName": "You Are Not Alone",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 14121,
    "gloryPointChange": 396,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 279,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14072,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

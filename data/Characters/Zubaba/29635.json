@@ -2,9 +2,9 @@
  "characterID": 29635,
  "characterClassID": 8,
  "raceID": 1,
- "position": 641,
- "rankingPositionChange": 1,
- "gloryPoint": 4965,
+ "position": 645,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4951,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Afet",
@@ -272,6 +272,14 @@
    "position": 641,
    "rankingPositionChange": 1,
    "gloryPoint": 4965,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 645,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4951,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

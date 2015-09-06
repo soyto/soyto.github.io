@@ -2,9 +2,9 @@
  "characterID": 113852,
  "characterClassID": 14,
  "raceID": 1,
- "position": 711,
- "rankingPositionChange": 1,
- "gloryPoint": 3563,
+ "position": 713,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3556,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Phylios",
@@ -118,6 +118,14 @@
    "position": 711,
    "rankingPositionChange": 1,
    "gloryPoint": 3563,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 713,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3556,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 379389,
  "characterClassID": 1,
  "raceID": 1,
- "position": 777,
- "rankingPositionChange": 1,
- "gloryPoint": 9036,
+ "position": 781,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9029,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Emperator",
@@ -264,6 +264,14 @@
    "position": 777,
    "rankingPositionChange": 1,
    "gloryPoint": 9036,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9029,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

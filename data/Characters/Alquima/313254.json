@@ -2,9 +2,9 @@
  "characterID": 313254,
  "characterClassID": 10,
  "raceID": 0,
- "position": 964,
- "rankingPositionChange": 1,
- "gloryPoint": 10477,
+ "position": 965,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10470,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tsunea",
@@ -270,6 +270,14 @@
    "position": 964,
    "rankingPositionChange": 1,
    "gloryPoint": 10477,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 965,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10470,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

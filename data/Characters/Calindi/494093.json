@@ -2,9 +2,9 @@
  "characterID": 494093,
  "characterClassID": 10,
  "raceID": 1,
- "position": 117,
- "rankingPositionChange": 0,
- "gloryPoint": 14231,
+ "position": 118,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14182,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Alduinya",
@@ -256,6 +256,14 @@
    "position": 117,
    "rankingPositionChange": 0,
    "gloryPoint": 14231,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 118,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14182,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

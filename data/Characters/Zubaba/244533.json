@@ -2,10 +2,10 @@
  "characterID": 244533,
  "characterClassID": 2,
  "raceID": 0,
- "position": 315,
- "rankingPositionChange": 2,
- "gloryPoint": 30454,
- "gloryPointChange": 399,
+ "position": 317,
+ "rankingPositionChange": -2,
+ "gloryPoint": 30446,
+ "gloryPointChange": -8,
  "soldierRankID": 12,
  "characterName": "Maeda",
  "guildName": "LETHAL",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 30454,
    "gloryPointChange": 399,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 317,
+   "rankingPositionChange": -2,
+   "gloryPoint": 30446,
+   "gloryPointChange": -8,
    "soldierRankID": 12
   }
  ],

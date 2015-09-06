@@ -2,9 +2,9 @@
  "characterID": 271133,
  "characterClassID": 10,
  "raceID": 1,
- "position": 365,
- "rankingPositionChange": 1,
- "gloryPoint": 18939,
+ "position": 366,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18911,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Plimp",
@@ -272,6 +272,14 @@
    "position": 365,
    "rankingPositionChange": 1,
    "gloryPoint": 18939,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 366,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18911,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 1038161,
  "characterClassID": 10,
  "raceID": 1,
- "position": 177,
- "rankingPositionChange": 2,
- "gloryPoint": 57454,
- "gloryPointChange": 213,
+ "position": 178,
+ "rankingPositionChange": -1,
+ "gloryPoint": 57405,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Anaelis",
  "guildName": "tribaL",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 57454,
    "gloryPointChange": 213,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 178,
+   "rankingPositionChange": -1,
+   "gloryPoint": 57405,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

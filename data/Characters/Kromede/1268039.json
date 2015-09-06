@@ -2,10 +2,10 @@
  "characterID": 1268039,
  "characterClassID": 1,
  "raceID": 0,
- "position": 289,
- "rankingPositionChange": 0,
- "gloryPoint": 45331,
- "gloryPointChange": 20,
+ "position": 290,
+ "rankingPositionChange": -1,
+ "gloryPoint": 45282,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Scaaaaaaar",
  "guildName": "I am Nobody",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 45331,
    "gloryPointChange": 20,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 290,
+   "rankingPositionChange": -1,
+   "gloryPoint": 45282,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

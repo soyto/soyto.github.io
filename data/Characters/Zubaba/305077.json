@@ -2,9 +2,9 @@
  "characterID": 305077,
  "characterClassID": 8,
  "raceID": 1,
- "position": 943,
- "rankingPositionChange": 2,
- "gloryPoint": 1311,
+ "position": 949,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1304,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vae",
@@ -80,6 +80,14 @@
    "position": 943,
    "rankingPositionChange": 2,
    "gloryPoint": 1311,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1304,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 805789,
  "characterClassID": 11,
  "raceID": 0,
- "position": 672,
- "rankingPositionChange": 4,
- "gloryPoint": 21780,
- "gloryPointChange": 161,
+ "position": 675,
+ "rankingPositionChange": -3,
+ "gloryPoint": 21766,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Merianne",
  "guildName": "Veridis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 21780,
    "gloryPointChange": 161,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 675,
+   "rankingPositionChange": -3,
+   "gloryPoint": 21766,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

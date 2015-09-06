@@ -2,10 +2,10 @@
  "characterID": 815080,
  "characterClassID": 10,
  "raceID": 1,
- "position": 61,
- "rankingPositionChange": 0,
- "gloryPoint": 92399,
- "gloryPointChange": 152,
+ "position": 62,
+ "rankingPositionChange": -1,
+ "gloryPoint": 92404,
+ "gloryPointChange": 5,
  "soldierRankID": 14,
  "characterName": "Lunarmis",
  "guildName": "BandOfBrothers",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 92399,
    "gloryPointChange": 152,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 62,
+   "rankingPositionChange": -1,
+   "gloryPoint": 92404,
+   "gloryPointChange": 5,
    "soldierRankID": 14
   }
  ],

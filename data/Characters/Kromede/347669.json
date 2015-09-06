@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 234,
- "rankingPositionChange": 2,
- "gloryPoint": 31723,
- "gloryPointChange": 51,
+ "rankingPositionChange": 0,
+ "gloryPoint": 31674,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shard",
  "guildName": "Spectrum",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 31723,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 234,
+   "rankingPositionChange": 0,
+   "gloryPoint": 31674,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

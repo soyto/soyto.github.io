@@ -2,10 +2,10 @@
  "characterID": 1246148,
  "characterClassID": 16,
  "raceID": 0,
- "position": 833,
- "rankingPositionChange": -1,
- "gloryPoint": 19110,
- "gloryPointChange": -7,
+ "position": 832,
+ "rankingPositionChange": 1,
+ "gloryPoint": 19123,
+ "gloryPointChange": 13,
  "soldierRankID": 10,
  "characterName": "Linajann",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 19110,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 832,
+   "rankingPositionChange": 1,
+   "gloryPoint": 19123,
+   "gloryPointChange": 13,
    "soldierRankID": 10
   }
  ],

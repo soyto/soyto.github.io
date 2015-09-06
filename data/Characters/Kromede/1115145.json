@@ -2,9 +2,9 @@
  "characterID": 1115145,
  "characterClassID": 7,
  "raceID": 1,
- "position": 173,
- "rankingPositionChange": 2,
- "gloryPoint": 48914,
+ "position": 174,
+ "rankingPositionChange": -1,
+ "gloryPoint": 48865,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dolll",
@@ -272,6 +272,14 @@
    "position": 173,
    "rankingPositionChange": 2,
    "gloryPoint": 48914,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 174,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48865,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

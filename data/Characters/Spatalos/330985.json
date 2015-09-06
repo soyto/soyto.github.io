@@ -2,9 +2,9 @@
  "characterID": 330985,
  "characterClassID": 7,
  "raceID": 0,
- "position": 493,
- "rankingPositionChange": 0,
- "gloryPoint": 24360,
+ "position": 492,
+ "rankingPositionChange": 1,
+ "gloryPoint": 24332,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Deathmaster",
@@ -224,6 +224,14 @@
    "position": 493,
    "rankingPositionChange": 0,
    "gloryPoint": 24360,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 492,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24332,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

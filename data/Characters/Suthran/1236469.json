@@ -2,9 +2,9 @@
  "characterID": 1236469,
  "characterClassID": 13,
  "raceID": 1,
- "position": 879,
- "rankingPositionChange": 0,
- "gloryPoint": 5842,
+ "position": 881,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5835,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mecaweez",
@@ -272,6 +272,14 @@
    "position": 879,
    "rankingPositionChange": 0,
    "gloryPoint": 5842,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 881,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5835,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

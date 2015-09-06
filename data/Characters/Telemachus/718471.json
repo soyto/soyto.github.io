@@ -3,9 +3,9 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 75,
- "rankingPositionChange": 1,
- "gloryPoint": 70585,
- "gloryPointChange": 331,
+ "rankingPositionChange": 0,
+ "gloryPoint": 70478,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Elfin",
  "guildName": "A       C       E",
@@ -233,6 +233,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 70585,
    "gloryPointChange": 331,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 75,
+   "rankingPositionChange": 0,
+   "gloryPoint": 70478,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

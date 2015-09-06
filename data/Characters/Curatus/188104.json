@@ -2,10 +2,10 @@
  "characterID": 188104,
  "characterClassID": 7,
  "raceID": 0,
- "position": 146,
- "rankingPositionChange": 1,
- "gloryPoint": 98089,
- "gloryPointChange": 642,
+ "position": 147,
+ "rankingPositionChange": -1,
+ "gloryPoint": 98699,
+ "gloryPointChange": 610,
  "soldierRankID": 13,
  "characterName": "Shottoman",
  "guildName": "JFF",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 98089,
    "gloryPointChange": 642,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": -1,
+   "gloryPoint": 98699,
+   "gloryPointChange": 610,
    "soldierRankID": 13
   }
  ],

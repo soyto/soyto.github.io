@@ -2,10 +2,10 @@
  "characterID": 466532,
  "characterClassID": 1,
  "raceID": 1,
- "position": 280,
- "rankingPositionChange": 4,
- "gloryPoint": 21346,
- "gloryPointChange": 322,
+ "position": 282,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21300,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Kiva",
  "guildName": "Lucky Seven",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 21346,
    "gloryPointChange": 322,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 282,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21300,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

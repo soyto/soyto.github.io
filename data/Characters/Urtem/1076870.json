@@ -2,10 +2,10 @@
  "characterID": 1076870,
  "characterClassID": 4,
  "raceID": 0,
- "position": 94,
- "rankingPositionChange": 0,
- "gloryPoint": 135982,
- "gloryPointChange": 177,
+ "position": 95,
+ "rankingPositionChange": -1,
+ "gloryPoint": 135875,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Katkymi",
  "guildName": "Regional cookies",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 135982,
    "gloryPointChange": 177,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 95,
+   "rankingPositionChange": -1,
+   "gloryPoint": 135875,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

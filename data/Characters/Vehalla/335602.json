@@ -2,12 +2,12 @@
  "characterID": 335602,
  "characterClassID": 14,
  "raceID": 1,
- "position": 224,
- "rankingPositionChange": 3,
- "gloryPoint": 16630,
- "gloryPointChange": 433,
+ "position": 222,
+ "rankingPositionChange": 2,
+ "gloryPoint": 16581,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
- "characterName": "Suckerpunch",
+ "characterName": "Evilangel",
  "guildName": "FoxHound",
  "guildID": 4517,
  "status": [
@@ -274,12 +274,24 @@
    "gloryPoint": 16630,
    "gloryPointChange": 433,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": 2,
+   "gloryPoint": 16581,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Suckerpunch"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Evilangel"
   }
  ],
  "guilds": [

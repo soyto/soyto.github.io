@@ -2,10 +2,10 @@
  "characterID": 944992,
  "characterClassID": 1,
  "raceID": 0,
- "position": 48,
- "rankingPositionChange": 1,
- "gloryPoint": 193318,
- "gloryPointChange": 731,
+ "position": 49,
+ "rankingPositionChange": -1,
+ "gloryPoint": 193737,
+ "gloryPointChange": 419,
  "soldierRankID": 14,
  "characterName": "Kagaroulis",
  "guildName": "Hodor",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 193318,
    "gloryPointChange": 731,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 49,
+   "rankingPositionChange": -1,
+   "gloryPoint": 193737,
+   "gloryPointChange": 419,
    "soldierRankID": 14
   }
  ],

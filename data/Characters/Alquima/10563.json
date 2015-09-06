@@ -2,10 +2,10 @@
  "characterID": 10563,
  "characterClassID": 8,
  "raceID": 0,
- "position": 320,
- "rankingPositionChange": -1,
- "gloryPoint": 38341,
- "gloryPointChange": 33,
+ "position": 319,
+ "rankingPositionChange": 1,
+ "gloryPoint": 38375,
+ "gloryPointChange": 34,
  "soldierRankID": 12,
  "characterName": "Invokao",
  "guildName": "Alpha Team",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 38341,
    "gloryPointChange": 33,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": 1,
+   "gloryPoint": 38375,
+   "gloryPointChange": 34,
    "soldierRankID": 12
   }
  ],

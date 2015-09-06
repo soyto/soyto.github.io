@@ -2,10 +2,10 @@
  "characterID": 778177,
  "characterClassID": 13,
  "raceID": 1,
- "position": 414,
- "rankingPositionChange": 6,
- "gloryPoint": 37242,
- "gloryPointChange": 635,
+ "position": 420,
+ "rankingPositionChange": -6,
+ "gloryPoint": 37214,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Maksik",
  "guildName": "Divine",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 37242,
    "gloryPointChange": 635,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 420,
+   "rankingPositionChange": -6,
+   "gloryPoint": 37214,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

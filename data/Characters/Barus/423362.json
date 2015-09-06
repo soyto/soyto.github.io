@@ -2,9 +2,9 @@
  "characterID": 423362,
  "characterClassID": 16,
  "raceID": 0,
- "position": 104,
- "rankingPositionChange": 0,
- "gloryPoint": 92860,
+ "position": 105,
+ "rankingPositionChange": -1,
+ "gloryPoint": 92811,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Syliria",
@@ -272,6 +272,14 @@
    "position": 104,
    "rankingPositionChange": 0,
    "gloryPoint": 92860,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": -1,
+   "gloryPoint": 92811,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

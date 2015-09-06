@@ -2,9 +2,9 @@
  "characterID": 1518884,
  "characterClassID": 5,
  "raceID": 1,
- "position": 339,
- "rankingPositionChange": -2,
- "gloryPoint": 46667,
+ "position": 338,
+ "rankingPositionChange": 1,
+ "gloryPoint": 46639,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Alanwie",
@@ -262,6 +262,14 @@
    "position": 339,
    "rankingPositionChange": -2,
    "gloryPoint": 46667,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 338,
+   "rankingPositionChange": 1,
+   "gloryPoint": 46639,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

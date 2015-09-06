@@ -2,9 +2,9 @@
  "characterID": 724363,
  "characterClassID": 2,
  "raceID": 1,
- "position": 933,
- "rankingPositionChange": 6,
- "gloryPoint": 1830,
+ "position": 940,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1823,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tempraider",
@@ -272,6 +272,14 @@
    "position": 933,
    "rankingPositionChange": 6,
    "gloryPoint": 1830,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1823,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

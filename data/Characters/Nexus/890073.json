@@ -2,9 +2,9 @@
  "characterID": 890073,
  "characterClassID": 1,
  "raceID": 0,
- "position": 594,
- "rankingPositionChange": 0,
- "gloryPoint": 13068,
+ "position": 599,
+ "rankingPositionChange": -5,
+ "gloryPoint": 13054,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Konanvt",
@@ -264,6 +264,14 @@
    "position": 594,
    "rankingPositionChange": 0,
    "gloryPoint": 13068,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 599,
+   "rankingPositionChange": -5,
+   "gloryPoint": 13054,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 220572,
  "characterClassID": 2,
  "raceID": 0,
- "position": 113,
- "rankingPositionChange": 1,
- "gloryPoint": 115216,
- "gloryPointChange": 267,
+ "position": 114,
+ "rankingPositionChange": -1,
+ "gloryPoint": 115443,
+ "gloryPointChange": 227,
  "soldierRankID": 13,
  "characterName": "Ayohlia",
  "guildName": "Nornes",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 115216,
    "gloryPointChange": 267,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 114,
+   "rankingPositionChange": -1,
+   "gloryPoint": 115443,
+   "gloryPointChange": 227,
    "soldierRankID": 13
   }
  ],

@@ -2,12 +2,12 @@
  "characterID": 333597,
  "characterClassID": 2,
  "raceID": 1,
- "position": 405,
- "rankingPositionChange": -1,
- "gloryPoint": 35589,
- "gloryPointChange": 22,
+ "position": 401,
+ "rankingPositionChange": 4,
+ "gloryPoint": 35816,
+ "gloryPointChange": 227,
  "soldierRankID": 12,
- "characterName": "Nightmayer",
+ "characterName": "Neyssss",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +272,14 @@
    "gloryPoint": 35589,
    "gloryPointChange": 22,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": 4,
+   "gloryPoint": 35816,
+   "gloryPointChange": 227,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -282,6 +290,10 @@
   {
    "date": "2015-08-26T22:00:00.000Z",
    "characterName": "Nightmayer"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "characterName": "Neyssss"
   }
  ],
  "guilds": [

@@ -2,10 +2,10 @@
  "characterID": 43274,
  "characterClassID": 14,
  "raceID": 1,
- "position": 765,
- "rankingPositionChange": 2,
- "gloryPoint": 5747,
- "gloryPointChange": 49,
+ "position": 767,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5768,
+ "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Amadelhia",
  "guildName": "I furetti",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 5747,
    "gloryPointChange": 49,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 767,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5768,
+   "gloryPointChange": 21,
    "soldierRankID": 10
   }
  ],

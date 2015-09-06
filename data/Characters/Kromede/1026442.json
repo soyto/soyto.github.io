@@ -2,9 +2,9 @@
  "characterID": 1026442,
  "characterClassID": 16,
  "raceID": 1,
- "position": 784,
- "rankingPositionChange": 1,
- "gloryPoint": 4543,
+ "position": 786,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4536,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ilfendi",
@@ -272,6 +272,14 @@
    "position": 784,
    "rankingPositionChange": 1,
    "gloryPoint": 4543,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 786,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4536,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1070925,
  "characterClassID": 10,
  "raceID": 1,
- "position": 772,
- "rankingPositionChange": 1,
- "gloryPoint": 7852,
+ "position": 778,
+ "rankingPositionChange": -6,
+ "gloryPoint": 7845,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Trimiel",
@@ -136,6 +136,14 @@
    "position": 772,
    "rankingPositionChange": 1,
    "gloryPoint": 7852,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 778,
+   "rankingPositionChange": -6,
+   "gloryPoint": 7845,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

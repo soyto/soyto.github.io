@@ -2,9 +2,9 @@
  "characterID": 850833,
  "characterClassID": 14,
  "raceID": 1,
- "position": 939,
- "rankingPositionChange": 0,
- "gloryPoint": 8439,
+ "position": 946,
+ "rankingPositionChange": -7,
+ "gloryPoint": 8432,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kyini",
@@ -224,6 +224,14 @@
    "position": 939,
    "rankingPositionChange": 0,
    "gloryPoint": 8439,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 946,
+   "rankingPositionChange": -7,
+   "gloryPoint": 8432,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

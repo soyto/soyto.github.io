@@ -2,10 +2,10 @@
  "characterID": 305176,
  "characterClassID": 7,
  "raceID": 1,
- "position": 181,
- "rankingPositionChange": 0,
- "gloryPoint": 48196,
- "gloryPointChange": -29,
+ "position": 182,
+ "rankingPositionChange": -1,
+ "gloryPoint": 48147,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Gylan",
  "guildName": " Essence ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 48196,
    "gloryPointChange": -29,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 182,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48147,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1182848,
  "characterClassID": 16,
  "raceID": 1,
- "position": 366,
- "rankingPositionChange": 3,
- "gloryPoint": 17293,
+ "position": 369,
+ "rankingPositionChange": -3,
+ "gloryPoint": 17265,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Haerun",
@@ -272,6 +272,14 @@
    "position": 366,
    "rankingPositionChange": 3,
    "gloryPoint": 17293,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 369,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17265,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

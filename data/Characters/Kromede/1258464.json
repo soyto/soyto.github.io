@@ -2,12 +2,14 @@
  "characterID": 1258464,
  "characterClassID": 10,
  "raceID": 1,
- "position": 569,
- "rankingPositionChange": 1,
- "gloryPoint": 7956,
- "gloryPointChange": 48,
+ "position": 571,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7948,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Yaniishaa",
+ "guildName": "I Six I",
+ "guildID": 36534,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 7956,
    "gloryPointChange": 48,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 571,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7948,
+   "gloryPointChange": -8,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-29T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "I Six I",
+   "guildID": 36534
   }
  ]
 }

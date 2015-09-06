@@ -2,10 +2,10 @@
  "characterID": 1605405,
  "characterClassID": 10,
  "raceID": 1,
- "position": 414,
- "rankingPositionChange": -3,
- "gloryPoint": 35509,
- "gloryPointChange": -28,
+ "position": 411,
+ "rankingPositionChange": 3,
+ "gloryPoint": 35684,
+ "gloryPointChange": 175,
  "soldierRankID": 12,
  "characterName": "Malyne",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 35509,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 411,
+   "rankingPositionChange": 3,
+   "gloryPoint": 35684,
+   "gloryPointChange": 175,
    "soldierRankID": 12
   }
  ],

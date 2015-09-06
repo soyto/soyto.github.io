@@ -3,8 +3,8 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 800,
- "rankingPositionChange": -7,
- "gloryPoint": 8637,
+ "rankingPositionChange": 0,
+ "gloryPoint": 8630,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Quinoa",
@@ -240,6 +240,14 @@
    "position": 800,
    "rankingPositionChange": -7,
    "gloryPoint": 8637,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8630,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 1106144,
  "characterClassID": 14,
  "raceID": 0,
- "position": 249,
- "rankingPositionChange": 2,
- "gloryPoint": 52876,
- "gloryPointChange": 329,
+ "position": 250,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52827,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sumino",
  "guildName": "Ultimate Destiny",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 52876,
    "gloryPointChange": 329,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 250,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52827,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 452741,
  "characterClassID": 5,
  "raceID": 1,
- "position": 817,
- "rankingPositionChange": 2,
- "gloryPoint": 4144,
+ "position": 820,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4137,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mishiyoo",
@@ -272,6 +272,14 @@
    "position": 817,
    "rankingPositionChange": 2,
    "gloryPoint": 4144,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 820,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4137,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

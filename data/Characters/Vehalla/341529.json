@@ -2,9 +2,9 @@
  "characterID": 341529,
  "characterClassID": 14,
  "raceID": 1,
- "position": 245,
- "rankingPositionChange": -1,
- "gloryPoint": 14190,
+ "position": 244,
+ "rankingPositionChange": 1,
+ "gloryPoint": 14141,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Safi",
@@ -270,6 +270,14 @@
    "position": 245,
    "rankingPositionChange": -1,
    "gloryPoint": 14190,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 244,
+   "rankingPositionChange": 1,
+   "gloryPoint": 14141,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 9674,
  "characterClassID": 4,
  "raceID": 0,
- "position": 374,
- "rankingPositionChange": -2,
- "gloryPoint": 12625,
+ "position": 373,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12597,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Grinz",
@@ -272,6 +272,14 @@
    "position": 374,
    "rankingPositionChange": -2,
    "gloryPoint": 12625,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 373,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12597,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

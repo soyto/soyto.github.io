@@ -2,9 +2,9 @@
  "characterID": 125955,
  "characterClassID": 1,
  "raceID": 0,
- "position": 661,
- "rankingPositionChange": -2,
- "gloryPoint": 19114,
+ "position": 660,
+ "rankingPositionChange": 1,
+ "gloryPoint": 19100,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Flamess",
@@ -272,6 +272,14 @@
    "position": 661,
    "rankingPositionChange": -2,
    "gloryPoint": 19114,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 660,
+   "rankingPositionChange": 1,
+   "gloryPoint": 19100,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

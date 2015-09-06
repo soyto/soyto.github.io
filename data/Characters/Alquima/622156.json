@@ -2,14 +2,12 @@
  "characterID": 622156,
  "characterClassID": 13,
  "raceID": 1,
- "position": 266,
- "rankingPositionChange": 0,
- "gloryPoint": 33134,
+ "position": 269,
+ "rankingPositionChange": -3,
+ "gloryPoint": 33085,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nanobott",
- "guildName": "Nemesis",
- "guildID": 3416,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,6 +264,14 @@
    "gloryPoint": 33134,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 269,
+   "rankingPositionChange": -3,
+   "gloryPoint": 33085,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -279,6 +285,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Nemesis",
    "guildID": 3416
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 424040,
  "characterClassID": 11,
  "raceID": 0,
- "position": 855,
- "rankingPositionChange": 0,
- "gloryPoint": 14102,
+ "position": 857,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14095,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Esqir",
@@ -270,6 +270,14 @@
    "position": 855,
    "rankingPositionChange": 0,
    "gloryPoint": 14102,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 857,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14095,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

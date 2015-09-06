@@ -2,9 +2,9 @@
  "characterID": 113376,
  "characterClassID": 14,
  "raceID": 0,
- "position": 154,
- "rankingPositionChange": 0,
- "gloryPoint": 96074,
+ "position": 155,
+ "rankingPositionChange": -1,
+ "gloryPoint": 96025,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Probz",
@@ -272,6 +272,14 @@
    "position": 154,
    "rankingPositionChange": 0,
    "gloryPoint": 96074,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 155,
+   "rankingPositionChange": -1,
+   "gloryPoint": 96025,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

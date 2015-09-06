@@ -2,9 +2,9 @@
  "characterID": 1440758,
  "characterClassID": 5,
  "raceID": 1,
- "position": 871,
- "rankingPositionChange": 1,
- "gloryPoint": 8579,
+ "position": 873,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8572,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Klayss",
@@ -270,6 +270,14 @@
    "position": 871,
    "rankingPositionChange": 1,
    "gloryPoint": 8579,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 873,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8572,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

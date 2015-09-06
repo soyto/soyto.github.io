@@ -2,10 +2,10 @@
  "characterID": 1131415,
  "characterClassID": 10,
  "raceID": 1,
- "position": 199,
- "rankingPositionChange": 1,
- "gloryPoint": 26450,
- "gloryPointChange": 301,
+ "position": 201,
+ "rankingPositionChange": -2,
+ "gloryPoint": 26404,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Yeunn",
  "guildName": "Worldwake",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 26450,
    "gloryPointChange": 301,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 201,
+   "rankingPositionChange": -2,
+   "gloryPoint": 26404,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

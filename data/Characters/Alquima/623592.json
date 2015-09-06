@@ -2,10 +2,10 @@
  "characterID": 623592,
  "characterClassID": 16,
  "raceID": 1,
- "position": 260,
- "rankingPositionChange": 0,
- "gloryPoint": 33813,
- "gloryPointChange": 324,
+ "position": 261,
+ "rankingPositionChange": -1,
+ "gloryPoint": 33952,
+ "gloryPointChange": 139,
  "soldierRankID": 13,
  "characterName": "Bardhonor",
  "guildName": "TheYangTeam",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 33813,
    "gloryPointChange": 324,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": -1,
+   "gloryPoint": 33952,
+   "gloryPointChange": 139,
    "soldierRankID": 13
   }
  ],

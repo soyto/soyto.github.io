@@ -2,9 +2,9 @@
  "characterID": 397576,
  "characterClassID": 14,
  "raceID": 1,
- "position": 84,
- "rankingPositionChange": 0,
- "gloryPoint": 65889,
+ "position": 85,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65782,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Gunasmel",
@@ -216,6 +216,14 @@
    "position": 84,
    "rankingPositionChange": 0,
    "gloryPoint": 65889,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 85,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65782,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

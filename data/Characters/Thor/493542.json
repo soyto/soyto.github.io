@@ -2,10 +2,10 @@
  "characterID": 493542,
  "characterClassID": 1,
  "raceID": 1,
- "position": 498,
+ "position": 500,
  "rankingPositionChange": -2,
- "gloryPoint": 27883,
- "gloryPointChange": 6,
+ "gloryPoint": 27858,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Zweroboj",
  "guildName": "NU POGODI",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 27883,
    "gloryPointChange": 6,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 500,
+   "rankingPositionChange": -2,
+   "gloryPoint": 27858,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

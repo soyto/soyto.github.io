@@ -2,10 +2,10 @@
  "characterID": 1009666,
  "characterClassID": 5,
  "raceID": 0,
- "position": 333,
- "rankingPositionChange": 0,
- "gloryPoint": 44728,
- "gloryPointChange": 332,
+ "position": 331,
+ "rankingPositionChange": 2,
+ "gloryPoint": 44700,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Athenka",
  "guildName": "Spartan Legend",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 44728,
    "gloryPointChange": 332,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 331,
+   "rankingPositionChange": 2,
+   "gloryPoint": 44700,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

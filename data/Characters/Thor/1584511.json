@@ -2,9 +2,9 @@
  "characterID": 1584511,
  "characterClassID": 13,
  "raceID": 1,
- "position": 161,
- "rankingPositionChange": 0,
- "gloryPoint": 85761,
+ "position": 162,
+ "rankingPositionChange": -1,
+ "gloryPoint": 85712,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Robotermitsenf",
@@ -270,6 +270,14 @@
    "position": 161,
    "rankingPositionChange": 0,
    "gloryPoint": 85761,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": -1,
+   "gloryPoint": 85712,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

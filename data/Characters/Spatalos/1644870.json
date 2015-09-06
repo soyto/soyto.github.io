@@ -2,10 +2,10 @@
  "characterID": 1644870,
  "characterClassID": 4,
  "raceID": 1,
- "position": 526,
- "rankingPositionChange": 6,
- "gloryPoint": 7290,
- "gloryPointChange": 109,
+ "position": 531,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7276,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Dreamgen",
  "guildName": "BandOfBrothers",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 7290,
    "gloryPointChange": 109,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 531,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7276,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

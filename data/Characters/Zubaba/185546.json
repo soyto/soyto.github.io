@@ -2,9 +2,9 @@
  "characterID": 185546,
  "characterClassID": 1,
  "raceID": 1,
- "position": 757,
- "rankingPositionChange": 3,
- "gloryPoint": 3104,
+ "position": 759,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3097,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Runlip",
@@ -272,6 +272,14 @@
    "position": 757,
    "rankingPositionChange": 3,
    "gloryPoint": 3104,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 759,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3097,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

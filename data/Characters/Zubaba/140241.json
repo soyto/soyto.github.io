@@ -2,9 +2,9 @@
  "characterID": 140241,
  "characterClassID": 5,
  "raceID": 1,
- "position": 458,
- "rankingPositionChange": 0,
- "gloryPoint": 11000,
+ "position": 460,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10972,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hzsad",
@@ -214,6 +214,14 @@
    "position": 458,
    "rankingPositionChange": 0,
    "gloryPoint": 11000,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 460,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10972,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

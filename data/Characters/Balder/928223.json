@@ -2,10 +2,10 @@
  "characterID": 928223,
  "characterClassID": 10,
  "raceID": 1,
- "position": 536,
- "rankingPositionChange": 2,
- "gloryPoint": 1816,
- "gloryPointChange": 7,
+ "position": 538,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1805,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Lauflieberweg",
  "guildName": "Wings of Anarchy",
@@ -121,6 +121,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 1816,
    "gloryPointChange": 7,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1805,
+   "gloryPointChange": -11,
    "soldierRankID": 11
   }
  ],

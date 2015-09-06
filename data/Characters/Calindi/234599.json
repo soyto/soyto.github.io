@@ -2,10 +2,10 @@
  "characterID": 234599,
  "characterClassID": 2,
  "raceID": 0,
- "position": 992,
- "rankingPositionChange": 0,
- "gloryPoint": 1281,
- "gloryPointChange": 0,
+ "position": 993,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1274,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Succulente",
  "guildName": "Rise of Deava",
@@ -17,6 +17,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 1281,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1274,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

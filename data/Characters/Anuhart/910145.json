@@ -2,9 +2,9 @@
  "characterID": 910145,
  "characterClassID": 5,
  "raceID": 1,
- "position": 802,
- "rankingPositionChange": 2,
- "gloryPoint": 2904,
+ "position": 806,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2897,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kougas",
@@ -64,6 +64,14 @@
    "position": 802,
    "rankingPositionChange": 2,
    "gloryPoint": 2904,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 806,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2897,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 490514,
  "characterClassID": 4,
  "raceID": 1,
- "position": 275,
- "rankingPositionChange": 0,
- "gloryPoint": 26568,
+ "position": 276,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26519,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Danelino",
@@ -272,6 +272,14 @@
    "position": 275,
    "rankingPositionChange": 0,
    "gloryPoint": 26568,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 276,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26519,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

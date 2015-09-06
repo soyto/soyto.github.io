@@ -2,9 +2,9 @@
  "characterID": 850764,
  "characterClassID": 2,
  "raceID": 1,
- "position": 538,
- "rankingPositionChange": 0,
- "gloryPoint": 8705,
+ "position": 539,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8691,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Calider",
@@ -264,6 +264,14 @@
    "position": 538,
    "rankingPositionChange": 0,
    "gloryPoint": 8705,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 539,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8691,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

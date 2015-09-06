@@ -2,9 +2,9 @@
  "characterID": 217573,
  "characterClassID": 4,
  "raceID": 1,
- "position": 924,
- "rankingPositionChange": 2,
- "gloryPoint": 1399,
+ "position": 927,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1392,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hitmonlee",
@@ -232,6 +232,14 @@
    "position": 924,
    "rankingPositionChange": 2,
    "gloryPoint": 1399,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 927,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1392,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

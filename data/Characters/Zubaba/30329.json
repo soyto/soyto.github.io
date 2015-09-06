@@ -2,10 +2,10 @@
  "characterID": 30329,
  "characterClassID": 10,
  "raceID": 1,
- "position": 354,
- "rankingPositionChange": 1,
- "gloryPoint": 18895,
- "gloryPointChange": -18,
+ "position": 356,
+ "rankingPositionChange": -2,
+ "gloryPoint": 19017,
+ "gloryPointChange": 122,
  "soldierRankID": 12,
  "characterName": "Alesa",
  "guildName": "KIZIL ORDU",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 18895,
    "gloryPointChange": -18,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 356,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19017,
+   "gloryPointChange": 122,
    "soldierRankID": 12
   }
  ],

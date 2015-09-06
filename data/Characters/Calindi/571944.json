@@ -2,9 +2,9 @@
  "characterID": 571944,
  "characterClassID": 1,
  "raceID": 0,
- "position": 482,
- "rankingPositionChange": 1,
- "gloryPoint": 5799,
+ "position": 483,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5771,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ysadriel",
@@ -272,6 +272,14 @@
    "position": 482,
    "rankingPositionChange": 1,
    "gloryPoint": 5799,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 483,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5771,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

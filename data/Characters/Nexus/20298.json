@@ -2,10 +2,10 @@
  "characterID": 20298,
  "characterClassID": 4,
  "raceID": 1,
- "position": 755,
- "rankingPositionChange": -1,
- "gloryPoint": 14420,
- "gloryPointChange": -7,
+ "position": 752,
+ "rankingPositionChange": 3,
+ "gloryPoint": 14713,
+ "gloryPointChange": 293,
  "soldierRankID": 10,
  "characterName": "Xiruko",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 14420,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 752,
+   "rankingPositionChange": 3,
+   "gloryPoint": 14713,
+   "gloryPointChange": 293,
    "soldierRankID": 10
   }
  ],

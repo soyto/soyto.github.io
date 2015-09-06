@@ -3,13 +3,11 @@
  "characterClassID": 8,
  "raceID": 0,
  "position": 324,
- "rankingPositionChange": -1,
- "gloryPoint": 39530,
+ "rankingPositionChange": 0,
+ "gloryPoint": 39502,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Synami",
- "guildName": "O P E N   P V E",
- "guildID": 37903,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 39530,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 324,
+   "rankingPositionChange": 0,
+   "gloryPoint": 39502,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -290,6 +296,9 @@
    "date": "2015-08-03T22:00:00.000Z",
    "guildName": "O P E N   P V E",
    "guildID": 37903
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z"
   }
  ]
 }

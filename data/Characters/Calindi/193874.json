@@ -2,9 +2,9 @@
  "characterID": 193874,
  "characterClassID": 4,
  "raceID": 0,
- "position": 475,
- "rankingPositionChange": 1,
- "gloryPoint": 5936,
+ "position": 477,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5908,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Yukianna",
@@ -256,6 +256,14 @@
    "position": 475,
    "rankingPositionChange": 1,
    "gloryPoint": 5936,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 477,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5908,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

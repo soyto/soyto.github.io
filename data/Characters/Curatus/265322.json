@@ -3,11 +3,13 @@
  "characterClassID": 4,
  "raceID": 0,
  "position": 236,
- "rankingPositionChange": 1,
- "gloryPoint": 68399,
- "gloryPointChange": 495,
+ "rankingPositionChange": 0,
+ "gloryPoint": 68862,
+ "gloryPointChange": 463,
  "soldierRankID": 13,
  "characterName": "Seclusion",
+ "guildName": "DreamSeekers",
+ "guildID": 5046,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 68399,
    "gloryPointChange": 495,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 236,
+   "rankingPositionChange": 0,
+   "gloryPoint": 68862,
+   "gloryPointChange": 463,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -293,6 +303,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "DreamSeekers",
+   "guildID": 5046
   }
  ]
 }

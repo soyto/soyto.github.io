@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 645,
- "rankingPositionChange": 1,
- "gloryPoint": 8091,
- "gloryPointChange": 50,
+ "rankingPositionChange": 0,
+ "gloryPoint": 8077,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Asterhunter",
  "guildName": "AbyssGates",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 8091,
    "gloryPointChange": 50,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 645,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8077,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 55116,
  "characterClassID": 16,
  "raceID": 1,
- "position": 257,
- "rankingPositionChange": -1,
- "gloryPoint": 32660,
- "gloryPointChange": 194,
+ "position": 256,
+ "rankingPositionChange": 1,
+ "gloryPoint": 32681,
+ "gloryPointChange": 21,
  "soldierRankID": 13,
  "characterName": "Ginevra",
  "guildName": "Night Raid",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 32660,
    "gloryPointChange": 194,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 256,
+   "rankingPositionChange": 1,
+   "gloryPoint": 32681,
+   "gloryPointChange": 21,
    "soldierRankID": 13
   }
  ],

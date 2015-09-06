@@ -2,14 +2,14 @@
  "characterID": 1695,
  "characterClassID": 1,
  "raceID": 1,
- "position": 158,
- "rankingPositionChange": 0,
- "gloryPoint": 47404,
- "gloryPointChange": -49,
+ "position": 159,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47455,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Ktd",
- "guildName": "Absinthe",
- "guildID": 6994,
+ "guildName": "Nutshell",
+ "guildID": 7057,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,6 +266,14 @@
    "gloryPoint": 47404,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47455,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -300,6 +308,11 @@
    "date": "2015-08-26T22:00:00.000Z",
    "guildName": "Absinthe",
    "guildID": 6994
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "guildName": "Nutshell",
+   "guildID": 7057
   }
  ]
 }

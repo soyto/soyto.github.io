@@ -2,9 +2,9 @@
  "characterID": 983830,
  "characterClassID": 2,
  "raceID": 1,
- "position": 546,
- "rankingPositionChange": 1,
- "gloryPoint": 8499,
+ "position": 549,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8485,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Arsis",
@@ -264,6 +264,14 @@
    "position": 546,
    "rankingPositionChange": 1,
    "gloryPoint": 8499,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 549,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8485,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

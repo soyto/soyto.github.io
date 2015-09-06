@@ -2,10 +2,10 @@
  "characterID": 185951,
  "characterClassID": 2,
  "raceID": 1,
- "position": 61,
- "rankingPositionChange": 1,
- "gloryPoint": 121956,
- "gloryPointChange": 522,
+ "position": 62,
+ "rankingPositionChange": -1,
+ "gloryPoint": 122511,
+ "gloryPointChange": 555,
  "soldierRankID": 14,
  "characterName": "Reso",
  "guildName": "ANCHOR",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 121956,
    "gloryPointChange": 522,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 62,
+   "rankingPositionChange": -1,
+   "gloryPoint": 122511,
+   "gloryPointChange": 555,
    "soldierRankID": 14
   }
  ],

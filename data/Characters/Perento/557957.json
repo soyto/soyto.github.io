@@ -2,10 +2,10 @@
  "characterID": 557957,
  "characterClassID": 10,
  "raceID": 1,
- "position": 450,
+ "position": 449,
  "rankingPositionChange": 1,
- "gloryPoint": 10506,
- "gloryPointChange": 22,
+ "gloryPoint": 10478,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Fonzz",
  "guildName": "Not Today",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 10506,
    "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 449,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10478,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

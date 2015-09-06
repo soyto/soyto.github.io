@@ -2,9 +2,9 @@
  "characterID": 50594,
  "characterClassID": 4,
  "raceID": 1,
- "position": 798,
- "rankingPositionChange": 2,
- "gloryPoint": 2495,
+ "position": 802,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2488,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sinsy",
@@ -272,6 +272,14 @@
    "position": 798,
    "rankingPositionChange": 2,
    "gloryPoint": 2495,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 802,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2488,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

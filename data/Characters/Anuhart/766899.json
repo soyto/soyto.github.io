@@ -2,9 +2,9 @@
  "characterID": 766899,
  "characterClassID": 11,
  "raceID": 1,
- "position": 684,
- "rankingPositionChange": 1,
- "gloryPoint": 4395,
+ "position": 688,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4381,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Doduk",
@@ -270,6 +270,14 @@
    "position": 684,
    "rankingPositionChange": 1,
    "gloryPoint": 4395,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 688,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4381,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 1234188,
  "characterClassID": 2,
  "raceID": 1,
- "position": 31,
- "rankingPositionChange": 1,
- "gloryPoint": 155300,
- "gloryPointChange": 1132,
+ "position": 32,
+ "rankingPositionChange": -1,
+ "gloryPoint": 155742,
+ "gloryPointChange": 442,
  "soldierRankID": 14,
  "characterName": "Bloodclaat",
  "guildName": "Lionhearts",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 155300,
    "gloryPointChange": 1132,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 32,
+   "rankingPositionChange": -1,
+   "gloryPoint": 155742,
+   "gloryPointChange": 442,
    "soldierRankID": 14
   }
  ],

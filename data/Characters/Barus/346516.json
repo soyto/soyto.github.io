@@ -2,9 +2,9 @@
  "characterID": 346516,
  "characterClassID": 10,
  "raceID": 0,
- "position": 239,
- "rankingPositionChange": -1,
- "gloryPoint": 59156,
+ "position": 238,
+ "rankingPositionChange": 1,
+ "gloryPoint": 59107,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Mosquit",
@@ -272,6 +272,14 @@
    "position": 239,
    "rankingPositionChange": -1,
    "gloryPoint": 59156,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 238,
+   "rankingPositionChange": 1,
+   "gloryPoint": 59107,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

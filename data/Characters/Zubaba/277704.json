@@ -2,9 +2,9 @@
  "characterID": 277704,
  "characterClassID": 8,
  "raceID": 1,
- "position": 625,
- "rankingPositionChange": 1,
- "gloryPoint": 5413,
+ "position": 628,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5399,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Razy",
@@ -272,6 +272,14 @@
    "position": 625,
    "rankingPositionChange": 1,
    "gloryPoint": 5413,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-04T22:00:00.000Z",
+   "position": 628,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5399,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }
