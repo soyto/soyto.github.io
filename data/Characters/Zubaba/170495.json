@@ -2,9 +2,9 @@
  "characterID": 170495,
  "characterClassID": 4,
  "raceID": 0,
- "position": 251,
- "rankingPositionChange": 0,
- "gloryPoint": 43676,
+ "position": 252,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43627,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Arfonia",
@@ -272,6 +272,14 @@
    "position": 251,
    "rankingPositionChange": 0,
    "gloryPoint": 43676,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 252,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43627,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

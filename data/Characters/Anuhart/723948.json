@@ -2,9 +2,9 @@
  "characterID": 723948,
  "characterClassID": 1,
  "raceID": 0,
- "position": 98,
- "rankingPositionChange": 1,
- "gloryPoint": 91524,
+ "position": 100,
+ "rankingPositionChange": -2,
+ "gloryPoint": 91417,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Berezhuk",
@@ -280,6 +280,14 @@
    "position": 98,
    "rankingPositionChange": 1,
    "gloryPoint": 91524,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 100,
+   "rankingPositionChange": -2,
+   "gloryPoint": 91417,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

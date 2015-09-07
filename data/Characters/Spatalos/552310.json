@@ -2,9 +2,9 @@
  "characterID": 552310,
  "characterClassID": 2,
  "raceID": 0,
- "position": 433,
- "rankingPositionChange": 0,
- "gloryPoint": 29420,
+ "position": 434,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29392,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ginosaji",
@@ -278,6 +278,14 @@
    "position": 433,
    "rankingPositionChange": 0,
    "gloryPoint": 29420,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 434,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29392,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

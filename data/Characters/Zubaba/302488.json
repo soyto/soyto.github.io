@@ -2,10 +2,10 @@
  "characterID": 302488,
  "characterClassID": 14,
  "raceID": 0,
- "position": 939,
- "rankingPositionChange": 2,
- "gloryPoint": 3300,
- "gloryPointChange": 31,
+ "position": 938,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3293,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Stormgunner",
  "guildName": "GameMasters",
@@ -89,6 +89,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 3300,
    "gloryPointChange": 31,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 938,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3293,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

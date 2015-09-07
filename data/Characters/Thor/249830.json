@@ -2,10 +2,10 @@
  "characterID": 249830,
  "characterClassID": 5,
  "raceID": 1,
- "position": 37,
- "rankingPositionChange": 1,
- "gloryPoint": 211344,
- "gloryPointChange": 521,
+ "position": 38,
+ "rankingPositionChange": -1,
+ "gloryPoint": 212536,
+ "gloryPointChange": 1192,
  "soldierRankID": 14,
  "characterName": "Elhaym",
  "guildName": "Heer der Finsternis",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 211344,
    "gloryPointChange": 521,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 38,
+   "rankingPositionChange": -1,
+   "gloryPoint": 212536,
+   "gloryPointChange": 1192,
    "soldierRankID": 14
   }
  ],

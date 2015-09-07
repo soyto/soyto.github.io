@@ -2,10 +2,10 @@
  "characterID": 536436,
  "characterClassID": 1,
  "raceID": 1,
- "position": 518,
- "rankingPositionChange": 10,
- "gloryPoint": 15404,
- "gloryPointChange": 397,
+ "position": 520,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15500,
+ "gloryPointChange": 96,
  "soldierRankID": 11,
  "characterName": "Moyras",
  "guildName": "MiThyKal",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 15404,
    "gloryPointChange": 397,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 520,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15500,
+   "gloryPointChange": 96,
    "soldierRankID": 11
   }
  ],

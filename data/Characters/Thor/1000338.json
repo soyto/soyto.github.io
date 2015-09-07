@@ -2,10 +2,10 @@
  "characterID": 1000338,
  "characterClassID": 1,
  "raceID": 1,
- "position": 159,
- "rankingPositionChange": 0,
- "gloryPoint": 87069,
- "gloryPointChange": -39,
+ "position": 160,
+ "rankingPositionChange": -1,
+ "gloryPoint": 87020,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nightout",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 87069,
    "gloryPointChange": -39,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 160,
+   "rankingPositionChange": -1,
+   "gloryPoint": 87020,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

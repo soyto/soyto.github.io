@@ -2,12 +2,12 @@
  "characterID": 831247,
  "characterClassID": 10,
  "raceID": 1,
- "position": 301,
- "rankingPositionChange": 0,
- "gloryPoint": 26496,
+ "position": 305,
+ "rankingPositionChange": -4,
+ "gloryPoint": 26468,
  "gloryPointChange": -28,
  "soldierRankID": 12,
- "characterName": "Yxunomei",
+ "characterName": "Malavon",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -176,12 +176,24 @@
    "gloryPoint": 26496,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": -4,
+   "gloryPoint": 26468,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Yxunomei"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "characterName": "Malavon"
   }
  ],
  "guilds": [

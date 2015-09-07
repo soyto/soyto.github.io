@@ -2,10 +2,10 @@
  "characterID": 33945,
  "characterClassID": 10,
  "raceID": 0,
- "position": 105,
- "rankingPositionChange": 1,
- "gloryPoint": 106608,
- "gloryPointChange": 503,
+ "position": 106,
+ "rankingPositionChange": -1,
+ "gloryPoint": 107124,
+ "gloryPointChange": 516,
  "soldierRankID": 13,
  "characterName": "Lotus",
  "guildName": "    A  L  P  H  A   ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 106608,
    "gloryPointChange": 503,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 106,
+   "rankingPositionChange": -1,
+   "gloryPoint": 107124,
+   "gloryPointChange": 516,
    "soldierRankID": 13
   }
  ],

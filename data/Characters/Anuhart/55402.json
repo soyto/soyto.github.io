@@ -2,9 +2,9 @@
  "characterID": 55402,
  "characterClassID": 2,
  "raceID": 0,
- "position": 969,
- "rankingPositionChange": 2,
- "gloryPoint": 4337,
+ "position": 975,
+ "rankingPositionChange": -6,
+ "gloryPoint": 4330,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jengeart",
@@ -230,6 +230,14 @@
    "position": 969,
    "rankingPositionChange": 2,
    "gloryPoint": 4337,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": -6,
+   "gloryPoint": 4330,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

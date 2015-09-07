@@ -2,10 +2,10 @@
  "characterID": 1238244,
  "characterClassID": 4,
  "raceID": 0,
- "position": 363,
- "rankingPositionChange": 0,
- "gloryPoint": 35101,
- "gloryPointChange": 72,
+ "position": 364,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35073,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zuce",
  "guildName": "Terror Zwerge",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35101,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35073,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

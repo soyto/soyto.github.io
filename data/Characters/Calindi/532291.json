@@ -2,10 +2,10 @@
  "characterID": 532291,
  "characterClassID": 16,
  "raceID": 1,
- "position": 200,
- "rankingPositionChange": -4,
- "gloryPoint": 4100,
- "gloryPointChange": 14,
+ "position": 199,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4071,
+ "gloryPointChange": -29,
  "soldierRankID": 13,
  "characterName": "Halispheria",
  "guildName": "La Fureur Asmodienne",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 4100,
    "gloryPointChange": 14,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 199,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4071,
+   "gloryPointChange": -29,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 202890,
  "characterClassID": 8,
  "raceID": 0,
- "position": 880,
- "rankingPositionChange": -1,
- "gloryPoint": 12473,
+ "position": 879,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12466,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dubstra",
@@ -280,6 +280,14 @@
    "position": 880,
    "rankingPositionChange": -1,
    "gloryPoint": 12473,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 879,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12466,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

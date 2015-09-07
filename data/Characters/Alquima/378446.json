@@ -2,9 +2,9 @@
  "characterID": 378446,
  "characterClassID": 1,
  "raceID": 0,
- "position": 173,
- "rankingPositionChange": 2,
- "gloryPoint": 68351,
+ "position": 174,
+ "rankingPositionChange": -1,
+ "gloryPoint": 68302,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ichijou",
@@ -280,6 +280,14 @@
    "position": 173,
    "rankingPositionChange": 2,
    "gloryPoint": 68351,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 174,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68302,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

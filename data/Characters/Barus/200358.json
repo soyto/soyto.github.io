@@ -2,10 +2,10 @@
  "characterID": 200358,
  "characterClassID": 14,
  "raceID": 1,
- "position": 79,
- "rankingPositionChange": 0,
- "gloryPoint": 127695,
- "gloryPointChange": 275,
+ "position": 80,
+ "rankingPositionChange": -1,
+ "gloryPoint": 127588,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Mantus",
  "guildName": " B E R S E R K ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 127695,
    "gloryPointChange": 275,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 80,
+   "rankingPositionChange": -1,
+   "gloryPoint": 127588,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

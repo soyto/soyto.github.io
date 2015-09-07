@@ -2,9 +2,9 @@
  "characterID": 1203518,
  "characterClassID": 14,
  "raceID": 0,
- "position": 466,
- "rankingPositionChange": 0,
- "gloryPoint": 35435,
+ "position": 474,
+ "rankingPositionChange": -8,
+ "gloryPoint": 35407,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Irongun",
@@ -280,6 +280,14 @@
    "position": 466,
    "rankingPositionChange": 0,
    "gloryPoint": 35435,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 474,
+   "rankingPositionChange": -8,
+   "gloryPoint": 35407,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

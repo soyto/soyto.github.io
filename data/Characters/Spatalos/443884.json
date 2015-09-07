@@ -2,9 +2,9 @@
  "characterID": 443884,
  "characterClassID": 4,
  "raceID": 0,
- "position": 918,
- "rankingPositionChange": 2,
- "gloryPoint": 7176,
+ "position": 923,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7169,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Espirit",
@@ -40,6 +40,14 @@
    "position": 918,
    "rankingPositionChange": 2,
    "gloryPoint": 7176,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 923,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7169,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

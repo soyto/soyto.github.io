@@ -2,9 +2,9 @@
  "characterID": 55848,
  "characterClassID": 14,
  "raceID": 1,
- "position": 123,
- "rankingPositionChange": -2,
- "gloryPoint": 75632,
+ "position": 122,
+ "rankingPositionChange": 1,
+ "gloryPoint": 75583,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kingsman",
@@ -278,6 +278,14 @@
    "position": 123,
    "rankingPositionChange": -2,
    "gloryPoint": 75632,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 122,
+   "rankingPositionChange": 1,
+   "gloryPoint": 75583,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

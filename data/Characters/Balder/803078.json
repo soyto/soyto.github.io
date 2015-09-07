@@ -2,9 +2,9 @@
  "characterID": 803078,
  "characterClassID": 5,
  "raceID": 0,
- "position": 636,
- "rankingPositionChange": 2,
- "gloryPoint": 4451,
+ "position": 637,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4437,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Atletus",
@@ -278,6 +278,14 @@
    "position": 636,
    "rankingPositionChange": 2,
    "gloryPoint": 4451,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 637,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4437,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

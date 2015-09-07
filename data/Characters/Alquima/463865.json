@@ -2,9 +2,9 @@
  "characterID": 463865,
  "characterClassID": 7,
  "raceID": 0,
- "position": 356,
- "rankingPositionChange": 0,
- "gloryPoint": 33905,
+ "position": 357,
+ "rankingPositionChange": -1,
+ "gloryPoint": 33877,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Duma",
@@ -280,6 +280,14 @@
    "position": 356,
    "rankingPositionChange": 0,
    "gloryPoint": 33905,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 357,
+   "rankingPositionChange": -1,
+   "gloryPoint": 33877,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 3461,
  "characterClassID": 2,
  "raceID": 0,
- "position": 121,
- "rankingPositionChange": 1,
- "gloryPoint": 110214,
- "gloryPointChange": 176,
+ "position": 122,
+ "rankingPositionChange": -1,
+ "gloryPoint": 110168,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "DameantheaST",
  "guildName": "Pallas",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 110214,
    "gloryPointChange": 176,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 122,
+   "rankingPositionChange": -1,
+   "gloryPoint": 110168,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

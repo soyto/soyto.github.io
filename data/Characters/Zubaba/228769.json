@@ -2,10 +2,10 @@
  "characterID": 228769,
  "characterClassID": 16,
  "raceID": 1,
- "position": 263,
- "rankingPositionChange": 0,
- "gloryPoint": 31267,
- "gloryPointChange": 54,
+ "position": 264,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31218,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Svitch",
  "guildName": "Nizam I Cedid",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 31267,
    "gloryPointChange": 54,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 264,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31218,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

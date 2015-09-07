@@ -2,9 +2,9 @@
  "characterID": 672384,
  "characterClassID": 5,
  "raceID": 0,
- "position": 759,
- "rankingPositionChange": 2,
- "gloryPoint": 20155,
+ "position": 769,
+ "rankingPositionChange": -10,
+ "gloryPoint": 20148,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eldalivia",
@@ -166,6 +166,14 @@
    "position": 759,
    "rankingPositionChange": 2,
    "gloryPoint": 20155,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 769,
+   "rankingPositionChange": -10,
+   "gloryPoint": 20148,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

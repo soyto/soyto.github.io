@@ -2,9 +2,9 @@
  "characterID": 10221,
  "characterClassID": 5,
  "raceID": 0,
- "position": 655,
- "rankingPositionChange": 0,
- "gloryPoint": 25160,
+ "position": 663,
+ "rankingPositionChange": -8,
+ "gloryPoint": 25146,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Infinity",
@@ -280,6 +280,14 @@
    "position": 655,
    "rankingPositionChange": 0,
    "gloryPoint": 25160,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 663,
+   "rankingPositionChange": -8,
+   "gloryPoint": 25146,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

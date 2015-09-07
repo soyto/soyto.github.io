@@ -2,10 +2,10 @@
  "characterID": 441615,
  "characterClassID": 10,
  "raceID": 1,
- "position": 20,
- "rankingPositionChange": 0,
- "gloryPoint": 196383,
- "gloryPointChange": 431,
+ "position": 21,
+ "rankingPositionChange": -1,
+ "gloryPoint": 197493,
+ "gloryPointChange": 1110,
  "soldierRankID": 15,
  "characterName": "Lunnaa",
  "guildName": "Lionhearts",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 196383,
    "gloryPointChange": 431,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 21,
+   "rankingPositionChange": -1,
+   "gloryPoint": 197493,
+   "gloryPointChange": 1110,
    "soldierRankID": 15
   }
  ],

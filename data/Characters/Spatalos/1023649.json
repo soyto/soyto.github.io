@@ -2,10 +2,10 @@
  "characterID": 1023649,
  "characterClassID": 14,
  "raceID": 0,
- "position": 321,
- "rankingPositionChange": 1,
- "gloryPoint": 47385,
- "gloryPointChange": -25,
+ "position": 322,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47357,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Jup",
  "guildName": "c ude",
@@ -89,6 +89,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 47385,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 322,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47357,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

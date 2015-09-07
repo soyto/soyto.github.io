@@ -2,9 +2,9 @@
  "characterID": 639479,
  "characterClassID": 7,
  "raceID": 1,
- "position": 929,
- "rankingPositionChange": 0,
- "gloryPoint": 1821,
+ "position": 930,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1814,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Exced",
@@ -150,6 +150,14 @@
    "position": 929,
    "rankingPositionChange": 0,
    "gloryPoint": 1821,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 930,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1814,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

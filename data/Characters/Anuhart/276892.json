@@ -2,9 +2,9 @@
  "characterID": 276892,
  "characterClassID": 8,
  "raceID": 0,
- "position": 904,
- "rankingPositionChange": 2,
- "gloryPoint": 5024,
+ "position": 909,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5017,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Peterburger",
@@ -280,6 +280,14 @@
    "position": 904,
    "rankingPositionChange": 2,
    "gloryPoint": 5024,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 909,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5017,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

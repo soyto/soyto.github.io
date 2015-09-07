@@ -2,9 +2,9 @@
  "characterID": 1126972,
  "characterClassID": 1,
  "raceID": 0,
- "position": 661,
- "rankingPositionChange": 2,
- "gloryPoint": 9344,
+ "position": 666,
+ "rankingPositionChange": -5,
+ "gloryPoint": 9330,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Xarmadeathx",
@@ -272,6 +272,14 @@
    "position": 661,
    "rankingPositionChange": 2,
    "gloryPoint": 9344,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 666,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9330,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

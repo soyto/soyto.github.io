@@ -2,10 +2,10 @@
  "characterID": 359882,
  "characterClassID": 10,
  "raceID": 0,
- "position": 519,
- "rankingPositionChange": 1,
- "gloryPoint": 27297,
- "gloryPointChange": 133,
+ "position": 520,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27309,
+ "gloryPointChange": 12,
  "soldierRankID": 11,
  "characterName": "Harusama",
  "guildName": "Soul of Phoenix",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 27297,
    "gloryPointChange": 133,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 520,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27309,
+   "gloryPointChange": 12,
    "soldierRankID": 11
   }
  ],

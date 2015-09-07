@@ -4,10 +4,12 @@
  "raceID": 1,
  "position": 307,
  "rankingPositionChange": 0,
- "gloryPoint": 24785,
- "gloryPointChange": -28,
+ "gloryPoint": 24866,
+ "gloryPointChange": 81,
  "soldierRankID": 12,
  "characterName": "Losstyraell",
+ "guildName": "V for Vendetta",
+ "guildID": 1639,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 24785,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": 0,
+   "gloryPoint": 24866,
+   "gloryPointChange": 81,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "V for Vendetta",
+   "guildID": 1639
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 1034342,
  "characterClassID": 1,
  "raceID": 0,
- "position": 272,
- "rankingPositionChange": 5,
- "gloryPoint": 56385,
- "gloryPointChange": 531,
+ "position": 275,
+ "rankingPositionChange": -3,
+ "gloryPoint": 55843,
+ "gloryPointChange": -542,
  "soldierRankID": 13,
  "characterName": "Dimity",
  "guildName": "les meilleurs",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 56385,
    "gloryPointChange": 531,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 275,
+   "rankingPositionChange": -3,
+   "gloryPoint": 55843,
+   "gloryPointChange": -542,
    "soldierRankID": 13
   }
  ],

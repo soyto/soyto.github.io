@@ -2,9 +2,9 @@
  "characterID": 951461,
  "characterClassID": 5,
  "raceID": 0,
- "position": 915,
- "rankingPositionChange": 3,
- "gloryPoint": 15128,
+ "position": 929,
+ "rankingPositionChange": -14,
+ "gloryPoint": 15121,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Oufti",
@@ -280,6 +280,14 @@
    "position": 915,
    "rankingPositionChange": 3,
    "gloryPoint": 15128,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 929,
+   "rankingPositionChange": -14,
+   "gloryPoint": 15121,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

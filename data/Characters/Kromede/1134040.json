@@ -2,10 +2,10 @@
  "characterID": 1134040,
  "characterClassID": 4,
  "raceID": 1,
- "position": 987,
- "rankingPositionChange": 0,
- "gloryPoint": 2914,
- "gloryPointChange": 91,
+ "position": 990,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2935,
+ "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Sournoise",
  "guildName": "Barbapapa",
@@ -249,6 +249,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 2914,
    "gloryPointChange": 91,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2935,
+   "gloryPointChange": 21,
    "soldierRankID": 10
   }
  ],

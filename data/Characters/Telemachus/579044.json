@@ -2,9 +2,9 @@
  "characterID": 579044,
  "characterClassID": 5,
  "raceID": 0,
- "position": 728,
- "rankingPositionChange": -1,
- "gloryPoint": 12628,
+ "position": 727,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12621,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Murmidwn",
@@ -280,6 +280,14 @@
    "position": 728,
    "rankingPositionChange": -1,
    "gloryPoint": 12628,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 727,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12621,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

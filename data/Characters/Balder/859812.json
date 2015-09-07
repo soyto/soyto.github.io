@@ -2,9 +2,9 @@
  "characterID": 859812,
  "characterClassID": 10,
  "raceID": 0,
- "position": 106,
- "rankingPositionChange": 0,
- "gloryPoint": 82402,
+ "position": 108,
+ "rankingPositionChange": -2,
+ "gloryPoint": 82353,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Grennith",
@@ -272,6 +272,14 @@
    "position": 106,
    "rankingPositionChange": 0,
    "gloryPoint": 82402,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 108,
+   "rankingPositionChange": -2,
+   "gloryPoint": 82353,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

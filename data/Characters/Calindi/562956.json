@@ -2,9 +2,9 @@
  "characterID": 562956,
  "characterClassID": 1,
  "raceID": 1,
- "position": 77,
- "rankingPositionChange": 0,
- "gloryPoint": 22158,
+ "position": 79,
+ "rankingPositionChange": -2,
+ "gloryPoint": 22051,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Lamies",
@@ -280,6 +280,14 @@
    "position": 77,
    "rankingPositionChange": 0,
    "gloryPoint": 22158,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 79,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22051,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

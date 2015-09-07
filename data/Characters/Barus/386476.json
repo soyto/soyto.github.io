@@ -2,10 +2,10 @@
  "characterID": 386476,
  "characterClassID": 11,
  "raceID": 1,
- "position": 448,
- "rankingPositionChange": 4,
- "gloryPoint": 31053,
- "gloryPointChange": 287,
+ "position": 450,
+ "rankingPositionChange": -2,
+ "gloryPoint": 31112,
+ "gloryPointChange": 59,
  "soldierRankID": 12,
  "characterName": "Arjo",
  "guildName": "OutOfControl",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 31053,
    "gloryPointChange": 287,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31112,
+   "gloryPointChange": 59,
    "soldierRankID": 12
   }
  ],

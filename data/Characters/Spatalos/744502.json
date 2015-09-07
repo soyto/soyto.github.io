@@ -2,10 +2,10 @@
  "characterID": 744502,
  "characterClassID": 4,
  "raceID": 1,
- "position": 101,
- "rankingPositionChange": 1,
- "gloryPoint": 71089,
- "gloryPointChange": 576,
+ "position": 104,
+ "rankingPositionChange": -3,
+ "gloryPoint": 71040,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Xac",
  "guildName": "Munin Stole My Bike",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 71089,
    "gloryPointChange": 576,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": -3,
+   "gloryPoint": 71040,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

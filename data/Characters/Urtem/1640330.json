@@ -2,14 +2,12 @@
  "characterID": 1640330,
  "characterClassID": 16,
  "raceID": 1,
- "position": 276,
- "rankingPositionChange": 2,
- "gloryPoint": 39983,
- "gloryPointChange": 159,
+ "position": 268,
+ "rankingPositionChange": 8,
+ "gloryPoint": 41238,
+ "gloryPointChange": 1255,
  "soldierRankID": 13,
  "characterName": "Missed",
- "guildName": "NiNjA Family",
- "guildID": 44990,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,6 +264,14 @@
    "gloryPoint": 39983,
    "gloryPointChange": 159,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 268,
+   "rankingPositionChange": 8,
+   "gloryPoint": 41238,
+   "gloryPointChange": 1255,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "NiNjA Family",
    "guildID": 44990
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

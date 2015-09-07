@@ -2,10 +2,10 @@
  "characterID": 860572,
  "characterClassID": 7,
  "raceID": 0,
- "position": 475,
- "rankingPositionChange": 3,
- "gloryPoint": 34730,
- "gloryPointChange": 95,
+ "position": 481,
+ "rankingPositionChange": -6,
+ "gloryPoint": 34811,
+ "gloryPointChange": 81,
  "soldierRankID": 12,
  "characterName": "Stollan",
  "guildName": "Cercle infernal",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 34730,
    "gloryPointChange": 95,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 481,
+   "rankingPositionChange": -6,
+   "gloryPoint": 34811,
+   "gloryPointChange": 81,
    "soldierRankID": 12
   }
  ],

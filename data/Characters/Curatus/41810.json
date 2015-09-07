@@ -2,9 +2,9 @@
  "characterID": 41810,
  "characterClassID": 16,
  "raceID": 0,
- "position": 666,
- "rankingPositionChange": 1,
- "gloryPoint": 18739,
+ "position": 671,
+ "rankingPositionChange": -5,
+ "gloryPoint": 18725,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Rosewhite",
@@ -270,6 +270,14 @@
    "position": 666,
    "rankingPositionChange": 1,
    "gloryPoint": 18739,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": -5,
+   "gloryPoint": 18725,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

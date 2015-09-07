@@ -2,9 +2,9 @@
  "characterID": 34138,
  "characterClassID": 1,
  "raceID": 0,
- "position": 107,
- "rankingPositionChange": 0,
- "gloryPoint": 122692,
+ "position": 108,
+ "rankingPositionChange": -1,
+ "gloryPoint": 122643,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rhilide",
@@ -270,6 +270,14 @@
    "position": 107,
    "rankingPositionChange": 0,
    "gloryPoint": 122692,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 108,
+   "rankingPositionChange": -1,
+   "gloryPoint": 122643,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

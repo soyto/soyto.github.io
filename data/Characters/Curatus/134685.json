@@ -2,9 +2,9 @@
  "characterID": 134685,
  "characterClassID": 14,
  "raceID": 0,
- "position": 889,
- "rankingPositionChange": 1,
- "gloryPoint": 10772,
+ "position": 896,
+ "rankingPositionChange": -7,
+ "gloryPoint": 10765,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ajock",
@@ -280,6 +280,14 @@
    "position": 889,
    "rankingPositionChange": 1,
    "gloryPoint": 10772,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 896,
+   "rankingPositionChange": -7,
+   "gloryPoint": 10765,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

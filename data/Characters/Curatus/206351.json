@@ -2,14 +2,12 @@
  "characterID": 206351,
  "characterClassID": 11,
  "raceID": 1,
- "position": 835,
- "rankingPositionChange": -2,
- "gloryPoint": 4675,
- "gloryPointChange": -7,
+ "position": 836,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4718,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Newera",
- "guildName": "N o S",
- "guildID": 1770,
  "status": [
   {
    "date": "2015-08-18T22:00:00.000Z",
@@ -138,6 +136,14 @@
    "gloryPoint": 4675,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 836,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4718,
+   "gloryPointChange": 43,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -151,6 +157,9 @@
    "date": "2015-08-18T22:00:00.000Z",
    "guildName": "N o S",
    "guildID": 1770
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

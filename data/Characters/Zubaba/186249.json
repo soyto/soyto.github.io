@@ -2,10 +2,10 @@
  "characterID": 186249,
  "characterClassID": 4,
  "raceID": 1,
- "position": 608,
- "rankingPositionChange": 15,
- "gloryPoint": 5857,
- "gloryPointChange": 375,
+ "position": 609,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5985,
+ "gloryPointChange": 128,
  "soldierRankID": 11,
  "characterName": "Assassineed",
  "guildName": "Smile",
@@ -209,6 +209,14 @@
    "rankingPositionChange": 15,
    "gloryPoint": 5857,
    "gloryPointChange": 375,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 609,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5985,
+   "gloryPointChange": 128,
    "soldierRankID": 11
   }
  ],

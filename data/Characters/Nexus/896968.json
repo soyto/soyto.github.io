@@ -2,10 +2,10 @@
  "characterID": 896968,
  "characterClassID": 14,
  "raceID": 0,
- "position": 641,
- "rankingPositionChange": 6,
- "gloryPoint": 11358,
- "gloryPointChange": 330,
+ "position": 643,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11344,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ttc",
  "guildName": "Kinky",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 11358,
    "gloryPointChange": 330,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 643,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11344,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

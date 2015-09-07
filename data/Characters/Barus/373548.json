@@ -2,9 +2,9 @@
  "characterID": 373548,
  "characterClassID": 1,
  "raceID": 1,
- "position": 815,
- "rankingPositionChange": 4,
- "gloryPoint": 14066,
+ "position": 820,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14059,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Enzoo",
@@ -280,6 +280,14 @@
    "position": 815,
    "rankingPositionChange": 4,
    "gloryPoint": 14066,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 820,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14059,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

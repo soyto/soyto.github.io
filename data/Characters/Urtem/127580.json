@@ -2,9 +2,9 @@
  "characterID": 127580,
  "characterClassID": 8,
  "raceID": 1,
- "position": 811,
- "rankingPositionChange": 0,
- "gloryPoint": 9663,
+ "position": 816,
+ "rankingPositionChange": -5,
+ "gloryPoint": 9656,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bromus",
@@ -256,6 +256,14 @@
    "position": 811,
    "rankingPositionChange": 0,
    "gloryPoint": 9663,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 816,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9656,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

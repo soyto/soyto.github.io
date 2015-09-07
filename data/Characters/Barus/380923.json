@@ -2,10 +2,10 @@
  "characterID": 380923,
  "characterClassID": 7,
  "raceID": 1,
- "position": 210,
- "rankingPositionChange": 1,
- "gloryPoint": 69308,
- "gloryPointChange": 19,
+ "position": 213,
+ "rankingPositionChange": -3,
+ "gloryPoint": 69269,
+ "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Kashabi",
  "guildName": "Dead Chicks Cant Say No",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 69308,
    "gloryPointChange": 19,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 213,
+   "rankingPositionChange": -3,
+   "gloryPoint": 69269,
+   "gloryPointChange": -39,
    "soldierRankID": 13
   }
  ],

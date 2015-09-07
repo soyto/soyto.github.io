@@ -2,9 +2,9 @@
  "characterID": 1224707,
  "characterClassID": 16,
  "raceID": 0,
- "position": 151,
- "rankingPositionChange": 0,
- "gloryPoint": 94135,
+ "position": 153,
+ "rankingPositionChange": -2,
+ "gloryPoint": 94086,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Gnette",
@@ -136,6 +136,14 @@
    "position": 151,
    "rankingPositionChange": 0,
    "gloryPoint": 94135,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 153,
+   "rankingPositionChange": -2,
+   "gloryPoint": 94086,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

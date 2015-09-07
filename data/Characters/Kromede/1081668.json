@@ -2,10 +2,10 @@
  "characterID": 1081668,
  "characterClassID": 2,
  "raceID": 1,
- "position": 126,
- "rankingPositionChange": 1,
- "gloryPoint": 70178,
- "gloryPointChange": 104,
+ "position": 127,
+ "rankingPositionChange": -1,
+ "gloryPoint": 70129,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kyzarus",
  "guildName": "Dantes  Inferno",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 70178,
    "gloryPointChange": 104,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": -1,
+   "gloryPoint": 70129,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

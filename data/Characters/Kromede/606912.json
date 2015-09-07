@@ -2,9 +2,9 @@
  "characterID": 606912,
  "characterClassID": 1,
  "raceID": 0,
- "position": 702,
- "rankingPositionChange": -1,
- "gloryPoint": 15794,
+ "position": 701,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15787,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Feranor",
@@ -280,6 +280,14 @@
    "position": 702,
    "rankingPositionChange": -1,
    "gloryPoint": 15794,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 701,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15787,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

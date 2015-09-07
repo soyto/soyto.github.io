@@ -2,9 +2,9 @@
  "characterID": 166750,
  "characterClassID": 8,
  "raceID": 1,
- "position": 522,
- "rankingPositionChange": 4,
- "gloryPoint": 1690,
+ "position": 532,
+ "rankingPositionChange": -10,
+ "gloryPoint": 1676,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Skaila",
@@ -272,6 +272,14 @@
    "position": 522,
    "rankingPositionChange": 4,
    "gloryPoint": 1690,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 532,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1676,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 1536399,
  "characterClassID": 14,
  "raceID": 1,
- "position": 576,
- "rankingPositionChange": 0,
- "gloryPoint": 6344,
+ "position": 580,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6330,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Roufi",
@@ -280,6 +280,14 @@
    "position": 576,
    "rankingPositionChange": 0,
    "gloryPoint": 6344,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 580,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6330,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

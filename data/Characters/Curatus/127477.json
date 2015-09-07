@@ -2,10 +2,10 @@
  "characterID": 127477,
  "characterClassID": 4,
  "raceID": 1,
- "position": 791,
- "rankingPositionChange": 0,
- "gloryPoint": 5366,
- "gloryPointChange": 62,
+ "position": 795,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5359,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dantegil",
  "guildName": "Blood Storm",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5366,
    "gloryPointChange": 62,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 795,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5359,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

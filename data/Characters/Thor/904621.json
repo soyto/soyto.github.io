@@ -2,10 +2,10 @@
  "characterID": 904621,
  "characterClassID": 8,
  "raceID": 1,
- "position": 192,
- "rankingPositionChange": 0,
- "gloryPoint": 73858,
- "gloryPointChange": 101,
+ "position": 194,
+ "rankingPositionChange": -2,
+ "gloryPoint": 73859,
+ "gloryPointChange": 1,
  "soldierRankID": 13,
  "characterName": "Berlis",
  "guildName": "Heer der Finsternis",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 73858,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 194,
+   "rankingPositionChange": -2,
+   "gloryPoint": 73859,
+   "gloryPointChange": 1,
    "soldierRankID": 13
   }
  ],

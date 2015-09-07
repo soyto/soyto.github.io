@@ -2,14 +2,12 @@
  "characterID": 269088,
  "characterClassID": 16,
  "raceID": 0,
- "position": 723,
- "rankingPositionChange": 5,
- "gloryPoint": 18952,
- "gloryPointChange": 291,
- "soldierRankID": 10,
+ "position": 689,
+ "rankingPositionChange": 34,
+ "gloryPoint": 20059,
+ "gloryPointChange": 1107,
+ "soldierRankID": 11,
  "characterName": "Cadie",
- "guildName": "Mowila ze ma OSIEMNASCIE",
- "guildID": 4123,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 18952,
    "gloryPointChange": 291,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 689,
+   "rankingPositionChange": 34,
+   "gloryPoint": 20059,
+   "gloryPointChange": 1107,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -300,6 +306,9 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "Mowila ze ma OSIEMNASCIE",
    "guildID": 4123
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

@@ -2,14 +2,12 @@
  "characterID": 389012,
  "characterClassID": 11,
  "raceID": 0,
- "position": 697,
- "rankingPositionChange": 4,
- "gloryPoint": 2401,
- "gloryPointChange": -7,
- "soldierRankID": 11,
+ "position": 732,
+ "rankingPositionChange": -35,
+ "gloryPoint": 2387,
+ "gloryPointChange": -14,
+ "soldierRankID": 10,
  "characterName": "Haawkeye",
- "guildName": "Savage Spirit",
- "guildID": 13827,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -218,6 +216,14 @@
    "gloryPoint": 2401,
    "gloryPointChange": -7,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 732,
+   "rankingPositionChange": -35,
+   "gloryPoint": 2387,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -231,6 +237,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

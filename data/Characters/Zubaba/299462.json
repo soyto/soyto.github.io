@@ -2,10 +2,10 @@
  "characterID": 299462,
  "characterClassID": 1,
  "raceID": 1,
- "position": 688,
- "rankingPositionChange": 0,
- "gloryPoint": 3956,
- "gloryPointChange": 64,
+ "position": 689,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3970,
+ "gloryPointChange": 14,
  "soldierRankID": 11,
  "characterName": "Feanor",
  "guildName": "Villains",
@@ -105,6 +105,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 3956,
    "gloryPointChange": 64,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 689,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3970,
+   "gloryPointChange": 14,
    "soldierRankID": 11
   }
  ],

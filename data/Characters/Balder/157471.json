@@ -2,9 +2,9 @@
  "characterID": 157471,
  "characterClassID": 2,
  "raceID": 0,
- "position": 963,
- "rankingPositionChange": 4,
- "gloryPoint": 1757,
+ "position": 965,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1750,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Anthalya",
@@ -278,6 +278,14 @@
    "position": 963,
    "rankingPositionChange": 4,
    "gloryPoint": 1757,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 965,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1750,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

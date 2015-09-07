@@ -2,11 +2,11 @@
  "characterID": 282162,
  "characterClassID": 7,
  "raceID": 1,
- "position": 599,
- "rankingPositionChange": 22,
- "gloryPoint": 1368,
- "gloryPointChange": 21,
- "soldierRankID": 11,
+ "position": 611,
+ "rankingPositionChange": -12,
+ "gloryPoint": 1354,
+ "gloryPointChange": -14,
+ "soldierRankID": 10,
  "characterName": "Feuermacher",
  "status": [
   {
@@ -136,6 +136,14 @@
    "gloryPoint": 1368,
    "gloryPointChange": 21,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": -12,
+   "gloryPoint": 1354,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [

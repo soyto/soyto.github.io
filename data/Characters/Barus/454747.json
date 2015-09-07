@@ -2,9 +2,9 @@
  "characterID": 454747,
  "characterClassID": 10,
  "raceID": 1,
- "position": 753,
- "rankingPositionChange": 1,
- "gloryPoint": 15895,
+ "position": 757,
+ "rankingPositionChange": -4,
+ "gloryPoint": 15888,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kirameki",
@@ -278,6 +278,14 @@
    "position": 753,
    "rankingPositionChange": 1,
    "gloryPoint": 15895,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 757,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15888,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

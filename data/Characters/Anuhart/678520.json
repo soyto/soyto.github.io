@@ -2,9 +2,9 @@
  "characterID": 678520,
  "characterClassID": 10,
  "raceID": 0,
- "position": 912,
- "rankingPositionChange": 1,
- "gloryPoint": 4982,
+ "position": 917,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4975,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hyuugahinata",
@@ -104,6 +104,14 @@
    "position": 912,
    "rankingPositionChange": 1,
    "gloryPoint": 4982,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 917,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4975,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

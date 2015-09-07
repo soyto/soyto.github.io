@@ -2,9 +2,9 @@
  "characterID": 1007914,
  "characterClassID": 5,
  "raceID": 1,
- "position": 280,
- "rankingPositionChange": 0,
- "gloryPoint": 26161,
+ "position": 281,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26112,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kisslana",
@@ -280,6 +280,14 @@
    "position": 280,
    "rankingPositionChange": 0,
    "gloryPoint": 26161,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 281,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26112,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

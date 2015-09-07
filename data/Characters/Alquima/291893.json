@@ -2,10 +2,10 @@
  "characterID": 291893,
  "characterClassID": 14,
  "raceID": 0,
- "position": 130,
- "rankingPositionChange": 1,
- "gloryPoint": 91053,
- "gloryPointChange": 23,
+ "position": 131,
+ "rankingPositionChange": -1,
+ "gloryPoint": 91004,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Locobandolero",
  "guildName": "OUTLAWS",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 91053,
    "gloryPointChange": 23,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 131,
+   "rankingPositionChange": -1,
+   "gloryPoint": 91004,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

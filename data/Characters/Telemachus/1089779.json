@@ -2,14 +2,12 @@
  "characterID": 1089779,
  "characterClassID": 7,
  "raceID": 0,
- "position": 246,
- "rankingPositionChange": -2,
- "gloryPoint": 58682,
+ "position": 245,
+ "rankingPositionChange": 1,
+ "gloryPoint": 58633,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Loky",
- "guildName": "Fifth Dawn",
- "guildID": 23227,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 58682,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": 1,
+   "gloryPoint": 58633,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Fifth Dawn",
    "guildID": 23227
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

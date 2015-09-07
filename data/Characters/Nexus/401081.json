@@ -2,9 +2,9 @@
  "characterID": 401081,
  "characterClassID": 16,
  "raceID": 0,
- "position": 565,
- "rankingPositionChange": 0,
- "gloryPoint": 14202,
+ "position": 570,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14188,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Rissi",
@@ -270,6 +270,14 @@
    "position": 565,
    "rankingPositionChange": 0,
    "gloryPoint": 14202,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 570,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14188,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

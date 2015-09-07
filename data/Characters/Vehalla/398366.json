@@ -2,9 +2,9 @@
  "characterID": 398366,
  "characterClassID": 8,
  "raceID": 1,
- "position": 323,
- "rankingPositionChange": 2,
- "gloryPoint": 7830,
+ "position": 324,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7802,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Valeysa",
@@ -280,6 +280,14 @@
    "position": 323,
    "rankingPositionChange": 2,
    "gloryPoint": 7830,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 324,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7802,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

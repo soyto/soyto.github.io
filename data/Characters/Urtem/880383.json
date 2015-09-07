@@ -2,9 +2,9 @@
  "characterID": 880383,
  "characterClassID": 1,
  "raceID": 0,
- "position": 600,
- "rankingPositionChange": 2,
- "gloryPoint": 28397,
+ "position": 607,
+ "rankingPositionChange": -7,
+ "gloryPoint": 28383,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Genchi",
@@ -280,6 +280,14 @@
    "position": 600,
    "rankingPositionChange": 2,
    "gloryPoint": 28397,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 607,
+   "rankingPositionChange": -7,
+   "gloryPoint": 28383,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

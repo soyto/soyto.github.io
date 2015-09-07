@@ -2,10 +2,10 @@
  "characterID": 252337,
  "characterClassID": 5,
  "raceID": 1,
- "position": 689,
- "rankingPositionChange": 1,
- "gloryPoint": 3945,
- "gloryPointChange": 88,
+ "position": 690,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3959,
+ "gloryPointChange": 14,
  "soldierRankID": 11,
  "characterName": "Archeria",
  "guildName": "Sound Of Silence",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 3945,
    "gloryPointChange": 88,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 690,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3959,
+   "gloryPointChange": 14,
    "soldierRankID": 11
   }
  ],

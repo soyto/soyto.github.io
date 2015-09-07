@@ -2,10 +2,10 @@
  "characterID": 1279692,
  "characterClassID": 10,
  "raceID": 1,
- "position": 646,
- "rankingPositionChange": 5,
- "gloryPoint": 6683,
- "gloryPointChange": 117,
+ "position": 648,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6669,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Pancookie",
  "guildName": "HELL YEAH",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 6683,
    "gloryPointChange": 117,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 648,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6669,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1268450,
  "characterClassID": 2,
  "raceID": 1,
- "position": 191,
- "rankingPositionChange": 0,
- "gloryPoint": 74088,
+ "position": 192,
+ "rankingPositionChange": -1,
+ "gloryPoint": 74039,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Harmaeus",
@@ -280,6 +280,14 @@
    "position": 191,
    "rankingPositionChange": 0,
    "gloryPoint": 74088,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 192,
+   "rankingPositionChange": -1,
+   "gloryPoint": 74039,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

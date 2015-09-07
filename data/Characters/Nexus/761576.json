@@ -2,9 +2,9 @@
  "characterID": 761576,
  "characterClassID": 1,
  "raceID": 0,
- "position": 846,
- "rankingPositionChange": 0,
- "gloryPoint": 6443,
+ "position": 850,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6436,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lovebaby",
@@ -280,6 +280,14 @@
    "position": 846,
    "rankingPositionChange": 0,
    "gloryPoint": 6443,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 850,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6436,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

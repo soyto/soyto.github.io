@@ -2,10 +2,10 @@
  "characterID": 966191,
  "characterClassID": 2,
  "raceID": 0,
- "position": 537,
- "rankingPositionChange": 1,
- "gloryPoint": 13027,
- "gloryPointChange": 46,
+ "position": 538,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13013,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Katastrofeas",
  "guildName": "LegendsOfLight",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13027,
    "gloryPointChange": 46,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13013,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

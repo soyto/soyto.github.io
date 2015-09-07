@@ -2,10 +2,10 @@
  "characterID": 1023114,
  "characterClassID": 16,
  "raceID": 1,
- "position": 664,
- "rankingPositionChange": 0,
- "gloryPoint": 6301,
- "gloryPointChange": -14,
+ "position": 666,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6315,
+ "gloryPointChange": 14,
  "soldierRankID": 11,
  "characterName": "Siwaa",
  "guildName": "Cygneas Nightmare",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6301,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 666,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6315,
+   "gloryPointChange": 14,
    "soldierRankID": 11
   }
  ],

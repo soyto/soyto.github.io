@@ -2,10 +2,10 @@
  "characterID": 1551830,
  "characterClassID": 2,
  "raceID": 1,
- "position": 513,
- "rankingPositionChange": 5,
- "gloryPoint": 7639,
- "gloryPointChange": 141,
+ "position": 518,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7625,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zydron",
  "guildName": "Black Hawks",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 7639,
    "gloryPointChange": 141,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 518,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7625,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

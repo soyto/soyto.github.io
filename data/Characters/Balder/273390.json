@@ -2,9 +2,9 @@
  "characterID": 273390,
  "characterClassID": 8,
  "raceID": 1,
- "position": 609,
- "rankingPositionChange": 1,
- "gloryPoint": 1412,
+ "position": 611,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1398,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mystical",
@@ -40,6 +40,14 @@
    "position": 609,
    "rankingPositionChange": 1,
    "gloryPoint": 1412,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1398,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

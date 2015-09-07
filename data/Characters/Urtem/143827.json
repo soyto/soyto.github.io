@@ -2,10 +2,10 @@
  "characterID": 143827,
  "characterClassID": 8,
  "raceID": 0,
- "position": 756,
- "rankingPositionChange": 7,
- "gloryPoint": 20371,
- "gloryPointChange": 237,
+ "position": 765,
+ "rankingPositionChange": -9,
+ "gloryPoint": 20364,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Deesse",
  "guildName": "Ex Tenebris Lux",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 20371,
    "gloryPointChange": 237,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 765,
+   "rankingPositionChange": -9,
+   "gloryPoint": 20364,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 101739,
  "characterClassID": 14,
  "raceID": 0,
- "position": 17,
- "rankingPositionChange": 0,
- "gloryPoint": 185873,
+ "position": 18,
+ "rankingPositionChange": -1,
+ "gloryPoint": 185754,
  "gloryPointChange": -119,
  "soldierRankID": 15,
  "characterName": "Saxo",
@@ -280,6 +280,14 @@
    "position": 17,
    "rankingPositionChange": 0,
    "gloryPoint": 185873,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 18,
+   "rankingPositionChange": -1,
+   "gloryPoint": 185754,
    "gloryPointChange": -119,
    "soldierRankID": 15
   }

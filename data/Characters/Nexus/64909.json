@@ -2,9 +2,9 @@
  "characterID": 64909,
  "characterClassID": 7,
  "raceID": 1,
- "position": 157,
- "rankingPositionChange": 0,
- "gloryPoint": 96853,
+ "position": 158,
+ "rankingPositionChange": -1,
+ "gloryPoint": 96804,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rafaga",
@@ -240,6 +240,14 @@
    "position": 157,
    "rankingPositionChange": 0,
    "gloryPoint": 96853,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 158,
+   "rankingPositionChange": -1,
+   "gloryPoint": 96804,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

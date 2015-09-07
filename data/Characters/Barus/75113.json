@@ -2,9 +2,9 @@
  "characterID": 75113,
  "characterClassID": 5,
  "raceID": 1,
- "position": 491,
- "rankingPositionChange": 0,
- "gloryPoint": 27419,
+ "position": 494,
+ "rankingPositionChange": -3,
+ "gloryPoint": 27391,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Silius",
@@ -280,6 +280,14 @@
    "position": 491,
    "rankingPositionChange": 0,
    "gloryPoint": 27419,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 494,
+   "rankingPositionChange": -3,
+   "gloryPoint": 27391,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

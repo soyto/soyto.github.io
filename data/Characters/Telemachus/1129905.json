@@ -2,10 +2,10 @@
  "characterID": 1129905,
  "characterClassID": 13,
  "raceID": 1,
- "position": 414,
- "rankingPositionChange": 3,
- "gloryPoint": 5941,
- "gloryPointChange": 133,
+ "position": 416,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5913,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Creppe",
  "guildName": "Never Say No To Panda",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 5941,
    "gloryPointChange": 133,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5913,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 305211,
  "characterClassID": 14,
  "raceID": 1,
- "position": 893,
- "rankingPositionChange": 1,
- "gloryPoint": 12062,
+ "position": 899,
+ "rankingPositionChange": -6,
+ "gloryPoint": 12055,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Maxy",
@@ -224,6 +224,14 @@
    "position": 893,
    "rankingPositionChange": 1,
    "gloryPoint": 12062,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 899,
+   "rankingPositionChange": -6,
+   "gloryPoint": 12055,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 42193,
  "characterClassID": 4,
  "raceID": 1,
- "position": 240,
- "rankingPositionChange": 0,
- "gloryPoint": 35427,
+ "position": 239,
+ "rankingPositionChange": 1,
+ "gloryPoint": 35378,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rydberg",
@@ -168,6 +168,14 @@
    "position": 240,
    "rankingPositionChange": 0,
    "gloryPoint": 35427,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 239,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35378,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

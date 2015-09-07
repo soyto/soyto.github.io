@@ -2,9 +2,9 @@
  "characterID": 756638,
  "characterClassID": 5,
  "raceID": 0,
- "position": 220,
- "rankingPositionChange": 0,
- "gloryPoint": 58757,
+ "position": 221,
+ "rankingPositionChange": -1,
+ "gloryPoint": 58808,
  "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Xaru",
@@ -280,6 +280,14 @@
    "position": 220,
    "rankingPositionChange": 0,
    "gloryPoint": 58757,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 221,
+   "rankingPositionChange": -1,
+   "gloryPoint": 58808,
    "gloryPointChange": 51,
    "soldierRankID": 13
   }

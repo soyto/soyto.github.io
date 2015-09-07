@@ -2,10 +2,10 @@
  "characterID": 1266987,
  "characterClassID": 10,
  "raceID": 1,
- "position": 813,
- "rankingPositionChange": 3,
- "gloryPoint": 4227,
- "gloryPointChange": 71,
+ "position": 818,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4220,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Golfaxi",
  "guildName": "Sleeping Knights",
@@ -97,6 +97,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 4227,
    "gloryPointChange": 71,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 818,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4220,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

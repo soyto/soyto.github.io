@@ -2,9 +2,9 @@
  "characterID": 1613793,
  "characterClassID": 10,
  "raceID": 1,
- "position": 923,
- "rankingPositionChange": 0,
- "gloryPoint": 11855,
+ "position": 926,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11848,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tasteless",
@@ -256,6 +256,14 @@
    "position": 923,
    "rankingPositionChange": 0,
    "gloryPoint": 11855,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11848,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

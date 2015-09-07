@@ -2,10 +2,10 @@
  "characterID": 948477,
  "characterClassID": 1,
  "raceID": 1,
- "position": 394,
- "rankingPositionChange": -1,
- "gloryPoint": 4600,
- "gloryPointChange": -28,
+ "position": 393,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4622,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Shantien",
  "guildName": "The Dark Side of the Sun",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 4600,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 393,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4622,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

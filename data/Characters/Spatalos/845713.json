@@ -2,9 +2,9 @@
  "characterID": 845713,
  "characterClassID": 7,
  "raceID": 1,
- "position": 177,
- "rankingPositionChange": 0,
- "gloryPoint": 37278,
+ "position": 179,
+ "rankingPositionChange": -2,
+ "gloryPoint": 37229,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Vampirouda",
@@ -120,6 +120,14 @@
    "position": 177,
    "rankingPositionChange": 0,
    "gloryPoint": 37278,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 179,
+   "rankingPositionChange": -2,
+   "gloryPoint": 37229,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

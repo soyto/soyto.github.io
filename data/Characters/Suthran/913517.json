@@ -2,9 +2,9 @@
  "characterID": 913517,
  "characterClassID": 7,
  "raceID": 1,
- "position": 156,
- "rankingPositionChange": 1,
- "gloryPoint": 72890,
+ "position": 158,
+ "rankingPositionChange": -2,
+ "gloryPoint": 72841,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Accadia",
@@ -280,6 +280,14 @@
    "position": 156,
    "rankingPositionChange": 1,
    "gloryPoint": 72890,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 158,
+   "rankingPositionChange": -2,
+   "gloryPoint": 72841,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

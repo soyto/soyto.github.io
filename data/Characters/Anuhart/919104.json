@@ -2,10 +2,10 @@
  "characterID": 919104,
  "characterClassID": 16,
  "raceID": 0,
- "position": 764,
- "rankingPositionChange": 8,
- "gloryPoint": 7200,
- "gloryPointChange": 70,
+ "position": 767,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7193,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mnestia",
  "guildName": "Argo cz",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 7200,
    "gloryPointChange": 70,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 767,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7193,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

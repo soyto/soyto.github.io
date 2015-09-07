@@ -2,9 +2,9 @@
  "characterID": 195887,
  "characterClassID": 11,
  "raceID": 1,
- "position": 234,
- "rankingPositionChange": 0,
- "gloryPoint": 37374,
+ "position": 236,
+ "rankingPositionChange": -2,
+ "gloryPoint": 37325,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Wings",
@@ -280,6 +280,14 @@
    "position": 234,
    "rankingPositionChange": 0,
    "gloryPoint": 37374,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 236,
+   "rankingPositionChange": -2,
+   "gloryPoint": 37325,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

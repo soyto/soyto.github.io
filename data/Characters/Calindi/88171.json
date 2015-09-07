@@ -2,9 +2,9 @@
  "characterID": 88171,
  "characterClassID": 10,
  "raceID": 0,
- "position": 411,
- "rankingPositionChange": 1,
- "gloryPoint": 10110,
+ "position": 414,
+ "rankingPositionChange": -3,
+ "gloryPoint": 10082,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Winz",
@@ -280,6 +280,14 @@
    "position": 411,
    "rankingPositionChange": 1,
    "gloryPoint": 10110,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 414,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10082,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

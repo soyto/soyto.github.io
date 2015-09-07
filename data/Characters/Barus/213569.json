@@ -2,9 +2,9 @@
  "characterID": 213569,
  "characterClassID": 5,
  "raceID": 1,
- "position": 621,
- "rankingPositionChange": 1,
- "gloryPoint": 21388,
+ "position": 622,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21374,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Loluss",
@@ -280,6 +280,14 @@
    "position": 621,
    "rankingPositionChange": 1,
    "gloryPoint": 21388,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 622,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21374,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 444278,
  "characterClassID": 5,
  "raceID": 1,
- "position": 9,
- "rankingPositionChange": 0,
- "gloryPoint": 246323,
- "gloryPointChange": 188,
+ "position": 10,
+ "rankingPositionChange": -1,
+ "gloryPoint": 247141,
+ "gloryPointChange": 818,
  "soldierRankID": 16,
  "characterName": "Yaibaba",
  "guildName": "Lionhearts",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 246323,
    "gloryPointChange": 188,
+   "soldierRankID": 16
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 10,
+   "rankingPositionChange": -1,
+   "gloryPoint": 247141,
+   "gloryPointChange": 818,
    "soldierRankID": 16
   }
  ],

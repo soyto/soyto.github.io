@@ -2,9 +2,9 @@
  "characterID": 429506,
  "characterClassID": 5,
  "raceID": 1,
- "position": 718,
- "rankingPositionChange": 1,
- "gloryPoint": 18590,
+ "position": 722,
+ "rankingPositionChange": -4,
+ "gloryPoint": 18583,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tripinhell",
@@ -278,6 +278,14 @@
    "position": 718,
    "rankingPositionChange": 1,
    "gloryPoint": 18590,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 722,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18583,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

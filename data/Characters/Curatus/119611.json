@@ -2,10 +2,10 @@
  "characterID": 119611,
  "characterClassID": 16,
  "raceID": 0,
- "position": 359,
- "rankingPositionChange": 0,
- "gloryPoint": 43708,
- "gloryPointChange": 25,
+ "position": 360,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43680,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Dhalsim",
  "guildName": " Oblivion ",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 43708,
    "gloryPointChange": 25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 360,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43680,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

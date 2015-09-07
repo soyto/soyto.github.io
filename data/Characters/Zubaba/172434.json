@@ -2,14 +2,14 @@
  "characterID": 172434,
  "characterClassID": 1,
  "raceID": 1,
- "position": 68,
- "rankingPositionChange": -1,
- "gloryPoint": 119241,
- "gloryPointChange": 807,
+ "position": 67,
+ "rankingPositionChange": 1,
+ "gloryPoint": 120075,
+ "gloryPointChange": 834,
  "soldierRankID": 14,
  "characterName": "Gaaddaar",
- "guildName": "ANCHOR",
- "guildID": 6633,
+ "guildName": "V for Vendetta",
+ "guildID": 1639,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 119241,
    "gloryPointChange": 807,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 67,
+   "rankingPositionChange": 1,
+   "gloryPoint": 120075,
+   "gloryPointChange": 834,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "ANCHOR",
    "guildID": 6633
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "V for Vendetta",
+   "guildID": 1639
   }
  ]
 }

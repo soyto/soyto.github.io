@@ -2,9 +2,9 @@
  "characterID": 849129,
  "characterClassID": 5,
  "raceID": 1,
- "position": 133,
- "rankingPositionChange": 0,
- "gloryPoint": 51341,
+ "position": 134,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51292,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Saitanas",
@@ -46,6 +46,14 @@
    "position": 133,
    "rankingPositionChange": 0,
    "gloryPoint": 51341,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 134,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51292,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

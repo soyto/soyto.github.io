@@ -2,9 +2,9 @@
  "characterID": 321978,
  "characterClassID": 10,
  "raceID": 1,
- "position": 84,
- "rankingPositionChange": 0,
- "gloryPoint": 134890,
+ "position": 86,
+ "rankingPositionChange": -2,
+ "gloryPoint": 134783,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Exorcizm",
@@ -278,6 +278,14 @@
    "position": 84,
    "rankingPositionChange": 0,
    "gloryPoint": 134890,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 86,
+   "rankingPositionChange": -2,
+   "gloryPoint": 134783,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

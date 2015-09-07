@@ -2,10 +2,10 @@
  "characterID": 525561,
  "characterClassID": 14,
  "raceID": 0,
- "position": 967,
+ "position": 964,
  "rankingPositionChange": 3,
- "gloryPoint": 10876,
- "gloryPointChange": 20,
+ "gloryPoint": 10869,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sakumi",
  "guildName": "Heavenly",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 10876,
    "gloryPointChange": 20,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 964,
+   "rankingPositionChange": 3,
+   "gloryPoint": 10869,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

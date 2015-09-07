@@ -2,9 +2,9 @@
  "characterID": 1192659,
  "characterClassID": 4,
  "raceID": 1,
- "position": 338,
- "rankingPositionChange": 0,
- "gloryPoint": 30797,
+ "position": 339,
+ "rankingPositionChange": -1,
+ "gloryPoint": 30769,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Akatetsu",
@@ -264,6 +264,14 @@
    "position": 338,
    "rankingPositionChange": 0,
    "gloryPoint": 30797,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 339,
+   "rankingPositionChange": -1,
+   "gloryPoint": 30769,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 1053004,
  "characterClassID": 16,
  "raceID": 0,
- "position": 471,
- "rankingPositionChange": 0,
- "gloryPoint": 34111,
+ "position": 472,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34083,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kaylline",
@@ -280,6 +280,14 @@
    "position": 471,
    "rankingPositionChange": 0,
    "gloryPoint": 34111,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 472,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34083,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

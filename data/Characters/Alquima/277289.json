@@ -2,14 +2,14 @@
  "characterID": 277289,
  "characterClassID": 16,
  "raceID": 0,
- "position": 567,
- "rankingPositionChange": 0,
- "gloryPoint": 20692,
- "gloryPointChange": -14,
+ "position": 565,
+ "rankingPositionChange": 2,
+ "gloryPoint": 20694,
+ "gloryPointChange": 2,
  "soldierRankID": 11,
  "characterName": "Chiquitoito",
- "guildName": "Get Well",
- "guildID": 13411,
+ "guildName": " Asmo Muerto Abono pa mi Huerto",
+ "guildID": 1922,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 20692,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 565,
+   "rankingPositionChange": 2,
+   "gloryPoint": 20694,
+   "gloryPointChange": 2,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -313,6 +321,11 @@
    "date": "2015-08-28T22:00:00.000Z",
    "guildName": "Get Well",
    "guildID": 13411
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": " Asmo Muerto Abono pa mi Huerto",
+   "guildID": 1922
   }
  ]
 }

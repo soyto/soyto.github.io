@@ -2,9 +2,9 @@
  "characterID": 140796,
  "characterClassID": 1,
  "raceID": 1,
- "position": 746,
- "rankingPositionChange": 0,
- "gloryPoint": 9889,
+ "position": 748,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9882,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Highvoltaje",
@@ -280,6 +280,14 @@
    "position": 746,
    "rankingPositionChange": 0,
    "gloryPoint": 9889,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 748,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9882,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

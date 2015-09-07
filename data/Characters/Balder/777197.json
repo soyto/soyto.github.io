@@ -2,9 +2,9 @@
  "characterID": 777197,
  "characterClassID": 11,
  "raceID": 0,
- "position": 984,
- "rankingPositionChange": 1,
- "gloryPoint": 1705,
+ "position": 999,
+ "rankingPositionChange": -15,
+ "gloryPoint": 1691,
  "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Jervit",
@@ -40,6 +40,14 @@
    "position": 984,
    "rankingPositionChange": 1,
    "gloryPoint": 1705,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -15,
+   "gloryPoint": 1691,
    "gloryPointChange": -14,
    "soldierRankID": 10
   }

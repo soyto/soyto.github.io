@@ -2,9 +2,9 @@
  "characterID": 1340060,
  "characterClassID": 1,
  "raceID": 0,
- "position": 541,
- "rankingPositionChange": 1,
- "gloryPoint": 17163,
+ "position": 543,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17149,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Imsomnia",
@@ -280,6 +280,14 @@
    "position": 541,
    "rankingPositionChange": 1,
    "gloryPoint": 17163,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 543,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17149,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

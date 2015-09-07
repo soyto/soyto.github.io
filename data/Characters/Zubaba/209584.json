@@ -2,9 +2,9 @@
  "characterID": 209584,
  "characterClassID": 8,
  "raceID": 1,
- "position": 215,
- "rankingPositionChange": -1,
- "gloryPoint": 41330,
+ "position": 214,
+ "rankingPositionChange": 1,
+ "gloryPoint": 41281,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Topalhamsii",
@@ -280,6 +280,14 @@
    "position": 215,
    "rankingPositionChange": -1,
    "gloryPoint": 41330,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 214,
+   "rankingPositionChange": 1,
+   "gloryPoint": 41281,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

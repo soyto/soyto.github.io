@@ -2,9 +2,9 @@
  "characterID": 1583393,
  "characterClassID": 1,
  "raceID": 0,
- "position": 526,
- "rankingPositionChange": 0,
- "gloryPoint": 34231,
+ "position": 532,
+ "rankingPositionChange": -6,
+ "gloryPoint": 34217,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Rykc",
@@ -280,6 +280,14 @@
    "position": 526,
    "rankingPositionChange": 0,
    "gloryPoint": 34231,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 532,
+   "rankingPositionChange": -6,
+   "gloryPoint": 34217,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

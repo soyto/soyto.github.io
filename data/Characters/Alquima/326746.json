@@ -2,10 +2,10 @@
  "characterID": 326746,
  "characterClassID": 5,
  "raceID": 1,
- "position": 597,
- "rankingPositionChange": -4,
- "gloryPoint": 13156,
- "gloryPointChange": -14,
+ "position": 587,
+ "rankingPositionChange": 10,
+ "gloryPoint": 13456,
+ "gloryPointChange": 300,
  "soldierRankID": 11,
  "characterName": "Cirok",
  "guildName": "Elyos Hunter",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 13156,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 587,
+   "rankingPositionChange": 10,
+   "gloryPoint": 13456,
+   "gloryPointChange": 300,
    "soldierRankID": 11
   }
  ],

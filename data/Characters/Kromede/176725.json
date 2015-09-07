@@ -2,10 +2,10 @@
  "characterID": 176725,
  "characterClassID": 11,
  "raceID": 1,
- "position": 964,
- "rankingPositionChange": 13,
- "gloryPoint": 3048,
- "gloryPointChange": 82,
+ "position": 973,
+ "rankingPositionChange": -9,
+ "gloryPoint": 3041,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bubba",
  "guildName": "Sky Devils",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 3048,
    "gloryPointChange": 82,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 973,
+   "rankingPositionChange": -9,
+   "gloryPoint": 3041,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

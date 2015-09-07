@@ -2,9 +2,9 @@
  "characterID": 1147412,
  "characterClassID": 13,
  "raceID": 0,
- "position": 779,
- "rankingPositionChange": 0,
- "gloryPoint": 6924,
+ "position": 782,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6917,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Topcake",
@@ -280,6 +280,14 @@
    "position": 779,
    "rankingPositionChange": 0,
    "gloryPoint": 6924,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 782,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6917,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

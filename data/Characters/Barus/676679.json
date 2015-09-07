@@ -2,10 +2,10 @@
  "characterID": 676679,
  "characterClassID": 14,
  "raceID": 0,
- "position": 540,
- "rankingPositionChange": 2,
- "gloryPoint": 25955,
- "gloryPointChange": 6,
+ "position": 542,
+ "rankingPositionChange": -2,
+ "gloryPoint": 25954,
+ "gloryPointChange": -1,
  "soldierRankID": 11,
  "characterName": "Loofah",
  "guildName": "La Luna del Cazador",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 25955,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 542,
+   "rankingPositionChange": -2,
+   "gloryPoint": 25954,
+   "gloryPointChange": -1,
    "soldierRankID": 11
   }
  ],

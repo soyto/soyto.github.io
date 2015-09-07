@@ -2,9 +2,9 @@
  "characterID": 74952,
  "characterClassID": 7,
  "raceID": 1,
- "position": 603,
- "rankingPositionChange": 0,
- "gloryPoint": 1435,
+ "position": 605,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1421,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ushanti",
@@ -120,6 +120,14 @@
    "position": 603,
    "rankingPositionChange": 0,
    "gloryPoint": 1435,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 605,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1421,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 779506,
  "characterClassID": 1,
  "raceID": 0,
- "position": 769,
- "rankingPositionChange": 0,
- "gloryPoint": 8187,
+ "position": 773,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8180,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Spears",
@@ -278,6 +278,14 @@
    "position": 769,
    "rankingPositionChange": 0,
    "gloryPoint": 8187,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 773,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8180,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

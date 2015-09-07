@@ -2,14 +2,14 @@
  "characterID": 170436,
  "characterClassID": 8,
  "raceID": 1,
- "position": 54,
- "rankingPositionChange": 0,
- "gloryPoint": 153012,
- "gloryPointChange": -107,
+ "position": 52,
+ "rankingPositionChange": 2,
+ "gloryPoint": 155192,
+ "gloryPointChange": 2180,
  "soldierRankID": 14,
  "characterName": "Furcek",
- "guildName": "Pfff",
- "guildID": 13596,
+ "guildName": "OutOfControl",
+ "guildID": 1028,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 153012,
    "gloryPointChange": -107,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 52,
+   "rankingPositionChange": 2,
+   "gloryPoint": 155192,
+   "gloryPointChange": 2180,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -298,6 +306,11 @@
    "date": "2015-08-23T22:00:00.000Z",
    "guildName": "Pfff",
    "guildID": 13596
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "OutOfControl",
+   "guildID": 1028
   }
  ]
 }

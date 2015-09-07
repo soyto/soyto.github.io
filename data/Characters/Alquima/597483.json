@@ -2,9 +2,9 @@
  "characterID": 597483,
  "characterClassID": 14,
  "raceID": 0,
- "position": 287,
- "rankingPositionChange": 2,
- "gloryPoint": 42991,
+ "position": 288,
+ "rankingPositionChange": -1,
+ "gloryPoint": 42942,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Muriasinho",
@@ -280,6 +280,14 @@
    "position": 287,
    "rankingPositionChange": 2,
    "gloryPoint": 42991,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 288,
+   "rankingPositionChange": -1,
+   "gloryPoint": 42942,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 259103,
  "characterClassID": 5,
  "raceID": 1,
- "position": 571,
- "rankingPositionChange": 1,
- "gloryPoint": 1455,
+ "position": 577,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1441,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kleinerfalke",
@@ -256,6 +256,14 @@
    "position": 571,
    "rankingPositionChange": 1,
    "gloryPoint": 1455,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 577,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1441,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

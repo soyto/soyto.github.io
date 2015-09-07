@@ -2,9 +2,9 @@
  "characterID": 9572,
  "characterClassID": 11,
  "raceID": 1,
- "position": 446,
- "rankingPositionChange": 0,
- "gloryPoint": 11495,
+ "position": 449,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11467,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kumpas",
@@ -280,6 +280,14 @@
    "position": 446,
    "rankingPositionChange": 0,
    "gloryPoint": 11495,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 449,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11467,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

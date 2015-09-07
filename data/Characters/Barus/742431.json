@@ -2,9 +2,9 @@
  "characterID": 742431,
  "characterClassID": 7,
  "raceID": 1,
- "position": 463,
- "rankingPositionChange": 1,
- "gloryPoint": 29467,
+ "position": 467,
+ "rankingPositionChange": -4,
+ "gloryPoint": 29439,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Revita",
@@ -280,6 +280,14 @@
    "position": 463,
    "rankingPositionChange": 1,
    "gloryPoint": 29467,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 467,
+   "rankingPositionChange": -4,
+   "gloryPoint": 29439,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

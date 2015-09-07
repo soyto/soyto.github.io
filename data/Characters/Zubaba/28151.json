@@ -2,10 +2,10 @@
  "characterID": 28151,
  "characterClassID": 16,
  "raceID": 1,
- "position": 513,
- "rankingPositionChange": 2,
- "gloryPoint": 8792,
- "gloryPointChange": 152,
+ "position": 514,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8788,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Barium",
  "guildName": "V for Vendetta",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 8792,
    "gloryPointChange": 152,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8788,
+   "gloryPointChange": -4,
    "soldierRankID": 11
   }
  ],

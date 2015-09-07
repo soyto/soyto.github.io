@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 870,
- "rankingPositionChange": -1,
- "gloryPoint": 6013,
- "gloryPointChange": -7,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6088,
+ "gloryPointChange": 75,
  "soldierRankID": 10,
  "characterName": "Klerkur",
  "guildName": "Birdy NamNam",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 6013,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 870,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6088,
+   "gloryPointChange": 75,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 951915,
  "characterClassID": 11,
  "raceID": 0,
- "position": 750,
- "rankingPositionChange": 9,
- "gloryPoint": 12578,
- "gloryPointChange": 260,
+ "position": 752,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12571,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eriunna",
  "guildName": "Aerian",
@@ -233,6 +233,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 12578,
    "gloryPointChange": 260,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 752,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12571,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

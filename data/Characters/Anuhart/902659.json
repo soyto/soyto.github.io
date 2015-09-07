@@ -2,9 +2,9 @@
  "characterID": 902659,
  "characterClassID": 5,
  "raceID": 0,
- "position": 243,
- "rankingPositionChange": 1,
- "gloryPoint": 41831,
+ "position": 247,
+ "rankingPositionChange": -4,
+ "gloryPoint": 41782,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Swirman",
@@ -278,6 +278,14 @@
    "position": 243,
    "rankingPositionChange": 1,
    "gloryPoint": 41831,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 247,
+   "rankingPositionChange": -4,
+   "gloryPoint": 41782,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

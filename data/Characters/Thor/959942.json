@@ -2,9 +2,9 @@
  "characterID": 959942,
  "characterClassID": 8,
  "raceID": 0,
- "position": 705,
- "rankingPositionChange": 1,
- "gloryPoint": 25003,
+ "position": 715,
+ "rankingPositionChange": -10,
+ "gloryPoint": 24996,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Saerynn",
@@ -280,6 +280,14 @@
    "position": 705,
    "rankingPositionChange": 1,
    "gloryPoint": 25003,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 715,
+   "rankingPositionChange": -10,
+   "gloryPoint": 24996,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

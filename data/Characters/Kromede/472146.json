@@ -2,9 +2,9 @@
  "characterID": 472146,
  "characterClassID": 10,
  "raceID": 0,
- "position": 864,
- "rankingPositionChange": 0,
- "gloryPoint": 10853,
+ "position": 869,
+ "rankingPositionChange": -5,
+ "gloryPoint": 10846,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cheleste",
@@ -280,6 +280,14 @@
    "position": 864,
    "rankingPositionChange": 0,
    "gloryPoint": 10853,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 869,
+   "rankingPositionChange": -5,
+   "gloryPoint": 10846,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

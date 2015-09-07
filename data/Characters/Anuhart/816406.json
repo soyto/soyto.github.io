@@ -2,9 +2,9 @@
  "characterID": 816406,
  "characterClassID": 1,
  "raceID": 0,
- "position": 830,
- "rankingPositionChange": 4,
- "gloryPoint": 6124,
+ "position": 833,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6117,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Theninjathing",
@@ -280,6 +280,14 @@
    "position": 830,
    "rankingPositionChange": 4,
    "gloryPoint": 6124,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6117,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

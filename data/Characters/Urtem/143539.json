@@ -2,10 +2,10 @@
  "characterID": 143539,
  "characterClassID": 10,
  "raceID": 1,
- "position": 964,
- "rankingPositionChange": 1,
- "gloryPoint": 7188,
- "gloryPointChange": 13,
+ "position": 966,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7251,
+ "gloryPointChange": 63,
  "soldierRankID": 10,
  "characterName": "Lina",
  "guildName": "Mercenaries",
@@ -49,6 +49,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7188,
    "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 966,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7251,
+   "gloryPointChange": 63,
    "soldierRankID": 10
   }
  ],

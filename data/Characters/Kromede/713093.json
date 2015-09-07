@@ -2,9 +2,9 @@
  "characterID": 713093,
  "characterClassID": 10,
  "raceID": 1,
- "position": 188,
- "rankingPositionChange": 0,
- "gloryPoint": 43824,
+ "position": 189,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43775,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Khyana",
@@ -280,6 +280,14 @@
    "position": 188,
    "rankingPositionChange": 0,
    "gloryPoint": 43824,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 189,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43775,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

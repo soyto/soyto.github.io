@@ -2,9 +2,9 @@
  "characterID": 192871,
  "characterClassID": 7,
  "raceID": 0,
- "position": 258,
- "rankingPositionChange": 0,
- "gloryPoint": 50920,
+ "position": 259,
+ "rankingPositionChange": -1,
+ "gloryPoint": 50871,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kalista",
@@ -280,6 +280,14 @@
    "position": 258,
    "rankingPositionChange": 0,
    "gloryPoint": 50920,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 259,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50871,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

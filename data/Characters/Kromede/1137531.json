@@ -2,9 +2,9 @@
  "characterID": 1137531,
  "characterClassID": 4,
  "raceID": 0,
- "position": 820,
- "rankingPositionChange": 0,
- "gloryPoint": 12072,
+ "position": 822,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12065,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aceprinces",
@@ -270,6 +270,14 @@
    "position": 820,
    "rankingPositionChange": 0,
    "gloryPoint": 12072,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 822,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12065,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

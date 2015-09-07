@@ -2,10 +2,10 @@
  "characterID": 471609,
  "characterClassID": 5,
  "raceID": 1,
- "position": 205,
- "rankingPositionChange": -1,
- "gloryPoint": 49333,
- "gloryPointChange": -49,
+ "position": 204,
+ "rankingPositionChange": 1,
+ "gloryPoint": 49408,
+ "gloryPointChange": 75,
  "soldierRankID": 13,
  "characterName": "Khersonec",
  "guildName": "S U M R A K",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 49333,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 204,
+   "rankingPositionChange": 1,
+   "gloryPoint": 49408,
+   "gloryPointChange": 75,
    "soldierRankID": 13
   }
  ],

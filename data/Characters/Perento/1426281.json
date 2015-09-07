@@ -2,14 +2,12 @@
  "characterID": 1426281,
  "characterClassID": 7,
  "raceID": 1,
- "position": 334,
+ "position": 323,
  "rankingPositionChange": 11,
- "gloryPoint": 20223,
- "gloryPointChange": 903,
+ "gloryPoint": 21264,
+ "gloryPointChange": 1041,
  "soldierRankID": 12,
  "characterName": "Logitexx",
- "guildName": "Not Today",
- "guildID": 17024,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 20223,
    "gloryPointChange": 903,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 323,
+   "rankingPositionChange": 11,
+   "gloryPoint": 21264,
+   "gloryPointChange": 1041,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -300,6 +306,9 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "Not Today",
    "guildID": 17024
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

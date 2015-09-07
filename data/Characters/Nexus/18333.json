@@ -2,9 +2,9 @@
  "characterID": 18333,
  "characterClassID": 2,
  "raceID": 0,
- "position": 452,
- "rankingPositionChange": 0,
- "gloryPoint": 19886,
+ "position": 454,
+ "rankingPositionChange": -2,
+ "gloryPoint": 19858,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zeru",
@@ -272,6 +272,14 @@
    "position": 452,
    "rankingPositionChange": 0,
    "gloryPoint": 19886,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 454,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19858,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

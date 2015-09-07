@@ -2,10 +2,10 @@
  "characterID": 1428334,
  "characterClassID": 7,
  "raceID": 1,
- "position": 673,
- "rankingPositionChange": 1,
- "gloryPoint": 20049,
- "gloryPointChange": 68,
+ "position": 675,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20123,
+ "gloryPointChange": 74,
  "soldierRankID": 11,
  "characterName": "Chiwapchichi",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20049,
    "gloryPointChange": 68,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 675,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20123,
+   "gloryPointChange": 74,
    "soldierRankID": 11
   }
  ],

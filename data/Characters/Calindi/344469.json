@@ -2,9 +2,9 @@
  "characterID": 344469,
  "characterClassID": 7,
  "raceID": 0,
- "position": 835,
- "rankingPositionChange": 2,
- "gloryPoint": 1710,
+ "position": 841,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1703,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Leckna",
@@ -208,6 +208,14 @@
    "position": 835,
    "rankingPositionChange": 2,
    "gloryPoint": 1710,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 841,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1703,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

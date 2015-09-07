@@ -2,9 +2,9 @@
  "characterID": 198560,
  "characterClassID": 16,
  "raceID": 1,
- "position": 291,
- "rankingPositionChange": 0,
- "gloryPoint": 52369,
+ "position": 292,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52420,
  "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Borysh",
@@ -278,6 +278,14 @@
    "position": 291,
    "rankingPositionChange": 0,
    "gloryPoint": 52369,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 292,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52420,
    "gloryPointChange": 51,
    "soldierRankID": 13
   }

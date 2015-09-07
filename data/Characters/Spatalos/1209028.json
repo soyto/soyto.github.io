@@ -2,9 +2,9 @@
  "characterID": 1209028,
  "characterClassID": 16,
  "raceID": 0,
- "position": 910,
- "rankingPositionChange": 1,
- "gloryPoint": 7415,
+ "position": 914,
+ "rankingPositionChange": -4,
+ "gloryPoint": 7408,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Glover",
@@ -280,6 +280,14 @@
    "position": 910,
    "rankingPositionChange": 1,
    "gloryPoint": 7415,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 914,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7408,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 927257,
  "characterClassID": 5,
  "raceID": 0,
- "position": 80,
- "rankingPositionChange": 0,
- "gloryPoint": 170586,
- "gloryPointChange": 329,
+ "position": 81,
+ "rankingPositionChange": -1,
+ "gloryPoint": 170696,
+ "gloryPointChange": 110,
  "soldierRankID": 14,
  "characterName": "Wronek",
  "guildName": "aeQuus",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 170586,
    "gloryPointChange": 329,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 81,
+   "rankingPositionChange": -1,
+   "gloryPoint": 170696,
+   "gloryPointChange": 110,
    "soldierRankID": 14
   }
  ],

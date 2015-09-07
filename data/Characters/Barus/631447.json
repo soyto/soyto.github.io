@@ -2,10 +2,10 @@
  "characterID": 631447,
  "characterClassID": 16,
  "raceID": 0,
- "position": 914,
- "rankingPositionChange": 1,
- "gloryPoint": 12078,
- "gloryPointChange": -1,
+ "position": 912,
+ "rankingPositionChange": 2,
+ "gloryPoint": 12131,
+ "gloryPointChange": 53,
  "soldierRankID": 10,
  "characterName": "Dremia",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12078,
    "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": 2,
+   "gloryPoint": 12131,
+   "gloryPointChange": 53,
    "soldierRankID": 10
   }
  ],

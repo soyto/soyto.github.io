@@ -2,10 +2,10 @@
  "characterID": 1438761,
  "characterClassID": 10,
  "raceID": 1,
- "position": 747,
- "rankingPositionChange": 1,
- "gloryPoint": 8510,
- "gloryPointChange": 71,
+ "position": 755,
+ "rankingPositionChange": -8,
+ "gloryPoint": 8503,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Meggumy",
  "guildName": "  Night Raid ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 8510,
    "gloryPointChange": 71,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 755,
+   "rankingPositionChange": -8,
+   "gloryPoint": 8503,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

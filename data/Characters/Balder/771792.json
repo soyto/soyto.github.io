@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 0,
  "position": 144,
- "rankingPositionChange": 1,
- "gloryPoint": 61573,
- "gloryPointChange": 351,
+ "rankingPositionChange": 0,
+ "gloryPoint": 61524,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Koson",
  "guildName": "Ritter des Blutschwurs",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 61573,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": 0,
+   "gloryPoint": 61524,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1023466,
  "characterClassID": 16,
  "raceID": 0,
- "position": 128,
- "rankingPositionChange": 0,
- "gloryPoint": 120728,
+ "position": 129,
+ "rankingPositionChange": -1,
+ "gloryPoint": 120679,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dokia",
@@ -280,6 +280,14 @@
    "position": 128,
    "rankingPositionChange": 0,
    "gloryPoint": 120728,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 129,
+   "rankingPositionChange": -1,
+   "gloryPoint": 120679,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

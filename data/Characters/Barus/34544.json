@@ -2,9 +2,9 @@
  "characterID": 34544,
  "characterClassID": 7,
  "raceID": 1,
- "position": 138,
- "rankingPositionChange": 0,
- "gloryPoint": 93592,
+ "position": 139,
+ "rankingPositionChange": -1,
+ "gloryPoint": 93543,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Trans",
@@ -280,6 +280,14 @@
    "position": 138,
    "rankingPositionChange": 0,
    "gloryPoint": 93592,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 139,
+   "rankingPositionChange": -1,
+   "gloryPoint": 93543,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 1233587,
  "characterClassID": 4,
  "raceID": 1,
- "position": 528,
- "rankingPositionChange": 0,
- "gloryPoint": 14699,
+ "position": 531,
+ "rankingPositionChange": -3,
+ "gloryPoint": 14685,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zoldikkirua",
@@ -280,6 +280,14 @@
    "position": 528,
    "rankingPositionChange": 0,
    "gloryPoint": 14699,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 531,
+   "rankingPositionChange": -3,
+   "gloryPoint": 14685,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

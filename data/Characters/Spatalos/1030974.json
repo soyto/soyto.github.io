@@ -2,10 +2,10 @@
  "characterID": 1030974,
  "characterClassID": 2,
  "raceID": 1,
- "position": 979,
- "rankingPositionChange": 10,
- "gloryPoint": 2118,
- "gloryPointChange": 49,
+ "position": 985,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2111,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Caupolican",
  "guildName": "XSeptima Nacion ArmadaX",
@@ -225,6 +225,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 2118,
    "gloryPointChange": 49,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2111,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

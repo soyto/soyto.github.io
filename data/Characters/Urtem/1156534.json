@@ -2,10 +2,10 @@
  "characterID": 1156534,
  "characterClassID": 14,
  "raceID": 0,
- "position": 963,
- "rankingPositionChange": 9,
- "gloryPoint": 13914,
- "gloryPointChange": 86,
+ "position": 977,
+ "rankingPositionChange": -14,
+ "gloryPoint": 13907,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Custer",
  "guildName": "One piece for ever",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 13914,
    "gloryPointChange": 86,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 977,
+   "rankingPositionChange": -14,
+   "gloryPoint": 13907,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

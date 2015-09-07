@@ -2,10 +2,10 @@
  "characterID": 484794,
  "characterClassID": 1,
  "raceID": 1,
- "position": 211,
- "rankingPositionChange": 0,
- "gloryPoint": 77670,
- "gloryPointChange": 195,
+ "position": 212,
+ "rankingPositionChange": -1,
+ "gloryPoint": 77627,
+ "gloryPointChange": -43,
  "soldierRankID": 13,
  "characterName": "Alucardkresnik",
  "guildName": "Vanquish",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 77670,
    "gloryPointChange": 195,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 212,
+   "rankingPositionChange": -1,
+   "gloryPoint": 77627,
+   "gloryPointChange": -43,
    "soldierRankID": 13
   }
  ],

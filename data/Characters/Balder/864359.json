@@ -2,9 +2,9 @@
  "characterID": 864359,
  "characterClassID": 14,
  "raceID": 1,
- "position": 588,
- "rankingPositionChange": 0,
- "gloryPoint": 1498,
+ "position": 590,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1484,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Vinum",
@@ -280,6 +280,14 @@
    "position": 588,
    "rankingPositionChange": 0,
    "gloryPoint": 1498,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 590,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1484,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

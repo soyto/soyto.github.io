@@ -2,9 +2,9 @@
  "characterID": 393537,
  "characterClassID": 10,
  "raceID": 0,
- "position": 793,
- "rankingPositionChange": 4,
- "gloryPoint": 6657,
+ "position": 798,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6650,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xeila",
@@ -280,6 +280,14 @@
    "position": 793,
    "rankingPositionChange": 4,
    "gloryPoint": 6657,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 798,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6650,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

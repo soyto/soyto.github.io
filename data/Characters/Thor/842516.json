@@ -2,9 +2,9 @@
  "characterID": 842516,
  "characterClassID": 4,
  "raceID": 1,
- "position": 721,
- "rankingPositionChange": 0,
- "gloryPoint": 18434,
+ "position": 725,
+ "rankingPositionChange": -4,
+ "gloryPoint": 18427,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hidey",
@@ -280,6 +280,14 @@
    "position": 721,
    "rankingPositionChange": 0,
    "gloryPoint": 18434,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 725,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18427,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

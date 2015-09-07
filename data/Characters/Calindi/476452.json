@@ -2,9 +2,9 @@
  "characterID": 476452,
  "characterClassID": 14,
  "raceID": 0,
- "position": 291,
- "rankingPositionChange": 1,
- "gloryPoint": 19879,
+ "position": 294,
+ "rankingPositionChange": -3,
+ "gloryPoint": 19830,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aiglesblanc",
@@ -280,6 +280,14 @@
    "position": 291,
    "rankingPositionChange": 1,
    "gloryPoint": 19879,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 294,
+   "rankingPositionChange": -3,
+   "gloryPoint": 19830,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 17648,
  "characterClassID": 4,
  "raceID": 0,
- "position": 319,
- "rankingPositionChange": 1,
- "gloryPoint": 32670,
- "gloryPointChange": 152,
+ "position": 320,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32829,
+ "gloryPointChange": 159,
  "soldierRankID": 12,
  "characterName": "Slacking",
  "guildName": "Paths of Glory",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 32670,
    "gloryPointChange": 152,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32829,
+   "gloryPointChange": 159,
    "soldierRankID": 12
   }
  ],

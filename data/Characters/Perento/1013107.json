@@ -2,10 +2,10 @@
  "characterID": 1013107,
  "characterClassID": 2,
  "raceID": 1,
- "position": 244,
- "rankingPositionChange": 1,
- "gloryPoint": 35194,
- "gloryPointChange": 521,
+ "position": 245,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35520,
+ "gloryPointChange": 326,
  "soldierRankID": 13,
  "characterName": "Carldorton",
  "guildName": "Eternal Army",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 35194,
    "gloryPointChange": 521,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35520,
+   "gloryPointChange": 326,
    "soldierRankID": 13
   }
  ],

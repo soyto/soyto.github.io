@@ -2,9 +2,9 @@
  "characterID": 1156362,
  "characterClassID": 1,
  "raceID": 0,
- "position": 924,
- "rankingPositionChange": -2,
- "gloryPoint": 11323,
+ "position": 923,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11316,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kronys",
@@ -280,6 +280,14 @@
    "position": 924,
    "rankingPositionChange": -2,
    "gloryPoint": 11323,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 923,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11316,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

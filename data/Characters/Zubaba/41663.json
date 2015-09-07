@@ -2,9 +2,9 @@
  "characterID": 41663,
  "characterClassID": 4,
  "raceID": 1,
- "position": 291,
- "rankingPositionChange": 0,
- "gloryPoint": 26382,
+ "position": 292,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26333,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kein",
@@ -280,6 +280,14 @@
    "position": 291,
    "rankingPositionChange": 0,
    "gloryPoint": 26382,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 292,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26333,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

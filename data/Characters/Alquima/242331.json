@@ -2,10 +2,10 @@
  "characterID": 242331,
  "characterClassID": 14,
  "raceID": 1,
- "position": 549,
- "rankingPositionChange": 5,
- "gloryPoint": 14359,
- "gloryPointChange": 176,
+ "position": 554,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14345,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Leidyunica",
  "guildName": "Destinados",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 14359,
    "gloryPointChange": 176,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 554,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14345,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

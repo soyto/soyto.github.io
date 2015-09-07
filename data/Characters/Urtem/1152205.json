@@ -2,9 +2,9 @@
  "characterID": 1152205,
  "characterClassID": 14,
  "raceID": 0,
- "position": 367,
- "rankingPositionChange": 0,
- "gloryPoint": 45981,
+ "position": 372,
+ "rankingPositionChange": -5,
+ "gloryPoint": 45953,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lioo",
@@ -278,6 +278,14 @@
    "position": 367,
    "rankingPositionChange": 0,
    "gloryPoint": 45981,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 372,
+   "rankingPositionChange": -5,
+   "gloryPoint": 45953,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

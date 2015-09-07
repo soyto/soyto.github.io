@@ -3,11 +3,13 @@
  "characterClassID": 1,
  "raceID": 0,
  "position": 158,
- "rankingPositionChange": 2,
- "gloryPoint": 74861,
- "gloryPointChange": 486,
+ "rankingPositionChange": 0,
+ "gloryPoint": 75217,
+ "gloryPointChange": 356,
  "soldierRankID": 13,
  "characterName": "Mruczuus",
+ "guildName": " ZONE ",
+ "guildID": 9535,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 74861,
    "gloryPointChange": 486,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 158,
+   "rankingPositionChange": 0,
+   "gloryPoint": 75217,
+   "gloryPointChange": 356,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -317,6 +327,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": " ZONE ",
+   "guildID": 9535
   }
  ]
 }

@@ -2,11 +2,11 @@
  "characterID": 544865,
  "characterClassID": 14,
  "raceID": 1,
- "position": 1000,
- "rankingPositionChange": -4,
+ "position": 999,
+ "rankingPositionChange": 1,
  "gloryPoint": 5523,
- "gloryPointChange": -7,
- "soldierRankID": 0,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
  "characterName": "Yiaium",
  "guildName": "Only One",
  "guildID": 8776,
@@ -138,6 +138,14 @@
    "gloryPoint": 5523,
    "gloryPointChange": -7,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5523,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
   }
  ],
  "names": [

@@ -2,9 +2,9 @@
  "characterID": 759218,
  "characterClassID": 1,
  "raceID": 1,
- "position": 84,
- "rankingPositionChange": 0,
- "gloryPoint": 96496,
+ "position": 85,
+ "rankingPositionChange": -1,
+ "gloryPoint": 96389,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Shiio",
@@ -280,6 +280,14 @@
    "position": 84,
    "rankingPositionChange": 0,
    "gloryPoint": 96496,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 85,
+   "rankingPositionChange": -1,
+   "gloryPoint": 96389,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

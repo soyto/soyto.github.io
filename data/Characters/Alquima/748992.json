@@ -2,10 +2,10 @@
  "characterID": 748992,
  "characterClassID": 14,
  "raceID": 0,
- "position": 260,
- "rankingPositionChange": 2,
- "gloryPoint": 47252,
- "gloryPointChange": 465,
+ "position": 261,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47293,
+ "gloryPointChange": 41,
  "soldierRankID": 13,
  "characterName": "Greatshooter",
  "guildName": "FocusMe",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 47252,
    "gloryPointChange": 465,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47293,
+   "gloryPointChange": 41,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 5766,
  "characterClassID": 11,
  "raceID": 0,
- "position": 841,
- "rankingPositionChange": 0,
- "gloryPoint": 17302,
+ "position": 852,
+ "rankingPositionChange": -11,
+ "gloryPoint": 17295,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Umi",
@@ -64,6 +64,14 @@
    "position": 841,
    "rankingPositionChange": 0,
    "gloryPoint": 17302,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -11,
+   "gloryPoint": 17295,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

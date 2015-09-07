@@ -2,9 +2,9 @@
  "characterID": 1145583,
  "characterClassID": 10,
  "raceID": 0,
- "position": 979,
- "rankingPositionChange": 2,
- "gloryPoint": 13493,
+ "position": 994,
+ "rankingPositionChange": -15,
+ "gloryPoint": 13486,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Baws",
@@ -280,6 +280,14 @@
    "position": 979,
    "rankingPositionChange": 2,
    "gloryPoint": 13493,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": -15,
+   "gloryPoint": 13486,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

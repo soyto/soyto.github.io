@@ -2,9 +2,9 @@
  "characterID": 203786,
  "characterClassID": 1,
  "raceID": 0,
- "position": 267,
- "rankingPositionChange": 0,
- "gloryPoint": 38241,
+ "position": 268,
+ "rankingPositionChange": -1,
+ "gloryPoint": 38192,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Qaspy",
@@ -280,6 +280,14 @@
    "position": 267,
    "rankingPositionChange": 0,
    "gloryPoint": 38241,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 268,
+   "rankingPositionChange": -1,
+   "gloryPoint": 38192,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

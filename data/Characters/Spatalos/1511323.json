@@ -2,9 +2,9 @@
  "characterID": 1511323,
  "characterClassID": 4,
  "raceID": 0,
- "position": 948,
- "rankingPositionChange": 1,
- "gloryPoint": 6447,
+ "position": 952,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6440,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gidack",
@@ -56,6 +56,14 @@
    "position": 948,
    "rankingPositionChange": 1,
    "gloryPoint": 6447,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 952,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6440,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

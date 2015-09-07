@@ -2,9 +2,9 @@
  "characterID": 659511,
  "characterClassID": 11,
  "raceID": 1,
- "position": 593,
- "rankingPositionChange": 2,
- "gloryPoint": 5772,
+ "position": 598,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5758,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Aestas",
@@ -280,6 +280,14 @@
    "position": 593,
    "rankingPositionChange": 2,
    "gloryPoint": 5772,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 598,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5758,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

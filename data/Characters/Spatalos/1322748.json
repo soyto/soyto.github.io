@@ -2,9 +2,9 @@
  "characterID": 1322748,
  "characterClassID": 8,
  "raceID": 1,
- "position": 200,
- "rankingPositionChange": 0,
- "gloryPoint": 32242,
+ "position": 202,
+ "rankingPositionChange": -2,
+ "gloryPoint": 32193,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Bookmaster",
@@ -280,6 +280,14 @@
    "position": 200,
    "rankingPositionChange": 0,
    "gloryPoint": 32242,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 202,
+   "rankingPositionChange": -2,
+   "gloryPoint": 32193,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

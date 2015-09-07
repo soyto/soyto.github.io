@@ -2,9 +2,9 @@
  "characterID": 315188,
  "characterClassID": 5,
  "raceID": 1,
- "position": 908,
- "rankingPositionChange": 1,
- "gloryPoint": 3846,
+ "position": 912,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3839,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hark",
@@ -120,6 +120,14 @@
    "position": 908,
    "rankingPositionChange": 1,
    "gloryPoint": 3846,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3839,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

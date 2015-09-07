@@ -2,9 +2,9 @@
  "characterID": 269008,
  "characterClassID": 5,
  "raceID": 1,
- "position": 959,
- "rankingPositionChange": 0,
- "gloryPoint": 3286,
+ "position": 961,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3279,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Arashixky",
@@ -280,6 +280,14 @@
    "position": 959,
    "rankingPositionChange": 0,
    "gloryPoint": 3286,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3279,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

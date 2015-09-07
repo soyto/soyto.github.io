@@ -2,10 +2,10 @@
  "characterID": 569287,
  "characterClassID": 10,
  "raceID": 0,
- "position": 868,
- "rankingPositionChange": 5,
- "gloryPoint": 12297,
- "gloryPointChange": 93,
+ "position": 870,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12290,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Iska",
  "guildName": "I Kill You Baddie",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 12297,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 870,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12290,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 562190,
  "characterClassID": 16,
  "raceID": 1,
- "position": 779,
+ "position": 770,
  "rankingPositionChange": 9,
- "gloryPoint": 15105,
- "gloryPointChange": 130,
+ "gloryPoint": 15452,
+ "gloryPointChange": 347,
  "soldierRankID": 10,
  "characterName": "Rwa",
+ "guildName": "Glassy Shadow",
+ "guildID": 12215,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 15105,
    "gloryPointChange": 130,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 770,
+   "rankingPositionChange": 9,
+   "gloryPoint": 15452,
+   "gloryPointChange": 347,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Glassy Shadow",
+   "guildID": 12215
   }
  ]
 }

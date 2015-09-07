@@ -2,9 +2,9 @@
  "characterID": 536804,
  "characterClassID": 16,
  "raceID": 0,
- "position": 431,
- "rankingPositionChange": 1,
- "gloryPoint": 21258,
+ "position": 432,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21230,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Iolshock",
@@ -272,6 +272,14 @@
    "position": 431,
    "rankingPositionChange": 1,
    "gloryPoint": 21258,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 432,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21230,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 1051270,
  "characterClassID": 16,
  "raceID": 1,
- "position": 544,
- "rankingPositionChange": 0,
- "gloryPoint": 6983,
+ "position": 550,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6969,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Dancuyo",
@@ -278,6 +278,14 @@
    "position": 544,
    "rankingPositionChange": 0,
    "gloryPoint": 6983,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 550,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6969,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

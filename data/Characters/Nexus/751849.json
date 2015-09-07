@@ -2,9 +2,9 @@
  "characterID": 751849,
  "characterClassID": 2,
  "raceID": 0,
- "position": 752,
- "rankingPositionChange": 0,
- "gloryPoint": 8653,
+ "position": 757,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8646,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mustangas",
@@ -104,6 +104,14 @@
    "position": 752,
    "rankingPositionChange": 0,
    "gloryPoint": 8653,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 757,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8646,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1096916,
  "characterClassID": 2,
  "raceID": 1,
- "position": 985,
- "rankingPositionChange": 1,
- "gloryPoint": 1564,
+ "position": 987,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1557,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nesvil",
@@ -160,6 +160,14 @@
    "position": 985,
    "rankingPositionChange": 1,
    "gloryPoint": 1564,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 987,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1557,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

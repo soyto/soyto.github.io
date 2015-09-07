@@ -2,9 +2,9 @@
  "characterID": 1340907,
  "characterClassID": 10,
  "raceID": 0,
- "position": 885,
- "rankingPositionChange": 1,
- "gloryPoint": 7982,
+ "position": 892,
+ "rankingPositionChange": -7,
+ "gloryPoint": 7975,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Winiko",
@@ -280,6 +280,14 @@
    "position": 885,
    "rankingPositionChange": 1,
    "gloryPoint": 7982,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 892,
+   "rankingPositionChange": -7,
+   "gloryPoint": 7975,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

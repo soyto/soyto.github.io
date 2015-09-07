@@ -2,9 +2,9 @@
  "characterID": 1611042,
  "characterClassID": 7,
  "raceID": 1,
- "position": 703,
- "rankingPositionChange": 0,
- "gloryPoint": 19232,
+ "position": 704,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19225,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cavish",
@@ -280,6 +280,14 @@
    "position": 703,
    "rankingPositionChange": 0,
    "gloryPoint": 19232,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 704,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19225,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

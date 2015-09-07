@@ -2,10 +2,10 @@
  "characterID": 197158,
  "characterClassID": 2,
  "raceID": 0,
- "position": 269,
- "rankingPositionChange": 0,
- "gloryPoint": 39379,
- "gloryPointChange": 1,
+ "position": 268,
+ "rankingPositionChange": 1,
+ "gloryPoint": 39330,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Broturk",
  "guildName": "LETHAL",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 39379,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 268,
+   "rankingPositionChange": 1,
+   "gloryPoint": 39330,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1005627,
  "characterClassID": 16,
  "raceID": 0,
- "position": 249,
- "rankingPositionChange": 1,
- "gloryPoint": 57930,
+ "position": 250,
+ "rankingPositionChange": -1,
+ "gloryPoint": 57943,
  "gloryPointChange": 13,
  "soldierRankID": 13,
  "characterName": "Herxus",
@@ -280,6 +280,14 @@
    "position": 249,
    "rankingPositionChange": 1,
    "gloryPoint": 57930,
+   "gloryPointChange": 13,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 250,
+   "rankingPositionChange": -1,
+   "gloryPoint": 57943,
    "gloryPointChange": 13,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 862680,
  "characterClassID": 10,
  "raceID": 1,
- "position": 91,
- "rankingPositionChange": 0,
- "gloryPoint": 66086,
- "gloryPointChange": 183,
+ "position": 92,
+ "rankingPositionChange": -1,
+ "gloryPoint": 66355,
+ "gloryPointChange": 269,
  "soldierRankID": 14,
  "characterName": "Tanitat",
  "guildName": "The Legion of Friends",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 66086,
    "gloryPointChange": 183,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": -1,
+   "gloryPoint": 66355,
+   "gloryPointChange": 269,
    "soldierRankID": 14
   }
  ],

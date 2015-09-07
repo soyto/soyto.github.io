@@ -2,10 +2,10 @@
  "characterID": 547455,
  "characterClassID": 2,
  "raceID": 1,
- "position": 820,
- "rankingPositionChange": 11,
- "gloryPoint": 13810,
- "gloryPointChange": 143,
+ "position": 827,
+ "rankingPositionChange": -7,
+ "gloryPoint": 13803,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tauki",
  "guildName": "Mad Penguins",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 13810,
    "gloryPointChange": 143,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 827,
+   "rankingPositionChange": -7,
+   "gloryPoint": 13803,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

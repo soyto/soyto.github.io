@@ -2,9 +2,9 @@
  "characterID": 1016679,
  "characterClassID": 14,
  "raceID": 1,
- "position": 146,
- "rankingPositionChange": -2,
- "gloryPoint": 45098,
+ "position": 145,
+ "rankingPositionChange": 1,
+ "gloryPoint": 45049,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Deadshoooot",
@@ -280,6 +280,14 @@
    "position": 146,
    "rankingPositionChange": -2,
    "gloryPoint": 45098,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": 1,
+   "gloryPoint": 45049,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

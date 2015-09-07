@@ -2,10 +2,10 @@
  "characterID": 123518,
  "characterClassID": 14,
  "raceID": 1,
- "position": 135,
- "rankingPositionChange": 0,
- "gloryPoint": 62379,
- "gloryPointChange": 10,
+ "position": 136,
+ "rankingPositionChange": -1,
+ "gloryPoint": 62694,
+ "gloryPointChange": 315,
  "soldierRankID": 13,
  "characterName": "Fbc",
  "guildName": "Malkavian",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 62379,
    "gloryPointChange": 10,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 136,
+   "rankingPositionChange": -1,
+   "gloryPoint": 62694,
+   "gloryPointChange": 315,
    "soldierRankID": 13
   }
  ],

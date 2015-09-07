@@ -2,10 +2,10 @@
  "characterID": 864872,
  "characterClassID": 8,
  "raceID": 1,
- "position": 963,
- "rankingPositionChange": 6,
- "gloryPoint": 8096,
- "gloryPointChange": 192,
+ "position": 975,
+ "rankingPositionChange": -12,
+ "gloryPoint": 8089,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Malvadoo",
  "guildName": "We PvP IRL",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 8096,
    "gloryPointChange": 192,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": -12,
+   "gloryPoint": 8089,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

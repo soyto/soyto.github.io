@@ -2,10 +2,10 @@
  "characterID": 32139,
  "characterClassID": 2,
  "raceID": 0,
- "position": 448,
- "rankingPositionChange": 1,
- "gloryPoint": 25525,
- "gloryPointChange": -28,
+ "position": 450,
+ "rankingPositionChange": -2,
+ "gloryPoint": 25550,
+ "gloryPointChange": 25,
  "soldierRankID": 12,
  "characterName": "Whand",
  "guildName": "Cincuenta Sombras De Lizbethh",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 25525,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": -2,
+   "gloryPoint": 25550,
+   "gloryPointChange": 25,
    "soldierRankID": 12
   }
  ],

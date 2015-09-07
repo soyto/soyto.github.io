@@ -2,9 +2,9 @@
  "characterID": 607958,
  "characterClassID": 7,
  "raceID": 1,
- "position": 545,
- "rankingPositionChange": 0,
- "gloryPoint": 16136,
+ "position": 549,
+ "rankingPositionChange": -4,
+ "gloryPoint": 16122,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Murgelle",
@@ -264,6 +264,14 @@
    "position": 545,
    "rankingPositionChange": 0,
    "gloryPoint": 16136,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 549,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16122,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

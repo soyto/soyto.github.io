@@ -2,9 +2,9 @@
  "characterID": 60103,
  "characterClassID": 11,
  "raceID": 0,
- "position": 215,
- "rankingPositionChange": 1,
- "gloryPoint": 32889,
+ "position": 217,
+ "rankingPositionChange": -2,
+ "gloryPoint": 32840,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Younih",
@@ -280,6 +280,14 @@
    "position": 215,
    "rankingPositionChange": 1,
    "gloryPoint": 32889,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 217,
+   "rankingPositionChange": -2,
+   "gloryPoint": 32840,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

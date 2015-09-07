@@ -2,10 +2,10 @@
  "characterID": 558060,
  "characterClassID": 1,
  "raceID": 0,
- "position": 558,
- "rankingPositionChange": 1,
- "gloryPoint": 20957,
- "gloryPointChange": 90,
+ "position": 556,
+ "rankingPositionChange": 2,
+ "gloryPoint": 20943,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Grekos",
  "guildName": "Pendulum",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20957,
    "gloryPointChange": 90,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": 2,
+   "gloryPoint": 20943,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

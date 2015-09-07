@@ -2,9 +2,9 @@
  "characterID": 876767,
  "characterClassID": 2,
  "raceID": 0,
- "position": 269,
- "rankingPositionChange": 1,
- "gloryPoint": 56905,
+ "position": 270,
+ "rankingPositionChange": -1,
+ "gloryPoint": 56856,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Caligvla",
@@ -182,6 +182,14 @@
    "position": 269,
    "rankingPositionChange": 1,
    "gloryPoint": 56905,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": -1,
+   "gloryPoint": 56856,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

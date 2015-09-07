@@ -2,9 +2,9 @@
  "characterID": 1275911,
  "characterClassID": 14,
  "raceID": 0,
- "position": 420,
- "rankingPositionChange": 1,
- "gloryPoint": 39557,
+ "position": 428,
+ "rankingPositionChange": -8,
+ "gloryPoint": 39529,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Keynnia",
@@ -280,6 +280,14 @@
    "position": 420,
    "rankingPositionChange": 1,
    "gloryPoint": 39557,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 428,
+   "rankingPositionChange": -8,
+   "gloryPoint": 39529,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

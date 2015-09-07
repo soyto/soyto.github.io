@@ -2,9 +2,9 @@
  "characterID": 772072,
  "characterClassID": 10,
  "raceID": 1,
- "position": 328,
- "rankingPositionChange": 1,
- "gloryPoint": 20184,
+ "position": 330,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20156,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Dshinni",
@@ -280,6 +280,14 @@
    "position": 328,
    "rankingPositionChange": 1,
    "gloryPoint": 20184,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 330,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20156,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

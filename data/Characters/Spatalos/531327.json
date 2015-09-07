@@ -2,10 +2,10 @@
  "characterID": 531327,
  "characterClassID": 10,
  "raceID": 1,
- "position": 514,
- "rankingPositionChange": 9,
- "gloryPoint": 7616,
- "gloryPointChange": 237,
+ "position": 519,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7602,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Orro",
  "guildName": "Lionhearts",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 7616,
    "gloryPointChange": 237,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 519,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7602,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

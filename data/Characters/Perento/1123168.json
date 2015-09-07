@@ -2,10 +2,10 @@
  "characterID": 1123168,
  "characterClassID": 2,
  "raceID": 1,
- "position": 69,
- "rankingPositionChange": 0,
- "gloryPoint": 133980,
- "gloryPointChange": 557,
+ "position": 70,
+ "rankingPositionChange": -1,
+ "gloryPoint": 134738,
+ "gloryPointChange": 758,
  "soldierRankID": 14,
  "characterName": "Thezeu",
  "guildName": "The Others",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 133980,
    "gloryPointChange": 557,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 70,
+   "rankingPositionChange": -1,
+   "gloryPoint": 134738,
+   "gloryPointChange": 758,
    "soldierRankID": 14
   }
  ],

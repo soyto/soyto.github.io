@@ -2,9 +2,9 @@
  "characterID": 480770,
  "characterClassID": 11,
  "raceID": 0,
- "position": 265,
- "rankingPositionChange": 0,
- "gloryPoint": 25041,
+ "position": 267,
+ "rankingPositionChange": -2,
+ "gloryPoint": 24992,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kenmeesa",
@@ -280,6 +280,14 @@
    "position": 265,
    "rankingPositionChange": 0,
    "gloryPoint": 25041,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 267,
+   "rankingPositionChange": -2,
+   "gloryPoint": 24992,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

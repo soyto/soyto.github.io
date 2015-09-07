@@ -2,14 +2,14 @@
  "characterID": 1306691,
  "characterClassID": 11,
  "raceID": 0,
- "position": 571,
- "rankingPositionChange": 5,
- "gloryPoint": 29668,
- "gloryPointChange": 92,
+ "position": 575,
+ "rankingPositionChange": -4,
+ "gloryPoint": 29946,
+ "gloryPointChange": 278,
  "soldierRankID": 11,
  "characterName": "Kda",
- "guildName": "S U P E R",
- "guildID": 46735,
+ "guildName": "Soixante Quinze",
+ "guildID": 48527,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 29668,
    "gloryPointChange": 92,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": -4,
+   "gloryPoint": 29946,
+   "gloryPointChange": 278,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "S U P E R",
    "guildID": 46735
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Soixante Quinze",
+   "guildID": 48527
   }
  ]
 }

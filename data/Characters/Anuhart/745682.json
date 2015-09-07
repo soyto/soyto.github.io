@@ -2,9 +2,9 @@
  "characterID": 745682,
  "characterClassID": 2,
  "raceID": 0,
- "position": 803,
- "rankingPositionChange": 3,
- "gloryPoint": 6556,
+ "position": 804,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6549,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Forbius",
@@ -280,6 +280,14 @@
    "position": 803,
    "rankingPositionChange": 3,
    "gloryPoint": 6556,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 804,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6549,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

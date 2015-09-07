@@ -2,9 +2,9 @@
  "characterID": 776231,
  "characterClassID": 5,
  "raceID": 0,
- "position": 436,
- "rankingPositionChange": 3,
- "gloryPoint": 9802,
+ "position": 437,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9774,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Resolve",
@@ -280,6 +280,14 @@
    "position": 436,
    "rankingPositionChange": 3,
    "gloryPoint": 9802,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 437,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9774,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 44344,
  "characterClassID": 7,
  "raceID": 0,
- "position": 18,
- "rankingPositionChange": 0,
- "gloryPoint": 261610,
+ "position": 19,
+ "rankingPositionChange": -1,
+ "gloryPoint": 261491,
  "gloryPointChange": -119,
  "soldierRankID": 15,
  "characterName": "Nievel",
@@ -184,6 +184,14 @@
    "position": 18,
    "rankingPositionChange": 0,
    "gloryPoint": 261610,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 19,
+   "rankingPositionChange": -1,
+   "gloryPoint": 261491,
    "gloryPointChange": -119,
    "soldierRankID": 15
   }

@@ -2,14 +2,14 @@
  "characterID": 378309,
  "characterClassID": 16,
  "raceID": 1,
- "position": 151,
- "rankingPositionChange": -4,
- "gloryPoint": 7773,
- "gloryPointChange": 282,
+ "position": 153,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8027,
+ "gloryPointChange": 254,
  "soldierRankID": 13,
  "characterName": "Baltaor",
- "guildName": "Chasseurs de Foudre",
- "guildID": 13938,
+ "guildName": "Happy Burstday",
+ "guildID": 15410,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 7773,
    "gloryPointChange": 282,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 153,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8027,
+   "gloryPointChange": 254,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "Chasseurs de Foudre",
    "guildID": 13938
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Happy Burstday",
+   "guildID": 15410
   }
  ]
 }

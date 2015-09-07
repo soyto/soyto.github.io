@@ -2,10 +2,10 @@
  "characterID": 1674154,
  "characterClassID": 14,
  "raceID": 1,
- "position": 794,
- "rankingPositionChange": 0,
- "gloryPoint": 14997,
- "gloryPointChange": 0,
+ "position": 817,
+ "rankingPositionChange": -23,
+ "gloryPoint": 14850,
+ "gloryPointChange": -147,
  "soldierRankID": 10,
  "characterName": "Yvoris",
  "status": [
@@ -135,6 +135,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 14997,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": -23,
+   "gloryPoint": 14850,
+   "gloryPointChange": -147,
    "soldierRankID": 10
   }
  ],

@@ -2,14 +2,12 @@
  "characterID": 283840,
  "characterClassID": 8,
  "raceID": 0,
- "position": 480,
- "rankingPositionChange": -2,
- "gloryPoint": 15950,
- "gloryPointChange": -28,
+ "position": 469,
+ "rankingPositionChange": 11,
+ "gloryPoint": 16334,
+ "gloryPointChange": 384,
  "soldierRankID": 12,
  "characterName": "Mart",
- "guildName": "ElyosBELEDIYESI",
- "guildID": 4387,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 15950,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 469,
+   "rankingPositionChange": 11,
+   "gloryPoint": 16334,
+   "gloryPointChange": 384,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -298,6 +304,9 @@
    "date": "2015-08-23T22:00:00.000Z",
    "guildName": "ElyosBELEDIYESI",
    "guildID": 4387
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

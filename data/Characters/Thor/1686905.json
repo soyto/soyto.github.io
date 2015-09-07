@@ -2,9 +2,9 @@
  "characterID": 1686905,
  "characterClassID": 16,
  "raceID": 0,
- "position": 485,
- "rankingPositionChange": 0,
- "gloryPoint": 37386,
+ "position": 490,
+ "rankingPositionChange": -5,
+ "gloryPoint": 37358,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mrd",
@@ -280,6 +280,14 @@
    "position": 485,
    "rankingPositionChange": 0,
    "gloryPoint": 37386,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 490,
+   "rankingPositionChange": -5,
+   "gloryPoint": 37358,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

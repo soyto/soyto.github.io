@@ -2,9 +2,9 @@
  "characterID": 827522,
  "characterClassID": 2,
  "raceID": 1,
- "position": 170,
- "rankingPositionChange": 0,
- "gloryPoint": 50401,
+ "position": 171,
+ "rankingPositionChange": -1,
+ "gloryPoint": 50352,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sayonori",
@@ -280,6 +280,14 @@
    "position": 170,
    "rankingPositionChange": 0,
    "gloryPoint": 50401,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 171,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50352,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

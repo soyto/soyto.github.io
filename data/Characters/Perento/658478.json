@@ -2,10 +2,10 @@
  "characterID": 658478,
  "characterClassID": 10,
  "raceID": 0,
- "position": 162,
- "rankingPositionChange": 0,
- "gloryPoint": 82031,
- "gloryPointChange": 101,
+ "position": 164,
+ "rankingPositionChange": -2,
+ "gloryPoint": 82082,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Orlea",
  "guildName": "Circle of Nine",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 82031,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 164,
+   "rankingPositionChange": -2,
+   "gloryPoint": 82082,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

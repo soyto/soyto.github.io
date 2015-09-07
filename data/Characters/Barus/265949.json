@@ -2,9 +2,9 @@
  "characterID": 265949,
  "characterClassID": 14,
  "raceID": 1,
- "position": 863,
- "rankingPositionChange": 1,
- "gloryPoint": 12842,
+ "position": 867,
+ "rankingPositionChange": -4,
+ "gloryPoint": 12835,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Indigo",
@@ -280,6 +280,14 @@
    "position": 863,
    "rankingPositionChange": 1,
    "gloryPoint": 12842,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 867,
+   "rankingPositionChange": -4,
+   "gloryPoint": 12835,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

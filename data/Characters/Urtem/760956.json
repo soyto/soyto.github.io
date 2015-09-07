@@ -2,9 +2,9 @@
  "characterID": 760956,
  "characterClassID": 7,
  "raceID": 1,
- "position": 915,
- "rankingPositionChange": 0,
- "gloryPoint": 7842,
+ "position": 921,
+ "rankingPositionChange": -6,
+ "gloryPoint": 7835,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rayydenn",
@@ -280,6 +280,14 @@
    "position": 915,
    "rankingPositionChange": 0,
    "gloryPoint": 7842,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": -6,
+   "gloryPoint": 7835,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

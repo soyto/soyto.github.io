@@ -2,10 +2,10 @@
  "characterID": 1638231,
  "characterClassID": 4,
  "raceID": 1,
- "position": 387,
- "rankingPositionChange": 5,
- "gloryPoint": 13501,
- "gloryPointChange": 479,
+ "position": 389,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13473,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sickless",
  "guildName": "Lionhearts",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 13501,
    "gloryPointChange": 479,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 389,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13473,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

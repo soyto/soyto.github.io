@@ -2,9 +2,9 @@
  "characterID": 124999,
  "characterClassID": 10,
  "raceID": 1,
- "position": 872,
- "rankingPositionChange": 3,
- "gloryPoint": 12584,
+ "position": 880,
+ "rankingPositionChange": -8,
+ "gloryPoint": 12577,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mrocznykastrat",
@@ -280,6 +280,14 @@
    "position": 872,
    "rankingPositionChange": 3,
    "gloryPoint": 12584,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 880,
+   "rankingPositionChange": -8,
+   "gloryPoint": 12577,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

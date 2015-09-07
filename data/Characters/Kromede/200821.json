@@ -2,10 +2,10 @@
  "characterID": 200821,
  "characterClassID": 8,
  "raceID": 0,
- "position": 324,
- "rankingPositionChange": 0,
- "gloryPoint": 39502,
- "gloryPointChange": -28,
+ "position": 325,
+ "rankingPositionChange": -1,
+ "gloryPoint": 39600,
+ "gloryPointChange": 98,
  "soldierRankID": 12,
  "characterName": "Synami",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 39502,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 325,
+   "rankingPositionChange": -1,
+   "gloryPoint": 39600,
+   "gloryPointChange": 98,
    "soldierRankID": 12
   }
  ],

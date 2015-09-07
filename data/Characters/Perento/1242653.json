@@ -2,9 +2,9 @@
  "characterID": 1242653,
  "characterClassID": 14,
  "raceID": 1,
- "position": 582,
- "rankingPositionChange": 0,
- "gloryPoint": 6046,
+ "position": 581,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6032,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Skyburst",
@@ -280,6 +280,14 @@
    "position": 582,
    "rankingPositionChange": 0,
    "gloryPoint": 6046,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 581,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6032,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

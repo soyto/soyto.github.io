@@ -3,8 +3,8 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 306,
- "rankingPositionChange": -1,
- "gloryPoint": 23550,
+ "rankingPositionChange": 0,
+ "gloryPoint": 23522,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Pentesile",
@@ -280,6 +280,14 @@
    "position": 306,
    "rankingPositionChange": -1,
    "gloryPoint": 23550,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 306,
+   "rankingPositionChange": 0,
+   "gloryPoint": 23522,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 1015928,
  "characterClassID": 10,
  "raceID": 1,
- "position": 601,
- "rankingPositionChange": 4,
- "gloryPoint": 11965,
- "gloryPointChange": 86,
+ "position": 604,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11951,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Furriange",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 11965,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11951,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

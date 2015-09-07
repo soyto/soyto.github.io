@@ -2,10 +2,10 @@
  "characterID": 740270,
  "characterClassID": 2,
  "raceID": 0,
- "position": 193,
- "rankingPositionChange": 1,
- "gloryPoint": 50509,
- "gloryPointChange": 64,
+ "position": 195,
+ "rankingPositionChange": -2,
+ "gloryPoint": 50460,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Bodyguard",
  "guildName": "HighSociety",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 50509,
    "gloryPointChange": 64,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": -2,
+   "gloryPoint": 50460,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

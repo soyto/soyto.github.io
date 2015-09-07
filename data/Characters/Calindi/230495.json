@@ -2,9 +2,9 @@
  "characterID": 230495,
  "characterClassID": 8,
  "raceID": 0,
- "position": 139,
- "rankingPositionChange": 0,
- "gloryPoint": 58276,
+ "position": 142,
+ "rankingPositionChange": -3,
+ "gloryPoint": 58227,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Keuchone",
@@ -280,6 +280,14 @@
    "position": 139,
    "rankingPositionChange": 0,
    "gloryPoint": 58276,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 142,
+   "rankingPositionChange": -3,
+   "gloryPoint": 58227,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

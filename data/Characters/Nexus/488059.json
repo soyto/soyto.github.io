@@ -2,10 +2,10 @@
  "characterID": 488059,
  "characterClassID": 1,
  "raceID": 1,
- "position": 829,
- "rankingPositionChange": 4,
- "gloryPoint": 11772,
- "gloryPointChange": 293,
+ "position": 835,
+ "rankingPositionChange": -6,
+ "gloryPoint": 11825,
+ "gloryPointChange": 53,
  "soldierRankID": 10,
  "characterName": "Archaon",
  "guildName": "BandOfBrothers",
@@ -209,6 +209,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 11772,
    "gloryPointChange": 293,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 835,
+   "rankingPositionChange": -6,
+   "gloryPoint": 11825,
+   "gloryPointChange": 53,
    "soldierRankID": 10
   }
  ],

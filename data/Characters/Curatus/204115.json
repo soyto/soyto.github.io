@@ -2,10 +2,10 @@
  "characterID": 204115,
  "characterClassID": 1,
  "raceID": 1,
- "position": 176,
- "rankingPositionChange": 1,
- "gloryPoint": 44516,
- "gloryPointChange": 381,
+ "position": 177,
+ "rankingPositionChange": -1,
+ "gloryPoint": 44577,
+ "gloryPointChange": 61,
  "soldierRankID": 13,
  "characterName": "Schantay",
  "guildName": "Prepotenti",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 44516,
    "gloryPointChange": 381,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 177,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44577,
+   "gloryPointChange": 61,
    "soldierRankID": 13
   }
  ],

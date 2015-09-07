@@ -2,10 +2,10 @@
  "characterID": 107155,
  "characterClassID": 4,
  "raceID": 0,
- "position": 577,
- "rankingPositionChange": 4,
- "gloryPoint": 3937,
- "gloryPointChange": 136,
+ "position": 581,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3923,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Rhopopo",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 3937,
    "gloryPointChange": 136,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 581,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3923,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

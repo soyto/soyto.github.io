@@ -2,10 +2,10 @@
  "characterID": 3393,
  "characterClassID": 5,
  "raceID": 0,
- "position": 835,
- "rankingPositionChange": -5,
- "gloryPoint": 4756,
- "gloryPointChange": -7,
+ "position": 831,
+ "rankingPositionChange": 4,
+ "gloryPoint": 4811,
+ "gloryPointChange": 55,
  "soldierRankID": 10,
  "characterName": "Ecel",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 4756,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 831,
+   "rankingPositionChange": 4,
+   "gloryPoint": 4811,
+   "gloryPointChange": 55,
    "soldierRankID": 10
   }
  ],

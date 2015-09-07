@@ -2,10 +2,10 @@
  "characterID": 1431730,
  "characterClassID": 14,
  "raceID": 0,
- "position": 568,
- "rankingPositionChange": 2,
- "gloryPoint": 31318,
- "gloryPointChange": 96,
+ "position": 577,
+ "rankingPositionChange": -9,
+ "gloryPoint": 31304,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Yersiniapestis",
  "guildName": "AHU Kaltmacher",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 31318,
    "gloryPointChange": 96,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 577,
+   "rankingPositionChange": -9,
+   "gloryPoint": 31304,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

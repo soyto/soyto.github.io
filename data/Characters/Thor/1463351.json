@@ -3,9 +3,9 @@
  "characterClassID": 13,
  "raceID": 1,
  "position": 616,
- "rankingPositionChange": 1,
- "gloryPoint": 22305,
- "gloryPointChange": 89,
+ "rankingPositionChange": 0,
+ "gloryPoint": 22291,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Stawkins",
  "guildName": "Respect the Cane",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 22305,
    "gloryPointChange": 89,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 616,
+   "rankingPositionChange": 0,
+   "gloryPoint": 22291,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

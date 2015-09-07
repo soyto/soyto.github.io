@@ -2,9 +2,9 @@
  "characterID": 1313645,
  "characterClassID": 13,
  "raceID": 0,
- "position": 981,
- "rankingPositionChange": 2,
- "gloryPoint": 13469,
+ "position": 995,
+ "rankingPositionChange": -14,
+ "gloryPoint": 13462,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Garike",
@@ -270,6 +270,14 @@
    "position": 981,
    "rankingPositionChange": 2,
    "gloryPoint": 13469,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 995,
+   "rankingPositionChange": -14,
+   "gloryPoint": 13462,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

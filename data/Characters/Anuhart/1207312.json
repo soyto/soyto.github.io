@@ -2,9 +2,9 @@
  "characterID": 1207312,
  "characterClassID": 1,
  "raceID": 0,
- "position": 808,
- "rankingPositionChange": 3,
- "gloryPoint": 6448,
+ "position": 811,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6441,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Akitsuna",
@@ -176,6 +176,14 @@
    "position": 808,
    "rankingPositionChange": 3,
    "gloryPoint": 6448,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 811,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6441,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

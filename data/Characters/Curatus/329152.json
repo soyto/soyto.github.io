@@ -2,9 +2,9 @@
  "characterID": 329152,
  "characterClassID": 11,
  "raceID": 1,
- "position": 971,
- "rankingPositionChange": 0,
- "gloryPoint": 3172,
+ "position": 975,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3165,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Virgoz",
@@ -256,6 +256,14 @@
    "position": 971,
    "rankingPositionChange": 0,
    "gloryPoint": 3172,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3165,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

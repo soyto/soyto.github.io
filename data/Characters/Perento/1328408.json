@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 570,
- "rankingPositionChange": 20,
- "gloryPoint": 6255,
- "gloryPointChange": 315,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6241,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Willer",
  "guildName": "Eternal Army",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 20,
    "gloryPoint": 6255,
    "gloryPointChange": 315,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 570,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6241,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

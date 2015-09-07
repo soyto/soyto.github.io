@@ -2,10 +2,10 @@
  "characterID": 1227501,
  "characterClassID": 16,
  "raceID": 1,
- "position": 863,
- "rankingPositionChange": 13,
- "gloryPoint": 3806,
- "gloryPointChange": 121,
+ "position": 867,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3847,
+ "gloryPointChange": 41,
  "soldierRankID": 10,
  "characterName": "Laety",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 3806,
    "gloryPointChange": 121,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 867,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3847,
+   "gloryPointChange": 41,
    "soldierRankID": 10
   }
  ],

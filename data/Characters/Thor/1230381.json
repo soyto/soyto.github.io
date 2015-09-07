@@ -2,9 +2,9 @@
  "characterID": 1230381,
  "characterClassID": 14,
  "raceID": 0,
- "position": 910,
- "rankingPositionChange": 1,
- "gloryPoint": 16171,
+ "position": 920,
+ "rankingPositionChange": -10,
+ "gloryPoint": 16164,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chuiii",
@@ -264,6 +264,14 @@
    "position": 910,
    "rankingPositionChange": 1,
    "gloryPoint": 16171,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 920,
+   "rankingPositionChange": -10,
+   "gloryPoint": 16164,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

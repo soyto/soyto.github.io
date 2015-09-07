@@ -2,12 +2,14 @@
  "characterID": 932364,
  "characterClassID": 10,
  "raceID": 0,
- "position": 636,
- "rankingPositionChange": 0,
- "gloryPoint": 16572,
- "gloryPointChange": 6,
+ "position": 634,
+ "rankingPositionChange": 2,
+ "gloryPoint": 16674,
+ "gloryPointChange": 102,
  "soldierRankID": 11,
  "characterName": "Neterika",
+ "guildName": "SoulRippers",
+ "guildID": 1691,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 16572,
    "gloryPointChange": 6,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 634,
+   "rankingPositionChange": 2,
+   "gloryPoint": 16674,
+   "gloryPointChange": 102,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "SoulRippers",
+   "guildID": 1691
   }
  ]
 }

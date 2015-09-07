@@ -2,9 +2,9 @@
  "characterID": 420083,
  "characterClassID": 10,
  "raceID": 0,
- "position": 847,
- "rankingPositionChange": 0,
- "gloryPoint": 1629,
+ "position": 851,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1622,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Arcadiium",
@@ -22,6 +22,14 @@
    "position": 847,
    "rankingPositionChange": 0,
    "gloryPoint": 1629,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1622,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

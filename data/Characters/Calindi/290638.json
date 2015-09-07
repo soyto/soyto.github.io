@@ -2,9 +2,9 @@
  "characterID": 290638,
  "characterClassID": 7,
  "raceID": 0,
- "position": 885,
- "rankingPositionChange": 1,
- "gloryPoint": 1402,
+ "position": 891,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1395,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mizukami",
@@ -280,6 +280,14 @@
    "position": 885,
    "rankingPositionChange": 1,
    "gloryPoint": 1402,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 891,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1395,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

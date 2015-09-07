@@ -2,9 +2,9 @@
  "characterID": 500312,
  "characterClassID": 13,
  "raceID": 1,
- "position": 869,
- "rankingPositionChange": 3,
- "gloryPoint": 12658,
+ "position": 876,
+ "rankingPositionChange": -7,
+ "gloryPoint": 12651,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aethershiru",
@@ -38,6 +38,14 @@
    "position": 869,
    "rankingPositionChange": 3,
    "gloryPoint": 12658,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 876,
+   "rankingPositionChange": -7,
+   "gloryPoint": 12651,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

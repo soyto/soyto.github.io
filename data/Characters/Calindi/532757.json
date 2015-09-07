@@ -2,9 +2,9 @@
  "characterID": 532757,
  "characterClassID": 16,
  "raceID": 0,
- "position": 871,
- "rankingPositionChange": 3,
- "gloryPoint": 1449,
+ "position": 877,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1442,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kanato",
@@ -144,6 +144,14 @@
    "position": 871,
    "rankingPositionChange": 3,
    "gloryPoint": 1449,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 877,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1442,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

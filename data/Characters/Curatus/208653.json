@@ -2,10 +2,10 @@
  "characterID": 208653,
  "characterClassID": 1,
  "raceID": 1,
- "position": 906,
- "rankingPositionChange": 1,
- "gloryPoint": 3909,
- "gloryPointChange": 26,
+ "position": 909,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3902,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Psichys",
  "status": [
@@ -55,6 +55,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 3909,
    "gloryPointChange": 26,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 909,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3902,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

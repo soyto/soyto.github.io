@@ -2,9 +2,9 @@
  "characterID": 671993,
  "characterClassID": 7,
  "raceID": 0,
- "position": 327,
- "rankingPositionChange": 0,
- "gloryPoint": 29477,
+ "position": 328,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29449,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Fugee",
@@ -278,6 +278,14 @@
    "position": 327,
    "rankingPositionChange": 0,
    "gloryPoint": 29477,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 328,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29449,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

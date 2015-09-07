@@ -2,10 +2,10 @@
  "characterID": 578460,
  "characterClassID": 11,
  "raceID": 0,
- "position": 106,
- "rankingPositionChange": 0,
- "gloryPoint": 127995,
- "gloryPointChange": 224,
+ "position": 107,
+ "rankingPositionChange": -1,
+ "gloryPoint": 128196,
+ "gloryPointChange": 201,
  "soldierRankID": 13,
  "characterName": "Ayar",
  "guildName": "Dix Xanadu",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 127995,
    "gloryPointChange": 224,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": -1,
+   "gloryPoint": 128196,
+   "gloryPointChange": 201,
    "soldierRankID": 13
   }
  ],

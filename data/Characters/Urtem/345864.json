@@ -2,10 +2,10 @@
  "characterID": 345864,
  "characterClassID": 7,
  "raceID": 0,
- "position": 94,
- "rankingPositionChange": 1,
- "gloryPoint": 136199,
- "gloryPointChange": 518,
+ "position": 96,
+ "rankingPositionChange": -2,
+ "gloryPoint": 136242,
+ "gloryPointChange": 43,
  "soldierRankID": 14,
  "characterName": "Moussssse",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 136199,
    "gloryPointChange": 518,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 96,
+   "rankingPositionChange": -2,
+   "gloryPoint": 136242,
+   "gloryPointChange": 43,
    "soldierRankID": 14
   }
  ],

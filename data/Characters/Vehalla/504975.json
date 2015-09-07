@@ -2,10 +2,10 @@
  "characterID": 504975,
  "characterClassID": 7,
  "raceID": 0,
- "position": 641,
- "rankingPositionChange": 45,
- "gloryPoint": 1437,
- "gloryPointChange": 121,
+ "position": 646,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1423,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Akanu",
  "guildName": "The Legacy",
@@ -169,6 +169,14 @@
    "rankingPositionChange": 45,
    "gloryPoint": 1437,
    "gloryPointChange": 121,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 646,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1423,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

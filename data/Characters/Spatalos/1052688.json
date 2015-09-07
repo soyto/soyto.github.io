@@ -2,10 +2,10 @@
  "characterID": 1052688,
  "characterClassID": 14,
  "raceID": 0,
- "position": 29,
- "rankingPositionChange": 1,
- "gloryPoint": 239011,
- "gloryPointChange": 843,
+ "position": 30,
+ "rankingPositionChange": -1,
+ "gloryPoint": 238895,
+ "gloryPointChange": -116,
  "soldierRankID": 15,
  "characterName": "Maniatissa",
  "guildName": "I Knew You Were Trouble",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 239011,
    "gloryPointChange": 843,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 30,
+   "rankingPositionChange": -1,
+   "gloryPoint": 238895,
+   "gloryPointChange": -116,
    "soldierRankID": 15
   }
  ],

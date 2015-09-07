@@ -2,9 +2,9 @@
  "characterID": 1204390,
  "characterClassID": 10,
  "raceID": 1,
- "position": 206,
- "rankingPositionChange": 2,
- "gloryPoint": 54989,
+ "position": 207,
+ "rankingPositionChange": -1,
+ "gloryPoint": 54940,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pwinzi",
@@ -280,6 +280,14 @@
    "position": 206,
    "rankingPositionChange": 2,
    "gloryPoint": 54989,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 207,
+   "rankingPositionChange": -1,
+   "gloryPoint": 54940,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

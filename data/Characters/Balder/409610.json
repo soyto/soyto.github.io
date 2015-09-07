@@ -2,10 +2,10 @@
  "characterID": 409610,
  "characterClassID": 5,
  "raceID": 0,
- "position": 252,
- "rankingPositionChange": 1,
- "gloryPoint": 28740,
- "gloryPointChange": 51,
+ "position": 253,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28719,
+ "gloryPointChange": -21,
  "soldierRankID": 13,
  "characterName": "Wic",
  "guildName": "Banned",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 28740,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 253,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28719,
+   "gloryPointChange": -21,
    "soldierRankID": 13
   }
  ],

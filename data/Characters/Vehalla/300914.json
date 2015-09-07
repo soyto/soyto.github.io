@@ -2,10 +2,10 @@
  "characterID": 300914,
  "characterClassID": 10,
  "raceID": 1,
- "position": 623,
- "rankingPositionChange": 53,
- "gloryPoint": 1341,
- "gloryPointChange": 77,
+ "position": 633,
+ "rankingPositionChange": -10,
+ "gloryPoint": 1334,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Teazer",
  "guildName": "SpassKostet",
@@ -193,6 +193,14 @@
    "rankingPositionChange": 53,
    "gloryPoint": 1341,
    "gloryPointChange": 77,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 633,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1334,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 128134,
  "characterClassID": 10,
  "raceID": 1,
- "position": 371,
- "rankingPositionChange": 1,
- "gloryPoint": 39760,
- "gloryPointChange": -28,
+ "position": 372,
+ "rankingPositionChange": -1,
+ "gloryPoint": 39742,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Lorilla",
  "guildName": "Equillibrium",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 39760,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 372,
+   "rankingPositionChange": -1,
+   "gloryPoint": 39742,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

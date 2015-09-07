@@ -2,10 +2,10 @@
  "characterID": 371743,
  "characterClassID": 10,
  "raceID": 0,
- "position": 593,
- "rankingPositionChange": 5,
- "gloryPoint": 28749,
- "gloryPointChange": 236,
+ "position": 602,
+ "rankingPositionChange": -9,
+ "gloryPoint": 28735,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nyarknyarknyark",
  "guildName": "Burst Day",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 28749,
    "gloryPointChange": 236,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 602,
+   "rankingPositionChange": -9,
+   "gloryPoint": 28735,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

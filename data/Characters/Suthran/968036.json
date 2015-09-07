@@ -2,9 +2,9 @@
  "characterID": 968036,
  "characterClassID": 8,
  "raceID": 1,
- "position": 146,
- "rankingPositionChange": 1,
- "gloryPoint": 77595,
+ "position": 149,
+ "rankingPositionChange": -3,
+ "gloryPoint": 77546,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Wrong",
@@ -280,6 +280,14 @@
    "position": 146,
    "rankingPositionChange": 1,
    "gloryPoint": 77595,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 149,
+   "rankingPositionChange": -3,
+   "gloryPoint": 77546,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

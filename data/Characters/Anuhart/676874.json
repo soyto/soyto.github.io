@@ -2,9 +2,9 @@
  "characterID": 676874,
  "characterClassID": 1,
  "raceID": 1,
- "position": 217,
- "rankingPositionChange": 0,
- "gloryPoint": 44522,
+ "position": 218,
+ "rankingPositionChange": -1,
+ "gloryPoint": 44473,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nuut",
@@ -280,6 +280,14 @@
    "position": 217,
    "rankingPositionChange": 0,
    "gloryPoint": 44522,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 218,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44473,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

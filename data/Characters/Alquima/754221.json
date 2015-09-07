@@ -2,10 +2,10 @@
  "characterID": 754221,
  "characterClassID": 10,
  "raceID": 1,
- "position": 603,
- "rankingPositionChange": 9,
- "gloryPoint": 13052,
- "gloryPointChange": 303,
+ "position": 604,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13121,
+ "gloryPointChange": 69,
  "soldierRankID": 11,
  "characterName": "Ankla",
  "guildName": "STAFF",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 13052,
    "gloryPointChange": 303,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13121,
+   "gloryPointChange": 69,
    "soldierRankID": 11
   }
  ],

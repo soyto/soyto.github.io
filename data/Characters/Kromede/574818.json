@@ -2,10 +2,10 @@
  "characterID": 574818,
  "characterClassID": 1,
  "raceID": 1,
- "position": 493,
- "rankingPositionChange": 3,
- "gloryPoint": 10141,
- "gloryPointChange": 122,
+ "position": 495,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10113,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Talith",
  "guildName": "Feel my PvPnis",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 10141,
    "gloryPointChange": 122,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 495,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10113,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

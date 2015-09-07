@@ -2,10 +2,10 @@
  "characterID": 1249600,
  "characterClassID": 10,
  "raceID": 0,
- "position": 111,
- "rankingPositionChange": 0,
- "gloryPoint": 124511,
- "gloryPointChange": 151,
+ "position": 112,
+ "rankingPositionChange": -1,
+ "gloryPoint": 124562,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Yumihara",
  "guildName": "Shake It Off",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 124511,
    "gloryPointChange": 151,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 112,
+   "rankingPositionChange": -1,
+   "gloryPoint": 124562,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1354311,
  "characterClassID": 10,
  "raceID": 0,
- "position": 484,
- "rankingPositionChange": 0,
- "gloryPoint": 34388,
+ "position": 492,
+ "rankingPositionChange": -8,
+ "gloryPoint": 34360,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Skaye",
@@ -280,6 +280,14 @@
    "position": 484,
    "rankingPositionChange": 0,
    "gloryPoint": 34388,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 492,
+   "rankingPositionChange": -8,
+   "gloryPoint": 34360,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

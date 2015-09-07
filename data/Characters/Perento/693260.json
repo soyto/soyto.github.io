@@ -2,12 +2,14 @@
  "characterID": 693260,
  "characterClassID": 8,
  "raceID": 1,
- "position": 678,
- "rankingPositionChange": 0,
- "gloryPoint": 4261,
- "gloryPointChange": -14,
+ "position": 679,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4257,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Enriique",
+ "guildName": "Wolf Brotherhood",
+ "guildID": 29808,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 4261,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4257,
+   "gloryPointChange": -4,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Wolf Brotherhood",
+   "guildID": 29808
   }
  ]
 }

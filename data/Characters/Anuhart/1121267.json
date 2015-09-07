@@ -2,9 +2,9 @@
  "characterID": 1121267,
  "characterClassID": 4,
  "raceID": 0,
- "position": 805,
- "rankingPositionChange": 3,
- "gloryPoint": 6502,
+ "position": 807,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6495,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bonjorno",
@@ -280,6 +280,14 @@
    "position": 805,
    "rankingPositionChange": 3,
    "gloryPoint": 6502,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 807,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6495,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

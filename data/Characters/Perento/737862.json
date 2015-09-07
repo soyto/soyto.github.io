@@ -2,9 +2,9 @@
  "characterID": 737862,
  "characterClassID": 4,
  "raceID": 1,
- "position": 592,
- "rankingPositionChange": 2,
- "gloryPoint": 5804,
+ "position": 595,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5790,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Xaxanoula",
@@ -280,6 +280,14 @@
    "position": 592,
    "rankingPositionChange": 2,
    "gloryPoint": 5804,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5790,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

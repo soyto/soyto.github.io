@@ -2,14 +2,12 @@
  "characterID": 2716,
  "characterClassID": 5,
  "raceID": 1,
- "position": 54,
- "rankingPositionChange": -1,
- "gloryPoint": 138887,
- "gloryPointChange": -4,
+ "position": 53,
+ "rankingPositionChange": 1,
+ "gloryPoint": 138845,
+ "gloryPointChange": -42,
  "soldierRankID": 14,
  "characterName": "Rulhascruntz",
- "guildName": "ANCHOR",
- "guildID": 6633,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 138887,
    "gloryPointChange": -4,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 53,
+   "rankingPositionChange": 1,
+   "gloryPoint": 138845,
+   "gloryPointChange": -42,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "ANCHOR",
    "guildID": 6633
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

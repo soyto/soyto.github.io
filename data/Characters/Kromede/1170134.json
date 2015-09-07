@@ -2,10 +2,10 @@
  "characterID": 1170134,
  "characterClassID": 10,
  "raceID": 0,
- "position": 564,
- "rankingPositionChange": 0,
- "gloryPoint": 20749,
- "gloryPointChange": 86,
+ "position": 565,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20735,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Soo",
  "guildName": "Legion of Light",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 20749,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 565,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20735,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

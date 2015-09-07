@@ -2,9 +2,9 @@
  "characterID": 163395,
  "characterClassID": 5,
  "raceID": 1,
- "position": 251,
- "rankingPositionChange": 0,
- "gloryPoint": 59057,
+ "position": 252,
+ "rankingPositionChange": -1,
+ "gloryPoint": 59008,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Decks",
@@ -280,6 +280,14 @@
    "position": 251,
    "rankingPositionChange": 0,
    "gloryPoint": 59057,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 252,
+   "rankingPositionChange": -1,
+   "gloryPoint": 59008,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

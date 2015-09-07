@@ -2,9 +2,9 @@
  "characterID": 178187,
  "characterClassID": 14,
  "raceID": 1,
- "position": 160,
- "rankingPositionChange": -1,
- "gloryPoint": 57889,
+ "position": 159,
+ "rankingPositionChange": 1,
+ "gloryPoint": 57840,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pewpew",
@@ -280,6 +280,14 @@
    "position": 160,
    "rankingPositionChange": -1,
    "gloryPoint": 57889,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": 1,
+   "gloryPoint": 57840,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

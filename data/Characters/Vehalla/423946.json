@@ -2,9 +2,9 @@
  "characterID": 423946,
  "characterClassID": 8,
  "raceID": 1,
- "position": 478,
- "rankingPositionChange": 2,
- "gloryPoint": 2062,
+ "position": 483,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2034,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Irrebella",
@@ -272,6 +272,14 @@
    "position": 478,
    "rankingPositionChange": 2,
    "gloryPoint": 2062,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 483,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2034,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

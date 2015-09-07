@@ -2,9 +2,9 @@
  "characterID": 1217746,
  "characterClassID": 7,
  "raceID": 0,
- "position": 857,
- "rankingPositionChange": 0,
- "gloryPoint": 8610,
+ "position": 865,
+ "rankingPositionChange": -8,
+ "gloryPoint": 8603,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Exellen",
@@ -278,6 +278,14 @@
    "position": 857,
    "rankingPositionChange": 0,
    "gloryPoint": 8610,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 865,
+   "rankingPositionChange": -8,
+   "gloryPoint": 8603,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

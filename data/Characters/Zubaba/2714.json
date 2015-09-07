@@ -2,9 +2,9 @@
  "characterID": 2714,
  "characterClassID": 5,
  "raceID": 0,
- "position": 299,
- "rankingPositionChange": 0,
- "gloryPoint": 32780,
+ "position": 300,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32731,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Balistik",
@@ -280,6 +280,14 @@
    "position": 299,
    "rankingPositionChange": 0,
    "gloryPoint": 32780,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 300,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32731,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

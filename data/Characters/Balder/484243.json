@@ -2,9 +2,9 @@
  "characterID": 484243,
  "characterClassID": 10,
  "raceID": 0,
- "position": 967,
- "rankingPositionChange": 4,
- "gloryPoint": 1741,
+ "position": 972,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1734,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cocconut",
@@ -280,6 +280,14 @@
    "position": 967,
    "rankingPositionChange": 4,
    "gloryPoint": 1741,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 972,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1734,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

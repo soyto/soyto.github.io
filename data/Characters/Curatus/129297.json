@@ -2,14 +2,14 @@
  "characterID": 129297,
  "characterClassID": 10,
  "raceID": 1,
- "position": 842,
- "rankingPositionChange": -2,
- "gloryPoint": 4606,
- "gloryPointChange": -7,
+ "position": 839,
+ "rankingPositionChange": 3,
+ "gloryPoint": 4650,
+ "gloryPointChange": 44,
  "soldierRankID": 10,
  "characterName": "Illyon",
- "guildName": "N o S",
- "guildID": 1770,
+ "guildName": "SouL  TeaR",
+ "guildID": 1039,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 4606,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 839,
+   "rankingPositionChange": 3,
+   "gloryPoint": 4650,
+   "gloryPointChange": 44,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "N o S",
    "guildID": 1770
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "SouL  TeaR",
+   "guildID": 1039
   }
  ]
 }

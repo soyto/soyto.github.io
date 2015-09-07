@@ -2,9 +2,9 @@
  "characterID": 399524,
  "characterClassID": 7,
  "raceID": 0,
- "position": 188,
- "rankingPositionChange": 0,
- "gloryPoint": 41942,
+ "position": 190,
+ "rankingPositionChange": -2,
+ "gloryPoint": 41893,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Yanastyle",
@@ -112,6 +112,14 @@
    "position": 188,
    "rankingPositionChange": 0,
    "gloryPoint": 41942,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 190,
+   "rankingPositionChange": -2,
+   "gloryPoint": 41893,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

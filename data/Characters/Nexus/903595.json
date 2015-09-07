@@ -2,9 +2,9 @@
  "characterID": 903595,
  "characterClassID": 14,
  "raceID": 0,
- "position": 505,
- "rankingPositionChange": 0,
- "gloryPoint": 17285,
+ "position": 507,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17271,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zepra",
@@ -280,6 +280,14 @@
    "position": 505,
    "rankingPositionChange": 0,
    "gloryPoint": 17285,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 507,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17271,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

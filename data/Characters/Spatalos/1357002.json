@@ -2,10 +2,10 @@
  "characterID": 1357002,
  "characterClassID": 2,
  "raceID": 1,
- "position": 552,
- "rankingPositionChange": 0,
- "gloryPoint": 6866,
- "gloryPointChange": 16,
+ "position": 556,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6852,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nemiades",
  "guildName": "SK friends CZ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6866,
    "gloryPointChange": 16,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6852,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

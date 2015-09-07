@@ -2,12 +2,14 @@
  "characterID": 251012,
  "characterClassID": 8,
  "raceID": 1,
- "position": 144,
+ "position": 145,
  "rankingPositionChange": -1,
- "gloryPoint": 53350,
- "gloryPointChange": 11,
+ "gloryPoint": 53681,
+ "gloryPointChange": 331,
  "soldierRankID": 13,
  "characterName": "Auvinx",
+ "guildName": "Stalkers",
+ "guildID": 5288,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 53350,
    "gloryPointChange": 11,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53681,
+   "gloryPointChange": 331,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Stalkers",
+   "guildID": 5288
   }
  ]
 }

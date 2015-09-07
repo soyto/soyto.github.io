@@ -2,9 +2,9 @@
  "characterID": 389313,
  "characterClassID": 7,
  "raceID": 1,
- "position": 598,
- "rankingPositionChange": 0,
- "gloryPoint": 14247,
+ "position": 603,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14233,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Indomo",
@@ -264,6 +264,14 @@
    "position": 598,
    "rankingPositionChange": 0,
    "gloryPoint": 14247,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 603,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14233,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

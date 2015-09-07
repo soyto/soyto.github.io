@@ -2,10 +2,10 @@
  "characterID": 220581,
  "characterClassID": 11,
  "raceID": 1,
- "position": 760,
- "rankingPositionChange": 0,
- "gloryPoint": 5887,
- "gloryPointChange": 93,
+ "position": 766,
+ "rankingPositionChange": -6,
+ "gloryPoint": 5880,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Horl",
  "guildName": "Deads Can Dance",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5887,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 766,
+   "rankingPositionChange": -6,
+   "gloryPoint": 5880,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

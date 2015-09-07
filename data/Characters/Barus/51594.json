@@ -2,9 +2,9 @@
  "characterID": 51594,
  "characterClassID": 4,
  "raceID": 0,
- "position": 32,
- "rankingPositionChange": 0,
- "gloryPoint": 162983,
+ "position": 34,
+ "rankingPositionChange": -2,
+ "gloryPoint": 162876,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Gotham",
@@ -278,6 +278,14 @@
    "position": 32,
    "rankingPositionChange": 0,
    "gloryPoint": 162983,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 34,
+   "rankingPositionChange": -2,
+   "gloryPoint": 162876,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

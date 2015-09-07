@@ -2,9 +2,9 @@
  "characterID": 357355,
  "characterClassID": 10,
  "raceID": 1,
- "position": 972,
- "rankingPositionChange": 4,
- "gloryPoint": 9917,
+ "position": 978,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9910,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aditii",
@@ -280,6 +280,14 @@
    "position": 972,
    "rankingPositionChange": 4,
    "gloryPoint": 9917,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9910,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

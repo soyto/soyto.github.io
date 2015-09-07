@@ -2,9 +2,9 @@
  "characterID": 536226,
  "characterClassID": 5,
  "raceID": 0,
- "position": 747,
- "rankingPositionChange": 3,
- "gloryPoint": 7698,
+ "position": 752,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7691,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lammy",
@@ -248,6 +248,14 @@
    "position": 747,
    "rankingPositionChange": 3,
    "gloryPoint": 7698,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 752,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7691,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

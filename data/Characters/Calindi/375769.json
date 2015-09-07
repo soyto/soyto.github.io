@@ -2,9 +2,9 @@
  "characterID": 375769,
  "characterClassID": 16,
  "raceID": 0,
- "position": 375,
- "rankingPositionChange": 1,
- "gloryPoint": 12567,
+ "position": 379,
+ "rankingPositionChange": -4,
+ "gloryPoint": 12539,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Reshiiram",
@@ -278,6 +278,14 @@
    "position": 375,
    "rankingPositionChange": 1,
    "gloryPoint": 12567,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 379,
+   "rankingPositionChange": -4,
+   "gloryPoint": 12539,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

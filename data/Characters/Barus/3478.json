@@ -2,9 +2,9 @@
  "characterID": 3478,
  "characterClassID": 8,
  "raceID": 0,
- "position": 162,
- "rankingPositionChange": 0,
- "gloryPoint": 73714,
+ "position": 163,
+ "rankingPositionChange": -1,
+ "gloryPoint": 73665,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shogunn",
@@ -278,6 +278,14 @@
    "position": 162,
    "rankingPositionChange": 0,
    "gloryPoint": 73714,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 163,
+   "rankingPositionChange": -1,
+   "gloryPoint": 73665,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 364070,
  "characterClassID": 8,
  "raceID": 0,
- "position": 665,
- "rankingPositionChange": 1,
- "gloryPoint": 10612,
+ "position": 668,
+ "rankingPositionChange": -3,
+ "gloryPoint": 10598,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Heartfelt",
@@ -24,6 +24,14 @@
    "position": 665,
    "rankingPositionChange": 1,
    "gloryPoint": 10612,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 668,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10598,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

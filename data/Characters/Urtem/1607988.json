@@ -2,10 +2,10 @@
  "characterID": 1607988,
  "characterClassID": 8,
  "raceID": 1,
- "position": 963,
- "rankingPositionChange": 0,
- "gloryPoint": 7203,
- "gloryPointChange": -7,
+ "position": 967,
+ "rankingPositionChange": -4,
+ "gloryPoint": 7233,
+ "gloryPointChange": 30,
  "soldierRankID": 10,
  "characterName": "Zagel",
  "guildName": "Valaraukar",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7203,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7233,
+   "gloryPointChange": 30,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 479407,
  "characterClassID": 10,
  "raceID": 1,
- "position": 464,
- "rankingPositionChange": 12,
- "gloryPoint": 2343,
- "gloryPointChange": 117,
+ "position": 469,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2315,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Alcariah",
  "guildName": "Maligne",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 12,
    "gloryPoint": 2343,
    "gloryPointChange": 117,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 469,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2315,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

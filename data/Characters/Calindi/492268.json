@@ -2,9 +2,9 @@
  "characterID": 492268,
  "characterClassID": 7,
  "raceID": 0,
- "position": 888,
- "rankingPositionChange": 2,
- "gloryPoint": 1395,
+ "position": 894,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1388,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Elementalis",
@@ -280,6 +280,14 @@
    "position": 888,
    "rankingPositionChange": 2,
    "gloryPoint": 1395,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 894,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1388,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

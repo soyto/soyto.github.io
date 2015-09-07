@@ -2,9 +2,9 @@
  "characterID": 245883,
  "characterClassID": 7,
  "raceID": 1,
- "position": 343,
- "rankingPositionChange": -1,
- "gloryPoint": 20432,
+ "position": 342,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20404,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Nianor",
@@ -280,6 +280,14 @@
    "position": 343,
    "rankingPositionChange": -1,
    "gloryPoint": 20432,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 342,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20404,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

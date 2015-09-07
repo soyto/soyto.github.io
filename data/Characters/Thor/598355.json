@@ -2,10 +2,10 @@
  "characterID": 598355,
  "characterClassID": 1,
  "raceID": 1,
- "position": 279,
- "rankingPositionChange": 1,
- "gloryPoint": 57655,
- "gloryPointChange": 261,
+ "position": 281,
+ "rankingPositionChange": -2,
+ "gloryPoint": 57606,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nanakix",
  "guildName": "Agent Orange",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 57655,
    "gloryPointChange": 261,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 281,
+   "rankingPositionChange": -2,
+   "gloryPoint": 57606,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

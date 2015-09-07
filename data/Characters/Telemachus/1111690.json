@@ -2,9 +2,9 @@
  "characterID": 1111690,
  "characterClassID": 13,
  "raceID": 1,
- "position": 387,
- "rankingPositionChange": -2,
- "gloryPoint": 7129,
+ "position": 385,
+ "rankingPositionChange": 2,
+ "gloryPoint": 7151,
  "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Daimidaler",
@@ -280,6 +280,14 @@
    "position": 387,
    "rankingPositionChange": -2,
    "gloryPoint": 7129,
+   "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 385,
+   "rankingPositionChange": 2,
+   "gloryPoint": 7151,
    "gloryPointChange": 22,
    "soldierRankID": 12
   }

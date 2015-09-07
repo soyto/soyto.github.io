@@ -2,10 +2,10 @@
  "characterID": 1286751,
  "characterClassID": 4,
  "raceID": 1,
- "position": 715,
- "rankingPositionChange": 8,
- "gloryPoint": 3699,
- "gloryPointChange": 33,
+ "position": 716,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3742,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Xeraxas",
  "guildName": "Chaos Daeva",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 3699,
    "gloryPointChange": 33,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 716,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3742,
+   "gloryPointChange": 43,
    "soldierRankID": 10
   }
  ],

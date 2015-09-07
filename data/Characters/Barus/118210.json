@@ -2,9 +2,9 @@
  "characterID": 118210,
  "characterClassID": 5,
  "raceID": 1,
- "position": 832,
- "rankingPositionChange": 2,
- "gloryPoint": 13601,
+ "position": 836,
+ "rankingPositionChange": -4,
+ "gloryPoint": 13594,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xsin",
@@ -278,6 +278,14 @@
    "position": 832,
    "rankingPositionChange": 2,
    "gloryPoint": 13601,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 836,
+   "rankingPositionChange": -4,
+   "gloryPoint": 13594,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

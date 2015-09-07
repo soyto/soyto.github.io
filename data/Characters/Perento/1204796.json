@@ -2,9 +2,9 @@
  "characterID": 1204796,
  "characterClassID": 10,
  "raceID": 0,
- "position": 998,
- "rankingPositionChange": -5,
- "gloryPoint": 4749,
+ "position": 997,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4735,
  "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Jiva",
@@ -208,6 +208,14 @@
    "position": 998,
    "rankingPositionChange": -5,
    "gloryPoint": 4749,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4735,
    "gloryPointChange": -14,
    "soldierRankID": 10
   }

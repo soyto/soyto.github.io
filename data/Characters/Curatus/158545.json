@@ -2,9 +2,9 @@
  "characterID": 158545,
  "characterClassID": 10,
  "raceID": 0,
- "position": 593,
- "rankingPositionChange": 0,
- "gloryPoint": 22086,
+ "position": 595,
+ "rankingPositionChange": -2,
+ "gloryPoint": 22072,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Maryrosy",
@@ -280,6 +280,14 @@
    "position": 593,
    "rankingPositionChange": 0,
    "gloryPoint": 22086,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22072,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

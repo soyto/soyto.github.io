@@ -2,9 +2,9 @@
  "characterID": 417633,
  "characterClassID": 2,
  "raceID": 0,
- "position": 602,
- "rankingPositionChange": 1,
- "gloryPoint": 29508,
+ "position": 610,
+ "rankingPositionChange": -8,
+ "gloryPoint": 29494,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Silverfoxe",
@@ -264,6 +264,14 @@
    "position": 602,
    "rankingPositionChange": 1,
    "gloryPoint": 29508,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 610,
+   "rankingPositionChange": -8,
+   "gloryPoint": 29494,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

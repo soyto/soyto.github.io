@@ -2,9 +2,9 @@
  "characterID": 496578,
  "characterClassID": 10,
  "raceID": 1,
- "position": 367,
- "rankingPositionChange": 1,
- "gloryPoint": 16734,
+ "position": 369,
+ "rankingPositionChange": -2,
+ "gloryPoint": 16706,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Differia",
@@ -280,6 +280,14 @@
    "position": 367,
    "rankingPositionChange": 1,
    "gloryPoint": 16734,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 369,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16706,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

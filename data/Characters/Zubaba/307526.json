@@ -2,10 +2,10 @@
  "characterID": 307526,
  "characterClassID": 4,
  "raceID": 1,
- "position": 636,
- "rankingPositionChange": 4,
- "gloryPoint": 5144,
- "gloryPointChange": 170,
+ "position": 639,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5180,
+ "gloryPointChange": 36,
  "soldierRankID": 11,
  "characterName": "Paralytic",
  "guildName": "Asabiler",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 5144,
    "gloryPointChange": 170,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 639,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5180,
+   "gloryPointChange": 36,
    "soldierRankID": 11
   }
  ],

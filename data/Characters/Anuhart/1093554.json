@@ -2,9 +2,9 @@
  "characterID": 1093554,
  "characterClassID": 10,
  "raceID": 0,
- "position": 951,
- "rankingPositionChange": 0,
- "gloryPoint": 4546,
+ "position": 956,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4539,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hedapepa",
@@ -128,6 +128,14 @@
    "position": 951,
    "rankingPositionChange": 0,
    "gloryPoint": 4546,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 956,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4539,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

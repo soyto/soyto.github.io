@@ -2,9 +2,9 @@
  "characterID": 914896,
  "characterClassID": 5,
  "raceID": 0,
- "position": 596,
- "rankingPositionChange": 1,
- "gloryPoint": 5180,
+ "position": 598,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5166,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Terminon",
@@ -280,6 +280,14 @@
    "position": 596,
    "rankingPositionChange": 1,
    "gloryPoint": 5180,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 598,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5166,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

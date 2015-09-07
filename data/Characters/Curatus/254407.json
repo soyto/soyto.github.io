@@ -2,9 +2,9 @@
  "characterID": 254407,
  "characterClassID": 2,
  "raceID": 0,
- "position": 968,
- "rankingPositionChange": 0,
- "gloryPoint": 8898,
+ "position": 972,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8891,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Anook",
@@ -272,6 +272,14 @@
    "position": 968,
    "rankingPositionChange": 0,
    "gloryPoint": 8898,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 972,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8891,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

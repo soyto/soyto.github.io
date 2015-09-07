@@ -2,10 +2,10 @@
  "characterID": 1176423,
  "characterClassID": 11,
  "raceID": 0,
- "position": 336,
- "rankingPositionChange": 1,
- "gloryPoint": 28022,
- "gloryPointChange": 306,
+ "position": 338,
+ "rankingPositionChange": -2,
+ "gloryPoint": 27994,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zendo",
  "guildName": "Poder de Atreia",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 28022,
    "gloryPointChange": 306,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 338,
+   "rankingPositionChange": -2,
+   "gloryPoint": 27994,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

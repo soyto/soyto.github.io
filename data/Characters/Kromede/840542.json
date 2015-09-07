@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 0,
  "position": 687,
- "rankingPositionChange": 1,
- "gloryPoint": 16298,
- "gloryPointChange": 31,
+ "rankingPositionChange": 0,
+ "gloryPoint": 16284,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Wanderknecht",
  "guildName": " Phantom ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 16298,
    "gloryPointChange": 31,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": 0,
+   "gloryPoint": 16284,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

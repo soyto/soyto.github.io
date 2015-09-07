@@ -2,10 +2,10 @@
  "characterID": 231144,
  "characterClassID": 10,
  "raceID": 1,
- "position": 390,
- "rankingPositionChange": 0,
- "gloryPoint": 15649,
- "gloryPointChange": 32,
+ "position": 391,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15621,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Fallllen",
  "guildName": "Smile",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 15649,
    "gloryPointChange": 32,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 391,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15621,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

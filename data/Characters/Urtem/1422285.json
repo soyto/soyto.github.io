@@ -2,9 +2,9 @@
  "characterID": 1422285,
  "characterClassID": 5,
  "raceID": 0,
- "position": 170,
- "rankingPositionChange": 0,
- "gloryPoint": 81785,
+ "position": 172,
+ "rankingPositionChange": -2,
+ "gloryPoint": 81736,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Gohell",
@@ -272,6 +272,14 @@
    "position": 170,
    "rankingPositionChange": 0,
    "gloryPoint": 81785,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 172,
+   "rankingPositionChange": -2,
+   "gloryPoint": 81736,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

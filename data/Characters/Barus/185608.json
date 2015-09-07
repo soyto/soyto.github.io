@@ -2,9 +2,9 @@
  "characterID": 185608,
  "characterClassID": 16,
  "raceID": 1,
- "position": 856,
- "rankingPositionChange": 2,
- "gloryPoint": 12947,
+ "position": 860,
+ "rankingPositionChange": -4,
+ "gloryPoint": 12940,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Arturoxx",
@@ -280,6 +280,14 @@
    "position": 856,
    "rankingPositionChange": 2,
    "gloryPoint": 12947,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": -4,
+   "gloryPoint": 12940,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

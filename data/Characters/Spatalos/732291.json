@@ -2,9 +2,9 @@
  "characterID": 732291,
  "characterClassID": 10,
  "raceID": 1,
- "position": 212,
- "rankingPositionChange": 0,
- "gloryPoint": 29116,
+ "position": 213,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29067,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Primestar",
@@ -280,6 +280,14 @@
    "position": 212,
    "rankingPositionChange": 0,
    "gloryPoint": 29116,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 213,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29067,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

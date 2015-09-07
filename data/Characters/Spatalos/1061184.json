@@ -2,9 +2,9 @@
  "characterID": 1061184,
  "characterClassID": 16,
  "raceID": 1,
- "position": 745,
- "rankingPositionChange": 0,
- "gloryPoint": 3884,
+ "position": 752,
+ "rankingPositionChange": -7,
+ "gloryPoint": 3877,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jameela",
@@ -280,6 +280,14 @@
    "position": 745,
    "rankingPositionChange": 0,
    "gloryPoint": 3884,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 752,
+   "rankingPositionChange": -7,
+   "gloryPoint": 3877,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

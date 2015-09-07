@@ -2,9 +2,9 @@
  "characterID": 1066589,
  "characterClassID": 4,
  "raceID": 0,
- "position": 740,
- "rankingPositionChange": 0,
- "gloryPoint": 12212,
+ "position": 739,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12205,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Solokiller",
@@ -280,6 +280,14 @@
    "position": 740,
    "rankingPositionChange": 0,
    "gloryPoint": 12212,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 739,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12205,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

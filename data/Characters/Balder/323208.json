@@ -3,8 +3,8 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 328,
- "rankingPositionChange": -2,
- "gloryPoint": 7852,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7824,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Gotteskralle",
@@ -280,6 +280,14 @@
    "position": 328,
    "rankingPositionChange": -2,
    "gloryPoint": 7852,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 328,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7824,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

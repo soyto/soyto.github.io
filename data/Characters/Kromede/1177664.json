@@ -2,9 +2,9 @@
  "characterID": 1177664,
  "characterClassID": 7,
  "raceID": 0,
- "position": 274,
- "rankingPositionChange": 0,
- "gloryPoint": 47999,
+ "position": 276,
+ "rankingPositionChange": -2,
+ "gloryPoint": 47950,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Normiii",
@@ -280,6 +280,14 @@
    "position": 274,
    "rankingPositionChange": 0,
    "gloryPoint": 47999,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 276,
+   "rankingPositionChange": -2,
+   "gloryPoint": 47950,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

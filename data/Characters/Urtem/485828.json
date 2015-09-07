@@ -2,10 +2,10 @@
  "characterID": 485828,
  "characterClassID": 10,
  "raceID": 0,
- "position": 321,
- "rankingPositionChange": 3,
- "gloryPoint": 53190,
- "gloryPointChange": 272,
+ "position": 325,
+ "rankingPositionChange": -4,
+ "gloryPoint": 53162,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Chocow",
  "guildName": "We are Cats",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 53190,
    "gloryPointChange": 272,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 325,
+   "rankingPositionChange": -4,
+   "gloryPoint": 53162,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

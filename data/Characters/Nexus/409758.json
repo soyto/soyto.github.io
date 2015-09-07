@@ -2,9 +2,9 @@
  "characterID": 409758,
  "characterClassID": 16,
  "raceID": 0,
- "position": 778,
- "rankingPositionChange": 0,
- "gloryPoint": 8034,
+ "position": 784,
+ "rankingPositionChange": -6,
+ "gloryPoint": 8027,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shei",
@@ -280,6 +280,14 @@
    "position": 778,
    "rankingPositionChange": 0,
    "gloryPoint": 8034,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 784,
+   "rankingPositionChange": -6,
+   "gloryPoint": 8027,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

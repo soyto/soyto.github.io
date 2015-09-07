@@ -2,9 +2,9 @@
  "characterID": 1049635,
  "characterClassID": 8,
  "raceID": 0,
- "position": 849,
- "rankingPositionChange": 1,
- "gloryPoint": 11350,
+ "position": 851,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11343,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Virusa",
@@ -270,6 +270,14 @@
    "position": 849,
    "rankingPositionChange": 1,
    "gloryPoint": 11350,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11343,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

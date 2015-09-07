@@ -2,12 +2,14 @@
  "characterID": 579793,
  "characterClassID": 10,
  "raceID": 0,
- "position": 781,
- "rankingPositionChange": 7,
- "gloryPoint": 14763,
- "gloryPointChange": 166,
+ "position": 776,
+ "rankingPositionChange": 5,
+ "gloryPoint": 14856,
+ "gloryPointChange": 93,
  "soldierRankID": 10,
  "characterName": "Facubsas",
+ "guildName": "XFORM",
+ "guildID": 4517,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 14763,
    "gloryPointChange": 166,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 776,
+   "rankingPositionChange": 5,
+   "gloryPoint": 14856,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-29T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "XFORM",
+   "guildID": 4517
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 270584,
  "characterClassID": 2,
  "raceID": 1,
- "position": 440,
- "rankingPositionChange": 8,
- "gloryPoint": 2712,
- "gloryPointChange": 63,
+ "position": 442,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2684,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Vesh",
  "guildName": "Rubbeldiekatz",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 2712,
    "gloryPointChange": 63,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 442,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2684,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

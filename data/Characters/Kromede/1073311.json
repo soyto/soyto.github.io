@@ -2,9 +2,9 @@
  "characterID": 1073311,
  "characterClassID": 4,
  "raceID": 0,
- "position": 988,
- "rankingPositionChange": 0,
- "gloryPoint": 8390,
+ "position": 987,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8383,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Freestyle",
@@ -278,6 +278,14 @@
    "position": 988,
    "rankingPositionChange": 0,
    "gloryPoint": 8390,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 987,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8383,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

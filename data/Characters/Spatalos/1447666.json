@@ -2,9 +2,9 @@
  "characterID": 1447666,
  "characterClassID": 4,
  "raceID": 0,
- "position": 909,
- "rankingPositionChange": 0,
- "gloryPoint": 7505,
+ "position": 912,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7498,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Josekarlos",
@@ -280,6 +280,14 @@
    "position": 909,
    "rankingPositionChange": 0,
    "gloryPoint": 7505,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7498,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 456945,
  "characterClassID": 4,
  "raceID": 1,
- "position": 586,
- "rankingPositionChange": 1,
- "gloryPoint": 1426,
+ "position": 592,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1412,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Schmiddy",
@@ -280,6 +280,14 @@
    "position": 586,
    "rankingPositionChange": 1,
    "gloryPoint": 1426,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 592,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1412,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 172149,
  "characterClassID": 1,
  "raceID": 1,
- "position": 564,
- "rankingPositionChange": 0,
- "gloryPoint": 6989,
+ "position": 568,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6975,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Blitrizkrieg",
@@ -278,6 +278,14 @@
    "position": 564,
    "rankingPositionChange": 0,
    "gloryPoint": 6989,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 568,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6975,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

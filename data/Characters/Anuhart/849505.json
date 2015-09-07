@@ -2,9 +2,9 @@
  "characterID": 849505,
  "characterClassID": 14,
  "raceID": 1,
- "position": 86,
- "rankingPositionChange": 0,
- "gloryPoint": 125596,
+ "position": 87,
+ "rankingPositionChange": -1,
+ "gloryPoint": 125489,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Atsunna",
@@ -280,6 +280,14 @@
    "position": 86,
    "rankingPositionChange": 0,
    "gloryPoint": 125596,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 87,
+   "rankingPositionChange": -1,
+   "gloryPoint": 125489,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

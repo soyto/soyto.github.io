@@ -2,10 +2,10 @@
  "characterID": 1234375,
  "characterClassID": 13,
  "raceID": 0,
- "position": 123,
- "rankingPositionChange": 0,
- "gloryPoint": 110114,
- "gloryPointChange": 475,
+ "position": 121,
+ "rankingPositionChange": 2,
+ "gloryPoint": 110585,
+ "gloryPointChange": 471,
  "soldierRankID": 13,
  "characterName": "Pouetecouette",
  "guildName": "I Kamikaze I",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 110114,
    "gloryPointChange": 475,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": 2,
+   "gloryPoint": 110585,
+   "gloryPointChange": 471,
    "soldierRankID": 13
   }
  ],

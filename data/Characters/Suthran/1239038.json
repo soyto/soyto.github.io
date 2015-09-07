@@ -2,10 +2,10 @@
  "characterID": 1239038,
  "characterClassID": 16,
  "raceID": 1,
- "position": 974,
- "rankingPositionChange": 0,
- "gloryPoint": 4601,
- "gloryPointChange": -7,
+ "position": 980,
+ "rankingPositionChange": -6,
+ "gloryPoint": 4600,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Herraklece",
  "guildName": " LeMaitreDesDeesses ",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 4601,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": -6,
+   "gloryPoint": 4600,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

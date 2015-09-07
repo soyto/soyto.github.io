@@ -2,10 +2,10 @@
  "characterID": 540419,
  "characterClassID": 16,
  "raceID": 0,
- "position": 245,
- "rankingPositionChange": 2,
- "gloryPoint": 27576,
- "gloryPointChange": 301,
+ "position": 248,
+ "rankingPositionChange": -3,
+ "gloryPoint": 27527,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Enyiel",
  "guildName": "AsianSquare",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 27576,
    "gloryPointChange": 301,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 248,
+   "rankingPositionChange": -3,
+   "gloryPoint": 27527,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

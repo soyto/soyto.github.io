@@ -2,10 +2,10 @@
  "characterID": 636942,
  "characterClassID": 7,
  "raceID": 0,
- "position": 142,
- "rankingPositionChange": 0,
- "gloryPoint": 61921,
- "gloryPointChange": 251,
+ "position": 143,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61872,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nicolesengel",
  "guildName": "Wir waren Helden",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 61921,
    "gloryPointChange": 251,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 143,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61872,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 595029,
  "characterClassID": 1,
  "raceID": 1,
- "position": 928,
- "rankingPositionChange": 0,
- "gloryPoint": 1825,
+ "position": 929,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1818,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Erathos",
@@ -278,6 +278,14 @@
    "position": 928,
    "rankingPositionChange": 0,
    "gloryPoint": 1825,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 929,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1818,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

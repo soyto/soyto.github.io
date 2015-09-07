@@ -2,14 +2,14 @@
  "characterID": 1188437,
  "characterClassID": 10,
  "raceID": 0,
- "position": 431,
- "rankingPositionChange": -1,
- "gloryPoint": 24191,
- "gloryPointChange": -28,
+ "position": 428,
+ "rankingPositionChange": 3,
+ "gloryPoint": 24313,
+ "gloryPointChange": 122,
  "soldierRankID": 12,
  "characterName": "Amadis",
- "guildName": "Maximum Baddies",
- "guildID": 29461,
+ "guildName": "Circle of Nine",
+ "guildID": 11873,
  "status": [
   {
    "date": "2015-08-10T22:00:00.000Z",
@@ -202,6 +202,14 @@
    "gloryPoint": 24191,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 428,
+   "rankingPositionChange": 3,
+   "gloryPoint": 24313,
+   "gloryPointChange": 122,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -223,6 +231,11 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "Maximum Baddies",
    "guildID": 29461
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Circle of Nine",
+   "guildID": 11873
   }
  ]
 }

@@ -2,14 +2,14 @@
  "characterID": 1056500,
  "characterClassID": 7,
  "raceID": 1,
- "position": 838,
- "rankingPositionChange": 11,
- "gloryPoint": 2552,
- "gloryPointChange": 165,
+ "position": 844,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2545,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Piroka",
- "guildName": "ValarMorghulis",
- "guildID": 19815,
+ "guildName": "         ",
+ "guildID": 20087,
  "status": [
   {
    "date": "2015-08-02T22:00:00.000Z",
@@ -266,6 +266,14 @@
    "gloryPoint": 2552,
    "gloryPointChange": 165,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 844,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2545,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-08-04T22:00:00.000Z",
    "guildName": "ValarMorghulis",
    "guildID": 19815
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "         ",
+   "guildID": 20087
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 794031,
  "characterClassID": 4,
  "raceID": 0,
- "position": 859,
- "rankingPositionChange": 0,
- "gloryPoint": 18235,
+ "position": 865,
+ "rankingPositionChange": -6,
+ "gloryPoint": 18228,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Colinca",
@@ -280,6 +280,14 @@
    "position": 859,
    "rankingPositionChange": 0,
    "gloryPoint": 18235,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 865,
+   "rankingPositionChange": -6,
+   "gloryPoint": 18228,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 455125,
  "characterClassID": 11,
  "raceID": 0,
- "position": 381,
- "rankingPositionChange": 0,
- "gloryPoint": 6040,
+ "position": 382,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6012,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Darkaurox",
@@ -280,6 +280,14 @@
    "position": 381,
    "rankingPositionChange": 0,
    "gloryPoint": 6040,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 382,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6012,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

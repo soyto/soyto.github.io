@@ -2,9 +2,9 @@
  "characterID": 1105213,
  "characterClassID": 16,
  "raceID": 1,
- "position": 609,
- "rankingPositionChange": 1,
- "gloryPoint": 5501,
+ "position": 610,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5515,
  "gloryPointChange": 14,
  "soldierRankID": 11,
  "characterName": "Areadne",
@@ -280,6 +280,14 @@
    "position": 609,
    "rankingPositionChange": 1,
    "gloryPoint": 5501,
+   "gloryPointChange": 14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 610,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5515,
    "gloryPointChange": 14,
    "soldierRankID": 11
   }

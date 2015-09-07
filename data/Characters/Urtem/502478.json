@@ -2,9 +2,9 @@
  "characterID": 502478,
  "characterClassID": 7,
  "raceID": 0,
- "position": 946,
- "rankingPositionChange": 1,
- "gloryPoint": 14350,
+ "position": 955,
+ "rankingPositionChange": -9,
+ "gloryPoint": 14343,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Iipman",
@@ -256,6 +256,14 @@
    "position": 946,
    "rankingPositionChange": 1,
    "gloryPoint": 14350,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": -9,
+   "gloryPoint": 14343,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 585293,
  "characterClassID": 8,
  "raceID": 1,
- "position": 42,
- "rankingPositionChange": 0,
- "gloryPoint": 117700,
- "gloryPointChange": 117,
+ "position": 43,
+ "rankingPositionChange": -1,
+ "gloryPoint": 117973,
+ "gloryPointChange": 273,
  "soldierRankID": 14,
  "characterName": "Txchiunardo",
  "guildName": "Lionhearts",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 117700,
    "gloryPointChange": 117,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 43,
+   "rankingPositionChange": -1,
+   "gloryPoint": 117973,
+   "gloryPointChange": 273,
    "soldierRankID": 14
   }
  ],

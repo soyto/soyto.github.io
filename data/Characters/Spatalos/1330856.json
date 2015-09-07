@@ -2,9 +2,9 @@
  "characterID": 1330856,
  "characterClassID": 1,
  "raceID": 0,
- "position": 907,
- "rankingPositionChange": 0,
- "gloryPoint": 7528,
+ "position": 911,
+ "rankingPositionChange": -4,
+ "gloryPoint": 7521,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gladito",
@@ -280,6 +280,14 @@
    "position": 907,
    "rankingPositionChange": 0,
    "gloryPoint": 7528,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 911,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7521,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

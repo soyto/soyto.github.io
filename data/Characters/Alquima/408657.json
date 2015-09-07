@@ -3,13 +3,13 @@
  "characterClassID": 14,
  "raceID": 0,
  "position": 40,
- "rankingPositionChange": 1,
- "gloryPoint": 169157,
- "gloryPointChange": -107,
+ "rankingPositionChange": 0,
+ "gloryPoint": 169525,
+ "gloryPointChange": 368,
  "soldierRankID": 14,
  "characterName": "Buffalobill",
- "guildName": "Retard Forces",
- "guildID": 1460,
+ "guildName": "QUINIENTOS DE PING",
+ "guildID": 14307,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 169157,
    "gloryPointChange": -107,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 40,
+   "rankingPositionChange": 0,
+   "gloryPoint": 169525,
+   "gloryPointChange": 368,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Retard Forces",
    "guildID": 1460
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "QUINIENTOS DE PING",
+   "guildID": 14307
   }
  ]
 }

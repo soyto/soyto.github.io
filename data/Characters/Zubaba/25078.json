@@ -2,11 +2,11 @@
  "characterID": 25078,
  "characterClassID": 8,
  "raceID": 0,
- "position": 300,
- "rankingPositionChange": 0,
- "gloryPoint": 32770,
+ "position": 302,
+ "rankingPositionChange": -2,
+ "gloryPoint": 32721,
  "gloryPointChange": -49,
- "soldierRankID": 13,
+ "soldierRankID": 12,
  "characterName": "Syren",
  "status": [
   {
@@ -280,6 +280,14 @@
    "gloryPoint": 32770,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 302,
+   "rankingPositionChange": -2,
+   "gloryPoint": 32721,
+   "gloryPointChange": -49,
+   "soldierRankID": 12
   }
  ],
  "names": [

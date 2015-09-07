@@ -2,9 +2,9 @@
  "characterID": 58554,
  "characterClassID": 14,
  "raceID": 0,
- "position": 711,
- "rankingPositionChange": 1,
- "gloryPoint": 17074,
+ "position": 715,
+ "rankingPositionChange": -4,
+ "gloryPoint": 17067,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zefrion",
@@ -270,6 +270,14 @@
    "position": 711,
    "rankingPositionChange": 1,
    "gloryPoint": 17074,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 715,
+   "rankingPositionChange": -4,
+   "gloryPoint": 17067,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

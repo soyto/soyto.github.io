@@ -2,10 +2,10 @@
  "characterID": 1100083,
  "characterClassID": 14,
  "raceID": 1,
- "position": 694,
- "rankingPositionChange": -2,
- "gloryPoint": 4096,
- "gloryPointChange": -14,
+ "position": 693,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4110,
+ "gloryPointChange": 14,
  "soldierRankID": 11,
  "characterName": "Plung",
  "guildName": "MALAKA",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 4096,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 693,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4110,
+   "gloryPointChange": 14,
    "soldierRankID": 11
   }
  ],

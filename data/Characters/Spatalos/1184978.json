@@ -3,13 +3,11 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 136,
- "rankingPositionChange": 2,
- "gloryPoint": 106617,
- "gloryPointChange": 601,
+ "rankingPositionChange": 0,
+ "gloryPoint": 107138,
+ "gloryPointChange": 521,
  "soldierRankID": 13,
  "characterName": "Xyyl",
- "guildName": "les meilleurs",
- "guildID": 22268,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 106617,
    "gloryPointChange": 601,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 136,
+   "rankingPositionChange": 0,
+   "gloryPoint": 107138,
+   "gloryPointChange": 521,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "les meilleurs",
    "guildID": 22268
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

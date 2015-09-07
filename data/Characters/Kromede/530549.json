@@ -2,14 +2,14 @@
  "characterID": 530549,
  "characterClassID": 11,
  "raceID": 1,
- "position": 592,
- "rankingPositionChange": -4,
- "gloryPoint": 7606,
+ "position": 595,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7592,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Aryra",
- "guildName": "eXtreme Zocker",
- "guildID": 32428,
+ "guildName": "Dawn of the Darkness",
+ "guildID": 19337,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 7606,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7592,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "eXtreme Zocker",
    "guildID": 32428
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Dawn of the Darkness",
+   "guildID": 19337
   }
  ]
 }

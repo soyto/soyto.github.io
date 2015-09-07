@@ -2,9 +2,9 @@
  "characterID": 196811,
  "characterClassID": 11,
  "raceID": 0,
- "position": 84,
- "rankingPositionChange": 1,
- "gloryPoint": 122483,
+ "position": 85,
+ "rankingPositionChange": -1,
+ "gloryPoint": 122376,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Kyk",
@@ -272,6 +272,14 @@
    "position": 84,
    "rankingPositionChange": 1,
    "gloryPoint": 122483,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 85,
+   "rankingPositionChange": -1,
+   "gloryPoint": 122376,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

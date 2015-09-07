@@ -2,10 +2,10 @@
  "characterID": 179044,
  "characterClassID": 5,
  "raceID": 1,
- "position": 202,
- "rankingPositionChange": 2,
- "gloryPoint": 43355,
- "gloryPointChange": 479,
+ "position": 201,
+ "rankingPositionChange": 1,
+ "gloryPoint": 43315,
+ "gloryPointChange": -40,
  "soldierRankID": 13,
  "characterName": "Rein",
  "guildName": "Asabiler",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 43355,
    "gloryPointChange": 479,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 201,
+   "rankingPositionChange": 1,
+   "gloryPoint": 43315,
+   "gloryPointChange": -40,
    "soldierRankID": 13
   }
  ],

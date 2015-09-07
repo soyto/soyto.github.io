@@ -2,9 +2,9 @@
  "characterID": 530482,
  "characterClassID": 4,
  "raceID": 1,
- "position": 805,
- "rankingPositionChange": 4,
- "gloryPoint": 14462,
+ "position": 808,
+ "rankingPositionChange": -3,
+ "gloryPoint": 14455,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gihi",
@@ -278,6 +278,14 @@
    "position": 805,
    "rankingPositionChange": 4,
    "gloryPoint": 14462,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 808,
+   "rankingPositionChange": -3,
+   "gloryPoint": 14455,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

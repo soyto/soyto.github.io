@@ -2,9 +2,9 @@
  "characterID": 609847,
  "characterClassID": 8,
  "raceID": 1,
- "position": 837,
- "rankingPositionChange": 0,
- "gloryPoint": 7883,
+ "position": 838,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7876,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Varand",
@@ -88,6 +88,14 @@
    "position": 837,
    "rankingPositionChange": 0,
    "gloryPoint": 7883,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 838,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7876,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1283421,
  "characterClassID": 4,
  "raceID": 0,
- "position": 851,
- "rankingPositionChange": 1,
- "gloryPoint": 11254,
+ "position": 855,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11247,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shisoke",
@@ -280,6 +280,14 @@
    "position": 851,
    "rankingPositionChange": 1,
    "gloryPoint": 11254,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11247,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1069213,
  "characterClassID": 5,
  "raceID": 0,
- "position": 102,
- "rankingPositionChange": 0,
- "gloryPoint": 155816,
+ "position": 104,
+ "rankingPositionChange": -2,
+ "gloryPoint": 155767,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tijala",
@@ -280,6 +280,14 @@
    "position": 102,
    "rankingPositionChange": 0,
    "gloryPoint": 155816,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": -2,
+   "gloryPoint": 155767,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

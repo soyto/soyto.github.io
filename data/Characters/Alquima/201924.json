@@ -2,10 +2,10 @@
  "characterID": 201924,
  "characterClassID": 10,
  "raceID": 0,
- "position": 116,
- "rankingPositionChange": 2,
- "gloryPoint": 96973,
- "gloryPointChange": 354,
+ "position": 117,
+ "rankingPositionChange": -1,
+ "gloryPoint": 97309,
+ "gloryPointChange": 336,
  "soldierRankID": 13,
  "characterName": "Pentecost",
  "guildName": "OUTLAWS",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 96973,
    "gloryPointChange": 354,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 117,
+   "rankingPositionChange": -1,
+   "gloryPoint": 97309,
+   "gloryPointChange": 336,
    "soldierRankID": 13
   }
  ],

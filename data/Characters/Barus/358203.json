@@ -2,9 +2,9 @@
  "characterID": 358203,
  "characterClassID": 16,
  "raceID": 1,
- "position": 654,
- "rankingPositionChange": 2,
- "gloryPoint": 19914,
+ "position": 655,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19900,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Castorama",
@@ -278,6 +278,14 @@
    "position": 654,
    "rankingPositionChange": 2,
    "gloryPoint": 19914,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 655,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19900,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

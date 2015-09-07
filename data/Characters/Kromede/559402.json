@@ -2,9 +2,9 @@
  "characterID": 559402,
  "characterClassID": 4,
  "raceID": 0,
- "position": 746,
- "rankingPositionChange": 0,
- "gloryPoint": 14584,
+ "position": 747,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14577,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Own",
@@ -278,6 +278,14 @@
    "position": 746,
    "rankingPositionChange": 0,
    "gloryPoint": 14584,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 747,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14577,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

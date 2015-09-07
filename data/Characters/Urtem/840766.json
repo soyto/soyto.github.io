@@ -2,9 +2,9 @@
  "characterID": 840766,
  "characterClassID": 1,
  "raceID": 0,
- "position": 171,
- "rankingPositionChange": 0,
- "gloryPoint": 81657,
+ "position": 173,
+ "rankingPositionChange": -2,
+ "gloryPoint": 81608,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Thirdal",
@@ -272,6 +272,14 @@
    "position": 171,
    "rankingPositionChange": 0,
    "gloryPoint": 81657,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 173,
+   "rankingPositionChange": -2,
+   "gloryPoint": 81608,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

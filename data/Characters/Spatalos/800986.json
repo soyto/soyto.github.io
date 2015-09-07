@@ -2,9 +2,9 @@
  "characterID": 800986,
  "characterClassID": 10,
  "raceID": 0,
- "position": 682,
- "rankingPositionChange": 2,
- "gloryPoint": 14768,
+ "position": 683,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14754,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Naeve",
@@ -280,6 +280,14 @@
    "position": 682,
    "rankingPositionChange": 2,
    "gloryPoint": 14768,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 683,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14754,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

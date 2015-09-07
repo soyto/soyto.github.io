@@ -2,10 +2,10 @@
  "characterID": 485156,
  "characterClassID": 10,
  "raceID": 0,
- "position": 697,
- "rankingPositionChange": 5,
- "gloryPoint": 19814,
- "gloryPointChange": 122,
+ "position": 698,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19800,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Linainvers",
  "guildName": "Blessed",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 19814,
    "gloryPointChange": 122,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 698,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19800,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,14 +2,12 @@
  "characterID": 980476,
  "characterClassID": 4,
  "raceID": 1,
- "position": 948,
- "rankingPositionChange": -3,
- "gloryPoint": 3147,
- "gloryPointChange": -7,
+ "position": 954,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3160,
+ "gloryPointChange": 13,
  "soldierRankID": 10,
  "characterName": "Venaquiiiiii",
- "guildName": "The Soul Catcher",
- "guildID": 20657,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 3147,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 954,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3160,
+   "gloryPointChange": 13,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -298,6 +304,9 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "The Soul Catcher",
    "guildID": 20657
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

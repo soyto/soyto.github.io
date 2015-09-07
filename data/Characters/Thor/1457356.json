@@ -2,10 +2,10 @@
  "characterID": 1457356,
  "characterClassID": 14,
  "raceID": 0,
- "position": 117,
- "rankingPositionChange": 0,
- "gloryPoint": 137864,
- "gloryPointChange": 11,
+ "position": 118,
+ "rankingPositionChange": -1,
+ "gloryPoint": 137815,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Komoshino",
  "guildName": "Frozen Frogs",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 137864,
    "gloryPointChange": 11,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 118,
+   "rankingPositionChange": -1,
+   "gloryPoint": 137815,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

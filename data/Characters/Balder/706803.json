@@ -2,9 +2,9 @@
  "characterID": 706803,
  "characterClassID": 2,
  "raceID": 0,
- "position": 891,
- "rankingPositionChange": 2,
- "gloryPoint": 2037,
+ "position": 892,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2030,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kryo",
@@ -150,6 +150,14 @@
    "position": 891,
    "rankingPositionChange": 2,
    "gloryPoint": 2037,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 892,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2030,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 273974,
  "characterClassID": 7,
  "raceID": 1,
- "position": 73,
- "rankingPositionChange": 0,
- "gloryPoint": 72512,
+ "position": 72,
+ "rankingPositionChange": 1,
+ "gloryPoint": 72405,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Sartan",
@@ -278,6 +278,14 @@
    "position": 73,
    "rankingPositionChange": 0,
    "gloryPoint": 72512,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 72,
+   "rankingPositionChange": 1,
+   "gloryPoint": 72405,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

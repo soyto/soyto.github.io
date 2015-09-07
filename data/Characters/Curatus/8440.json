@@ -2,9 +2,9 @@
  "characterID": 8440,
  "characterClassID": 4,
  "raceID": 1,
- "position": 148,
- "rankingPositionChange": 0,
- "gloryPoint": 51161,
+ "position": 149,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51112,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Everspakka",
@@ -280,6 +280,14 @@
    "position": 148,
    "rankingPositionChange": 0,
    "gloryPoint": 51161,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 149,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51112,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

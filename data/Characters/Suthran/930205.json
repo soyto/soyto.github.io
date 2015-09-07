@@ -2,10 +2,10 @@
  "characterID": 930205,
  "characterClassID": 10,
  "raceID": 0,
- "position": 192,
- "rankingPositionChange": 1,
- "gloryPoint": 75804,
- "gloryPointChange": 276,
+ "position": 193,
+ "rankingPositionChange": -1,
+ "gloryPoint": 75855,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Claiira",
  "guildName": "Les Pingouins d Elite",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 75804,
    "gloryPointChange": 276,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 193,
+   "rankingPositionChange": -1,
+   "gloryPoint": 75855,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

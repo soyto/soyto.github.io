@@ -2,9 +2,9 @@
  "characterID": 872034,
  "characterClassID": 4,
  "raceID": 0,
- "position": 963,
- "rankingPositionChange": 1,
- "gloryPoint": 8733,
+ "position": 964,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8726,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Roxorloops",
@@ -86,6 +86,14 @@
    "position": 963,
    "rankingPositionChange": 1,
    "gloryPoint": 8733,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 964,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8726,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

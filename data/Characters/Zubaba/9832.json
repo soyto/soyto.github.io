@@ -2,10 +2,10 @@
  "characterID": 9832,
  "characterClassID": 10,
  "raceID": 1,
- "position": 181,
- "rankingPositionChange": -2,
- "gloryPoint": 49255,
- "gloryPointChange": -49,
+ "position": 180,
+ "rankingPositionChange": 1,
+ "gloryPoint": 49386,
+ "gloryPointChange": 131,
  "soldierRankID": 13,
  "characterName": "Leguerta",
  "guildName": "V for Vendetta",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 49255,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 180,
+   "rankingPositionChange": 1,
+   "gloryPoint": 49386,
+   "gloryPointChange": 131,
    "soldierRankID": 13
   }
  ],

@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 320,
- "rankingPositionChange": 2,
- "gloryPoint": 38212,
- "gloryPointChange": 325,
+ "rankingPositionChange": 0,
+ "gloryPoint": 38199,
+ "gloryPointChange": -13,
  "soldierRankID": 12,
  "characterName": "Cucafera",
  "guildName": "Check Ready",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 38212,
    "gloryPointChange": 325,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": 0,
+   "gloryPoint": 38199,
+   "gloryPointChange": -13,
    "soldierRankID": 12
   }
  ],

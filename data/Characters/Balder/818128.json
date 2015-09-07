@@ -2,9 +2,9 @@
  "characterID": 818128,
  "characterClassID": 16,
  "raceID": 0,
- "position": 136,
- "rankingPositionChange": 0,
- "gloryPoint": 66011,
+ "position": 138,
+ "rankingPositionChange": -2,
+ "gloryPoint": 65962,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lumpine",
@@ -280,6 +280,14 @@
    "position": 136,
    "rankingPositionChange": 0,
    "gloryPoint": 66011,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 138,
+   "rankingPositionChange": -2,
+   "gloryPoint": 65962,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

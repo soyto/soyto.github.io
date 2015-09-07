@@ -2,10 +2,10 @@
  "characterID": 549234,
  "characterClassID": 5,
  "raceID": 1,
- "position": 670,
- "rankingPositionChange": -2,
- "gloryPoint": 1256,
- "gloryPointChange": -7,
+ "position": 640,
+ "rankingPositionChange": 30,
+ "gloryPoint": 1301,
+ "gloryPointChange": 45,
  "soldierRankID": 10,
  "characterName": "Bigbadass",
  "guildName": "NeWArtOfWar",
@@ -121,6 +121,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 1256,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 640,
+   "rankingPositionChange": 30,
+   "gloryPoint": 1301,
+   "gloryPointChange": 45,
    "soldierRankID": 10
   }
  ],

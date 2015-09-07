@@ -2,10 +2,10 @@
  "characterID": 184198,
  "characterClassID": 16,
  "raceID": 0,
- "position": 32,
- "rankingPositionChange": 0,
- "gloryPoint": 195271,
- "gloryPointChange": 728,
+ "position": 33,
+ "rankingPositionChange": -1,
+ "gloryPoint": 195164,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Egola",
  "guildName": "OUTLAWS",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 195271,
    "gloryPointChange": 728,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 33,
+   "rankingPositionChange": -1,
+   "gloryPoint": 195164,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

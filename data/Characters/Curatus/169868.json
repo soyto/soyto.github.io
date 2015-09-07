@@ -2,10 +2,10 @@
  "characterID": 169868,
  "characterClassID": 1,
  "raceID": 0,
- "position": 916,
- "rankingPositionChange": 2,
- "gloryPoint": 9987,
- "gloryPointChange": 54,
+ "position": 920,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9980,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gaross",
  "guildName": "Angels of Eternity",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 9987,
    "gloryPointChange": 54,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 920,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9980,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

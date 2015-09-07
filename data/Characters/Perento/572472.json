@@ -2,9 +2,9 @@
  "characterID": 572472,
  "characterClassID": 10,
  "raceID": 1,
- "position": 63,
- "rankingPositionChange": 0,
- "gloryPoint": 138844,
+ "position": 64,
+ "rankingPositionChange": -1,
+ "gloryPoint": 138737,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Amitriel",
@@ -272,6 +272,14 @@
    "position": 63,
    "rankingPositionChange": 0,
    "gloryPoint": 138844,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 64,
+   "rankingPositionChange": -1,
+   "gloryPoint": 138737,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

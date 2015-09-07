@@ -2,9 +2,9 @@
  "characterID": 1325677,
  "characterClassID": 1,
  "raceID": 0,
- "position": 954,
- "rankingPositionChange": -1,
- "gloryPoint": 5345,
+ "position": 949,
+ "rankingPositionChange": 5,
+ "gloryPoint": 5338,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Niph",
@@ -280,6 +280,14 @@
    "position": 954,
    "rankingPositionChange": -1,
    "gloryPoint": 5345,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": 5,
+   "gloryPoint": 5338,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

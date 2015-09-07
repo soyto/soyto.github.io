@@ -2,9 +2,9 @@
  "characterID": 1030746,
  "characterClassID": 16,
  "raceID": 1,
- "position": 580,
- "rankingPositionChange": -1,
- "gloryPoint": 6235,
+ "position": 585,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6221,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Anotia",
@@ -280,6 +280,14 @@
    "position": 580,
    "rankingPositionChange": -1,
    "gloryPoint": 6235,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 585,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6221,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

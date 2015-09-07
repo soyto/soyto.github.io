@@ -2,9 +2,9 @@
  "characterID": 406480,
  "characterClassID": 1,
  "raceID": 1,
- "position": 285,
- "rankingPositionChange": 1,
- "gloryPoint": 52956,
+ "position": 287,
+ "rankingPositionChange": -2,
+ "gloryPoint": 53057,
  "gloryPointChange": 101,
  "soldierRankID": 13,
  "characterName": "Underoo",
@@ -280,6 +280,14 @@
    "position": 285,
    "rankingPositionChange": 1,
    "gloryPoint": 52956,
+   "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 287,
+   "rankingPositionChange": -2,
+   "gloryPoint": 53057,
    "gloryPointChange": 101,
    "soldierRankID": 13
   }

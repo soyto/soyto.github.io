@@ -2,9 +2,9 @@
  "characterID": 1027694,
  "characterClassID": 11,
  "raceID": 0,
- "position": 725,
- "rankingPositionChange": 2,
- "gloryPoint": 22109,
+ "position": 734,
+ "rankingPositionChange": -9,
+ "gloryPoint": 22102,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shuzya",
@@ -280,6 +280,14 @@
    "position": 725,
    "rankingPositionChange": 2,
    "gloryPoint": 22109,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 734,
+   "rankingPositionChange": -9,
+   "gloryPoint": 22102,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 350483,
  "characterClassID": 16,
  "raceID": 0,
- "position": 296,
- "rankingPositionChange": 0,
- "gloryPoint": 41793,
- "gloryPointChange": 157,
+ "position": 297,
+ "rankingPositionChange": -1,
+ "gloryPoint": 41744,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Msn",
  "guildName": "Oldschool",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 41793,
    "gloryPointChange": 157,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 297,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41744,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

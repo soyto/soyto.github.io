@@ -2,10 +2,10 @@
  "characterID": 91912,
  "characterClassID": 14,
  "raceID": 1,
- "position": 241,
- "rankingPositionChange": 0,
- "gloryPoint": 35201,
- "gloryPointChange": 13,
+ "position": 240,
+ "rankingPositionChange": 1,
+ "gloryPoint": 35158,
+ "gloryPointChange": -43,
  "soldierRankID": 13,
  "characterName": "Undaunted",
  "guildName": "V for Vendetta",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35201,
    "gloryPointChange": 13,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 240,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35158,
+   "gloryPointChange": -43,
    "soldierRankID": 13
   }
  ],

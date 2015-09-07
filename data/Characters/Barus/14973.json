@@ -2,9 +2,9 @@
  "characterID": 14973,
  "characterClassID": 1,
  "raceID": 1,
- "position": 634,
- "rankingPositionChange": 0,
- "gloryPoint": 20702,
+ "position": 637,
+ "rankingPositionChange": -3,
+ "gloryPoint": 20688,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lukiller",
@@ -224,6 +224,14 @@
    "position": 634,
    "rankingPositionChange": 0,
    "gloryPoint": 20702,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 637,
+   "rankingPositionChange": -3,
+   "gloryPoint": 20688,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

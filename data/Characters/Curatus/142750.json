@@ -2,9 +2,9 @@
  "characterID": 142750,
  "characterClassID": 5,
  "raceID": 1,
- "position": 958,
- "rankingPositionChange": 0,
- "gloryPoint": 3287,
+ "position": 959,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3280,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kabutokoji",
@@ -280,6 +280,14 @@
    "position": 958,
    "rankingPositionChange": 0,
    "gloryPoint": 3287,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3280,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

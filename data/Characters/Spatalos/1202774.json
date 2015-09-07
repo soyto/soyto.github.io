@@ -2,9 +2,9 @@
  "characterID": 1202774,
  "characterClassID": 14,
  "raceID": 0,
- "position": 790,
- "rankingPositionChange": 4,
- "gloryPoint": 10717,
+ "position": 792,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10710,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kanelao",
@@ -270,6 +270,14 @@
    "position": 790,
    "rankingPositionChange": 4,
    "gloryPoint": 10717,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 792,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10710,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

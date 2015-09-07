@@ -2,9 +2,9 @@
  "characterID": 1062943,
  "characterClassID": 14,
  "raceID": 1,
- "position": 307,
- "rankingPositionChange": 2,
- "gloryPoint": 33734,
+ "position": 309,
+ "rankingPositionChange": -2,
+ "gloryPoint": 33706,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Restart",
@@ -280,6 +280,14 @@
    "position": 307,
    "rankingPositionChange": 2,
    "gloryPoint": 33734,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 309,
+   "rankingPositionChange": -2,
+   "gloryPoint": 33706,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

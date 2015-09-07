@@ -2,10 +2,10 @@
  "characterID": 220366,
  "characterClassID": 5,
  "raceID": 1,
- "position": 212,
- "rankingPositionChange": 1,
- "gloryPoint": 37046,
- "gloryPointChange": 407,
+ "position": 213,
+ "rankingPositionChange": -1,
+ "gloryPoint": 37322,
+ "gloryPointChange": 276,
  "soldierRankID": 13,
  "characterName": "Sina",
  "guildName": "Untold",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 37046,
    "gloryPointChange": 407,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 213,
+   "rankingPositionChange": -1,
+   "gloryPoint": 37322,
+   "gloryPointChange": 276,
    "soldierRankID": 13
   }
  ],

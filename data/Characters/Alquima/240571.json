@@ -2,10 +2,10 @@
  "characterID": 240571,
  "characterClassID": 5,
  "raceID": 1,
- "position": 82,
- "rankingPositionChange": 0,
- "gloryPoint": 93041,
- "gloryPointChange": 127,
+ "position": 83,
+ "rankingPositionChange": -1,
+ "gloryPoint": 93058,
+ "gloryPointChange": 17,
  "soldierRankID": 14,
  "characterName": "Zeraperu",
  "guildName": "Elder",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 93041,
    "gloryPointChange": 127,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 83,
+   "rankingPositionChange": -1,
+   "gloryPoint": 93058,
+   "gloryPointChange": 17,
    "soldierRankID": 14
   }
  ],

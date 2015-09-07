@@ -2,10 +2,10 @@
  "characterID": 384693,
  "characterClassID": 14,
  "raceID": 0,
- "position": 365,
- "rankingPositionChange": 0,
- "gloryPoint": 40504,
- "gloryPointChange": -28,
+ "position": 363,
+ "rankingPositionChange": 2,
+ "gloryPoint": 40479,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Annoth",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 40504,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 363,
+   "rankingPositionChange": 2,
+   "gloryPoint": 40479,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1132294,
  "characterClassID": 4,
  "raceID": 0,
- "position": 539,
- "rankingPositionChange": 0,
- "gloryPoint": 21950,
+ "position": 538,
+ "rankingPositionChange": 1,
+ "gloryPoint": 21936,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Wickeds",
@@ -280,6 +280,14 @@
    "position": 539,
    "rankingPositionChange": 0,
    "gloryPoint": 21950,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": 1,
+   "gloryPoint": 21936,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

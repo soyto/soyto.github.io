@@ -2,9 +2,9 @@
  "characterID": 330828,
  "characterClassID": 2,
  "raceID": 1,
- "position": 327,
- "rankingPositionChange": 1,
- "gloryPoint": 20188,
+ "position": 329,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20160,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Stribog",
@@ -280,6 +280,14 @@
    "position": 327,
    "rankingPositionChange": 1,
    "gloryPoint": 20188,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 329,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20160,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

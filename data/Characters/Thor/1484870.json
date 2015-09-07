@@ -2,9 +2,9 @@
  "characterID": 1484870,
  "characterClassID": 10,
  "raceID": 0,
- "position": 160,
- "rankingPositionChange": 0,
- "gloryPoint": 108104,
+ "position": 161,
+ "rankingPositionChange": -1,
+ "gloryPoint": 108055,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Taubenhexxe",
@@ -280,6 +280,14 @@
    "position": 160,
    "rankingPositionChange": 0,
    "gloryPoint": 108104,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 161,
+   "rankingPositionChange": -1,
+   "gloryPoint": 108055,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

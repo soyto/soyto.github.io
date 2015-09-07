@@ -2,9 +2,9 @@
  "characterID": 791379,
  "characterClassID": 11,
  "raceID": 0,
- "position": 771,
- "rankingPositionChange": 6,
- "gloryPoint": 19523,
+ "position": 781,
+ "rankingPositionChange": -10,
+ "gloryPoint": 19544,
  "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Selllana",
@@ -280,6 +280,14 @@
    "position": 771,
    "rankingPositionChange": 6,
    "gloryPoint": 19523,
+   "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": -10,
+   "gloryPoint": 19544,
    "gloryPointChange": 21,
    "soldierRankID": 10
   }

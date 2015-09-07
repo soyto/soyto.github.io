@@ -2,10 +2,10 @@
  "characterID": 1100951,
  "characterClassID": 8,
  "raceID": 0,
- "position": 953,
- "rankingPositionChange": 0,
- "gloryPoint": 5898,
- "gloryPointChange": -7,
+ "position": 948,
+ "rankingPositionChange": 5,
+ "gloryPoint": 6013,
+ "gloryPointChange": 115,
  "soldierRankID": 10,
  "characterName": "Defeara",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5898,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 948,
+   "rankingPositionChange": 5,
+   "gloryPoint": 6013,
+   "gloryPointChange": 115,
    "soldierRankID": 10
   }
  ],

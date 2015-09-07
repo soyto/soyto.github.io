@@ -2,9 +2,9 @@
  "characterID": 280807,
  "characterClassID": 10,
  "raceID": 1,
- "position": 507,
- "rankingPositionChange": 0,
- "gloryPoint": 8188,
+ "position": 509,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8174,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Livka",
@@ -224,6 +224,14 @@
    "position": 507,
    "rankingPositionChange": 0,
    "gloryPoint": 8188,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 509,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8174,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

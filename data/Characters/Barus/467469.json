@@ -3,11 +3,13 @@
  "characterClassID": 2,
  "raceID": 0,
  "position": 870,
- "rankingPositionChange": 1,
- "gloryPoint": 13346,
+ "rankingPositionChange": 0,
+ "gloryPoint": 13339,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eight",
+ "guildName": "Teufel",
+ "guildID": 9467,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 13346,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 870,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13339,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Teufel",
+   "guildID": 9467
   }
  ]
 }

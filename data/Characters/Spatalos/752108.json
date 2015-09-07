@@ -2,10 +2,10 @@
  "characterID": 752108,
  "characterClassID": 11,
  "raceID": 0,
- "position": 850,
- "rankingPositionChange": 13,
- "gloryPoint": 8914,
- "gloryPointChange": 406,
+ "position": 855,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8907,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gabrriell",
  "guildName": "Death is Coming",
@@ -105,6 +105,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 8914,
    "gloryPointChange": 406,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8907,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

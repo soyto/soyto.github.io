@@ -2,9 +2,9 @@
  "characterID": 489245,
  "characterClassID": 5,
  "raceID": 1,
- "position": 292,
- "rankingPositionChange": 0,
- "gloryPoint": 25069,
+ "position": 294,
+ "rankingPositionChange": -2,
+ "gloryPoint": 25020,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Supervlsor",
@@ -280,6 +280,14 @@
    "position": 292,
    "rankingPositionChange": 0,
    "gloryPoint": 25069,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 294,
+   "rankingPositionChange": -2,
+   "gloryPoint": 25020,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

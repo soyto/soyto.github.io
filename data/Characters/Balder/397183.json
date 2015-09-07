@@ -2,9 +2,9 @@
  "characterID": 397183,
  "characterClassID": 7,
  "raceID": 0,
- "position": 63,
- "rankingPositionChange": 0,
- "gloryPoint": 112716,
+ "position": 64,
+ "rankingPositionChange": -1,
+ "gloryPoint": 112609,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Despicata",
@@ -208,6 +208,14 @@
    "position": 63,
    "rankingPositionChange": 0,
    "gloryPoint": 112716,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 64,
+   "rankingPositionChange": -1,
+   "gloryPoint": 112609,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

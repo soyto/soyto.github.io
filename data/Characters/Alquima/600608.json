@@ -2,10 +2,10 @@
  "characterID": 600608,
  "characterClassID": 7,
  "raceID": 1,
- "position": 97,
- "rankingPositionChange": 0,
- "gloryPoint": 79567,
- "gloryPointChange": 43,
+ "position": 100,
+ "rankingPositionChange": -3,
+ "gloryPoint": 79460,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Gdr",
  "guildName": " Essence ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 79567,
    "gloryPointChange": 43,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 100,
+   "rankingPositionChange": -3,
+   "gloryPoint": 79460,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

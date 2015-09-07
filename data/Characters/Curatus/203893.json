@@ -2,14 +2,14 @@
  "characterID": 203893,
  "characterClassID": 7,
  "raceID": 1,
- "position": 990,
- "rankingPositionChange": 0,
- "gloryPoint": 3010,
- "gloryPointChange": -7,
+ "position": 992,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3009,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Sylthaer",
- "guildName": " Arkadia ",
- "guildID": 1064,
+ "guildName": "Prepotenti",
+ "guildID": 5129,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 3010,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3009,
+   "gloryPointChange": -1,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Arkadia ",
    "guildID": 1064
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Prepotenti",
+   "guildID": 5129
   }
  ]
 }

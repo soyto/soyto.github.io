@@ -2,10 +2,10 @@
  "characterID": 397967,
  "characterClassID": 10,
  "raceID": 1,
- "position": 487,
- "rankingPositionChange": 2,
- "gloryPoint": 28641,
- "gloryPointChange": 125,
+ "position": 489,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28613,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Dennee",
  "guildName": "H E R O I C",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 28641,
    "gloryPointChange": 125,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 489,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28613,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

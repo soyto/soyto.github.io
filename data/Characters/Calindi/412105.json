@@ -2,10 +2,10 @@
  "characterID": 412105,
  "characterClassID": 14,
  "raceID": 0,
- "position": 104,
- "rankingPositionChange": 0,
- "gloryPoint": 79172,
- "gloryPointChange": 237,
+ "position": 105,
+ "rankingPositionChange": -1,
+ "gloryPoint": 79545,
+ "gloryPointChange": 373,
  "soldierRankID": 13,
  "characterName": "Kokcaine",
  "guildName": "Les Ailes de la Devastation",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 79172,
    "gloryPointChange": 237,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": -1,
+   "gloryPoint": 79545,
+   "gloryPointChange": 373,
    "soldierRankID": 13
   }
  ],

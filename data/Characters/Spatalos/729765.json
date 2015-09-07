@@ -2,9 +2,9 @@
  "characterID": 729765,
  "characterClassID": 4,
  "raceID": 0,
- "position": 946,
- "rankingPositionChange": 1,
- "gloryPoint": 6502,
+ "position": 951,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6495,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sakiwa",
@@ -264,6 +264,14 @@
    "position": 946,
    "rankingPositionChange": 1,
    "gloryPoint": 6502,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6495,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

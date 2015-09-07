@@ -2,9 +2,9 @@
  "characterID": 651748,
  "characterClassID": 10,
  "raceID": 0,
- "position": 809,
- "rankingPositionChange": 3,
- "gloryPoint": 18278,
+ "position": 825,
+ "rankingPositionChange": -16,
+ "gloryPoint": 18271,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Leonyx",
@@ -248,6 +248,14 @@
    "position": 809,
    "rankingPositionChange": 3,
    "gloryPoint": 18278,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 825,
+   "rankingPositionChange": -16,
+   "gloryPoint": 18271,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

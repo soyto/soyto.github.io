@@ -2,10 +2,10 @@
  "characterID": 967157,
  "characterClassID": 1,
  "raceID": 0,
- "position": 981,
- "rankingPositionChange": 1,
- "gloryPoint": 5942,
- "gloryPointChange": -1,
+ "position": 986,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5935,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bossiq",
  "guildName": "Secret Of Twilight",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 5942,
    "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5935,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

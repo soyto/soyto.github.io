@@ -2,9 +2,9 @@
  "characterID": 44830,
  "characterClassID": 1,
  "raceID": 0,
- "position": 771,
- "rankingPositionChange": 0,
- "gloryPoint": 8147,
+ "position": 777,
+ "rankingPositionChange": -6,
+ "gloryPoint": 8140,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sino",
@@ -136,6 +136,14 @@
    "position": 771,
    "rankingPositionChange": 0,
    "gloryPoint": 8147,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 777,
+   "rankingPositionChange": -6,
+   "gloryPoint": 8140,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1401837,
  "characterClassID": 16,
  "raceID": 1,
- "position": 987,
- "rankingPositionChange": 1,
- "gloryPoint": 1561,
+ "position": 989,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1554,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cheu",
@@ -54,6 +54,14 @@
    "position": 987,
    "rankingPositionChange": 1,
    "gloryPoint": 1561,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1554,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

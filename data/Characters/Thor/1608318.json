@@ -2,10 +2,10 @@
  "characterID": 1608318,
  "characterClassID": 10,
  "raceID": 0,
- "position": 890,
- "rankingPositionChange": 2,
- "gloryPoint": 16858,
- "gloryPointChange": -4,
+ "position": 894,
+ "rankingPositionChange": -4,
+ "gloryPoint": 16900,
+ "gloryPointChange": 42,
  "soldierRankID": 10,
  "characterName": "Nekonshii",
  "guildName": "Licht der Nacht",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 16858,
    "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 894,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16900,
+   "gloryPointChange": 42,
    "soldierRankID": 10
   }
  ],

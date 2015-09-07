@@ -2,9 +2,9 @@
  "characterID": 550568,
  "characterClassID": 2,
  "raceID": 1,
- "position": 303,
- "rankingPositionChange": 0,
- "gloryPoint": 12306,
+ "position": 302,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12278,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Brunako",
@@ -200,6 +200,14 @@
    "position": 303,
    "rankingPositionChange": 0,
    "gloryPoint": 12306,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 302,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12278,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

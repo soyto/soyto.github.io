@@ -2,14 +2,14 @@
  "characterID": 81634,
  "characterClassID": 8,
  "raceID": 0,
- "position": 954,
- "rankingPositionChange": -3,
- "gloryPoint": 4933,
- "gloryPointChange": -7,
+ "position": 889,
+ "rankingPositionChange": 65,
+ "gloryPoint": 5797,
+ "gloryPointChange": 864,
  "soldierRankID": 10,
  "characterName": "Ryruka",
- "guildName": "Limited Edition",
- "guildID": 14017,
+ "guildName": "Save the Trees Eat Beaver",
+ "guildID": 15947,
  "status": [
   {
    "date": "2015-08-27T22:00:00.000Z",
@@ -74,6 +74,14 @@
    "gloryPoint": 4933,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 889,
+   "rankingPositionChange": 65,
+   "gloryPoint": 5797,
+   "gloryPointChange": 864,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -87,6 +95,11 @@
    "date": "2015-08-27T22:00:00.000Z",
    "guildName": "Limited Edition",
    "guildID": 14017
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Save the Trees Eat Beaver",
+   "guildID": 15947
   }
  ]
 }

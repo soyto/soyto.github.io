@@ -2,9 +2,9 @@
  "characterID": 1473291,
  "characterClassID": 16,
  "raceID": 1,
- "position": 522,
- "rankingPositionChange": 1,
- "gloryPoint": 27030,
+ "position": 524,
+ "rankingPositionChange": -2,
+ "gloryPoint": 27016,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nekoji",
@@ -270,6 +270,14 @@
    "position": 522,
    "rankingPositionChange": 1,
    "gloryPoint": 27030,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 524,
+   "rankingPositionChange": -2,
+   "gloryPoint": 27016,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

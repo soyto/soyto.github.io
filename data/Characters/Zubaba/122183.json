@@ -2,12 +2,14 @@
  "characterID": 122183,
  "characterClassID": 5,
  "raceID": 0,
- "position": 301,
- "rankingPositionChange": 0,
- "gloryPoint": 32639,
- "gloryPointChange": -25,
- "soldierRankID": 12,
+ "position": 299,
+ "rankingPositionChange": 2,
+ "gloryPoint": 32768,
+ "gloryPointChange": 129,
+ "soldierRankID": 13,
  "characterName": "Ashy",
+ "guildName": "The Order",
+ "guildID": 5668,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 32639,
    "gloryPointChange": -25,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": 2,
+   "gloryPoint": 32768,
+   "gloryPointChange": 129,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-27T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "The Order",
+   "guildID": 5668
   }
  ]
 }

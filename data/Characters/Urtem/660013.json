@@ -2,10 +2,10 @@
  "characterID": 660013,
  "characterClassID": 1,
  "raceID": 1,
- "position": 29,
- "rankingPositionChange": 0,
- "gloryPoint": 153138,
- "gloryPointChange": 41,
+ "position": 30,
+ "rankingPositionChange": -1,
+ "gloryPoint": 153345,
+ "gloryPointChange": 207,
  "soldierRankID": 15,
  "characterName": "Mictlalticuthli",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 153138,
    "gloryPointChange": 41,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 30,
+   "rankingPositionChange": -1,
+   "gloryPoint": 153345,
+   "gloryPointChange": 207,
    "soldierRankID": 15
   }
  ],

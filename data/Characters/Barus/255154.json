@@ -2,9 +2,9 @@
  "characterID": 255154,
  "characterClassID": 10,
  "raceID": 1,
- "position": 298,
- "rankingPositionChange": 1,
- "gloryPoint": 51070,
+ "position": 300,
+ "rankingPositionChange": -2,
+ "gloryPoint": 51021,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pankrokodyl",
@@ -280,6 +280,14 @@
    "position": 298,
    "rankingPositionChange": 1,
    "gloryPoint": 51070,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 300,
+   "rankingPositionChange": -2,
+   "gloryPoint": 51021,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

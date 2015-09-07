@@ -2,9 +2,9 @@
  "characterID": 696441,
  "characterClassID": 8,
  "raceID": 0,
- "position": 470,
- "rankingPositionChange": 0,
- "gloryPoint": 26176,
+ "position": 471,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26148,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Xuligana",
@@ -280,6 +280,14 @@
    "position": 470,
    "rankingPositionChange": 0,
    "gloryPoint": 26176,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 471,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26148,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

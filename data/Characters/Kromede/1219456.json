@@ -2,10 +2,10 @@
  "characterID": 1219456,
  "characterClassID": 11,
  "raceID": 0,
- "position": 560,
- "rankingPositionChange": 17,
- "gloryPoint": 20829,
- "gloryPointChange": 723,
+ "position": 561,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20834,
+ "gloryPointChange": 5,
  "soldierRankID": 11,
  "characterName": "Kilary",
  "guildName": "I Outsiderz I",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 17,
    "gloryPoint": 20829,
    "gloryPointChange": 723,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 561,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20834,
+   "gloryPointChange": 5,
    "soldierRankID": 11
   }
  ],

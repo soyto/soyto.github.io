@@ -2,9 +2,9 @@
  "characterID": 1141885,
  "characterClassID": 14,
  "raceID": 1,
- "position": 128,
- "rankingPositionChange": 0,
- "gloryPoint": 86560,
+ "position": 129,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86511,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Alexsey",
@@ -280,6 +280,14 @@
    "position": 128,
    "rankingPositionChange": 0,
    "gloryPoint": 86560,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 129,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86511,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

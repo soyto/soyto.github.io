@@ -2,9 +2,9 @@
  "characterID": 1212798,
  "characterClassID": 14,
  "raceID": 1,
- "position": 408,
- "rankingPositionChange": 0,
- "gloryPoint": 13813,
+ "position": 412,
+ "rankingPositionChange": -4,
+ "gloryPoint": 13785,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lisashoothim",
@@ -272,6 +272,14 @@
    "position": 408,
    "rankingPositionChange": 0,
    "gloryPoint": 13813,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 412,
+   "rankingPositionChange": -4,
+   "gloryPoint": 13785,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

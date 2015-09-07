@@ -2,9 +2,9 @@
  "characterID": 741957,
  "characterClassID": 10,
  "raceID": 0,
- "position": 856,
- "rankingPositionChange": 2,
- "gloryPoint": 5815,
+ "position": 860,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5808,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gwella",
@@ -280,6 +280,14 @@
    "position": 856,
    "rankingPositionChange": 2,
    "gloryPoint": 5815,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5808,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

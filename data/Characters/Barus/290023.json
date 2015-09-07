@@ -2,9 +2,9 @@
  "characterID": 290023,
  "characterClassID": 10,
  "raceID": 0,
- "position": 124,
- "rankingPositionChange": 0,
- "gloryPoint": 87012,
+ "position": 125,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86963,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Karaa",
@@ -280,6 +280,14 @@
    "position": 124,
    "rankingPositionChange": 0,
    "gloryPoint": 87012,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 125,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86963,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

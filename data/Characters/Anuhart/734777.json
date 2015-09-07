@@ -2,10 +2,10 @@
  "characterID": 734777,
  "characterClassID": 10,
  "raceID": 0,
- "position": 650,
- "rankingPositionChange": 4,
- "gloryPoint": 9513,
- "gloryPointChange": 39,
+ "position": 652,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9499,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Bubblepie",
  "guildName": "The Little Mermaid",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 9513,
    "gloryPointChange": 39,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 652,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9499,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

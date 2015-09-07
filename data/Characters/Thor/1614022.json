@@ -2,9 +2,9 @@
  "characterID": 1614022,
  "characterClassID": 16,
  "raceID": 0,
- "position": 878,
- "rankingPositionChange": 1,
- "gloryPoint": 17381,
+ "position": 885,
+ "rankingPositionChange": -7,
+ "gloryPoint": 17374,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eichenstein",
@@ -278,6 +278,14 @@
    "position": 878,
    "rankingPositionChange": 1,
    "gloryPoint": 17381,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 885,
+   "rankingPositionChange": -7,
+   "gloryPoint": 17374,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

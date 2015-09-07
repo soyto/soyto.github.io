@@ -2,9 +2,9 @@
  "characterID": 341616,
  "characterClassID": 14,
  "raceID": 1,
- "position": 123,
- "rankingPositionChange": 0,
- "gloryPoint": 47675,
+ "position": 122,
+ "rankingPositionChange": 1,
+ "gloryPoint": 47626,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Elfrun",
@@ -278,6 +278,14 @@
    "position": 123,
    "rankingPositionChange": 0,
    "gloryPoint": 47675,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 122,
+   "rankingPositionChange": 1,
+   "gloryPoint": 47626,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

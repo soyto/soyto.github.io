@@ -2,9 +2,9 @@
  "characterID": 1335381,
  "characterClassID": 14,
  "raceID": 1,
- "position": 597,
- "rankingPositionChange": 0,
- "gloryPoint": 14251,
+ "position": 602,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14237,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Neotrax",
@@ -160,6 +160,14 @@
    "position": 597,
    "rankingPositionChange": 0,
    "gloryPoint": 14251,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 602,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14237,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 113700,
  "characterClassID": 10,
  "raceID": 0,
- "position": 893,
- "rankingPositionChange": 0,
- "gloryPoint": 10566,
+ "position": 899,
+ "rankingPositionChange": -6,
+ "gloryPoint": 10559,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ladydelirium",
@@ -280,6 +280,14 @@
    "position": 893,
    "rankingPositionChange": 0,
    "gloryPoint": 10566,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 899,
+   "rankingPositionChange": -6,
+   "gloryPoint": 10559,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

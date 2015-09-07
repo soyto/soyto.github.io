@@ -2,12 +2,14 @@
  "characterID": 200838,
  "characterClassID": 11,
  "raceID": 1,
- "position": 253,
- "rankingPositionChange": 0,
- "gloryPoint": 34846,
- "gloryPointChange": 313,
+ "position": 255,
+ "rankingPositionChange": -2,
+ "gloryPoint": 34918,
+ "gloryPointChange": 72,
  "soldierRankID": 13,
  "characterName": "Bwedding",
+ "guildName": "After School",
+ "guildID": 6496,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 34846,
    "gloryPointChange": 313,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -2,
+   "gloryPoint": 34918,
+   "gloryPointChange": 72,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "After School",
+   "guildID": 6496
   }
  ]
 }

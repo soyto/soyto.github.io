@@ -2,9 +2,9 @@
  "characterID": 682119,
  "characterClassID": 11,
  "raceID": 0,
- "position": 460,
- "rankingPositionChange": 0,
- "gloryPoint": 39514,
+ "position": 462,
+ "rankingPositionChange": -2,
+ "gloryPoint": 39486,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zubat",
@@ -280,6 +280,14 @@
    "position": 460,
    "rankingPositionChange": 0,
    "gloryPoint": 39514,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 462,
+   "rankingPositionChange": -2,
+   "gloryPoint": 39486,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 482036,
  "characterClassID": 7,
  "raceID": 1,
- "position": 677,
- "rankingPositionChange": 0,
- "gloryPoint": 4276,
+ "position": 678,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4262,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Daelyn",
@@ -278,6 +278,14 @@
    "position": 677,
    "rankingPositionChange": 0,
    "gloryPoint": 4276,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 678,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4262,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

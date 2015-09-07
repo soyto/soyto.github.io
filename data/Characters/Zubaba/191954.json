@@ -2,9 +2,9 @@
  "characterID": 191954,
  "characterClassID": 14,
  "raceID": 0,
- "position": 156,
- "rankingPositionChange": 0,
- "gloryPoint": 75381,
+ "position": 157,
+ "rankingPositionChange": -1,
+ "gloryPoint": 75332,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Fastslayer",
@@ -280,6 +280,14 @@
    "position": 156,
    "rankingPositionChange": 0,
    "gloryPoint": 75381,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 157,
+   "rankingPositionChange": -1,
+   "gloryPoint": 75332,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

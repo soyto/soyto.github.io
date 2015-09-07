@@ -2,10 +2,10 @@
  "characterID": 864739,
  "characterClassID": 10,
  "raceID": 1,
- "position": 377,
- "rankingPositionChange": -20,
- "gloryPoint": 16673,
- "gloryPointChange": -364,
+ "position": 376,
+ "rankingPositionChange": 1,
+ "gloryPoint": 16645,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Rospet",
  "status": [
@@ -183,6 +183,14 @@
    "rankingPositionChange": -20,
    "gloryPoint": 16673,
    "gloryPointChange": -364,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 376,
+   "rankingPositionChange": 1,
+   "gloryPoint": 16645,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

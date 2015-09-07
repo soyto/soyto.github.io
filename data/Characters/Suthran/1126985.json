@@ -2,9 +2,9 @@
  "characterID": 1126985,
  "characterClassID": 16,
  "raceID": 1,
- "position": 105,
- "rankingPositionChange": 1,
- "gloryPoint": 97286,
+ "position": 107,
+ "rankingPositionChange": -2,
+ "gloryPoint": 97237,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Redangels",
@@ -280,6 +280,14 @@
    "position": 105,
    "rankingPositionChange": 1,
    "gloryPoint": 97286,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": -2,
+   "gloryPoint": 97237,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

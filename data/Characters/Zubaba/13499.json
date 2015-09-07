@@ -2,10 +2,10 @@
  "characterID": 13499,
  "characterClassID": 5,
  "raceID": 1,
- "position": 235,
- "rankingPositionChange": 0,
- "gloryPoint": 35892,
- "gloryPointChange": -49,
+ "position": 236,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35905,
+ "gloryPointChange": 13,
  "soldierRankID": 13,
  "characterName": "Sparrows",
  "guildName": "Notty Scrubs",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35892,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 236,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35905,
+   "gloryPointChange": 13,
    "soldierRankID": 13
   }
  ],

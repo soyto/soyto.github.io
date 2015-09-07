@@ -2,10 +2,10 @@
  "characterID": 143927,
  "characterClassID": 1,
  "raceID": 1,
- "position": 650,
- "rankingPositionChange": 0,
- "gloryPoint": 7925,
- "gloryPointChange": 46,
+ "position": 652,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7914,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Bluwolf",
  "guildName": "Untold",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7925,
    "gloryPointChange": 46,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 652,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7914,
+   "gloryPointChange": -11,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 703433,
  "characterClassID": 5,
  "raceID": 0,
- "position": 833,
- "rankingPositionChange": 8,
- "gloryPoint": 6050,
- "gloryPointChange": 43,
+ "position": 836,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6043,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tamaljah",
  "guildName": "Nightshades",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 6050,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 836,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6043,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

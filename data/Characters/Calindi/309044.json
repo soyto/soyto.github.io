@@ -2,9 +2,9 @@
  "characterID": 309044,
  "characterClassID": 4,
  "raceID": 0,
- "position": 116,
- "rankingPositionChange": 0,
- "gloryPoint": 69201,
+ "position": 118,
+ "rankingPositionChange": -2,
+ "gloryPoint": 69152,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Yisin",
@@ -280,6 +280,14 @@
    "position": 116,
    "rankingPositionChange": 0,
    "gloryPoint": 69201,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 118,
+   "rankingPositionChange": -2,
+   "gloryPoint": 69152,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

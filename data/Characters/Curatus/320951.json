@@ -2,10 +2,10 @@
  "characterID": 320951,
  "characterClassID": 8,
  "raceID": 1,
- "position": 972,
- "rankingPositionChange": 14,
- "gloryPoint": 3154,
- "gloryPointChange": 118,
+ "position": 976,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3147,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Saiito",
  "guildName": "AbyssGates",
@@ -105,6 +105,14 @@
    "rankingPositionChange": 14,
    "gloryPoint": 3154,
    "gloryPointChange": 118,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 976,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3147,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

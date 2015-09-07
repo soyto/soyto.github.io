@@ -2,9 +2,9 @@
  "characterID": 1541424,
  "characterClassID": 4,
  "raceID": 0,
- "position": 831,
- "rankingPositionChange": 1,
- "gloryPoint": 17684,
+ "position": 843,
+ "rankingPositionChange": -12,
+ "gloryPoint": 17677,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Swizza",
@@ -280,6 +280,14 @@
    "position": 831,
    "rankingPositionChange": 1,
    "gloryPoint": 17684,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 843,
+   "rankingPositionChange": -12,
+   "gloryPoint": 17677,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

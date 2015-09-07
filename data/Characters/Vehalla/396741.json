@@ -2,9 +2,9 @@
  "characterID": 396741,
  "characterClassID": 5,
  "raceID": 0,
- "position": 49,
- "rankingPositionChange": 0,
- "gloryPoint": 104068,
+ "position": 50,
+ "rankingPositionChange": -1,
+ "gloryPoint": 103961,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Lovedead",
@@ -280,6 +280,14 @@
    "position": 49,
    "rankingPositionChange": 0,
    "gloryPoint": 104068,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 50,
+   "rankingPositionChange": -1,
+   "gloryPoint": 103961,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

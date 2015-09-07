@@ -2,10 +2,10 @@
  "characterID": 477569,
  "characterClassID": 10,
  "raceID": 0,
- "position": 988,
- "rankingPositionChange": 10,
- "gloryPoint": 5831,
- "gloryPointChange": 92,
+ "position": 994,
+ "rankingPositionChange": -6,
+ "gloryPoint": 5824,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Blacksecret",
  "guildName": "AmberEye",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 5831,
    "gloryPointChange": 92,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": -6,
+   "gloryPoint": 5824,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

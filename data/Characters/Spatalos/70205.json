@@ -2,10 +2,10 @@
  "characterID": 70205,
  "characterClassID": 2,
  "raceID": 1,
- "position": 209,
- "rankingPositionChange": -1,
- "gloryPoint": 30712,
- "gloryPointChange": -49,
+ "position": 208,
+ "rankingPositionChange": 1,
+ "gloryPoint": 31063,
+ "gloryPointChange": 351,
  "soldierRankID": 13,
  "characterName": "Hobo",
  "guildName": "XproSolutions",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 30712,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 208,
+   "rankingPositionChange": 1,
+   "gloryPoint": 31063,
+   "gloryPointChange": 351,
    "soldierRankID": 13
   }
  ],

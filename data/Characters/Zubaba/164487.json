@@ -2,10 +2,10 @@
  "characterID": 164487,
  "characterClassID": 5,
  "raceID": 0,
- "position": 576,
- "rankingPositionChange": 1,
- "gloryPoint": 12230,
- "gloryPointChange": 502,
+ "position": 578,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12266,
+ "gloryPointChange": 36,
  "soldierRankID": 11,
  "characterName": "Davaro",
  "guildName": "LETHAL",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12230,
    "gloryPointChange": 502,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 578,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12266,
+   "gloryPointChange": 36,
    "soldierRankID": 11
   }
  ],

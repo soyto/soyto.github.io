@@ -2,10 +2,10 @@
  "characterID": 385133,
  "characterClassID": 4,
  "raceID": 0,
- "position": 708,
- "rankingPositionChange": 0,
- "gloryPoint": 2654,
- "gloryPointChange": 0,
+ "position": 737,
+ "rankingPositionChange": -29,
+ "gloryPoint": 2381,
+ "gloryPointChange": -273,
  "soldierRankID": 10,
  "characterName": "Yllidan",
  "status": [
@@ -135,6 +135,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 2654,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 737,
+   "rankingPositionChange": -29,
+   "gloryPoint": 2381,
+   "gloryPointChange": -273,
    "soldierRankID": 10
   }
  ],

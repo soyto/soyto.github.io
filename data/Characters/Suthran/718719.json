@@ -2,10 +2,10 @@
  "characterID": 718719,
  "characterClassID": 1,
  "raceID": 1,
- "position": 211,
- "rankingPositionChange": 0,
- "gloryPoint": 53566,
- "gloryPointChange": 59,
+ "position": 212,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53517,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Amelynda",
  "guildName": "The Last Asmodians",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 53566,
    "gloryPointChange": 59,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 212,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53517,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

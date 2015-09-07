@@ -2,9 +2,9 @@
  "characterID": 613099,
  "characterClassID": 10,
  "raceID": 0,
- "position": 48,
- "rankingPositionChange": 0,
- "gloryPoint": 183485,
+ "position": 49,
+ "rankingPositionChange": -1,
+ "gloryPoint": 183378,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Sheijla",
@@ -280,6 +280,14 @@
    "position": 48,
    "rankingPositionChange": 0,
    "gloryPoint": 183485,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 49,
+   "rankingPositionChange": -1,
+   "gloryPoint": 183378,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

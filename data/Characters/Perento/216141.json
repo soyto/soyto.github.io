@@ -3,9 +3,9 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 560,
- "rankingPositionChange": 19,
- "gloryPoint": 6546,
- "gloryPointChange": 392,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6541,
+ "gloryPointChange": -5,
  "soldierRankID": 11,
  "characterName": "Serphiroth",
  "guildName": "The Others",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 19,
    "gloryPoint": 6546,
    "gloryPointChange": 392,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 560,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6541,
+   "gloryPointChange": -5,
    "soldierRankID": 11
   }
  ],

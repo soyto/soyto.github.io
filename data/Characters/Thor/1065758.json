@@ -2,9 +2,9 @@
  "characterID": 1065758,
  "characterClassID": 2,
  "raceID": 0,
- "position": 703,
- "rankingPositionChange": 1,
- "gloryPoint": 25054,
+ "position": 712,
+ "rankingPositionChange": -9,
+ "gloryPoint": 25047,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Deanator",
@@ -280,6 +280,14 @@
    "position": 703,
    "rankingPositionChange": 1,
    "gloryPoint": 25054,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 712,
+   "rankingPositionChange": -9,
+   "gloryPoint": 25047,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

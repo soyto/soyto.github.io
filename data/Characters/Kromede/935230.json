@@ -2,10 +2,10 @@
  "characterID": 935230,
  "characterClassID": 14,
  "raceID": 0,
- "position": 953,
- "rankingPositionChange": 3,
- "gloryPoint": 8921,
- "gloryPointChange": 43,
+ "position": 955,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8914,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Djengo",
  "guildName": "Ven Detta",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 8921,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8914,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

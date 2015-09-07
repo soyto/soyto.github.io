@@ -2,10 +2,10 @@
  "characterID": 295782,
  "characterClassID": 2,
  "raceID": 1,
- "position": 97,
- "rankingPositionChange": 0,
- "gloryPoint": 139645,
- "gloryPointChange": 303,
+ "position": 98,
+ "rankingPositionChange": -1,
+ "gloryPoint": 140068,
+ "gloryPointChange": 423,
  "soldierRankID": 14,
  "characterName": "Traki",
  "guildName": "Heer der Finsternis",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 139645,
    "gloryPointChange": 303,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 98,
+   "rankingPositionChange": -1,
+   "gloryPoint": 140068,
+   "gloryPointChange": 423,
    "soldierRankID": 14
   }
  ],

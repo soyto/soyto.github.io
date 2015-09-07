@@ -2,9 +2,9 @@
  "characterID": 172715,
  "characterClassID": 7,
  "raceID": 0,
- "position": 334,
- "rankingPositionChange": 0,
- "gloryPoint": 16748,
+ "position": 338,
+ "rankingPositionChange": -4,
+ "gloryPoint": 16720,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Magicman",
@@ -280,6 +280,14 @@
    "position": 334,
    "rankingPositionChange": 0,
    "gloryPoint": 16748,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 338,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16720,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

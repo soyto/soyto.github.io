@@ -2,9 +2,9 @@
  "characterID": 734055,
  "characterClassID": 5,
  "raceID": 1,
- "position": 759,
- "rankingPositionChange": 0,
- "gloryPoint": 3242,
+ "position": 762,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3235,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Corvi",
@@ -280,6 +280,14 @@
    "position": 759,
    "rankingPositionChange": 0,
    "gloryPoint": 3242,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 762,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3235,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

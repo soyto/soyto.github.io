@@ -2,9 +2,9 @@
  "characterID": 369076,
  "characterClassID": 10,
  "raceID": 0,
- "position": 147,
- "rankingPositionChange": 0,
- "gloryPoint": 87169,
+ "position": 148,
+ "rankingPositionChange": -1,
+ "gloryPoint": 87120,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Adrenalinie",
@@ -280,6 +280,14 @@
    "position": 147,
    "rankingPositionChange": 0,
    "gloryPoint": 87169,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 148,
+   "rankingPositionChange": -1,
+   "gloryPoint": 87120,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

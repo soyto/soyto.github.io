@@ -2,9 +2,9 @@
  "characterID": 814589,
  "characterClassID": 16,
  "raceID": 1,
- "position": 560,
- "rankingPositionChange": 0,
- "gloryPoint": 1648,
+ "position": 562,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1634,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Cenobita",
@@ -280,6 +280,14 @@
    "position": 560,
    "rankingPositionChange": 0,
    "gloryPoint": 1648,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 562,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1634,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

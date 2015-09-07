@@ -2,9 +2,9 @@
  "characterID": 32443,
  "characterClassID": 11,
  "raceID": 0,
- "position": 745,
- "rankingPositionChange": -1,
- "gloryPoint": 15750,
+ "position": 742,
+ "rankingPositionChange": 3,
+ "gloryPoint": 15743,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zakemi",
@@ -280,6 +280,14 @@
    "position": 745,
    "rankingPositionChange": -1,
    "gloryPoint": 15750,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": 3,
+   "gloryPoint": 15743,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

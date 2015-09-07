@@ -2,14 +2,14 @@
  "characterID": 1168345,
  "characterClassID": 8,
  "raceID": 0,
- "position": 838,
- "rankingPositionChange": 0,
- "gloryPoint": 18929,
- "gloryPointChange": -7,
+ "position": 844,
+ "rankingPositionChange": -6,
+ "gloryPoint": 18981,
+ "gloryPointChange": 52,
  "soldierRankID": 10,
  "characterName": "Xanau",
- "guildName": "ALBATROS",
- "guildID": 41442,
+ "guildName": "Havanna Club",
+ "guildID": 15691,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 18929,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 844,
+   "rankingPositionChange": -6,
+   "gloryPoint": 18981,
+   "gloryPointChange": 52,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "ALBATROS",
    "guildID": 41442
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Havanna Club",
+   "guildID": 15691
   }
  ]
 }

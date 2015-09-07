@@ -2,9 +2,9 @@
  "characterID": 13980,
  "characterClassID": 10,
  "raceID": 0,
- "position": 581,
- "rankingPositionChange": 0,
- "gloryPoint": 22678,
+ "position": 585,
+ "rankingPositionChange": -4,
+ "gloryPoint": 22664,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Cersei",
@@ -280,6 +280,14 @@
    "position": 581,
    "rankingPositionChange": 0,
    "gloryPoint": 22678,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 585,
+   "rankingPositionChange": -4,
+   "gloryPoint": 22664,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

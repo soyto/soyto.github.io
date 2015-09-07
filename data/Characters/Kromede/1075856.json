@@ -3,13 +3,11 @@
  "characterClassID": 11,
  "raceID": 0,
  "position": 121,
- "rankingPositionChange": -1,
- "gloryPoint": 105045,
+ "rankingPositionChange": 0,
+ "gloryPoint": 104996,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Erziee",
- "guildName": "The Wind is pushing meeeeeeeeeee",
- "guildID": 29251,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 105045,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": 0,
+   "gloryPoint": 104996,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Wind is pushing meeeeeeeeeee",
    "guildID": 29251
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

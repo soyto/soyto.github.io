@@ -2,9 +2,9 @@
  "characterID": 1586681,
  "characterClassID": 2,
  "raceID": 0,
- "position": 760,
- "rankingPositionChange": 2,
- "gloryPoint": 20132,
+ "position": 770,
+ "rankingPositionChange": -10,
+ "gloryPoint": 20125,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Percevaal",
@@ -280,6 +280,14 @@
    "position": 760,
    "rankingPositionChange": 2,
    "gloryPoint": 20132,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 770,
+   "rankingPositionChange": -10,
+   "gloryPoint": 20125,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

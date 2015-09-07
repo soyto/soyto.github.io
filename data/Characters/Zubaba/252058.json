@@ -2,9 +2,9 @@
  "characterID": 252058,
  "characterClassID": 7,
  "raceID": 1,
- "position": 105,
- "rankingPositionChange": -1,
- "gloryPoint": 90368,
+ "position": 104,
+ "rankingPositionChange": 1,
+ "gloryPoint": 90319,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kure",
@@ -280,6 +280,14 @@
    "position": 105,
    "rankingPositionChange": -1,
    "gloryPoint": 90368,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": 1,
+   "gloryPoint": 90319,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

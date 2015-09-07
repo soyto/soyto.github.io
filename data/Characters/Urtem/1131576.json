@@ -2,9 +2,9 @@
  "characterID": 1131576,
  "characterClassID": 14,
  "raceID": 0,
- "position": 850,
- "rankingPositionChange": 2,
- "gloryPoint": 16847,
+ "position": 863,
+ "rankingPositionChange": -13,
+ "gloryPoint": 16840,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rimih",
@@ -136,6 +136,14 @@
    "position": 850,
    "rankingPositionChange": 2,
    "gloryPoint": 16847,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 863,
+   "rankingPositionChange": -13,
+   "gloryPoint": 16840,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

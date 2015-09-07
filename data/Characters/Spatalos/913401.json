@@ -2,10 +2,10 @@
  "characterID": 913401,
  "characterClassID": 7,
  "raceID": 1,
- "position": 866,
- "rankingPositionChange": 18,
- "gloryPoint": 2890,
- "gloryPointChange": 145,
+ "position": 867,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2903,
+ "gloryPointChange": 13,
  "soldierRankID": 10,
  "characterName": "Qyxxx",
  "guildName": "Cookie Suckers",
@@ -49,6 +49,14 @@
    "rankingPositionChange": 18,
    "gloryPoint": 2890,
    "gloryPointChange": 145,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 867,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2903,
+   "gloryPointChange": 13,
    "soldierRankID": 10
   }
  ],

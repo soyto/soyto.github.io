@@ -2,9 +2,9 @@
  "characterID": 1748385,
  "characterClassID": 1,
  "raceID": 1,
- "position": 507,
- "rankingPositionChange": 1,
- "gloryPoint": 27657,
+ "position": 511,
+ "rankingPositionChange": -4,
+ "gloryPoint": 27643,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Xfn",
@@ -280,6 +280,14 @@
    "position": 507,
    "rankingPositionChange": 1,
    "gloryPoint": 27657,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -4,
+   "gloryPoint": 27643,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

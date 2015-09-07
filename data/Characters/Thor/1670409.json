@@ -2,10 +2,10 @@
  "characterID": 1670409,
  "characterClassID": 14,
  "raceID": 1,
- "position": 131,
- "rankingPositionChange": 0,
- "gloryPoint": 103518,
- "gloryPointChange": 626,
+ "position": 132,
+ "rankingPositionChange": -1,
+ "gloryPoint": 103669,
+ "gloryPointChange": 151,
  "soldierRankID": 13,
  "characterName": "Voldibaer",
  "guildName": "Seek n Destroy",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 103518,
    "gloryPointChange": 626,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -1,
+   "gloryPoint": 103669,
+   "gloryPointChange": 151,
    "soldierRankID": 13
   }
  ],

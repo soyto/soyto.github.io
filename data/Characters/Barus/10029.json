@@ -2,11 +2,11 @@
  "characterID": 10029,
  "characterClassID": 11,
  "raceID": 1,
- "position": 699,
- "rankingPositionChange": 1,
- "gloryPoint": 18246,
+ "position": 701,
+ "rankingPositionChange": -2,
+ "gloryPoint": 18232,
  "gloryPointChange": -14,
- "soldierRankID": 11,
+ "soldierRankID": 10,
  "characterName": "Etariell",
  "status": [
   {
@@ -280,6 +280,14 @@
    "gloryPoint": 18246,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 701,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18232,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [

@@ -2,9 +2,9 @@
  "characterID": 738742,
  "characterClassID": 7,
  "raceID": 1,
- "position": 769,
- "rankingPositionChange": 0,
- "gloryPoint": 3125,
+ "position": 773,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3118,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shadowsofjilly",
@@ -280,6 +280,14 @@
    "position": 769,
    "rankingPositionChange": 0,
    "gloryPoint": 3125,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 773,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3118,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

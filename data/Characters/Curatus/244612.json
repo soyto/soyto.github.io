@@ -2,10 +2,10 @@
  "characterID": 244612,
  "characterClassID": 5,
  "raceID": 0,
- "position": 673,
- "rankingPositionChange": 0,
- "gloryPoint": 18531,
- "gloryPointChange": 1,
+ "position": 677,
+ "rankingPositionChange": -4,
+ "gloryPoint": 18523,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Matanger",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 18531,
    "gloryPointChange": 1,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 677,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18523,
+   "gloryPointChange": -8,
    "soldierRankID": 11
   }
  ],

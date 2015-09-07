@@ -2,9 +2,9 @@
  "characterID": 898461,
  "characterClassID": 5,
  "raceID": 0,
- "position": 684,
- "rankingPositionChange": 0,
- "gloryPoint": 9004,
+ "position": 686,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8990,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Giblet",
@@ -272,6 +272,14 @@
    "position": 684,
    "rankingPositionChange": 0,
    "gloryPoint": 9004,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 686,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8990,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

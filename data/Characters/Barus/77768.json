@@ -2,9 +2,9 @@
  "characterID": 77768,
  "characterClassID": 16,
  "raceID": 0,
- "position": 268,
- "rankingPositionChange": 1,
- "gloryPoint": 54131,
+ "position": 269,
+ "rankingPositionChange": -1,
+ "gloryPoint": 54082,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Wichurka",
@@ -280,6 +280,14 @@
    "position": 268,
    "rankingPositionChange": 1,
    "gloryPoint": 54131,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 269,
+   "rankingPositionChange": -1,
+   "gloryPoint": 54082,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

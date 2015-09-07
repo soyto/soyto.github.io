@@ -2,9 +2,9 @@
  "characterID": 505176,
  "characterClassID": 10,
  "raceID": 1,
- "position": 464,
- "rankingPositionChange": 0,
- "gloryPoint": 20911,
+ "position": 463,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20883,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Starter",
@@ -280,6 +280,14 @@
    "position": 464,
    "rankingPositionChange": 0,
    "gloryPoint": 20911,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 463,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20883,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

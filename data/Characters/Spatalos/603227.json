@@ -2,10 +2,10 @@
  "characterID": 603227,
  "characterClassID": 2,
  "raceID": 0,
- "position": 928,
- "rankingPositionChange": 2,
- "gloryPoint": 6816,
- "gloryPointChange": 3,
+ "position": 935,
+ "rankingPositionChange": -7,
+ "gloryPoint": 6809,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wazzock",
  "guildName": "Dante",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 6816,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 935,
+   "rankingPositionChange": -7,
+   "gloryPoint": 6809,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

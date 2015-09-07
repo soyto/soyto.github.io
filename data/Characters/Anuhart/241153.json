@@ -2,9 +2,9 @@
  "characterID": 241153,
  "characterClassID": 5,
  "raceID": 0,
- "position": 657,
- "rankingPositionChange": 1,
- "gloryPoint": 9425,
+ "position": 661,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9411,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Amaryllis",
@@ -280,6 +280,14 @@
    "position": 657,
    "rankingPositionChange": 1,
    "gloryPoint": 9425,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 661,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9411,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

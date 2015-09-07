@@ -2,9 +2,9 @@
  "characterID": 547186,
  "characterClassID": 2,
  "raceID": 0,
- "position": 262,
- "rankingPositionChange": 0,
- "gloryPoint": 26831,
+ "position": 263,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26782,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Insular",
@@ -280,6 +280,14 @@
    "position": 262,
    "rankingPositionChange": 0,
    "gloryPoint": 26831,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 263,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26782,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -3,11 +3,13 @@
  "characterClassID": 14,
  "raceID": 0,
  "position": 643,
- "rankingPositionChange": 2,
- "gloryPoint": 4284,
+ "rankingPositionChange": 0,
+ "gloryPoint": 4270,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Atarya",
+ "guildName": "MiCuCa",
+ "guildID": 30643,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 4284,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 643,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4270,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -301,6 +311,11 @@
   },
   {
    "date": "2015-08-29T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "MiCuCa",
+   "guildID": 30643
   }
  ]
 }

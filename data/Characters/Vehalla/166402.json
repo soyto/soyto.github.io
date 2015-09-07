@@ -2,10 +2,10 @@
  "characterID": 166402,
  "characterClassID": 11,
  "raceID": 0,
- "position": 696,
- "rankingPositionChange": 23,
- "gloryPoint": 1293,
- "gloryPointChange": 43,
+ "position": 709,
+ "rankingPositionChange": -13,
+ "gloryPoint": 1286,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ivorii",
  "guildName": "The Legacy",
@@ -161,6 +161,14 @@
    "rankingPositionChange": 23,
    "gloryPoint": 1293,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": -13,
+   "gloryPoint": 1286,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

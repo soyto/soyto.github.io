@@ -2,10 +2,10 @@
  "characterID": 897882,
  "characterClassID": 11,
  "raceID": 0,
- "position": 912,
- "rankingPositionChange": 2,
- "gloryPoint": 15194,
- "gloryPointChange": -7,
+ "position": 925,
+ "rankingPositionChange": -13,
+ "gloryPoint": 15197,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Krakesh",
  "guildName": "Cercle infernal",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 15194,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 925,
+   "rankingPositionChange": -13,
+   "gloryPoint": 15197,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

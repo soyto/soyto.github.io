@@ -2,9 +2,9 @@
  "characterID": 498399,
  "characterClassID": 2,
  "raceID": 1,
- "position": 546,
- "rankingPositionChange": 4,
- "gloryPoint": 1574,
+ "position": 551,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1560,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Olum",
@@ -272,6 +272,14 @@
    "position": 546,
    "rankingPositionChange": 4,
    "gloryPoint": 1574,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 551,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1560,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 489534,
  "characterClassID": 7,
  "raceID": 1,
- "position": 639,
- "rankingPositionChange": 0,
- "gloryPoint": 13194,
- "gloryPointChange": -4,
+ "position": 646,
+ "rankingPositionChange": -7,
+ "gloryPoint": 13180,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Seymon",
  "guildName": "Paradizia",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 13194,
    "gloryPointChange": -4,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 646,
+   "rankingPositionChange": -7,
+   "gloryPoint": 13180,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

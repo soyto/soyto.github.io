@@ -2,10 +2,10 @@
  "characterID": 1316081,
  "characterClassID": 10,
  "raceID": 1,
- "position": 330,
- "rankingPositionChange": 2,
- "gloryPoint": 17514,
- "gloryPointChange": 275,
+ "position": 331,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18124,
+ "gloryPointChange": 610,
  "soldierRankID": 12,
  "characterName": "Renaria",
  "guildName": "JEZDZCY APOKALIPSY",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 17514,
    "gloryPointChange": 275,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 331,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18124,
+   "gloryPointChange": 610,
    "soldierRankID": 12
   }
  ],

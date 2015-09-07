@@ -2,10 +2,10 @@
  "characterID": 669516,
  "characterClassID": 8,
  "raceID": 0,
- "position": 220,
- "rankingPositionChange": 1,
- "gloryPoint": 71707,
- "gloryPointChange": 234,
+ "position": 225,
+ "rankingPositionChange": -5,
+ "gloryPoint": 71658,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Alyae",
  "guildName": "  Who Cares  ",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 71707,
    "gloryPointChange": 234,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 225,
+   "rankingPositionChange": -5,
+   "gloryPoint": 71658,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

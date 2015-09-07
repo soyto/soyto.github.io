@@ -2,9 +2,9 @@
  "characterID": 189653,
  "characterClassID": 2,
  "raceID": 0,
- "position": 850,
- "rankingPositionChange": 0,
- "gloryPoint": 1605,
+ "position": 855,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1598,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Theangelo",
@@ -88,6 +88,14 @@
    "position": 850,
    "rankingPositionChange": 0,
    "gloryPoint": 1605,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1598,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

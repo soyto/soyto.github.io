@@ -2,9 +2,9 @@
  "characterID": 147253,
  "characterClassID": 10,
  "raceID": 1,
- "position": 287,
- "rankingPositionChange": -1,
- "gloryPoint": 27171,
+ "position": 286,
+ "rankingPositionChange": 1,
+ "gloryPoint": 27122,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Libelula",
@@ -240,6 +240,14 @@
    "position": 287,
    "rankingPositionChange": -1,
    "gloryPoint": 27171,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 286,
+   "rankingPositionChange": 1,
+   "gloryPoint": 27122,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

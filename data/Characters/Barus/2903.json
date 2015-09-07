@@ -2,9 +2,9 @@
  "characterID": 2903,
  "characterClassID": 8,
  "raceID": 1,
- "position": 828,
- "rankingPositionChange": 2,
- "gloryPoint": 13673,
+ "position": 834,
+ "rankingPositionChange": -6,
+ "gloryPoint": 13666,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rea",
@@ -278,6 +278,14 @@
    "position": 828,
    "rankingPositionChange": 2,
    "gloryPoint": 13673,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 834,
+   "rankingPositionChange": -6,
+   "gloryPoint": 13666,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

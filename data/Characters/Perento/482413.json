@@ -2,9 +2,9 @@
  "characterID": 482413,
  "characterClassID": 7,
  "raceID": 1,
- "position": 206,
- "rankingPositionChange": 0,
- "gloryPoint": 43878,
+ "position": 207,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43829,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Oksit",
@@ -280,6 +280,14 @@
    "position": 206,
    "rankingPositionChange": 0,
    "gloryPoint": 43878,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 207,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43829,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

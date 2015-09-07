@@ -2,9 +2,9 @@
  "characterID": 113465,
  "characterClassID": 1,
  "raceID": 1,
- "position": 965,
- "rankingPositionChange": 4,
- "gloryPoint": 10127,
+ "position": 969,
+ "rankingPositionChange": -4,
+ "gloryPoint": 10120,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Veryl",
@@ -246,6 +246,14 @@
    "position": 965,
    "rankingPositionChange": 4,
    "gloryPoint": 10127,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": -4,
+   "gloryPoint": 10120,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

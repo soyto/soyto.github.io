@@ -2,9 +2,9 @@
  "characterID": 491768,
  "characterClassID": 5,
  "raceID": 0,
- "position": 445,
- "rankingPositionChange": 0,
- "gloryPoint": 20160,
+ "position": 448,
+ "rankingPositionChange": -3,
+ "gloryPoint": 20132,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Chiomery",
@@ -280,6 +280,14 @@
    "position": 445,
    "rankingPositionChange": 0,
    "gloryPoint": 20160,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 448,
+   "rankingPositionChange": -3,
+   "gloryPoint": 20132,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

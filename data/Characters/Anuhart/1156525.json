@@ -2,9 +2,9 @@
  "characterID": 1156525,
  "characterClassID": 7,
  "raceID": 0,
- "position": 961,
- "rankingPositionChange": 3,
- "gloryPoint": 4408,
+ "position": 967,
+ "rankingPositionChange": -6,
+ "gloryPoint": 4401,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Preinus",
@@ -136,6 +136,14 @@
    "position": 961,
    "rankingPositionChange": 3,
    "gloryPoint": 4408,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -6,
+   "gloryPoint": 4401,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

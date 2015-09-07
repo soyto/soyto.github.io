@@ -2,12 +2,12 @@
  "characterID": 522604,
  "characterClassID": 2,
  "raceID": 1,
- "position": 731,
- "rankingPositionChange": 2,
- "gloryPoint": 16779,
- "gloryPointChange": 106,
+ "position": 733,
+ "rankingPositionChange": -2,
+ "gloryPoint": 16823,
+ "gloryPointChange": 44,
  "soldierRankID": 10,
- "characterName": "Hanjizoe",
+ "characterName": "Etoo",
  "guildName": "GhostInTheShell",
  "guildID": 13073,
  "status": [
@@ -282,12 +282,24 @@
    "gloryPoint": 16779,
    "gloryPointChange": 106,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 733,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16823,
+   "gloryPointChange": 44,
+   "soldierRankID": 10
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Hanjizoe"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "characterName": "Etoo"
   }
  ],
  "guilds": [

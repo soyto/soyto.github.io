@@ -2,9 +2,9 @@
  "characterID": 1283279,
  "characterClassID": 10,
  "raceID": 0,
- "position": 778,
- "rankingPositionChange": 4,
- "gloryPoint": 11077,
+ "position": 780,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11070,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rokudenashi",
@@ -184,6 +184,14 @@
    "position": 778,
    "rankingPositionChange": 4,
    "gloryPoint": 11077,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 780,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11070,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

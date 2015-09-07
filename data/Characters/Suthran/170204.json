@@ -2,10 +2,10 @@
  "characterID": 170204,
  "characterClassID": 10,
  "raceID": 0,
- "position": 421,
- "rankingPositionChange": 1,
- "gloryPoint": 38355,
- "gloryPointChange": 72,
+ "position": 423,
+ "rankingPositionChange": -2,
+ "gloryPoint": 38327,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kalliste",
  "guildName": "oO NeXuS Oo",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 38355,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 423,
+   "rankingPositionChange": -2,
+   "gloryPoint": 38327,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

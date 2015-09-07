@@ -2,9 +2,9 @@
  "characterID": 512626,
  "characterClassID": 7,
  "raceID": 0,
- "position": 441,
- "rankingPositionChange": 0,
- "gloryPoint": 7298,
+ "position": 447,
+ "rankingPositionChange": -6,
+ "gloryPoint": 7270,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Fratloev",
@@ -280,6 +280,14 @@
    "position": 441,
    "rankingPositionChange": 0,
    "gloryPoint": 7298,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 447,
+   "rankingPositionChange": -6,
+   "gloryPoint": 7270,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

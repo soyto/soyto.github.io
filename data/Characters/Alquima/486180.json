@@ -2,9 +2,9 @@
  "characterID": 486180,
  "characterClassID": 16,
  "raceID": 0,
- "position": 420,
- "rankingPositionChange": 0,
- "gloryPoint": 27633,
+ "position": 421,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27605,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Nagume",
@@ -280,6 +280,14 @@
    "position": 420,
    "rankingPositionChange": 0,
    "gloryPoint": 27633,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 421,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27605,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

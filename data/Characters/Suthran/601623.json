@@ -2,10 +2,10 @@
  "characterID": 601623,
  "characterClassID": 7,
  "raceID": 0,
- "position": 48,
- "rankingPositionChange": 0,
- "gloryPoint": 169949,
- "gloryPointChange": -535,
+ "position": 49,
+ "rankingPositionChange": -1,
+ "gloryPoint": 170069,
+ "gloryPointChange": 120,
  "soldierRankID": 14,
  "characterName": "Kamishaa",
  "guildName": "I Kamikaze I",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 169949,
    "gloryPointChange": -535,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 49,
+   "rankingPositionChange": -1,
+   "gloryPoint": 170069,
+   "gloryPointChange": 120,
    "soldierRankID": 14
   }
  ],

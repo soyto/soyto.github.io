@@ -2,9 +2,9 @@
  "characterID": 1290005,
  "characterClassID": 13,
  "raceID": 0,
- "position": 687,
- "rankingPositionChange": 4,
- "gloryPoint": 14648,
+ "position": 688,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14634,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Robokavlas",
@@ -136,6 +136,14 @@
    "position": 687,
    "rankingPositionChange": 4,
    "gloryPoint": 14648,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 688,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14634,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

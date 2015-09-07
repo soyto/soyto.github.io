@@ -2,12 +2,12 @@
  "characterID": 146476,
  "characterClassID": 4,
  "raceID": 1,
- "position": 141,
- "rankingPositionChange": 0,
- "gloryPoint": 65265,
- "gloryPointChange": 63,
+ "position": 140,
+ "rankingPositionChange": 1,
+ "gloryPoint": 65216,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
- "characterName": "Nihilanth",
+ "characterName": "Ivi",
  "guildName": "Bosphorus",
  "guildID": 1226,
  "status": [
@@ -282,12 +282,24 @@
    "gloryPoint": 65265,
    "gloryPointChange": 63,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 140,
+   "rankingPositionChange": 1,
+   "gloryPoint": 65216,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Nihilanth"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "characterName": "Ivi"
   }
  ],
  "guilds": [

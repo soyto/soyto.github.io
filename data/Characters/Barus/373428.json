@@ -2,9 +2,9 @@
  "characterID": 373428,
  "characterClassID": 14,
  "raceID": 0,
- "position": 252,
- "rankingPositionChange": 1,
- "gloryPoint": 56801,
+ "position": 254,
+ "rankingPositionChange": -2,
+ "gloryPoint": 56752,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Jojko",
@@ -278,6 +278,14 @@
    "position": 252,
    "rankingPositionChange": 1,
    "gloryPoint": 56801,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 254,
+   "rankingPositionChange": -2,
+   "gloryPoint": 56752,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

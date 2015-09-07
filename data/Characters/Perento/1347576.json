@@ -2,9 +2,9 @@
  "characterID": 1347576,
  "characterClassID": 10,
  "raceID": 0,
- "position": 488,
- "rankingPositionChange": 1,
- "gloryPoint": 19014,
+ "position": 489,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18986,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Cryan",
@@ -278,6 +278,14 @@
    "position": 488,
    "rankingPositionChange": 1,
    "gloryPoint": 19014,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 489,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18986,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 1169864,
  "characterClassID": 14,
  "raceID": 0,
- "position": 703,
- "rankingPositionChange": 1,
- "gloryPoint": 8662,
+ "position": 707,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8655,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Immortalgunner",
@@ -280,6 +280,14 @@
    "position": 703,
    "rankingPositionChange": 1,
    "gloryPoint": 8662,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 707,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8655,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

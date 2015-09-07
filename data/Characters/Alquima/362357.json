@@ -2,9 +2,9 @@
  "characterID": 362357,
  "characterClassID": 11,
  "raceID": 0,
- "position": 303,
- "rankingPositionChange": 0,
- "gloryPoint": 40984,
+ "position": 304,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40956,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Esponjocito",
@@ -264,6 +264,14 @@
    "position": 303,
    "rankingPositionChange": 0,
    "gloryPoint": 40984,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 304,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40956,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

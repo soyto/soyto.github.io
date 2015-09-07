@@ -2,9 +2,9 @@
  "characterID": 173127,
  "characterClassID": 14,
  "raceID": 0,
- "position": 384,
- "rankingPositionChange": 1,
- "gloryPoint": 30913,
+ "position": 386,
+ "rankingPositionChange": -2,
+ "gloryPoint": 30885,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Neruem",
@@ -280,6 +280,14 @@
    "position": 384,
    "rankingPositionChange": 1,
    "gloryPoint": 30913,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 386,
+   "rankingPositionChange": -2,
+   "gloryPoint": 30885,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

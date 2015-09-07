@@ -2,10 +2,10 @@
  "characterID": 133191,
  "characterClassID": 4,
  "raceID": 0,
- "position": 378,
- "rankingPositionChange": 0,
- "gloryPoint": 22286,
- "gloryPointChange": 128,
+ "position": 382,
+ "rankingPositionChange": -4,
+ "gloryPoint": 22258,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Biscotti",
  "guildName": "Soul Reapers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 22286,
    "gloryPointChange": 128,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 382,
+   "rankingPositionChange": -4,
+   "gloryPoint": 22258,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

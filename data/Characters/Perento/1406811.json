@@ -2,9 +2,9 @@
  "characterID": 1406811,
  "characterClassID": 11,
  "raceID": 1,
- "position": 767,
- "rankingPositionChange": 0,
- "gloryPoint": 3132,
+ "position": 771,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3125,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Stallari",
@@ -264,6 +264,14 @@
    "position": 767,
    "rankingPositionChange": 0,
    "gloryPoint": 3132,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 771,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3125,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

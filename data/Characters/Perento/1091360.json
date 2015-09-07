@@ -2,9 +2,9 @@
  "characterID": 1091360,
  "characterClassID": 1,
  "raceID": 1,
- "position": 585,
- "rankingPositionChange": 0,
- "gloryPoint": 6012,
+ "position": 584,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5998,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mordredre",
@@ -280,6 +280,14 @@
    "position": 585,
    "rankingPositionChange": 0,
    "gloryPoint": 6012,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 584,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5998,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

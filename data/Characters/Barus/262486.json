@@ -2,9 +2,9 @@
  "characterID": 262486,
  "characterClassID": 1,
  "raceID": 1,
- "position": 701,
- "rankingPositionChange": 1,
- "gloryPoint": 18077,
+ "position": 704,
+ "rankingPositionChange": -3,
+ "gloryPoint": 18070,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Krist",
@@ -278,6 +278,14 @@
    "position": 701,
    "rankingPositionChange": 1,
    "gloryPoint": 18077,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 704,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18070,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

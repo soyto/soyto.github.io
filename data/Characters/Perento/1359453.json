@@ -2,9 +2,9 @@
  "characterID": 1359453,
  "characterClassID": 10,
  "raceID": 1,
- "position": 972,
- "rankingPositionChange": 0,
- "gloryPoint": 1629,
+ "position": 974,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1622,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Amnepoh",
@@ -278,6 +278,14 @@
    "position": 972,
    "rankingPositionChange": 0,
    "gloryPoint": 1629,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1622,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

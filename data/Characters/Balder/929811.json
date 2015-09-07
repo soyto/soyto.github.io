@@ -2,10 +2,10 @@
  "characterID": 929811,
  "characterClassID": 10,
  "raceID": 0,
- "position": 680,
- "rankingPositionChange": 5,
- "gloryPoint": 3676,
- "gloryPointChange": 46,
+ "position": 681,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3662,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Cenerentola",
  "guildName": "Brain Storm",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 3676,
    "gloryPointChange": 46,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 681,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3662,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

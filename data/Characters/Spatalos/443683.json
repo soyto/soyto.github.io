@@ -2,9 +2,9 @@
  "characterID": 443683,
  "characterClassID": 5,
  "raceID": 0,
- "position": 771,
- "rankingPositionChange": 4,
- "gloryPoint": 11357,
+ "position": 772,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11350,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Stephania",
@@ -136,6 +136,14 @@
    "position": 771,
    "rankingPositionChange": 4,
    "gloryPoint": 11357,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 772,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11350,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1205554,
  "characterClassID": 10,
  "raceID": 0,
- "position": 812,
- "rankingPositionChange": 2,
- "gloryPoint": 18246,
+ "position": 827,
+ "rankingPositionChange": -15,
+ "gloryPoint": 18239,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nelim",
@@ -272,6 +272,14 @@
    "position": 812,
    "rankingPositionChange": 2,
    "gloryPoint": 18246,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 827,
+   "rankingPositionChange": -15,
+   "gloryPoint": 18239,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

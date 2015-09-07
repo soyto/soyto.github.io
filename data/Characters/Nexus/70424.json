@@ -2,10 +2,10 @@
  "characterID": 70424,
  "characterClassID": 5,
  "raceID": 0,
- "position": 39,
- "rankingPositionChange": 0,
- "gloryPoint": 147287,
- "gloryPointChange": 181,
+ "position": 40,
+ "rankingPositionChange": -1,
+ "gloryPoint": 147180,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Almette",
  "guildName": "Fire Shadows",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 147287,
    "gloryPointChange": 181,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 40,
+   "rankingPositionChange": -1,
+   "gloryPoint": 147180,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

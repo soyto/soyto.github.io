@@ -2,12 +2,14 @@
  "characterID": 551673,
  "characterClassID": 16,
  "raceID": 0,
- "position": 272,
- "rankingPositionChange": 3,
- "gloryPoint": 53469,
- "gloryPointChange": 366,
+ "position": 271,
+ "rankingPositionChange": 1,
+ "gloryPoint": 53973,
+ "gloryPointChange": 504,
  "soldierRankID": 13,
  "characterName": "Preset",
+ "guildName": " Do You Know Where Is NIGGA ",
+ "guildID": 13772,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 53469,
    "gloryPointChange": 366,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 271,
+   "rankingPositionChange": 1,
+   "gloryPoint": 53973,
+   "gloryPointChange": 504,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": " Do You Know Where Is NIGGA ",
+   "guildID": 13772
   }
  ]
 }

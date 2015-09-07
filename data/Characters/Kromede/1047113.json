@@ -2,9 +2,9 @@
  "characterID": 1047113,
  "characterClassID": 7,
  "raceID": 1,
- "position": 193,
- "rankingPositionChange": 0,
- "gloryPoint": 41022,
+ "position": 194,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40973,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tsuzaku",
@@ -280,6 +280,14 @@
    "position": 193,
    "rankingPositionChange": 0,
    "gloryPoint": 41022,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 194,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40973,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

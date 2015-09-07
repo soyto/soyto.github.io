@@ -2,9 +2,9 @@
  "characterID": 1300223,
  "characterClassID": 13,
  "raceID": 0,
- "position": 196,
- "rankingPositionChange": 0,
- "gloryPoint": 74784,
+ "position": 197,
+ "rankingPositionChange": -1,
+ "gloryPoint": 74735,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rekiikii",
@@ -278,6 +278,14 @@
    "position": 196,
    "rankingPositionChange": 0,
    "gloryPoint": 74784,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 197,
+   "rankingPositionChange": -1,
+   "gloryPoint": 74735,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

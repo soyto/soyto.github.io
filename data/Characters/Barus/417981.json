@@ -2,9 +2,9 @@
  "characterID": 417981,
  "characterClassID": 10,
  "raceID": 1,
- "position": 776,
- "rankingPositionChange": 1,
- "gloryPoint": 15321,
+ "position": 780,
+ "rankingPositionChange": -4,
+ "gloryPoint": 15314,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Anxiet",
@@ -280,6 +280,14 @@
    "position": 776,
    "rankingPositionChange": 1,
    "gloryPoint": 15321,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 780,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15314,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

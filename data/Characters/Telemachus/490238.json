@@ -2,9 +2,9 @@
  "characterID": 490238,
  "characterClassID": 11,
  "raceID": 0,
- "position": 364,
- "rankingPositionChange": 0,
- "gloryPoint": 37650,
+ "position": 363,
+ "rankingPositionChange": 1,
+ "gloryPoint": 37622,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Belazar",
@@ -280,6 +280,14 @@
    "position": 364,
    "rankingPositionChange": 0,
    "gloryPoint": 37650,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 363,
+   "rankingPositionChange": 1,
+   "gloryPoint": 37622,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

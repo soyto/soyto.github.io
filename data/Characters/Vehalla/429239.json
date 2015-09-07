@@ -2,10 +2,10 @@
  "characterID": 429239,
  "characterClassID": 1,
  "raceID": 0,
- "position": 45,
- "rankingPositionChange": 0,
- "gloryPoint": 114230,
- "gloryPointChange": 243,
+ "position": 46,
+ "rankingPositionChange": -1,
+ "gloryPoint": 114123,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Durex",
  "guildName": "G H O S T S",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 114230,
    "gloryPointChange": 243,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 46,
+   "rankingPositionChange": -1,
+   "gloryPoint": 114123,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

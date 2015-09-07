@@ -2,14 +2,14 @@
  "characterID": 159672,
  "characterClassID": 16,
  "raceID": 0,
- "position": 688,
- "rankingPositionChange": -1,
- "gloryPoint": 19970,
- "gloryPointChange": -4,
+ "position": 686,
+ "rankingPositionChange": 2,
+ "gloryPoint": 20118,
+ "gloryPointChange": 148,
  "soldierRankID": 11,
  "characterName": "Rystor",
- "guildName": "krwiozercze kapcie",
- "guildID": 12308,
+ "guildName": "P R I D E",
+ "guildID": 4908,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 19970,
    "gloryPointChange": -4,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 686,
+   "rankingPositionChange": 2,
+   "gloryPoint": 20118,
+   "gloryPointChange": 148,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "krwiozercze kapcie",
    "guildID": 12308
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "P R I D E",
+   "guildID": 4908
   }
  ]
 }

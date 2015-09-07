@@ -2,10 +2,10 @@
  "characterID": 770151,
  "characterClassID": 11,
  "raceID": 1,
- "position": 150,
- "rankingPositionChange": 2,
- "gloryPoint": 44307,
- "gloryPointChange": 376,
+ "position": 151,
+ "rankingPositionChange": -1,
+ "gloryPoint": 44888,
+ "gloryPointChange": 581,
  "soldierRankID": 13,
  "characterName": "Jennova",
  "guildName": "BandOfBrothers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 44307,
    "gloryPointChange": 376,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 151,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44888,
+   "gloryPointChange": 581,
    "soldierRankID": 13
   }
  ],

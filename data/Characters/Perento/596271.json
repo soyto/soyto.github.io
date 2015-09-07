@@ -2,9 +2,9 @@
  "characterID": 596271,
  "characterClassID": 5,
  "raceID": 0,
- "position": 584,
- "rankingPositionChange": 0,
- "gloryPoint": 15400,
+ "position": 585,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15386,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kanamii",
@@ -246,6 +246,14 @@
    "position": 584,
    "rankingPositionChange": 0,
    "gloryPoint": 15400,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 585,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15386,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

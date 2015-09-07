@@ -2,10 +2,10 @@
  "characterID": 1285463,
  "characterClassID": 2,
  "raceID": 1,
- "position": 789,
- "rankingPositionChange": 2,
- "gloryPoint": 4500,
- "gloryPointChange": 43,
+ "position": 794,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4496,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Todeslechzen",
  "guildName": "Verpeilt aber Geil",
@@ -249,6 +249,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 4500,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 794,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4496,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

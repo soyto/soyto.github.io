@@ -2,12 +2,14 @@
  "characterID": 1649139,
  "characterClassID": 16,
  "raceID": 1,
- "position": 768,
- "rankingPositionChange": 32,
- "gloryPoint": 3664,
- "gloryPointChange": 226,
- "soldierRankID": 10,
+ "position": 695,
+ "rankingPositionChange": 73,
+ "gloryPoint": 4470,
+ "gloryPointChange": 806,
+ "soldierRankID": 11,
  "characterName": "Naoy",
+ "guildName": "BandOfBrothers",
+ "guildID": 9893,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -40,6 +42,14 @@
    "gloryPoint": 3664,
    "gloryPointChange": 226,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 695,
+   "rankingPositionChange": 73,
+   "gloryPoint": 4470,
+   "gloryPointChange": 806,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -51,6 +61,11 @@
  "guilds": [
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "BandOfBrothers",
+   "guildID": 9893
   }
  ]
 }

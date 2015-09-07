@@ -2,9 +2,9 @@
  "characterID": 473625,
  "characterClassID": 10,
  "raceID": 1,
- "position": 934,
- "rankingPositionChange": 0,
- "gloryPoint": 11475,
+ "position": 940,
+ "rankingPositionChange": -6,
+ "gloryPoint": 11468,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Khanysha",
@@ -280,6 +280,14 @@
    "position": 934,
    "rankingPositionChange": 0,
    "gloryPoint": 11475,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": -6,
+   "gloryPoint": 11468,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

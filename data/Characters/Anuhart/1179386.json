@@ -2,9 +2,9 @@
  "characterID": 1179386,
  "characterClassID": 13,
  "raceID": 0,
- "position": 766,
- "rankingPositionChange": 1,
- "gloryPoint": 7195,
+ "position": 769,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7188,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Filibara",
@@ -280,6 +280,14 @@
    "position": 766,
    "rankingPositionChange": 1,
    "gloryPoint": 7195,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 769,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7188,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

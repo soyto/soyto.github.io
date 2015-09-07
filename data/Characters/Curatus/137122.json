@@ -2,9 +2,9 @@
  "characterID": 137122,
  "characterClassID": 1,
  "raceID": 0,
- "position": 128,
- "rankingPositionChange": 0,
- "gloryPoint": 110499,
+ "position": 129,
+ "rankingPositionChange": -1,
+ "gloryPoint": 110450,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ronoroa",
@@ -280,6 +280,14 @@
    "position": 128,
    "rankingPositionChange": 0,
    "gloryPoint": 110499,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 129,
+   "rankingPositionChange": -1,
+   "gloryPoint": 110450,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

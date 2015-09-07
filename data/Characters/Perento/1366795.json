@@ -2,12 +2,14 @@
  "characterID": 1366795,
  "characterClassID": 1,
  "raceID": 1,
- "position": 974,
- "rankingPositionChange": 4,
- "gloryPoint": 1623,
- "gloryPointChange": 13,
+ "position": 963,
+ "rankingPositionChange": 11,
+ "gloryPoint": 1656,
+ "gloryPointChange": 33,
  "soldierRankID": 10,
  "characterName": "Pretorianus",
+ "guildName": "Chaos Daeva",
+ "guildID": 28480,
  "status": [
   {
    "date": "2015-08-29T22:00:00.000Z",
@@ -56,6 +58,14 @@
    "gloryPoint": 1623,
    "gloryPointChange": 13,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 963,
+   "rankingPositionChange": 11,
+   "gloryPoint": 1656,
+   "gloryPointChange": 33,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -67,6 +77,11 @@
  "guilds": [
   {
    "date": "2015-08-29T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Chaos Daeva",
+   "guildID": 28480
   }
  ]
 }

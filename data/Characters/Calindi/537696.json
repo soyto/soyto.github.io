@@ -2,9 +2,9 @@
  "characterID": 537696,
  "characterClassID": 11,
  "raceID": 0,
- "position": 392,
- "rankingPositionChange": 1,
- "gloryPoint": 11381,
+ "position": 396,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11353,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Neavy",
@@ -278,6 +278,14 @@
    "position": 392,
    "rankingPositionChange": 1,
    "gloryPoint": 11381,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 396,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11353,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

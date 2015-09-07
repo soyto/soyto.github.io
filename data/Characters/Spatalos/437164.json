@@ -2,9 +2,9 @@
  "characterID": 437164,
  "characterClassID": 4,
  "raceID": 0,
- "position": 888,
- "rankingPositionChange": 0,
- "gloryPoint": 7918,
+ "position": 893,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7911,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sofoula",
@@ -280,6 +280,14 @@
    "position": 888,
    "rankingPositionChange": 0,
    "gloryPoint": 7918,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 893,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7911,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

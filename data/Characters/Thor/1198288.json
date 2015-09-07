@@ -2,10 +2,10 @@
  "characterID": 1198288,
  "characterClassID": 5,
  "raceID": 0,
- "position": 136,
- "rankingPositionChange": 0,
- "gloryPoint": 122460,
- "gloryPointChange": -49,
+ "position": 137,
+ "rankingPositionChange": -1,
+ "gloryPoint": 122535,
+ "gloryPointChange": 75,
  "soldierRankID": 13,
  "characterName": "Raudi",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 122460,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 137,
+   "rankingPositionChange": -1,
+   "gloryPoint": 122535,
+   "gloryPointChange": 75,
    "soldierRankID": 13
   }
  ],

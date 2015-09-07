@@ -2,10 +2,10 @@
  "characterID": 141886,
  "characterClassID": 2,
  "raceID": 1,
- "position": 332,
- "rankingPositionChange": 2,
- "gloryPoint": 45777,
- "gloryPointChange": 103,
+ "position": 334,
+ "rankingPositionChange": -2,
+ "gloryPoint": 45752,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Bobbie",
  "guildName": "You Touch My Tralala",
@@ -225,6 +225,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 45777,
    "gloryPointChange": 103,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 334,
+   "rankingPositionChange": -2,
+   "gloryPoint": 45752,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

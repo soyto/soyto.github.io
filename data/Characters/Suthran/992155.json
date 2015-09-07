@@ -2,9 +2,9 @@
  "characterID": 992155,
  "characterClassID": 4,
  "raceID": 0,
- "position": 78,
- "rankingPositionChange": 0,
- "gloryPoint": 133740,
+ "position": 79,
+ "rankingPositionChange": -1,
+ "gloryPoint": 133633,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Vannyr",
@@ -280,6 +280,14 @@
    "position": 78,
    "rankingPositionChange": 0,
    "gloryPoint": 133740,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 79,
+   "rankingPositionChange": -1,
+   "gloryPoint": 133633,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

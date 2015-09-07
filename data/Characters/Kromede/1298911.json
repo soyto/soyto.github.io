@@ -2,9 +2,9 @@
  "characterID": 1298911,
  "characterClassID": 4,
  "raceID": 1,
- "position": 705,
- "rankingPositionChange": 0,
- "gloryPoint": 5499,
+ "position": 711,
+ "rankingPositionChange": -6,
+ "gloryPoint": 5492,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kombatant",
@@ -278,6 +278,14 @@
    "position": 705,
    "rankingPositionChange": 0,
    "gloryPoint": 5499,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": -6,
+   "gloryPoint": 5492,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

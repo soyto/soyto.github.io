@@ -2,10 +2,10 @@
  "characterID": 286182,
  "characterClassID": 1,
  "raceID": 0,
- "position": 148,
- "rankingPositionChange": 1,
- "gloryPoint": 95597,
- "gloryPointChange": 697,
+ "position": 149,
+ "rankingPositionChange": -1,
+ "gloryPoint": 96428,
+ "gloryPointChange": 831,
  "soldierRankID": 13,
  "characterName": "Cocoto",
  "guildName": "Cocotier",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 95597,
    "gloryPointChange": 697,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 149,
+   "rankingPositionChange": -1,
+   "gloryPoint": 96428,
+   "gloryPointChange": 831,
    "soldierRankID": 13
   }
  ],

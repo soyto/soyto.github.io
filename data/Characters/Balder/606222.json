@@ -2,9 +2,9 @@
  "characterID": 606222,
  "characterClassID": 8,
  "raceID": 0,
- "position": 105,
- "rankingPositionChange": 0,
- "gloryPoint": 82592,
+ "position": 106,
+ "rankingPositionChange": -1,
+ "gloryPoint": 82543,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Santoryuu",
@@ -272,6 +272,14 @@
    "position": 105,
    "rankingPositionChange": 0,
    "gloryPoint": 82592,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 106,
+   "rankingPositionChange": -1,
+   "gloryPoint": 82543,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

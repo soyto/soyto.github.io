@@ -2,9 +2,9 @@
  "characterID": 1226611,
  "characterClassID": 16,
  "raceID": 0,
- "position": 823,
- "rankingPositionChange": 0,
- "gloryPoint": 9649,
+ "position": 824,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9642,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jaklin",
@@ -80,6 +80,14 @@
    "position": 823,
    "rankingPositionChange": 0,
    "gloryPoint": 9649,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 824,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9642,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1015610,
  "characterClassID": 11,
  "raceID": 1,
- "position": 79,
- "rankingPositionChange": 0,
- "gloryPoint": 123548,
+ "position": 80,
+ "rankingPositionChange": -1,
+ "gloryPoint": 123441,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Yrria",
@@ -272,6 +272,14 @@
    "position": 79,
    "rankingPositionChange": 0,
    "gloryPoint": 123548,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 80,
+   "rankingPositionChange": -1,
+   "gloryPoint": 123441,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

@@ -2,10 +2,10 @@
  "characterID": 193845,
  "characterClassID": 7,
  "raceID": 0,
- "position": 211,
- "rankingPositionChange": 0,
- "gloryPoint": 73235,
- "gloryPointChange": 203,
+ "position": 215,
+ "rankingPositionChange": -4,
+ "gloryPoint": 73186,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Titti",
  "guildName": " Try Again ",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 73235,
    "gloryPointChange": 203,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 215,
+   "rankingPositionChange": -4,
+   "gloryPoint": 73186,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 366986,
  "characterClassID": 1,
  "raceID": 1,
- "position": 790,
- "rankingPositionChange": 11,
- "gloryPoint": 12884,
- "gloryPointChange": 382,
+ "position": 796,
+ "rankingPositionChange": -6,
+ "gloryPoint": 12877,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rinji",
  "guildName": "Divine",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 12884,
    "gloryPointChange": 382,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 796,
+   "rankingPositionChange": -6,
+   "gloryPoint": 12877,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

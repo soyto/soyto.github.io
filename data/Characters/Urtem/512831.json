@@ -2,9 +2,9 @@
  "characterID": 512831,
  "characterClassID": 10,
  "raceID": 1,
- "position": 47,
- "rankingPositionChange": 0,
- "gloryPoint": 129446,
+ "position": 48,
+ "rankingPositionChange": -1,
+ "gloryPoint": 129339,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Volt",
@@ -280,6 +280,14 @@
    "position": 47,
    "rankingPositionChange": 0,
    "gloryPoint": 129446,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 48,
+   "rankingPositionChange": -1,
+   "gloryPoint": 129339,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

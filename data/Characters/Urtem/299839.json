@@ -2,9 +2,9 @@
  "characterID": 299839,
  "characterClassID": 7,
  "raceID": 0,
- "position": 506,
- "rankingPositionChange": 1,
- "gloryPoint": 33256,
+ "position": 516,
+ "rankingPositionChange": -10,
+ "gloryPoint": 33242,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lilith",
@@ -280,6 +280,14 @@
    "position": 506,
    "rankingPositionChange": 1,
    "gloryPoint": 33256,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 516,
+   "rankingPositionChange": -10,
+   "gloryPoint": 33242,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

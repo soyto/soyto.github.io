@@ -3,11 +3,13 @@
  "characterClassID": 2,
  "raceID": 0,
  "position": 379,
- "rankingPositionChange": 1,
- "gloryPoint": 29367,
- "gloryPointChange": -28,
+ "rankingPositionChange": 0,
+ "gloryPoint": 29342,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Linxiaoo",
+ "guildName": "G B O A",
+ "guildID": 29824,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 29367,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 379,
+   "rankingPositionChange": 0,
+   "gloryPoint": 29342,
+   "gloryPointChange": -25,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-26T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "G B O A",
+   "guildID": 29824
   }
  ]
 }

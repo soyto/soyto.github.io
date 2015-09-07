@@ -2,9 +2,9 @@
  "characterID": 100527,
  "characterClassID": 1,
  "raceID": 1,
- "position": 977,
- "rankingPositionChange": 4,
- "gloryPoint": 9797,
+ "position": 983,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9790,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gosho",
@@ -278,6 +278,14 @@
    "position": 977,
    "rankingPositionChange": 4,
    "gloryPoint": 9797,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9790,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

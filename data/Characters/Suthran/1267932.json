@@ -2,9 +2,9 @@
  "characterID": 1267932,
  "characterClassID": 1,
  "raceID": 0,
- "position": 183,
- "rankingPositionChange": 0,
- "gloryPoint": 80310,
+ "position": 184,
+ "rankingPositionChange": -1,
+ "gloryPoint": 80261,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Jylau",
@@ -280,6 +280,14 @@
    "position": 183,
    "rankingPositionChange": 0,
    "gloryPoint": 80310,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 184,
+   "rankingPositionChange": -1,
+   "gloryPoint": 80261,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

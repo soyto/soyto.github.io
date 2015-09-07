@@ -2,9 +2,9 @@
  "characterID": 1016736,
  "characterClassID": 7,
  "raceID": 0,
- "position": 546,
- "rankingPositionChange": 0,
- "gloryPoint": 21599,
+ "position": 547,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21585,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Elyyssa",
@@ -168,6 +168,14 @@
    "position": 546,
    "rankingPositionChange": 0,
    "gloryPoint": 21599,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 547,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21585,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

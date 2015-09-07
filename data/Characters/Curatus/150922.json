@@ -2,9 +2,9 @@
  "characterID": 150922,
  "characterClassID": 13,
  "raceID": 0,
- "position": 541,
- "rankingPositionChange": 0,
- "gloryPoint": 25895,
+ "position": 543,
+ "rankingPositionChange": -2,
+ "gloryPoint": 25881,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Prototype",
@@ -280,6 +280,14 @@
    "position": 541,
    "rankingPositionChange": 0,
    "gloryPoint": 25895,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 543,
+   "rankingPositionChange": -2,
+   "gloryPoint": 25881,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

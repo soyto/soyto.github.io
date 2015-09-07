@@ -2,9 +2,9 @@
  "characterID": 874976,
  "characterClassID": 1,
  "raceID": 1,
- "position": 227,
- "rankingPositionChange": 1,
- "gloryPoint": 47916,
+ "position": 229,
+ "rankingPositionChange": -2,
+ "gloryPoint": 47867,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ninasky",
@@ -280,6 +280,14 @@
    "position": 227,
    "rankingPositionChange": 1,
    "gloryPoint": 47916,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 229,
+   "rankingPositionChange": -2,
+   "gloryPoint": 47867,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

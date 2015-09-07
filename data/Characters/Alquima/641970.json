@@ -2,10 +2,10 @@
  "characterID": 641970,
  "characterClassID": 8,
  "raceID": 1,
- "position": 407,
- "rankingPositionChange": 3,
- "gloryPoint": 20768,
- "gloryPointChange": 419,
+ "position": 408,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20950,
+ "gloryPointChange": 182,
  "soldierRankID": 12,
  "characterName": "Sheiila",
  "guildName": "Consejo de Sabios",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 20768,
    "gloryPointChange": 419,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 408,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20950,
+   "gloryPointChange": 182,
    "soldierRankID": 12
   }
  ],

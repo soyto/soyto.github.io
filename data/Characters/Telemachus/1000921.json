@@ -2,11 +2,11 @@
  "characterID": 1000921,
  "characterClassID": 14,
  "raceID": 0,
- "position": 1000,
- "rankingPositionChange": -7,
+ "position": 999,
+ "rankingPositionChange": 1,
  "gloryPoint": 5170,
- "gloryPointChange": -7,
- "soldierRankID": 0,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
  "characterName": "Akiima",
  "guildName": "Empyrium Transcendence",
  "guildID": 10432,
@@ -274,6 +274,14 @@
    "gloryPoint": 5170,
    "gloryPointChange": -7,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5170,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
   }
  ],
  "names": [

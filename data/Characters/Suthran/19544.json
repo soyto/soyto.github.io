@@ -2,10 +2,10 @@
  "characterID": 19544,
  "characterClassID": 2,
  "raceID": 1,
- "position": 161,
- "rankingPositionChange": 3,
- "gloryPoint": 71420,
- "gloryPointChange": 679,
+ "position": 162,
+ "rankingPositionChange": -1,
+ "gloryPoint": 71371,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Khelen",
  "guildName": "GodBless",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 71420,
    "gloryPointChange": 679,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": -1,
+   "gloryPoint": 71371,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

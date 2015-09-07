@@ -2,10 +2,10 @@
  "characterID": 226338,
  "characterClassID": 11,
  "raceID": 1,
- "position": 548,
- "rankingPositionChange": 149,
- "gloryPoint": 1562,
- "gloryPointChange": 313,
+ "position": 552,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1548,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Epo",
  "guildName": "IS ENRAGED",
@@ -81,6 +81,14 @@
    "rankingPositionChange": 149,
    "gloryPoint": 1562,
    "gloryPointChange": 313,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 552,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1548,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

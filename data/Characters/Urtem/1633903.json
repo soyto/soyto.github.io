@@ -2,9 +2,9 @@
  "characterID": 1633903,
  "characterClassID": 1,
  "raceID": 0,
- "position": 544,
- "rankingPositionChange": 1,
- "gloryPoint": 30990,
+ "position": 553,
+ "rankingPositionChange": -9,
+ "gloryPoint": 30976,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Brokker",
@@ -280,6 +280,14 @@
    "position": 544,
    "rankingPositionChange": 1,
    "gloryPoint": 30990,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 553,
+   "rankingPositionChange": -9,
+   "gloryPoint": 30976,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

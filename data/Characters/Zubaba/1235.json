@@ -2,9 +2,9 @@
  "characterID": 1235,
  "characterClassID": 16,
  "raceID": 1,
- "position": 440,
- "rankingPositionChange": 0,
- "gloryPoint": 11679,
+ "position": 442,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11651,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Starz",
@@ -278,6 +278,14 @@
    "position": 440,
    "rankingPositionChange": 0,
    "gloryPoint": 11679,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 442,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11651,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

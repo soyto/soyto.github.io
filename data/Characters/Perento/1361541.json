@@ -2,9 +2,9 @@
  "characterID": 1361541,
  "characterClassID": 1,
  "raceID": 0,
- "position": 147,
- "rankingPositionChange": 0,
- "gloryPoint": 88550,
+ "position": 149,
+ "rankingPositionChange": -2,
+ "gloryPoint": 88501,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Zenkatsu",
@@ -182,6 +182,14 @@
    "position": 147,
    "rankingPositionChange": 0,
    "gloryPoint": 88550,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 149,
+   "rankingPositionChange": -2,
+   "gloryPoint": 88501,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

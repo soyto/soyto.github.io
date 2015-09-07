@@ -2,10 +2,10 @@
  "characterID": 274833,
  "characterClassID": 8,
  "raceID": 1,
- "position": 532,
- "rankingPositionChange": 4,
- "gloryPoint": 11290,
- "gloryPointChange": 78,
+ "position": 533,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11403,
+ "gloryPointChange": 113,
  "soldierRankID": 11,
  "characterName": "Dagor",
  "guildName": "Lords of Chaos",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 11290,
    "gloryPointChange": 78,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 533,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11403,
+   "gloryPointChange": 113,
    "soldierRankID": 11
   }
  ],

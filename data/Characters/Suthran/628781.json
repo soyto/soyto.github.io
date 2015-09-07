@@ -2,10 +2,10 @@
  "characterID": 628781,
  "characterClassID": 4,
  "raceID": 1,
- "position": 92,
- "rankingPositionChange": 1,
- "gloryPoint": 108015,
- "gloryPointChange": -107,
+ "position": 93,
+ "rankingPositionChange": -1,
+ "gloryPoint": 107936,
+ "gloryPointChange": -79,
  "soldierRankID": 14,
  "characterName": "Adaam",
  "guildName": "Fallen",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 108015,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": -1,
+   "gloryPoint": 107936,
+   "gloryPointChange": -79,
    "soldierRankID": 14
   }
  ],

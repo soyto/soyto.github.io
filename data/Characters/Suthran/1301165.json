@@ -2,9 +2,9 @@
  "characterID": 1301165,
  "characterClassID": 16,
  "raceID": 0,
- "position": 854,
- "rankingPositionChange": -1,
- "gloryPoint": 13430,
+ "position": 853,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13423,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nawin",
@@ -280,6 +280,14 @@
    "position": 854,
    "rankingPositionChange": -1,
    "gloryPoint": 13430,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 853,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13423,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

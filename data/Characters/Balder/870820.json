@@ -2,9 +2,9 @@
  "characterID": 870820,
  "characterClassID": 14,
  "raceID": 0,
- "position": 247,
- "rankingPositionChange": 1,
- "gloryPoint": 29652,
+ "position": 248,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29603,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Badstevi",
@@ -280,6 +280,14 @@
    "position": 247,
    "rankingPositionChange": 1,
    "gloryPoint": 29652,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 248,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29603,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

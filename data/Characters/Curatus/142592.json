@@ -2,9 +2,9 @@
  "characterID": 142592,
  "characterClassID": 4,
  "raceID": 1,
- "position": 141,
- "rankingPositionChange": 0,
- "gloryPoint": 55063,
+ "position": 142,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55014,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Domina",
@@ -280,6 +280,14 @@
    "position": 141,
    "rankingPositionChange": 0,
    "gloryPoint": 55063,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 142,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55014,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

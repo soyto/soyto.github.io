@@ -2,9 +2,9 @@
  "characterID": 485115,
  "characterClassID": 10,
  "raceID": 1,
- "position": 795,
- "rankingPositionChange": 6,
- "gloryPoint": 14671,
+ "position": 800,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14664,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Iatai",
@@ -278,6 +278,14 @@
    "position": 795,
    "rankingPositionChange": 6,
    "gloryPoint": 14671,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14664,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

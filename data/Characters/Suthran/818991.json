@@ -2,9 +2,9 @@
  "characterID": 818991,
  "characterClassID": 10,
  "raceID": 0,
- "position": 159,
- "rankingPositionChange": 0,
- "gloryPoint": 88056,
+ "position": 160,
+ "rankingPositionChange": -1,
+ "gloryPoint": 88007,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dyosis",
@@ -280,6 +280,14 @@
    "position": 159,
    "rankingPositionChange": 0,
    "gloryPoint": 88056,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 160,
+   "rankingPositionChange": -1,
+   "gloryPoint": 88007,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

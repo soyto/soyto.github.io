@@ -2,10 +2,10 @@
  "characterID": 354559,
  "characterClassID": 11,
  "raceID": 1,
- "position": 98,
- "rankingPositionChange": 0,
- "gloryPoint": 117309,
- "gloryPointChange": -107,
+ "position": 100,
+ "rankingPositionChange": -2,
+ "gloryPoint": 117222,
+ "gloryPointChange": -87,
  "soldierRankID": 14,
  "characterName": "Issue",
  "guildName": "MyWay",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 117309,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 100,
+   "rankingPositionChange": -2,
+   "gloryPoint": 117222,
+   "gloryPointChange": -87,
    "soldierRankID": 14
   }
  ],

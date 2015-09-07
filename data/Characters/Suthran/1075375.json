@@ -2,10 +2,10 @@
  "characterID": 1075375,
  "characterClassID": 14,
  "raceID": 1,
- "position": 213,
- "rankingPositionChange": 1,
- "gloryPoint": 52960,
- "gloryPointChange": 66,
+ "position": 215,
+ "rankingPositionChange": -2,
+ "gloryPoint": 52911,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Canalou",
  "guildName": "SchizoFriends",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 52960,
    "gloryPointChange": 66,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 215,
+   "rankingPositionChange": -2,
+   "gloryPoint": 52911,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

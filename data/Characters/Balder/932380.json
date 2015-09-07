@@ -2,14 +2,12 @@
  "characterID": 932380,
  "characterClassID": 14,
  "raceID": 0,
- "position": 330,
+ "position": 329,
  "rankingPositionChange": 1,
- "gloryPoint": 17974,
+ "gloryPoint": 17946,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Caene",
- "guildName": "H O L Y S H I T",
- "guildID": 22151,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -258,6 +256,14 @@
    "gloryPoint": 17974,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 329,
+   "rankingPositionChange": 1,
+   "gloryPoint": 17946,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -271,6 +277,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "H O L Y S H I T",
    "guildID": 22151
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

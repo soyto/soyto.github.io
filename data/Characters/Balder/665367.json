@@ -2,10 +2,10 @@
  "characterID": 665367,
  "characterClassID": 7,
  "raceID": 0,
- "position": 298,
- "rankingPositionChange": 2,
- "gloryPoint": 20720,
- "gloryPointChange": 36,
+ "position": 299,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20671,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tolli",
  "guildName": "Finalheaven",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 20720,
    "gloryPointChange": 36,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20671,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1110981,
  "characterClassID": 4,
  "raceID": 0,
- "position": 513,
- "rankingPositionChange": 2,
- "gloryPoint": 32360,
+ "position": 523,
+ "rankingPositionChange": -10,
+ "gloryPoint": 32346,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Arryiah",
@@ -62,6 +62,14 @@
    "position": 513,
    "rankingPositionChange": 2,
    "gloryPoint": 32360,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": -10,
+   "gloryPoint": 32346,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

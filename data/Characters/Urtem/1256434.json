@@ -2,10 +2,10 @@
  "characterID": 1256434,
  "characterClassID": 14,
  "raceID": 0,
- "position": 173,
- "rankingPositionChange": 1,
- "gloryPoint": 80864,
- "gloryPointChange": 444,
+ "position": 175,
+ "rankingPositionChange": -2,
+ "gloryPoint": 80815,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nikosos",
  "guildName": "The VIII Compagny",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 80864,
    "gloryPointChange": 444,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 175,
+   "rankingPositionChange": -2,
+   "gloryPoint": 80815,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

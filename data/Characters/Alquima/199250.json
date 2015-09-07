@@ -2,10 +2,10 @@
  "characterID": 199250,
  "characterClassID": 4,
  "raceID": 1,
- "position": 795,
- "rankingPositionChange": 2,
- "gloryPoint": 8756,
- "gloryPointChange": 93,
+ "position": 797,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8749,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kahleb",
  "guildName": "Destinados",
@@ -153,6 +153,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 8756,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 797,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8749,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

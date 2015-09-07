@@ -2,9 +2,9 @@
  "characterID": 265703,
  "characterClassID": 7,
  "raceID": 0,
- "position": 976,
- "rankingPositionChange": 1,
- "gloryPoint": 4263,
+ "position": 981,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4256,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Grievance",
@@ -40,6 +40,14 @@
    "position": 976,
    "rankingPositionChange": 1,
    "gloryPoint": 4263,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4256,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

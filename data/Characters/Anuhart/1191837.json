@@ -2,9 +2,9 @@
  "characterID": 1191837,
  "characterClassID": 14,
  "raceID": 0,
- "position": 635,
- "rankingPositionChange": 0,
- "gloryPoint": 9857,
+ "position": 638,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9843,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Stiigma",
@@ -238,6 +238,14 @@
    "position": 635,
    "rankingPositionChange": 0,
    "gloryPoint": 9857,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 638,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9843,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

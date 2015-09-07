@@ -2,12 +2,14 @@
  "characterID": 428964,
  "characterClassID": 10,
  "raceID": 0,
- "position": 54,
- "rankingPositionChange": 0,
- "gloryPoint": 134436,
- "gloryPointChange": 193,
+ "position": 53,
+ "rankingPositionChange": 1,
+ "gloryPoint": 135079,
+ "gloryPointChange": 643,
  "soldierRankID": 14,
  "characterName": "Yummiko",
+ "guildName": "Fantasy",
+ "guildID": 1006,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 134436,
    "gloryPointChange": 193,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 53,
+   "rankingPositionChange": 1,
+   "gloryPoint": 135079,
+   "gloryPointChange": 643,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Fantasy",
+   "guildID": 1006
   }
  ]
 }

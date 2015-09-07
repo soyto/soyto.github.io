@@ -2,9 +2,9 @@
  "characterID": 278785,
  "characterClassID": 8,
  "raceID": 1,
- "position": 848,
- "rankingPositionChange": 0,
- "gloryPoint": 4497,
+ "position": 852,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4490,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kant",
@@ -80,6 +80,14 @@
    "position": 848,
    "rankingPositionChange": 0,
    "gloryPoint": 4497,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4490,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

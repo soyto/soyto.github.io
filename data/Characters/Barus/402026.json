@@ -2,10 +2,10 @@
  "characterID": 402026,
  "characterClassID": 13,
  "raceID": 0,
- "position": 131,
- "rankingPositionChange": 1,
- "gloryPoint": 82542,
- "gloryPointChange": 659,
+ "position": 132,
+ "rankingPositionChange": -1,
+ "gloryPoint": 82959,
+ "gloryPointChange": 417,
  "soldierRankID": 13,
  "characterName": "Ladybug",
  "guildName": "Never Alone",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 82542,
    "gloryPointChange": 659,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -1,
+   "gloryPoint": 82959,
+   "gloryPointChange": 417,
    "soldierRankID": 13
   }
  ],

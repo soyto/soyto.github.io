@@ -2,9 +2,9 @@
  "characterID": 708523,
  "characterClassID": 1,
  "raceID": 0,
- "position": 307,
- "rankingPositionChange": -1,
- "gloryPoint": 48094,
+ "position": 306,
+ "rankingPositionChange": 1,
+ "gloryPoint": 48066,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hyvin",
@@ -232,6 +232,14 @@
    "position": 307,
    "rankingPositionChange": -1,
    "gloryPoint": 48094,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 306,
+   "rankingPositionChange": 1,
+   "gloryPoint": 48066,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

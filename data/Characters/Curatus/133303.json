@@ -2,9 +2,9 @@
  "characterID": 133303,
  "characterClassID": 1,
  "raceID": 0,
- "position": 617,
- "rankingPositionChange": 1,
- "gloryPoint": 21159,
+ "position": 621,
+ "rankingPositionChange": -4,
+ "gloryPoint": 21145,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hearton",
@@ -240,6 +240,14 @@
    "position": 617,
    "rankingPositionChange": 1,
    "gloryPoint": 21159,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": -4,
+   "gloryPoint": 21145,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

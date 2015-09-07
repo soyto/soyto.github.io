@@ -2,9 +2,9 @@
  "characterID": 1011896,
  "characterClassID": 14,
  "raceID": 0,
- "position": 865,
- "rankingPositionChange": -1,
- "gloryPoint": 8029,
+ "position": 864,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8022,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kaleda",
@@ -272,6 +272,14 @@
    "position": 865,
    "rankingPositionChange": -1,
    "gloryPoint": 8029,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 864,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8022,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

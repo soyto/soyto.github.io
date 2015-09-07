@@ -2,10 +2,10 @@
  "characterID": 1239266,
  "characterClassID": 16,
  "raceID": 0,
- "position": 512,
- "rankingPositionChange": 0,
- "gloryPoint": 35573,
- "gloryPointChange": 6,
+ "position": 517,
+ "rankingPositionChange": -5,
+ "gloryPoint": 35559,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Battlehymns",
  "guildName": "Die Nibelungen",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35573,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": -5,
+   "gloryPoint": 35559,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

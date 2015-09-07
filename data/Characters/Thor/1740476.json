@@ -2,10 +2,10 @@
  "characterID": 1740476,
  "characterClassID": 4,
  "raceID": 0,
- "position": 958,
- "rankingPositionChange": 6,
- "gloryPoint": 14360,
- "gloryPointChange": 96,
+ "position": 969,
+ "rankingPositionChange": -11,
+ "gloryPoint": 14353,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kitaoji",
  "status": [
@@ -71,6 +71,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 14360,
    "gloryPointChange": 96,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": -11,
+   "gloryPoint": 14353,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

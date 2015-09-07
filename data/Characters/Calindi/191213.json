@@ -2,9 +2,9 @@
  "characterID": 191213,
  "characterClassID": 4,
  "raceID": 0,
- "position": 287,
- "rankingPositionChange": 0,
- "gloryPoint": 20818,
+ "position": 289,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20769,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dewitz",
@@ -144,6 +144,14 @@
    "position": 287,
    "rankingPositionChange": 0,
    "gloryPoint": 20818,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 289,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20769,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

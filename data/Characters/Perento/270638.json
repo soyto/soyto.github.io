@@ -2,10 +2,10 @@
  "characterID": 270638,
  "characterClassID": 10,
  "raceID": 0,
- "position": 369,
- "rankingPositionChange": 0,
- "gloryPoint": 31651,
- "gloryPointChange": 72,
+ "position": 368,
+ "rankingPositionChange": 1,
+ "gloryPoint": 31623,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ulan",
  "guildName": "TheTakeOver",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 31651,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 368,
+   "rankingPositionChange": 1,
+   "gloryPoint": 31623,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

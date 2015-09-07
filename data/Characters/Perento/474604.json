@@ -2,9 +2,9 @@
  "characterID": 474604,
  "characterClassID": 7,
  "raceID": 1,
- "position": 64,
- "rankingPositionChange": 0,
- "gloryPoint": 138127,
+ "position": 65,
+ "rankingPositionChange": -1,
+ "gloryPoint": 138020,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Xanti",
@@ -272,6 +272,14 @@
    "position": 64,
    "rankingPositionChange": 0,
    "gloryPoint": 138127,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": -1,
+   "gloryPoint": 138020,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

@@ -2,9 +2,9 @@
  "characterID": 144967,
  "characterClassID": 1,
  "raceID": 0,
- "position": 643,
- "rankingPositionChange": -1,
- "gloryPoint": 16342,
+ "position": 642,
+ "rankingPositionChange": 1,
+ "gloryPoint": 16328,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Elatrele",
@@ -280,6 +280,14 @@
    "position": 643,
    "rankingPositionChange": -1,
    "gloryPoint": 16342,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 642,
+   "rankingPositionChange": 1,
+   "gloryPoint": 16328,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

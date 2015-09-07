@@ -2,10 +2,10 @@
  "characterID": 1277684,
  "characterClassID": 13,
  "raceID": 1,
- "position": 421,
- "rankingPositionChange": -1,
- "gloryPoint": 11427,
- "gloryPointChange": -28,
+ "position": 420,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11609,
+ "gloryPointChange": 182,
  "soldierRankID": 12,
  "characterName": "Robobobo",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 11427,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 420,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11609,
+   "gloryPointChange": 182,
    "soldierRankID": 12
   }
  ],

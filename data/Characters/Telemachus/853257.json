@@ -2,9 +2,9 @@
  "characterID": 853257,
  "characterClassID": 4,
  "raceID": 1,
- "position": 332,
- "rankingPositionChange": -1,
- "gloryPoint": 10288,
+ "position": 331,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10260,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Bananaz",
@@ -280,6 +280,14 @@
    "position": 332,
    "rankingPositionChange": -1,
    "gloryPoint": 10288,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 331,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10260,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

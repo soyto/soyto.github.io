@@ -2,10 +2,10 @@
  "characterID": 238994,
  "characterClassID": 11,
  "raceID": 0,
- "position": 639,
- "rankingPositionChange": 1,
- "gloryPoint": 20432,
- "gloryPointChange": 6,
+ "position": 640,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20528,
+ "gloryPointChange": 96,
  "soldierRankID": 11,
  "characterName": "Jinsei",
  "guildName": " Enigma ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20432,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 640,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20528,
+   "gloryPointChange": 96,
    "soldierRankID": 11
   }
  ],

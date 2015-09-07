@@ -2,9 +2,9 @@
  "characterID": 1079539,
  "characterClassID": 10,
  "raceID": 0,
- "position": 586,
- "rankingPositionChange": -1,
- "gloryPoint": 19468,
+ "position": 585,
+ "rankingPositionChange": 1,
+ "gloryPoint": 19454,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Xyrea",
@@ -272,6 +272,14 @@
    "position": 586,
    "rankingPositionChange": -1,
    "gloryPoint": 19468,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 585,
+   "rankingPositionChange": 1,
+   "gloryPoint": 19454,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

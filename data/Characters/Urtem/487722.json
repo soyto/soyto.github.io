@@ -2,9 +2,9 @@
  "characterID": 487722,
  "characterClassID": 11,
  "raceID": 0,
- "position": 535,
- "rankingPositionChange": 1,
- "gloryPoint": 31439,
+ "position": 541,
+ "rankingPositionChange": -6,
+ "gloryPoint": 31425,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Miiiyoh",
@@ -280,6 +280,14 @@
    "position": 535,
    "rankingPositionChange": 1,
    "gloryPoint": 31439,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 541,
+   "rankingPositionChange": -6,
+   "gloryPoint": 31425,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

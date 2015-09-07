@@ -2,9 +2,9 @@
  "characterID": 927438,
  "characterClassID": 10,
  "raceID": 0,
- "position": 681,
- "rankingPositionChange": 0,
- "gloryPoint": 3658,
+ "position": 682,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3644,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Doraa",
@@ -280,6 +280,14 @@
    "position": 681,
    "rankingPositionChange": 0,
    "gloryPoint": 3658,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 682,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3644,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

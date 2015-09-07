@@ -2,10 +2,10 @@
  "characterID": 430826,
  "characterClassID": 7,
  "raceID": 1,
- "position": 162,
- "rankingPositionChange": 0,
- "gloryPoint": 41210,
- "gloryPointChange": 1,
+ "position": 164,
+ "rankingPositionChange": -2,
+ "gloryPoint": 41261,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Ashtart",
  "guildName": "Space jellies of destruction",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 41210,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 164,
+   "rankingPositionChange": -2,
+   "gloryPoint": 41261,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

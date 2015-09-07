@@ -2,9 +2,9 @@
  "characterID": 483797,
  "characterClassID": 7,
  "raceID": 1,
- "position": 237,
- "rankingPositionChange": 1,
- "gloryPoint": 45679,
+ "position": 238,
+ "rankingPositionChange": -1,
+ "gloryPoint": 45630,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hakufu",
@@ -280,6 +280,14 @@
    "position": 237,
    "rankingPositionChange": 1,
    "gloryPoint": 45679,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 238,
+   "rankingPositionChange": -1,
+   "gloryPoint": 45630,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

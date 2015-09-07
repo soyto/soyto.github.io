@@ -2,10 +2,10 @@
  "characterID": 52180,
  "characterClassID": 2,
  "raceID": 1,
- "position": 236,
- "rankingPositionChange": -2,
- "gloryPoint": 71335,
- "gloryPointChange": 101,
+ "position": 235,
+ "rankingPositionChange": 1,
+ "gloryPoint": 71896,
+ "gloryPointChange": 561,
  "soldierRankID": 13,
  "characterName": "Paluard",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 71335,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 235,
+   "rankingPositionChange": 1,
+   "gloryPoint": 71896,
+   "gloryPointChange": 561,
    "soldierRankID": 13
   }
  ],

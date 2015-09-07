@@ -2,9 +2,9 @@
  "characterID": 1358680,
  "characterClassID": 14,
  "raceID": 0,
- "position": 407,
- "rankingPositionChange": 0,
- "gloryPoint": 41163,
+ "position": 413,
+ "rankingPositionChange": -6,
+ "gloryPoint": 41135,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hametsu",
@@ -278,6 +278,14 @@
    "position": 407,
    "rankingPositionChange": 0,
    "gloryPoint": 41163,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 413,
+   "rankingPositionChange": -6,
+   "gloryPoint": 41135,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

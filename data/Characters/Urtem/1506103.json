@@ -2,9 +2,9 @@
  "characterID": 1506103,
  "characterClassID": 1,
  "raceID": 0,
- "position": 217,
- "rankingPositionChange": 0,
- "gloryPoint": 71798,
+ "position": 222,
+ "rankingPositionChange": -5,
+ "gloryPoint": 71749,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shaanoo",
@@ -264,6 +264,14 @@
    "position": 217,
    "rankingPositionChange": 0,
    "gloryPoint": 71798,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -5,
+   "gloryPoint": 71749,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

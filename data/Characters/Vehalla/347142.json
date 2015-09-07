@@ -2,9 +2,9 @@
  "characterID": 347142,
  "characterClassID": 2,
  "raceID": 0,
- "position": 289,
- "rankingPositionChange": -1,
- "gloryPoint": 12026,
+ "position": 288,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11977,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Squat",
@@ -256,6 +256,14 @@
    "position": 289,
    "rankingPositionChange": -1,
    "gloryPoint": 12026,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 288,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11977,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

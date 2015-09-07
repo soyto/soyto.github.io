@@ -2,14 +2,12 @@
  "characterID": 262867,
  "characterClassID": 10,
  "raceID": 1,
- "position": 194,
- "rankingPositionChange": 0,
- "gloryPoint": 84231,
- "gloryPointChange": 725,
+ "position": 195,
+ "rankingPositionChange": -1,
+ "gloryPoint": 84588,
+ "gloryPointChange": 357,
  "soldierRankID": 13,
  "characterName": "Rosebloodied",
- "guildName": "Symphony",
- "guildID": 8881,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 84231,
    "gloryPointChange": 725,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": -1,
+   "gloryPoint": 84588,
+   "gloryPointChange": 357,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Symphony",
    "guildID": 8881
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

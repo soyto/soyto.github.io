@@ -2,9 +2,9 @@
  "characterID": 49959,
  "characterClassID": 16,
  "raceID": 1,
- "position": 341,
- "rankingPositionChange": -2,
- "gloryPoint": 20661,
+ "position": 340,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20633,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Luwin",
@@ -280,6 +280,14 @@
    "position": 341,
    "rankingPositionChange": -2,
    "gloryPoint": 20661,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 340,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20633,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

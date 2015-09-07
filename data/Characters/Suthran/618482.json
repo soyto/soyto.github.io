@@ -2,9 +2,9 @@
  "characterID": 618482,
  "characterClassID": 10,
  "raceID": 1,
- "position": 333,
- "rankingPositionChange": 0,
- "gloryPoint": 28900,
+ "position": 336,
+ "rankingPositionChange": -3,
+ "gloryPoint": 28872,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Takuno",
@@ -248,6 +248,14 @@
    "position": 333,
    "rankingPositionChange": 0,
    "gloryPoint": 28900,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 336,
+   "rankingPositionChange": -3,
+   "gloryPoint": 28872,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

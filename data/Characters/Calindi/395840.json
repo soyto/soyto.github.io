@@ -2,9 +2,9 @@
  "characterID": 395840,
  "characterClassID": 14,
  "raceID": 0,
- "position": 173,
- "rankingPositionChange": 1,
- "gloryPoint": 46030,
+ "position": 176,
+ "rankingPositionChange": -3,
+ "gloryPoint": 45981,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Zeokion",
@@ -280,6 +280,14 @@
    "position": 173,
    "rankingPositionChange": 1,
    "gloryPoint": 46030,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 176,
+   "rankingPositionChange": -3,
+   "gloryPoint": 45981,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 457950,
  "characterClassID": 2,
  "raceID": 0,
- "position": 886,
- "rankingPositionChange": 5,
- "gloryPoint": 5277,
+ "position": 888,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5370,
  "gloryPointChange": 93,
  "soldierRankID": 10,
  "characterName": "Batmax",
@@ -40,6 +40,14 @@
    "position": 886,
    "rankingPositionChange": 5,
    "gloryPoint": 5277,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 888,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5370,
    "gloryPointChange": 93,
    "soldierRankID": 10
   }

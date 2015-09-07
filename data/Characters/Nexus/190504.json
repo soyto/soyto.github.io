@@ -2,9 +2,9 @@
  "characterID": 190504,
  "characterClassID": 1,
  "raceID": 1,
- "position": 96,
- "rankingPositionChange": 0,
- "gloryPoint": 126552,
+ "position": 97,
+ "rankingPositionChange": -1,
+ "gloryPoint": 126445,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Booger",
@@ -176,6 +176,14 @@
    "position": 96,
    "rankingPositionChange": 0,
    "gloryPoint": 126552,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 97,
+   "rankingPositionChange": -1,
+   "gloryPoint": 126445,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

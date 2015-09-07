@@ -2,9 +2,9 @@
  "characterID": 1167923,
  "characterClassID": 2,
  "raceID": 0,
- "position": 893,
- "rankingPositionChange": 0,
- "gloryPoint": 16727,
+ "position": 900,
+ "rankingPositionChange": -7,
+ "gloryPoint": 16720,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Plattini",
@@ -280,6 +280,14 @@
    "position": 893,
    "rankingPositionChange": 0,
    "gloryPoint": 16727,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 900,
+   "rankingPositionChange": -7,
+   "gloryPoint": 16720,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

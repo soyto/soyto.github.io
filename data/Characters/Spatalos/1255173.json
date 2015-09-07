@@ -2,9 +2,9 @@
  "characterID": 1255173,
  "characterClassID": 2,
  "raceID": 0,
- "position": 954,
- "rankingPositionChange": 0,
- "gloryPoint": 6360,
+ "position": 959,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6353,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Thadarel",
@@ -104,6 +104,14 @@
    "position": 954,
    "rankingPositionChange": 0,
    "gloryPoint": 6360,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6353,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

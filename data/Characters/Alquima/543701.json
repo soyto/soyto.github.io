@@ -2,10 +2,10 @@
  "characterID": 543701,
  "characterClassID": 8,
  "raceID": 1,
- "position": 153,
- "rankingPositionChange": 1,
- "gloryPoint": 56045,
- "gloryPointChange": 345,
+ "position": 154,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55996,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aselefer",
  "guildName": "Aogiri",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 56045,
    "gloryPointChange": 345,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 154,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55996,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

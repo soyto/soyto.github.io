@@ -2,10 +2,10 @@
  "characterID": 867711,
  "characterClassID": 10,
  "raceID": 1,
- "position": 938,
- "rankingPositionChange": -6,
- "gloryPoint": 8606,
- "gloryPointChange": -7,
+ "position": 937,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8805,
+ "gloryPointChange": 199,
  "soldierRankID": 10,
  "characterName": "Loneryn",
  "guildName": "Pannon Reborn",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 8606,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 937,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8805,
+   "gloryPointChange": 199,
    "soldierRankID": 10
   }
  ],
