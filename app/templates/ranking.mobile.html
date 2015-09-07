@@ -74,6 +74,7 @@
                     <th>Glory points</th>
                     <th>Rank</th>
                     <th>Ranking change</th>
+                    <th>HP change</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -86,12 +87,22 @@
                     <td>{{ character.soldierRank.name }}</td>
                     <td>
                         <i class="fa" ng-class="{
-                  'fa-arrow-up': character.arrowStatus=='UP',
-                  'text-success': character.arrowStatus=='UP',
-                  'fa-arrow-down': character.arrowStatus=='DOWN',
-                  'text-danger': character.arrowStatus=='DOWN',
-                  }"></i>
+                        'fa-arrow-up': character.arrowStatus=='UP',
+                        'text-success': character.arrowStatus=='UP',
+                        'fa-arrow-down': character.arrowStatus=='DOWN',
+                        'text-danger': character.arrowStatus=='DOWN',
+                        }"></i>
                         {{ character.rankingPositionChange }}
+                    </td>
+                    <td>
+
+                      <i class="fa" ng-class="{
+                        'fa-arrow-up': character.gloryPointChange > 0,
+                        'text-success': character.gloryPointChange > 0,
+                        'fa-arrow-down': character.gloryPointChange < 0,
+                        'text-danger': character.gloryPointChange < 0,
+                        }"></i>
+                        {{ character.gloryPointChange || '--' }}
                     </td>
                 </tr>
                 </tbody>
@@ -128,6 +139,7 @@
                     <th>Glory points</th>
                     <th>Rank</th>
                     <th>Ranking change</th>
+                    <th>HP change</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -140,12 +152,21 @@
                     <td>{{ character.soldierRank.name }}</td>
                     <td>
                         <i class="fa" ng-class="{
-                  'fa-arrow-up': character.arrowStatus=='UP',
-                  'text-success': character.arrowStatus=='UP',
-                  'fa-arrow-down': character.arrowStatus=='DOWN',
-                  'text-danger': character.arrowStatus=='DOWN',
-                  }"></i>
+                        'fa-arrow-up': character.arrowStatus=='UP',
+                        'text-success': character.arrowStatus=='UP',
+                        'fa-arrow-down': character.arrowStatus=='DOWN',
+                        'text-danger': character.arrowStatus=='DOWN',
+                        }"></i>
                         {{ character.rankingPositionChange }}
+                    </td>
+                    <td>
+                      <i class="fa" ng-class="{
+                        'fa-arrow-up': character.gloryPointChange > 0,
+                        'text-success': character.gloryPointChange > 0,
+                        'fa-arrow-down': character.gloryPointChange < 0,
+                        'text-danger': character.gloryPointChange < 0,
+                        }"></i>
+                        {{ character.gloryPointChange || '--'}}
                     </td>
                 </tr>
                 </tbody>
