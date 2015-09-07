@@ -203,7 +203,7 @@
         if(!txt) {
           meetsTxt = true;
         }
-        else if(character) {
+        else if(character && character.characterName) {
 
           var charName = character.characterName ? character.characterName.toLowerCase() : '';
           var guildName = character.guildName ? character.guildName.toLowerCase() : '';
