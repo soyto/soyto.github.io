@@ -491,15 +491,19 @@
         }
         else if(character && character.characterName) {
 
+          var searchTxt = textToSearch.toLowerCase();
+
           var charName = character.characterName ? character.characterName.toLowerCase() : '';
           var guildName = character.guildName ? character.guildName.toLowerCase() : '';
           var characterClassName = storedDataService.getCharacterClass(character.characterClassID).name.toLowerCase();
           var characterRankName = storedDataService.getCharacterRank(character.soldierRankID).name.toLowerCase();
+          var serverName = character.serverName ? character.serverName.toLowerCase() : '';
 
-          meetsTxt = charName.indexOf(textToSearch) >= 0 ||
-            guildName.indexOf(textToSearch) >= 0 ||
-            characterClassName.indexOf(textToSearch) >= 0 ||
-            characterRankName.indexOf(textToSearch) >= 0;
+          meetsTxt = charName.indexOf(searchTxt) >= 0 ||
+            guildName.indexOf(searchTxt) >= 0 ||
+            characterClassName.indexOf(searchTxt) >= 0 ||
+            characterRankName.indexOf(searchTxt) >= 0 ||
+            serverName.indexOf(searchTxt) >= 0;
         }
 
         if(!classToFilter) {
@@ -808,15 +812,19 @@
         }
         else if(character && character.characterName) {
 
+          var searchTxt = textToSearch.toLowerCase();
+
           var charName = character.characterName ? character.characterName.toLowerCase() : '';
           var guildName = character.guildName ? character.guildName.toLowerCase() : '';
           var characterClassName = storedDataService.getCharacterClass(character.characterClassID).name.toLowerCase();
           var characterRankName = storedDataService.getCharacterRank(character.soldierRankID).name.toLowerCase();
+          var serverName = character.serverName ? character.serverName.toLowerCase() : '';
 
-          meetsTxt = charName.indexOf(textToSearch) >= 0 ||
-            guildName.indexOf(textToSearch) >= 0 ||
-            characterClassName.indexOf(textToSearch) >= 0 ||
-            characterRankName.indexOf(textToSearch) >= 0;
+          meetsTxt = charName.indexOf(searchTxt) >= 0 ||
+            guildName.indexOf(searchTxt) >= 0 ||
+            characterClassName.indexOf(searchTxt) >= 0 ||
+            characterRankName.indexOf(searchTxt) >= 0 ||
+            serverName.indexOf(searchTxt) >= 0;
         }
 
         if(!classToFilter) {
@@ -981,15 +989,17 @@
         }
         else if(character && character.characterName) {
 
+          var searchTxt = txt.toLowerCase();
+
           var charName = character.characterName ? character.characterName.toLowerCase() : '';
           var guildName = character.guildName ? character.guildName.toLowerCase() : '';
           var characterClassName = storedDataService.getCharacterClass(character.characterClassID).name.toLowerCase();
           var characterRankName = storedDataService.getCharacterRank(character.soldierRankID).name.toLowerCase();
 
-          meetsTxt = charName.indexOf(textToSearch) >= 0 ||
-            guildName.indexOf(textToSearch) >= 0 ||
-            characterClassName.indexOf(textToSearch) >= 0 ||
-            characterRankName.indexOf(textToSearch) >= 0;
+          meetsTxt = charName.indexOf(searchTxt) >= 0 ||
+            guildName.indexOf(searchTxt) >= 0 ||
+            characterClassName.indexOf(searchTxt) >= 0 ||
+            characterRankName.indexOf(searchTxt) >= 0;
         }
 
         if(!classToFilter) {
@@ -1283,15 +1293,17 @@
         }
         else if(character && character.characterName) {
 
+          var searchTxt = textToSearch.toLowerCase();
+
           var charName = character.characterName ? character.characterName.toLowerCase() : '';
           var guildName = character.guildName ? character.guildName.toLowerCase() : '';
           var characterClassName = storedDataService.getCharacterClass(character.characterClassID).name.toLowerCase();
           var characterRankName = storedDataService.getCharacterRank(character.soldierRankID).name.toLowerCase();
 
-          meetsTxt = charName.indexOf(textToSearch) >= 0 ||
-            guildName.indexOf(textToSearch) >= 0 ||
-            characterClassName.indexOf(textToSearch) >= 0 ||
-            characterRankName.indexOf(textToSearch) >= 0;
+          meetsTxt = charName.indexOf(searchTxt) >= 0 ||
+            guildName.indexOf(searchTxt) >= 0 ||
+            characterClassName.indexOf(searchTxt) >= 0 ||
+            characterRankName.indexOf(searchTxt) >= 0;
         }
 
         if(!classToFilter) {
