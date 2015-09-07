@@ -4,7 +4,7 @@
   <li><a ng-href="#/ranking/{{serverData.serverName}}/{{serverData.date}}">{{serverData.date}}</a></li>
 </ol>
 
-<div class="row" ng-ig="serverData.data.stats">
+<div class="row" ng-if="serverData.data.stats">
 
   <div class="col-md-4">
 
