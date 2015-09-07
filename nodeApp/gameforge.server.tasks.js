@@ -93,7 +93,7 @@ module.exports = function(grunt) {
         $log.debug('Removing characterInfo files');
         //Remove all characterInfo files
         grunt.file.expand(serverCharactersFolder + '*').forEach(function(file){
-          //grunt.file.delete(file);
+          grunt.file.delete(file);
         });
 
         //Store characterInfos
@@ -337,9 +337,9 @@ module.exports = function(grunt) {
         var storedCharacters = gameForgeServer.generateCharacterInfo(serverPreviousDates);
 
       //Remove all characterInfo files
-      //grunt.file.expand(serverCharactersFolder + '*').forEach(function(file){
-        //grunt.file.delete(file);
-      //});
+      grunt.file.expand(serverCharactersFolder + '*').forEach(function(file){
+        grunt.file.delete(file);
+      });
 
       //Store characterInfos
       storedCharacters.forEach(function(character){
