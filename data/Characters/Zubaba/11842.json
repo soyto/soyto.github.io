@@ -2,9 +2,9 @@
  "characterID": 11842,
  "characterClassID": 10,
  "raceID": 0,
- "position": 157,
- "rankingPositionChange": 0,
- "gloryPoint": 75027,
+ "position": 158,
+ "rankingPositionChange": -1,
+ "gloryPoint": 74978,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Saruman",
@@ -280,6 +280,14 @@
    "position": 157,
    "rankingPositionChange": 0,
    "gloryPoint": 75027,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 158,
+   "rankingPositionChange": -1,
+   "gloryPoint": 74978,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 168264,
  "characterClassID": 10,
  "raceID": 0,
- "position": 993,
- "rankingPositionChange": -1,
- "gloryPoint": 10193,
+ "position": 992,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10186,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zanfroska",
@@ -280,6 +280,14 @@
    "position": 993,
    "rankingPositionChange": -1,
    "gloryPoint": 10193,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 992,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10186,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

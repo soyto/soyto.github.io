@@ -2,9 +2,9 @@
  "characterID": 142683,
  "characterClassID": 10,
  "raceID": 0,
- "position": 634,
- "rankingPositionChange": 0,
- "gloryPoint": 9875,
+ "position": 637,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9861,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hamied",
@@ -280,6 +280,14 @@
    "position": 634,
    "rankingPositionChange": 0,
    "gloryPoint": 9875,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 637,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9861,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

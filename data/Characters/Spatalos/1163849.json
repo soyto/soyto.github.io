@@ -2,9 +2,9 @@
  "characterID": 1163849,
  "characterClassID": 7,
  "raceID": 1,
- "position": 744,
- "rankingPositionChange": 0,
- "gloryPoint": 3885,
+ "position": 751,
+ "rankingPositionChange": -7,
+ "gloryPoint": 3878,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Thornyhorse",
@@ -280,6 +280,14 @@
    "position": 744,
    "rankingPositionChange": 0,
    "gloryPoint": 3885,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 751,
+   "rankingPositionChange": -7,
+   "gloryPoint": 3878,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

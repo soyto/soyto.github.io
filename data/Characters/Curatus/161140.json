@@ -2,9 +2,9 @@
  "characterID": 161140,
  "characterClassID": 8,
  "raceID": 0,
- "position": 940,
- "rankingPositionChange": 1,
- "gloryPoint": 9327,
+ "position": 949,
+ "rankingPositionChange": -9,
+ "gloryPoint": 9320,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kyragakash",
@@ -280,6 +280,14 @@
    "position": 940,
    "rankingPositionChange": 1,
    "gloryPoint": 9327,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": -9,
+   "gloryPoint": 9320,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

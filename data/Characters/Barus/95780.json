@@ -2,10 +2,10 @@
  "characterID": 95780,
  "characterClassID": 4,
  "raceID": 1,
- "position": 877,
- "rankingPositionChange": 5,
- "gloryPoint": 12412,
- "gloryPointChange": 27,
+ "position": 879,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12592,
+ "gloryPointChange": 180,
  "soldierRankID": 10,
  "characterName": "Tygry",
  "guildName": "OutOfControl",
@@ -201,6 +201,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 12412,
    "gloryPointChange": 27,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 879,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12592,
+   "gloryPointChange": 180,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 624442,
  "characterClassID": 11,
  "raceID": 0,
- "position": 800,
- "rankingPositionChange": 3,
- "gloryPoint": 6578,
+ "position": 801,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6571,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shintzune",
@@ -280,6 +280,14 @@
    "position": 800,
    "rankingPositionChange": 3,
    "gloryPoint": 6578,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 801,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6571,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

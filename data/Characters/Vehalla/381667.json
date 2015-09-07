@@ -2,9 +2,9 @@
  "characterID": 381667,
  "characterClassID": 8,
  "raceID": 1,
- "position": 441,
- "rankingPositionChange": 3,
- "gloryPoint": 2686,
+ "position": 444,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2658,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Thexgrimxreaper",
@@ -272,6 +272,14 @@
    "position": 441,
    "rankingPositionChange": 3,
    "gloryPoint": 2686,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 444,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2658,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

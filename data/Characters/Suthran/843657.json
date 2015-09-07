@@ -2,9 +2,9 @@
  "characterID": 843657,
  "characterClassID": 7,
  "raceID": 1,
- "position": 866,
- "rankingPositionChange": 0,
- "gloryPoint": 6071,
+ "position": 872,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6064,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hrogar",
@@ -278,6 +278,14 @@
    "position": 866,
    "rankingPositionChange": 0,
    "gloryPoint": 6071,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 872,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6064,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

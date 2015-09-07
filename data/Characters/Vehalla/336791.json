@@ -2,9 +2,9 @@
  "characterID": 336791,
  "characterClassID": 7,
  "raceID": 0,
- "position": 235,
- "rankingPositionChange": -1,
- "gloryPoint": 18125,
+ "position": 234,
+ "rankingPositionChange": 1,
+ "gloryPoint": 18076,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ilovu",
@@ -272,6 +272,14 @@
    "position": 235,
    "rankingPositionChange": -1,
    "gloryPoint": 18125,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 234,
+   "rankingPositionChange": 1,
+   "gloryPoint": 18076,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

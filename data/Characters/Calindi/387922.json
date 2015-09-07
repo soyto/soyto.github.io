@@ -2,10 +2,10 @@
  "characterID": 387922,
  "characterClassID": 14,
  "raceID": 0,
- "position": 232,
- "rankingPositionChange": 2,
- "gloryPoint": 30190,
- "gloryPointChange": 351,
+ "position": 234,
+ "rankingPositionChange": -2,
+ "gloryPoint": 30391,
+ "gloryPointChange": 201,
  "soldierRankID": 13,
  "characterName": "Elmariachi",
  "guildName": "Eclesia",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 30190,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 234,
+   "rankingPositionChange": -2,
+   "gloryPoint": 30391,
+   "gloryPointChange": 201,
    "soldierRankID": 13
   }
  ],

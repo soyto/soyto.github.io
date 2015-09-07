@@ -2,10 +2,10 @@
  "characterID": 52334,
  "characterClassID": 11,
  "raceID": 1,
- "position": 842,
- "rankingPositionChange": -1,
- "gloryPoint": 7839,
- "gloryPointChange": -7,
+ "position": 835,
+ "rankingPositionChange": 7,
+ "gloryPoint": 7903,
+ "gloryPointChange": 64,
  "soldierRankID": 10,
  "characterName": "Zenai",
  "guildName": "Destinados",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 7839,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 835,
+   "rankingPositionChange": 7,
+   "gloryPoint": 7903,
+   "gloryPointChange": 64,
    "soldierRankID": 10
   }
  ],

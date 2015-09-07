@@ -2,9 +2,9 @@
  "characterID": 1517227,
  "characterClassID": 1,
  "raceID": 1,
- "position": 748,
- "rankingPositionChange": 0,
- "gloryPoint": 17466,
+ "position": 750,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17459,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Madbroetchn",
@@ -280,6 +280,14 @@
    "position": 748,
    "rankingPositionChange": 0,
    "gloryPoint": 17466,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 750,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17459,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

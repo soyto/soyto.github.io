@@ -2,10 +2,10 @@
  "characterID": 29516,
  "characterClassID": 14,
  "raceID": 0,
- "position": 50,
- "rankingPositionChange": 0,
- "gloryPoint": 159783,
- "gloryPointChange": 592,
+ "position": 51,
+ "rankingPositionChange": -1,
+ "gloryPoint": 160793,
+ "gloryPointChange": 1010,
  "soldierRankID": 14,
  "characterName": "Witcher",
  "guildName": " Outlaw ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 159783,
    "gloryPointChange": 592,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 51,
+   "rankingPositionChange": -1,
+   "gloryPoint": 160793,
+   "gloryPointChange": 1010,
    "soldierRankID": 14
   }
  ],

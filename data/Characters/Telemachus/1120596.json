@@ -3,8 +3,8 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 506,
- "rankingPositionChange": -4,
- "gloryPoint": 3270,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3256,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Explosin",
@@ -272,6 +272,14 @@
    "position": 506,
    "rankingPositionChange": -4,
    "gloryPoint": 3270,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 506,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3256,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

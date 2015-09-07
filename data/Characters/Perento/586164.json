@@ -2,9 +2,9 @@
  "characterID": 586164,
  "characterClassID": 8,
  "raceID": 1,
- "position": 963,
- "rankingPositionChange": 2,
- "gloryPoint": 1652,
+ "position": 968,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1645,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Genspirit",
@@ -278,6 +278,14 @@
    "position": 963,
    "rankingPositionChange": 2,
    "gloryPoint": 1652,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 968,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1645,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

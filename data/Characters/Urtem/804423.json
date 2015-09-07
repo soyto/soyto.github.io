@@ -2,9 +2,9 @@
  "characterID": 804423,
  "characterClassID": 2,
  "raceID": 0,
- "position": 440,
- "rankingPositionChange": 1,
- "gloryPoint": 37480,
+ "position": 446,
+ "rankingPositionChange": -6,
+ "gloryPoint": 37452,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tiahallibel",
@@ -280,6 +280,14 @@
    "position": 440,
    "rankingPositionChange": 1,
    "gloryPoint": 37480,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 446,
+   "rankingPositionChange": -6,
+   "gloryPoint": 37452,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

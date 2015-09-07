@@ -2,9 +2,9 @@
  "characterID": 1137305,
  "characterClassID": 2,
  "raceID": 0,
- "position": 807,
- "rankingPositionChange": 1,
- "gloryPoint": 20342,
+ "position": 817,
+ "rankingPositionChange": -10,
+ "gloryPoint": 20335,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hakainoken",
@@ -280,6 +280,14 @@
    "position": 807,
    "rankingPositionChange": 1,
    "gloryPoint": 20342,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": -10,
+   "gloryPoint": 20335,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

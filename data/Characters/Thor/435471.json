@@ -2,9 +2,9 @@
  "characterID": 435471,
  "characterClassID": 11,
  "raceID": 1,
- "position": 763,
- "rankingPositionChange": 0,
- "gloryPoint": 17060,
+ "position": 766,
+ "rankingPositionChange": -3,
+ "gloryPoint": 17053,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Elothrin",
@@ -144,6 +144,14 @@
    "position": 763,
    "rankingPositionChange": 0,
    "gloryPoint": 17060,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 766,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17053,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

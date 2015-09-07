@@ -2,9 +2,9 @@
  "characterID": 940950,
  "characterClassID": 16,
  "raceID": 1,
- "position": 257,
- "rankingPositionChange": 0,
- "gloryPoint": 13838,
+ "position": 259,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13789,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Viiio",
@@ -280,6 +280,14 @@
    "position": 257,
    "rankingPositionChange": 0,
    "gloryPoint": 13838,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 259,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13789,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

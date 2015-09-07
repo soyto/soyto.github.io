@@ -2,10 +2,10 @@
  "characterID": 867483,
  "characterClassID": 14,
  "raceID": 0,
- "position": 257,
- "rankingPositionChange": 2,
- "gloryPoint": 27983,
- "gloryPointChange": 439,
+ "position": 258,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28002,
+ "gloryPointChange": 19,
  "soldierRankID": 13,
  "characterName": "Stinkerbell",
  "guildName": "CupCakes",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 27983,
    "gloryPointChange": 439,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 258,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28002,
+   "gloryPointChange": 19,
    "soldierRankID": 13
   }
  ],

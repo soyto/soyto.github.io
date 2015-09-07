@@ -2,9 +2,9 @@
  "characterID": 289841,
  "characterClassID": 1,
  "raceID": 1,
- "position": 549,
- "rankingPositionChange": 3,
- "gloryPoint": 1555,
+ "position": 553,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1541,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Metalforlife",
@@ -144,6 +144,14 @@
    "position": 549,
    "rankingPositionChange": 3,
    "gloryPoint": 1555,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 553,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1541,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

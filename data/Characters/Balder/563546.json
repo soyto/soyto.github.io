@@ -2,10 +2,10 @@
  "characterID": 563546,
  "characterClassID": 10,
  "raceID": 0,
- "position": 135,
- "rankingPositionChange": 0,
- "gloryPoint": 66351,
- "gloryPointChange": 251,
+ "position": 136,
+ "rankingPositionChange": -1,
+ "gloryPoint": 66302,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ceretadon",
  "guildName": "Wir waren Helden",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 66351,
    "gloryPointChange": 251,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 136,
+   "rankingPositionChange": -1,
+   "gloryPoint": 66302,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

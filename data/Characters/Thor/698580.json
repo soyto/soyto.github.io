@@ -2,9 +2,9 @@
  "characterID": 698580,
  "characterClassID": 10,
  "raceID": 0,
- "position": 721,
- "rankingPositionChange": 1,
- "gloryPoint": 24305,
+ "position": 727,
+ "rankingPositionChange": -6,
+ "gloryPoint": 24298,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kittsy",
@@ -280,6 +280,14 @@
    "position": 721,
    "rankingPositionChange": 1,
    "gloryPoint": 24305,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 727,
+   "rankingPositionChange": -6,
+   "gloryPoint": 24298,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

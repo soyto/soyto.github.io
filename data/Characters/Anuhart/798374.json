@@ -2,9 +2,9 @@
  "characterID": 798374,
  "characterClassID": 5,
  "raceID": 1,
- "position": 203,
- "rankingPositionChange": -1,
- "gloryPoint": 49610,
+ "position": 202,
+ "rankingPositionChange": 1,
+ "gloryPoint": 49561,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ginnyy",
@@ -280,6 +280,14 @@
    "position": 203,
    "rankingPositionChange": -1,
    "gloryPoint": 49610,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 202,
+   "rankingPositionChange": 1,
+   "gloryPoint": 49561,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

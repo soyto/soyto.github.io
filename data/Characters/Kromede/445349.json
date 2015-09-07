@@ -2,10 +2,10 @@
  "characterID": 445349,
  "characterClassID": 2,
  "raceID": 1,
- "position": 165,
- "rankingPositionChange": 0,
- "gloryPoint": 51607,
- "gloryPointChange": 51,
+ "position": 166,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51813,
+ "gloryPointChange": 206,
  "soldierRankID": 13,
  "characterName": "Banhammer",
  "guildName": "Superior",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 51607,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 166,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51813,
+   "gloryPointChange": 206,
    "soldierRankID": 13
   }
  ],

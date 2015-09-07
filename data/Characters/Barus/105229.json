@@ -2,10 +2,10 @@
  "characterID": 105229,
  "characterClassID": 10,
  "raceID": 0,
- "position": 916,
- "rankingPositionChange": -2,
- "gloryPoint": 12073,
- "gloryPointChange": -7,
+ "position": 896,
+ "rankingPositionChange": 20,
+ "gloryPoint": 12451,
+ "gloryPointChange": 378,
  "soldierRankID": 10,
  "characterName": "Ninfomanka",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 12073,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 896,
+   "rankingPositionChange": 20,
+   "gloryPoint": 12451,
+   "gloryPointChange": 378,
    "soldierRankID": 10
   }
  ],

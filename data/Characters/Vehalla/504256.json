@@ -2,10 +2,10 @@
  "characterID": 504256,
  "characterClassID": 5,
  "raceID": 0,
- "position": 512,
- "rankingPositionChange": 3,
- "gloryPoint": 2652,
- "gloryPointChange": 41,
+ "position": 514,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2638,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Huntic",
  "guildName": "ClearRUN",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 2652,
    "gloryPointChange": 41,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2638,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

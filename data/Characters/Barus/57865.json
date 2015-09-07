@@ -2,9 +2,9 @@
  "characterID": 57865,
  "characterClassID": 14,
  "raceID": 1,
- "position": 593,
- "rankingPositionChange": 1,
- "gloryPoint": 22262,
+ "position": 600,
+ "rankingPositionChange": -7,
+ "gloryPoint": 22248,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Rozes",
@@ -278,6 +278,14 @@
    "position": 593,
    "rankingPositionChange": 1,
    "gloryPoint": 22262,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": -7,
+   "gloryPoint": 22248,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

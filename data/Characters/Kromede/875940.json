@@ -2,9 +2,9 @@
  "characterID": 875940,
  "characterClassID": 1,
  "raceID": 1,
- "position": 503,
- "rankingPositionChange": 0,
- "gloryPoint": 9653,
+ "position": 509,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9639,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Bayakuya",
@@ -272,6 +272,14 @@
    "position": 503,
    "rankingPositionChange": 0,
    "gloryPoint": 9653,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 509,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9639,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 313657,
  "characterClassID": 7,
  "raceID": 0,
- "position": 117,
- "rankingPositionChange": 0,
- "gloryPoint": 68400,
+ "position": 119,
+ "rankingPositionChange": -2,
+ "gloryPoint": 68351,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Teairra",
@@ -280,6 +280,14 @@
    "position": 117,
    "rankingPositionChange": 0,
    "gloryPoint": 68400,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 119,
+   "rankingPositionChange": -2,
+   "gloryPoint": 68351,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 546826,
  "characterClassID": 5,
  "raceID": 0,
- "position": 809,
- "rankingPositionChange": 1,
- "gloryPoint": 2581,
+ "position": 810,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2574,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rabbit",
@@ -278,6 +278,14 @@
    "position": 809,
    "rankingPositionChange": 1,
    "gloryPoint": 2581,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 810,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2574,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 99454,
  "characterClassID": 2,
  "raceID": 0,
- "position": 938,
- "rankingPositionChange": 1,
- "gloryPoint": 9414,
+ "position": 944,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9407,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mikaelson",
@@ -278,6 +278,14 @@
    "position": 938,
    "rankingPositionChange": 1,
    "gloryPoint": 9414,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 944,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9407,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

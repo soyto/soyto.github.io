@@ -2,9 +2,9 @@
  "characterID": 1113053,
  "characterClassID": 11,
  "raceID": 0,
- "position": 711,
- "rankingPositionChange": 0,
- "gloryPoint": 13369,
+ "position": 710,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13362,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Anibisa",
@@ -280,6 +280,14 @@
    "position": 711,
    "rankingPositionChange": 0,
    "gloryPoint": 13369,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 710,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13362,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

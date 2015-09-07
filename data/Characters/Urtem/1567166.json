@@ -2,9 +2,9 @@
  "characterID": 1567166,
  "characterClassID": 5,
  "raceID": 0,
- "position": 634,
- "rankingPositionChange": 3,
- "gloryPoint": 26127,
+ "position": 644,
+ "rankingPositionChange": -10,
+ "gloryPoint": 26113,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Megafurieux",
@@ -280,6 +280,14 @@
    "position": 634,
    "rankingPositionChange": 3,
    "gloryPoint": 26127,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 644,
+   "rankingPositionChange": -10,
+   "gloryPoint": 26113,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

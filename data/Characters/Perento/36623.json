@@ -2,10 +2,10 @@
  "characterID": 36623,
  "characterClassID": 1,
  "raceID": 0,
- "position": 246,
- "rankingPositionChange": 5,
- "gloryPoint": 53107,
- "gloryPointChange": 350,
+ "position": 248,
+ "rankingPositionChange": -2,
+ "gloryPoint": 53058,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nelethiel",
  "guildName": "Shots Fired",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 53107,
    "gloryPointChange": 350,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 248,
+   "rankingPositionChange": -2,
+   "gloryPoint": 53058,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

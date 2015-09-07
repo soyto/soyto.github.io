@@ -2,9 +2,9 @@
  "characterID": 1214434,
  "characterClassID": 11,
  "raceID": 0,
- "position": 784,
- "rankingPositionChange": 4,
- "gloryPoint": 19213,
+ "position": 797,
+ "rankingPositionChange": -13,
+ "gloryPoint": 19206,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ochi",
@@ -272,6 +272,14 @@
    "position": 784,
    "rankingPositionChange": 4,
    "gloryPoint": 19213,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 797,
+   "rankingPositionChange": -13,
+   "gloryPoint": 19206,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

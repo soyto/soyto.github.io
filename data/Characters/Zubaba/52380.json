@@ -2,10 +2,10 @@
  "characterID": 52380,
  "characterClassID": 11,
  "raceID": 0,
- "position": 72,
- "rankingPositionChange": 0,
- "gloryPoint": 126787,
- "gloryPointChange": 175,
+ "position": 73,
+ "rankingPositionChange": -1,
+ "gloryPoint": 127700,
+ "gloryPointChange": 913,
  "soldierRankID": 14,
  "characterName": "Cikoloko",
  "guildName": "M O R T A  L",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 126787,
    "gloryPointChange": 175,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 73,
+   "rankingPositionChange": -1,
+   "gloryPoint": 127700,
+   "gloryPointChange": 913,
    "soldierRankID": 14
   }
  ],

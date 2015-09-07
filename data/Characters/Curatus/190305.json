@@ -2,11 +2,11 @@
  "characterID": 190305,
  "characterClassID": 10,
  "raceID": 1,
- "position": 699,
- "rankingPositionChange": 0,
- "gloryPoint": 6703,
+ "position": 705,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6689,
  "gloryPointChange": -14,
- "soldierRankID": 11,
+ "soldierRankID": 10,
  "characterName": "Nekooni",
  "guildName": "Dei Ex Mortis",
  "guildID": 3737,
@@ -266,6 +266,14 @@
    "gloryPoint": 6703,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 705,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6689,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [

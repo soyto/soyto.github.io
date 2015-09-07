@@ -2,10 +2,10 @@
  "characterID": 660578,
  "characterClassID": 14,
  "raceID": 1,
- "position": 288,
- "rankingPositionChange": 2,
- "gloryPoint": 30390,
- "gloryPointChange": 13,
+ "position": 291,
+ "rankingPositionChange": -3,
+ "gloryPoint": 30347,
+ "gloryPointChange": -43,
  "soldierRankID": 13,
  "characterName": "Mattia",
  "guildName": "After School",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 30390,
    "gloryPointChange": 13,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 291,
+   "rankingPositionChange": -3,
+   "gloryPoint": 30347,
+   "gloryPointChange": -43,
    "soldierRankID": 13
   }
  ],

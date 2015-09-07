@@ -2,9 +2,9 @@
  "characterID": 908353,
  "characterClassID": 10,
  "raceID": 0,
- "position": 969,
- "rankingPositionChange": 2,
- "gloryPoint": 13827,
+ "position": 982,
+ "rankingPositionChange": -13,
+ "gloryPoint": 13820,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Natipha",
@@ -280,6 +280,14 @@
    "position": 969,
    "rankingPositionChange": 2,
    "gloryPoint": 13827,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 982,
+   "rankingPositionChange": -13,
+   "gloryPoint": 13820,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

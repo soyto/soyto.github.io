@@ -2,9 +2,9 @@
  "characterID": 1253419,
  "characterClassID": 14,
  "raceID": 1,
- "position": 741,
- "rankingPositionChange": 0,
- "gloryPoint": 3903,
+ "position": 749,
+ "rankingPositionChange": -8,
+ "gloryPoint": 3896,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jennita",
@@ -278,6 +278,14 @@
    "position": 741,
    "rankingPositionChange": 0,
    "gloryPoint": 3903,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 749,
+   "rankingPositionChange": -8,
+   "gloryPoint": 3896,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

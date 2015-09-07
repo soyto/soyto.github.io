@@ -2,9 +2,9 @@
  "characterID": 1626621,
  "characterClassID": 7,
  "raceID": 1,
- "position": 719,
- "rankingPositionChange": 1,
- "gloryPoint": 18498,
+ "position": 724,
+ "rankingPositionChange": -5,
+ "gloryPoint": 18491,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shijou",
@@ -280,6 +280,14 @@
    "position": 719,
    "rankingPositionChange": 1,
    "gloryPoint": 18498,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 724,
+   "rankingPositionChange": -5,
+   "gloryPoint": 18491,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

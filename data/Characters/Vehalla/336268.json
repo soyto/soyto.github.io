@@ -2,9 +2,9 @@
  "characterID": 336268,
  "characterClassID": 16,
  "raceID": 0,
- "position": 582,
- "rankingPositionChange": 0,
- "gloryPoint": 1974,
+ "position": 587,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1960,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Dianina",
@@ -200,6 +200,14 @@
    "position": 582,
    "rankingPositionChange": 0,
    "gloryPoint": 1974,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 587,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1960,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

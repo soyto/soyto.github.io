@@ -2,9 +2,9 @@
  "characterID": 169611,
  "characterClassID": 7,
  "raceID": 0,
- "position": 915,
- "rankingPositionChange": 1,
- "gloryPoint": 9988,
+ "position": 919,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9981,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Daithi",
@@ -280,6 +280,14 @@
    "position": 915,
    "rankingPositionChange": 1,
    "gloryPoint": 9988,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 919,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9981,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

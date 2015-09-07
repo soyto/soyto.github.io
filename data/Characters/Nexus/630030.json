@@ -2,10 +2,10 @@
  "characterID": 630030,
  "characterClassID": 7,
  "raceID": 1,
- "position": 250,
- "rankingPositionChange": -1,
- "gloryPoint": 67717,
- "gloryPointChange": -21,
+ "position": 245,
+ "rankingPositionChange": 5,
+ "gloryPoint": 68971,
+ "gloryPointChange": 1254,
  "soldierRankID": 13,
  "characterName": "Urgan",
  "guildName": "Pannon Reborn",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 67717,
    "gloryPointChange": -21,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": 5,
+   "gloryPoint": 68971,
+   "gloryPointChange": 1254,
    "soldierRankID": 13
   }
  ],

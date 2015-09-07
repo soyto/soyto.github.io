@@ -2,12 +2,12 @@
  "characterID": 43333,
  "characterClassID": 5,
  "raceID": 0,
- "position": 249,
+ "position": 250,
  "rankingPositionChange": -1,
- "gloryPoint": 66199,
- "gloryPointChange": 141,
+ "gloryPoint": 66275,
+ "gloryPointChange": 76,
  "soldierRankID": 13,
- "characterName": "Irrilevance",
+ "characterName": "Unwind",
  "guildName": " Awakening ",
  "guildID": 2103,
  "status": [
@@ -282,6 +282,14 @@
    "gloryPoint": 66199,
    "gloryPointChange": 141,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 250,
+   "rankingPositionChange": -1,
+   "gloryPoint": 66275,
+   "gloryPointChange": 76,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -292,6 +300,10 @@
   {
    "date": "2015-08-26T22:00:00.000Z",
    "characterName": "Irrilevance"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "characterName": "Unwind"
   }
  ],
  "guilds": [

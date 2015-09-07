@@ -2,10 +2,10 @@
  "characterID": 1194817,
  "characterClassID": 1,
  "raceID": 0,
- "position": 804,
- "rankingPositionChange": 3,
- "gloryPoint": 6554,
- "gloryPointChange": 43,
+ "position": 805,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6547,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xtnd",
  "guildName": "Legiondary",
@@ -97,6 +97,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 6554,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 805,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6547,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

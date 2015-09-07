@@ -2,10 +2,10 @@
  "characterID": 228798,
  "characterClassID": 5,
  "raceID": 1,
- "position": 102,
- "rankingPositionChange": 0,
- "gloryPoint": 86288,
- "gloryPointChange": -49,
+ "position": 103,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86439,
+ "gloryPointChange": 151,
  "soldierRankID": 13,
  "characterName": "Tezzoh",
  "guildName": "Trinity",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 86288,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 103,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86439,
+   "gloryPointChange": 151,
    "soldierRankID": 13
   }
  ],

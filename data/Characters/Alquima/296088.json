@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 0,
  "position": 123,
- "rankingPositionChange": 1,
- "gloryPoint": 94786,
- "gloryPointChange": 264,
+ "rankingPositionChange": 0,
+ "gloryPoint": 94740,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Dxkay",
  "guildName": " Nice Day To Die ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 94786,
    "gloryPointChange": 264,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 123,
+   "rankingPositionChange": 0,
+   "gloryPoint": 94740,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

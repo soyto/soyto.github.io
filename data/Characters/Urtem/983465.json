@@ -2,9 +2,9 @@
  "characterID": 983465,
  "characterClassID": 10,
  "raceID": 0,
- "position": 959,
- "rankingPositionChange": 3,
- "gloryPoint": 13976,
+ "position": 972,
+ "rankingPositionChange": -13,
+ "gloryPoint": 13969,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hilme",
@@ -248,6 +248,14 @@
    "position": 959,
    "rankingPositionChange": 3,
    "gloryPoint": 13976,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 972,
+   "rankingPositionChange": -13,
+   "gloryPoint": 13969,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

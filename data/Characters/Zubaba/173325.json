@@ -2,10 +2,10 @@
  "characterID": 173325,
  "characterClassID": 1,
  "raceID": 1,
- "position": 305,
- "rankingPositionChange": -1,
- "gloryPoint": 25368,
- "gloryPointChange": -28,
+ "position": 302,
+ "rankingPositionChange": 3,
+ "gloryPoint": 25440,
+ "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Minikserce",
  "guildName": "G U A R D S",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 25368,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 302,
+   "rankingPositionChange": 3,
+   "gloryPoint": 25440,
+   "gloryPointChange": 72,
    "soldierRankID": 12
   }
  ],

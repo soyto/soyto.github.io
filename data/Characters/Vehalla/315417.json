@@ -2,9 +2,9 @@
  "characterID": 315417,
  "characterClassID": 5,
  "raceID": 0,
- "position": 358,
- "rankingPositionChange": 0,
- "gloryPoint": 7241,
+ "position": 359,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7213,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Cyaa",
@@ -280,6 +280,14 @@
    "position": 358,
    "rankingPositionChange": 0,
    "gloryPoint": 7241,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 359,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7213,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

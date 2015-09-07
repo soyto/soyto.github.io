@@ -2,10 +2,10 @@
  "characterID": 454792,
  "characterClassID": 1,
  "raceID": 0,
- "position": 400,
- "rankingPositionChange": 0,
- "gloryPoint": 27142,
- "gloryPointChange": 22,
+ "position": 401,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27114,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Banan",
  "guildName": "Astralis",
@@ -233,6 +233,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 27142,
    "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27114,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

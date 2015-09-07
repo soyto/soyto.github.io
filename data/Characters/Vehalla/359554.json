@@ -2,9 +2,9 @@
  "characterID": 359554,
  "characterClassID": 4,
  "raceID": 0,
- "position": 188,
- "rankingPositionChange": -1,
- "gloryPoint": 28294,
+ "position": 187,
+ "rankingPositionChange": 1,
+ "gloryPoint": 28245,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kharin",
@@ -280,6 +280,14 @@
    "position": 188,
    "rankingPositionChange": -1,
    "gloryPoint": 28294,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 187,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28245,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 378,
- "rankingPositionChange": -2,
- "gloryPoint": 14024,
- "gloryPointChange": -28,
+ "rankingPositionChange": 0,
+ "gloryPoint": 14279,
+ "gloryPointChange": 255,
  "soldierRankID": 12,
  "characterName": "Isae",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 14024,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 378,
+   "rankingPositionChange": 0,
+   "gloryPoint": 14279,
+   "gloryPointChange": 255,
    "soldierRankID": 12
   }
  ],

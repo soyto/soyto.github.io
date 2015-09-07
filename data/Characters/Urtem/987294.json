@@ -2,10 +2,10 @@
  "characterID": 987294,
  "characterClassID": 7,
  "raceID": 0,
- "position": 689,
- "rankingPositionChange": 15,
- "gloryPoint": 23455,
- "gloryPointChange": 468,
+ "position": 699,
+ "rankingPositionChange": -10,
+ "gloryPoint": 23556,
+ "gloryPointChange": 101,
  "soldierRankID": 11,
  "characterName": "Tigrina",
  "guildName": "Pex Toys",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 15,
    "gloryPoint": 23455,
    "gloryPointChange": 468,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 699,
+   "rankingPositionChange": -10,
+   "gloryPoint": 23556,
+   "gloryPointChange": 101,
    "soldierRankID": 11
   }
  ],

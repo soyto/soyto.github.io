@@ -2,10 +2,10 @@
  "characterID": 340166,
  "characterClassID": 14,
  "raceID": 0,
- "position": 80,
- "rankingPositionChange": 1,
- "gloryPoint": 104899,
- "gloryPointChange": 371,
+ "position": 81,
+ "rankingPositionChange": -1,
+ "gloryPoint": 104965,
+ "gloryPointChange": 66,
  "soldierRankID": 14,
  "characterName": "Sarii",
  "guildName": "Witchers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 104899,
    "gloryPointChange": 371,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 81,
+   "rankingPositionChange": -1,
+   "gloryPoint": 104965,
+   "gloryPointChange": 66,
    "soldierRankID": 14
   }
  ],

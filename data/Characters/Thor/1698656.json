@@ -2,9 +2,9 @@
  "characterID": 1698656,
  "characterClassID": 1,
  "raceID": 0,
- "position": 905,
- "rankingPositionChange": 0,
- "gloryPoint": 16370,
+ "position": 913,
+ "rankingPositionChange": -8,
+ "gloryPoint": 16363,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Akestor",
@@ -280,6 +280,14 @@
    "position": 905,
    "rankingPositionChange": 0,
    "gloryPoint": 16370,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 913,
+   "rankingPositionChange": -8,
+   "gloryPoint": 16363,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

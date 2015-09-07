@@ -2,9 +2,9 @@
  "characterID": 1551649,
  "characterClassID": 10,
  "raceID": 0,
- "position": 422,
- "rankingPositionChange": 1,
- "gloryPoint": 39158,
+ "position": 431,
+ "rankingPositionChange": -9,
+ "gloryPoint": 39130,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Orlea",
@@ -280,6 +280,14 @@
    "position": 422,
    "rankingPositionChange": 1,
    "gloryPoint": 39158,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 431,
+   "rankingPositionChange": -9,
+   "gloryPoint": 39130,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

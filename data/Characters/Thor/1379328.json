@@ -2,9 +2,9 @@
  "characterID": 1379328,
  "characterClassID": 10,
  "raceID": 0,
- "position": 64,
- "rankingPositionChange": 0,
- "gloryPoint": 186044,
+ "position": 65,
+ "rankingPositionChange": -1,
+ "gloryPoint": 185937,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Binkeinheal",
@@ -280,6 +280,14 @@
    "position": 64,
    "rankingPositionChange": 0,
    "gloryPoint": 186044,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": -1,
+   "gloryPoint": 185937,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

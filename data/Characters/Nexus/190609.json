@@ -2,14 +2,12 @@
  "characterID": 190609,
  "characterClassID": 10,
  "raceID": 0,
- "position": 293,
- "rankingPositionChange": 0,
- "gloryPoint": 36491,
- "gloryPointChange": -39,
+ "position": 296,
+ "rankingPositionChange": -3,
+ "gloryPoint": 36455,
+ "gloryPointChange": -36,
  "soldierRankID": 13,
  "characterName": "Bansheen",
- "guildName": "Pokemon Souls",
- "guildID": 16109,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 36491,
    "gloryPointChange": -39,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 296,
+   "rankingPositionChange": -3,
+   "gloryPoint": 36455,
+   "gloryPointChange": -36,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Pokemon Souls",
    "guildID": 16109
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

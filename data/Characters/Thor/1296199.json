@@ -2,9 +2,9 @@
  "characterID": 1296199,
  "characterClassID": 14,
  "raceID": 0,
- "position": 18,
- "rankingPositionChange": 0,
- "gloryPoint": 291170,
+ "position": 19,
+ "rankingPositionChange": -1,
+ "gloryPoint": 291051,
  "gloryPointChange": -119,
  "soldierRankID": 15,
  "characterName": "Secs",
@@ -280,6 +280,14 @@
    "position": 18,
    "rankingPositionChange": 0,
    "gloryPoint": 291170,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 19,
+   "rankingPositionChange": -1,
+   "gloryPoint": 291051,
    "gloryPointChange": -119,
    "soldierRankID": 15
   }

@@ -2,9 +2,9 @@
  "characterID": 90719,
  "characterClassID": 7,
  "raceID": 1,
- "position": 563,
- "rankingPositionChange": 1,
- "gloryPoint": 1491,
+ "position": 566,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1477,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Alasia",
@@ -278,6 +278,14 @@
    "position": 563,
    "rankingPositionChange": 1,
    "gloryPoint": 1491,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 566,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1477,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,14 +2,14 @@
  "characterID": 836841,
  "characterClassID": 14,
  "raceID": 0,
- "position": 594,
- "rankingPositionChange": 9,
- "gloryPoint": 13161,
- "gloryPointChange": 221,
+ "position": 591,
+ "rankingPositionChange": 3,
+ "gloryPoint": 13399,
+ "gloryPointChange": 238,
  "soldierRankID": 11,
  "characterName": "Arches",
- "guildName": "The Bad EagLes",
- "guildID": 16512,
+ "guildName": "Paths of Glory",
+ "guildID": 1335,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 13161,
    "gloryPointChange": 221,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 591,
+   "rankingPositionChange": 3,
+   "gloryPoint": 13399,
+   "gloryPointChange": 238,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -315,6 +323,11 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "The Bad EagLes",
    "guildID": 16512
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Paths of Glory",
+   "guildID": 1335
   }
  ]
 }

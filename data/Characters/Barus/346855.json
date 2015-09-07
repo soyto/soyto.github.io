@@ -2,9 +2,9 @@
  "characterID": 346855,
  "characterClassID": 4,
  "raceID": 1,
- "position": 614,
- "rankingPositionChange": 1,
- "gloryPoint": 21538,
+ "position": 617,
+ "rankingPositionChange": -3,
+ "gloryPoint": 21524,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Naibot",
@@ -280,6 +280,14 @@
    "position": 614,
    "rankingPositionChange": 1,
    "gloryPoint": 21538,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 617,
+   "rankingPositionChange": -3,
+   "gloryPoint": 21524,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

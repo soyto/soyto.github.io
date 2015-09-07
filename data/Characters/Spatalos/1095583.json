@@ -2,9 +2,9 @@
  "characterID": 1095583,
  "characterClassID": 1,
  "raceID": 1,
- "position": 226,
- "rankingPositionChange": 0,
- "gloryPoint": 26531,
+ "position": 228,
+ "rankingPositionChange": -2,
+ "gloryPoint": 26482,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kingfires",
@@ -200,6 +200,14 @@
    "position": 226,
    "rankingPositionChange": 0,
    "gloryPoint": 26531,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 228,
+   "rankingPositionChange": -2,
+   "gloryPoint": 26482,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

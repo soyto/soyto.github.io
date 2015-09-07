@@ -2,11 +2,11 @@
  "characterID": 82712,
  "characterClassID": 4,
  "raceID": 0,
- "position": 992,
- "rankingPositionChange": 2,
- "gloryPoint": 2771,
+ "position": 1000,
+ "rankingPositionChange": -8,
+ "gloryPoint": 2764,
  "gloryPointChange": -7,
- "soldierRankID": 10,
+ "soldierRankID": 0,
  "characterName": "Isoshima",
  "guildName": "Samurai",
  "guildID": 6555,
@@ -130,6 +130,14 @@
    "gloryPoint": 2771,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -8,
+   "gloryPoint": 2764,
+   "gloryPointChange": -7,
+   "soldierRankID": 0
   }
  ],
  "names": [

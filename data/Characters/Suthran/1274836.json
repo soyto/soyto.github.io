@@ -2,9 +2,9 @@
  "characterID": 1274836,
  "characterClassID": 10,
  "raceID": 1,
- "position": 423,
- "rankingPositionChange": 0,
- "gloryPoint": 19264,
+ "position": 424,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19236,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sombreheros",
@@ -280,6 +280,14 @@
    "position": 423,
    "rankingPositionChange": 0,
    "gloryPoint": 19264,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 424,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19236,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

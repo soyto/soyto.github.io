@@ -2,9 +2,9 @@
  "characterID": 549707,
  "characterClassID": 11,
  "raceID": 0,
- "position": 356,
- "rankingPositionChange": 0,
- "gloryPoint": 38424,
+ "position": 358,
+ "rankingPositionChange": -2,
+ "gloryPoint": 38396,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Helleanoar",
@@ -190,6 +190,14 @@
    "position": 356,
    "rankingPositionChange": 0,
    "gloryPoint": 38424,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 358,
+   "rankingPositionChange": -2,
+   "gloryPoint": 38396,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

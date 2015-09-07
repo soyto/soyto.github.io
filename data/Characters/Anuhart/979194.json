@@ -2,9 +2,9 @@
  "characterID": 979194,
  "characterClassID": 4,
  "raceID": 0,
- "position": 986,
- "rankingPositionChange": 0,
- "gloryPoint": 4155,
+ "position": 991,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4148,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Blackturn",
@@ -280,6 +280,14 @@
    "position": 986,
    "rankingPositionChange": 0,
    "gloryPoint": 4155,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4148,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

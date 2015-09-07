@@ -2,9 +2,9 @@
  "characterID": 234278,
  "characterClassID": 5,
  "raceID": 0,
- "position": 811,
- "rankingPositionChange": 0,
- "gloryPoint": 1926,
+ "position": 816,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1919,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jumong",
@@ -280,6 +280,14 @@
    "position": 811,
    "rankingPositionChange": 0,
    "gloryPoint": 1926,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 816,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1919,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

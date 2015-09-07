@@ -2,9 +2,9 @@
  "characterID": 524365,
  "characterClassID": 7,
  "raceID": 0,
- "position": 547,
- "rankingPositionChange": 0,
- "gloryPoint": 20846,
+ "position": 548,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20832,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Vitkin",
@@ -184,6 +184,14 @@
    "position": 547,
    "rankingPositionChange": 0,
    "gloryPoint": 20846,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 548,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20832,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

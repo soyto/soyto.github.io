@@ -3,8 +3,8 @@
  "characterClassID": 11,
  "raceID": 1,
  "position": 180,
- "rankingPositionChange": -5,
- "gloryPoint": 4759,
+ "rankingPositionChange": 0,
+ "gloryPoint": 4710,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sharon",
@@ -280,6 +280,14 @@
    "position": 180,
    "rankingPositionChange": -5,
    "gloryPoint": 4759,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 180,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4710,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

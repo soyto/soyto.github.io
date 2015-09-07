@@ -2,10 +2,10 @@
  "characterID": 476679,
  "characterClassID": 10,
  "raceID": 1,
- "position": 976,
- "rankingPositionChange": 3,
- "gloryPoint": 5799,
- "gloryPointChange": 93,
+ "position": 979,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5792,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gatchan",
  "guildName": "RageModeOn",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 5799,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 979,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5792,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

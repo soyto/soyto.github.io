@@ -2,9 +2,9 @@
  "characterID": 852985,
  "characterClassID": 14,
  "raceID": 0,
- "position": 199,
- "rankingPositionChange": 1,
- "gloryPoint": 49081,
+ "position": 200,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49032,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Silvermaiden",
@@ -280,6 +280,14 @@
    "position": 199,
    "rankingPositionChange": 1,
    "gloryPoint": 49081,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 200,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49032,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

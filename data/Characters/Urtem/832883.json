@@ -2,9 +2,9 @@
  "characterID": 832883,
  "characterClassID": 2,
  "raceID": 0,
- "position": 564,
- "rankingPositionChange": 3,
- "gloryPoint": 30075,
+ "position": 571,
+ "rankingPositionChange": -7,
+ "gloryPoint": 30161,
  "gloryPointChange": 86,
  "soldierRankID": 11,
  "characterName": "Naughty",
@@ -280,6 +280,14 @@
    "position": 564,
    "rankingPositionChange": 3,
    "gloryPoint": 30075,
+   "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 571,
+   "rankingPositionChange": -7,
+   "gloryPoint": 30161,
    "gloryPointChange": 86,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 499420,
  "characterClassID": 1,
  "raceID": 0,
- "position": 216,
- "rankingPositionChange": 4,
- "gloryPoint": 32496,
- "gloryPointChange": 411,
+ "position": 218,
+ "rankingPositionChange": -2,
+ "gloryPoint": 32556,
+ "gloryPointChange": 60,
  "soldierRankID": 13,
  "characterName": "Thrannatos",
  "guildName": "Hisatsu Yoko",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 32496,
    "gloryPointChange": 411,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 218,
+   "rankingPositionChange": -2,
+   "gloryPoint": 32556,
+   "gloryPointChange": 60,
    "soldierRankID": 13
   }
  ],

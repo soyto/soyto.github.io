@@ -2,9 +2,9 @@
  "characterID": 1163483,
  "characterClassID": 1,
  "raceID": 0,
- "position": 906,
- "rankingPositionChange": 0,
- "gloryPoint": 6072,
+ "position": 905,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6065,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gtank",
@@ -192,6 +192,14 @@
    "position": 906,
    "rankingPositionChange": 0,
    "gloryPoint": 6072,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 905,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6065,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

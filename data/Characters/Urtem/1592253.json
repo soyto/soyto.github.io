@@ -2,10 +2,10 @@
  "characterID": 1592253,
  "characterClassID": 1,
  "raceID": 0,
- "position": 848,
- "rankingPositionChange": 5,
- "gloryPoint": 16908,
- "gloryPointChange": 93,
+ "position": 862,
+ "rankingPositionChange": -14,
+ "gloryPoint": 16901,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shaayaa",
  "guildName": "Ex Tenebris Lux",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 16908,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": -14,
+   "gloryPoint": 16901,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

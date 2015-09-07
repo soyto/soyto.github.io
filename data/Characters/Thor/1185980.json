@@ -3,8 +3,8 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 362,
- "rankingPositionChange": 1,
- "gloryPoint": 42569,
+ "rankingPositionChange": 0,
+ "gloryPoint": 42541,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Bowbies",
@@ -256,6 +256,14 @@
    "position": 362,
    "rankingPositionChange": 1,
    "gloryPoint": 42569,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 362,
+   "rankingPositionChange": 0,
+   "gloryPoint": 42541,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,12 +2,14 @@
  "characterID": 326021,
  "characterClassID": 13,
  "raceID": 0,
- "position": 530,
- "rankingPositionChange": 2,
- "gloryPoint": 26446,
- "gloryPointChange": 138,
+ "position": 531,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26516,
+ "gloryPointChange": 70,
  "soldierRankID": 11,
  "characterName": "Meowth",
+ "guildName": " Awakening ",
+ "guildID": 2103,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 26446,
    "gloryPointChange": 138,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 531,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26516,
+   "gloryPointChange": 70,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-29T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": " Awakening ",
+   "guildID": 2103
   }
  ]
 }

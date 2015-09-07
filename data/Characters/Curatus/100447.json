@@ -2,10 +2,10 @@
  "characterID": 100447,
  "characterClassID": 16,
  "raceID": 1,
- "position": 742,
- "rankingPositionChange": 0,
- "gloryPoint": 6111,
- "gloryPointChange": 3,
+ "position": 748,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6134,
+ "gloryPointChange": 23,
  "soldierRankID": 10,
  "characterName": "Galiriel",
  "guildName": "Nudisti Anonimi",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6111,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 748,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6134,
+   "gloryPointChange": 23,
    "soldierRankID": 10
   }
  ],

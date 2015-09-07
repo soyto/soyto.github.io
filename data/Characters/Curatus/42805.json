@@ -2,9 +2,9 @@
  "characterID": 42805,
  "characterClassID": 2,
  "raceID": 0,
- "position": 663,
- "rankingPositionChange": 1,
- "gloryPoint": 18865,
+ "position": 666,
+ "rankingPositionChange": -3,
+ "gloryPoint": 18851,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Krissus",
@@ -280,6 +280,14 @@
    "position": 663,
    "rankingPositionChange": 1,
    "gloryPoint": 18865,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 666,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18851,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

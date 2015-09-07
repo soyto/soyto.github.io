@@ -2,10 +2,10 @@
  "characterID": 221626,
  "characterClassID": 10,
  "raceID": 1,
- "position": 412,
- "rankingPositionChange": 3,
- "gloryPoint": 13541,
- "gloryPointChange": 100,
+ "position": 414,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13575,
+ "gloryPointChange": 34,
  "soldierRankID": 12,
  "characterName": "Pitirol",
  "guildName": "Sturmkraehen",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 13541,
    "gloryPointChange": 100,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 414,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13575,
+   "gloryPointChange": 34,
    "soldierRankID": 12
   }
  ],

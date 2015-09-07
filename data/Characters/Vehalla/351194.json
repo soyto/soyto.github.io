@@ -3,8 +3,8 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 149,
- "rankingPositionChange": 1,
- "gloryPoint": 32550,
+ "rankingPositionChange": 0,
+ "gloryPoint": 32501,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sophes",
@@ -280,6 +280,14 @@
    "position": 149,
    "rankingPositionChange": 1,
    "gloryPoint": 32550,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 149,
+   "rankingPositionChange": 0,
+   "gloryPoint": 32501,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

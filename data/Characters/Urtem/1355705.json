@@ -2,9 +2,9 @@
  "characterID": 1355705,
  "characterClassID": 10,
  "raceID": 0,
- "position": 873,
- "rankingPositionChange": 1,
- "gloryPoint": 16276,
+ "position": 882,
+ "rankingPositionChange": -9,
+ "gloryPoint": 16269,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Coussinette",
@@ -280,6 +280,14 @@
    "position": 873,
    "rankingPositionChange": 1,
    "gloryPoint": 16276,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": -9,
+   "gloryPoint": 16269,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

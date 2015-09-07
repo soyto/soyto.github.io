@@ -2,9 +2,9 @@
  "characterID": 1405353,
  "characterClassID": 14,
  "raceID": 0,
- "position": 418,
- "rankingPositionChange": 2,
- "gloryPoint": 39778,
+ "position": 425,
+ "rankingPositionChange": -7,
+ "gloryPoint": 39850,
  "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Bullock",
@@ -280,6 +280,14 @@
    "position": 418,
    "rankingPositionChange": 2,
    "gloryPoint": 39778,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 425,
+   "rankingPositionChange": -7,
+   "gloryPoint": 39850,
    "gloryPointChange": 72,
    "soldierRankID": 12
   }

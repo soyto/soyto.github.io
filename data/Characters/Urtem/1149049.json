@@ -2,9 +2,9 @@
  "characterID": 1149049,
  "characterClassID": 2,
  "raceID": 0,
- "position": 668,
- "rankingPositionChange": 2,
- "gloryPoint": 24260,
+ "position": 680,
+ "rankingPositionChange": -12,
+ "gloryPoint": 24246,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Feledubokal",
@@ -280,6 +280,14 @@
    "position": 668,
    "rankingPositionChange": 2,
    "gloryPoint": 24260,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": -12,
+   "gloryPoint": 24246,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

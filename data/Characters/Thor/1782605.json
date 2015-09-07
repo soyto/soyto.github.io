@@ -2,9 +2,9 @@
  "characterID": 1782605,
  "characterClassID": 16,
  "raceID": 0,
- "position": 908,
- "rankingPositionChange": 1,
- "gloryPoint": 16263,
+ "position": 917,
+ "rankingPositionChange": -9,
+ "gloryPoint": 16256,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Seleznia",
@@ -176,6 +176,14 @@
    "position": 908,
    "rankingPositionChange": 1,
    "gloryPoint": 16263,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 917,
+   "rankingPositionChange": -9,
+   "gloryPoint": 16256,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

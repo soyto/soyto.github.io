@@ -2,9 +2,9 @@
  "characterID": 1203849,
  "characterClassID": 14,
  "raceID": 0,
- "position": 882,
- "rankingPositionChange": 1,
- "gloryPoint": 5401,
+ "position": 886,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5394,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mephistospheles",
@@ -280,6 +280,14 @@
    "position": 882,
    "rankingPositionChange": 1,
    "gloryPoint": 5401,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 886,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5394,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

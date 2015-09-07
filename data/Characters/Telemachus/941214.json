@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 295,
- "rankingPositionChange": 2,
- "gloryPoint": 12803,
- "gloryPointChange": 305,
+ "rankingPositionChange": 0,
+ "gloryPoint": 12782,
+ "gloryPointChange": -21,
  "soldierRankID": 13,
  "characterName": "Ptnico",
  "guildName": "K a r m a",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 12803,
    "gloryPointChange": 305,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 295,
+   "rankingPositionChange": 0,
+   "gloryPoint": 12782,
+   "gloryPointChange": -21,
    "soldierRankID": 13
   }
  ],

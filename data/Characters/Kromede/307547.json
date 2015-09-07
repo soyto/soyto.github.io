@@ -2,10 +2,10 @@
  "characterID": 307547,
  "characterClassID": 10,
  "raceID": 1,
- "position": 759,
- "rankingPositionChange": 12,
- "gloryPoint": 4791,
- "gloryPointChange": 137,
+ "position": 761,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4808,
+ "gloryPointChange": 17,
  "soldierRankID": 10,
  "characterName": "Vishna",
  "guildName": "Seven Deadly Sins",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 12,
    "gloryPoint": 4791,
    "gloryPointChange": 137,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 761,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4808,
+   "gloryPointChange": 17,
    "soldierRankID": 10
   }
  ],

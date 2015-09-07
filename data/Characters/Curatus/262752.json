@@ -2,10 +2,10 @@
  "characterID": 262752,
  "characterClassID": 10,
  "raceID": 1,
- "position": 724,
- "rankingPositionChange": -2,
- "gloryPoint": 6350,
- "gloryPointChange": -1,
+ "position": 723,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6399,
+ "gloryPointChange": 49,
  "soldierRankID": 10,
  "characterName": "Nyvo",
  "guildName": "Hope",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 6350,
    "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 723,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6399,
+   "gloryPointChange": 49,
    "soldierRankID": 10
   }
  ],

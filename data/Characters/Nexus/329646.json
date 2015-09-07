@@ -2,10 +2,10 @@
  "characterID": 329646,
  "characterClassID": 8,
  "raceID": 1,
- "position": 627,
- "rankingPositionChange": 1,
- "gloryPoint": 20278,
- "gloryPointChange": 235,
+ "position": 630,
+ "rankingPositionChange": -3,
+ "gloryPoint": 20364,
+ "gloryPointChange": 86,
  "soldierRankID": 11,
  "characterName": "Eirlys",
  "guildName": "Super Natural",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20278,
    "gloryPointChange": 235,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 630,
+   "rankingPositionChange": -3,
+   "gloryPoint": 20364,
+   "gloryPointChange": 86,
    "soldierRankID": 11
   }
  ],

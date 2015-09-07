@@ -2,10 +2,10 @@
  "characterID": 1203446,
  "characterClassID": 16,
  "raceID": 0,
- "position": 488,
- "rankingPositionChange": 1,
- "gloryPoint": 24616,
- "gloryPointChange": 21,
+ "position": 490,
+ "rankingPositionChange": -2,
+ "gloryPoint": 24588,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Goddezz",
  "guildName": "O V E R K I L L",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 24616,
    "gloryPointChange": 21,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 490,
+   "rankingPositionChange": -2,
+   "gloryPoint": 24588,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

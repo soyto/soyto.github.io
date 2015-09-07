@@ -2,9 +2,9 @@
  "characterID": 92392,
  "characterClassID": 4,
  "raceID": 0,
- "position": 156,
- "rankingPositionChange": 0,
- "gloryPoint": 50678,
+ "position": 158,
+ "rankingPositionChange": -2,
+ "gloryPoint": 50629,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Trsdk",
@@ -216,6 +216,14 @@
    "position": 156,
    "rankingPositionChange": 0,
    "gloryPoint": 50678,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 158,
+   "rankingPositionChange": -2,
+   "gloryPoint": 50629,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

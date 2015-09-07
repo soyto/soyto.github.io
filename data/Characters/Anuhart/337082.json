@@ -2,9 +2,9 @@
  "characterID": 337082,
  "characterClassID": 1,
  "raceID": 1,
- "position": 964,
- "rankingPositionChange": 5,
- "gloryPoint": 1700,
+ "position": 990,
+ "rankingPositionChange": -26,
+ "gloryPoint": 1693,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wady",
@@ -150,6 +150,14 @@
    "position": 964,
    "rankingPositionChange": 5,
    "gloryPoint": 1700,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": -26,
+   "gloryPoint": 1693,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

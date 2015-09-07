@@ -2,9 +2,9 @@
  "characterID": 817909,
  "characterClassID": 1,
  "raceID": 0,
- "position": 644,
- "rankingPositionChange": 3,
- "gloryPoint": 13314,
+ "position": 645,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13300,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Voliber",
@@ -280,6 +280,14 @@
    "position": 644,
    "rankingPositionChange": 3,
    "gloryPoint": 13314,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 645,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13300,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

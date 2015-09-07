@@ -2,9 +2,9 @@
  "characterID": 1197185,
  "characterClassID": 16,
  "raceID": 0,
- "position": 955,
- "rankingPositionChange": 2,
- "gloryPoint": 14063,
+ "position": 967,
+ "rankingPositionChange": -12,
+ "gloryPoint": 14056,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Loveweed",
@@ -280,6 +280,14 @@
    "position": 955,
    "rankingPositionChange": 2,
    "gloryPoint": 14063,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -12,
+   "gloryPoint": 14056,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

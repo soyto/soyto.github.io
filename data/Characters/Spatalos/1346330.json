@@ -2,10 +2,10 @@
  "characterID": 1346330,
  "characterClassID": 7,
  "raceID": 1,
- "position": 687,
- "rankingPositionChange": 12,
- "gloryPoint": 4519,
- "gloryPointChange": 161,
+ "position": 691,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4505,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Arcadria",
  "guildName": "YouKnowWho",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 12,
    "gloryPoint": 4519,
    "gloryPointChange": 161,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 691,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4505,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

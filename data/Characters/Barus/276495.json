@@ -2,9 +2,9 @@
  "characterID": 276495,
  "characterClassID": 11,
  "raceID": 0,
- "position": 373,
- "rankingPositionChange": -1,
- "gloryPoint": 39307,
+ "position": 371,
+ "rankingPositionChange": 2,
+ "gloryPoint": 39279,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mechromancer",
@@ -278,6 +278,14 @@
    "position": 373,
    "rankingPositionChange": -1,
    "gloryPoint": 39307,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 371,
+   "rankingPositionChange": 2,
+   "gloryPoint": 39279,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

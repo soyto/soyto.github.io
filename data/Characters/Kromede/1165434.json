@@ -2,12 +2,14 @@
  "characterID": 1165434,
  "characterClassID": 7,
  "raceID": 1,
- "position": 244,
- "rankingPositionChange": 0,
- "gloryPoint": 29892,
- "gloryPointChange": 74,
+ "position": 246,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29843,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Godmagic",
+ "guildName": "Smurf Gang",
+ "guildID": 27374,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 29892,
    "gloryPointChange": 74,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 246,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29843,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-30T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Smurf Gang",
+   "guildID": 27374
   }
  ]
 }

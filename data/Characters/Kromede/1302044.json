@@ -2,10 +2,10 @@
  "characterID": 1302044,
  "characterClassID": 2,
  "raceID": 1,
- "position": 633,
- "rankingPositionChange": 1,
- "gloryPoint": 6826,
- "gloryPointChange": 7,
+ "position": 635,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6824,
+ "gloryPointChange": -2,
  "soldierRankID": 11,
  "characterName": "Zekkn",
  "guildName": " Invincible ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 6826,
    "gloryPointChange": 7,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 635,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6824,
+   "gloryPointChange": -2,
    "soldierRankID": 11
   }
  ],

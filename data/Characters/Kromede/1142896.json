@@ -2,9 +2,9 @@
  "characterID": 1142896,
  "characterClassID": 10,
  "raceID": 0,
- "position": 757,
- "rankingPositionChange": -1,
- "gloryPoint": 14432,
+ "position": 756,
+ "rankingPositionChange": 1,
+ "gloryPoint": 14425,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Renaii",
@@ -278,6 +278,14 @@
    "position": 757,
    "rankingPositionChange": -1,
    "gloryPoint": 14432,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 756,
+   "rankingPositionChange": 1,
+   "gloryPoint": 14425,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

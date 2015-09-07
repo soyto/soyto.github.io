@@ -2,9 +2,9 @@
  "characterID": 1203131,
  "characterClassID": 10,
  "raceID": 1,
- "position": 254,
- "rankingPositionChange": 0,
- "gloryPoint": 28945,
+ "position": 255,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28896,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shuyane",
@@ -280,6 +280,14 @@
    "position": 254,
    "rankingPositionChange": 0,
    "gloryPoint": 28945,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28896,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 7617,
  "characterClassID": 10,
  "raceID": 1,
- "position": 585,
- "rankingPositionChange": 1,
- "gloryPoint": 13391,
- "gloryPointChange": 96,
+ "position": 590,
+ "rankingPositionChange": -5,
+ "gloryPoint": 13377,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Cielo",
  "guildName": "Shadows of abyss",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13391,
    "gloryPointChange": 96,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 590,
+   "rankingPositionChange": -5,
+   "gloryPoint": 13377,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

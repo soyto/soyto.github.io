@@ -2,9 +2,9 @@
  "characterID": 678937,
  "characterClassID": 10,
  "raceID": 0,
- "position": 957,
- "rankingPositionChange": 5,
- "gloryPoint": 1764,
+ "position": 959,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1757,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Teddi",
@@ -80,6 +80,14 @@
    "position": 957,
    "rankingPositionChange": 5,
    "gloryPoint": 1764,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1757,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

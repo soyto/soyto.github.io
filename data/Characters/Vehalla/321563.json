@@ -3,9 +3,9 @@
  "characterClassID": 11,
  "raceID": 0,
  "position": 340,
- "rankingPositionChange": 1,
- "gloryPoint": 8003,
- "gloryPointChange": 72,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7975,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mikou",
  "guildName": "Elyos unleashed",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 8003,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 340,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7975,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

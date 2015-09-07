@@ -2,9 +2,9 @@
  "characterID": 1605647,
  "characterClassID": 1,
  "raceID": 1,
- "position": 844,
- "rankingPositionChange": 1,
- "gloryPoint": 13892,
+ "position": 850,
+ "rankingPositionChange": -6,
+ "gloryPoint": 13885,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Akiee",
@@ -280,6 +280,14 @@
    "position": 844,
    "rankingPositionChange": 1,
    "gloryPoint": 13892,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 850,
+   "rankingPositionChange": -6,
+   "gloryPoint": 13885,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,11 +2,11 @@
  "characterID": 833985,
  "characterClassID": 10,
  "raceID": 0,
- "position": 100,
- "rankingPositionChange": 0,
- "gloryPoint": 85218,
+ "position": 101,
+ "rankingPositionChange": -1,
+ "gloryPoint": 85111,
  "gloryPointChange": -107,
- "soldierRankID": 14,
+ "soldierRankID": 13,
  "characterName": "Eisqueen",
  "guildName": "Veritas Maximus",
  "guildID": 26203,
@@ -282,6 +282,14 @@
    "gloryPoint": 85218,
    "gloryPointChange": -107,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 101,
+   "rankingPositionChange": -1,
+   "gloryPoint": 85111,
+   "gloryPointChange": -107,
+   "soldierRankID": 13
   }
  ],
  "names": [

@@ -2,10 +2,10 @@
  "characterID": 969199,
  "characterClassID": 1,
  "raceID": 1,
- "position": 786,
- "rankingPositionChange": 0,
- "gloryPoint": 2925,
- "gloryPointChange": 20,
+ "position": 788,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2918,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Thypon",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 2925,
    "gloryPointChange": 20,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 788,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2918,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

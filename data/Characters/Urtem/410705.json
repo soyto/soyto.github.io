@@ -2,9 +2,9 @@
  "characterID": 410705,
  "characterClassID": 11,
  "raceID": 0,
- "position": 866,
- "rankingPositionChange": 0,
- "gloryPoint": 16409,
+ "position": 877,
+ "rankingPositionChange": -11,
+ "gloryPoint": 16402,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Feeling",
@@ -280,6 +280,14 @@
    "position": 866,
    "rankingPositionChange": 0,
    "gloryPoint": 16409,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 877,
+   "rankingPositionChange": -11,
+   "gloryPoint": 16402,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

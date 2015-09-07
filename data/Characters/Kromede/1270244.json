@@ -2,9 +2,9 @@
  "characterID": 1270244,
  "characterClassID": 2,
  "raceID": 1,
- "position": 79,
- "rankingPositionChange": 0,
- "gloryPoint": 99561,
+ "position": 80,
+ "rankingPositionChange": -1,
+ "gloryPoint": 99454,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Niyo",
@@ -280,6 +280,14 @@
    "position": 79,
    "rankingPositionChange": 0,
    "gloryPoint": 99561,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 80,
+   "rankingPositionChange": -1,
+   "gloryPoint": 99454,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

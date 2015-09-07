@@ -2,10 +2,10 @@
  "characterID": 550390,
  "characterClassID": 2,
  "raceID": 0,
- "position": 619,
- "rankingPositionChange": 0,
- "gloryPoint": 12458,
- "gloryPointChange": 49,
+ "position": 621,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12450,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Lordvicious",
  "guildName": "Fire Shadows",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 12458,
    "gloryPointChange": 49,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12450,
+   "gloryPointChange": -8,
    "soldierRankID": 11
   }
  ],

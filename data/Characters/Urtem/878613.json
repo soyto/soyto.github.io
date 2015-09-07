@@ -2,9 +2,9 @@
  "characterID": 878613,
  "characterClassID": 1,
  "raceID": 0,
- "position": 128,
- "rankingPositionChange": 0,
- "gloryPoint": 106304,
+ "position": 130,
+ "rankingPositionChange": -2,
+ "gloryPoint": 106255,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Makaaaa",
@@ -272,6 +272,14 @@
    "position": 128,
    "rankingPositionChange": 0,
    "gloryPoint": 106304,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 130,
+   "rankingPositionChange": -2,
+   "gloryPoint": 106255,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

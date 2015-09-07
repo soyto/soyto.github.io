@@ -2,9 +2,9 @@
  "characterID": 947902,
  "characterClassID": 11,
  "raceID": 1,
- "position": 110,
- "rankingPositionChange": 0,
- "gloryPoint": 95284,
+ "position": 114,
+ "rankingPositionChange": -4,
+ "gloryPoint": 95235,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rixter",
@@ -280,6 +280,14 @@
    "position": 110,
    "rankingPositionChange": 0,
    "gloryPoint": 95284,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 114,
+   "rankingPositionChange": -4,
+   "gloryPoint": 95235,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

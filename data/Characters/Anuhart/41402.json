@@ -2,10 +2,10 @@
  "characterID": 41402,
  "characterClassID": 1,
  "raceID": 0,
- "position": 75,
- "rankingPositionChange": 1,
- "gloryPoint": 110119,
- "gloryPointChange": 143,
+ "position": 76,
+ "rankingPositionChange": -1,
+ "gloryPoint": 110012,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Zangar",
  "guildName": "STAR",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 110119,
    "gloryPointChange": 143,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 76,
+   "rankingPositionChange": -1,
+   "gloryPoint": 110012,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

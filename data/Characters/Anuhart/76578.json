@@ -2,9 +2,9 @@
  "characterID": 76578,
  "characterClassID": 1,
  "raceID": 0,
- "position": 906,
- "rankingPositionChange": 1,
- "gloryPoint": 5013,
+ "position": 912,
+ "rankingPositionChange": -6,
+ "gloryPoint": 5006,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Darkblaze",
@@ -280,6 +280,14 @@
    "position": 906,
    "rankingPositionChange": 1,
    "gloryPoint": 5013,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": -6,
+   "gloryPoint": 5006,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 207125,
  "characterClassID": 4,
  "raceID": 0,
- "position": 849,
- "rankingPositionChange": 1,
- "gloryPoint": 11797,
+ "position": 857,
+ "rankingPositionChange": -8,
+ "gloryPoint": 11790,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shinigamico",
@@ -280,6 +280,14 @@
    "position": 849,
    "rankingPositionChange": 1,
    "gloryPoint": 11797,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 857,
+   "rankingPositionChange": -8,
+   "gloryPoint": 11790,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

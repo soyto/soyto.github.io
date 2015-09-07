@@ -2,9 +2,9 @@
  "characterID": 291984,
  "characterClassID": 11,
  "raceID": 0,
- "position": 894,
- "rankingPositionChange": 0,
- "gloryPoint": 10560,
+ "position": 900,
+ "rankingPositionChange": -6,
+ "gloryPoint": 10553,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Stelli",
@@ -270,6 +270,14 @@
    "position": 894,
    "rankingPositionChange": 0,
    "gloryPoint": 10560,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 900,
+   "rankingPositionChange": -6,
+   "gloryPoint": 10553,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

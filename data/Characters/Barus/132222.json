@@ -2,9 +2,9 @@
  "characterID": 132222,
  "characterClassID": 16,
  "raceID": 0,
- "position": 288,
- "rankingPositionChange": 0,
- "gloryPoint": 51038,
+ "position": 292,
+ "rankingPositionChange": -4,
+ "gloryPoint": 50989,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dajna",
@@ -280,6 +280,14 @@
    "position": 288,
    "rankingPositionChange": 0,
    "gloryPoint": 51038,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 292,
+   "rankingPositionChange": -4,
+   "gloryPoint": 50989,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 468599,
  "characterClassID": 5,
  "raceID": 0,
- "position": 90,
- "rankingPositionChange": 0,
- "gloryPoint": 92938,
+ "position": 92,
+ "rankingPositionChange": -2,
+ "gloryPoint": 92831,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Lafiel",
@@ -270,6 +270,14 @@
    "position": 90,
    "rankingPositionChange": 0,
    "gloryPoint": 92938,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": -2,
+   "gloryPoint": 92831,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

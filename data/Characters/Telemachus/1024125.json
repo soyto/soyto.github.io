@@ -2,10 +2,10 @@
  "characterID": 1024125,
  "characterClassID": 16,
  "raceID": 0,
- "position": 515,
- "rankingPositionChange": 0,
- "gloryPoint": 23335,
- "gloryPointChange": 146,
+ "position": 514,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23321,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Micu",
  "guildName": "Pendulum",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 23335,
    "gloryPointChange": 146,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23321,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

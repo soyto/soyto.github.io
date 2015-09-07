@@ -2,10 +2,10 @@
  "characterID": 165581,
  "characterClassID": 1,
  "raceID": 1,
- "position": 273,
- "rankingPositionChange": 0,
- "gloryPoint": 62497,
- "gloryPointChange": 154,
+ "position": 274,
+ "rankingPositionChange": -1,
+ "gloryPoint": 62708,
+ "gloryPointChange": 211,
  "soldierRankID": 13,
  "characterName": "Katalia",
  "guildName": "Laughing Coffine",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 62497,
    "gloryPointChange": 154,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 274,
+   "rankingPositionChange": -1,
+   "gloryPoint": 62708,
+   "gloryPointChange": 211,
    "soldierRankID": 13
   }
  ],

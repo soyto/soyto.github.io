@@ -2,9 +2,9 @@
  "characterID": 1125558,
  "characterClassID": 16,
  "raceID": 0,
- "position": 587,
- "rankingPositionChange": 0,
- "gloryPoint": 29023,
+ "position": 596,
+ "rankingPositionChange": -9,
+ "gloryPoint": 29009,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lenobya",
@@ -280,6 +280,14 @@
    "position": 587,
    "rankingPositionChange": 0,
    "gloryPoint": 29023,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": -9,
+   "gloryPoint": 29009,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

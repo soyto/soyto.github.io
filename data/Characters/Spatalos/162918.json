@@ -2,10 +2,10 @@
  "characterID": 162918,
  "characterClassID": 10,
  "raceID": 0,
- "position": 189,
+ "position": 188,
  "rankingPositionChange": 1,
- "gloryPoint": 78948,
- "gloryPointChange": 640,
+ "gloryPoint": 78899,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Daktaras",
  "guildName": "BlueWolves",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 78948,
    "gloryPointChange": 640,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 188,
+   "rankingPositionChange": 1,
+   "gloryPoint": 78899,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

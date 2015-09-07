@@ -2,10 +2,10 @@
  "characterID": 945693,
  "characterClassID": 14,
  "raceID": 0,
- "position": 493,
- "rankingPositionChange": 1,
- "gloryPoint": 24445,
- "gloryPointChange": 22,
+ "position": 494,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24507,
+ "gloryPointChange": 62,
  "soldierRankID": 12,
  "characterName": "Rhaedawn",
  "guildName": "Aions gesegnete Black Liga",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 24445,
    "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 494,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24507,
+   "gloryPointChange": 62,
    "soldierRankID": 12
   }
  ],

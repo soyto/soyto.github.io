@@ -2,10 +2,10 @@
  "characterID": 968164,
  "characterClassID": 14,
  "raceID": 1,
- "position": 536,
- "rankingPositionChange": 14,
- "gloryPoint": 1835,
- "gloryPointChange": 121,
+ "position": 538,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1821,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Aeyen",
  "guildName": "Black Mirror",
@@ -97,6 +97,14 @@
    "rankingPositionChange": 14,
    "gloryPoint": 1835,
    "gloryPointChange": 121,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1821,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

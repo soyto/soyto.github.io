@@ -2,10 +2,10 @@
  "characterID": 657131,
  "characterClassID": 10,
  "raceID": 1,
- "position": 935,
- "rankingPositionChange": -2,
- "gloryPoint": 11001,
- "gloryPointChange": -7,
+ "position": 930,
+ "rankingPositionChange": 5,
+ "gloryPoint": 11265,
+ "gloryPointChange": 264,
  "soldierRankID": 10,
  "characterName": "Blitzendegen",
  "status": [
@@ -119,6 +119,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 11001,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 930,
+   "rankingPositionChange": 5,
+   "gloryPoint": 11265,
+   "gloryPointChange": 264,
    "soldierRankID": 10
   }
  ],

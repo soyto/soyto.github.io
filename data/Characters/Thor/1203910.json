@@ -2,9 +2,9 @@
  "characterID": 1203910,
  "characterClassID": 11,
  "raceID": 1,
- "position": 531,
- "rankingPositionChange": 0,
- "gloryPoint": 26676,
+ "position": 534,
+ "rankingPositionChange": -3,
+ "gloryPoint": 26662,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Azco",
@@ -280,6 +280,14 @@
    "position": 531,
    "rankingPositionChange": 0,
    "gloryPoint": 26676,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 534,
+   "rankingPositionChange": -3,
+   "gloryPoint": 26662,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

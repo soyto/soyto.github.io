@@ -2,9 +2,9 @@
  "characterID": 303738,
  "characterClassID": 2,
  "raceID": 0,
- "position": 731,
- "rankingPositionChange": 0,
- "gloryPoint": 9111,
+ "position": 737,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9104,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Infernis",
@@ -182,6 +182,14 @@
    "position": 731,
    "rankingPositionChange": 0,
    "gloryPoint": 9111,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 737,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9104,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

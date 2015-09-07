@@ -2,13 +2,13 @@
  "characterID": 328904,
  "characterClassID": 2,
  "raceID": 0,
- "position": 702,
- "rankingPositionChange": 4,
- "gloryPoint": 2400,
+ "position": 706,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2393,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Impera",
- "guildName": "THUG LIFE",
+ "guildName": "Shining Fate",
  "guildID": 15554,
  "status": [
   {
@@ -280,6 +280,14 @@
    "position": 702,
    "rankingPositionChange": 4,
    "gloryPoint": 2400,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 706,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2393,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

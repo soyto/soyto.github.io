@@ -2,9 +2,9 @@
  "characterID": 248784,
  "characterClassID": 1,
  "raceID": 0,
- "position": 805,
- "rankingPositionChange": 0,
- "gloryPoint": 7393,
+ "position": 810,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7386,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Piinguu",
@@ -280,6 +280,14 @@
    "position": 805,
    "rankingPositionChange": 0,
    "gloryPoint": 7393,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 810,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7386,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

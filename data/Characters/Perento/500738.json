@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 850,
- "rankingPositionChange": -5,
- "gloryPoint": 2326,
- "gloryPointChange": -14,
+ "rankingPositionChange": 0,
+ "gloryPoint": 2319,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Teke",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 2326,
    "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 850,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2319,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 985683,
  "characterClassID": 13,
  "raceID": 0,
- "position": 716,
- "rankingPositionChange": 2,
- "gloryPoint": 8459,
- "gloryPointChange": 93,
+ "position": 717,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8452,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Necromore",
  "guildName": "ARMAGEDDON",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 8459,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 717,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8452,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

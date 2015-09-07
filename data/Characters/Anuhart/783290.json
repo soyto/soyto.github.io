@@ -2,9 +2,9 @@
  "characterID": 783290,
  "characterClassID": 10,
  "raceID": 0,
- "position": 943,
- "rankingPositionChange": 0,
- "gloryPoint": 4659,
+ "position": 948,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4652,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Doctorek",
@@ -240,6 +240,14 @@
    "position": 943,
    "rankingPositionChange": 0,
    "gloryPoint": 4659,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 948,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4652,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

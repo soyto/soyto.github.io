@@ -2,10 +2,10 @@
  "characterID": 1037000,
  "characterClassID": 16,
  "raceID": 1,
- "position": 94,
- "rankingPositionChange": 1,
- "gloryPoint": 63904,
- "gloryPointChange": 83,
+ "position": 95,
+ "rankingPositionChange": -1,
+ "gloryPoint": 64088,
+ "gloryPointChange": 184,
  "soldierRankID": 14,
  "characterName": "Rococo",
  "guildName": "The Legion of Friends",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 63904,
    "gloryPointChange": 83,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 95,
+   "rankingPositionChange": -1,
+   "gloryPoint": 64088,
+   "gloryPointChange": 184,
    "soldierRankID": 14
   }
  ],

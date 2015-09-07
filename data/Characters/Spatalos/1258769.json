@@ -2,9 +2,9 @@
  "characterID": 1258769,
  "characterClassID": 4,
  "raceID": 1,
- "position": 90,
- "rankingPositionChange": 0,
- "gloryPoint": 75369,
+ "position": 92,
+ "rankingPositionChange": -2,
+ "gloryPoint": 75262,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Valreex",
@@ -278,6 +278,14 @@
    "position": 90,
    "rankingPositionChange": 0,
    "gloryPoint": 75369,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": -2,
+   "gloryPoint": 75262,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

@@ -2,10 +2,10 @@
  "characterID": 648728,
  "characterClassID": 11,
  "raceID": 0,
- "position": 484,
- "rankingPositionChange": 6,
- "gloryPoint": 15092,
- "gloryPointChange": 295,
+ "position": 486,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15126,
+ "gloryPointChange": 34,
  "soldierRankID": 12,
  "characterName": "Zafro",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 15092,
    "gloryPointChange": 295,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 486,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15126,
+   "gloryPointChange": 34,
    "soldierRankID": 12
   }
  ],

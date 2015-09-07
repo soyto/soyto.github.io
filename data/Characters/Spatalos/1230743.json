@@ -2,14 +2,14 @@
  "characterID": 1230743,
  "characterClassID": 2,
  "raceID": 0,
- "position": 560,
- "rankingPositionChange": -1,
- "gloryPoint": 20475,
- "gloryPointChange": -14,
+ "position": 552,
+ "rankingPositionChange": 8,
+ "gloryPoint": 20714,
+ "gloryPointChange": 239,
  "soldierRankID": 11,
  "characterName": "Arthurist",
- "guildName": "TURK BIRLIGI",
- "guildID": 24228,
+ "guildName": "Honor Of Elyos",
+ "guildID": 29954,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 20475,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 552,
+   "rankingPositionChange": 8,
+   "gloryPoint": 20714,
+   "gloryPointChange": 239,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "TURK BIRLIGI",
    "guildID": 24228
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Honor Of Elyos",
+   "guildID": 29954
   }
  ]
 }

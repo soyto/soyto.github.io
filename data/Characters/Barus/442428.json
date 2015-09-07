@@ -2,9 +2,9 @@
  "characterID": 442428,
  "characterClassID": 7,
  "raceID": 1,
- "position": 882,
- "rankingPositionChange": 4,
- "gloryPoint": 12280,
+ "position": 887,
+ "rankingPositionChange": -5,
+ "gloryPoint": 12293,
  "gloryPointChange": 13,
  "soldierRankID": 10,
  "characterName": "Chibipew",
@@ -278,6 +278,14 @@
    "position": 882,
    "rankingPositionChange": 4,
    "gloryPoint": 12280,
+   "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 887,
+   "rankingPositionChange": -5,
+   "gloryPoint": 12293,
    "gloryPointChange": 13,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 423644,
  "characterClassID": 10,
  "raceID": 0,
- "position": 428,
- "rankingPositionChange": 1,
- "gloryPoint": 21656,
- "gloryPointChange": 62,
+ "position": 429,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21717,
+ "gloryPointChange": 61,
  "soldierRankID": 12,
  "characterName": "Stanc",
  "guildName": "Elements of Insanity",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 21656,
    "gloryPointChange": 62,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 429,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21717,
+   "gloryPointChange": 61,
    "soldierRankID": 12
   }
  ],

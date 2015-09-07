@@ -2,9 +2,9 @@
  "characterID": 1519714,
  "characterClassID": 1,
  "raceID": 1,
- "position": 529,
- "rankingPositionChange": 0,
- "gloryPoint": 26709,
+ "position": 532,
+ "rankingPositionChange": -3,
+ "gloryPoint": 26695,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Briesa",
@@ -278,6 +278,14 @@
    "position": 529,
    "rankingPositionChange": 0,
    "gloryPoint": 26709,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 532,
+   "rankingPositionChange": -3,
+   "gloryPoint": 26695,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

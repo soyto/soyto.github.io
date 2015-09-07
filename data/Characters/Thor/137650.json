@@ -2,10 +2,10 @@
  "characterID": 137650,
  "characterClassID": 2,
  "raceID": 1,
- "position": 42,
- "rankingPositionChange": 1,
- "gloryPoint": 205021,
- "gloryPointChange": 956,
+ "position": 43,
+ "rankingPositionChange": -1,
+ "gloryPoint": 205314,
+ "gloryPointChange": 293,
  "soldierRankID": 14,
  "characterName": "Smokey",
  "guildName": "Heer der Finsternis",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 205021,
    "gloryPointChange": 956,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 43,
+   "rankingPositionChange": -1,
+   "gloryPoint": 205314,
+   "gloryPointChange": 293,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 397217,
  "characterClassID": 7,
  "raceID": 1,
- "position": 809,
- "rankingPositionChange": 0,
- "gloryPoint": 8429,
+ "position": 812,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8422,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eowurion",
@@ -224,6 +224,14 @@
    "position": 809,
    "rankingPositionChange": 0,
    "gloryPoint": 8429,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8422,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

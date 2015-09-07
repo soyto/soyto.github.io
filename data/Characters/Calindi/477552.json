@@ -2,9 +2,9 @@
  "characterID": 477552,
  "characterClassID": 16,
  "raceID": 0,
- "position": 390,
- "rankingPositionChange": 0,
- "gloryPoint": 11483,
+ "position": 395,
+ "rankingPositionChange": -5,
+ "gloryPoint": 11455,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Iderecki",
@@ -280,6 +280,14 @@
    "position": 390,
    "rankingPositionChange": 0,
    "gloryPoint": 11483,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 395,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11455,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 1299704,
  "characterClassID": 11,
  "raceID": 1,
- "position": 502,
- "rankingPositionChange": 0,
- "gloryPoint": 9703,
+ "position": 507,
+ "rankingPositionChange": -5,
+ "gloryPoint": 9689,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Xelahriyah",
@@ -272,6 +272,14 @@
    "position": 502,
    "rankingPositionChange": 0,
    "gloryPoint": 9703,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 507,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9689,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

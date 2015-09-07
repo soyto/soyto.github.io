@@ -2,9 +2,9 @@
  "characterID": 1155521,
  "characterClassID": 4,
  "raceID": 0,
- "position": 531,
- "rankingPositionChange": 2,
- "gloryPoint": 17524,
+ "position": 533,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17510,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Blacksouk",
@@ -280,6 +280,14 @@
    "position": 531,
    "rankingPositionChange": 2,
    "gloryPoint": 17524,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 533,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17510,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

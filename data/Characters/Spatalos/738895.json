@@ -2,9 +2,9 @@
  "characterID": 738895,
  "characterClassID": 11,
  "raceID": 0,
- "position": 623,
- "rankingPositionChange": 3,
- "gloryPoint": 17502,
+ "position": 624,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17488,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Feye",
@@ -200,6 +200,14 @@
    "position": 623,
    "rankingPositionChange": 3,
    "gloryPoint": 17502,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 624,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17488,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

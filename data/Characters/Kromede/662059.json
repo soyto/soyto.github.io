@@ -2,9 +2,9 @@
  "characterID": 662059,
  "characterClassID": 8,
  "raceID": 0,
- "position": 158,
- "rankingPositionChange": 0,
- "gloryPoint": 85064,
+ "position": 159,
+ "rankingPositionChange": -1,
+ "gloryPoint": 85015,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shiemysan",
@@ -272,6 +272,14 @@
    "position": 158,
    "rankingPositionChange": 0,
    "gloryPoint": 85064,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": -1,
+   "gloryPoint": 85015,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

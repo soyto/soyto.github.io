@@ -2,9 +2,9 @@
  "characterID": 864528,
  "characterClassID": 7,
  "raceID": 0,
- "position": 126,
- "rankingPositionChange": 1,
- "gloryPoint": 117156,
+ "position": 127,
+ "rankingPositionChange": -1,
+ "gloryPoint": 117107,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Uknown",
@@ -280,6 +280,14 @@
    "position": 126,
    "rankingPositionChange": 1,
    "gloryPoint": 117156,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": -1,
+   "gloryPoint": 117107,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

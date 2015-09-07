@@ -2,10 +2,10 @@
  "characterID": 1129412,
  "characterClassID": 16,
  "raceID": 1,
- "position": 916,
- "rankingPositionChange": 8,
- "gloryPoint": 1864,
- "gloryPointChange": 21,
+ "position": 917,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1857,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Arshesnei",
  "status": [
@@ -31,6 +31,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 1864,
    "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 917,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1857,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 552122,
  "characterClassID": 4,
  "raceID": 1,
- "position": 486,
- "rankingPositionChange": 2,
- "gloryPoint": 27650,
+ "position": 489,
+ "rankingPositionChange": -3,
+ "gloryPoint": 27622,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Assasinio",
@@ -280,6 +280,14 @@
    "position": 486,
    "rankingPositionChange": 2,
    "gloryPoint": 27650,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 489,
+   "rankingPositionChange": -3,
+   "gloryPoint": 27622,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

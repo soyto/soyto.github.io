@@ -2,10 +2,10 @@
  "characterID": 934224,
  "characterClassID": 16,
  "raceID": 0,
- "position": 400,
- "rankingPositionChange": 2,
- "gloryPoint": 31110,
- "gloryPointChange": 275,
+ "position": 402,
+ "rankingPositionChange": -2,
+ "gloryPoint": 31082,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tetsumi",
  "guildName": "SinAviso",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 31110,
    "gloryPointChange": 275,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 402,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31082,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

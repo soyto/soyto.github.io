@@ -2,11 +2,11 @@
  "characterID": 908908,
  "characterClassID": 10,
  "raceID": 0,
- "position": 985,
- "rankingPositionChange": 1,
- "gloryPoint": 1705,
+ "position": 1000,
+ "rankingPositionChange": -15,
+ "gloryPoint": 1691,
  "gloryPointChange": -14,
- "soldierRankID": 10,
+ "soldierRankID": 0,
  "characterName": "Candya",
  "guildName": "TrOublemaker",
  "guildID": 23865,
@@ -82,6 +82,14 @@
    "gloryPoint": 1705,
    "gloryPointChange": -14,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -15,
+   "gloryPoint": 1691,
+   "gloryPointChange": -14,
+   "soldierRankID": 0
   }
  ],
  "names": [

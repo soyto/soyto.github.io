@@ -2,9 +2,9 @@
  "characterID": 351658,
  "characterClassID": 2,
  "raceID": 0,
- "position": 870,
- "rankingPositionChange": 3,
- "gloryPoint": 1450,
+ "position": 876,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1443,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Toshimy",
@@ -280,6 +280,14 @@
    "position": 870,
    "rankingPositionChange": 3,
    "gloryPoint": 1450,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 876,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1443,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

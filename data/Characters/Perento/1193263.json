@@ -2,9 +2,9 @@
  "characterID": 1193263,
  "characterClassID": 13,
  "raceID": 0,
- "position": 959,
- "rankingPositionChange": 0,
- "gloryPoint": 5302,
+ "position": 954,
+ "rankingPositionChange": 5,
+ "gloryPoint": 5295,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fizruk",
@@ -280,6 +280,14 @@
    "position": 959,
    "rankingPositionChange": 0,
    "gloryPoint": 5302,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 954,
+   "rankingPositionChange": 5,
+   "gloryPoint": 5295,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

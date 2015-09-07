@@ -2,9 +2,9 @@
  "characterID": 233134,
  "characterClassID": 7,
  "raceID": 0,
- "position": 883,
- "rankingPositionChange": 1,
- "gloryPoint": 1417,
+ "position": 888,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1410,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Raekwon",
@@ -64,6 +64,14 @@
    "position": 883,
    "rankingPositionChange": 1,
    "gloryPoint": 1417,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 888,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1410,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

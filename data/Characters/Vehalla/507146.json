@@ -2,9 +2,9 @@
  "characterID": 507146,
  "characterClassID": 11,
  "raceID": 1,
- "position": 633,
- "rankingPositionChange": -1,
- "gloryPoint": 1320,
+ "position": 643,
+ "rankingPositionChange": -10,
+ "gloryPoint": 1313,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jakkeline",
@@ -136,6 +136,14 @@
    "position": 633,
    "rankingPositionChange": -1,
    "gloryPoint": 1320,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 643,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1313,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

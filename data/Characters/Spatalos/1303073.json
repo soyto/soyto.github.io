@@ -2,10 +2,10 @@
  "characterID": 1303073,
  "characterClassID": 11,
  "raceID": 0,
- "position": 616,
- "rankingPositionChange": 0,
- "gloryPoint": 16979,
- "gloryPointChange": 0,
+ "position": 641,
+ "rankingPositionChange": -25,
+ "gloryPoint": 16643,
+ "gloryPointChange": -336,
  "soldierRankID": 11,
  "characterName": "Bloodxseeker",
  "guildName": "Shake It Off",
@@ -105,6 +105,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 16979,
    "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 641,
+   "rankingPositionChange": -25,
+   "gloryPoint": 16643,
+   "gloryPointChange": -336,
    "soldierRankID": 11
   }
  ],

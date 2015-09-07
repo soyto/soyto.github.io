@@ -2,10 +2,10 @@
  "characterID": 270006,
  "characterClassID": 8,
  "raceID": 0,
- "position": 229,
- "rankingPositionChange": 4,
- "gloryPoint": 33632,
- "gloryPointChange": 401,
+ "position": 231,
+ "rankingPositionChange": -2,
+ "gloryPoint": 33592,
+ "gloryPointChange": -40,
  "soldierRankID": 13,
  "characterName": "Kupi",
  "guildName": "Random",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 33632,
    "gloryPointChange": 401,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 231,
+   "rankingPositionChange": -2,
+   "gloryPoint": 33592,
+   "gloryPointChange": -40,
    "soldierRankID": 13
   }
  ],

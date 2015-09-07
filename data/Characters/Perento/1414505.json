@@ -2,9 +2,9 @@
  "characterID": 1414505,
  "characterClassID": 1,
  "raceID": 1,
- "position": 584,
- "rankingPositionChange": 0,
- "gloryPoint": 6024,
+ "position": 583,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6010,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Onigiri",
@@ -280,6 +280,14 @@
    "position": 584,
    "rankingPositionChange": 0,
    "gloryPoint": 6024,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 583,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6010,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

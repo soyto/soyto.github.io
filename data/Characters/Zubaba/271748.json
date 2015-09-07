@@ -3,8 +3,8 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 790,
- "rankingPositionChange": -4,
- "gloryPoint": 5632,
+ "rankingPositionChange": 0,
+ "gloryPoint": 5625,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Camellia",
@@ -280,6 +280,14 @@
    "position": 790,
    "rankingPositionChange": -4,
    "gloryPoint": 5632,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 790,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5625,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

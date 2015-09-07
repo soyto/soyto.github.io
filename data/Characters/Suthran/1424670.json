@@ -2,9 +2,9 @@
  "characterID": 1424670,
  "characterClassID": 16,
  "raceID": 1,
- "position": 527,
- "rankingPositionChange": 0,
- "gloryPoint": 14720,
+ "position": 530,
+ "rankingPositionChange": -3,
+ "gloryPoint": 14706,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Noisetty",
@@ -270,6 +270,14 @@
    "position": 527,
    "rankingPositionChange": 0,
    "gloryPoint": 14720,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 530,
+   "rankingPositionChange": -3,
+   "gloryPoint": 14706,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

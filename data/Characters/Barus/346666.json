@@ -2,10 +2,10 @@
  "characterID": 346666,
  "characterClassID": 5,
  "raceID": 1,
- "position": 268,
- "rankingPositionChange": 0,
- "gloryPoint": 56401,
- "gloryPointChange": 139,
+ "position": 269,
+ "rankingPositionChange": -1,
+ "gloryPoint": 56352,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Masakra",
  "guildName": " Turbo Friends ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 56401,
    "gloryPointChange": 139,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 269,
+   "rankingPositionChange": -1,
+   "gloryPoint": 56352,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

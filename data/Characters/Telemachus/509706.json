@@ -2,9 +2,9 @@
  "characterID": 509706,
  "characterClassID": 11,
  "raceID": 0,
- "position": 377,
- "rankingPositionChange": 0,
- "gloryPoint": 35919,
+ "position": 376,
+ "rankingPositionChange": 1,
+ "gloryPoint": 35891,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Agaeus",
@@ -280,6 +280,14 @@
    "position": 377,
    "rankingPositionChange": 0,
    "gloryPoint": 35919,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 376,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35891,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

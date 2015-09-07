@@ -2,9 +2,9 @@
  "characterID": 1125633,
  "characterClassID": 14,
  "raceID": 0,
- "position": 104,
- "rankingPositionChange": 0,
- "gloryPoint": 130990,
+ "position": 105,
+ "rankingPositionChange": -1,
+ "gloryPoint": 130941,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Chiffre",
@@ -272,6 +272,14 @@
    "position": 104,
    "rankingPositionChange": 0,
    "gloryPoint": 130990,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": -1,
+   "gloryPoint": 130941,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

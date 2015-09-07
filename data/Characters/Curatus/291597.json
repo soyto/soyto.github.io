@@ -2,9 +2,9 @@
  "characterID": 291597,
  "characterClassID": 4,
  "raceID": 0,
- "position": 920,
- "rankingPositionChange": 0,
- "gloryPoint": 9903,
+ "position": 926,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9896,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gamexover",
@@ -278,6 +278,14 @@
    "position": 920,
    "rankingPositionChange": 0,
    "gloryPoint": 9903,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9896,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

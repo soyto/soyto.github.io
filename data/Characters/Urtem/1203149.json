@@ -2,9 +2,9 @@
  "characterID": 1203149,
  "characterClassID": 16,
  "raceID": 1,
- "position": 829,
- "rankingPositionChange": 0,
- "gloryPoint": 9256,
+ "position": 838,
+ "rankingPositionChange": -9,
+ "gloryPoint": 9249,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dyslexie",
@@ -280,6 +280,14 @@
    "position": 829,
    "rankingPositionChange": 0,
    "gloryPoint": 9256,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 838,
+   "rankingPositionChange": -9,
+   "gloryPoint": 9249,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

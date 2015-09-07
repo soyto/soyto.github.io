@@ -2,9 +2,9 @@
  "characterID": 869137,
  "characterClassID": 10,
  "raceID": 0,
- "position": 133,
- "rankingPositionChange": 0,
- "gloryPoint": 99062,
+ "position": 134,
+ "rankingPositionChange": -1,
+ "gloryPoint": 99013,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Anamariag",
@@ -280,6 +280,14 @@
    "position": 133,
    "rankingPositionChange": 0,
    "gloryPoint": 99062,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 134,
+   "rankingPositionChange": -1,
+   "gloryPoint": 99013,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

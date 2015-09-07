@@ -2,14 +2,12 @@
  "characterID": 1037053,
  "characterClassID": 11,
  "raceID": 0,
- "position": 370,
+ "position": 367,
  "rankingPositionChange": 3,
- "gloryPoint": 34121,
- "gloryPointChange": 572,
+ "gloryPoint": 34413,
+ "gloryPointChange": 292,
  "soldierRankID": 12,
  "characterName": "Mayuka",
- "guildName": "The Wind is pushing meeeeeeeeeee",
- "guildID": 29251,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 34121,
    "gloryPointChange": 572,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 367,
+   "rankingPositionChange": 3,
+   "gloryPoint": 34413,
+   "gloryPointChange": 292,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Wind is pushing meeeeeeeeeee",
    "guildID": 29251
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

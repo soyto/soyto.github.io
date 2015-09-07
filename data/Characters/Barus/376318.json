@@ -2,14 +2,12 @@
  "characterID": 376318,
  "characterClassID": 2,
  "raceID": 1,
- "position": 304,
- "rankingPositionChange": 1,
- "gloryPoint": 50177,
- "gloryPointChange": -28,
+ "position": 306,
+ "rankingPositionChange": -2,
+ "gloryPoint": 50182,
+ "gloryPointChange": 5,
  "soldierRankID": 12,
  "characterName": "Skrzatonix",
- "guildName": "Equillibrium",
- "guildID": 10467,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 50177,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 306,
+   "rankingPositionChange": -2,
+   "gloryPoint": 50182,
+   "gloryPointChange": 5,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Equillibrium",
    "guildID": 10467
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

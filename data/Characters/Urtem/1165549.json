@@ -2,9 +2,9 @@
  "characterID": 1165549,
  "characterClassID": 10,
  "raceID": 1,
- "position": 593,
- "rankingPositionChange": 0,
- "gloryPoint": 14424,
+ "position": 596,
+ "rankingPositionChange": -3,
+ "gloryPoint": 14410,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Neuroleptia",
@@ -280,6 +280,14 @@
    "position": 593,
    "rankingPositionChange": 0,
    "gloryPoint": 14424,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": -3,
+   "gloryPoint": 14410,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

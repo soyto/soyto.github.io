@@ -2,10 +2,10 @@
  "characterID": 433552,
  "characterClassID": 7,
  "raceID": 0,
- "position": 56,
- "rankingPositionChange": 1,
- "gloryPoint": 125365,
- "gloryPointChange": 411,
+ "position": 57,
+ "rankingPositionChange": -1,
+ "gloryPoint": 125852,
+ "gloryPointChange": 487,
  "soldierRankID": 14,
  "characterName": "Morgganne",
  "guildName": "ENTRE NOUS",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 125365,
    "gloryPointChange": 411,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 57,
+   "rankingPositionChange": -1,
+   "gloryPoint": 125852,
+   "gloryPointChange": 487,
    "soldierRankID": 14
   }
  ],

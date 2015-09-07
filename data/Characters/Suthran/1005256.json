@@ -2,10 +2,10 @@
  "characterID": 1005256,
  "characterClassID": 10,
  "raceID": 0,
- "position": 544,
- "rankingPositionChange": 2,
- "gloryPoint": 28408,
- "gloryPointChange": 84,
+ "position": 545,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28394,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Belgarat",
  "guildName": "Nareth",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 28408,
    "gloryPointChange": 84,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 545,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28394,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

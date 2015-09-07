@@ -2,10 +2,10 @@
  "characterID": 270465,
  "characterClassID": 10,
  "raceID": 1,
- "position": 105,
- "rankingPositionChange": 0,
- "gloryPoint": 83465,
- "gloryPointChange": 176,
+ "position": 106,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83779,
+ "gloryPointChange": 314,
  "soldierRankID": 13,
  "characterName": "Hursula",
  "guildName": "A D V",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 83465,
    "gloryPointChange": 176,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 106,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83779,
+   "gloryPointChange": 314,
    "soldierRankID": 13
   }
  ],

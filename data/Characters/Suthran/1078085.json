@@ -2,9 +2,9 @@
  "characterID": 1078085,
  "characterClassID": 14,
  "raceID": 0,
- "position": 938,
- "rankingPositionChange": 0,
- "gloryPoint": 11004,
+ "position": 939,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10997,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pheobee",
@@ -278,6 +278,14 @@
    "position": 938,
    "rankingPositionChange": 0,
    "gloryPoint": 11004,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 939,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10997,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

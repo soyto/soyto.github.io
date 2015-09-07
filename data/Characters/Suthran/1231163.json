@@ -2,10 +2,10 @@
  "characterID": 1231163,
  "characterClassID": 13,
  "raceID": 0,
- "position": 487,
- "rankingPositionChange": 1,
- "gloryPoint": 32252,
- "gloryPointChange": 132,
+ "position": 488,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32224,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Infighter",
  "guildName": "Integrator",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 32252,
    "gloryPointChange": 132,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 488,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32224,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

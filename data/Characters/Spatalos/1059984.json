@@ -2,10 +2,10 @@
  "characterID": 1059984,
  "characterClassID": 16,
  "raceID": 0,
- "position": 221,
- "rankingPositionChange": 1,
- "gloryPoint": 68209,
- "gloryPointChange": 251,
+ "position": 222,
+ "rankingPositionChange": -1,
+ "gloryPoint": 68160,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Eirynn",
  "guildName": " S P Q R ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 68209,
    "gloryPointChange": 251,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68160,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

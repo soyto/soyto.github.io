@@ -2,10 +2,10 @@
  "characterID": 609621,
  "characterClassID": 10,
  "raceID": 0,
- "position": 295,
- "rankingPositionChange": 2,
- "gloryPoint": 44158,
- "gloryPointChange": 207,
+ "position": 297,
+ "rankingPositionChange": -2,
+ "gloryPoint": 44109,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kavouris",
  "guildName": "Ultimate Destiny",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 44158,
    "gloryPointChange": 207,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 297,
+   "rankingPositionChange": -2,
+   "gloryPoint": 44109,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

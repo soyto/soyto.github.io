@@ -2,9 +2,9 @@
  "characterID": 996000,
  "characterClassID": 11,
  "raceID": 0,
- "position": 601,
- "rankingPositionChange": 0,
- "gloryPoint": 14885,
+ "position": 602,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14871,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Septembre",
@@ -280,6 +280,14 @@
    "position": 601,
    "rankingPositionChange": 0,
    "gloryPoint": 14885,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 602,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14871,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

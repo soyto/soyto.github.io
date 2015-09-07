@@ -2,14 +2,14 @@
  "characterID": 109918,
  "characterClassID": 10,
  "raceID": 1,
- "position": 716,
- "rankingPositionChange": -4,
- "gloryPoint": 3930,
- "gloryPointChange": -7,
+ "position": 721,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4023,
+ "gloryPointChange": 93,
  "soldierRankID": 10,
  "characterName": "Relaxxx",
- "guildName": "Alco Holics",
- "guildID": 2220,
+ "guildName": "Evil Souls",
+ "guildID": 21091,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 3930,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 721,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4023,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Alco Holics",
    "guildID": 2220
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Evil Souls",
+   "guildID": 21091
   }
  ]
 }

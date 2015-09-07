@@ -2,10 +2,10 @@
  "characterID": 408363,
  "characterClassID": 5,
  "raceID": 1,
- "position": 939,
- "rankingPositionChange": 17,
- "gloryPoint": 10867,
- "gloryPointChange": 329,
+ "position": 940,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11033,
+ "gloryPointChange": 166,
  "soldierRankID": 10,
  "characterName": "Haghel",
  "guildName": "DevastatioN",
@@ -49,6 +49,14 @@
    "rankingPositionChange": 17,
    "gloryPoint": 10867,
    "gloryPointChange": 329,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11033,
+   "gloryPointChange": 166,
    "soldierRankID": 10
   }
  ],

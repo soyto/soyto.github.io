@@ -2,10 +2,10 @@
  "characterID": 1013892,
  "characterClassID": 8,
  "raceID": 1,
- "position": 965,
- "rankingPositionChange": 2,
- "gloryPoint": 2208,
- "gloryPointChange": 53,
+ "position": 971,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2201,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dorphina",
  "status": [
@@ -207,6 +207,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 2208,
    "gloryPointChange": 53,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 971,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2201,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

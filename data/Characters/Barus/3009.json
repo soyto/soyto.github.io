@@ -2,9 +2,9 @@
  "characterID": 3009,
  "characterClassID": 8,
  "raceID": 1,
- "position": 344,
- "rankingPositionChange": 1,
- "gloryPoint": 43665,
+ "position": 349,
+ "rankingPositionChange": -5,
+ "gloryPoint": 43637,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hallina",
@@ -280,6 +280,14 @@
    "position": 344,
    "rankingPositionChange": 1,
    "gloryPoint": 43665,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 349,
+   "rankingPositionChange": -5,
+   "gloryPoint": 43637,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,14 +2,12 @@
  "characterID": 216691,
  "characterClassID": 10,
  "raceID": 1,
- "position": 759,
- "rankingPositionChange": -2,
- "gloryPoint": 3809,
+ "position": 767,
+ "rankingPositionChange": -8,
+ "gloryPoint": 3802,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yzil",
- "guildName": "Evul Smurfies",
- "guildID": 10773,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 3809,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 767,
+   "rankingPositionChange": -8,
+   "gloryPoint": 3802,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Evul Smurfies",
    "guildID": 10773
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

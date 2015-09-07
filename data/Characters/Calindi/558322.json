@@ -2,10 +2,10 @@
  "characterID": 558322,
  "characterClassID": 7,
  "raceID": 0,
- "position": 240,
- "rankingPositionChange": 3,
- "gloryPoint": 28164,
- "gloryPointChange": 411,
+ "position": 242,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28115,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rennette",
  "guildName": "Tales of Dreamers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 28164,
    "gloryPointChange": 411,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 242,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28115,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

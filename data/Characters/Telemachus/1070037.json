@@ -2,10 +2,10 @@
  "characterID": 1070037,
  "characterClassID": 2,
  "raceID": 1,
- "position": 668,
- "rankingPositionChange": 14,
- "gloryPoint": 1570,
- "gloryPointChange": 136,
+ "position": 670,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1556,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Tiinkerbell",
  "guildName": "LostBoys",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 14,
    "gloryPoint": 1570,
    "gloryPointChange": 136,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 670,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1556,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

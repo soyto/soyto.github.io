@@ -2,10 +2,10 @@
  "characterID": 458549,
  "characterClassID": 1,
  "raceID": 0,
- "position": 135,
- "rankingPositionChange": 0,
- "gloryPoint": 48303,
- "gloryPointChange": 351,
+ "position": 136,
+ "rankingPositionChange": -1,
+ "gloryPoint": 48354,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Akazei",
  "guildName": "ClearRUN",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 48303,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 136,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48354,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

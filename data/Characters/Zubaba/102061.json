@@ -2,9 +2,9 @@
  "characterID": 102061,
  "characterClassID": 11,
  "raceID": 0,
- "position": 940,
- "rankingPositionChange": -4,
- "gloryPoint": 3293,
+ "position": 939,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3286,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kurohime",
@@ -280,6 +280,14 @@
    "position": 940,
    "rankingPositionChange": -4,
    "gloryPoint": 3293,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 939,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3286,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

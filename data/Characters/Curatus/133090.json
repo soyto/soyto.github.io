@@ -2,9 +2,9 @@
  "characterID": 133090,
  "characterClassID": 4,
  "raceID": 0,
- "position": 655,
- "rankingPositionChange": 0,
- "gloryPoint": 19387,
+ "position": 656,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19373,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kkill",
@@ -278,6 +278,14 @@
    "position": 655,
    "rankingPositionChange": 0,
    "gloryPoint": 19387,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 656,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19373,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

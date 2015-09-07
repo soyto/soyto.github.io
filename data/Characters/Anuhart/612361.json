@@ -2,10 +2,10 @@
  "characterID": 612361,
  "characterClassID": 4,
  "raceID": 0,
- "position": 209,
- "rankingPositionChange": 0,
- "gloryPoint": 47970,
- "gloryPointChange": 11,
+ "position": 210,
+ "rankingPositionChange": -1,
+ "gloryPoint": 48031,
+ "gloryPointChange": 61,
  "soldierRankID": 13,
  "characterName": "Finolix",
  "guildName": "Elder",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 47970,
    "gloryPointChange": 11,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 210,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48031,
+   "gloryPointChange": 61,
    "soldierRankID": 13
   }
  ],

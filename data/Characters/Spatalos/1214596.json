@@ -2,9 +2,9 @@
  "characterID": 1214596,
  "characterClassID": 1,
  "raceID": 0,
- "position": 808,
- "rankingPositionChange": 4,
- "gloryPoint": 9990,
+ "position": 812,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9983,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nesster",
@@ -278,6 +278,14 @@
    "position": 808,
    "rankingPositionChange": 4,
    "gloryPoint": 9990,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9983,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

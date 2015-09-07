@@ -2,10 +2,10 @@
  "characterID": 1647814,
  "characterClassID": 4,
  "raceID": 1,
- "position": 847,
- "rankingPositionChange": 1,
- "gloryPoint": 13861,
- "gloryPointChange": 43,
+ "position": 852,
+ "rankingPositionChange": -5,
+ "gloryPoint": 13854,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Daggerchoice",
  "guildName": "Randale Clan United",
@@ -73,6 +73,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13861,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -5,
+   "gloryPoint": 13854,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

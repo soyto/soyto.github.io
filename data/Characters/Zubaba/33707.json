@@ -2,9 +2,9 @@
  "characterID": 33707,
  "characterClassID": 1,
  "raceID": 1,
- "position": 527,
- "rankingPositionChange": 0,
- "gloryPoint": 8147,
+ "position": 531,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8133,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Suqarman",
@@ -224,6 +224,14 @@
    "position": 527,
    "rankingPositionChange": 0,
    "gloryPoint": 8147,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 531,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8133,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

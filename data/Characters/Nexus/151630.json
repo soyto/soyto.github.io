@@ -2,10 +2,10 @@
  "characterID": 151630,
  "characterClassID": 4,
  "raceID": 1,
- "position": 281,
- "rankingPositionChange": 1,
- "gloryPoint": 61282,
- "gloryPointChange": 442,
+ "position": 283,
+ "rankingPositionChange": -2,
+ "gloryPoint": 61690,
+ "gloryPointChange": 408,
  "soldierRankID": 13,
  "characterName": "Pamidor",
  "guildName": "Atreia Rectum",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 61282,
    "gloryPointChange": 442,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 283,
+   "rankingPositionChange": -2,
+   "gloryPoint": 61690,
+   "gloryPointChange": 408,
    "soldierRankID": 13
   }
  ],

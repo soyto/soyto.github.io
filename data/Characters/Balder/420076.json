@@ -2,9 +2,9 @@
  "characterID": 420076,
  "characterClassID": 1,
  "raceID": 0,
- "position": 972,
- "rankingPositionChange": 4,
- "gloryPoint": 1721,
+ "position": 977,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1714,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chesney",
@@ -184,6 +184,14 @@
    "position": 972,
    "rankingPositionChange": 4,
    "gloryPoint": 1721,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 977,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1714,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

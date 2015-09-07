@@ -2,9 +2,9 @@
  "characterID": 1126253,
  "characterClassID": 16,
  "raceID": 0,
- "position": 733,
- "rankingPositionChange": 3,
- "gloryPoint": 21648,
+ "position": 742,
+ "rankingPositionChange": -9,
+ "gloryPoint": 21641,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kysmy",
@@ -278,6 +278,14 @@
    "position": 733,
    "rankingPositionChange": 3,
    "gloryPoint": 21648,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": -9,
+   "gloryPoint": 21641,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 71908,
  "characterClassID": 7,
  "raceID": 0,
- "position": 936,
- "rankingPositionChange": 0,
- "gloryPoint": 9430,
+ "position": 942,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9423,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lexpower",
@@ -222,6 +222,14 @@
    "position": 936,
    "rankingPositionChange": 0,
    "gloryPoint": 9430,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9423,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

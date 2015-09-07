@@ -2,12 +2,14 @@
  "characterID": 193375,
  "characterClassID": 10,
  "raceID": 0,
- "position": 288,
- "rankingPositionChange": 0,
- "gloryPoint": 35033,
- "gloryPointChange": -1,
+ "position": 287,
+ "rankingPositionChange": 1,
+ "gloryPoint": 35201,
+ "gloryPointChange": 168,
  "soldierRankID": 13,
  "characterName": "Water",
+ "guildName": "The Order",
+ "guildID": 5668,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 35033,
    "gloryPointChange": -1,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 287,
+   "rankingPositionChange": 1,
+   "gloryPoint": 35201,
+   "gloryPointChange": 168,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -301,6 +311,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "The Order",
+   "guildID": 5668
   }
  ]
 }

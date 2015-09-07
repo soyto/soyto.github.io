@@ -2,9 +2,9 @@
  "characterID": 1293004,
  "characterClassID": 13,
  "raceID": 1,
- "position": 168,
- "rankingPositionChange": 0,
- "gloryPoint": 39016,
+ "position": 171,
+ "rankingPositionChange": -3,
+ "gloryPoint": 38967,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Robotopoulo",
@@ -280,6 +280,14 @@
    "position": 168,
    "rankingPositionChange": 0,
    "gloryPoint": 39016,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 171,
+   "rankingPositionChange": -3,
+   "gloryPoint": 38967,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

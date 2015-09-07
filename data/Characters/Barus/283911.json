@@ -2,10 +2,10 @@
  "characterID": 283911,
  "characterClassID": 14,
  "raceID": 0,
- "position": 692,
- "rankingPositionChange": 4,
- "gloryPoint": 19916,
- "gloryPointChange": 90,
+ "position": 695,
+ "rankingPositionChange": -3,
+ "gloryPoint": 19902,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Garwas",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 19916,
    "gloryPointChange": 90,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 695,
+   "rankingPositionChange": -3,
+   "gloryPoint": 19902,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

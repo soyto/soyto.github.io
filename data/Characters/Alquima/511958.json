@@ -2,10 +2,10 @@
  "characterID": 511958,
  "characterClassID": 2,
  "raceID": 1,
- "position": 74,
- "rankingPositionChange": 1,
- "gloryPoint": 96476,
- "gloryPointChange": 132,
+ "position": 76,
+ "rankingPositionChange": -2,
+ "gloryPoint": 96678,
+ "gloryPointChange": 202,
  "soldierRankID": 14,
  "characterName": "Paingetsu",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 96476,
    "gloryPointChange": 132,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 76,
+   "rankingPositionChange": -2,
+   "gloryPoint": 96678,
+   "gloryPointChange": 202,
    "soldierRankID": 14
   }
  ],

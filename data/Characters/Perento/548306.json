@@ -2,9 +2,9 @@
  "characterID": 548306,
  "characterClassID": 8,
  "raceID": 1,
- "position": 406,
- "rankingPositionChange": -1,
- "gloryPoint": 13551,
+ "position": 405,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13523,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Gargona",
@@ -280,6 +280,14 @@
    "position": 406,
    "rankingPositionChange": -1,
    "gloryPoint": 13551,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 405,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13523,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

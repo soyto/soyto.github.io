@@ -2,12 +2,14 @@
  "characterID": 1191593,
  "characterClassID": 10,
  "raceID": 0,
- "position": 873,
- "rankingPositionChange": 7,
- "gloryPoint": 10711,
- "gloryPointChange": 205,
+ "position": 865,
+ "rankingPositionChange": 8,
+ "gloryPoint": 10904,
+ "gloryPointChange": 193,
  "soldierRankID": 10,
  "characterName": "Kitegel",
+ "guildName": "Flaschenzug",
+ "guildID": 38180,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 10711,
    "gloryPointChange": 205,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 865,
+   "rankingPositionChange": 8,
+   "gloryPoint": 10904,
+   "gloryPointChange": 193,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Flaschenzug",
+   "guildID": 38180
   }
  ]
 }

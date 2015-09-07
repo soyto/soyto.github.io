@@ -4,12 +4,10 @@
  "raceID": 1,
  "position": 243,
  "rankingPositionChange": 0,
- "gloryPoint": 34435,
- "gloryPointChange": 152,
+ "gloryPoint": 34511,
+ "gloryPointChange": 76,
  "soldierRankID": 13,
  "characterName": "Alessandro",
- "guildName": "Asabiler",
- "guildID": 4860,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 34435,
    "gloryPointChange": 152,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 243,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34511,
+   "gloryPointChange": 76,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -308,6 +314,9 @@
    "date": "2015-08-14T22:00:00.000Z",
    "guildName": "Asabiler",
    "guildID": 4860
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

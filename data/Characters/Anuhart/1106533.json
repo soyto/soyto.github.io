@@ -2,10 +2,10 @@
  "characterID": 1106533,
  "characterClassID": 1,
  "raceID": 1,
- "position": 289,
- "rankingPositionChange": 0,
- "gloryPoint": 27757,
- "gloryPointChange": 185,
+ "position": 290,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27818,
+ "gloryPointChange": 61,
  "soldierRankID": 13,
  "characterName": "Pamaris",
  "guildName": "Angry Scavengers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 27757,
    "gloryPointChange": 185,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 290,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27818,
+   "gloryPointChange": 61,
    "soldierRankID": 13
   }
  ],

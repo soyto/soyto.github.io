@@ -2,10 +2,10 @@
  "characterID": 1086504,
  "characterClassID": 2,
  "raceID": 1,
- "position": 708,
- "rankingPositionChange": 0,
- "gloryPoint": 5479,
- "gloryPointChange": -7,
+ "position": 713,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5481,
+ "gloryPointChange": 2,
  "soldierRankID": 10,
  "characterName": "Esequiel",
  "guildName": "Die Pandabaerchen",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5479,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 713,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5481,
+   "gloryPointChange": 2,
    "soldierRankID": 10
   }
  ],

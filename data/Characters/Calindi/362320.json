@@ -4,12 +4,12 @@
  "raceID": 1,
  "position": 42,
  "rankingPositionChange": 0,
- "gloryPoint": 52826,
- "gloryPointChange": 19,
+ "gloryPoint": 53238,
+ "gloryPointChange": 412,
  "soldierRankID": 14,
  "characterName": "Datiar",
- "guildName": "Chasseurs de Foudre",
- "guildID": 13938,
+ "guildName": "KamiSama",
+ "guildID": 12388,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 52826,
    "gloryPointChange": 19,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 42,
+   "rankingPositionChange": 0,
+   "gloryPoint": 53238,
+   "gloryPointChange": 412,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Chasseurs de Foudre",
    "guildID": 13938
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "KamiSama",
+   "guildID": 12388
   }
  ]
 }

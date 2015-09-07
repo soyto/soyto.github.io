@@ -2,10 +2,10 @@
  "characterID": 143302,
  "characterClassID": 5,
  "raceID": 1,
- "position": 834,
- "rankingPositionChange": 5,
- "gloryPoint": 4695,
- "gloryPointChange": 66,
+ "position": 838,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4697,
+ "gloryPointChange": 2,
  "soldierRankID": 10,
  "characterName": "Achner",
  "guildName": "R I P",
@@ -97,6 +97,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 4695,
    "gloryPointChange": 66,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 838,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4697,
+   "gloryPointChange": 2,
    "soldierRankID": 10
   }
  ],

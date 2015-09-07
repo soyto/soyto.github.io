@@ -2,9 +2,9 @@
  "characterID": 1124149,
  "characterClassID": 5,
  "raceID": 0,
- "position": 781,
- "rankingPositionChange": 3,
- "gloryPoint": 19242,
+ "position": 795,
+ "rankingPositionChange": -14,
+ "gloryPoint": 19235,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fuuri",
@@ -256,6 +256,14 @@
    "position": 781,
    "rankingPositionChange": 3,
    "gloryPoint": 19242,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 795,
+   "rankingPositionChange": -14,
+   "gloryPoint": 19235,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

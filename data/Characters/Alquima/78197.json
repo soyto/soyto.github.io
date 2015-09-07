@@ -2,10 +2,10 @@
  "characterID": 78197,
  "characterClassID": 14,
  "raceID": 0,
- "position": 412,
- "rankingPositionChange": 4,
- "gloryPoint": 28299,
- "gloryPointChange": 122,
+ "position": 414,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28271,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kapp",
  "guildName": "Breaking Dawn",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 28299,
    "gloryPointChange": 122,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 414,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28271,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

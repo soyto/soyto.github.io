@@ -2,9 +2,9 @@
  "characterID": 1583173,
  "characterClassID": 16,
  "raceID": 0,
- "position": 101,
- "rankingPositionChange": 0,
- "gloryPoint": 156266,
+ "position": 102,
+ "rankingPositionChange": -1,
+ "gloryPoint": 156217,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hotnspicy",
@@ -280,6 +280,14 @@
    "position": 101,
    "rankingPositionChange": 0,
    "gloryPoint": 156266,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 102,
+   "rankingPositionChange": -1,
+   "gloryPoint": 156217,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

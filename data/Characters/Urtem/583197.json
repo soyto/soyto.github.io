@@ -2,9 +2,9 @@
  "characterID": 583197,
  "characterClassID": 1,
  "raceID": 1,
- "position": 63,
- "rankingPositionChange": 0,
- "gloryPoint": 109356,
+ "position": 64,
+ "rankingPositionChange": -1,
+ "gloryPoint": 109249,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Kyleen",
@@ -280,6 +280,14 @@
    "position": 63,
    "rankingPositionChange": 0,
    "gloryPoint": 109356,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 64,
+   "rankingPositionChange": -1,
+   "gloryPoint": 109249,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

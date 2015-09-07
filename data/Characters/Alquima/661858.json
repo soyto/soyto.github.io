@@ -2,12 +2,14 @@
  "characterID": 661858,
  "characterClassID": 1,
  "raceID": 0,
- "position": 641,
- "rankingPositionChange": 1,
- "gloryPoint": 18474,
- "gloryPointChange": -14,
+ "position": 625,
+ "rankingPositionChange": 16,
+ "gloryPoint": 19026,
+ "gloryPointChange": 552,
  "soldierRankID": 11,
  "characterName": "Vizavi",
+ "guildName": "XFORM",
+ "guildID": 4517,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 18474,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 625,
+   "rankingPositionChange": 16,
+   "gloryPoint": 19026,
+   "gloryPointChange": 552,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "XFORM",
+   "guildID": 4517
   }
  ]
 }

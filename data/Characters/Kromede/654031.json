@@ -2,10 +2,10 @@
  "characterID": 654031,
  "characterClassID": 4,
  "raceID": 0,
- "position": 111,
- "rankingPositionChange": 0,
- "gloryPoint": 115031,
- "gloryPointChange": 351,
+ "position": 112,
+ "rankingPositionChange": -1,
+ "gloryPoint": 114982,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kennstdudenwayne",
  "guildName": "No Way Out",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 115031,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 112,
+   "rankingPositionChange": -1,
+   "gloryPoint": 114982,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

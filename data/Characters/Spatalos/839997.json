@@ -2,9 +2,9 @@
  "characterID": 839997,
  "characterClassID": 10,
  "raceID": 1,
- "position": 89,
- "rankingPositionChange": 0,
- "gloryPoint": 75745,
+ "position": 90,
+ "rankingPositionChange": -1,
+ "gloryPoint": 75938,
  "gloryPointChange": 193,
  "soldierRankID": 14,
  "characterName": "Lunnae",
@@ -280,6 +280,14 @@
    "position": 89,
    "rankingPositionChange": 0,
    "gloryPoint": 75745,
+   "gloryPointChange": 193,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 90,
+   "rankingPositionChange": -1,
+   "gloryPoint": 75938,
    "gloryPointChange": 193,
    "soldierRankID": 14
   }

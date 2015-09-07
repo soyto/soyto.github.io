@@ -2,9 +2,9 @@
  "characterID": 651188,
  "characterClassID": 4,
  "raceID": 1,
- "position": 441,
- "rankingPositionChange": 0,
- "gloryPoint": 18238,
+ "position": 444,
+ "rankingPositionChange": -3,
+ "gloryPoint": 18210,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Puffy",
@@ -72,6 +72,14 @@
    "position": 441,
    "rankingPositionChange": 0,
    "gloryPoint": 18238,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 444,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18210,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

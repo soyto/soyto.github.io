@@ -2,9 +2,9 @@
  "characterID": 495283,
  "characterClassID": 1,
  "raceID": 1,
- "position": 470,
- "rankingPositionChange": 1,
- "gloryPoint": 16968,
+ "position": 481,
+ "rankingPositionChange": -11,
+ "gloryPoint": 16940,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Transistor",
@@ -238,6 +238,14 @@
    "position": 470,
    "rankingPositionChange": 1,
    "gloryPoint": 16968,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 481,
+   "rankingPositionChange": -11,
+   "gloryPoint": 16940,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

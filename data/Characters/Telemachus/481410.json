@@ -2,9 +2,9 @@
  "characterID": 481410,
  "characterClassID": 10,
  "raceID": 0,
- "position": 234,
- "rankingPositionChange": 0,
- "gloryPoint": 62065,
+ "position": 235,
+ "rankingPositionChange": -1,
+ "gloryPoint": 62016,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kaala",
@@ -280,6 +280,14 @@
    "position": 234,
    "rankingPositionChange": 0,
    "gloryPoint": 62065,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 235,
+   "rankingPositionChange": -1,
+   "gloryPoint": 62016,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

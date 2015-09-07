@@ -2,9 +2,9 @@
  "characterID": 1081712,
  "characterClassID": 16,
  "raceID": 1,
- "position": 131,
- "rankingPositionChange": 1,
- "gloryPoint": 83766,
+ "position": 132,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83717,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Zamaly",
@@ -278,6 +278,14 @@
    "position": 131,
    "rankingPositionChange": 1,
    "gloryPoint": 83766,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83717,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 1581532,
  "characterClassID": 10,
  "raceID": 1,
- "position": 444,
- "rankingPositionChange": 4,
- "gloryPoint": 22216,
- "gloryPointChange": 393,
+ "position": 445,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22188,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Maumauchwan",
  "guildName": "Sensei",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 22216,
    "gloryPointChange": 393,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 445,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22188,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

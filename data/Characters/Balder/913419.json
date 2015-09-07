@@ -2,9 +2,9 @@
  "characterID": 913419,
  "characterClassID": 7,
  "raceID": 0,
- "position": 202,
- "rankingPositionChange": 0,
- "gloryPoint": 38739,
+ "position": 206,
+ "rankingPositionChange": -4,
+ "gloryPoint": 38690,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Darunee",
@@ -280,6 +280,14 @@
    "position": 202,
    "rankingPositionChange": 0,
    "gloryPoint": 38739,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 206,
+   "rankingPositionChange": -4,
+   "gloryPoint": 38690,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

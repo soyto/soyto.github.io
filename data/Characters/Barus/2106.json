@@ -2,9 +2,9 @@
  "characterID": 2106,
  "characterClassID": 10,
  "raceID": 0,
- "position": 145,
- "rankingPositionChange": 0,
- "gloryPoint": 77756,
+ "position": 148,
+ "rankingPositionChange": -3,
+ "gloryPoint": 77707,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ostra",
@@ -280,6 +280,14 @@
    "position": 145,
    "rankingPositionChange": 0,
    "gloryPoint": 77756,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 148,
+   "rankingPositionChange": -3,
+   "gloryPoint": 77707,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 214543,
  "characterClassID": 4,
  "raceID": 1,
- "position": 903,
- "rankingPositionChange": 1,
- "gloryPoint": 1533,
- "gloryPointChange": 43,
+ "position": 907,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1526,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nickdirgit",
  "guildName": "KAOS",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 1533,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 907,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1526,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 516102,
  "characterClassID": 8,
  "raceID": 0,
- "position": 123,
- "rankingPositionChange": 0,
- "gloryPoint": 124000,
- "gloryPointChange": 221,
+ "position": 124,
+ "rankingPositionChange": -1,
+ "gloryPoint": 123961,
+ "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Dialka",
  "guildName": "Fifth Dawn",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 124000,
    "gloryPointChange": 221,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 124,
+   "rankingPositionChange": -1,
+   "gloryPoint": 123961,
+   "gloryPointChange": -39,
    "soldierRankID": 13
   }
  ],

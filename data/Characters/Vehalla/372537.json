@@ -2,9 +2,9 @@
  "characterID": 372537,
  "characterClassID": 11,
  "raceID": 0,
- "position": 92,
- "rankingPositionChange": 0,
- "gloryPoint": 70927,
+ "position": 93,
+ "rankingPositionChange": -1,
+ "gloryPoint": 70820,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Miisu",
@@ -272,6 +272,14 @@
    "position": 92,
    "rankingPositionChange": 0,
    "gloryPoint": 70927,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": -1,
+   "gloryPoint": 70820,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

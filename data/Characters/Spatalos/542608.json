@@ -2,9 +2,9 @@
  "characterID": 542608,
  "characterClassID": 2,
  "raceID": 1,
- "position": 261,
- "rankingPositionChange": 0,
- "gloryPoint": 22778,
+ "position": 263,
+ "rankingPositionChange": -2,
+ "gloryPoint": 22729,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ulyanka",
@@ -278,6 +278,14 @@
    "position": 261,
    "rankingPositionChange": 0,
    "gloryPoint": 22778,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 263,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22729,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

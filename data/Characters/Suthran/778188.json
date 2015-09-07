@@ -2,9 +2,9 @@
  "characterID": 778188,
  "characterClassID": 7,
  "raceID": 0,
- "position": 295,
- "rankingPositionChange": 0,
- "gloryPoint": 55368,
+ "position": 296,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55319,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Coaly",
@@ -280,6 +280,14 @@
    "position": 295,
    "rankingPositionChange": 0,
    "gloryPoint": 55368,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 296,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55319,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

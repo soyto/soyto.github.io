@@ -2,10 +2,10 @@
  "characterID": 844828,
  "characterClassID": 1,
  "raceID": 0,
- "position": 64,
- "rankingPositionChange": 0,
- "gloryPoint": 195222,
- "gloryPointChange": 231,
+ "position": 65,
+ "rankingPositionChange": -1,
+ "gloryPoint": 195235,
+ "gloryPointChange": 13,
  "soldierRankID": 14,
  "characterName": "Xstrife",
  "guildName": "Pendulum",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 195222,
    "gloryPointChange": 231,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": -1,
+   "gloryPoint": 195235,
+   "gloryPointChange": 13,
    "soldierRankID": 14
   }
  ],

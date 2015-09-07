@@ -2,9 +2,9 @@
  "characterID": 597365,
  "characterClassID": 8,
  "raceID": 1,
- "position": 915,
- "rankingPositionChange": 1,
- "gloryPoint": 1865,
+ "position": 916,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1858,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kutchya",
@@ -198,6 +198,14 @@
    "position": 915,
    "rankingPositionChange": 1,
    "gloryPoint": 1865,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1858,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

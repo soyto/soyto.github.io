@@ -2,10 +2,10 @@
  "characterID": 529419,
  "characterClassID": 1,
  "raceID": 0,
- "position": 43,
- "rankingPositionChange": 0,
- "gloryPoint": 144699,
- "gloryPointChange": 239,
+ "position": 44,
+ "rankingPositionChange": -1,
+ "gloryPoint": 144892,
+ "gloryPointChange": 193,
  "soldierRankID": 14,
  "characterName": "Brouss",
  "guildName": "Les Ailes de la Devastation",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 144699,
    "gloryPointChange": 239,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 44,
+   "rankingPositionChange": -1,
+   "gloryPoint": 144892,
+   "gloryPointChange": 193,
    "soldierRankID": 14
   }
  ],

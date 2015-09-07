@@ -2,9 +2,9 @@
  "characterID": 633172,
  "characterClassID": 5,
  "raceID": 0,
- "position": 581,
- "rankingPositionChange": 1,
- "gloryPoint": 19257,
+ "position": 582,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19243,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Steelme",
@@ -120,6 +120,14 @@
    "position": 581,
    "rankingPositionChange": 1,
    "gloryPoint": 19257,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 582,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19243,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

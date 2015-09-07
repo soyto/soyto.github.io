@@ -2,9 +2,9 @@
  "characterID": 466586,
  "characterClassID": 7,
  "raceID": 0,
- "position": 668,
- "rankingPositionChange": 1,
- "gloryPoint": 3838,
+ "position": 670,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3824,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Neo",
@@ -278,6 +278,14 @@
    "position": 668,
    "rankingPositionChange": 1,
    "gloryPoint": 3838,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 670,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3824,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

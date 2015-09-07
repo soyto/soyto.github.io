@@ -2,10 +2,10 @@
  "characterID": 1121929,
  "characterClassID": 11,
  "raceID": 0,
- "position": 122,
+ "position": 123,
  "rankingPositionChange": -1,
- "gloryPoint": 110119,
- "gloryPointChange": 1,
+ "gloryPoint": 110073,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Yarja",
  "guildName": "Nyudera",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 110119,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 123,
+   "rankingPositionChange": -1,
+   "gloryPoint": 110073,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

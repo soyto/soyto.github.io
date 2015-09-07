@@ -2,10 +2,10 @@
  "characterID": 583171,
  "characterClassID": 1,
  "raceID": 1,
- "position": 668,
- "rankingPositionChange": 2,
- "gloryPoint": 4890,
- "gloryPointChange": 95,
+ "position": 670,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4876,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Princeozi",
  "guildName": "Malkavians",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 4890,
    "gloryPointChange": 95,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 670,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4876,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

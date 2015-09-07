@@ -2,10 +2,10 @@
  "characterID": 1310506,
  "characterClassID": 16,
  "raceID": 0,
- "position": 214,
- "rankingPositionChange": 0,
- "gloryPoint": 72498,
- "gloryPointChange": -28,
+ "position": 216,
+ "rankingPositionChange": -2,
+ "gloryPoint": 73123,
+ "gloryPointChange": 625,
  "soldierRankID": 13,
  "characterName": "Ladylane",
  "guildName": "Ardet Nec Consumitur",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 72498,
    "gloryPointChange": -28,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 216,
+   "rankingPositionChange": -2,
+   "gloryPoint": 73123,
+   "gloryPointChange": 625,
    "soldierRankID": 13
   }
  ],

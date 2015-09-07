@@ -2,10 +2,10 @@
  "characterID": 1724187,
  "characterClassID": 4,
  "raceID": 1,
- "position": 240,
- "rankingPositionChange": 2,
- "gloryPoint": 65042,
- "gloryPointChange": 601,
+ "position": 241,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65396,
+ "gloryPointChange": 354,
  "soldierRankID": 13,
  "characterName": "Offficer",
  "guildName": "Die Erfolgslosen",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 65042,
    "gloryPointChange": 601,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 241,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65396,
+   "gloryPointChange": 354,
    "soldierRankID": 13
   }
  ],

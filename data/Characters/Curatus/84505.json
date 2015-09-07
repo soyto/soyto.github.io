@@ -2,10 +2,10 @@
  "characterID": 84505,
  "characterClassID": 10,
  "raceID": 0,
- "position": 196,
- "rankingPositionChange": 0,
- "gloryPoint": 80031,
- "gloryPointChange": 333,
+ "position": 197,
+ "rankingPositionChange": -1,
+ "gloryPoint": 80490,
+ "gloryPointChange": 459,
  "soldierRankID": 13,
  "characterName": "Dondon",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 80031,
    "gloryPointChange": 333,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 197,
+   "rankingPositionChange": -1,
+   "gloryPoint": 80490,
+   "gloryPointChange": 459,
    "soldierRankID": 13
   }
  ],

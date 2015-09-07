@@ -2,10 +2,10 @@
  "characterID": 934376,
  "characterClassID": 7,
  "raceID": 0,
- "position": 912,
- "rankingPositionChange": 19,
- "gloryPoint": 1899,
- "gloryPointChange": 43,
+ "position": 914,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1892,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kauwaki",
  "guildName": "Random",
@@ -209,6 +209,14 @@
    "rankingPositionChange": 19,
    "gloryPoint": 1899,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 914,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1892,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 519494,
  "characterClassID": 7,
  "raceID": 0,
- "position": 213,
- "rankingPositionChange": 1,
- "gloryPoint": 33332,
+ "position": 215,
+ "rankingPositionChange": -2,
+ "gloryPoint": 33283,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Elianabela",
@@ -280,6 +280,14 @@
    "position": 213,
    "rankingPositionChange": 1,
    "gloryPoint": 33332,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 215,
+   "rankingPositionChange": -2,
+   "gloryPoint": 33283,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

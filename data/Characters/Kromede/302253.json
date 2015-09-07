@@ -2,9 +2,9 @@
  "characterID": 302253,
  "characterClassID": 2,
  "raceID": 0,
- "position": 320,
- "rankingPositionChange": 0,
- "gloryPoint": 40539,
+ "position": 321,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40511,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Abdal",
@@ -120,6 +120,14 @@
    "position": 320,
    "rankingPositionChange": 0,
    "gloryPoint": 40539,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 321,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40511,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

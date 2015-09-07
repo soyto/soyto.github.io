@@ -2,9 +2,9 @@
  "characterID": 477544,
  "characterClassID": 7,
  "raceID": 0,
- "position": 909,
- "rankingPositionChange": -2,
- "gloryPoint": 11540,
+ "position": 908,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11533,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dumbeldore",
@@ -280,6 +280,14 @@
    "position": 909,
    "rankingPositionChange": -2,
    "gloryPoint": 11540,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 908,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11533,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

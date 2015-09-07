@@ -2,10 +2,10 @@
  "characterID": 227100,
  "characterClassID": 10,
  "raceID": 1,
- "position": 122,
- "rankingPositionChange": 1,
- "gloryPoint": 72154,
- "gloryPointChange": 51,
+ "position": 123,
+ "rankingPositionChange": -1,
+ "gloryPoint": 72105,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Silene",
  "guildName": "I m p a c t",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 72154,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 123,
+   "rankingPositionChange": -1,
+   "gloryPoint": 72105,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 999881,
  "characterClassID": 1,
  "raceID": 0,
- "position": 515,
- "rankingPositionChange": 0,
- "gloryPoint": 22524,
+ "position": 514,
+ "rankingPositionChange": 1,
+ "gloryPoint": 22510,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ergun",
@@ -264,6 +264,14 @@
    "position": 515,
    "rankingPositionChange": 0,
    "gloryPoint": 22524,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": 1,
+   "gloryPoint": 22510,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

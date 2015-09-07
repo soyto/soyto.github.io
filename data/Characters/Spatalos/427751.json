@@ -2,10 +2,10 @@
  "characterID": 427751,
  "characterClassID": 5,
  "raceID": 1,
- "position": 186,
- "rankingPositionChange": 1,
- "gloryPoint": 35152,
- "gloryPointChange": 111,
+ "position": 187,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35463,
+ "gloryPointChange": 311,
  "soldierRankID": 13,
  "characterName": "Alur",
  "guildName": "Evul Smurfies",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 35152,
    "gloryPointChange": 111,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 187,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35463,
+   "gloryPointChange": 311,
    "soldierRankID": 13
   }
  ],

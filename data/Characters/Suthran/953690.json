@@ -2,10 +2,10 @@
  "characterID": 953690,
  "characterClassID": 7,
  "raceID": 1,
- "position": 594,
- "rankingPositionChange": 1,
- "gloryPoint": 12196,
- "gloryPointChange": 126,
+ "position": 595,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12232,
+ "gloryPointChange": 36,
  "soldierRankID": 11,
  "characterName": "Remillia",
  "guildName": "BlacKSheeP",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12196,
    "gloryPointChange": 126,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12232,
+   "gloryPointChange": 36,
    "soldierRankID": 11
   }
  ],

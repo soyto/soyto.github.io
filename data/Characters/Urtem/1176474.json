@@ -2,12 +2,14 @@
  "characterID": 1176474,
  "characterClassID": 5,
  "raceID": 0,
- "position": 753,
- "rankingPositionChange": 4,
- "gloryPoint": 20429,
+ "position": 762,
+ "rankingPositionChange": -9,
+ "gloryPoint": 20422,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cottorep",
+ "guildName": "Bonus  XP",
+ "guildID": 46757,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 20429,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 762,
+   "rankingPositionChange": -9,
+   "gloryPoint": 20422,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Bonus  XP",
+   "guildID": 46757
   }
  ]
 }

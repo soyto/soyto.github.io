@@ -2,12 +2,14 @@
  "characterID": 1009269,
  "characterClassID": 14,
  "raceID": 1,
- "position": 833,
- "rankingPositionChange": -6,
- "gloryPoint": 3189,
- "gloryPointChange": -7,
+ "position": 812,
+ "rankingPositionChange": 21,
+ "gloryPoint": 3405,
+ "gloryPointChange": 216,
  "soldierRankID": 10,
  "characterName": "Wowambo",
+ "guildName": "Haters Gonna Hate",
+ "guildID": 29296,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 3189,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": 21,
+   "gloryPoint": 3405,
+   "gloryPointChange": 216,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-27T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Haters Gonna Hate",
+   "guildID": 29296
   }
  ]
 }

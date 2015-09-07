@@ -2,9 +2,9 @@
  "characterID": 711117,
  "characterClassID": 13,
  "raceID": 1,
- "position": 369,
- "rankingPositionChange": 2,
- "gloryPoint": 40244,
+ "position": 371,
+ "rankingPositionChange": -2,
+ "gloryPoint": 40216,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Gottagofast",
@@ -280,6 +280,14 @@
    "position": 369,
    "rankingPositionChange": 2,
    "gloryPoint": 40244,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 371,
+   "rankingPositionChange": -2,
+   "gloryPoint": 40216,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

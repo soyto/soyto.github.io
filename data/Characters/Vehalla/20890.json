@@ -3,8 +3,8 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 152,
- "rankingPositionChange": 1,
- "gloryPoint": 30672,
+ "rankingPositionChange": 0,
+ "gloryPoint": 30633,
  "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Artalos",
@@ -280,6 +280,14 @@
    "position": 152,
    "rankingPositionChange": 1,
    "gloryPoint": 30672,
+   "gloryPointChange": -39,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 152,
+   "rankingPositionChange": 0,
+   "gloryPoint": 30633,
    "gloryPointChange": -39,
    "soldierRankID": 13
   }

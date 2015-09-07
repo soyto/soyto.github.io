@@ -2,10 +2,10 @@
  "characterID": 235126,
  "characterClassID": 10,
  "raceID": 1,
- "position": 502,
- "rankingPositionChange": 6,
- "gloryPoint": 26855,
- "gloryPointChange": 148,
+ "position": 503,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26940,
+ "gloryPointChange": 85,
  "soldierRankID": 11,
  "characterName": "Inath",
  "guildName": "Dead Chicks Cant Say No",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 26855,
    "gloryPointChange": 148,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 503,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26940,
+   "gloryPointChange": 85,
    "soldierRankID": 11
   }
  ],

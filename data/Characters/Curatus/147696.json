@@ -2,9 +2,9 @@
  "characterID": 147696,
  "characterClassID": 2,
  "raceID": 0,
- "position": 792,
- "rankingPositionChange": 0,
- "gloryPoint": 13315,
+ "position": 800,
+ "rankingPositionChange": -8,
+ "gloryPoint": 13308,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Regik",
@@ -280,6 +280,14 @@
    "position": 792,
    "rankingPositionChange": 0,
    "gloryPoint": 13315,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": -8,
+   "gloryPoint": 13308,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

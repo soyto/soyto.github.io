@@ -2,10 +2,10 @@
  "characterID": 502630,
  "characterClassID": 4,
  "raceID": 0,
- "position": 961,
- "rankingPositionChange": 18,
- "gloryPoint": 1757,
- "gloryPointChange": 52,
+ "position": 963,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1750,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Teisseire",
  "guildName": "Miverya",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 18,
    "gloryPoint": 1757,
    "gloryPointChange": 52,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 963,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1750,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

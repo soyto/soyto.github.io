@@ -2,10 +2,10 @@
  "characterID": 1350995,
  "characterClassID": 5,
  "raceID": 1,
- "position": 289,
- "rankingPositionChange": 2,
- "gloryPoint": 55792,
- "gloryPointChange": 92,
+ "position": 290,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55743,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Fenoris",
  "guildName": "AkAkAk",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 55792,
    "gloryPointChange": 92,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 290,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55743,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

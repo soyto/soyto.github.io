@@ -2,10 +2,10 @@
  "characterID": 536337,
  "characterClassID": 1,
  "raceID": 1,
- "position": 853,
- "rankingPositionChange": 1,
- "gloryPoint": 13713,
- "gloryPointChange": 43,
+ "position": 857,
+ "rankingPositionChange": -4,
+ "gloryPoint": 13706,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Smirny",
  "guildName": "H E R O I C",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13713,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 857,
+   "rankingPositionChange": -4,
+   "gloryPoint": 13706,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

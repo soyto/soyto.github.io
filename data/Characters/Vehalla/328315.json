@@ -2,10 +2,10 @@
  "characterID": 328315,
  "characterClassID": 4,
  "raceID": 0,
- "position": 642,
- "rankingPositionChange": 3,
- "gloryPoint": 1437,
- "gloryPointChange": 6,
+ "position": 647,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1423,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Azaghal",
  "status": [
@@ -191,6 +191,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 1437,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 647,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1423,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1036558,
  "characterClassID": 10,
  "raceID": 0,
- "position": 810,
- "rankingPositionChange": 3,
- "gloryPoint": 18277,
+ "position": 826,
+ "rankingPositionChange": -16,
+ "gloryPoint": 18270,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eybe",
@@ -272,6 +272,14 @@
    "position": 810,
    "rankingPositionChange": 3,
    "gloryPoint": 18277,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 826,
+   "rankingPositionChange": -16,
+   "gloryPoint": 18270,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

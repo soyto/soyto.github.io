@@ -2,10 +2,10 @@
  "characterID": 1532292,
  "characterClassID": 1,
  "raceID": 1,
- "position": 952,
- "rankingPositionChange": -5,
- "gloryPoint": 2299,
- "gloryPointChange": -7,
+ "position": 951,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2312,
+ "gloryPointChange": 13,
  "soldierRankID": 10,
  "characterName": "Tetraiets",
  "guildName": "Black Hawks",
@@ -89,6 +89,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 2299,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2312,
+   "gloryPointChange": 13,
    "soldierRankID": 10
   }
  ],

@@ -3,13 +3,13 @@
  "characterClassID": 14,
  "raceID": 0,
  "position": 525,
- "rankingPositionChange": 3,
- "gloryPoint": 21950,
- "gloryPointChange": 54,
+ "rankingPositionChange": 0,
+ "gloryPoint": 22066,
+ "gloryPointChange": 116,
  "soldierRankID": 11,
  "characterName": "Nuriavr",
- "guildName": "La Octava",
- "guildID": 12727,
+ "guildName": "Get Well",
+ "guildID": 13411,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 21950,
    "gloryPointChange": 54,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 525,
+   "rankingPositionChange": 0,
+   "gloryPoint": 22066,
+   "gloryPointChange": 116,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "La Octava",
    "guildID": 12727
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Get Well",
+   "guildID": 13411
   }
  ]
 }

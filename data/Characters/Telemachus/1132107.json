@@ -2,9 +2,9 @@
  "characterID": 1132107,
  "characterClassID": 16,
  "raceID": 1,
- "position": 197,
- "rankingPositionChange": -2,
- "gloryPoint": 27001,
+ "position": 196,
+ "rankingPositionChange": 1,
+ "gloryPoint": 26952,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Harlequinn",
@@ -280,6 +280,14 @@
    "position": 197,
    "rankingPositionChange": -2,
    "gloryPoint": 27001,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": 1,
+   "gloryPoint": 26952,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

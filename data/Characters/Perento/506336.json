@@ -2,14 +2,14 @@
  "characterID": 506336,
  "characterClassID": 11,
  "raceID": 0,
- "position": 512,
- "rankingPositionChange": -2,
- "gloryPoint": 18132,
- "gloryPointChange": -14,
+ "position": 524,
+ "rankingPositionChange": -12,
+ "gloryPoint": 17768,
+ "gloryPointChange": -364,
  "soldierRankID": 11,
  "characterName": "Birbilomata",
- "guildName": "S t a r D u s t",
- "guildID": 29530,
+ "guildName": "G B O A",
+ "guildID": 29824,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -90,6 +90,14 @@
    "gloryPoint": 18132,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 524,
+   "rankingPositionChange": -12,
+   "gloryPoint": 17768,
+   "gloryPointChange": -364,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -103,6 +111,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "S t a r D u s t",
    "guildID": 29530
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "G B O A",
+   "guildID": 29824
   }
  ]
 }

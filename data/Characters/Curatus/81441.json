@@ -2,12 +2,14 @@
  "characterID": 81441,
  "characterClassID": 11,
  "raceID": 0,
- "position": 780,
- "rankingPositionChange": 5,
- "gloryPoint": 13813,
- "gloryPointChange": 143,
+ "position": 784,
+ "rankingPositionChange": -4,
+ "gloryPoint": 13856,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Pandispagna",
+ "guildName": "Eclypse",
+ "guildID": 1778,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 13813,
    "gloryPointChange": 143,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 784,
+   "rankingPositionChange": -4,
+   "gloryPoint": 13856,
+   "gloryPointChange": 43,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Eclypse",
+   "guildID": 1778
   }
  ]
 }

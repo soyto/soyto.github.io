@@ -2,9 +2,9 @@
  "characterID": 857108,
  "characterClassID": 14,
  "raceID": 0,
- "position": 979,
- "rankingPositionChange": 1,
- "gloryPoint": 4249,
+ "position": 985,
+ "rankingPositionChange": -6,
+ "gloryPoint": 4242,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ladydayana",
@@ -278,6 +278,14 @@
    "position": 979,
    "rankingPositionChange": 1,
    "gloryPoint": 4249,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": -6,
+   "gloryPoint": 4242,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

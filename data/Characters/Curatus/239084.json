@@ -2,11 +2,11 @@
  "characterID": 239084,
  "characterClassID": 4,
  "raceID": 1,
- "position": 700,
- "rankingPositionChange": 0,
- "gloryPoint": 6699,
+ "position": 706,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6685,
  "gloryPointChange": -14,
- "soldierRankID": 11,
+ "soldierRankID": 10,
  "characterName": "Donpedro",
  "status": [
   {
@@ -280,6 +280,14 @@
    "gloryPoint": 6699,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 706,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6685,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [

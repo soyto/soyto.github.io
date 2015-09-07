@@ -2,14 +2,14 @@
  "characterID": 453925,
  "characterClassID": 8,
  "raceID": 0,
- "position": 200,
+ "position": 199,
  "rankingPositionChange": 1,
- "gloryPoint": 67083,
+ "gloryPoint": 67034,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ophelia",
- "guildName": "Birthday Massacre",
- "guildID": 29538,
+ "guildName": "Havoc",
+ "guildID": 1004,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 67083,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 199,
+   "rankingPositionChange": 1,
+   "gloryPoint": 67034,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Birthday Massacre",
    "guildID": 29538
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Havoc",
+   "guildID": 1004
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 728453,
  "characterClassID": 1,
  "raceID": 0,
- "position": 588,
- "rankingPositionChange": 0,
- "gloryPoint": 11141,
+ "position": 590,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11127,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sleps",
@@ -280,6 +280,14 @@
    "position": 588,
    "rankingPositionChange": 0,
    "gloryPoint": 11141,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 590,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11127,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 329393,
  "characterClassID": 14,
  "raceID": 1,
- "position": 853,
- "rankingPositionChange": 2,
- "gloryPoint": 4448,
- "gloryPointChange": 43,
+ "position": 857,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4441,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hitlegend",
  "guildName": "OneShot",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 4448,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 857,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4441,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

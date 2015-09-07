@@ -2,9 +2,9 @@
  "characterID": 396883,
  "characterClassID": 16,
  "raceID": 0,
- "position": 38,
- "rankingPositionChange": 0,
- "gloryPoint": 147382,
+ "position": 39,
+ "rankingPositionChange": -1,
+ "gloryPoint": 147275,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Noiu",
@@ -280,6 +280,14 @@
    "position": 38,
    "rankingPositionChange": 0,
    "gloryPoint": 147382,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 39,
+   "rankingPositionChange": -1,
+   "gloryPoint": 147275,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

@@ -2,9 +2,9 @@
  "characterID": 16767,
  "characterClassID": 10,
  "raceID": 0,
- "position": 716,
- "rankingPositionChange": 4,
- "gloryPoint": 22377,
+ "position": 725,
+ "rankingPositionChange": -9,
+ "gloryPoint": 22370,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alkaplow",
@@ -280,6 +280,14 @@
    "position": 716,
    "rankingPositionChange": 4,
    "gloryPoint": 22377,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 725,
+   "rankingPositionChange": -9,
+   "gloryPoint": 22370,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

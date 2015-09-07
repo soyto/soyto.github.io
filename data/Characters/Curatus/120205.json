@@ -2,10 +2,10 @@
  "characterID": 120205,
  "characterClassID": 14,
  "raceID": 1,
- "position": 265,
- "rankingPositionChange": 4,
- "gloryPoint": 29766,
- "gloryPointChange": 355,
+ "position": 267,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29717,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Thios",
  "guildName": "Prepotenti",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 29766,
    "gloryPointChange": 355,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 267,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29717,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

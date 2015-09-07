@@ -2,10 +2,10 @@
  "characterID": 1516564,
  "characterClassID": 7,
  "raceID": 0,
- "position": 449,
- "rankingPositionChange": 3,
- "gloryPoint": 40462,
- "gloryPointChange": 285,
+ "position": 453,
+ "rankingPositionChange": -4,
+ "gloryPoint": 40434,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Miyase",
  "guildName": "Nakama",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 40462,
    "gloryPointChange": 285,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 453,
+   "rankingPositionChange": -4,
+   "gloryPoint": 40434,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

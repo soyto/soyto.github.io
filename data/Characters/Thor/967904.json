@@ -2,9 +2,9 @@
  "characterID": 967904,
  "characterClassID": 4,
  "raceID": 0,
- "position": 261,
- "rankingPositionChange": 0,
- "gloryPoint": 71770,
+ "position": 263,
+ "rankingPositionChange": -2,
+ "gloryPoint": 71721,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Punscher",
@@ -280,6 +280,14 @@
    "position": 261,
    "rankingPositionChange": 0,
    "gloryPoint": 71770,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 263,
+   "rankingPositionChange": -2,
+   "gloryPoint": 71721,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

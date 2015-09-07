@@ -2,9 +2,9 @@
  "characterID": 1078408,
  "characterClassID": 14,
  "raceID": 1,
- "position": 393,
- "rankingPositionChange": 0,
- "gloryPoint": 14791,
+ "position": 395,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14763,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Nexorzist",
@@ -280,6 +280,14 @@
    "position": 393,
    "rankingPositionChange": 0,
    "gloryPoint": 14791,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 395,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14763,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

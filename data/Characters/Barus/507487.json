@@ -2,9 +2,9 @@
  "characterID": 507487,
  "characterClassID": 4,
  "raceID": 0,
- "position": 270,
- "rankingPositionChange": 0,
- "gloryPoint": 53686,
+ "position": 272,
+ "rankingPositionChange": -2,
+ "gloryPoint": 53637,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Snaro",
@@ -280,6 +280,14 @@
    "position": 270,
    "rankingPositionChange": 0,
    "gloryPoint": 53686,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 272,
+   "rankingPositionChange": -2,
+   "gloryPoint": 53637,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

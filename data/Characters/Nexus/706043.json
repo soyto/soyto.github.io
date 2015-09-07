@@ -2,10 +2,10 @@
  "characterID": 706043,
  "characterClassID": 8,
  "raceID": 0,
- "position": 405,
- "rankingPositionChange": 0,
- "gloryPoint": 23157,
- "gloryPointChange": 42,
+ "position": 406,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23129,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Geneesiis",
  "guildName": "The Ultimates",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 23157,
    "gloryPointChange": 42,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 406,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23129,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

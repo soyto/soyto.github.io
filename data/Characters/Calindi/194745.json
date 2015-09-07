@@ -2,9 +2,9 @@
  "characterID": 194745,
  "characterClassID": 7,
  "raceID": 0,
- "position": 151,
- "rankingPositionChange": 0,
- "gloryPoint": 52932,
+ "position": 153,
+ "rankingPositionChange": -2,
+ "gloryPoint": 52883,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Orbital",
@@ -280,6 +280,14 @@
    "position": 151,
    "rankingPositionChange": 0,
    "gloryPoint": 52932,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 153,
+   "rankingPositionChange": -2,
+   "gloryPoint": 52883,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

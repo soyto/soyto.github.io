@@ -2,10 +2,10 @@
  "characterID": 1060432,
  "characterClassID": 14,
  "raceID": 1,
- "position": 93,
- "rankingPositionChange": 0,
- "gloryPoint": 120997,
- "gloryPointChange": 93,
+ "position": 92,
+ "rankingPositionChange": 1,
+ "gloryPoint": 121996,
+ "gloryPointChange": 999,
  "soldierRankID": 14,
  "characterName": "Skully",
  "guildName": "Mega Fluffy Denku Club",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 120997,
    "gloryPointChange": 93,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": 1,
+   "gloryPoint": 121996,
+   "gloryPointChange": 999,
    "soldierRankID": 14
   }
  ],

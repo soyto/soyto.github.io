@@ -2,9 +2,9 @@
  "characterID": 1264842,
  "characterClassID": 7,
  "raceID": 0,
- "position": 702,
- "rankingPositionChange": 2,
- "gloryPoint": 14235,
+ "position": 703,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14228,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ifidass",
@@ -86,6 +86,14 @@
    "position": 702,
    "rankingPositionChange": 2,
    "gloryPoint": 14235,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 703,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14228,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

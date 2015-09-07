@@ -2,9 +2,9 @@
  "characterID": 597932,
  "characterClassID": 2,
  "raceID": 1,
- "position": 539,
- "rankingPositionChange": 0,
- "gloryPoint": 7075,
+ "position": 540,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7061,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Xfoox",
@@ -280,6 +280,14 @@
    "position": 539,
    "rankingPositionChange": 0,
    "gloryPoint": 7075,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7061,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

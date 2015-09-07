@@ -2,9 +2,9 @@
  "characterID": 38767,
  "characterClassID": 1,
  "raceID": 1,
- "position": 522,
- "rankingPositionChange": 0,
- "gloryPoint": 8345,
+ "position": 524,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8331,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zuppe",
@@ -280,6 +280,14 @@
    "position": 522,
    "rankingPositionChange": 0,
    "gloryPoint": 8345,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 524,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8331,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 605606,
  "characterClassID": 8,
  "raceID": 1,
- "position": 732,
- "rankingPositionChange": -3,
- "gloryPoint": 18026,
- "gloryPointChange": -7,
+ "position": 731,
+ "rankingPositionChange": 1,
+ "gloryPoint": 18029,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Cassidi",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 18026,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 731,
+   "rankingPositionChange": 1,
+   "gloryPoint": 18029,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1595231,
  "characterClassID": 11,
  "raceID": 1,
- "position": 888,
- "rankingPositionChange": 0,
- "gloryPoint": 8324,
- "gloryPointChange": 3,
+ "position": 891,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8401,
+ "gloryPointChange": 77,
  "soldierRankID": 10,
  "characterName": "Georgeline",
  "guildName": "La terra paura",
@@ -105,6 +105,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8324,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 891,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8401,
+   "gloryPointChange": 77,
    "soldierRankID": 10
   }
  ],

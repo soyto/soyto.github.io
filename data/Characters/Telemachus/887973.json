@@ -2,9 +2,9 @@
  "characterID": 887973,
  "characterClassID": 11,
  "raceID": 0,
- "position": 933,
- "rankingPositionChange": -1,
- "gloryPoint": 6261,
+ "position": 932,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6254,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gazh",
@@ -280,6 +280,14 @@
    "position": 933,
    "rankingPositionChange": -1,
    "gloryPoint": 6261,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 932,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6254,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

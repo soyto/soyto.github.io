@@ -2,12 +2,14 @@
  "characterID": 306293,
  "characterClassID": 10,
  "raceID": 1,
- "position": 769,
- "rankingPositionChange": 6,
- "gloryPoint": 5731,
- "gloryPointChange": 96,
+ "position": 773,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5752,
+ "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Angelaionnn",
+ "guildName": "Ariete",
+ "guildID": 6832,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 5731,
    "gloryPointChange": 96,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 773,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5752,
+   "gloryPointChange": 21,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Ariete",
+   "guildID": 6832
   }
  ]
 }

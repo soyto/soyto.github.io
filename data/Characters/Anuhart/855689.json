@@ -2,9 +2,9 @@
  "characterID": 855689,
  "characterClassID": 14,
  "raceID": 0,
- "position": 107,
- "rankingPositionChange": 1,
- "gloryPoint": 82949,
+ "position": 108,
+ "rankingPositionChange": -1,
+ "gloryPoint": 82900,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Roronoazorox",
@@ -280,6 +280,14 @@
    "position": 107,
    "rankingPositionChange": 1,
    "gloryPoint": 82949,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 108,
+   "rankingPositionChange": -1,
+   "gloryPoint": 82900,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

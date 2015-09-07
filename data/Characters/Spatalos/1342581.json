@@ -2,14 +2,14 @@
  "characterID": 1342581,
  "characterClassID": 4,
  "raceID": 0,
- "position": 721,
- "rankingPositionChange": -18,
- "gloryPoint": 13620,
- "gloryPointChange": 4,
+ "position": 709,
+ "rankingPositionChange": 12,
+ "gloryPoint": 13997,
+ "gloryPointChange": 377,
  "soldierRankID": 10,
  "characterName": "Tahari",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "NoMercy",
+ "guildID": 11704,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -210,6 +210,14 @@
    "gloryPoint": 13620,
    "gloryPointChange": 4,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": 12,
+   "gloryPoint": 13997,
+   "gloryPointChange": 377,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -223,6 +231,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "NoMercy",
+   "guildID": 11704
   }
  ]
 }

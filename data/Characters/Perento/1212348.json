@@ -2,9 +2,9 @@
  "characterID": 1212348,
  "characterClassID": 16,
  "raceID": 1,
- "position": 771,
- "rankingPositionChange": 0,
- "gloryPoint": 3100,
+ "position": 777,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3093,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bezna",
@@ -280,6 +280,14 @@
    "position": 771,
    "rankingPositionChange": 0,
    "gloryPoint": 3100,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 777,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3093,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

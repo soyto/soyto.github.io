@@ -2,9 +2,9 @@
  "characterID": 819490,
  "characterClassID": 16,
  "raceID": 0,
- "position": 952,
- "rankingPositionChange": 5,
- "gloryPoint": 1779,
+ "position": 953,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1772,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hasibella",
@@ -56,6 +56,14 @@
    "position": 952,
    "rankingPositionChange": 5,
    "gloryPoint": 1779,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 953,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1772,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

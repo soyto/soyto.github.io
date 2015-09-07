@@ -2,9 +2,9 @@
  "characterID": 778332,
  "characterClassID": 5,
  "raceID": 0,
- "position": 552,
- "rankingPositionChange": 1,
- "gloryPoint": 12646,
+ "position": 555,
+ "rankingPositionChange": -3,
+ "gloryPoint": 12632,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Aarroww",
@@ -24,6 +24,14 @@
    "position": 552,
    "rankingPositionChange": 1,
    "gloryPoint": 12646,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 555,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12632,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

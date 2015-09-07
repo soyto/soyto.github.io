@@ -2,9 +2,9 @@
  "characterID": 1311665,
  "characterClassID": 2,
  "raceID": 0,
- "position": 139,
- "rankingPositionChange": 0,
- "gloryPoint": 99675,
+ "position": 143,
+ "rankingPositionChange": -4,
+ "gloryPoint": 99626,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dijor",
@@ -272,6 +272,14 @@
    "position": 139,
    "rankingPositionChange": 0,
    "gloryPoint": 99675,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 143,
+   "rankingPositionChange": -4,
+   "gloryPoint": 99626,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

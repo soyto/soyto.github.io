@@ -3,13 +3,13 @@
  "characterClassID": 14,
  "raceID": 0,
  "position": 267,
- "rankingPositionChange": -1,
- "gloryPoint": 48888,
- "gloryPointChange": -49,
+ "rankingPositionChange": 0,
+ "gloryPoint": 49039,
+ "gloryPointChange": 151,
  "soldierRankID": 13,
  "characterName": "Imperatorremus",
- "guildName": "The Reborn",
- "guildID": 38212,
+ "guildName": "O P E N   P V E",
+ "guildID": 37903,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 48888,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 267,
+   "rankingPositionChange": 0,
+   "gloryPoint": 49039,
+   "gloryPointChange": 151,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-08-28T22:00:00.000Z",
    "guildName": "The Reborn",
    "guildID": 38212
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "O P E N   P V E",
+   "guildID": 37903
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 1437729,
  "characterClassID": 8,
  "raceID": 0,
- "position": 726,
- "rankingPositionChange": 2,
- "gloryPoint": 22105,
+ "position": 735,
+ "rankingPositionChange": -9,
+ "gloryPoint": 22098,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xception",
@@ -280,6 +280,14 @@
    "position": 726,
    "rankingPositionChange": 2,
    "gloryPoint": 22105,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 735,
+   "rankingPositionChange": -9,
+   "gloryPoint": 22098,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

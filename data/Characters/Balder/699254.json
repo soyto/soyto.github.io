@@ -2,10 +2,10 @@
  "characterID": 699254,
  "characterClassID": 11,
  "raceID": 1,
- "position": 126,
- "rankingPositionChange": 0,
- "gloryPoint": 46892,
- "gloryPointChange": 26,
+ "position": 127,
+ "rankingPositionChange": -1,
+ "gloryPoint": 46843,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Maxxxime",
  "guildName": "Silver Rose",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 46892,
    "gloryPointChange": 26,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46843,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

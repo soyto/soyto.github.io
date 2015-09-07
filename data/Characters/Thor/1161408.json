@@ -2,9 +2,9 @@
  "characterID": 1161408,
  "characterClassID": 1,
  "raceID": 0,
- "position": 843,
- "rankingPositionChange": 1,
- "gloryPoint": 18661,
+ "position": 849,
+ "rankingPositionChange": -6,
+ "gloryPoint": 18654,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hiazo",
@@ -264,6 +264,14 @@
    "position": 843,
    "rankingPositionChange": 1,
    "gloryPoint": 18661,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 849,
+   "rankingPositionChange": -6,
+   "gloryPoint": 18654,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

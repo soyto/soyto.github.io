@@ -2,10 +2,10 @@
  "characterID": 1146994,
  "characterClassID": 14,
  "raceID": 1,
- "position": 59,
- "rankingPositionChange": 0,
- "gloryPoint": 116112,
- "gloryPointChange": 485,
+ "position": 60,
+ "rankingPositionChange": -1,
+ "gloryPoint": 116117,
+ "gloryPointChange": 5,
  "soldierRankID": 14,
  "characterName": "Crossfaders",
  "guildName": "Angry Birds",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 116112,
    "gloryPointChange": 485,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 60,
+   "rankingPositionChange": -1,
+   "gloryPoint": 116117,
+   "gloryPointChange": 5,
    "soldierRankID": 14
   }
  ],

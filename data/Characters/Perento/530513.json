@@ -2,10 +2,10 @@
  "characterID": 530513,
  "characterClassID": 11,
  "raceID": 0,
- "position": 202,
+ "position": 201,
  "rankingPositionChange": 1,
- "gloryPoint": 66606,
- "gloryPointChange": 251,
+ "gloryPoint": 66557,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Darkcaster",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 66606,
    "gloryPointChange": 251,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 201,
+   "rankingPositionChange": 1,
+   "gloryPoint": 66557,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

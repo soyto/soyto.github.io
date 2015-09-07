@@ -2,10 +2,10 @@
  "characterID": 352220,
  "characterClassID": 10,
  "raceID": 0,
- "position": 406,
- "rankingPositionChange": 3,
- "gloryPoint": 29051,
- "gloryPointChange": 111,
+ "position": 407,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29023,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Seann",
  "guildName": "XxAnotherxX",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 29051,
    "gloryPointChange": 111,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 407,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29023,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

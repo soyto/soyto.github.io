@@ -2,9 +2,9 @@
  "characterID": 906280,
  "characterClassID": 1,
  "raceID": 0,
- "position": 90,
- "rankingPositionChange": 0,
- "gloryPoint": 128058,
+ "position": 93,
+ "rankingPositionChange": -3,
+ "gloryPoint": 127951,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Elpoupoune",
@@ -280,6 +280,14 @@
    "position": 90,
    "rankingPositionChange": 0,
    "gloryPoint": 128058,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": -3,
+   "gloryPoint": 127951,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

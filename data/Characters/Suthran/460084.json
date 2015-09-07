@@ -2,9 +2,9 @@
  "characterID": 460084,
  "characterClassID": 5,
  "raceID": 0,
- "position": 532,
- "rankingPositionChange": 0,
- "gloryPoint": 28960,
+ "position": 533,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28946,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hanubix",
@@ -280,6 +280,14 @@
    "position": 532,
    "rankingPositionChange": 0,
    "gloryPoint": 28960,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 533,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28946,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

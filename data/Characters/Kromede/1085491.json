@@ -2,9 +2,9 @@
  "characterID": 1085491,
  "characterClassID": 14,
  "raceID": 0,
- "position": 829,
- "rankingPositionChange": -2,
- "gloryPoint": 11950,
+ "position": 828,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11943,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Whitehouse",
@@ -270,6 +270,14 @@
    "position": 829,
    "rankingPositionChange": -2,
    "gloryPoint": 11950,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 828,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11943,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

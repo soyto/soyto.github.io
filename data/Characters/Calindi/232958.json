@@ -2,10 +2,10 @@
  "characterID": 232958,
  "characterClassID": 2,
  "raceID": 0,
- "position": 194,
- "rankingPositionChange": 1,
- "gloryPoint": 40200,
- "gloryPointChange": 360,
+ "position": 195,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40229,
+ "gloryPointChange": 29,
  "soldierRankID": 13,
  "characterName": "Devisther",
  "guildName": "Fantasia",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 40200,
    "gloryPointChange": 360,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40229,
+   "gloryPointChange": 29,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 375666,
  "characterClassID": 14,
  "raceID": 0,
- "position": 175,
- "rankingPositionChange": 0,
- "gloryPoint": 45699,
+ "position": 177,
+ "rankingPositionChange": -2,
+ "gloryPoint": 45650,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tkip",
@@ -280,6 +280,14 @@
    "position": 175,
    "rankingPositionChange": 0,
    "gloryPoint": 45699,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 177,
+   "rankingPositionChange": -2,
+   "gloryPoint": 45650,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

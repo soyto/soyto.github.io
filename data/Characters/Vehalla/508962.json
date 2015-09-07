@@ -2,9 +2,9 @@
  "characterID": 508962,
  "characterClassID": 7,
  "raceID": 1,
- "position": 292,
- "rankingPositionChange": 1,
- "gloryPoint": 9402,
+ "position": 293,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9353,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Skrullx",
@@ -280,6 +280,14 @@
    "position": 292,
    "rankingPositionChange": 1,
    "gloryPoint": 9402,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 293,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9353,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

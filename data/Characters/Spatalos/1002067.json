@@ -2,9 +2,9 @@
  "characterID": 1002067,
  "characterClassID": 14,
  "raceID": 0,
- "position": 922,
- "rankingPositionChange": 2,
- "gloryPoint": 6990,
+ "position": 930,
+ "rankingPositionChange": -8,
+ "gloryPoint": 6983,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Oldgun",
@@ -280,6 +280,14 @@
    "position": 922,
    "rankingPositionChange": 2,
    "gloryPoint": 6990,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 930,
+   "rankingPositionChange": -8,
+   "gloryPoint": 6983,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

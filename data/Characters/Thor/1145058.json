@@ -2,10 +2,10 @@
  "characterID": 1145058,
  "characterClassID": 2,
  "raceID": 0,
- "position": 373,
- "rankingPositionChange": 1,
- "gloryPoint": 48971,
- "gloryPointChange": 159,
+ "position": 375,
+ "rankingPositionChange": -2,
+ "gloryPoint": 48943,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Breakout",
  "guildName": "Underground Strawberry Nation",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 48971,
    "gloryPointChange": 159,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 375,
+   "rankingPositionChange": -2,
+   "gloryPoint": 48943,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

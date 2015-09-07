@@ -2,9 +2,9 @@
  "characterID": 728282,
  "characterClassID": 10,
  "raceID": 1,
- "position": 625,
- "rankingPositionChange": 0,
- "gloryPoint": 5137,
+ "position": 626,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5123,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Cristally",
@@ -280,6 +280,14 @@
    "position": 625,
    "rankingPositionChange": 0,
    "gloryPoint": 5137,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 626,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5123,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 1129430,
  "characterClassID": 13,
  "raceID": 1,
- "position": 255,
- "rankingPositionChange": 1,
- "gloryPoint": 16731,
- "gloryPointChange": 129,
+ "position": 256,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16682,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sparklebottom",
  "guildName": "Press any key to continue",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 16731,
    "gloryPointChange": 129,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 256,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16682,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

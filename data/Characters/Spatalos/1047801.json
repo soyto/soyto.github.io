@@ -2,9 +2,9 @@
  "characterID": 1047801,
  "characterClassID": 2,
  "raceID": 1,
- "position": 225,
- "rankingPositionChange": 0,
- "gloryPoint": 26673,
+ "position": 226,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26624,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Duskblade",
@@ -280,6 +280,14 @@
    "position": 225,
    "rankingPositionChange": 0,
    "gloryPoint": 26673,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 226,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26624,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

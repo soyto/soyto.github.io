@@ -2,10 +2,10 @@
  "characterID": 116679,
  "characterClassID": 1,
  "raceID": 1,
- "position": 816,
- "rankingPositionChange": -1,
- "gloryPoint": 4979,
- "gloryPointChange": -7,
+ "position": 809,
+ "rankingPositionChange": 7,
+ "gloryPoint": 5131,
+ "gloryPointChange": 152,
  "soldierRankID": 10,
  "characterName": "Vexathor",
  "guildName": "  TOP  ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 4979,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 809,
+   "rankingPositionChange": 7,
+   "gloryPoint": 5131,
+   "gloryPointChange": 152,
    "soldierRankID": 10
   }
  ],

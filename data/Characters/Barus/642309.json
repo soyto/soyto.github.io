@@ -2,9 +2,9 @@
  "characterID": 642309,
  "characterClassID": 16,
  "raceID": 1,
- "position": 418,
- "rankingPositionChange": 1,
- "gloryPoint": 34343,
+ "position": 421,
+ "rankingPositionChange": -3,
+ "gloryPoint": 34315,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tsunemoriakane",
@@ -280,6 +280,14 @@
    "position": 418,
    "rankingPositionChange": 1,
    "gloryPoint": 34343,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 421,
+   "rankingPositionChange": -3,
+   "gloryPoint": 34315,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

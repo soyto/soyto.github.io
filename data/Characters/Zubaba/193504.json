@@ -2,9 +2,9 @@
  "characterID": 193504,
  "characterClassID": 10,
  "raceID": 0,
- "position": 941,
- "rankingPositionChange": -4,
- "gloryPoint": 3285,
+ "position": 940,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3278,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Soror",
@@ -278,6 +278,14 @@
    "position": 941,
    "rankingPositionChange": -4,
    "gloryPoint": 3285,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3278,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

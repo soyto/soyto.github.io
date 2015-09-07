@@ -2,9 +2,9 @@
  "characterID": 398934,
  "characterClassID": 14,
  "raceID": 0,
- "position": 689,
- "rankingPositionChange": 1,
- "gloryPoint": 10113,
+ "position": 694,
+ "rankingPositionChange": -5,
+ "gloryPoint": 10099,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kindred",
@@ -280,6 +280,14 @@
    "position": 689,
    "rankingPositionChange": 1,
    "gloryPoint": 10113,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 694,
+   "rankingPositionChange": -5,
+   "gloryPoint": 10099,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

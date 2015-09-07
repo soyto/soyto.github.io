@@ -2,9 +2,9 @@
  "characterID": 1221325,
  "characterClassID": 16,
  "raceID": 0,
- "position": 381,
- "rankingPositionChange": 0,
- "gloryPoint": 47434,
+ "position": 384,
+ "rankingPositionChange": -3,
+ "gloryPoint": 47406,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ghostmachine",
@@ -208,6 +208,14 @@
    "position": 381,
    "rankingPositionChange": 0,
    "gloryPoint": 47434,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": -3,
+   "gloryPoint": 47406,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

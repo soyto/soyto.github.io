@@ -2,9 +2,9 @@
  "characterID": 1275165,
  "characterClassID": 14,
  "raceID": 1,
- "position": 539,
- "rankingPositionChange": 1,
- "gloryPoint": 16495,
+ "position": 542,
+ "rankingPositionChange": -3,
+ "gloryPoint": 16481,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Metayah",
@@ -280,6 +280,14 @@
    "position": 539,
    "rankingPositionChange": 1,
    "gloryPoint": 16495,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 542,
+   "rankingPositionChange": -3,
+   "gloryPoint": 16481,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

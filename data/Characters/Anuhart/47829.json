@@ -2,9 +2,9 @@
  "characterID": 47829,
  "characterClassID": 4,
  "raceID": 0,
- "position": 896,
- "rankingPositionChange": 2,
- "gloryPoint": 5118,
+ "position": 899,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5111,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Skillman",
@@ -256,6 +256,14 @@
    "position": 896,
    "rankingPositionChange": 2,
    "gloryPoint": 5118,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 899,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5111,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

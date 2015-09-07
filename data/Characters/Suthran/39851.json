@@ -2,9 +2,9 @@
  "characterID": 39851,
  "characterClassID": 2,
  "raceID": 0,
- "position": 249,
- "rankingPositionChange": 0,
- "gloryPoint": 63901,
+ "position": 251,
+ "rankingPositionChange": -2,
+ "gloryPoint": 63852,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Apollonia",
@@ -280,6 +280,14 @@
    "position": 249,
    "rankingPositionChange": 0,
    "gloryPoint": 63901,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 251,
+   "rankingPositionChange": -2,
+   "gloryPoint": 63852,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 550106,
  "characterClassID": 1,
  "raceID": 1,
- "position": 526,
- "rankingPositionChange": -2,
- "gloryPoint": 7405,
+ "position": 525,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7391,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Taf",
@@ -280,6 +280,14 @@
    "position": 526,
    "rankingPositionChange": -2,
    "gloryPoint": 7405,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 525,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7391,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

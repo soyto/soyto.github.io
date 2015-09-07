@@ -2,9 +2,9 @@
  "characterID": 64164,
  "characterClassID": 10,
  "raceID": 0,
- "position": 741,
- "rankingPositionChange": 2,
- "gloryPoint": 7838,
+ "position": 745,
+ "rankingPositionChange": -4,
+ "gloryPoint": 7831,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Boa",
@@ -280,6 +280,14 @@
    "position": 741,
    "rankingPositionChange": 2,
    "gloryPoint": 7838,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 745,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7831,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 540358,
  "characterClassID": 11,
  "raceID": 0,
- "position": 994,
- "rankingPositionChange": 5,
- "gloryPoint": 4088,
- "gloryPointChange": 147,
+ "position": 997,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4084,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Arusa",
  "guildName": "We Play Naked",
@@ -49,6 +49,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 4088,
    "gloryPointChange": 147,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4084,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 58743,
  "characterClassID": 5,
  "raceID": 0,
- "position": 404,
- "rankingPositionChange": 3,
- "gloryPoint": 23185,
- "gloryPointChange": 85,
+ "position": 405,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23207,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Topina",
  "guildName": "BlackWolves",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 23185,
    "gloryPointChange": 85,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 405,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23207,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

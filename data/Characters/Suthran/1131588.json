@@ -2,12 +2,14 @@
  "characterID": 1131588,
  "characterClassID": 10,
  "raceID": 0,
- "position": 191,
- "rankingPositionChange": 0,
- "gloryPoint": 76178,
- "gloryPointChange": 174,
+ "position": 189,
+ "rankingPositionChange": 2,
+ "gloryPoint": 76379,
+ "gloryPointChange": 201,
  "soldierRankID": 13,
  "characterName": "Adhala",
+ "guildName": "  OMI  ",
+ "guildID": 44155,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 76178,
    "gloryPointChange": 174,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 189,
+   "rankingPositionChange": 2,
+   "gloryPoint": 76379,
+   "gloryPointChange": 201,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "  OMI  ",
+   "guildID": 44155
   }
  ]
 }

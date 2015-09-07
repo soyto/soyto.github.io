@@ -2,9 +2,9 @@
  "characterID": 1173511,
  "characterClassID": 16,
  "raceID": 0,
- "position": 799,
- "rankingPositionChange": 3,
- "gloryPoint": 18611,
+ "position": 811,
+ "rankingPositionChange": -12,
+ "gloryPoint": 18604,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Laaaachieuse",
@@ -280,6 +280,14 @@
    "position": 799,
    "rankingPositionChange": 3,
    "gloryPoint": 18611,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 811,
+   "rankingPositionChange": -12,
+   "gloryPoint": 18604,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

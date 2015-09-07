@@ -2,9 +2,9 @@
  "characterID": 961520,
  "characterClassID": 5,
  "raceID": 0,
- "position": 850,
- "rankingPositionChange": 1,
- "gloryPoint": 18475,
+ "position": 860,
+ "rankingPositionChange": -10,
+ "gloryPoint": 18468,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yavara",
@@ -280,6 +280,14 @@
    "position": 850,
    "rankingPositionChange": 1,
    "gloryPoint": 18475,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": -10,
+   "gloryPoint": 18468,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

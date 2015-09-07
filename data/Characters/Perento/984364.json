@@ -3,13 +3,13 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 159,
- "rankingPositionChange": -1,
- "gloryPoint": 82778,
- "gloryPointChange": 101,
+ "rankingPositionChange": 0,
+ "gloryPoint": 82939,
+ "gloryPointChange": 161,
  "soldierRankID": 13,
  "characterName": "Chewgum",
- "guildName": "The Black Dozen",
- "guildID": 19646,
+ "guildName": "Maximum Baddies",
+ "guildID": 29461,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 82778,
    "gloryPointChange": 101,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": 0,
+   "gloryPoint": 82939,
+   "gloryPointChange": 161,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Black Dozen",
    "guildID": 19646
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Maximum Baddies",
+   "guildID": 29461
   }
  ]
 }

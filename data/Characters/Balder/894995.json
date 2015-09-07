@@ -2,9 +2,9 @@
  "characterID": 894995,
  "characterClassID": 2,
  "raceID": 0,
- "position": 665,
- "rankingPositionChange": 2,
- "gloryPoint": 3878,
+ "position": 666,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3864,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Chichong",
@@ -280,6 +280,14 @@
    "position": 665,
    "rankingPositionChange": 2,
    "gloryPoint": 3878,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 666,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3864,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

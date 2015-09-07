@@ -2,10 +2,10 @@
  "characterID": 1484160,
  "characterClassID": 10,
  "raceID": 0,
- "position": 221,
- "rankingPositionChange": 1,
- "gloryPoint": 71642,
- "gloryPointChange": 367,
+ "position": 226,
+ "rankingPositionChange": -5,
+ "gloryPoint": 71653,
+ "gloryPointChange": 11,
  "soldierRankID": 13,
  "characterName": "Nasuae",
  "guildName": "Mad Cuz Bad",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 71642,
    "gloryPointChange": 367,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 226,
+   "rankingPositionChange": -5,
+   "gloryPoint": 71653,
+   "gloryPointChange": 11,
    "soldierRankID": 13
   }
  ],

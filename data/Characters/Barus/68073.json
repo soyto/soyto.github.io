@@ -2,9 +2,9 @@
  "characterID": 68073,
  "characterClassID": 16,
  "raceID": 1,
- "position": 675,
- "rankingPositionChange": 0,
- "gloryPoint": 19069,
+ "position": 679,
+ "rankingPositionChange": -4,
+ "gloryPoint": 19055,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lillithh",
@@ -280,6 +280,14 @@
    "position": 675,
    "rankingPositionChange": 0,
    "gloryPoint": 19069,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": -4,
+   "gloryPoint": 19055,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 925003,
  "characterClassID": 7,
  "raceID": 1,
- "position": 71,
- "rankingPositionChange": 0,
- "gloryPoint": 107602,
+ "position": 72,
+ "rankingPositionChange": -1,
+ "gloryPoint": 107495,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Sushichan",
@@ -280,6 +280,14 @@
    "position": 71,
    "rankingPositionChange": 0,
    "gloryPoint": 107602,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 72,
+   "rankingPositionChange": -1,
+   "gloryPoint": 107495,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

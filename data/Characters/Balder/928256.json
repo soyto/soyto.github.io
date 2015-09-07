@@ -2,9 +2,9 @@
  "characterID": 928256,
  "characterClassID": 16,
  "raceID": 0,
- "position": 560,
- "rankingPositionChange": 0,
- "gloryPoint": 5840,
+ "position": 559,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5826,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Analrider",
@@ -272,6 +272,14 @@
    "position": 560,
    "rankingPositionChange": 0,
    "gloryPoint": 5840,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 559,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5826,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

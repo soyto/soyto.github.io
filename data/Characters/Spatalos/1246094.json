@@ -2,10 +2,10 @@
  "characterID": 1246094,
  "characterClassID": 2,
  "raceID": 1,
- "position": 126,
- "rankingPositionChange": 2,
- "gloryPoint": 55102,
- "gloryPointChange": 539,
+ "position": 127,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55462,
+ "gloryPointChange": 360,
  "soldierRankID": 13,
  "characterName": "Teoa",
  "guildName": "Lionhearts",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 55102,
    "gloryPointChange": 539,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55462,
+   "gloryPointChange": 360,
    "soldierRankID": 13
   }
  ],

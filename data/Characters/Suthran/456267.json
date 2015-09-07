@@ -2,10 +2,10 @@
  "characterID": 456267,
  "characterClassID": 2,
  "raceID": 1,
- "position": 386,
- "rankingPositionChange": 5,
- "gloryPoint": 22647,
- "gloryPointChange": 739,
+ "position": 387,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22649,
+ "gloryPointChange": 2,
  "soldierRankID": 12,
  "characterName": "Abarai",
  "guildName": "SchizoFriends",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 22647,
    "gloryPointChange": 739,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22649,
+   "gloryPointChange": 2,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 192120,
  "characterClassID": 2,
  "raceID": 0,
- "position": 81,
- "rankingPositionChange": 2,
- "gloryPoint": 78015,
- "gloryPointChange": 779,
+ "position": 82,
+ "rankingPositionChange": -1,
+ "gloryPoint": 77985,
+ "gloryPointChange": -30,
  "soldierRankID": 14,
  "characterName": "Synthec",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 78015,
    "gloryPointChange": 779,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 82,
+   "rankingPositionChange": -1,
+   "gloryPoint": 77985,
+   "gloryPointChange": -30,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1251756,
  "characterClassID": 14,
  "raceID": 0,
- "position": 555,
- "rankingPositionChange": 0,
- "gloryPoint": 20532,
+ "position": 559,
+ "rankingPositionChange": -4,
+ "gloryPoint": 20518,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hyroh",
@@ -280,6 +280,14 @@
    "position": 555,
    "rankingPositionChange": 0,
    "gloryPoint": 20532,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 559,
+   "rankingPositionChange": -4,
+   "gloryPoint": 20518,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

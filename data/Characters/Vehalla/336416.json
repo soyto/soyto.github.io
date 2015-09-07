@@ -2,9 +2,9 @@
  "characterID": 336416,
  "characterClassID": 14,
  "raceID": 0,
- "position": 166,
- "rankingPositionChange": 0,
- "gloryPoint": 34305,
+ "position": 167,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34256,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Maric",
@@ -280,6 +280,14 @@
    "position": 166,
    "rankingPositionChange": 0,
    "gloryPoint": 34305,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 167,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34256,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 927435,
  "characterClassID": 4,
  "raceID": 0,
- "position": 950,
- "rankingPositionChange": 2,
- "gloryPoint": 14241,
+ "position": 962,
+ "rankingPositionChange": -12,
+ "gloryPoint": 14234,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chidix",
@@ -280,6 +280,14 @@
    "position": 950,
    "rankingPositionChange": 2,
    "gloryPoint": 14241,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": -12,
+   "gloryPoint": 14234,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

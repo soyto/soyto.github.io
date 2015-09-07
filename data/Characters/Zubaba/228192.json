@@ -3,9 +3,9 @@
  "characterClassID": 16,
  "raceID": 1,
  "position": 324,
- "rankingPositionChange": -1,
- "gloryPoint": 23305,
- "gloryPointChange": -28,
+ "rankingPositionChange": 0,
+ "gloryPoint": 23313,
+ "gloryPointChange": 8,
  "soldierRankID": 12,
  "characterName": "Lionhearted",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 23305,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 324,
+   "rankingPositionChange": 0,
+   "gloryPoint": 23313,
+   "gloryPointChange": 8,
    "soldierRankID": 12
   }
  ],

@@ -2,14 +2,12 @@
  "characterID": 135699,
  "characterClassID": 13,
  "raceID": 0,
- "position": 21,
- "rankingPositionChange": 0,
- "gloryPoint": 237765,
- "gloryPointChange": -119,
+ "position": 22,
+ "rankingPositionChange": -1,
+ "gloryPoint": 237527,
+ "gloryPointChange": -238,
  "soldierRankID": 15,
  "characterName": "Amed",
- "guildName": "LETHAL",
- "guildID": 3529,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 237765,
    "gloryPointChange": -119,
    "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 22,
+   "rankingPositionChange": -1,
+   "gloryPoint": 237527,
+   "gloryPointChange": -238,
+   "soldierRankID": 15
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "LETHAL",
    "guildID": 3529
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

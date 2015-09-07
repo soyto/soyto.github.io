@@ -2,10 +2,10 @@
  "characterID": 1222134,
  "characterClassID": 14,
  "raceID": 1,
- "position": 256,
- "rankingPositionChange": 0,
- "gloryPoint": 60335,
- "gloryPointChange": -49,
+ "position": 255,
+ "rankingPositionChange": 1,
+ "gloryPoint": 61246,
+ "gloryPointChange": 911,
  "soldierRankID": 13,
  "characterName": "Angelsgun",
  "guildName": "Evolution",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 60335,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": 1,
+   "gloryPoint": 61246,
+   "gloryPointChange": 911,
    "soldierRankID": 13
   }
  ],

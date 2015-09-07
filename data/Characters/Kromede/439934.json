@@ -2,10 +2,10 @@
  "characterID": 439934,
  "characterClassID": 7,
  "raceID": 1,
- "position": 870,
- "rankingPositionChange": -5,
- "gloryPoint": 3767,
- "gloryPointChange": -4,
+ "position": 850,
+ "rankingPositionChange": 20,
+ "gloryPoint": 3960,
+ "gloryPointChange": 193,
  "soldierRankID": 10,
  "characterName": "Jarashiina",
  "guildName": "Komori",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 3767,
    "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 850,
+   "rankingPositionChange": 20,
+   "gloryPoint": 3960,
+   "gloryPointChange": 193,
    "soldierRankID": 10
   }
  ],

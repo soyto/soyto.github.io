@@ -2,14 +2,12 @@
  "characterID": 239875,
  "characterClassID": 8,
  "raceID": 1,
- "position": 411,
+ "position": 413,
  "rankingPositionChange": -2,
- "gloryPoint": 16040,
+ "gloryPoint": 16012,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Claudiozeus",
- "guildName": "AbyssGates",
- "guildID": 1846,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 16040,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 413,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16012,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "AbyssGates",
    "guildID": 1846
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

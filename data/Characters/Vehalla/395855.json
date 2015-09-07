@@ -2,9 +2,9 @@
  "characterID": 395855,
  "characterClassID": 4,
  "raceID": 1,
- "position": 375,
- "rankingPositionChange": 3,
- "gloryPoint": 5590,
+ "position": 376,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5562,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Rhayzar",
@@ -280,6 +280,14 @@
    "position": 375,
    "rankingPositionChange": 3,
    "gloryPoint": 5590,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 376,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5562,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

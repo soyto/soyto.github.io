@@ -2,9 +2,9 @@
  "characterID": 9071,
  "characterClassID": 2,
  "raceID": 0,
- "position": 353,
- "rankingPositionChange": 0,
- "gloryPoint": 28368,
+ "position": 355,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28340,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Safety",
@@ -262,6 +262,14 @@
    "position": 353,
    "rankingPositionChange": 0,
    "gloryPoint": 28368,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 355,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28340,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

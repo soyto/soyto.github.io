@@ -2,9 +2,9 @@
  "characterID": 1068991,
  "characterClassID": 5,
  "raceID": 1,
- "position": 772,
- "rankingPositionChange": 1,
- "gloryPoint": 16526,
+ "position": 778,
+ "rankingPositionChange": -6,
+ "gloryPoint": 16519,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xfrankenstein",
@@ -280,6 +280,14 @@
    "position": 772,
    "rankingPositionChange": 1,
    "gloryPoint": 16526,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 778,
+   "rankingPositionChange": -6,
+   "gloryPoint": 16519,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

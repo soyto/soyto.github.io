@@ -2,10 +2,10 @@
  "characterID": 323604,
  "characterClassID": 11,
  "raceID": 1,
- "position": 641,
- "rankingPositionChange": 1,
- "gloryPoint": 8242,
- "gloryPointChange": 36,
+ "position": 643,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8295,
+ "gloryPointChange": 53,
  "soldierRankID": 11,
  "characterName": "Chream",
  "guildName": "Shugo Mafia",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 8242,
    "gloryPointChange": 36,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 643,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8295,
+   "gloryPointChange": 53,
    "soldierRankID": 11
   }
  ],

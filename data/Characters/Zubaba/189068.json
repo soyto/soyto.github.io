@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 0,
  "position": 780,
- "rankingPositionChange": 3,
- "gloryPoint": 5864,
- "gloryPointChange": 153,
+ "rankingPositionChange": 0,
+ "gloryPoint": 5863,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Vesryn",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 5864,
    "gloryPointChange": 153,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 780,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5863,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

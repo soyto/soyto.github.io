@@ -2,10 +2,10 @@
  "characterID": 1153616,
  "characterClassID": 16,
  "raceID": 1,
- "position": 254,
- "rankingPositionChange": 0,
- "gloryPoint": 33037,
- "gloryPointChange": -1,
+ "position": 255,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32988,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Papper",
  "guildName": "Eternal Army",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 33037,
    "gloryPointChange": -1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32988,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

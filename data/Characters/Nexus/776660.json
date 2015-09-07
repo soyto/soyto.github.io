@@ -2,9 +2,9 @@
  "characterID": 776660,
  "characterClassID": 1,
  "raceID": 1,
- "position": 202,
- "rankingPositionChange": 0,
- "gloryPoint": 81717,
+ "position": 203,
+ "rankingPositionChange": -1,
+ "gloryPoint": 81668,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Thorvard",
@@ -264,6 +264,14 @@
    "position": 202,
    "rankingPositionChange": 0,
    "gloryPoint": 81717,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 203,
+   "rankingPositionChange": -1,
+   "gloryPoint": 81668,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

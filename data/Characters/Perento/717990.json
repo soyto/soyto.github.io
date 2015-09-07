@@ -2,10 +2,10 @@
  "characterID": 717990,
  "characterClassID": 5,
  "raceID": 0,
- "position": 156,
- "rankingPositionChange": 1,
- "gloryPoint": 83357,
- "gloryPointChange": 120,
+ "position": 157,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83318,
+ "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Darkops",
  "guildName": "Aion",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 83357,
    "gloryPointChange": 120,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 157,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83318,
+   "gloryPointChange": -39,
    "soldierRankID": 13
   }
  ],

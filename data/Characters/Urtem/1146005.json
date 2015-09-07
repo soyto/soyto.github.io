@@ -2,10 +2,10 @@
  "characterID": 1146005,
  "characterClassID": 14,
  "raceID": 0,
- "position": 908,
- "rankingPositionChange": 1,
- "gloryPoint": 15281,
- "gloryPointChange": -7,
+ "position": 921,
+ "rankingPositionChange": -13,
+ "gloryPoint": 15280,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Elyosera",
  "guildName": "I SEE YOU",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 15281,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": -13,
+   "gloryPoint": 15280,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

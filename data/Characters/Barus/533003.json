@@ -2,10 +2,10 @@
  "characterID": 533003,
  "characterClassID": 5,
  "raceID": 1,
- "position": 860,
- "rankingPositionChange": 9,
- "gloryPoint": 12877,
- "gloryPointChange": 88,
+ "position": 864,
+ "rankingPositionChange": -4,
+ "gloryPoint": 12897,
+ "gloryPointChange": 20,
  "soldierRankID": 10,
  "characterName": "Boow",
  "guildName": "Nobody settles winners",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 12877,
    "gloryPointChange": 88,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 864,
+   "rankingPositionChange": -4,
+   "gloryPoint": 12897,
+   "gloryPointChange": 20,
    "soldierRankID": 10
   }
  ],

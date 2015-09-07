@@ -2,10 +2,10 @@
  "characterID": 95559,
  "characterClassID": 1,
  "raceID": 1,
- "position": 58,
- "rankingPositionChange": 2,
- "gloryPoint": 33018,
- "gloryPointChange": 209,
+ "position": 59,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32911,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Tulore",
  "guildName": " The Dream Team ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 33018,
    "gloryPointChange": 209,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32911,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

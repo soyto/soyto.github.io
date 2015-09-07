@@ -2,9 +2,9 @@
  "characterID": 411144,
  "characterClassID": 16,
  "raceID": 0,
- "position": 302,
- "rankingPositionChange": -1,
- "gloryPoint": 10446,
+ "position": 301,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10418,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Silya",
@@ -280,6 +280,14 @@
    "position": 302,
    "rankingPositionChange": -1,
    "gloryPoint": 10446,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 301,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10418,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

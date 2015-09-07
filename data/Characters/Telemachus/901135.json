@@ -2,10 +2,10 @@
  "characterID": 901135,
  "characterClassID": 7,
  "raceID": 0,
- "position": 892,
- "rankingPositionChange": 0,
- "gloryPoint": 7205,
- "gloryPointChange": 43,
+ "position": 890,
+ "rankingPositionChange": 2,
+ "gloryPoint": 7198,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ghostwings",
  "guildName": "Pendulum",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7205,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 890,
+   "rankingPositionChange": 2,
+   "gloryPoint": 7198,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

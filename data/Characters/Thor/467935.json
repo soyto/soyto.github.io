@@ -2,10 +2,10 @@
  "characterID": 467935,
  "characterClassID": 7,
  "raceID": 1,
- "position": 198,
- "rankingPositionChange": 1,
- "gloryPoint": 71571,
- "gloryPointChange": 164,
+ "position": 204,
+ "rankingPositionChange": -6,
+ "gloryPoint": 71632,
+ "gloryPointChange": 61,
  "soldierRankID": 13,
  "characterName": "Shanaha",
  "guildName": "Heer der Finsternis",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 71571,
    "gloryPointChange": 164,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 204,
+   "rankingPositionChange": -6,
+   "gloryPoint": 71632,
+   "gloryPointChange": 61,
    "soldierRankID": 13
   }
  ],

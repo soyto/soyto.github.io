@@ -2,9 +2,9 @@
  "characterID": 841138,
  "characterClassID": 7,
  "raceID": 0,
- "position": 581,
- "rankingPositionChange": 1,
- "gloryPoint": 29251,
+ "position": 590,
+ "rankingPositionChange": -9,
+ "gloryPoint": 29237,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Meradock",
@@ -280,6 +280,14 @@
    "position": 581,
    "rankingPositionChange": 1,
    "gloryPoint": 29251,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 590,
+   "rankingPositionChange": -9,
+   "gloryPoint": 29237,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

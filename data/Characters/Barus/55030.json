@@ -2,10 +2,10 @@
  "characterID": 55030,
  "characterClassID": 14,
  "raceID": 1,
- "position": 525,
- "rankingPositionChange": 0,
- "gloryPoint": 25524,
- "gloryPointChange": -14,
+ "position": 530,
+ "rankingPositionChange": -5,
+ "gloryPoint": 25522,
+ "gloryPointChange": -2,
  "soldierRankID": 11,
  "characterName": "Beny",
  "guildName": "Prime",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 25524,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 530,
+   "rankingPositionChange": -5,
+   "gloryPoint": 25522,
+   "gloryPointChange": -2,
    "soldierRankID": 11
   }
  ],

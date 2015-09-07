@@ -2,9 +2,9 @@
  "characterID": 806180,
  "characterClassID": 10,
  "raceID": 1,
- "position": 168,
- "rankingPositionChange": 0,
- "gloryPoint": 67370,
+ "position": 169,
+ "rankingPositionChange": -1,
+ "gloryPoint": 67321,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ladypompom",
@@ -176,6 +176,14 @@
    "position": 168,
    "rankingPositionChange": 0,
    "gloryPoint": 67370,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 169,
+   "rankingPositionChange": -1,
+   "gloryPoint": 67321,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

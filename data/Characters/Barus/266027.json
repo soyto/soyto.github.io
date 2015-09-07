@@ -2,10 +2,10 @@
  "characterID": 266027,
  "characterClassID": 7,
  "raceID": 0,
- "position": 96,
- "rankingPositionChange": 0,
- "gloryPoint": 98096,
- "gloryPointChange": -107,
+ "position": 97,
+ "rankingPositionChange": -1,
+ "gloryPoint": 98002,
+ "gloryPointChange": -94,
  "soldierRankID": 14,
  "characterName": "Suron",
  "guildName": "Statysci",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 98096,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 97,
+   "rankingPositionChange": -1,
+   "gloryPoint": 98002,
+   "gloryPointChange": -94,
    "soldierRankID": 14
   }
  ],

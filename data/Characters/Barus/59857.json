@@ -2,10 +2,10 @@
  "characterID": 59857,
  "characterClassID": 14,
  "raceID": 0,
- "position": 180,
- "rankingPositionChange": -1,
- "gloryPoint": 70275,
- "gloryPointChange": 151,
+ "position": 179,
+ "rankingPositionChange": 1,
+ "gloryPoint": 70840,
+ "gloryPointChange": 565,
  "soldierRankID": 13,
  "characterName": "Shogun",
  "guildName": "Invictum",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 70275,
    "gloryPointChange": 151,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 179,
+   "rankingPositionChange": 1,
+   "gloryPoint": 70840,
+   "gloryPointChange": 565,
    "soldierRankID": 13
   }
  ],

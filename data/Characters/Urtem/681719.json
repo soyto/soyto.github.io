@@ -2,10 +2,10 @@
  "characterID": 681719,
  "characterClassID": 1,
  "raceID": 0,
- "position": 705,
- "rankingPositionChange": 5,
- "gloryPoint": 22822,
- "gloryPointChange": 56,
+ "position": 716,
+ "rankingPositionChange": -11,
+ "gloryPoint": 22815,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lemuc",
  "guildName": "Momentum Invictus",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 22822,
    "gloryPointChange": 56,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 716,
+   "rankingPositionChange": -11,
+   "gloryPoint": 22815,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

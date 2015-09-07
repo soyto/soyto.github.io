@@ -2,9 +2,9 @@
  "characterID": 532825,
  "characterClassID": 7,
  "raceID": 0,
- "position": 509,
- "rankingPositionChange": 0,
- "gloryPoint": 35688,
+ "position": 514,
+ "rankingPositionChange": -5,
+ "gloryPoint": 35674,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Creay",
@@ -192,6 +192,14 @@
    "position": 509,
    "rankingPositionChange": 0,
    "gloryPoint": 35688,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 514,
+   "rankingPositionChange": -5,
+   "gloryPoint": 35674,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

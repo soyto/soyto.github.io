@@ -2,9 +2,9 @@
  "characterID": 1249595,
  "characterClassID": 7,
  "raceID": 1,
- "position": 711,
- "rankingPositionChange": 0,
- "gloryPoint": 5451,
+ "position": 716,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5444,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Schino",
@@ -280,6 +280,14 @@
    "position": 711,
    "rankingPositionChange": 0,
    "gloryPoint": 5451,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 716,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5444,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

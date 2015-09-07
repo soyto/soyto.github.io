@@ -2,9 +2,9 @@
  "characterID": 1039898,
  "characterClassID": 2,
  "raceID": 0,
- "position": 605,
- "rankingPositionChange": 2,
- "gloryPoint": 28017,
+ "position": 613,
+ "rankingPositionChange": -8,
+ "gloryPoint": 28003,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Azphiel",
@@ -280,6 +280,14 @@
    "position": 605,
    "rankingPositionChange": 2,
    "gloryPoint": 28017,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 613,
+   "rankingPositionChange": -8,
+   "gloryPoint": 28003,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

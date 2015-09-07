@@ -2,9 +2,9 @@
  "characterID": 988389,
  "characterClassID": 1,
  "raceID": 1,
- "position": 537,
- "rankingPositionChange": 3,
- "gloryPoint": 7110,
+ "position": 538,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7146,
  "gloryPointChange": 36,
  "soldierRankID": 11,
  "characterName": "Xenoxi",
@@ -280,6 +280,14 @@
    "position": 537,
    "rankingPositionChange": 3,
    "gloryPoint": 7110,
+   "gloryPointChange": 36,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7146,
    "gloryPointChange": 36,
    "soldierRankID": 11
   }

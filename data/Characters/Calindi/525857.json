@@ -2,9 +2,9 @@
  "characterID": 525857,
  "characterClassID": 5,
  "raceID": 0,
- "position": 845,
- "rankingPositionChange": 0,
- "gloryPoint": 1648,
+ "position": 849,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1641,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Weavel",
@@ -280,6 +280,14 @@
    "position": 845,
    "rankingPositionChange": 0,
    "gloryPoint": 1648,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 849,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1641,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

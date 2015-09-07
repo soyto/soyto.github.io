@@ -2,9 +2,9 @@
  "characterID": 567922,
  "characterClassID": 10,
  "raceID": 1,
- "position": 879,
- "rankingPositionChange": -2,
- "gloryPoint": 2087,
+ "position": 878,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2080,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nirti",
@@ -280,6 +280,14 @@
    "position": 879,
    "rankingPositionChange": -2,
    "gloryPoint": 2087,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 878,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2080,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

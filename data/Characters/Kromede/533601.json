@@ -2,9 +2,9 @@
  "characterID": 533601,
  "characterClassID": 10,
  "raceID": 0,
- "position": 271,
- "rankingPositionChange": 0,
- "gloryPoint": 48259,
+ "position": 272,
+ "rankingPositionChange": -1,
+ "gloryPoint": 48210,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rakii",
@@ -280,6 +280,14 @@
    "position": 271,
    "rankingPositionChange": 0,
    "gloryPoint": 48259,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 272,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48210,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

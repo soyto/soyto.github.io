@@ -2,14 +2,14 @@
  "characterID": 1220520,
  "characterClassID": 7,
  "raceID": 0,
- "position": 523,
- "rankingPositionChange": 5,
- "gloryPoint": 22614,
- "gloryPointChange": 428,
+ "position": 522,
+ "rankingPositionChange": 1,
+ "gloryPoint": 22713,
+ "gloryPointChange": 99,
  "soldierRankID": 11,
  "characterName": "Klingenbunny",
- "guildName": "Endstation",
- "guildID": 20284,
+ "guildName": "Corpus Delicti",
+ "guildID": 27738,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 22614,
    "gloryPointChange": 428,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 522,
+   "rankingPositionChange": 1,
+   "gloryPoint": 22713,
+   "gloryPointChange": 99,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -299,6 +307,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Endstation",
    "guildID": 20284
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Corpus Delicti",
+   "guildID": 27738
   }
  ]
 }

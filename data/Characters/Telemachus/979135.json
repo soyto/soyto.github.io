@@ -2,9 +2,9 @@
  "characterID": 979135,
  "characterClassID": 10,
  "raceID": 1,
- "position": 200,
- "rankingPositionChange": -2,
- "gloryPoint": 26410,
+ "position": 199,
+ "rankingPositionChange": 1,
+ "gloryPoint": 26361,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Steicy",
@@ -280,6 +280,14 @@
    "position": 200,
    "rankingPositionChange": -2,
    "gloryPoint": 26410,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 199,
+   "rankingPositionChange": 1,
+   "gloryPoint": 26361,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

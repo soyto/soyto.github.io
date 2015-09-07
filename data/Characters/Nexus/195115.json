@@ -2,9 +2,9 @@
  "characterID": 195115,
  "characterClassID": 1,
  "raceID": 0,
- "position": 400,
- "rankingPositionChange": 1,
- "gloryPoint": 23696,
+ "position": 401,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23668,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Pavle",
@@ -280,6 +280,14 @@
    "position": 400,
    "rankingPositionChange": 1,
    "gloryPoint": 23696,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23668,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

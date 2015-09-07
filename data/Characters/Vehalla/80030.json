@@ -2,10 +2,10 @@
  "characterID": 80030,
  "characterClassID": 8,
  "raceID": 0,
- "position": 719,
- "rankingPositionChange": -2,
- "gloryPoint": 1258,
- "gloryPointChange": 12,
+ "position": 729,
+ "rankingPositionChange": -10,
+ "gloryPoint": 1251,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Phary",
  "status": [
@@ -167,6 +167,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 1258,
    "gloryPointChange": 12,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 729,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1251,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

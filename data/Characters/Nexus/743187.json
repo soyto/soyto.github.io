@@ -2,9 +2,9 @@
  "characterID": 743187,
  "characterClassID": 10,
  "raceID": 0,
- "position": 114,
- "rankingPositionChange": -1,
- "gloryPoint": 86484,
+ "position": 113,
+ "rankingPositionChange": 1,
+ "gloryPoint": 86435,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Iraneth",
@@ -280,6 +280,14 @@
    "position": 114,
    "rankingPositionChange": -1,
    "gloryPoint": 86484,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 113,
+   "rankingPositionChange": 1,
+   "gloryPoint": 86435,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

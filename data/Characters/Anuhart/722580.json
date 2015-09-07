@@ -2,9 +2,9 @@
  "characterID": 722580,
  "characterClassID": 10,
  "raceID": 0,
- "position": 180,
- "rankingPositionChange": 0,
- "gloryPoint": 54862,
+ "position": 182,
+ "rankingPositionChange": -2,
+ "gloryPoint": 54813,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Canaday",
@@ -280,6 +280,14 @@
    "position": 180,
    "rankingPositionChange": 0,
    "gloryPoint": 54862,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 182,
+   "rankingPositionChange": -2,
+   "gloryPoint": 54813,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

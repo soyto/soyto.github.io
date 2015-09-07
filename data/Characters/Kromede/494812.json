@@ -2,9 +2,9 @@
  "characterID": 494812,
  "characterClassID": 1,
  "raceID": 1,
- "position": 219,
- "rankingPositionChange": 0,
- "gloryPoint": 34531,
+ "position": 221,
+ "rankingPositionChange": -2,
+ "gloryPoint": 34482,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kartofel",
@@ -280,6 +280,14 @@
    "position": 219,
    "rankingPositionChange": 0,
    "gloryPoint": 34531,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 221,
+   "rankingPositionChange": -2,
+   "gloryPoint": 34482,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

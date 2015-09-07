@@ -2,11 +2,11 @@
  "characterID": 409485,
  "characterClassID": 14,
  "raceID": 1,
- "position": 498,
- "rankingPositionChange": 3,
- "gloryPoint": 28079,
- "gloryPointChange": 286,
- "soldierRankID": 12,
+ "position": 504,
+ "rankingPositionChange": -6,
+ "gloryPoint": 28051,
+ "gloryPointChange": -28,
+ "soldierRankID": 11,
  "characterName": "Rives",
  "guildName": "Suicide",
  "guildID": 5889,
@@ -282,6 +282,14 @@
    "gloryPoint": 28079,
    "gloryPointChange": 286,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 504,
+   "rankingPositionChange": -6,
+   "gloryPoint": 28051,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [

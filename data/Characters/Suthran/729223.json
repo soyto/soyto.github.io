@@ -2,9 +2,9 @@
  "characterID": 729223,
  "characterClassID": 10,
  "raceID": 0,
- "position": 713,
- "rankingPositionChange": -2,
- "gloryPoint": 20222,
+ "position": 712,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20215,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Neigya",
@@ -280,6 +280,14 @@
    "position": 713,
    "rankingPositionChange": -2,
    "gloryPoint": 20222,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 712,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20215,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,14 +2,14 @@
  "characterID": 293205,
  "characterClassID": 7,
  "raceID": 0,
- "position": 575,
- "rankingPositionChange": 1,
- "gloryPoint": 20521,
- "gloryPointChange": 33,
+ "position": 573,
+ "rankingPositionChange": 2,
+ "gloryPoint": 20507,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Vassar",
- "guildName": "I Kill You Baddie",
- "guildID": 11280,
+ "guildName": " G A M E R S",
+ "guildID": 7487,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 20521,
    "gloryPointChange": 33,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 573,
+   "rankingPositionChange": 2,
+   "gloryPoint": 20507,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "I Kill You Baddie",
    "guildID": 11280
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": " G A M E R S",
+   "guildID": 7487
   }
  ]
 }

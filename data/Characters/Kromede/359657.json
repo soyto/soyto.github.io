@@ -2,9 +2,9 @@
  "characterID": 359657,
  "characterClassID": 4,
  "raceID": 0,
- "position": 940,
- "rankingPositionChange": -1,
- "gloryPoint": 9318,
+ "position": 939,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9339,
  "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Darkassasine",
@@ -280,6 +280,14 @@
    "position": 940,
    "rankingPositionChange": -1,
    "gloryPoint": 9318,
+   "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 939,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9339,
    "gloryPointChange": 21,
    "soldierRankID": 10
   }

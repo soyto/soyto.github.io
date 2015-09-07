@@ -2,10 +2,10 @@
  "characterID": 723721,
  "characterClassID": 11,
  "raceID": 1,
- "position": 611,
- "rankingPositionChange": 9,
- "gloryPoint": 1400,
- "gloryPointChange": 43,
+ "position": 614,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1386,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Corpulus",
  "guildName": "Dea Dia",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 1400,
    "gloryPointChange": 43,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 614,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1386,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

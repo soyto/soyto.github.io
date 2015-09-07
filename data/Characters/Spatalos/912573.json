@@ -2,9 +2,9 @@
  "characterID": 912573,
  "characterClassID": 1,
  "raceID": 0,
- "position": 772,
- "rankingPositionChange": 4,
- "gloryPoint": 11292,
+ "position": 774,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11285,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Spatalor",
@@ -280,6 +280,14 @@
    "position": 772,
    "rankingPositionChange": 4,
    "gloryPoint": 11292,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 774,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11285,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

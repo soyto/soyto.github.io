@@ -2,10 +2,10 @@
  "characterID": 58753,
  "characterClassID": 1,
  "raceID": 0,
- "position": 613,
- "rankingPositionChange": 1,
- "gloryPoint": 21348,
- "gloryPointChange": 33,
+ "position": 615,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21357,
+ "gloryPointChange": 9,
  "soldierRankID": 11,
  "characterName": "Crazyhorse",
  "guildName": "Eclypse",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 21348,
    "gloryPointChange": 33,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 615,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21357,
+   "gloryPointChange": 9,
    "soldierRankID": 11
   }
  ],

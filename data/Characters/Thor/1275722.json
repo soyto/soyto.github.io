@@ -2,9 +2,9 @@
  "characterID": 1275722,
  "characterClassID": 11,
  "raceID": 0,
- "position": 907,
- "rankingPositionChange": 1,
- "gloryPoint": 16267,
+ "position": 915,
+ "rankingPositionChange": -8,
+ "gloryPoint": 16260,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Carebear",
@@ -280,6 +280,14 @@
    "position": 907,
    "rankingPositionChange": 1,
    "gloryPoint": 16267,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 915,
+   "rankingPositionChange": -8,
+   "gloryPoint": 16260,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

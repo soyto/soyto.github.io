@@ -2,9 +2,9 @@
  "characterID": 15708,
  "characterClassID": 10,
  "raceID": 1,
- "position": 576,
- "rankingPositionChange": 2,
- "gloryPoint": 1447,
+ "position": 583,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1433,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Naraka",
@@ -112,6 +112,14 @@
    "position": 576,
    "rankingPositionChange": 2,
    "gloryPoint": 1447,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 583,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1433,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

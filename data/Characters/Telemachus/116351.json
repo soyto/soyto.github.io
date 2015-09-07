@@ -2,10 +2,10 @@
  "characterID": 116351,
  "characterClassID": 2,
  "raceID": 0,
- "position": 459,
- "rankingPositionChange": 3,
- "gloryPoint": 26949,
- "gloryPointChange": 150,
+ "position": 460,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26921,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Rexroth",
  "guildName": "GANG",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 26949,
    "gloryPointChange": 150,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 460,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26921,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

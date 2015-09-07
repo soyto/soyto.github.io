@@ -2,10 +2,10 @@
  "characterID": 1124224,
  "characterClassID": 7,
  "raceID": 0,
- "position": 255,
- "rankingPositionChange": 1,
- "gloryPoint": 65237,
- "gloryPointChange": 185,
+ "position": 256,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65364,
+ "gloryPointChange": 127,
  "soldierRankID": 13,
  "characterName": "Karrn",
  "guildName": "Tears Of Shadows",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 65237,
    "gloryPointChange": 185,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 256,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65364,
+   "gloryPointChange": 127,
    "soldierRankID": 13
   }
  ],

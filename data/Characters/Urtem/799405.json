@@ -2,10 +2,10 @@
  "characterID": 799405,
  "characterClassID": 2,
  "raceID": 1,
- "position": 404,
- "rankingPositionChange": -1,
- "gloryPoint": 24716,
- "gloryPointChange": -28,
+ "position": 403,
+ "rankingPositionChange": 1,
+ "gloryPoint": 24742,
+ "gloryPointChange": 26,
  "soldierRankID": 12,
  "characterName": "Fraze",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 24716,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 403,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24742,
+   "gloryPointChange": 26,
    "soldierRankID": 12
   }
  ],

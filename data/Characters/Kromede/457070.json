@@ -2,10 +2,10 @@
  "characterID": 457070,
  "characterClassID": 1,
  "raceID": 1,
- "position": 644,
- "rankingPositionChange": 6,
- "gloryPoint": 6735,
- "gloryPointChange": 155,
+ "position": 646,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6730,
+ "gloryPointChange": -5,
  "soldierRankID": 11,
  "characterName": "Animusaquila",
  "guildName": "WhiteReapers",
@@ -153,6 +153,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 6735,
    "gloryPointChange": 155,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 646,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6730,
+   "gloryPointChange": -5,
    "soldierRankID": 11
   }
  ],

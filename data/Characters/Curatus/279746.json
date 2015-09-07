@@ -2,10 +2,10 @@
  "characterID": 279746,
  "characterClassID": 1,
  "raceID": 1,
- "position": 248,
- "rankingPositionChange": 0,
- "gloryPoint": 32059,
- "gloryPointChange": 310,
+ "position": 249,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32034,
+ "gloryPointChange": -25,
  "soldierRankID": 13,
  "characterName": "Shoopdahoop",
  "guildName": "Prepotenti",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 32059,
    "gloryPointChange": 310,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 249,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32034,
+   "gloryPointChange": -25,
    "soldierRankID": 13
   }
  ],

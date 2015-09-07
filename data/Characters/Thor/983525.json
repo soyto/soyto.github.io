@@ -2,14 +2,12 @@
  "characterID": 983525,
  "characterClassID": 10,
  "raceID": 0,
- "position": 927,
- "rankingPositionChange": -5,
- "gloryPoint": 14624,
- "gloryPointChange": -7,
+ "position": 968,
+ "rankingPositionChange": -41,
+ "gloryPoint": 14393,
+ "gloryPointChange": -231,
  "soldierRankID": 10,
  "characterName": "Nomana",
- "guildName": "Sneaky",
- "guildID": 9379,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -34,6 +32,14 @@
    "gloryPoint": 14624,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 968,
+   "rankingPositionChange": -41,
+   "gloryPoint": 14393,
+   "gloryPointChange": -231,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -47,6 +53,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Sneaky",
    "guildID": 9379
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

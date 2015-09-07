@@ -2,10 +2,10 @@
  "characterID": 702508,
  "characterClassID": 7,
  "raceID": 1,
- "position": 68,
- "rankingPositionChange": 0,
- "gloryPoint": 89031,
- "gloryPointChange": 3,
+ "position": 70,
+ "rankingPositionChange": -2,
+ "gloryPoint": 88964,
+ "gloryPointChange": -67,
  "soldierRankID": 14,
  "characterName": "Tabano",
  "guildName": "LosJoteros",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 89031,
    "gloryPointChange": 3,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 70,
+   "rankingPositionChange": -2,
+   "gloryPoint": 88964,
+   "gloryPointChange": -67,
    "soldierRankID": 14
   }
  ],

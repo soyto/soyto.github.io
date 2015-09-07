@@ -2,10 +2,10 @@
  "characterID": 465754,
  "characterClassID": 7,
  "raceID": 1,
- "position": 155,
- "rankingPositionChange": 1,
- "gloryPoint": 29595,
- "gloryPointChange": -21,
+ "position": 156,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29684,
+ "gloryPointChange": 89,
  "soldierRankID": 13,
  "characterName": "Alagesia",
  "guildName": "Sanatorium",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 29595,
    "gloryPointChange": -21,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 156,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29684,
+   "gloryPointChange": 89,
    "soldierRankID": 13
   }
  ],

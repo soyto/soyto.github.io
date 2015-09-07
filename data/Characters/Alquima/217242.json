@@ -2,10 +2,10 @@
  "characterID": 217242,
  "characterClassID": 8,
  "raceID": 0,
- "position": 281,
- "rankingPositionChange": 2,
- "gloryPoint": 43686,
- "gloryPointChange": 11,
+ "position": 282,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43801,
+ "gloryPointChange": 115,
  "soldierRankID": 13,
  "characterName": "Rsf",
  "guildName": "OUTLAWS",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 43686,
    "gloryPointChange": 11,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 282,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43801,
+   "gloryPointChange": 115,
    "soldierRankID": 13
   }
  ],

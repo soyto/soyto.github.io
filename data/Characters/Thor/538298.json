@@ -2,9 +2,9 @@
  "characterID": 538298,
  "characterClassID": 7,
  "raceID": 0,
- "position": 533,
- "rankingPositionChange": 1,
- "gloryPoint": 33683,
+ "position": 538,
+ "rankingPositionChange": -5,
+ "gloryPoint": 33772,
  "gloryPointChange": 89,
  "soldierRankID": 11,
  "characterName": "Faradea",
@@ -264,6 +264,14 @@
    "position": 533,
    "rankingPositionChange": 1,
    "gloryPoint": 33683,
+   "gloryPointChange": 89,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": -5,
+   "gloryPoint": 33772,
    "gloryPointChange": 89,
    "soldierRankID": 11
   }

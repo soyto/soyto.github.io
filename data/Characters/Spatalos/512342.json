@@ -2,9 +2,9 @@
  "characterID": 512342,
  "characterClassID": 10,
  "raceID": 1,
- "position": 104,
- "rankingPositionChange": 0,
- "gloryPoint": 69419,
+ "position": 106,
+ "rankingPositionChange": -2,
+ "gloryPoint": 69370,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Repair",
@@ -280,6 +280,14 @@
    "position": 104,
    "rankingPositionChange": 0,
    "gloryPoint": 69419,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 106,
+   "rankingPositionChange": -2,
+   "gloryPoint": 69370,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

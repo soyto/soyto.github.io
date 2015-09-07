@@ -2,9 +2,9 @@
  "characterID": 1250030,
  "characterClassID": 16,
  "raceID": 0,
- "position": 596,
- "rankingPositionChange": 1,
- "gloryPoint": 30087,
+ "position": 601,
+ "rankingPositionChange": -5,
+ "gloryPoint": 30073,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Passionshock",
@@ -264,6 +264,14 @@
    "position": 596,
    "rankingPositionChange": 1,
    "gloryPoint": 30087,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 601,
+   "rankingPositionChange": -5,
+   "gloryPoint": 30073,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

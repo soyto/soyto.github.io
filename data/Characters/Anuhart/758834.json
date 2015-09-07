@@ -2,9 +2,9 @@
  "characterID": 758834,
  "characterClassID": 2,
  "raceID": 0,
- "position": 374,
- "rankingPositionChange": 0,
- "gloryPoint": 23803,
+ "position": 375,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23775,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Velites",
@@ -208,6 +208,14 @@
    "position": 374,
    "rankingPositionChange": 0,
    "gloryPoint": 23803,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 375,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23775,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

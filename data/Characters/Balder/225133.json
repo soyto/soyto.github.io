@@ -2,10 +2,10 @@
  "characterID": 225133,
  "characterClassID": 7,
  "raceID": 0,
- "position": 209,
- "rankingPositionChange": 1,
- "gloryPoint": 37976,
- "gloryPointChange": 351,
+ "position": 210,
+ "rankingPositionChange": -1,
+ "gloryPoint": 37927,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Cateys",
  "guildName": "Die Freimaurer",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 37976,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 210,
+   "rankingPositionChange": -1,
+   "gloryPoint": 37927,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

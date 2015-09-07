@@ -2,9 +2,9 @@
  "characterID": 848943,
  "characterClassID": 14,
  "raceID": 0,
- "position": 660,
- "rankingPositionChange": 2,
- "gloryPoint": 9355,
+ "position": 665,
+ "rankingPositionChange": -5,
+ "gloryPoint": 9341,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Balthisar",
@@ -136,6 +136,14 @@
    "position": 660,
    "rankingPositionChange": 2,
    "gloryPoint": 9355,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9341,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

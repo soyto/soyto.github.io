@@ -2,10 +2,10 @@
  "characterID": 1055432,
  "characterClassID": 16,
  "raceID": 1,
- "position": 330,
- "rankingPositionChange": 4,
- "gloryPoint": 29213,
- "gloryPointChange": 337,
+ "position": 331,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29610,
+ "gloryPointChange": 397,
  "soldierRankID": 12,
  "characterName": "Aphrodhisia",
  "guildName": "Night Shade",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 29213,
    "gloryPointChange": 337,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 331,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29610,
+   "gloryPointChange": 397,
    "soldierRankID": 12
   }
  ],

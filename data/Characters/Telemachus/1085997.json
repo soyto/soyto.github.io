@@ -2,9 +2,9 @@
  "characterID": 1085997,
  "characterClassID": 13,
  "raceID": 0,
- "position": 500,
- "rankingPositionChange": 0,
- "gloryPoint": 24219,
+ "position": 499,
+ "rankingPositionChange": 1,
+ "gloryPoint": 24191,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ryusora",
@@ -280,6 +280,14 @@
    "position": 500,
    "rankingPositionChange": 0,
    "gloryPoint": 24219,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 499,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24191,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

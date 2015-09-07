@@ -2,10 +2,10 @@
  "characterID": 1030268,
  "characterClassID": 5,
  "raceID": 1,
- "position": 785,
- "rankingPositionChange": 16,
- "gloryPoint": 4541,
- "gloryPointChange": 173,
+ "position": 790,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4534,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Faliya",
  "guildName": "Loyalty",
@@ -49,6 +49,14 @@
    "rankingPositionChange": 16,
    "gloryPoint": 4541,
    "gloryPointChange": 173,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 790,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4534,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

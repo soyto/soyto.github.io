@@ -2,9 +2,9 @@
  "characterID": 1089619,
  "characterClassID": 16,
  "raceID": 1,
- "position": 145,
- "rankingPositionChange": 0,
- "gloryPoint": 77927,
+ "position": 147,
+ "rankingPositionChange": -2,
+ "gloryPoint": 77878,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Neikoti",
@@ -278,6 +278,14 @@
    "position": 145,
    "rankingPositionChange": 0,
    "gloryPoint": 77927,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": -2,
+   "gloryPoint": 77878,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

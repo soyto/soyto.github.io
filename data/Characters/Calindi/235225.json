@@ -2,10 +2,10 @@
  "characterID": 235225,
  "characterClassID": 1,
  "raceID": 1,
- "position": 101,
- "rankingPositionChange": 0,
- "gloryPoint": 16317,
- "gloryPointChange": -36,
+ "position": 102,
+ "rankingPositionChange": -1,
+ "gloryPoint": 16268,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Horrio",
  "guildName": "INSURRECTION",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 16317,
    "gloryPointChange": -36,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 102,
+   "rankingPositionChange": -1,
+   "gloryPoint": 16268,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

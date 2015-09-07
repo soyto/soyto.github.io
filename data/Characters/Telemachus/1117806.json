@@ -2,9 +2,9 @@
  "characterID": 1117806,
  "characterClassID": 14,
  "raceID": 1,
- "position": 121,
- "rankingPositionChange": -2,
- "gloryPoint": 54859,
+ "position": 120,
+ "rankingPositionChange": 1,
+ "gloryPoint": 54810,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hellvetica",
@@ -280,6 +280,14 @@
    "position": 121,
    "rankingPositionChange": -2,
    "gloryPoint": 54859,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 120,
+   "rankingPositionChange": 1,
+   "gloryPoint": 54810,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

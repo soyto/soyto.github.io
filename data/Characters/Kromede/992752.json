@@ -3,13 +3,13 @@
  "characterClassID": 16,
  "raceID": 0,
  "position": 774,
- "rankingPositionChange": -1,
- "gloryPoint": 13734,
+ "rankingPositionChange": 0,
+ "gloryPoint": 13727,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kiskato",
- "guildName": "Endstation",
- "guildID": 20284,
+ "guildName": "Corpus Delicti",
+ "guildID": 27738,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 13734,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 774,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13727,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Endstation",
    "guildID": 20284
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Corpus Delicti",
+   "guildID": 27738
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 1138909,
  "characterClassID": 5,
  "raceID": 0,
- "position": 429,
- "rankingPositionChange": 0,
- "gloryPoint": 28590,
+ "position": 430,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28562,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Laxxi",
@@ -280,6 +280,14 @@
    "position": 429,
    "rankingPositionChange": 0,
    "gloryPoint": 28590,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 430,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28562,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

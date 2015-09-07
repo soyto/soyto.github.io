@@ -2,9 +2,9 @@
  "characterID": 771004,
  "characterClassID": 11,
  "raceID": 0,
- "position": 931,
- "rankingPositionChange": 0,
- "gloryPoint": 14725,
+ "position": 944,
+ "rankingPositionChange": -13,
+ "gloryPoint": 14718,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hyunaah",
@@ -280,6 +280,14 @@
    "position": 931,
    "rankingPositionChange": 0,
    "gloryPoint": 14725,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 944,
+   "rankingPositionChange": -13,
+   "gloryPoint": 14718,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

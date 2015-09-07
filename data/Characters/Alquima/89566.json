@@ -2,10 +2,10 @@
  "characterID": 89566,
  "characterClassID": 16,
  "raceID": 1,
- "position": 867,
- "rankingPositionChange": 0,
- "gloryPoint": 7282,
- "gloryPointChange": 81,
+ "position": 868,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7275,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Arpas",
  "guildName": "Queen Cherry",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7282,
    "gloryPointChange": 81,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 868,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7275,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 530302,
  "characterClassID": 10,
  "raceID": 1,
- "position": 591,
- "rankingPositionChange": 2,
- "gloryPoint": 5864,
+ "position": 592,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5850,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ripsev",
@@ -280,6 +280,14 @@
    "position": 591,
    "rankingPositionChange": 2,
    "gloryPoint": 5864,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 592,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5850,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

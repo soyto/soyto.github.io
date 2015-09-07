@@ -2,10 +2,10 @@
  "characterID": 478919,
  "characterClassID": 10,
  "raceID": 1,
- "position": 89,
- "rankingPositionChange": 2,
- "gloryPoint": 109573,
- "gloryPointChange": 859,
+ "position": 91,
+ "rankingPositionChange": -2,
+ "gloryPoint": 110122,
+ "gloryPointChange": 549,
  "soldierRankID": 14,
  "characterName": "Cylva",
  "guildName": "Coeur noir",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 109573,
    "gloryPointChange": 859,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 91,
+   "rankingPositionChange": -2,
+   "gloryPoint": 110122,
+   "gloryPointChange": 549,
    "soldierRankID": 14
   }
  ],

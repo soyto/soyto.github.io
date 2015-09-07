@@ -2,10 +2,10 @@
  "characterID": 191393,
  "characterClassID": 14,
  "raceID": 0,
- "position": 305,
- "rankingPositionChange": 0,
- "gloryPoint": 53808,
- "gloryPointChange": 452,
+ "position": 307,
+ "rankingPositionChange": -2,
+ "gloryPoint": 53780,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Dakotas",
  "guildName": "Ascension",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 53808,
    "gloryPointChange": 452,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": -2,
+   "gloryPoint": 53780,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 935442,
  "characterClassID": 10,
  "raceID": 0,
- "position": 820,
- "rankingPositionChange": -1,
- "gloryPoint": 2499,
- "gloryPointChange": -7,
+ "position": 815,
+ "rankingPositionChange": 5,
+ "gloryPoint": 2541,
+ "gloryPointChange": 42,
  "soldierRankID": 10,
  "characterName": "Shuha",
  "guildName": "AmBuLanCe",
@@ -169,6 +169,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 2499,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 815,
+   "rankingPositionChange": 5,
+   "gloryPoint": 2541,
+   "gloryPointChange": 42,
    "soldierRankID": 10
   }
  ],

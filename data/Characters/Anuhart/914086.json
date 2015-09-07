@@ -2,10 +2,10 @@
  "characterID": 914086,
  "characterClassID": 4,
  "raceID": 0,
- "position": 298,
- "rankingPositionChange": 1,
- "gloryPoint": 33390,
- "gloryPointChange": -49,
+ "position": 299,
+ "rankingPositionChange": -1,
+ "gloryPoint": 33399,
+ "gloryPointChange": 9,
  "soldierRankID": 13,
  "characterName": "Uzbagoisya",
  "guildName": "ARMAGEDDON",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 33390,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": -1,
+   "gloryPoint": 33399,
+   "gloryPointChange": 9,
    "soldierRankID": 13
   }
  ],

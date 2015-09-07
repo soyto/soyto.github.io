@@ -2,10 +2,10 @@
  "characterID": 697095,
  "characterClassID": 7,
  "raceID": 0,
- "position": 717,
- "rankingPositionChange": 1,
- "gloryPoint": 13086,
- "gloryPointChange": 3,
+ "position": 718,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13079,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jaizinda",
  "guildName": "Pendulum",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13086,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 718,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13079,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

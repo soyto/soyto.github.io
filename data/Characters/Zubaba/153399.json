@@ -2,10 +2,10 @@
  "characterID": 153399,
  "characterClassID": 1,
  "raceID": 0,
- "position": 264,
- "rankingPositionChange": 0,
- "gloryPoint": 40728,
- "gloryPointChange": 169,
+ "position": 265,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40679,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Statocny",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 40728,
    "gloryPointChange": 169,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 265,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40679,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

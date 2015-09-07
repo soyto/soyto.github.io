@@ -2,9 +2,9 @@
  "characterID": 1161831,
  "characterClassID": 7,
  "raceID": 0,
- "position": 922,
- "rankingPositionChange": 1,
- "gloryPoint": 4878,
+ "position": 926,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4871,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lovelless",
@@ -280,6 +280,14 @@
    "position": 922,
    "rankingPositionChange": 1,
    "gloryPoint": 4878,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4871,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

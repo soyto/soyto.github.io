@@ -2,9 +2,9 @@
  "characterID": 500365,
  "characterClassID": 16,
  "raceID": 0,
- "position": 280,
- "rankingPositionChange": 0,
- "gloryPoint": 12523,
+ "position": 279,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12474,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Schrei",
@@ -278,6 +278,14 @@
    "position": 280,
    "rankingPositionChange": 0,
    "gloryPoint": 12523,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 279,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12474,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

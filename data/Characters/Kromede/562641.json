@@ -2,10 +2,10 @@
  "characterID": 562641,
  "characterClassID": 10,
  "raceID": 0,
- "position": 136,
- "rankingPositionChange": 0,
- "gloryPoint": 92452,
- "gloryPointChange": 557,
+ "position": 137,
+ "rankingPositionChange": -1,
+ "gloryPoint": 92553,
+ "gloryPointChange": 101,
  "soldierRankID": 13,
  "characterName": "Thyris",
  "guildName": "BLOOD RELATION",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 92452,
    "gloryPointChange": 557,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 137,
+   "rankingPositionChange": -1,
+   "gloryPoint": 92553,
+   "gloryPointChange": 101,
    "soldierRankID": 13
   }
  ],

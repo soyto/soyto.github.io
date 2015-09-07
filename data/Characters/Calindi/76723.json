@@ -2,9 +2,9 @@
  "characterID": 76723,
  "characterClassID": 8,
  "raceID": 0,
- "position": 908,
- "rankingPositionChange": 2,
- "gloryPoint": 1303,
+ "position": 916,
+ "rankingPositionChange": -8,
+ "gloryPoint": 1296,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eliyah",
@@ -280,6 +280,14 @@
    "position": 908,
    "rankingPositionChange": 2,
    "gloryPoint": 1303,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1296,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

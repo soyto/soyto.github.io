@@ -2,9 +2,9 @@
  "characterID": 184670,
  "characterClassID": 4,
  "raceID": 1,
- "position": 530,
- "rankingPositionChange": 0,
- "gloryPoint": 11329,
+ "position": 536,
+ "rankingPositionChange": -6,
+ "gloryPoint": 11315,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zoroita",
@@ -280,6 +280,14 @@
    "position": 530,
    "rankingPositionChange": 0,
    "gloryPoint": 11329,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 536,
+   "rankingPositionChange": -6,
+   "gloryPoint": 11315,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

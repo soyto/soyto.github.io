@@ -2,12 +2,14 @@
  "characterID": 329688,
  "characterClassID": 16,
  "raceID": 0,
- "position": 792,
- "rankingPositionChange": 1,
- "gloryPoint": 14434,
- "gloryPointChange": -7,
+ "position": 788,
+ "rankingPositionChange": 4,
+ "gloryPoint": 14430,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Femina",
+ "guildName": "Septima Division",
+ "guildID": 12415,
  "status": [
   {
    "date": "2015-09-03T22:00:00.000Z",
@@ -24,6 +26,14 @@
    "gloryPoint": 14434,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 788,
+   "rankingPositionChange": 4,
+   "gloryPoint": 14430,
+   "gloryPointChange": -4,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -35,6 +45,11 @@
  "guilds": [
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Septima Division",
+   "guildID": 12415
   }
  ]
 }

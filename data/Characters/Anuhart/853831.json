@@ -2,10 +2,10 @@
  "characterID": 853831,
  "characterClassID": 16,
  "raceID": 0,
- "position": 144,
- "rankingPositionChange": 1,
- "gloryPoint": 63561,
- "gloryPointChange": 60,
+ "position": 145,
+ "rankingPositionChange": -1,
+ "gloryPoint": 63825,
+ "gloryPointChange": 264,
  "soldierRankID": 13,
  "characterName": "Chaiki",
  "guildName": "Too cute to kill",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 63561,
    "gloryPointChange": 60,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": -1,
+   "gloryPoint": 63825,
+   "gloryPointChange": 264,
    "soldierRankID": 13
   }
  ],

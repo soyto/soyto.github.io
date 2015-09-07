@@ -2,9 +2,9 @@
  "characterID": 397124,
  "characterClassID": 10,
  "raceID": 0,
- "position": 975,
- "rankingPositionChange": 4,
- "gloryPoint": 1706,
+ "position": 989,
+ "rankingPositionChange": -14,
+ "gloryPoint": 1692,
  "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Terminatrix",
@@ -152,6 +152,14 @@
    "position": 975,
    "rankingPositionChange": 4,
    "gloryPoint": 1706,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": -14,
+   "gloryPoint": 1692,
    "gloryPointChange": -14,
    "soldierRankID": 10
   }

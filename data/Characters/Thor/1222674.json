@@ -2,10 +2,10 @@
  "characterID": 1222674,
  "characterClassID": 16,
  "raceID": 0,
- "position": 797,
- "rankingPositionChange": 4,
- "gloryPoint": 20729,
- "gloryPointChange": 27,
+ "position": 803,
+ "rankingPositionChange": -6,
+ "gloryPoint": 20818,
+ "gloryPointChange": 89,
  "soldierRankID": 10,
  "characterName": "Eccawen",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 20729,
    "gloryPointChange": 27,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 803,
+   "rankingPositionChange": -6,
+   "gloryPoint": 20818,
+   "gloryPointChange": 89,
    "soldierRankID": 10
   }
  ],

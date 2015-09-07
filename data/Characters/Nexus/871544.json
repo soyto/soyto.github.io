@@ -2,9 +2,9 @@
  "characterID": 871544,
  "characterClassID": 11,
  "raceID": 0,
- "position": 550,
- "rankingPositionChange": 0,
- "gloryPoint": 15017,
+ "position": 553,
+ "rankingPositionChange": -3,
+ "gloryPoint": 15003,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mininowa",
@@ -272,6 +272,14 @@
    "position": 550,
    "rankingPositionChange": 0,
    "gloryPoint": 15017,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 553,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15003,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

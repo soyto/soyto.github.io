@@ -2,9 +2,9 @@
  "characterID": 187066,
  "characterClassID": 10,
  "raceID": 0,
- "position": 732,
- "rankingPositionChange": 2,
- "gloryPoint": 7977,
+ "position": 734,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7970,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Myriani",
@@ -278,6 +278,14 @@
    "position": 732,
    "rankingPositionChange": 2,
    "gloryPoint": 7977,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 734,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7970,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

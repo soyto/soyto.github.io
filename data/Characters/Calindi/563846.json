@@ -2,9 +2,9 @@
  "characterID": 563846,
  "characterClassID": 13,
  "raceID": 0,
- "position": 208,
- "rankingPositionChange": 1,
- "gloryPoint": 34362,
+ "position": 210,
+ "rankingPositionChange": -2,
+ "gloryPoint": 34313,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Efraa",
@@ -280,6 +280,14 @@
    "position": 208,
    "rankingPositionChange": 1,
    "gloryPoint": 34362,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 210,
+   "rankingPositionChange": -2,
+   "gloryPoint": 34313,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

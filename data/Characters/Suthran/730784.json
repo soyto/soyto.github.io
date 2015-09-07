@@ -2,9 +2,9 @@
  "characterID": 730784,
  "characterClassID": 2,
  "raceID": 1,
- "position": 257,
- "rankingPositionChange": 2,
- "gloryPoint": 41787,
+ "position": 259,
+ "rankingPositionChange": -2,
+ "gloryPoint": 41738,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Charbud",
@@ -280,6 +280,14 @@
    "position": 257,
    "rankingPositionChange": 2,
    "gloryPoint": 41787,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 259,
+   "rankingPositionChange": -2,
+   "gloryPoint": 41738,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

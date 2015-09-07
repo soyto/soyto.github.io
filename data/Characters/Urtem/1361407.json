@@ -2,10 +2,10 @@
  "characterID": 1361407,
  "characterClassID": 13,
  "raceID": 1,
- "position": 614,
- "rankingPositionChange": 3,
- "gloryPoint": 13938,
- "gloryPointChange": 58,
+ "position": 617,
+ "rankingPositionChange": -3,
+ "gloryPoint": 13924,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mihilys",
  "guildName": "Inihilys",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 13938,
    "gloryPointChange": 58,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 617,
+   "rankingPositionChange": -3,
+   "gloryPoint": 13924,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

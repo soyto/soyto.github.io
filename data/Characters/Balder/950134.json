@@ -3,8 +3,8 @@
  "characterClassID": 8,
  "raceID": 1,
  "position": 357,
- "rankingPositionChange": -1,
- "gloryPoint": 6406,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6378,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Blacknois",
@@ -280,6 +280,14 @@
    "position": 357,
    "rankingPositionChange": -1,
    "gloryPoint": 6406,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 357,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6378,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

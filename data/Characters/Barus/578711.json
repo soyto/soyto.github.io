@@ -4,10 +4,12 @@
  "raceID": 1,
  "position": 82,
  "rankingPositionChange": 0,
- "gloryPoint": 125639,
- "gloryPointChange": -104,
+ "gloryPoint": 125992,
+ "gloryPointChange": 353,
  "soldierRankID": 14,
  "characterName": "Bladziucha",
+ "guildName": "END",
+ "guildID": 12870,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 125639,
    "gloryPointChange": -104,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 82,
+   "rankingPositionChange": 0,
+   "gloryPoint": 125992,
+   "gloryPointChange": 353,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "END",
+   "guildID": 12870
   }
  ]
 }

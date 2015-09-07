@@ -2,9 +2,9 @@
  "characterID": 286357,
  "characterClassID": 10,
  "raceID": 1,
- "position": 530,
- "rankingPositionChange": -2,
- "gloryPoint": 2981,
+ "position": 529,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2967,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Herzeleid",
@@ -224,6 +224,14 @@
    "position": 530,
    "rankingPositionChange": -2,
    "gloryPoint": 2981,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 529,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2967,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

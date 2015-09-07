@@ -2,9 +2,9 @@
  "characterID": 548954,
  "characterClassID": 1,
  "raceID": 1,
- "position": 737,
- "rankingPositionChange": 0,
- "gloryPoint": 3515,
+ "position": 738,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3508,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Derma",
@@ -280,6 +280,14 @@
    "position": 737,
    "rankingPositionChange": 0,
    "gloryPoint": 3515,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 738,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3508,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

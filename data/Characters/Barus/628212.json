@@ -2,9 +2,9 @@
  "characterID": 628212,
  "characterClassID": 7,
  "raceID": 1,
- "position": 441,
- "rankingPositionChange": 0,
- "gloryPoint": 31597,
+ "position": 445,
+ "rankingPositionChange": -4,
+ "gloryPoint": 31569,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Shaitanal",
@@ -280,6 +280,14 @@
    "position": 441,
    "rankingPositionChange": 0,
    "gloryPoint": 31597,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 445,
+   "rankingPositionChange": -4,
+   "gloryPoint": 31569,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

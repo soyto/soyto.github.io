@@ -2,9 +2,9 @@
  "characterID": 1408028,
  "characterClassID": 16,
  "raceID": 1,
- "position": 244,
- "rankingPositionChange": 0,
- "gloryPoint": 44379,
+ "position": 248,
+ "rankingPositionChange": -4,
+ "gloryPoint": 44330,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Yukih",
@@ -270,6 +270,14 @@
    "position": 244,
    "rankingPositionChange": 0,
    "gloryPoint": 44379,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 248,
+   "rankingPositionChange": -4,
+   "gloryPoint": 44330,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

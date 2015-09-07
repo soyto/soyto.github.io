@@ -2,10 +2,10 @@
  "characterID": 1241290,
  "characterClassID": 11,
  "raceID": 1,
- "position": 516,
- "rankingPositionChange": 10,
- "gloryPoint": 15252,
- "gloryPointChange": 496,
+ "position": 517,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15399,
+ "gloryPointChange": 147,
  "soldierRankID": 11,
  "characterName": "Healmysoul",
  "guildName": "Disorder",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 15252,
    "gloryPointChange": 496,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15399,
+   "gloryPointChange": 147,
    "soldierRankID": 11
   }
  ],

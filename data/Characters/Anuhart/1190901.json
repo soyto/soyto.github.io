@@ -2,9 +2,9 @@
  "characterID": 1190901,
  "characterClassID": 16,
  "raceID": 0,
- "position": 772,
- "rankingPositionChange": 2,
- "gloryPoint": 7106,
+ "position": 775,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7099,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Elpiida",
@@ -182,6 +182,14 @@
    "position": 772,
    "rankingPositionChange": 2,
    "gloryPoint": 7106,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 775,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7099,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1207679,
  "characterClassID": 1,
  "raceID": 1,
- "position": 141,
- "rankingPositionChange": 1,
- "gloryPoint": 62633,
+ "position": 142,
+ "rankingPositionChange": -1,
+ "gloryPoint": 62584,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Mysa",
@@ -280,6 +280,14 @@
    "position": 141,
    "rankingPositionChange": 1,
    "gloryPoint": 62633,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 142,
+   "rankingPositionChange": -1,
+   "gloryPoint": 62584,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

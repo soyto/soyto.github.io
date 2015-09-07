@@ -2,9 +2,9 @@
  "characterID": 34465,
  "characterClassID": 4,
  "raceID": 0,
- "position": 882,
- "rankingPositionChange": 1,
- "gloryPoint": 10866,
+ "position": 888,
+ "rankingPositionChange": -6,
+ "gloryPoint": 10859,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kiryba",
@@ -280,6 +280,14 @@
    "position": 882,
    "rankingPositionChange": 1,
    "gloryPoint": 10866,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 888,
+   "rankingPositionChange": -6,
+   "gloryPoint": 10859,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

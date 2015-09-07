@@ -2,9 +2,9 @@
  "characterID": 1014487,
  "characterClassID": 10,
  "raceID": 0,
- "position": 454,
- "rankingPositionChange": -1,
- "gloryPoint": 27580,
+ "position": 453,
+ "rankingPositionChange": 1,
+ "gloryPoint": 27552,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lightcat",
@@ -280,6 +280,14 @@
    "position": 454,
    "rankingPositionChange": -1,
    "gloryPoint": 27580,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 453,
+   "rankingPositionChange": 1,
+   "gloryPoint": 27552,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 312344,
  "characterClassID": 4,
  "raceID": 1,
- "position": 388,
- "rankingPositionChange": -2,
- "gloryPoint": 42629,
- "gloryPointChange": 350,
+ "position": 392,
+ "rankingPositionChange": -4,
+ "gloryPoint": 42601,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hipnotic",
  "guildName": "Who cares",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 42629,
    "gloryPointChange": 350,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 392,
+   "rankingPositionChange": -4,
+   "gloryPoint": 42601,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

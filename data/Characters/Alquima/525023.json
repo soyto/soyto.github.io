@@ -2,9 +2,9 @@
  "characterID": 525023,
  "characterClassID": 1,
  "raceID": 0,
- "position": 193,
- "rankingPositionChange": 2,
- "gloryPoint": 62972,
+ "position": 195,
+ "rankingPositionChange": -2,
+ "gloryPoint": 62923,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nocaut",
@@ -280,6 +280,14 @@
    "position": 193,
    "rankingPositionChange": 2,
    "gloryPoint": 62972,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 195,
+   "rankingPositionChange": -2,
+   "gloryPoint": 62923,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

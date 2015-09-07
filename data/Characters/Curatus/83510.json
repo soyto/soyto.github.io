@@ -2,9 +2,9 @@
  "characterID": 83510,
  "characterClassID": 8,
  "raceID": 0,
- "position": 560,
- "rankingPositionChange": 1,
- "gloryPoint": 24440,
+ "position": 561,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24426,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Icetorn",
@@ -280,6 +280,14 @@
    "position": 560,
    "rankingPositionChange": 1,
    "gloryPoint": 24440,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 561,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24426,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

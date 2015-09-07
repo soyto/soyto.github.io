@@ -2,9 +2,9 @@
  "characterID": 235189,
  "characterClassID": 10,
  "raceID": 0,
- "position": 868,
- "rankingPositionChange": 3,
- "gloryPoint": 1463,
+ "position": 874,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1456,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mordhorel",
@@ -280,6 +280,14 @@
    "position": 868,
    "rankingPositionChange": 3,
    "gloryPoint": 1463,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 874,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1456,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 548762,
  "characterClassID": 2,
  "raceID": 1,
- "position": 511,
- "rankingPositionChange": 0,
- "gloryPoint": 8067,
+ "position": 513,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8053,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ysane",
@@ -280,6 +280,14 @@
    "position": 511,
    "rankingPositionChange": 0,
    "gloryPoint": 8067,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 513,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8053,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 156434,
  "characterClassID": 2,
  "raceID": 1,
- "position": 286,
- "rankingPositionChange": 2,
- "gloryPoint": 9740,
- "gloryPointChange": 1,
+ "position": 287,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9691,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Miyoma",
  "guildName": "Hell was full so l came back",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 9740,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 287,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9691,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

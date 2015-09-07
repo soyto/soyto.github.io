@@ -2,14 +2,14 @@
  "characterID": 179527,
  "characterClassID": 7,
  "raceID": 1,
- "position": 287,
- "rankingPositionChange": 2,
- "gloryPoint": 9650,
- "gloryPointChange": -36,
+ "position": 289,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9601,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Asooka",
- "guildName": "LastWish",
- "guildID": 3575,
+ "guildName": "ValarMorghulis",
+ "guildID": 7347,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 9650,
    "gloryPointChange": -36,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 289,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9601,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "LastWish",
    "guildID": 3575
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "ValarMorghulis",
+   "guildID": 7347
   }
  ]
 }

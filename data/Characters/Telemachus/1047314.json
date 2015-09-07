@@ -2,9 +2,9 @@
  "characterID": 1047314,
  "characterClassID": 14,
  "raceID": 0,
- "position": 937,
- "rankingPositionChange": -2,
- "gloryPoint": 6216,
+ "position": 936,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6209,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pooc",
@@ -272,6 +272,14 @@
    "position": 937,
    "rankingPositionChange": -2,
    "gloryPoint": 6216,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 936,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6209,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

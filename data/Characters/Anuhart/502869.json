@@ -2,9 +2,9 @@
  "characterID": 502869,
  "characterClassID": 10,
  "raceID": 0,
- "position": 422,
- "rankingPositionChange": 2,
- "gloryPoint": 19359,
+ "position": 423,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19431,
  "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Ctervoza",
@@ -280,6 +280,14 @@
    "position": 422,
    "rankingPositionChange": 2,
    "gloryPoint": 19359,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 423,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19431,
    "gloryPointChange": 72,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 1416665,
  "characterClassID": 1,
  "raceID": 0,
- "position": 251,
- "rankingPositionChange": 0,
- "gloryPoint": 65691,
+ "position": 255,
+ "rankingPositionChange": -4,
+ "gloryPoint": 65642,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Katchoupette",
@@ -264,6 +264,14 @@
    "position": 251,
    "rankingPositionChange": 0,
    "gloryPoint": 65691,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -4,
+   "gloryPoint": 65642,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

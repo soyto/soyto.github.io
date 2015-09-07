@@ -2,9 +2,9 @@
  "characterID": 495419,
  "characterClassID": 7,
  "raceID": 0,
- "position": 836,
- "rankingPositionChange": 2,
- "gloryPoint": 1704,
+ "position": 842,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1697,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Akiata",
@@ -278,6 +278,14 @@
    "position": 836,
    "rankingPositionChange": 2,
    "gloryPoint": 1704,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 842,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1697,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

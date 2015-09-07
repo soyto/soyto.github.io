@@ -2,10 +2,10 @@
  "characterID": 816835,
  "characterClassID": 11,
  "raceID": 1,
- "position": 883,
- "rankingPositionChange": 5,
- "gloryPoint": 9935,
- "gloryPointChange": 243,
+ "position": 887,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9998,
+ "gloryPointChange": 63,
  "soldierRankID": 10,
  "characterName": "Shisho",
  "guildName": "Night Raid",
@@ -121,6 +121,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 9935,
    "gloryPointChange": 243,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 887,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9998,
+   "gloryPointChange": 63,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 439869,
  "characterClassID": 4,
  "raceID": 1,
- "position": 720,
- "rankingPositionChange": 1,
- "gloryPoint": 17217,
+ "position": 722,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17210,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zantsu",
@@ -278,6 +278,14 @@
    "position": 720,
    "rankingPositionChange": 1,
    "gloryPoint": 17217,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 722,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17210,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1225320,
  "characterClassID": 11,
  "raceID": 1,
- "position": 117,
- "rankingPositionChange": 0,
- "gloryPoint": 61829,
+ "position": 118,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61780,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Haikah",
@@ -280,6 +280,14 @@
    "position": 117,
    "rankingPositionChange": 0,
    "gloryPoint": 61829,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 118,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61780,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

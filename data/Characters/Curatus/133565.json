@@ -2,14 +2,14 @@
  "characterID": 133565,
  "characterClassID": 14,
  "raceID": 0,
- "position": 135,
+ "position": 136,
  "rankingPositionChange": -1,
- "gloryPoint": 103642,
- "gloryPointChange": -49,
+ "gloryPoint": 103693,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Roosh",
- "guildName": " S A W",
- "guildID": 4893,
+ "guildName": "R A G E",
+ "guildID": 5085,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 103642,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 136,
+   "rankingPositionChange": -1,
+   "gloryPoint": 103693,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -322,6 +330,11 @@
    "date": "2015-08-20T22:00:00.000Z",
    "guildName": "Shannara",
    "guildID": 4893
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "R A G E",
+   "guildID": 5085
   }
  ]
 }

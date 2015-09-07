@@ -2,9 +2,9 @@
  "characterID": 333330,
  "characterClassID": 8,
  "raceID": 0,
- "position": 315,
- "rankingPositionChange": -1,
- "gloryPoint": 9824,
+ "position": 314,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9796,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Riodamaru",
@@ -280,6 +280,14 @@
    "position": 315,
    "rankingPositionChange": -1,
    "gloryPoint": 9824,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 314,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9796,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

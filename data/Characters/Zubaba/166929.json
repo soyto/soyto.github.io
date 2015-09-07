@@ -2,9 +2,9 @@
  "characterID": 166929,
  "characterClassID": 8,
  "raceID": 1,
- "position": 457,
- "rankingPositionChange": -3,
- "gloryPoint": 10997,
+ "position": 456,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10969,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Meental",
@@ -280,6 +280,14 @@
    "position": 457,
    "rankingPositionChange": -3,
    "gloryPoint": 10997,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10969,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

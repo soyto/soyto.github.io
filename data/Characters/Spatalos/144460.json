@@ -2,9 +2,9 @@
  "characterID": 144460,
  "characterClassID": 1,
  "raceID": 0,
- "position": 295,
- "rankingPositionChange": 0,
- "gloryPoint": 52085,
+ "position": 296,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52036,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Loky",
@@ -280,6 +280,14 @@
    "position": 295,
    "rankingPositionChange": 0,
    "gloryPoint": 52085,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 296,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52036,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 1224683,
  "characterClassID": 14,
  "raceID": 0,
- "position": 406,
- "rankingPositionChange": 0,
- "gloryPoint": 44793,
+ "position": 410,
+ "rankingPositionChange": -4,
+ "gloryPoint": 44765,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Gengsteri",
@@ -280,6 +280,14 @@
    "position": 406,
    "rankingPositionChange": 0,
    "gloryPoint": 44793,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 410,
+   "rankingPositionChange": -4,
+   "gloryPoint": 44765,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

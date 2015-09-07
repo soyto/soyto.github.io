@@ -2,9 +2,9 @@
  "characterID": 491160,
  "characterClassID": 10,
  "raceID": 0,
- "position": 720,
- "rankingPositionChange": 3,
- "gloryPoint": 22255,
+ "position": 729,
+ "rankingPositionChange": -9,
+ "gloryPoint": 22248,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fie",
@@ -280,6 +280,14 @@
    "position": 720,
    "rankingPositionChange": 3,
    "gloryPoint": 22255,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 729,
+   "rankingPositionChange": -9,
+   "gloryPoint": 22248,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

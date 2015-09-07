@@ -2,9 +2,9 @@
  "characterID": 572935,
  "characterClassID": 5,
  "raceID": 1,
- "position": 170,
- "rankingPositionChange": 0,
- "gloryPoint": 66283,
+ "position": 172,
+ "rankingPositionChange": -2,
+ "gloryPoint": 66234,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Violent",
@@ -280,6 +280,14 @@
    "position": 170,
    "rankingPositionChange": 0,
    "gloryPoint": 66283,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 172,
+   "rankingPositionChange": -2,
+   "gloryPoint": 66234,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

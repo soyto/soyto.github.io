@@ -2,9 +2,9 @@
  "characterID": 580939,
  "characterClassID": 1,
  "raceID": 0,
- "position": 366,
- "rankingPositionChange": 0,
- "gloryPoint": 43488,
+ "position": 370,
+ "rankingPositionChange": -4,
+ "gloryPoint": 43460,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Taolynas",
@@ -280,6 +280,14 @@
    "position": 366,
    "rankingPositionChange": 0,
    "gloryPoint": 43488,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 370,
+   "rankingPositionChange": -4,
+   "gloryPoint": 43460,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

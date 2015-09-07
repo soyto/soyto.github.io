@@ -2,10 +2,10 @@
  "characterID": 918652,
  "characterClassID": 5,
  "raceID": 0,
- "position": 192,
- "rankingPositionChange": 0,
- "gloryPoint": 40991,
- "gloryPointChange": 281,
+ "position": 193,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40982,
+ "gloryPointChange": -9,
  "soldierRankID": 13,
  "characterName": "Ziiip",
  "guildName": "Virago",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 40991,
    "gloryPointChange": 281,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 193,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40982,
+   "gloryPointChange": -9,
    "soldierRankID": 13
   }
  ],

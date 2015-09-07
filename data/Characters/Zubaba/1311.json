@@ -2,10 +2,10 @@
  "characterID": 1311,
  "characterClassID": 11,
  "raceID": 1,
- "position": 22,
- "rankingPositionChange": 1,
- "gloryPoint": 225772,
- "gloryPointChange": 592,
+ "position": 23,
+ "rankingPositionChange": -1,
+ "gloryPoint": 225653,
+ "gloryPointChange": -119,
  "soldierRankID": 15,
  "characterName": "Old",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 225772,
    "gloryPointChange": 592,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 23,
+   "rankingPositionChange": -1,
+   "gloryPoint": 225653,
+   "gloryPointChange": -119,
    "soldierRankID": 15
   }
  ],

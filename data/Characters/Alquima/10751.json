@@ -2,9 +2,9 @@
  "characterID": 10751,
  "characterClassID": 2,
  "raceID": 0,
- "position": 172,
- "rankingPositionChange": 1,
- "gloryPoint": 68673,
+ "position": 173,
+ "rankingPositionChange": -1,
+ "gloryPoint": 68624,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Brahne",
@@ -280,6 +280,14 @@
    "position": 172,
    "rankingPositionChange": 1,
    "gloryPoint": 68673,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 173,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68624,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 849260,
  "characterClassID": 14,
  "raceID": 0,
- "position": 757,
- "rankingPositionChange": 1,
- "gloryPoint": 7461,
+ "position": 759,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7454,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Slavaukraini",
@@ -280,6 +280,14 @@
    "position": 757,
    "rankingPositionChange": 1,
    "gloryPoint": 7461,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 759,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7454,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

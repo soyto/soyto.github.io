@@ -2,10 +2,10 @@
  "characterID": 297627,
  "characterClassID": 10,
  "raceID": 0,
- "position": 522,
- "rankingPositionChange": 1,
- "gloryPoint": 27123,
- "gloryPointChange": 204,
+ "position": 524,
+ "rankingPositionChange": -2,
+ "gloryPoint": 27109,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Airox",
  "guildName": "Warmness",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 27123,
    "gloryPointChange": 204,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 524,
+   "rankingPositionChange": -2,
+   "gloryPoint": 27109,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

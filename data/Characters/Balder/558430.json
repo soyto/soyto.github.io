@@ -2,9 +2,9 @@
  "characterID": 558430,
  "characterClassID": 5,
  "raceID": 0,
- "position": 230,
- "rankingPositionChange": 0,
- "gloryPoint": 33577,
+ "position": 232,
+ "rankingPositionChange": -2,
+ "gloryPoint": 33528,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Aintking",
@@ -280,6 +280,14 @@
    "position": 230,
    "rankingPositionChange": 0,
    "gloryPoint": 33577,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 232,
+   "rankingPositionChange": -2,
+   "gloryPoint": 33528,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

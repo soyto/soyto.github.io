@@ -2,10 +2,10 @@
  "characterID": 536800,
  "characterClassID": 11,
  "raceID": 0,
- "position": 225,
- "rankingPositionChange": 1,
- "gloryPoint": 34407,
- "gloryPointChange": 18,
+ "position": 227,
+ "rankingPositionChange": -2,
+ "gloryPoint": 34358,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Daiquirii",
  "guildName": "Miverya",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 34407,
    "gloryPointChange": 18,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 227,
+   "rankingPositionChange": -2,
+   "gloryPoint": 34358,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

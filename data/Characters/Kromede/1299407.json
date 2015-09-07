@@ -2,9 +2,9 @@
  "characterID": 1299407,
  "characterClassID": 16,
  "raceID": 0,
- "position": 928,
- "rankingPositionChange": 0,
- "gloryPoint": 9571,
+ "position": 929,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9564,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lassliegen",
@@ -224,6 +224,14 @@
    "position": 928,
    "rankingPositionChange": 0,
    "gloryPoint": 9571,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 929,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9564,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

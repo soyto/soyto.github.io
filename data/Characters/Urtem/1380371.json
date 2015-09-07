@@ -2,9 +2,9 @@
  "characterID": 1380371,
  "characterClassID": 5,
  "raceID": 0,
- "position": 978,
- "rankingPositionChange": 2,
- "gloryPoint": 13524,
+ "position": 993,
+ "rankingPositionChange": -15,
+ "gloryPoint": 13517,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kugimiya",
@@ -278,6 +278,14 @@
    "position": 978,
    "rankingPositionChange": 2,
    "gloryPoint": 13524,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": -15,
+   "gloryPoint": 13517,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

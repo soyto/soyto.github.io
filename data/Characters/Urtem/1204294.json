@@ -2,10 +2,10 @@
  "characterID": 1204294,
  "characterClassID": 5,
  "raceID": 1,
- "position": 294,
- "rankingPositionChange": 0,
- "gloryPoint": 37550,
- "gloryPointChange": 62,
+ "position": 295,
+ "rankingPositionChange": -1,
+ "gloryPoint": 37501,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kernue",
  "guildName": "Elementis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 37550,
    "gloryPointChange": 62,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 295,
+   "rankingPositionChange": -1,
+   "gloryPoint": 37501,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

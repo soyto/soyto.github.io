@@ -2,9 +2,9 @@
  "characterID": 401820,
  "characterClassID": 5,
  "raceID": 1,
- "position": 498,
- "rankingPositionChange": 2,
- "gloryPoint": 1859,
+ "position": 504,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1845,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nucali",
@@ -272,6 +272,14 @@
    "position": 498,
    "rankingPositionChange": 2,
    "gloryPoint": 1859,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 504,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1845,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

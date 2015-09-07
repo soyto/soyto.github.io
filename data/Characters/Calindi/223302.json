@@ -2,9 +2,9 @@
  "characterID": 223302,
  "characterClassID": 5,
  "raceID": 0,
- "position": 394,
- "rankingPositionChange": 1,
- "gloryPoint": 11194,
+ "position": 399,
+ "rankingPositionChange": -5,
+ "gloryPoint": 11166,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Flaaaash",
@@ -280,6 +280,14 @@
    "position": 394,
    "rankingPositionChange": 1,
    "gloryPoint": 11194,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 399,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11166,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

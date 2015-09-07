@@ -2,10 +2,10 @@
  "characterID": 412695,
  "characterClassID": 16,
  "raceID": 1,
- "position": 224,
- "rankingPositionChange": 0,
- "gloryPoint": 73495,
- "gloryPointChange": 12,
+ "position": 226,
+ "rankingPositionChange": -2,
+ "gloryPoint": 73599,
+ "gloryPointChange": 104,
  "soldierRankID": 13,
  "characterName": "Jerii",
  "guildName": "Almost Skilled",
@@ -121,6 +121,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 73495,
    "gloryPointChange": 12,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 226,
+   "rankingPositionChange": -2,
+   "gloryPoint": 73599,
+   "gloryPointChange": 104,
    "soldierRankID": 13
   }
  ],

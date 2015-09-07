@@ -2,9 +2,9 @@
  "characterID": 551945,
  "characterClassID": 5,
  "raceID": 0,
- "position": 913,
- "rankingPositionChange": 4,
- "gloryPoint": 1896,
+ "position": 915,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1889,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Julija",
@@ -208,6 +208,14 @@
    "position": 913,
    "rankingPositionChange": 4,
    "gloryPoint": 1896,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 915,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1889,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

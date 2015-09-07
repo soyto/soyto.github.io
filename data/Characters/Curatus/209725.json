@@ -2,10 +2,10 @@
  "characterID": 209725,
  "characterClassID": 2,
  "raceID": 1,
- "position": 109,
- "rankingPositionChange": 0,
- "gloryPoint": 75328,
- "gloryPointChange": 413,
+ "position": 110,
+ "rankingPositionChange": -1,
+ "gloryPoint": 75379,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Harakiri",
  "guildName": "R I P",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 75328,
    "gloryPointChange": 413,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 110,
+   "rankingPositionChange": -1,
+   "gloryPoint": 75379,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

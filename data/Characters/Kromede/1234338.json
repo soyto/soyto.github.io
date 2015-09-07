@@ -2,14 +2,14 @@
  "characterID": 1234338,
  "characterClassID": 14,
  "raceID": 0,
- "position": 962,
- "rankingPositionChange": 6,
- "gloryPoint": 8741,
- "gloryPointChange": 52,
+ "position": 963,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8734,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tastii",
- "guildName": "The Wind is pushing meeeeeeeeeee",
- "guildID": 29251,
+ "guildName": "DeQuIroX",
+ "guildID": 35803,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -42,6 +42,14 @@
    "gloryPoint": 8741,
    "gloryPointChange": 52,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 963,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8734,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -58,6 +66,11 @@
    "date": "2015-09-02T22:00:00.000Z",
    "guildName": "The Wind is pushing meeeeeeeeeee",
    "guildID": 29251
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "DeQuIroX",
+   "guildID": 35803
   }
  ]
 }

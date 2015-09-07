@@ -2,9 +2,9 @@
  "characterID": 178867,
  "characterClassID": 1,
  "raceID": 0,
- "position": 528,
- "rankingPositionChange": 2,
- "gloryPoint": 17644,
+ "position": 530,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17630,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Anapiel",
@@ -280,6 +280,14 @@
    "position": 528,
    "rankingPositionChange": 2,
    "gloryPoint": 17644,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 530,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17630,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

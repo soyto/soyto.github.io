@@ -2,14 +2,12 @@
  "characterID": 185546,
  "characterClassID": 1,
  "raceID": 1,
- "position": 759,
- "rankingPositionChange": -2,
- "gloryPoint": 3097,
+ "position": 765,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3090,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Runlip",
- "guildName": "ANCHOR",
- "guildID": 6633,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 3097,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 765,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3090,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -298,6 +304,9 @@
    "date": "2015-08-12T22:00:00.000Z",
    "guildName": "ANCHOR",
    "guildID": 6633
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

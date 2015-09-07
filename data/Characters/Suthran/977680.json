@@ -2,9 +2,9 @@
  "characterID": 977680,
  "characterClassID": 5,
  "raceID": 1,
- "position": 301,
- "rankingPositionChange": 2,
- "gloryPoint": 34977,
+ "position": 302,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34949,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Petitinsect",
@@ -280,6 +280,14 @@
    "position": 301,
    "rankingPositionChange": 2,
    "gloryPoint": 34977,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 302,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34949,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,14 +2,14 @@
  "characterID": 1263480,
  "characterClassID": 10,
  "raceID": 1,
- "position": 690,
- "rankingPositionChange": -2,
- "gloryPoint": 5862,
- "gloryPointChange": 14,
+ "position": 684,
+ "rankingPositionChange": 6,
+ "gloryPoint": 5988,
+ "gloryPointChange": 126,
  "soldierRankID": 11,
  "characterName": "Angelbaby",
- "guildName": "Archangel",
- "guildID": 11192,
+ "guildName": "Cygneas Nightmare",
+ "guildID": 32135,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 5862,
    "gloryPointChange": 14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 684,
+   "rankingPositionChange": 6,
+   "gloryPoint": 5988,
+   "gloryPointChange": 126,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Archangel",
    "guildID": 11192
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Cygneas Nightmare",
+   "guildID": 32135
   }
  ]
 }

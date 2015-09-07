@@ -2,9 +2,9 @@
  "characterID": 1565408,
  "characterClassID": 11,
  "raceID": 0,
- "position": 887,
- "rankingPositionChange": 2,
- "gloryPoint": 16895,
+ "position": 897,
+ "rankingPositionChange": -10,
+ "gloryPoint": 16888,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kakaobunny",
@@ -238,6 +238,14 @@
    "position": 887,
    "rankingPositionChange": 2,
    "gloryPoint": 16895,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 897,
+   "rankingPositionChange": -10,
+   "gloryPoint": 16888,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

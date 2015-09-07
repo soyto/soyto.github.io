@@ -2,9 +2,9 @@
  "characterID": 860836,
  "characterClassID": 16,
  "raceID": 0,
- "position": 906,
- "rankingPositionChange": 5,
- "gloryPoint": 1930,
+ "position": 910,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1923,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nellynote",
@@ -238,6 +238,14 @@
    "position": 906,
    "rankingPositionChange": 5,
    "gloryPoint": 1930,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 910,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1923,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

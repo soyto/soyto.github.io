@@ -2,10 +2,10 @@
  "characterID": 1300820,
  "characterClassID": 16,
  "raceID": 1,
- "position": 997,
- "rankingPositionChange": 3,
- "gloryPoint": 1527,
- "gloryPointChange": 0,
+ "position": 999,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1520,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lifeartist",
  "guildName": "Eternal Army",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 1527,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1520,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

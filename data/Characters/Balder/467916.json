@@ -2,9 +2,9 @@
  "characterID": 467916,
  "characterClassID": 11,
  "raceID": 0,
- "position": 255,
- "rankingPositionChange": 1,
- "gloryPoint": 28247,
+ "position": 256,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28198,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kalya",
@@ -280,6 +280,14 @@
    "position": 255,
    "rankingPositionChange": 1,
    "gloryPoint": 28247,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 256,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28198,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

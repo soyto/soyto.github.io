@@ -2,9 +2,9 @@
  "characterID": 397080,
  "characterClassID": 16,
  "raceID": 0,
- "position": 102,
- "rankingPositionChange": -1,
- "gloryPoint": 91927,
+ "position": 101,
+ "rankingPositionChange": 1,
+ "gloryPoint": 91878,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Flaffy",
@@ -280,6 +280,14 @@
    "position": 102,
    "rankingPositionChange": -1,
    "gloryPoint": 91927,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 101,
+   "rankingPositionChange": 1,
+   "gloryPoint": 91878,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

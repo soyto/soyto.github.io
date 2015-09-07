@@ -2,9 +2,9 @@
  "characterID": 79864,
  "characterClassID": 8,
  "raceID": 1,
- "position": 803,
- "rankingPositionChange": -1,
- "gloryPoint": 7105,
+ "position": 813,
+ "rankingPositionChange": -10,
+ "gloryPoint": 7098,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yogsothoth",
@@ -280,6 +280,14 @@
    "position": 803,
    "rankingPositionChange": -1,
    "gloryPoint": 7105,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 813,
+   "rankingPositionChange": -10,
+   "gloryPoint": 7098,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1238505,
  "characterClassID": 14,
  "raceID": 0,
- "position": 440,
- "rankingPositionChange": 1,
- "gloryPoint": 28453,
+ "position": 443,
+ "rankingPositionChange": -3,
+ "gloryPoint": 28425,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Bareta",
@@ -208,6 +208,14 @@
    "position": 440,
    "rankingPositionChange": 1,
    "gloryPoint": 28453,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 443,
+   "rankingPositionChange": -3,
+   "gloryPoint": 28425,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

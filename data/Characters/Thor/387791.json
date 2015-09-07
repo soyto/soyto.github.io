@@ -2,10 +2,10 @@
  "characterID": 387791,
  "characterClassID": 7,
  "raceID": 0,
- "position": 793,
- "rankingPositionChange": 2,
- "gloryPoint": 20951,
- "gloryPointChange": 96,
+ "position": 800,
+ "rankingPositionChange": -7,
+ "gloryPoint": 20944,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cerei",
  "guildName": "We Love To Zerg You",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 20951,
    "gloryPointChange": 96,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": -7,
+   "gloryPoint": 20944,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

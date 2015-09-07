@@ -2,10 +2,10 @@
  "characterID": 245624,
  "characterClassID": 7,
  "raceID": 0,
- "position": 552,
- "rankingPositionChange": 0,
+ "position": 555,
+ "rankingPositionChange": -3,
  "gloryPoint": 20611,
- "gloryPointChange": -14,
+ "gloryPointChange": 0,
  "soldierRankID": 11,
  "characterName": "Anghelos",
  "guildName": "Paladini",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 20611,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 555,
+   "rankingPositionChange": -3,
+   "gloryPoint": 20611,
+   "gloryPointChange": 0,
    "soldierRankID": 11
   }
  ],

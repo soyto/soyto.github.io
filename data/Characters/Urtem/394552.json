@@ -2,9 +2,9 @@
  "characterID": 394552,
  "characterClassID": 1,
  "raceID": 0,
- "position": 827,
- "rankingPositionChange": 0,
- "gloryPoint": 17802,
+ "position": 839,
+ "rankingPositionChange": -12,
+ "gloryPoint": 17795,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ziiip",
@@ -280,6 +280,14 @@
    "position": 827,
    "rankingPositionChange": 0,
    "gloryPoint": 17802,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 839,
+   "rankingPositionChange": -12,
+   "gloryPoint": 17795,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

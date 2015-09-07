@@ -2,10 +2,10 @@
  "characterID": 482785,
  "characterClassID": 10,
  "raceID": 1,
- "position": 418,
- "rankingPositionChange": 2,
- "gloryPoint": 19473,
- "gloryPointChange": 72,
+ "position": 420,
+ "rankingPositionChange": -2,
+ "gloryPoint": 19445,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Morphynia",
  "guildName": "Just A Round Trip",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 19473,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 420,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19445,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

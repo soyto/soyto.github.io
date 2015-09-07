@@ -2,9 +2,9 @@
  "characterID": 1066544,
  "characterClassID": 14,
  "raceID": 0,
- "position": 714,
- "rankingPositionChange": -2,
- "gloryPoint": 20087,
+ "position": 713,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20080,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Scott",
@@ -232,6 +232,14 @@
    "position": 714,
    "rankingPositionChange": -2,
    "gloryPoint": 20087,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 713,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20080,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

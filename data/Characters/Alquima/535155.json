@@ -2,9 +2,9 @@
  "characterID": 535155,
  "characterClassID": 1,
  "raceID": 0,
- "position": 230,
- "rankingPositionChange": 0,
- "gloryPoint": 53075,
+ "position": 231,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53026,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Akkame",
@@ -280,6 +280,14 @@
    "position": 230,
    "rankingPositionChange": 0,
    "gloryPoint": 53075,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 231,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53026,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

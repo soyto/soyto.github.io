@@ -2,9 +2,9 @@
  "characterID": 776852,
  "characterClassID": 5,
  "raceID": 0,
- "position": 663,
- "rankingPositionChange": 2,
- "gloryPoint": 24635,
+ "position": 672,
+ "rankingPositionChange": -9,
+ "gloryPoint": 24621,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lekiel",
@@ -280,6 +280,14 @@
    "position": 663,
    "rankingPositionChange": 2,
    "gloryPoint": 24635,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 672,
+   "rankingPositionChange": -9,
+   "gloryPoint": 24621,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 1735947,
  "characterClassID": 10,
  "raceID": 1,
- "position": 836,
- "rankingPositionChange": 0,
- "gloryPoint": 14196,
+ "position": 841,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14189,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chorea",
@@ -280,6 +280,14 @@
    "position": 836,
    "rankingPositionChange": 0,
    "gloryPoint": 14196,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 841,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14189,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

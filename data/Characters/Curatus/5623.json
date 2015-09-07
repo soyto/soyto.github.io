@@ -2,9 +2,9 @@
  "characterID": 5623,
  "characterClassID": 8,
  "raceID": 1,
- "position": 869,
- "rankingPositionChange": 0,
- "gloryPoint": 4278,
+ "position": 873,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4271,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kishin",
@@ -272,6 +272,14 @@
    "position": 869,
    "rankingPositionChange": 0,
    "gloryPoint": 4278,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 873,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4271,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

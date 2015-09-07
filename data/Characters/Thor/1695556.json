@@ -2,12 +2,14 @@
  "characterID": 1695556,
  "characterClassID": 8,
  "raceID": 0,
- "position": 542,
- "rankingPositionChange": 9,
- "gloryPoint": 33095,
- "gloryPointChange": 521,
+ "position": 530,
+ "rankingPositionChange": 12,
+ "gloryPoint": 34420,
+ "gloryPointChange": 1325,
  "soldierRankID": 11,
  "characterName": "Hesperya",
+ "guildName": "to Glory",
+ "guildID": 30805,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 33095,
    "gloryPointChange": 521,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 530,
+   "rankingPositionChange": 12,
+   "gloryPoint": 34420,
+   "gloryPointChange": 1325,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +313,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "to Glory",
+   "guildID": 30805
   }
  ]
 }

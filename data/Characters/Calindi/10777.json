@@ -2,9 +2,9 @@
  "characterID": 10777,
  "characterClassID": 2,
  "raceID": 0,
- "position": 51,
- "rankingPositionChange": 0,
- "gloryPoint": 135481,
+ "position": 52,
+ "rankingPositionChange": -1,
+ "gloryPoint": 135374,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Taiga",
@@ -280,6 +280,14 @@
    "position": 51,
    "rankingPositionChange": 0,
    "gloryPoint": 135481,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 52,
+   "rankingPositionChange": -1,
+   "gloryPoint": 135374,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

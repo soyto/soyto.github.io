@@ -2,10 +2,10 @@
  "characterID": 557150,
  "characterClassID": 10,
  "raceID": 1,
- "position": 729,
- "rankingPositionChange": 1,
- "gloryPoint": 10286,
- "gloryPointChange": 56,
+ "position": 731,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10339,
+ "gloryPointChange": 53,
  "soldierRankID": 10,
  "characterName": "Konechochan",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 10286,
    "gloryPointChange": 56,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 731,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10339,
+   "gloryPointChange": 53,
    "soldierRankID": 10
   }
  ],

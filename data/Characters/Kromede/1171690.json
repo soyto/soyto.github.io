@@ -2,10 +2,10 @@
  "characterID": 1171690,
  "characterClassID": 13,
  "raceID": 0,
- "position": 509,
- "rankingPositionChange": 1,
- "gloryPoint": 23472,
- "gloryPointChange": 186,
+ "position": 510,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23558,
+ "gloryPointChange": 86,
  "soldierRankID": 11,
  "characterName": "Welt",
  "guildName": "Esperance",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 23472,
    "gloryPointChange": 186,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 510,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23558,
+   "gloryPointChange": 86,
    "soldierRankID": 11
   }
  ],

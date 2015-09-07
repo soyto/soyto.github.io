@@ -2,10 +2,10 @@
  "characterID": 216554,
  "characterClassID": 7,
  "raceID": 1,
- "position": 222,
- "rankingPositionChange": 1,
- "gloryPoint": 43057,
- "gloryPointChange": 314,
+ "position": 224,
+ "rankingPositionChange": -2,
+ "gloryPoint": 43181,
+ "gloryPointChange": 124,
  "soldierRankID": 13,
  "characterName": "Tompouce",
  "guildName": "Angry Scavengers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 43057,
    "gloryPointChange": 314,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 224,
+   "rankingPositionChange": -2,
+   "gloryPoint": 43181,
+   "gloryPointChange": 124,
    "soldierRankID": 13
   }
  ],

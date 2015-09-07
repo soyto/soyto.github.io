@@ -2,9 +2,9 @@
  "characterID": 1193807,
  "characterClassID": 14,
  "raceID": 0,
- "position": 215,
- "rankingPositionChange": 0,
- "gloryPoint": 62953,
+ "position": 214,
+ "rankingPositionChange": 1,
+ "gloryPoint": 62907,
  "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Kanekki",
@@ -280,6 +280,14 @@
    "position": 215,
    "rankingPositionChange": 0,
    "gloryPoint": 62953,
+   "gloryPointChange": -46,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 214,
+   "rankingPositionChange": 1,
+   "gloryPoint": 62907,
    "gloryPointChange": -46,
    "soldierRankID": 13
   }

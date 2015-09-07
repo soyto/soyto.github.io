@@ -2,9 +2,9 @@
  "characterID": 1191617,
  "characterClassID": 14,
  "raceID": 1,
- "position": 229,
- "rankingPositionChange": 0,
- "gloryPoint": 39237,
+ "position": 230,
+ "rankingPositionChange": -1,
+ "gloryPoint": 39188,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Giorgaki",
@@ -280,6 +280,14 @@
    "position": 229,
    "rankingPositionChange": 0,
    "gloryPoint": 39237,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 230,
+   "rankingPositionChange": -1,
+   "gloryPoint": 39188,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

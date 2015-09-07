@@ -2,12 +2,12 @@
  "characterID": 851845,
  "characterClassID": 1,
  "raceID": 0,
- "position": 545,
- "rankingPositionChange": 0,
- "gloryPoint": 21634,
+ "position": 546,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21620,
  "gloryPointChange": -14,
  "soldierRankID": 11,
- "characterName": "Nuriho",
+ "characterName": "Rhaazzell",
  "guildName": "R A R E",
  "guildID": 25766,
  "status": [
@@ -282,12 +282,24 @@
    "gloryPoint": 21634,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 546,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21620,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Nuriho"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "characterName": "Rhaazzell"
   }
  ],
  "guilds": [

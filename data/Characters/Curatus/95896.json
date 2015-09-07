@@ -2,9 +2,9 @@
  "characterID": 95896,
  "characterClassID": 8,
  "raceID": 0,
- "position": 419,
- "rankingPositionChange": 0,
- "gloryPoint": 35758,
+ "position": 421,
+ "rankingPositionChange": -2,
+ "gloryPoint": 35730,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Maevis",
@@ -278,6 +278,14 @@
    "position": 419,
    "rankingPositionChange": 0,
    "gloryPoint": 35758,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 421,
+   "rankingPositionChange": -2,
+   "gloryPoint": 35730,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

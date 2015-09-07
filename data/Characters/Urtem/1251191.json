@@ -2,9 +2,9 @@
  "characterID": 1251191,
  "characterClassID": 14,
  "raceID": 0,
- "position": 402,
- "rankingPositionChange": 1,
- "gloryPoint": 42021,
+ "position": 408,
+ "rankingPositionChange": -6,
+ "gloryPoint": 42093,
  "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Vios",
@@ -280,6 +280,14 @@
    "position": 402,
    "rankingPositionChange": 1,
    "gloryPoint": 42021,
+   "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 408,
+   "rankingPositionChange": -6,
+   "gloryPoint": 42093,
    "gloryPointChange": 72,
    "soldierRankID": 12
   }

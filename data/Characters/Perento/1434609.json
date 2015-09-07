@@ -2,12 +2,14 @@
  "characterID": 1434609,
  "characterClassID": 5,
  "raceID": 1,
- "position": 695,
- "rankingPositionChange": 44,
- "gloryPoint": 4074,
- "gloryPointChange": 580,
+ "position": 631,
+ "rankingPositionChange": 64,
+ "gloryPoint": 5028,
+ "gloryPointChange": 954,
  "soldierRankID": 11,
  "characterName": "Djarvis",
+ "guildName": "Hope",
+ "guildID": 1169,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -40,6 +42,14 @@
    "gloryPoint": 4074,
    "gloryPointChange": 580,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 631,
+   "rankingPositionChange": 64,
+   "gloryPoint": 5028,
+   "gloryPointChange": 954,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -51,6 +61,11 @@
  "guilds": [
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Hope",
+   "guildID": 1169
   }
  ]
 }

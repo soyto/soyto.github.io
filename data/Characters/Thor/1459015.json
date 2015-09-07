@@ -3,11 +3,13 @@
  "characterClassID": 13,
  "raceID": 0,
  "position": 147,
- "rankingPositionChange": 2,
- "gloryPoint": 115406,
- "gloryPointChange": 1174,
+ "rankingPositionChange": 0,
+ "gloryPoint": 116940,
+ "gloryPointChange": 1534,
  "soldierRankID": 13,
  "characterName": "Clonewars",
+ "guildName": "Nakama",
+ "guildID": 31311,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 115406,
    "gloryPointChange": 1174,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": 0,
+   "gloryPoint": 116940,
+   "gloryPointChange": 1534,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Nakama",
+   "guildID": 31311
   }
  ]
 }

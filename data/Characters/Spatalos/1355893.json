@@ -2,9 +2,9 @@
  "characterID": 1355893,
  "characterClassID": 10,
  "raceID": 0,
- "position": 260,
- "rankingPositionChange": -1,
- "gloryPoint": 58368,
+ "position": 259,
+ "rankingPositionChange": 1,
+ "gloryPoint": 58319,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Liqueen",
@@ -272,6 +272,14 @@
    "position": 260,
    "rankingPositionChange": -1,
    "gloryPoint": 58368,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 259,
+   "rankingPositionChange": 1,
+   "gloryPoint": 58319,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

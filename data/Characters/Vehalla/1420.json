@@ -2,9 +2,9 @@
  "characterID": 1420,
  "characterClassID": 10,
  "raceID": 0,
- "position": 31,
- "rankingPositionChange": 0,
- "gloryPoint": 139291,
+ "position": 32,
+ "rankingPositionChange": -1,
+ "gloryPoint": 139184,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Millu",
@@ -280,6 +280,14 @@
    "position": 31,
    "rankingPositionChange": 0,
    "gloryPoint": 139291,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 32,
+   "rankingPositionChange": -1,
+   "gloryPoint": 139184,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

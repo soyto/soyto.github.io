@@ -2,9 +2,9 @@
  "characterID": 1127161,
  "characterClassID": 16,
  "raceID": 0,
- "position": 713,
- "rankingPositionChange": 4,
- "gloryPoint": 22595,
+ "position": 723,
+ "rankingPositionChange": -10,
+ "gloryPoint": 22588,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Utae",
@@ -112,6 +112,14 @@
    "position": 713,
    "rankingPositionChange": 4,
    "gloryPoint": 22595,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 723,
+   "rankingPositionChange": -10,
+   "gloryPoint": 22588,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

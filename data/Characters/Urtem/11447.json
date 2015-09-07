@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 113,
- "rankingPositionChange": 3,
- "gloryPoint": 115527,
- "gloryPointChange": 1001,
+ "rankingPositionChange": 0,
+ "gloryPoint": 116761,
+ "gloryPointChange": 1234,
  "soldierRankID": 13,
  "characterName": "Segfault",
  "guildName": "oOgg",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 115527,
    "gloryPointChange": 1001,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 113,
+   "rankingPositionChange": 0,
+   "gloryPoint": 116761,
+   "gloryPointChange": 1234,
    "soldierRankID": 13
   }
  ],

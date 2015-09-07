@@ -2,10 +2,10 @@
  "characterID": 35263,
  "characterClassID": 2,
  "raceID": 0,
- "position": 415,
- "rankingPositionChange": 0,
- "gloryPoint": 22403,
- "gloryPointChange": -28,
+ "position": 418,
+ "rankingPositionChange": -3,
+ "gloryPoint": 22425,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Tado",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 22403,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 418,
+   "rankingPositionChange": -3,
+   "gloryPoint": 22425,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

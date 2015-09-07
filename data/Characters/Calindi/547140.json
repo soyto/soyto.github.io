@@ -2,10 +2,10 @@
  "characterID": 547140,
  "characterClassID": 4,
  "raceID": 0,
- "position": 418,
- "rankingPositionChange": 0,
- "gloryPoint": 9517,
- "gloryPointChange": 69,
+ "position": 421,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9499,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Gaekalante",
  "guildName": "Shadow Hunter",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 9517,
    "gloryPointChange": 69,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 421,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9499,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

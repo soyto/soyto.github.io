@@ -2,10 +2,10 @@
  "characterID": 461099,
  "characterClassID": 10,
  "raceID": 1,
- "position": 217,
- "rankingPositionChange": 1,
- "gloryPoint": 42385,
- "gloryPointChange": 201,
+ "position": 220,
+ "rankingPositionChange": -3,
+ "gloryPoint": 42496,
+ "gloryPointChange": 111,
  "soldierRankID": 13,
  "characterName": "Rafiki",
  "guildName": "The Others",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 42385,
    "gloryPointChange": 201,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": -3,
+   "gloryPoint": 42496,
+   "gloryPointChange": 111,
    "soldierRankID": 13
   }
  ],

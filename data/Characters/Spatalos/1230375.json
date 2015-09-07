@@ -2,9 +2,9 @@
  "characterID": 1230375,
  "characterClassID": 10,
  "raceID": 1,
- "position": 140,
- "rankingPositionChange": 0,
- "gloryPoint": 48141,
+ "position": 142,
+ "rankingPositionChange": -2,
+ "gloryPoint": 48092,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Holnerds",
@@ -280,6 +280,14 @@
    "position": 140,
    "rankingPositionChange": 0,
    "gloryPoint": 48141,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 142,
+   "rankingPositionChange": -2,
+   "gloryPoint": 48092,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -3,11 +3,13 @@
  "characterClassID": 16,
  "raceID": 0,
  "position": 538,
- "rankingPositionChange": -2,
- "gloryPoint": 13588,
- "gloryPointChange": -14,
+ "rankingPositionChange": 0,
+ "gloryPoint": 13583,
+ "gloryPointChange": -5,
  "soldierRankID": 11,
  "characterName": "Oceana",
+ "guildName": "Legion X Equestris",
+ "guildID": 5199,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 13588,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13583,
+   "gloryPointChange": -5,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Legion X Equestris",
+   "guildID": 5199
   }
  ]
 }

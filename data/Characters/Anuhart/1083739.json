@@ -2,9 +2,9 @@
  "characterID": 1083739,
  "characterClassID": 16,
  "raceID": 0,
- "position": 832,
- "rankingPositionChange": 4,
- "gloryPoint": 6068,
+ "position": 835,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6061,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dancingboy",
@@ -280,6 +280,14 @@
    "position": 832,
    "rankingPositionChange": 4,
    "gloryPoint": 6068,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 835,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6061,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

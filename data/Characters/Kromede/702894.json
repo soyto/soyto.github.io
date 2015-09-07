@@ -2,10 +2,10 @@
  "characterID": 702894,
  "characterClassID": 7,
  "raceID": 0,
- "position": 989,
+ "position": 988,
  "rankingPositionChange": 1,
- "gloryPoint": 8385,
- "gloryPointChange": 49,
+ "gloryPoint": 8378,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tristanus",
  "guildName": "The Reborn",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 8385,
    "gloryPointChange": 49,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8378,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

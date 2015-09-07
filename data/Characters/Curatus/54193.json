@@ -2,10 +2,10 @@
  "characterID": 54193,
  "characterClassID": 14,
  "raceID": 1,
- "position": 610,
- "rankingPositionChange": 0,
- "gloryPoint": 8871,
- "gloryPointChange": 118,
+ "position": 611,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9037,
+ "gloryPointChange": 166,
  "soldierRankID": 11,
  "characterName": "Calaf",
  "guildName": "Silent Majority",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8871,
    "gloryPointChange": 118,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9037,
+   "gloryPointChange": 166,
    "soldierRankID": 11
   }
  ],

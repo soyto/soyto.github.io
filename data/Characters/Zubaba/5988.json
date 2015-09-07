@@ -2,12 +2,14 @@
  "characterID": 5988,
  "characterClassID": 10,
  "raceID": 0,
- "position": 693,
- "rankingPositionChange": -5,
- "gloryPoint": 8078,
- "gloryPointChange": -14,
+ "position": 694,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8067,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Phul",
+ "guildName": "Anatolian Army",
+ "guildID": 1561,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 8078,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 694,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8067,
+   "gloryPointChange": -11,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Anatolian Army",
+   "guildID": 1561
   }
  ]
 }

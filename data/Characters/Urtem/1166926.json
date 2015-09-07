@@ -2,9 +2,9 @@
  "characterID": 1166926,
  "characterClassID": 14,
  "raceID": 0,
- "position": 752,
- "rankingPositionChange": 4,
- "gloryPoint": 20470,
+ "position": 761,
+ "rankingPositionChange": -9,
+ "gloryPoint": 20463,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gretriso",
@@ -232,6 +232,14 @@
    "position": 752,
    "rankingPositionChange": 4,
    "gloryPoint": 20470,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 761,
+   "rankingPositionChange": -9,
+   "gloryPoint": 20463,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

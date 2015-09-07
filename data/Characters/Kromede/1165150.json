@@ -2,10 +2,10 @@
  "characterID": 1165150,
  "characterClassID": 4,
  "raceID": 0,
- "position": 930,
- "rankingPositionChange": 21,
- "gloryPoint": 9521,
- "gloryPointChange": 407,
+ "position": 931,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9514,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Manooligan",
  "status": [
@@ -207,6 +207,14 @@
    "rankingPositionChange": 21,
    "gloryPoint": 9521,
    "gloryPointChange": 407,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 931,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9514,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

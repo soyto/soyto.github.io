@@ -2,9 +2,9 @@
  "characterID": 406100,
  "characterClassID": 5,
  "raceID": 0,
- "position": 172,
- "rankingPositionChange": 0,
- "gloryPoint": 48640,
+ "position": 173,
+ "rankingPositionChange": -1,
+ "gloryPoint": 48591,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ohanzee",
@@ -280,6 +280,14 @@
    "position": 172,
    "rankingPositionChange": 0,
    "gloryPoint": 48640,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 173,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48591,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

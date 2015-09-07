@@ -2,9 +2,9 @@
  "characterID": 870712,
  "characterClassID": 1,
  "raceID": 0,
- "position": 714,
- "rankingPositionChange": 4,
- "gloryPoint": 22542,
+ "position": 724,
+ "rankingPositionChange": -10,
+ "gloryPoint": 22535,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wenri",
@@ -144,6 +144,14 @@
    "position": 714,
    "rankingPositionChange": 4,
    "gloryPoint": 22542,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 724,
+   "rankingPositionChange": -10,
+   "gloryPoint": 22535,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

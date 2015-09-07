@@ -2,10 +2,10 @@
  "characterID": 1376817,
  "characterClassID": 14,
  "raceID": 1,
- "position": 870,
- "rankingPositionChange": 6,
- "gloryPoint": 13192,
- "gloryPointChange": 113,
+ "position": 871,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13244,
+ "gloryPointChange": 52,
  "soldierRankID": 10,
  "characterName": "Pelouze",
  "guildName": "Das Vermaechtnis",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 13192,
    "gloryPointChange": 113,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 871,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13244,
+   "gloryPointChange": 52,
    "soldierRankID": 10
   }
  ],

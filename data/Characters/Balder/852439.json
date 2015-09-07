@@ -2,9 +2,9 @@
  "characterID": 852439,
  "characterClassID": 14,
  "raceID": 0,
- "position": 839,
- "rankingPositionChange": 3,
- "gloryPoint": 2336,
+ "position": 840,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2329,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Astrel",
@@ -280,6 +280,14 @@
    "position": 839,
    "rankingPositionChange": 3,
    "gloryPoint": 2336,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2329,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

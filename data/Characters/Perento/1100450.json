@@ -2,9 +2,9 @@
  "characterID": 1100450,
  "characterClassID": 11,
  "raceID": 1,
- "position": 110,
- "rankingPositionChange": 0,
- "gloryPoint": 100782,
+ "position": 111,
+ "rankingPositionChange": -1,
+ "gloryPoint": 100733,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lotteli",
@@ -280,6 +280,14 @@
    "position": 110,
    "rankingPositionChange": 0,
    "gloryPoint": 100782,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 111,
+   "rankingPositionChange": -1,
+   "gloryPoint": 100733,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

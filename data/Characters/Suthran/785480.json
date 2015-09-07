@@ -2,9 +2,9 @@
  "characterID": 785480,
  "characterClassID": 2,
  "raceID": 0,
- "position": 555,
- "rankingPositionChange": 0,
- "gloryPoint": 27798,
+ "position": 556,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27784,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Drakemaster",
@@ -280,6 +280,14 @@
    "position": 555,
    "rankingPositionChange": 0,
    "gloryPoint": 27798,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27784,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 308697,
  "characterClassID": 5,
  "raceID": 0,
- "position": 148,
- "rankingPositionChange": 1,
- "gloryPoint": 54178,
- "gloryPointChange": 511,
+ "position": 150,
+ "rankingPositionChange": -2,
+ "gloryPoint": 54672,
+ "gloryPointChange": 494,
  "soldierRankID": 13,
  "characterName": "Daynoye",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 54178,
    "gloryPointChange": 511,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": -2,
+   "gloryPoint": 54672,
+   "gloryPointChange": 494,
    "soldierRankID": 13
   }
  ],

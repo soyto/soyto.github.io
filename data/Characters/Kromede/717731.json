@@ -2,9 +2,9 @@
  "characterID": 717731,
  "characterClassID": 10,
  "raceID": 0,
- "position": 428,
- "rankingPositionChange": 0,
- "gloryPoint": 28624,
+ "position": 429,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28596,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sens",
@@ -208,6 +208,14 @@
    "position": 428,
    "rankingPositionChange": 0,
    "gloryPoint": 28624,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 429,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28596,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

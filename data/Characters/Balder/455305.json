@@ -2,9 +2,9 @@
  "characterID": 455305,
  "characterClassID": 11,
  "raceID": 0,
- "position": 895,
- "rankingPositionChange": 3,
- "gloryPoint": 2011,
+ "position": 896,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2004,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rhoxos",
@@ -278,6 +278,14 @@
    "position": 895,
    "rankingPositionChange": 3,
    "gloryPoint": 2011,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 896,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2004,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

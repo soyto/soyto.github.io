@@ -2,9 +2,9 @@
  "characterID": 595844,
  "characterClassID": 11,
  "raceID": 0,
- "position": 845,
- "rankingPositionChange": 1,
- "gloryPoint": 17190,
+ "position": 857,
+ "rankingPositionChange": -12,
+ "gloryPoint": 17183,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ryuukl",
@@ -280,6 +280,14 @@
    "position": 845,
    "rankingPositionChange": 1,
    "gloryPoint": 17190,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 857,
+   "rankingPositionChange": -12,
+   "gloryPoint": 17183,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

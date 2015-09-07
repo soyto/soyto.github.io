@@ -2,9 +2,9 @@
  "characterID": 95573,
  "characterClassID": 1,
  "raceID": 1,
- "position": 830,
- "rankingPositionChange": -1,
- "gloryPoint": 4732,
+ "position": 834,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4725,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mithridates",
@@ -280,6 +280,14 @@
    "position": 830,
    "rankingPositionChange": -1,
    "gloryPoint": 4732,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 834,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4725,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

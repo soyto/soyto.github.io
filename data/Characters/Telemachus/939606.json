@@ -2,10 +2,10 @@
  "characterID": 939606,
  "characterClassID": 7,
  "raceID": 0,
- "position": 327,
- "rankingPositionChange": 0,
- "gloryPoint": 43998,
- "gloryPointChange": 169,
+ "position": 328,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43970,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Prozaki",
  "guildName": "SoulRippers",
@@ -65,6 +65,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 43998,
    "gloryPointChange": 169,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 328,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43970,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

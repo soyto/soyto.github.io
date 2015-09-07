@@ -2,9 +2,9 @@
  "characterID": 1686478,
  "characterClassID": 4,
  "raceID": 1,
- "position": 884,
- "rankingPositionChange": 0,
- "gloryPoint": 12963,
+ "position": 887,
+ "rankingPositionChange": -3,
+ "gloryPoint": 12956,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jenerio",
@@ -278,6 +278,14 @@
    "position": 884,
    "rankingPositionChange": 0,
    "gloryPoint": 12963,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 887,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12956,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

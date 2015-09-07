@@ -2,10 +2,10 @@
  "characterID": 1200765,
  "characterClassID": 16,
  "raceID": 0,
- "position": 124,
- "rankingPositionChange": 0,
- "gloryPoint": 108160,
- "gloryPointChange": 226,
+ "position": 128,
+ "rankingPositionChange": -4,
+ "gloryPoint": 108187,
+ "gloryPointChange": 27,
  "soldierRankID": 13,
  "characterName": "Meruem",
  "guildName": "BAISSE TOI ET TOUSSE",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 108160,
    "gloryPointChange": 226,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": -4,
+   "gloryPoint": 108187,
+   "gloryPointChange": 27,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 2437,
  "characterClassID": 10,
  "raceID": 1,
- "position": 534,
- "rankingPositionChange": 2,
- "gloryPoint": 7206,
+ "position": 535,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7192,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Emi",
@@ -280,6 +280,14 @@
    "position": 534,
    "rankingPositionChange": 2,
    "gloryPoint": 7206,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 535,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7192,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

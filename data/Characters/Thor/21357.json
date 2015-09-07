@@ -2,10 +2,10 @@
  "characterID": 21357,
  "characterClassID": 11,
  "raceID": 0,
- "position": 242,
- "rankingPositionChange": 1,
- "gloryPoint": 75675,
- "gloryPointChange": 201,
+ "position": 244,
+ "rankingPositionChange": -2,
+ "gloryPoint": 75626,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sarah",
  "guildName": "Hysteria",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 75675,
    "gloryPointChange": 201,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 244,
+   "rankingPositionChange": -2,
+   "gloryPoint": 75626,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

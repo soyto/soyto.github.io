@@ -2,14 +2,12 @@
  "characterID": 984675,
  "characterClassID": 1,
  "raceID": 0,
- "position": 609,
- "rankingPositionChange": 2,
- "gloryPoint": 27681,
+ "position": 618,
+ "rankingPositionChange": -9,
+ "gloryPoint": 27667,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Damoniak",
- "guildName": "iLLuSiiOn",
- "guildID": 36428,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 27681,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 618,
+   "rankingPositionChange": -9,
+   "gloryPoint": 27667,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "iLLuSiiOn",
    "guildID": 36428
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

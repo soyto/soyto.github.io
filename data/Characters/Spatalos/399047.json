@@ -2,10 +2,10 @@
  "characterID": 399047,
  "characterClassID": 5,
  "raceID": 0,
- "position": 924,
- "rankingPositionChange": 9,
- "gloryPoint": 6968,
- "gloryPointChange": 270,
+ "position": 929,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7011,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Machi",
  "guildName": "Meisatsu",
@@ -57,6 +57,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 6968,
    "gloryPointChange": 270,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 929,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7011,
+   "gloryPointChange": 43,
    "soldierRankID": 10
   }
  ],

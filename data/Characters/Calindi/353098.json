@@ -2,9 +2,9 @@
  "characterID": 353098,
  "characterClassID": 11,
  "raceID": 0,
- "position": 350,
- "rankingPositionChange": 1,
- "gloryPoint": 15162,
+ "position": 353,
+ "rankingPositionChange": -3,
+ "gloryPoint": 15134,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Pestouylle",
@@ -280,6 +280,14 @@
    "position": 350,
    "rankingPositionChange": 1,
    "gloryPoint": 15162,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 353,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15134,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

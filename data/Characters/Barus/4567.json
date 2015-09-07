@@ -2,9 +2,9 @@
  "characterID": 4567,
  "characterClassID": 5,
  "raceID": 0,
- "position": 544,
- "rankingPositionChange": 1,
- "gloryPoint": 25666,
+ "position": 545,
+ "rankingPositionChange": -1,
+ "gloryPoint": 25652,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Aykashi",
@@ -278,6 +278,14 @@
    "position": 544,
    "rankingPositionChange": 1,
    "gloryPoint": 25666,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 545,
+   "rankingPositionChange": -1,
+   "gloryPoint": 25652,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

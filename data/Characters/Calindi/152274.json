@@ -2,14 +2,12 @@
  "characterID": 152274,
  "characterClassID": 1,
  "raceID": 0,
- "position": 254,
- "rankingPositionChange": 1,
- "gloryPoint": 26473,
+ "position": 256,
+ "rankingPositionChange": -2,
+ "gloryPoint": 26424,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Honoha",
- "guildName": "Savage Spirit",
- "guildID": 13827,
  "status": [
   {
    "date": "2015-08-26T22:00:00.000Z",
@@ -82,6 +80,14 @@
    "gloryPoint": 26473,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 256,
+   "rankingPositionChange": -2,
+   "gloryPoint": 26424,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -95,6 +101,9 @@
    "date": "2015-08-26T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

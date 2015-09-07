@@ -2,9 +2,9 @@
  "characterID": 1643512,
  "characterClassID": 16,
  "raceID": 0,
- "position": 757,
- "rankingPositionChange": 1,
- "gloryPoint": 22531,
+ "position": 763,
+ "rankingPositionChange": -6,
+ "gloryPoint": 22524,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nihamana",
@@ -280,6 +280,14 @@
    "position": 757,
    "rankingPositionChange": 1,
    "gloryPoint": 22531,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 763,
+   "rankingPositionChange": -6,
+   "gloryPoint": 22524,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

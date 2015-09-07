@@ -2,9 +2,9 @@
  "characterID": 1416375,
  "characterClassID": 1,
  "raceID": 1,
- "position": 650,
- "rankingPositionChange": 1,
- "gloryPoint": 4665,
+ "position": 652,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4651,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Skylarm",
@@ -280,6 +280,14 @@
    "position": 650,
    "rankingPositionChange": 1,
    "gloryPoint": 4665,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 652,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4651,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

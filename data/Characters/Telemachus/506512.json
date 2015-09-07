@@ -2,10 +2,10 @@
  "characterID": 506512,
  "characterClassID": 7,
  "raceID": 1,
- "position": 792,
- "rankingPositionChange": 14,
- "gloryPoint": 1245,
- "gloryPointChange": -1,
+ "position": 793,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1250,
+ "gloryPointChange": 5,
  "soldierRankID": 10,
  "characterName": "Smecheru",
  "guildName": "ToxiC",
@@ -41,6 +41,14 @@
    "rankingPositionChange": 14,
    "gloryPoint": 1245,
    "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 793,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1250,
+   "gloryPointChange": 5,
    "soldierRankID": 10
   }
  ],

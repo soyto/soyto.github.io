@@ -2,9 +2,9 @@
  "characterID": 172810,
  "characterClassID": 1,
  "raceID": 0,
- "position": 106,
- "rankingPositionChange": 0,
- "gloryPoint": 92547,
+ "position": 107,
+ "rankingPositionChange": -1,
+ "gloryPoint": 92498,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Norek",
@@ -280,6 +280,14 @@
    "position": 106,
    "rankingPositionChange": 0,
    "gloryPoint": 92547,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": -1,
+   "gloryPoint": 92498,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

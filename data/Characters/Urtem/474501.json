@@ -2,10 +2,10 @@
  "characterID": 474501,
  "characterClassID": 4,
  "raceID": 1,
- "position": 127,
- "rankingPositionChange": 0,
- "gloryPoint": 73529,
- "gloryPointChange": -49,
+ "position": 128,
+ "rankingPositionChange": -1,
+ "gloryPoint": 73483,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Hattarus",
  "guildName": "A D V",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 73529,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": -1,
+   "gloryPoint": 73483,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

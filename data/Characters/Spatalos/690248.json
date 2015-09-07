@@ -2,10 +2,10 @@
  "characterID": 690248,
  "characterClassID": 11,
  "raceID": 1,
- "position": 184,
- "rankingPositionChange": 0,
- "gloryPoint": 35882,
- "gloryPointChange": 276,
+ "position": 185,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35833,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lintu",
  "guildName": "Syntagma",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35882,
    "gloryPointChange": 276,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 185,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35833,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 233750,
  "characterClassID": 2,
  "raceID": 0,
- "position": 948,
+ "position": 935,
  "rankingPositionChange": 13,
- "gloryPoint": 9211,
- "gloryPointChange": 149,
+ "gloryPoint": 9618,
+ "gloryPointChange": 407,
  "soldierRankID": 10,
  "characterName": "Dexav",
- "guildName": "Ascension",
- "guildID": 1035,
+ "guildName": "Eclypse",
+ "guildID": 1778,
  "status": [
   {
    "date": "2015-09-02T22:00:00.000Z",
@@ -34,6 +34,14 @@
    "gloryPoint": 9211,
    "gloryPointChange": 149,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 935,
+   "rankingPositionChange": 13,
+   "gloryPoint": 9618,
+   "gloryPointChange": 407,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -47,6 +55,11 @@
    "date": "2015-09-02T22:00:00.000Z",
    "guildName": "Ascension",
    "guildID": 1035
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Eclypse",
+   "guildID": 1778
   }
  ]
 }

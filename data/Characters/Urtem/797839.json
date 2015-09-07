@@ -2,9 +2,9 @@
  "characterID": 797839,
  "characterClassID": 5,
  "raceID": 1,
- "position": 226,
- "rankingPositionChange": 0,
- "gloryPoint": 47320,
+ "position": 227,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47271,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ultania",
@@ -272,6 +272,14 @@
    "position": 226,
    "rankingPositionChange": 0,
    "gloryPoint": 47320,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 227,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47271,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

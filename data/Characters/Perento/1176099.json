@@ -2,9 +2,9 @@
  "characterID": 1176099,
  "characterClassID": 4,
  "raceID": 0,
- "position": 271,
- "rankingPositionChange": -1,
- "gloryPoint": 48864,
+ "position": 270,
+ "rankingPositionChange": 1,
+ "gloryPoint": 48815,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ybrok",
@@ -280,6 +280,14 @@
    "position": 271,
    "rankingPositionChange": -1,
    "gloryPoint": 48864,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": 1,
+   "gloryPoint": 48815,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

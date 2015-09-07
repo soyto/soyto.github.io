@@ -2,9 +2,9 @@
  "characterID": 361020,
  "characterClassID": 5,
  "raceID": 0,
- "position": 648,
- "rankingPositionChange": 1,
- "gloryPoint": 21264,
+ "position": 649,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21250,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Clars",
@@ -278,6 +278,14 @@
    "position": 648,
    "rankingPositionChange": 1,
    "gloryPoint": 21264,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 649,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21250,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

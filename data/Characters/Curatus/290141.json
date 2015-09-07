@@ -2,9 +2,9 @@
  "characterID": 290141,
  "characterClassID": 11,
  "raceID": 1,
- "position": 691,
- "rankingPositionChange": 0,
- "gloryPoint": 6909,
+ "position": 694,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6895,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Cantaguerra",
@@ -280,6 +280,14 @@
    "position": 691,
    "rankingPositionChange": 0,
    "gloryPoint": 6909,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 694,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6895,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

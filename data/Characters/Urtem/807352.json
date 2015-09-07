@@ -2,9 +2,9 @@
  "characterID": 807352,
  "characterClassID": 11,
  "raceID": 0,
- "position": 610,
- "rankingPositionChange": 3,
- "gloryPoint": 27588,
+ "position": 620,
+ "rankingPositionChange": -10,
+ "gloryPoint": 27574,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Vekam",
@@ -280,6 +280,14 @@
    "position": 610,
    "rankingPositionChange": 3,
    "gloryPoint": 27588,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 620,
+   "rankingPositionChange": -10,
+   "gloryPoint": 27574,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 266386,
  "characterClassID": 8,
  "raceID": 0,
- "position": 845,
- "rankingPositionChange": 0,
- "gloryPoint": 11473,
+ "position": 846,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11466,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "LeonieraVT",
@@ -272,6 +272,14 @@
    "position": 845,
    "rankingPositionChange": 0,
    "gloryPoint": 11473,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11466,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

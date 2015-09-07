@@ -2,14 +2,14 @@
  "characterID": 92893,
  "characterClassID": 1,
  "raceID": 1,
- "position": 265,
- "rankingPositionChange": 1,
- "gloryPoint": 30704,
- "gloryPointChange": 211,
+ "position": 263,
+ "rankingPositionChange": 2,
+ "gloryPoint": 31415,
+ "gloryPointChange": 711,
  "soldierRankID": 13,
  "characterName": "Santiago",
- "guildName": "KIZIL ORDU",
- "guildID": 1010,
+ "guildName": "Bosphorus",
+ "guildID": 1226,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 30704,
    "gloryPointChange": 211,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 263,
+   "rankingPositionChange": 2,
+   "gloryPoint": 31415,
+   "gloryPointChange": 711,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -316,6 +324,11 @@
    "date": "2015-08-25T22:00:00.000Z",
    "guildName": "KIZIL ORDU",
    "guildID": 1010
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Bosphorus",
+   "guildID": 1226
   }
  ]
 }

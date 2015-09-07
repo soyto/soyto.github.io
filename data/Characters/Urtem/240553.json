@@ -2,9 +2,9 @@
  "characterID": 240553,
  "characterClassID": 10,
  "raceID": 0,
- "position": 657,
- "rankingPositionChange": 0,
- "gloryPoint": 25122,
+ "position": 665,
+ "rankingPositionChange": -8,
+ "gloryPoint": 25108,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kaenna",
@@ -280,6 +280,14 @@
    "position": 657,
    "rankingPositionChange": 0,
    "gloryPoint": 25122,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": -8,
+   "gloryPoint": 25108,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

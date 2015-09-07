@@ -2,10 +2,10 @@
  "characterID": 634245,
  "characterClassID": 1,
  "raceID": 0,
- "position": 824,
- "rankingPositionChange": 5,
- "gloryPoint": 6238,
- "gloryPointChange": 47,
+ "position": 826,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6231,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Revilat",
  "guildName": "TomodachiGremory",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 6238,
    "gloryPointChange": 47,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 826,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6231,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

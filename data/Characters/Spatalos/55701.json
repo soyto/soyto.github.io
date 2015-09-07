@@ -2,9 +2,9 @@
  "characterID": 55701,
  "characterClassID": 4,
  "raceID": 0,
- "position": 849,
- "rankingPositionChange": 3,
- "gloryPoint": 8949,
+ "position": 854,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8942,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bazyl",
@@ -200,6 +200,14 @@
    "position": 849,
    "rankingPositionChange": 3,
    "gloryPoint": 8949,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 854,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8942,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

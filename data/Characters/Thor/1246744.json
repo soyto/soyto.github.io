@@ -2,10 +2,10 @@
  "characterID": 1246744,
  "characterClassID": 16,
  "raceID": 0,
- "position": 770,
- "rankingPositionChange": 2,
- "gloryPoint": 21788,
- "gloryPointChange": 93,
+ "position": 772,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21891,
+ "gloryPointChange": 103,
  "soldierRankID": 10,
  "characterName": "Arty",
  "guildName": " La Vida Loca ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 21788,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 772,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21891,
+   "gloryPointChange": 103,
    "soldierRankID": 10
   }
  ],

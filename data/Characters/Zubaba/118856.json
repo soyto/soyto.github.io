@@ -2,10 +2,10 @@
  "characterID": 118856,
  "characterClassID": 13,
  "raceID": 0,
- "position": 232,
- "rankingPositionChange": 0,
- "gloryPoint": 47202,
- "gloryPointChange": 176,
+ "position": 231,
+ "rankingPositionChange": 1,
+ "gloryPoint": 47153,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Minatorx",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 47202,
    "gloryPointChange": 176,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 231,
+   "rankingPositionChange": 1,
+   "gloryPoint": 47153,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

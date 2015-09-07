@@ -2,9 +2,9 @@
  "characterID": 717488,
  "characterClassID": 1,
  "raceID": 1,
- "position": 208,
- "rankingPositionChange": 0,
- "gloryPoint": 43303,
+ "position": 211,
+ "rankingPositionChange": -3,
+ "gloryPoint": 43254,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Wronglife",
@@ -278,6 +278,14 @@
    "position": 208,
    "rankingPositionChange": 0,
    "gloryPoint": 43303,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 211,
+   "rankingPositionChange": -3,
+   "gloryPoint": 43254,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 147992,
  "characterClassID": 14,
  "raceID": 0,
- "position": 707,
- "rankingPositionChange": 1,
- "gloryPoint": 17294,
- "gloryPointChange": 43,
+ "position": 711,
+ "rankingPositionChange": -4,
+ "gloryPoint": 17287,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kashin",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 17294,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": -4,
+   "gloryPoint": 17287,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

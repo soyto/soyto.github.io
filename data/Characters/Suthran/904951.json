@@ -2,9 +2,9 @@
  "characterID": 904951,
  "characterClassID": 1,
  "raceID": 0,
- "position": 939,
- "rankingPositionChange": 0,
- "gloryPoint": 10976,
+ "position": 941,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10969,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Drakosse",
@@ -88,6 +88,14 @@
    "position": 939,
    "rankingPositionChange": 0,
    "gloryPoint": 10976,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 941,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10969,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

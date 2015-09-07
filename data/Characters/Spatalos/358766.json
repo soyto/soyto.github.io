@@ -2,9 +2,9 @@
  "characterID": 358766,
  "characterClassID": 4,
  "raceID": 1,
- "position": 546,
- "rankingPositionChange": 0,
- "gloryPoint": 6979,
+ "position": 552,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6965,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sumi",
@@ -280,6 +280,14 @@
    "position": 546,
    "rankingPositionChange": 0,
    "gloryPoint": 6979,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 552,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6965,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

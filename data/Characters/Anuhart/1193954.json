@@ -2,10 +2,10 @@
  "characterID": 1193954,
  "characterClassID": 16,
  "raceID": 1,
- "position": 541,
- "rankingPositionChange": 2,
- "gloryPoint": 8311,
- "gloryPointChange": 110,
+ "position": 545,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8297,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Pronimo",
  "guildName": "Evil Souls",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 8311,
    "gloryPointChange": 110,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 545,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8297,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

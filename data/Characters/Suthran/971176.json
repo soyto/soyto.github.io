@@ -2,10 +2,10 @@
  "characterID": 971176,
  "characterClassID": 11,
  "raceID": 1,
- "position": 400,
- "rankingPositionChange": 0,
- "gloryPoint": 21318,
- "gloryPointChange": -56,
+ "position": 401,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21290,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Brenix",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 21318,
    "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21290,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

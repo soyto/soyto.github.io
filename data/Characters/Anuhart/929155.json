@@ -2,9 +2,9 @@
  "characterID": 929155,
  "characterClassID": 16,
  "raceID": 0,
- "position": 866,
- "rankingPositionChange": 2,
- "gloryPoint": 5754,
+ "position": 869,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5747,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Golgothtreize",
@@ -112,6 +112,14 @@
    "position": 866,
    "rankingPositionChange": 2,
    "gloryPoint": 5754,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 869,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5747,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

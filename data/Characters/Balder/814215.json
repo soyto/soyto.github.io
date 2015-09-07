@@ -2,9 +2,9 @@
  "characterID": 814215,
  "characterClassID": 14,
  "raceID": 0,
- "position": 432,
- "rankingPositionChange": 3,
- "gloryPoint": 9951,
+ "position": 434,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9923,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Zhume",
@@ -278,6 +278,14 @@
    "position": 432,
    "rankingPositionChange": 3,
    "gloryPoint": 9951,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 434,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9923,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

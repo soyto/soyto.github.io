@@ -2,12 +2,14 @@
  "characterID": 486220,
  "characterClassID": 8,
  "raceID": 0,
- "position": 236,
- "rankingPositionChange": 1,
- "gloryPoint": 69566,
- "gloryPointChange": 985,
+ "position": 234,
+ "rankingPositionChange": 2,
+ "gloryPoint": 70627,
+ "gloryPointChange": 1061,
  "soldierRankID": 13,
  "characterName": "Smashy",
+ "guildName": "S U P E R",
+ "guildID": 46735,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 69566,
    "gloryPointChange": 985,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 234,
+   "rankingPositionChange": 2,
+   "gloryPoint": 70627,
+   "gloryPointChange": 1061,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -288,6 +298,11 @@
   },
   {
    "date": "2015-08-22T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "S U P E R",
+   "guildID": 46735
   }
  ]
 }

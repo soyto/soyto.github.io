@@ -2,9 +2,9 @@
  "characterID": 957752,
  "characterClassID": 10,
  "raceID": 1,
- "position": 274,
- "rankingPositionChange": 0,
- "gloryPoint": 12339,
+ "position": 275,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12290,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Guxina",
@@ -280,6 +280,14 @@
    "position": 274,
    "rankingPositionChange": 0,
    "gloryPoint": 12339,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 275,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12290,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

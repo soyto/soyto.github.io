@@ -2,10 +2,10 @@
  "characterID": 231126,
  "characterClassID": 10,
  "raceID": 1,
- "position": 393,
- "rankingPositionChange": 0,
- "gloryPoint": 17129,
- "gloryPointChange": 278,
+ "position": 394,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17104,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Melony",
  "guildName": "Stalkers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 17129,
    "gloryPointChange": 278,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17104,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

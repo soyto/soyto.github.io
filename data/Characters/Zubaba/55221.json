@@ -2,9 +2,9 @@
  "characterID": 55221,
  "characterClassID": 10,
  "raceID": 1,
- "position": 121,
- "rankingPositionChange": -1,
- "gloryPoint": 77068,
+ "position": 120,
+ "rankingPositionChange": 1,
+ "gloryPoint": 77019,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Elyse",
@@ -280,6 +280,14 @@
    "position": 121,
    "rankingPositionChange": -1,
    "gloryPoint": 77068,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 120,
+   "rankingPositionChange": 1,
+   "gloryPoint": 77019,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

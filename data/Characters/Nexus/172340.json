@@ -2,10 +2,10 @@
  "characterID": 172340,
  "characterClassID": 1,
  "raceID": 0,
- "position": 41,
- "rankingPositionChange": 0,
- "gloryPoint": 141340,
- "gloryPointChange": 203,
+ "position": 42,
+ "rankingPositionChange": -1,
+ "gloryPoint": 141383,
+ "gloryPointChange": 43,
  "soldierRankID": 14,
  "characterName": "Yllena",
  "guildName": "R E T A R D S",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 141340,
    "gloryPointChange": 203,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 42,
+   "rankingPositionChange": -1,
+   "gloryPoint": 141383,
+   "gloryPointChange": 43,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 456692,
  "characterClassID": 11,
  "raceID": 0,
- "position": 504,
- "rankingPositionChange": 4,
- "gloryPoint": 6883,
- "gloryPointChange": -14,
+ "position": 506,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6872,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Zofia",
  "guildName": "Unfading",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 6883,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 506,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6872,
+   "gloryPointChange": -11,
    "soldierRankID": 11
   }
  ],

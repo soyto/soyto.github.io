@@ -2,9 +2,9 @@
  "characterID": 1169085,
  "characterClassID": 2,
  "raceID": 0,
- "position": 552,
- "rankingPositionChange": 2,
- "gloryPoint": 16874,
+ "position": 554,
+ "rankingPositionChange": -2,
+ "gloryPoint": 16860,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Torrick",
@@ -280,6 +280,14 @@
    "position": 552,
    "rankingPositionChange": 2,
    "gloryPoint": 16874,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 554,
+   "rankingPositionChange": -2,
+   "gloryPoint": 16860,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -3,9 +3,9 @@
  "characterClassID": 11,
  "raceID": 1,
  "position": 810,
- "rankingPositionChange": 3,
- "gloryPoint": 2716,
- "gloryPointChange": 96,
+ "rankingPositionChange": 0,
+ "gloryPoint": 2709,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hirieth",
  "guildName": "Asmodae Society",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 2716,
    "gloryPointChange": 96,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 810,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2709,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

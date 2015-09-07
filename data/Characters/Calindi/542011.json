@@ -2,9 +2,9 @@
  "characterID": 542011,
  "characterClassID": 10,
  "raceID": 0,
- "position": 295,
- "rankingPositionChange": 1,
- "gloryPoint": 19351,
+ "position": 298,
+ "rankingPositionChange": -3,
+ "gloryPoint": 19302,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Potian",
@@ -280,6 +280,14 @@
    "position": 295,
    "rankingPositionChange": 1,
    "gloryPoint": 19351,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 298,
+   "rankingPositionChange": -3,
+   "gloryPoint": 19302,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

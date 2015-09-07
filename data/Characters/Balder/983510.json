@@ -2,10 +2,10 @@
  "characterID": 983510,
  "characterClassID": 5,
  "raceID": 0,
- "position": 888,
- "rankingPositionChange": 21,
- "gloryPoint": 2047,
- "gloryPointChange": 93,
+ "position": 889,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2040,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hydrazinhydrat",
  "guildName": "IsMirWayne",
@@ -33,6 +33,14 @@
    "rankingPositionChange": 21,
    "gloryPoint": 2047,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 889,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2040,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

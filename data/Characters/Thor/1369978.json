@@ -2,10 +2,10 @@
  "characterID": 1369978,
  "characterClassID": 8,
  "raceID": 1,
- "position": 297,
- "rankingPositionChange": 0,
- "gloryPoint": 54480,
- "gloryPointChange": 1,
+ "position": 298,
+ "rankingPositionChange": -1,
+ "gloryPoint": 54431,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Prolex",
  "guildName": "H E R O I C",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 54480,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 298,
+   "rankingPositionChange": -1,
+   "gloryPoint": 54431,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],
