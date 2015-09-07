@@ -68,7 +68,6 @@
         }]
       }
     };
-
     $routeProvider.when('/ranking/:serverName', isMobile ? rankingRouteMobileData :  rankingRouteData);
 
     var rankingWithDateRouteData = {
@@ -80,7 +79,6 @@
         }]
       }
     };
-
     var rankingWithDateRouteMobileData = {
       templateUrl: '/app/templates/ranking.mobile.html',
       controller: 'mainApp.ranking.list.mobile.controller',
@@ -112,6 +110,71 @@
       }
     };
     $routeProvider.when('/character/:serverName/:characterID', isMobile ? characterInfoMobileRouteData :  characterInfoRouteData);
+
+
+    var mergeRouteData = {
+      templateUrl: '/app/templates/merge.html',
+      controller: 'mainApp.merge.list.controller',
+      resolve: {
+        serversData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+
+          var servers = storedDataService.mergeGroups[$route.current.params.groupID];
+          var serversData = [];
+
+          var $$q = helperService.$q.resolve();
+
+          servers.forEach(function(server){
+            $$q = $$q.then(function(){
+              return helperService.$q.likeNormal(storedDataService.getLastFromServer(server.name)).then(function(serverData){
+                serversData.push({
+                  server: server,
+                  data: serverData.data,
+                  date: serverData.date
+                });
+              });
+            });
+          });
+
+
+          return $$q = $$q.then(function(){ return serversData; });
+        }],
+        groupID: ['$route', function($route){
+          return $route.current.params.groupID;
+        }]
+      }
+    };
+    var mergeMobileRouteData = {
+      templateUrl: '/app/templates/merge.mobile.html',
+      controller: 'mainApp.merge.list.mobile.controller',
+      resolve: {
+        serversData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+
+          var servers = storedDataService.mergeGroups[$route.current.params.groupID];
+          var serversData = [];
+
+          var $$q = helperService.$q.resolve();
+
+          servers.forEach(function(server){
+            $$q = $$q.then(function(){
+              return helperService.$q.likeNormal(storedDataService.getLastFromServer(server.name)).then(function(serverData){
+                serversData.push({
+                  server: server,
+                  data: serverData.data,
+                  date: serverData.date
+                });
+              });
+            });
+          });
+
+
+          return $$q = $$q.then(function(){ return serversData; });
+        }],
+        groupID: ['$route', function($route){
+          return $route.current.params.groupID;
+        }]
+      }
+    };
+    $routeProvider.when('/merge/:groupID', isMobile ? mergeMobileRouteData : mergeRouteData);
   }
 
   function cfpLoadingBarFn(cfpLoadingBarProvider) {
@@ -233,6 +296,566 @@
     helperService.$scope.setTitle('Soyto.github.io');
     helperService.$scope.setNav('home');
   }
+})(angular);
+
+
+(function(ng){
+  'use strict';
+
+  var CONTROLLER_NAME = 'mainApp.merge.list.controller';
+
+  ng.module('mainApp').controller(CONTROLLER_NAME, [
+    '$log', '$scope', '$location', '$timeout', 'helperService',  'storedDataService', 'serversData', 'groupID', listController
+  ]);
+
+  function listController($log, $scope, $location, $timeout, helperService, storedDataService, serversData, groupID) {
+    $scope._name = CONTROLLER_NAME;
+    var textSearch_timeoutPromise = null;
+
+    //Change server or date Fn
+    $scope.goTo = function(serverMerge) {
+      //Same data and server, don't do nothing
+      if(serverMerge.id == groupID) {
+        return;
+      }
+
+      $location.path('/merge/' + serverMerge.id);
+    };
+
+    _init();
+
+    function _init() {
+
+      var serverNames = serversData.select(function(itm){ return itm.server.name; }).join(' + ');
+
+      helperService.$scope.setTitle(serverNames);
+      helperService.$scope.setNav('ranking.list');
+
+      $scope.serverData = {
+        data: {
+          elyos: [],
+          asmodians: [],
+        },
+        name: serverNames,
+        id: groupID
+      };
+
+      $scope.mergeGroups = storedDataService.mergeGroups.select(function(group, idx) {
+        return {
+          id: idx,
+          name: group.select(function(itm){ return itm.name; }).join(' + ')
+        };
+      });
+      $scope.currentMerge = $scope.mergeGroups.first(function(itm){ return itm.id == groupID; });
+      $scope.classes = storedDataService.characterClassIds.where(function(itm){ return itm.id; });
+      $scope.ranks = storedDataService.characterSoldierRankIds
+        .where(function(itm){ return itm.id >= 10; })
+        .sort(function(a, b){ return b.id - a.id; });
+
+      serversData.forEach(function(server) {
+        $scope.serverData.data.elyos = $scope.serverData.data.elyos.concat(server.data.elyos);
+        $scope.serverData.data.asmodians = $scope.serverData.data.asmodians.concat(server.data.asmodians);
+      });
+
+      $scope.serverData.data.elyos.sort(function(a,b){
+        return b.gloryPoint - a.gloryPoint;
+      });
+      $scope.serverData.data.asmodians.sort(function(a,b){
+        return b.gloryPoint - a.gloryPoint;
+      });
+
+      $scope.serverData.data.elyos.forEach(function(character, idx){
+        character.rankingPositionChange = character.position - (idx + 1);
+        character.position = idx + 1;
+        _calculateNewRank(character);
+      });
+      $scope.serverData.data.asmodians.forEach(function(character, idx){
+        character.rankingPositionChange = character.position - (idx + 1);
+        character.position = idx + 1;
+        _calculateNewRank(character);
+      });
+
+      $scope.elyosData = $scope.serverData.data.elyos.select(_initCharacter);
+      $scope.asmodianData = $scope.serverData.data.asmodians.select(_initCharacter);
+
+      $scope.$watch('textSearch', function(newValue){
+        _performFilterAndSearch(newValue, $scope.selectedClass, $scope.selectedRank);
+      });
+      $scope.$watch('selectedClass', function(newValue){
+        _performFilterAndSearch($scope.textSearch, newValue, $scope.selectedRank);
+      });
+      $scope.$watch('selectedRank', function(newValue){
+        _performFilterAndSearch($scope.textSearch, $scope.selectedClass, newValue);
+      });
+    }
+
+    //Initializes a character
+    function _initCharacter(character) {
+      if(!character) {
+        return {};
+      }
+      character.characterClass = storedDataService.getCharacterClass(character.characterClassID);
+      character.soldierRank = storedDataService.getCharacterRank(character.soldierRankID);
+
+      return character;
+    }
+
+    //Calculates new rank
+    function _calculateNewRank(character) {
+
+      if(character.position == 1) {
+        character.soldierRankID = 18;
+        return;
+      }
+
+      if(character.position <= 3) {
+        character.soldierRankID = 17;
+        return;
+      }
+
+      if(character.position <= 10) {
+        character.soldierRankID = 16;
+        return;
+      }
+
+      if(character.position <= 30) {
+        character.soldierRankID = 15;
+        return;
+      }
+
+      if(character.position <= 100) {
+        character.soldierRankID = 14;
+        return;
+      }
+
+      if(character.position <= 300) {
+        character.soldierRankID = 13;
+        return;
+      }
+
+      if(character.position <= 500) {
+        character.soldierRankID = 12;
+        return;
+      }
+
+      if(character.position <= 700) {
+        character.soldierRankID = 11;
+        return;
+      }
+
+      if(character.position <= 999) {
+        character.soldierRankID = 10;
+        return;
+      }
+
+      character.soldierRankID = 9;
+
+    }
+
+    //Will perform filter and search :)
+    function _performFilterAndSearch(textToSearch, classToFilter, rankToFilter) {
+
+      if(textSearch_timeoutPromise) {
+        $timeout.cancel(textSearch_timeoutPromise);
+      }
+
+      textSearch_timeoutPromise = $timeout(function() {
+
+        //If not filter is provided
+        if(!classToFilter && !textToSearch && !rankToFilter) {
+          $scope.elyosData = $scope.serverData.data.elyos.select(_initCharacter);
+          $scope.asmodianData = $scope.serverData.data.asmodians.select(_initCharacter);
+          return;
+        }
+
+        //Filter elyos data
+        $scope.elyosData = $scope.serverData.data.elyos.where(function(character) {
+          return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
+        }).select(_initCharacter);
+
+        //Filter asmodian data
+        $scope.asmodianData = $scope.serverData.data.asmodians.where(function(character) {
+          return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
+        }).select(_initCharacter);
+
+      }, 500);
+
+      //Filters a character
+      function filterCharacter(character, txt, classToFilter, rankToFilter) {
+        var meetsTxt = false;
+        var meetsClass = false;
+        var meetsRank = false;
+
+        if(!txt) {
+          meetsTxt = true;
+        }
+        else if(character) {
+
+          var charName = character.characterName ? character.characterName.toLowerCase() : '';
+          var guildName = character.guildName ? character.guildName.toLowerCase() : '';
+          var characterClassName = storedDataService.getCharacterClass(character.characterClassID).name.toLowerCase();
+          var characterRankName = storedDataService.getCharacterRank(character.soldierRankID).name.toLowerCase();
+
+          meetsTxt = charName.indexOf(textToSearch) >= 0 ||
+            guildName.indexOf(textToSearch) >= 0 ||
+            characterClassName.indexOf(textToSearch) >= 0 ||
+            characterRankName.indexOf(textToSearch) >= 0;
+        }
+
+        if(!classToFilter) {
+          meetsClass = true;
+        }
+        else if(character)  {
+          meetsClass = character.characterClassID == classToFilter.id;
+        }
+
+        if(!rankToFilter) {
+          meetsRank = true;
+        }
+        else if(character) {
+          meetsRank = character.soldierRankID == rankToFilter.id;
+        }
+
+        return meetsTxt && meetsClass && meetsRank;
+      }
+    }
+  }
+
+})(angular);
+
+
+(function(ng){
+  'use strict';
+
+  var CONTROLLER_NAME = 'mainApp.merge.list.mobile.controller';
+
+  ng.module('mainApp').controller(CONTROLLER_NAME, [
+    '$log', '$scope', '$window', '$location', '$timeout', 'helperService',  'storedDataService', 'serversData', 'groupID', listController
+  ]);
+
+  function listController($log, $scope, $window, $location, $timeout, helperService, storedDataService, serversData, groupID) {
+    $scope._name = CONTROLLER_NAME;
+
+    $scope.filteredData = false;
+
+    $scope.page = {};
+    $scope.page.elyos = {};
+    $scope.page.asmodians = {};
+
+    _init();
+
+    //Change server or date Fn
+    $scope.goTo = function(serverMerge) {
+      //Same data and server, don't do nothing
+      if(serverMerge.id == groupID) {
+        return;
+      }
+
+      $location.path('/merge/' + serverMerge.id);
+    };
+
+    $scope.page.elyos.goTo = function(){
+      var value = $window.prompt('page', $scope.pagination.elyos.currentPage + 1);
+
+      if(value && !isNaN(value)) {
+        value = parseInt(value);
+
+        if(value && value > 0 && value <= $scope.pagination.elyos.numPages) {
+          $scope.pagination.elyos.currentPage = value - 1;
+          $scope.elyosData = _performPagination($scope.pagination.elyos.elements, $scope.pagination.elyos);
+        }
+
+      }
+    };
+
+    $scope.page.elyos.next = function(){
+
+      if($scope.pagination.elyos.currentPage + 1 >= $scope.pagination.elyos.numPages) { return; }
+
+      $scope.pagination.elyos.currentPage += 1;
+
+      $scope.elyosData = _performPagination($scope.pagination.elyos.elements, $scope.pagination.elyos);
+    };
+
+    $scope.page.elyos.previous = function(){
+
+      if($scope.pagination.elyos.currentPage === 0) { return; }
+
+      $scope.pagination.elyos.currentPage -= 1;
+
+      $scope.elyosData = _performPagination($scope.pagination.elyos.elements, $scope.pagination.elyos);
+    };
+
+    $scope.page.asmodians.next = function(){
+
+      if($scope.pagination.asmodians.currentPage + 1 >= $scope.pagination.asmodians.numPages) { return; }
+
+      $scope.pagination.asmodians.currentPage += 1;
+
+      $scope.asmodianData = _performPagination($scope.pagination.asmodians.elements, $scope.pagination.asmodians);
+    };
+
+    $scope.page.asmodians.previous = function(){
+
+      if($scope.pagination.asmodians.currentPage === 0) { return; }
+
+      $scope.pagination.asmodians.currentPage -= 1;
+
+      $scope.asmodianData = _performPagination($scope.pagination.asmodians.elements, $scope.pagination.asmodians);
+    };
+
+    $scope.page.asmodians.goTo = function(){
+      var value = $window.prompt('page', $scope.pagination.asmodians.currentPage + 1);
+
+      if(value && !isNaN(value)) {
+        value = parseInt(value);
+
+        if(value && value > 0 && value <= $scope.pagination.asmodians.numPages) {
+          $scope.pagination.asmodians.currentPage = value - 1;
+          $scope.asmodianData = _performPagination($scope.pagination.asmodians.elements, $scope.pagination.asmodians);
+        }
+
+      }
+    };
+
+    //Performs search
+    $scope.search = function(){
+      _performFilterAndSearch($scope.textSearch, $scope.selectedClass, $scope.selectedRank);
+    };
+
+    $scope.clear = function(){
+      $scope.textSearch = '';
+      $scope.selectedClass = '';
+      _performFilterAndSearch('', null, null);
+
+      $scope.textSearch = '';
+      $scope.selectedClass = null;
+      $scope.selectedRank = null;
+    };
+
+    function _init() {
+
+      var serverNames = serversData.select(function(itm){ return itm.server.name; }).join(' + ');
+
+      helperService.$scope.setTitle(serverNames);
+      helperService.$scope.setNav('ranking.list');
+
+      $scope.serverData = {
+        data: {
+          elyos: [],
+          asmodians: [],
+        },
+        name: serverNames,
+        id: groupID
+      };
+      $scope.pagination = {
+        elyos: {
+          currentPage: 0,
+          numElementsPerPage: 50,
+          numPages: -1,
+          numElements: -1
+        },
+        asmodians: {
+          currentPage: 0,
+          numElementsPerPage: 50,
+          numPages: -1,
+          numElements: -1
+        }
+      };
+
+      $scope.mergeGroups = storedDataService.mergeGroups.select(function(group, idx) {
+        return {
+          id: idx,
+          name: group.select(function(itm){ return itm.name; }).join(' + ')
+        };
+      });
+      $scope.currentMerge = $scope.mergeGroups.first(function(itm){ return itm.id == groupID; });
+      $scope.classes = storedDataService.characterClassIds.where(function(itm){ return itm.id; });
+      $scope.ranks = storedDataService.characterSoldierRankIds
+        .where(function(itm){ return itm.id >= 10; })
+        .sort(function(a, b){ return b.id - a.id; });
+
+      serversData.forEach(function(server) {
+        $scope.serverData.data.elyos = $scope.serverData.data.elyos.concat(server.data.elyos);
+        $scope.serverData.data.asmodians = $scope.serverData.data.asmodians.concat(server.data.asmodians);
+      });
+
+      $scope.serverData.data.elyos.sort(function(a,b){
+        return b.gloryPoint - a.gloryPoint;
+      });
+      $scope.serverData.data.asmodians.sort(function(a,b){
+        return b.gloryPoint - a.gloryPoint;
+      });
+
+      $scope.serverData.data.elyos.forEach(function(character, idx){
+        character.rankingPositionChange = character.position - (idx + 1);
+        character.position = idx + 1;
+        _calculateNewRank(character);
+      });
+      $scope.serverData.data.asmodians.forEach(function(character, idx){
+        character.rankingPositionChange = character.position - (idx + 1);
+        character.position = idx + 1;
+        _calculateNewRank(character);
+      });
+
+      $scope.elyosData = _performPagination($scope.serverData.data.elyos.select(_initCharacter) , $scope.pagination.elyos);
+      $scope.asmodianData = _performPagination($scope.serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
+    }
+
+    //Initializes a character
+    function _initCharacter(character) {
+      if(!character) {
+        return {};
+      }
+      character.characterClass = storedDataService.getCharacterClass(character.characterClassID);
+      character.soldierRank = storedDataService.getCharacterRank(character.soldierRankID);
+
+      return character;
+    }
+
+    //Calculates new rank
+    function _calculateNewRank(character) {
+
+      if(character.position == 1) {
+        character.soldierRankID = 18;
+        return;
+      }
+
+      if(character.position <= 3) {
+        character.soldierRankID = 17;
+        return;
+      }
+
+      if(character.position <= 10) {
+        character.soldierRankID = 16;
+        return;
+      }
+
+      if(character.position <= 30) {
+        character.soldierRankID = 15;
+        return;
+      }
+
+      if(character.position <= 100) {
+        character.soldierRankID = 14;
+        return;
+      }
+
+      if(character.position <= 300) {
+        character.soldierRankID = 13;
+        return;
+      }
+
+      if(character.position <= 500) {
+        character.soldierRankID = 12;
+        return;
+      }
+
+      if(character.position <= 700) {
+        character.soldierRankID = 11;
+        return;
+      }
+
+      if(character.position <= 999) {
+        character.soldierRankID = 10;
+        return;
+      }
+
+      character.soldierRankID = 9;
+
+    }
+
+    //Will perform filter and search :)
+    function _performFilterAndSearch(textToSearch, classToFilter, rankToFilter) {
+
+      //Reset pagination
+      $scope.pagination.elyos.currentPage = 0;
+      $scope.pagination.asmodians.currentPage = 0;
+
+      var paginateElyos = function(data) {
+        return _performPagination(data, $scope.pagination.elyos);
+      };
+      var paginateAsmodians = function(data) {
+        return _performPagination(data, $scope.pagination.asmodians);
+      };
+
+      //If not filter is provided
+      if(!classToFilter && !textToSearch && !rankToFilter) {
+        $scope.elyosData = paginateElyos($scope.serverData.data.elyos.select(_initCharacter));
+        $scope.asmodianData = paginateAsmodians($scope.serverData.data.asmodians.select(_initCharacter));
+        $scope.filteredData = false;
+        return;
+      }
+
+      //Filter elyos data
+      $scope.elyosData = paginateElyos($scope.serverData.data.elyos.where(function(character) {
+        return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
+      }).select(_initCharacter));
+
+      //Filter asmodian data
+      $scope.asmodianData = paginateAsmodians($scope.serverData.data.asmodians.where(function(character) {
+        return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
+      }).select(_initCharacter));
+
+      //Filters a character
+      function filterCharacter(character, txt, classToFilter, rankToFilter) {
+        var meetsTxt = false;
+        var meetsClass = false;
+        var meetsRank = false;
+
+        if(!txt) {
+          meetsTxt = true;
+        }
+        else if(character) {
+
+          var charName = character.characterName ? character.characterName.toLowerCase() : '';
+          var guildName = character.guildName ? character.guildName.toLowerCase() : '';
+          var characterClassName = storedDataService.getCharacterClass(character.characterClassID).name.toLowerCase();
+          var characterRankName = storedDataService.getCharacterRank(character.soldierRankID).name.toLowerCase();
+
+          meetsTxt = charName.indexOf(textToSearch) >= 0 ||
+            guildName.indexOf(textToSearch) >= 0 ||
+            characterClassName.indexOf(textToSearch) >= 0 ||
+            characterRankName.indexOf(textToSearch) >= 0;
+        }
+
+        if(!classToFilter) {
+          meetsClass = true;
+        }
+        else if(character)  {
+          meetsClass = character.characterClassID == classToFilter.id;
+        }
+
+        if(!rankToFilter) {
+          meetsRank = true;
+        }
+        else if(character) {
+          meetsRank = character.soldierRankID == rankToFilter.id;
+        }
+
+        $scope.filteredData = true;
+        return meetsTxt && meetsClass && meetsRank;
+      }
+    }
+
+    //Performs pagination on page
+    function _performPagination(elements, pagination) {
+
+      var idx = pagination.currentPage * pagination.numElementsPerPage;
+
+      pagination.numElements = elements.length;
+      pagination.elements = elements;
+
+      pagination.numPages = parseInt(elements.length / pagination.numElementsPerPage);
+
+      if(elements.length % pagination.numElementsPerPage > 0) { pagination.numPages += 1; }
+      if(pagination.numPages === 0){ pagination.numPages = 1; }
+
+      var result =  elements.slice(idx, pagination.numElementsPerPage + idx);
+      return result;
+    }
+  }
+
 })(angular);
 
 
@@ -463,7 +1086,6 @@
   ]);
 
   function index_controller($scope, $window, $location, storedDataService, helperService, serverData) {
-
     $scope._name = CONTROLLER_NAME;
 
     $scope.filteredData = false;
@@ -865,6 +1487,10 @@
       return $q.defer();
     };
 
+    $this.$q.resolve = function() {
+      return $q.resolve();
+    };
+
     $this.$q.all = function(items) {
       return $q.all(items);
     };
@@ -895,22 +1521,31 @@
 
     //Wich servers
     $this.serversList = [
-      {id : 47, name: 'Alquima'},
-      {id : 46, name: 'Anuhart'},
-      {id : 39, name: 'Balder'},
-      {id : 49, name: 'Barus'},
-      {id : 45, name: 'Calindi'},
-      {id : 48, name: 'Curatus'},
-      {id : 36, name: 'Kromede'},
-      {id : 44, name: 'Nexus'},
-      {id : 34, name: 'Perento'},
-      {id : 31, name: 'Spatalos'},
-      {id : 42, name: 'Suthran'},
-      {id : 32, name: 'Telemachus'},
-      {id : 37, name: 'Thor'},
-      {id : 40, name: 'Urtem'},
-      {id : 43, name: 'Vehalla'},
-      {id : 51, name: 'Zubaba'},
+      {id : 47, name: 'Alquima'},     //0
+      {id : 46, name: 'Anuhart'},     //1
+      {id : 39, name: 'Balder'},      //2
+      {id : 49, name: 'Barus'},       //3
+      {id : 45, name: 'Calindi'},     //4
+      {id : 48, name: 'Curatus'},     //5
+      {id : 36, name: 'Kromede'},     //6
+      {id : 44, name: 'Nexus'},       //7
+      {id : 34, name: 'Perento'},     //8
+      {id : 31, name: 'Spatalos'},    //9
+      {id : 42, name: 'Suthran'},     //10
+      {id : 32, name: 'Telemachus'},  //11
+      {id : 37, name: 'Thor'},        //12
+      {id : 40, name: 'Urtem'},       //13
+      {id : 43, name: 'Vehalla'},     //14
+      {id : 51, name: 'Zubaba'},      //15
+    ];
+
+    //Merge groups
+    $this.mergeGroups = [
+      [$this.serversList[0],  $this.serversList[1]],                            //0
+      [$this.serversList[14], $this.serversList[6], $this.serversList[2]],      //1
+      [$this.serversList[11], $this.serversList[9], $this.serversList[5]],      //2
+      [$this.serversList[8],  $this.serversList[7], $this.serversList[15]],      //3
+      [$this.serversList[4],  $this.serversList[10]]                            //4
     ];
 
     //Wich dates we have stored
@@ -1057,6 +1692,7 @@
   }
 
 })(angular);
+
 
 (function(ng){
   'use strict';

@@ -80,6 +80,10 @@
       return $q.defer();
     };
 
+    $this.$q.resolve = function() {
+      return $q.resolve();
+    };
+
     $this.$q.all = function(items) {
       return $q.all(items);
     };

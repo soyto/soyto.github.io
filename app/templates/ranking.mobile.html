@@ -87,10 +87,10 @@
                     <td>{{ character.soldierRank.name }}</td>
                     <td>
                         <i class="fa" ng-class="{
-                        'fa-arrow-up': character.arrowStatus=='UP',
-                        'text-success': character.arrowStatus=='UP',
-                        'fa-arrow-down': character.arrowStatus=='DOWN',
-                        'text-danger': character.arrowStatus=='DOWN',
+                        'fa-arrow-up': character.rankingPositionChange > 0,
+                        'text-success': character.rankingPositionChange > 0,
+                        'fa-arrow-down': character.rankingPositionChange < 0,
+                        'text-danger': character.rankingPositionChange < 0,
                         }"></i>
                         {{ character.rankingPositionChange }}
                     </td>
@@ -152,10 +152,10 @@
                     <td>{{ character.soldierRank.name }}</td>
                     <td>
                         <i class="fa" ng-class="{
-                        'fa-arrow-up': character.arrowStatus=='UP',
-                        'text-success': character.arrowStatus=='UP',
-                        'fa-arrow-down': character.arrowStatus=='DOWN',
-                        'text-danger': character.arrowStatus=='DOWN',
+                        'fa-arrow-up': character.rankingPositionChange > 0,
+                        'text-success': character.rankingPositionChange > 0,
+                        'fa-arrow-down': character.rankingPositionChange < 0,
+                        'text-danger': character.rankingPositionChange < 0,
                         }"></i>
                         {{ character.rankingPositionChange }}
                     </td>
