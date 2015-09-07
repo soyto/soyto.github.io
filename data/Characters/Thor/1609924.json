@@ -2,9 +2,9 @@
  "characterID": 1609924,
  "characterClassID": 7,
  "raceID": 1,
- "position": 622,
- "rankingPositionChange": 1,
- "gloryPoint": 22107,
+ "position": 623,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22093,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Princezsnowflake",
@@ -272,6 +272,14 @@
    "position": 622,
    "rankingPositionChange": 1,
    "gloryPoint": 22107,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 623,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22093,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

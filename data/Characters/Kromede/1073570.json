@@ -2,12 +2,14 @@
  "characterID": 1073570,
  "characterClassID": 16,
  "raceID": 0,
- "position": 657,
- "rankingPositionChange": 0,
- "gloryPoint": 17510,
- "gloryPointChange": -11,
+ "position": 654,
+ "rankingPositionChange": 3,
+ "gloryPoint": 17621,
+ "gloryPointChange": 111,
  "soldierRankID": 11,
  "characterName": "Ladyfeya",
+ "guildName": "Big Bang",
+ "guildID": 23820,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 17510,
    "gloryPointChange": -11,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 654,
+   "rankingPositionChange": 3,
+   "gloryPoint": 17621,
+   "gloryPointChange": 111,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Big Bang",
+   "guildID": 23820
   }
  ]
 }

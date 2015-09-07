@@ -2,10 +2,10 @@
  "characterID": 133354,
  "characterClassID": 10,
  "raceID": 0,
- "position": 917,
- "rankingPositionChange": 5,
- "gloryPoint": 9944,
- "gloryPointChange": 43,
+ "position": 921,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9937,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tsubame",
  "guildName": "Warmness",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 9944,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9937,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

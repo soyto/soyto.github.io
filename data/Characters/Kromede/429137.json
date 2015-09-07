@@ -2,11 +2,11 @@
  "characterID": 429137,
  "characterClassID": 10,
  "raceID": 1,
- "position": 299,
- "rankingPositionChange": 1,
- "gloryPoint": 23773,
- "gloryPointChange": 1,
- "soldierRankID": 13,
+ "position": 301,
+ "rankingPositionChange": -2,
+ "gloryPoint": 23734,
+ "gloryPointChange": -39,
+ "soldierRankID": 12,
  "characterName": "Schnuffina",
  "guildName": "Covenant",
  "guildID": 13120,
@@ -282,6 +282,14 @@
    "gloryPoint": 23773,
    "gloryPointChange": 1,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 301,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23734,
+   "gloryPointChange": -39,
+   "soldierRankID": 12
   }
  ],
  "names": [

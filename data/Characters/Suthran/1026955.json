@@ -2,12 +2,12 @@
  "characterID": 1026955,
  "characterClassID": 4,
  "raceID": 1,
- "position": 197,
- "rankingPositionChange": 0,
- "gloryPoint": 57887,
- "gloryPointChange": -49,
+ "position": 198,
+ "rankingPositionChange": -1,
+ "gloryPoint": 58039,
+ "gloryPointChange": 152,
  "soldierRankID": 13,
- "characterName": "Ishikawa",
+ "characterName": "Tiituus",
  "guildName": "The Last Asmodians",
  "guildID": 19376,
  "status": [
@@ -282,12 +282,24 @@
    "gloryPoint": 57887,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 198,
+   "rankingPositionChange": -1,
+   "gloryPoint": 58039,
+   "gloryPointChange": 152,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Ishikawa"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "characterName": "Tiituus"
   }
  ],
  "guilds": [

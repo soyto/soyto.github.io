@@ -2,10 +2,10 @@
  "characterID": 1948,
  "characterClassID": 10,
  "raceID": 0,
- "position": 250,
- "rankingPositionChange": 1,
- "gloryPoint": 57015,
- "gloryPointChange": 1,
+ "position": 252,
+ "rankingPositionChange": -2,
+ "gloryPoint": 57019,
+ "gloryPointChange": 4,
  "soldierRankID": 13,
  "characterName": "Inzanami",
  "guildName": "No Fear My Friend",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 57015,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 252,
+   "rankingPositionChange": -2,
+   "gloryPoint": 57019,
+   "gloryPointChange": 4,
    "soldierRankID": 13
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 1274231,
  "characterClassID": 11,
  "raceID": 1,
- "position": 463,
- "rankingPositionChange": 2,
- "gloryPoint": 31164,
- "gloryPointChange": -28,
+ "position": 448,
+ "rankingPositionChange": 15,
+ "gloryPoint": 32442,
+ "gloryPointChange": 1278,
  "soldierRankID": 12,
  "characterName": "Xtapes",
+ "guildName": "TEAMRETARD",
+ "guildID": 43306,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 31164,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 448,
+   "rankingPositionChange": 15,
+   "gloryPoint": 32442,
+   "gloryPointChange": 1278,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -301,6 +311,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "TEAMRETARD",
+   "guildID": 43306
   }
  ]
 }

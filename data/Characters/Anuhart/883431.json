@@ -2,9 +2,9 @@
  "characterID": 883431,
  "characterClassID": 14,
  "raceID": 0,
- "position": 93,
- "rankingPositionChange": 1,
- "gloryPoint": 95984,
+ "position": 94,
+ "rankingPositionChange": -1,
+ "gloryPoint": 95877,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Guncrazy",
@@ -280,6 +280,14 @@
    "position": 93,
    "rankingPositionChange": 1,
    "gloryPoint": 95984,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 94,
+   "rankingPositionChange": -1,
+   "gloryPoint": 95877,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

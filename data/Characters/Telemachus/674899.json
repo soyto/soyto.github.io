@@ -2,9 +2,9 @@
  "characterID": 674899,
  "characterClassID": 7,
  "raceID": 0,
- "position": 91,
- "rankingPositionChange": 0,
- "gloryPoint": 158947,
+ "position": 92,
+ "rankingPositionChange": -1,
+ "gloryPoint": 158840,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Savvis",
@@ -280,6 +280,14 @@
    "position": 91,
    "rankingPositionChange": 0,
    "gloryPoint": 158947,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": -1,
+   "gloryPoint": 158840,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

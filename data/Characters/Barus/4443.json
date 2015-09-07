@@ -2,9 +2,9 @@
  "characterID": 4443,
  "characterClassID": 5,
  "raceID": 1,
- "position": 387,
- "rankingPositionChange": 2,
- "gloryPoint": 37686,
+ "position": 388,
+ "rankingPositionChange": -1,
+ "gloryPoint": 37658,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Romkowaty",
@@ -278,6 +278,14 @@
    "position": 387,
    "rankingPositionChange": 2,
    "gloryPoint": 37686,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 388,
+   "rankingPositionChange": -1,
+   "gloryPoint": 37658,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

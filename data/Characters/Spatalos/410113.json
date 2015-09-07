@@ -2,10 +2,10 @@
  "characterID": 410113,
  "characterClassID": 10,
  "raceID": 1,
- "position": 244,
- "rankingPositionChange": 3,
- "gloryPoint": 25059,
- "gloryPointChange": 351,
+ "position": 245,
+ "rankingPositionChange": -1,
+ "gloryPoint": 25610,
+ "gloryPointChange": 551,
  "soldierRankID": 13,
  "characterName": "Tandariel",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 25059,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": -1,
+   "gloryPoint": 25610,
+   "gloryPointChange": 551,
    "soldierRankID": 13
   }
  ],

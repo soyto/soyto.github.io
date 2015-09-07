@@ -2,9 +2,9 @@
  "characterID": 1005167,
  "characterClassID": 14,
  "raceID": 0,
- "position": 567,
- "rankingPositionChange": 0,
- "gloryPoint": 20315,
+ "position": 566,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20301,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Postik",
@@ -280,6 +280,14 @@
    "position": 567,
    "rankingPositionChange": 0,
    "gloryPoint": 20315,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 566,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20301,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

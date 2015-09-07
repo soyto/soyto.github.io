@@ -2,9 +2,9 @@
  "characterID": 1150458,
  "characterClassID": 16,
  "raceID": 0,
- "position": 848,
- "rankingPositionChange": 3,
- "gloryPoint": 5916,
+ "position": 851,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5909,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lakyy",
@@ -280,6 +280,14 @@
    "position": 848,
    "rankingPositionChange": 3,
    "gloryPoint": 5916,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5909,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

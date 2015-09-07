@@ -2,9 +2,9 @@
  "characterID": 580485,
  "characterClassID": 2,
  "raceID": 0,
- "position": 975,
- "rankingPositionChange": -1,
- "gloryPoint": 10411,
+ "position": 974,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10432,
  "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Aubray",
@@ -280,6 +280,14 @@
    "position": 975,
    "rankingPositionChange": -1,
    "gloryPoint": 10411,
+   "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10432,
    "gloryPointChange": 21,
    "soldierRankID": 10
   }

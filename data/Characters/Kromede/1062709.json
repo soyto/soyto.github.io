@@ -2,9 +2,9 @@
  "characterID": 1062709,
  "characterClassID": 10,
  "raceID": 0,
- "position": 816,
- "rankingPositionChange": 0,
- "gloryPoint": 12104,
+ "position": 817,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12097,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Stierchen",
@@ -256,6 +256,14 @@
    "position": 816,
    "rankingPositionChange": 0,
    "gloryPoint": 12104,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12097,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

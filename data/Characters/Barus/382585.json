@@ -2,14 +2,14 @@
  "characterID": 382585,
  "characterClassID": 11,
  "raceID": 0,
- "position": 251,
+ "position": 250,
  "rankingPositionChange": 1,
- "gloryPoint": 56989,
- "gloryPointChange": 48,
+ "gloryPoint": 57188,
+ "gloryPointChange": 199,
  "soldierRankID": 13,
  "characterName": "Yute",
- "guildName": "Gumisie THC",
- "guildID": 13226,
+ "guildName": "Never Alone",
+ "guildID": 12517,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 56989,
    "gloryPointChange": 48,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 250,
+   "rankingPositionChange": 1,
+   "gloryPoint": 57188,
+   "gloryPointChange": 199,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -300,6 +308,11 @@
    "date": "2015-08-12T22:00:00.000Z",
    "guildName": "Gumisie THC",
    "guildID": 13226
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Never Alone",
+   "guildID": 12517
   }
  ]
 }

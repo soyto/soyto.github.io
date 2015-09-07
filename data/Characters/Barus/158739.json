@@ -2,9 +2,9 @@
  "characterID": 158739,
  "characterClassID": 11,
  "raceID": 1,
- "position": 895,
- "rankingPositionChange": 4,
- "gloryPoint": 12019,
+ "position": 901,
+ "rankingPositionChange": -6,
+ "gloryPoint": 12012,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nobot",
@@ -278,6 +278,14 @@
    "position": 895,
    "rankingPositionChange": 4,
    "gloryPoint": 12019,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 901,
+   "rankingPositionChange": -6,
+   "gloryPoint": 12012,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 767764,
  "characterClassID": 7,
  "raceID": 0,
- "position": 595,
- "rankingPositionChange": 0,
- "gloryPoint": 18540,
+ "position": 597,
+ "rankingPositionChange": -2,
+ "gloryPoint": 18526,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Leonardd",
@@ -280,6 +280,14 @@
    "position": 595,
    "rankingPositionChange": 0,
    "gloryPoint": 18540,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 597,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18526,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

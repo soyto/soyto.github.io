@@ -2,10 +2,10 @@
  "characterID": 122294,
  "characterClassID": 11,
  "raceID": 1,
- "position": 950,
- "rankingPositionChange": 0,
- "gloryPoint": 8352,
- "gloryPointChange": 93,
+ "position": 959,
+ "rankingPositionChange": -9,
+ "gloryPoint": 8345,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Arianonna",
  "guildName": "Bones",
@@ -89,6 +89,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8352,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": -9,
+   "gloryPoint": 8345,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

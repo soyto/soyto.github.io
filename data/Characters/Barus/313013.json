@@ -2,9 +2,9 @@
  "characterID": 313013,
  "characterClassID": 7,
  "raceID": 1,
- "position": 971,
- "rankingPositionChange": 4,
- "gloryPoint": 9932,
+ "position": 977,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9925,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sajlena",
@@ -280,6 +280,14 @@
    "position": 971,
    "rankingPositionChange": 4,
    "gloryPoint": 9932,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 977,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9925,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

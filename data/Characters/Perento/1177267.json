@@ -2,9 +2,9 @@
  "characterID": 1177267,
  "characterClassID": 1,
  "raceID": 1,
- "position": 666,
- "rankingPositionChange": 0,
- "gloryPoint": 4459,
+ "position": 669,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4445,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ookeasyman",
@@ -280,6 +280,14 @@
    "position": 666,
    "rankingPositionChange": 0,
    "gloryPoint": 4459,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 669,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4445,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

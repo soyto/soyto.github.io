@@ -2,9 +2,9 @@
  "characterID": 1419555,
  "characterClassID": 5,
  "raceID": 0,
- "position": 985,
- "rankingPositionChange": 2,
- "gloryPoint": 13444,
+ "position": 999,
+ "rankingPositionChange": -14,
+ "gloryPoint": 13437,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xtenshi",
@@ -280,6 +280,14 @@
    "position": 985,
    "rankingPositionChange": 2,
    "gloryPoint": 13444,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": -14,
+   "gloryPoint": 13437,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

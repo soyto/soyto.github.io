@@ -2,9 +2,9 @@
  "characterID": 296383,
  "characterClassID": 1,
  "raceID": 0,
- "position": 798,
- "rankingPositionChange": 0,
- "gloryPoint": 2010,
+ "position": 804,
+ "rankingPositionChange": -6,
+ "gloryPoint": 2003,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Leilanna",
@@ -280,6 +280,14 @@
    "position": 798,
    "rankingPositionChange": 0,
    "gloryPoint": 2010,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 804,
+   "rankingPositionChange": -6,
+   "gloryPoint": 2003,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

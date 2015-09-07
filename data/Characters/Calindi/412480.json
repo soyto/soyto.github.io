@@ -2,9 +2,9 @@
  "characterID": 412480,
  "characterClassID": 14,
  "raceID": 0,
- "position": 840,
- "rankingPositionChange": 1,
- "gloryPoint": 1690,
+ "position": 845,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1683,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Doctorx",
@@ -280,6 +280,14 @@
    "position": 840,
    "rankingPositionChange": 1,
    "gloryPoint": 1690,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 845,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1683,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

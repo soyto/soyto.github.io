@@ -2,9 +2,9 @@
  "characterID": 1157069,
  "characterClassID": 7,
  "raceID": 0,
- "position": 950,
- "rankingPositionChange": 0,
- "gloryPoint": 5405,
+ "position": 945,
+ "rankingPositionChange": 5,
+ "gloryPoint": 5398,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lamperi",
@@ -278,6 +278,14 @@
    "position": 950,
    "rankingPositionChange": 0,
    "gloryPoint": 5405,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": 5,
+   "gloryPoint": 5398,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

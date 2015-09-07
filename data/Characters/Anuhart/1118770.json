@@ -2,9 +2,9 @@
  "characterID": 1118770,
  "characterClassID": 16,
  "raceID": 0,
- "position": 935,
- "rankingPositionChange": 0,
- "gloryPoint": 4819,
+ "position": 937,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4812,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mazurek",
@@ -280,6 +280,14 @@
    "position": 935,
    "rankingPositionChange": 0,
    "gloryPoint": 4819,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 937,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4812,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

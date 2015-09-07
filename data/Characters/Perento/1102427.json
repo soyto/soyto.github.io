@@ -2,9 +2,9 @@
  "characterID": 1102427,
  "characterClassID": 16,
  "raceID": 1,
- "position": 555,
- "rankingPositionChange": 0,
- "gloryPoint": 6664,
+ "position": 556,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6650,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Marilloo",
@@ -280,6 +280,14 @@
    "position": 555,
    "rankingPositionChange": 0,
    "gloryPoint": 6664,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6650,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 1015847,
  "characterClassID": 5,
  "raceID": 0,
- "position": 161,
- "rankingPositionChange": 0,
- "gloryPoint": 87990,
+ "position": 164,
+ "rankingPositionChange": -3,
+ "gloryPoint": 87941,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Deisha",
@@ -272,6 +272,14 @@
    "position": 161,
    "rankingPositionChange": 0,
    "gloryPoint": 87990,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 164,
+   "rankingPositionChange": -3,
+   "gloryPoint": 87941,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

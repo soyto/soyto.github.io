@@ -2,9 +2,9 @@
  "characterID": 1400726,
  "characterClassID": 16,
  "raceID": 1,
- "position": 658,
- "rankingPositionChange": 1,
- "gloryPoint": 4612,
+ "position": 661,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4598,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lingyin",
@@ -280,6 +280,14 @@
    "position": 658,
    "rankingPositionChange": 1,
    "gloryPoint": 4612,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 661,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4598,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

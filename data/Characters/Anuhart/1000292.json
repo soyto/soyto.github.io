@@ -2,10 +2,10 @@
  "characterID": 1000292,
  "characterClassID": 13,
  "raceID": 1,
- "position": 122,
- "rankingPositionChange": -1,
- "gloryPoint": 95966,
- "gloryPointChange": -49,
+ "position": 121,
+ "rankingPositionChange": 1,
+ "gloryPoint": 96900,
+ "gloryPointChange": 934,
  "soldierRankID": 13,
  "characterName": "Warhog",
  "guildName": "ValarMorghulis",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 95966,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": 1,
+   "gloryPoint": 96900,
+   "gloryPointChange": 934,
    "soldierRankID": 13
   }
  ],

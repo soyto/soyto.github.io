@@ -2,10 +2,10 @@
  "characterID": 1109142,
  "characterClassID": 10,
  "raceID": 1,
- "position": 562,
- "rankingPositionChange": 6,
- "gloryPoint": 8140,
- "gloryPointChange": 178,
+ "position": 564,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8176,
+ "gloryPointChange": 36,
  "soldierRankID": 11,
  "characterName": "Caedoh",
  "guildName": "The Nobodies",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 8140,
    "gloryPointChange": 178,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 564,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8176,
+   "gloryPointChange": 36,
    "soldierRankID": 11
   }
  ],

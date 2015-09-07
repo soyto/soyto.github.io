@@ -2,9 +2,9 @@
  "characterID": 1315938,
  "characterClassID": 14,
  "raceID": 1,
- "position": 577,
- "rankingPositionChange": 0,
- "gloryPoint": 6343,
+ "position": 581,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6329,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Littlegun",
@@ -280,6 +280,14 @@
    "position": 577,
    "rankingPositionChange": 0,
    "gloryPoint": 6343,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 581,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6329,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

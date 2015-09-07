@@ -2,14 +2,12 @@
  "characterID": 446480,
  "characterClassID": 8,
  "raceID": 0,
- "position": 1000,
- "rankingPositionChange": -1,
+ "position": 998,
+ "rankingPositionChange": 2,
  "gloryPoint": 9944,
- "gloryPointChange": -7,
- "soldierRankID": 0,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
  "characterName": "Szpina",
- "guildName": "Mystical",
- "guildID": 9598,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 9944,
    "gloryPointChange": -7,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9944,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Mystical",
    "guildID": 9598
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

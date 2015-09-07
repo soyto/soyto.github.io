@@ -2,9 +2,9 @@
  "characterID": 782813,
  "characterClassID": 11,
  "raceID": 1,
- "position": 199,
- "rankingPositionChange": 0,
- "gloryPoint": 50737,
+ "position": 200,
+ "rankingPositionChange": -1,
+ "gloryPoint": 50688,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dubiozaa",
@@ -280,6 +280,14 @@
    "position": 199,
    "rankingPositionChange": 0,
    "gloryPoint": 50737,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 200,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50688,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

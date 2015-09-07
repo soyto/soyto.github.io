@@ -2,9 +2,9 @@
  "characterID": 75092,
  "characterClassID": 2,
  "raceID": 0,
- "position": 579,
- "rankingPositionChange": 0,
- "gloryPoint": 22906,
+ "position": 582,
+ "rankingPositionChange": -3,
+ "gloryPoint": 22892,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Tropoforte",
@@ -280,6 +280,14 @@
    "position": 579,
    "rankingPositionChange": 0,
    "gloryPoint": 22906,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 582,
+   "rankingPositionChange": -3,
+   "gloryPoint": 22892,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

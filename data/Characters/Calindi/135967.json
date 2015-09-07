@@ -2,10 +2,10 @@
  "characterID": 135967,
  "characterClassID": 7,
  "raceID": 0,
- "position": 641,
- "rankingPositionChange": 86,
- "gloryPoint": 2833,
- "gloryPointChange": 443,
+ "position": 646,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2819,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Vidaren",
  "status": [
@@ -175,6 +175,14 @@
    "rankingPositionChange": 86,
    "gloryPoint": 2833,
    "gloryPointChange": 443,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 646,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2819,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 607671,
  "characterClassID": 13,
  "raceID": 1,
- "position": 564,
- "rankingPositionChange": 1,
- "gloryPoint": 23576,
+ "position": 568,
+ "rankingPositionChange": -4,
+ "gloryPoint": 23562,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Neuroshima",
@@ -278,6 +278,14 @@
    "position": 564,
    "rankingPositionChange": 1,
    "gloryPoint": 23576,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 568,
+   "rankingPositionChange": -4,
+   "gloryPoint": 23562,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

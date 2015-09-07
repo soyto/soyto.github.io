@@ -2,11 +2,11 @@
  "characterID": 274436,
  "characterClassID": 1,
  "raceID": 0,
- "position": 696,
- "rankingPositionChange": 0,
- "gloryPoint": 8729,
+ "position": 701,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8715,
  "gloryPointChange": -14,
- "soldierRankID": 11,
+ "soldierRankID": 10,
  "characterName": "Radosav",
  "guildName": "HighSociety",
  "guildID": 1308,
@@ -274,6 +274,14 @@
    "gloryPoint": 8729,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 701,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8715,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [

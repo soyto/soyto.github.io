@@ -2,9 +2,9 @@
  "characterID": 235961,
  "characterClassID": 4,
  "raceID": 0,
- "position": 835,
- "rankingPositionChange": 4,
- "gloryPoint": 19028,
+ "position": 838,
+ "rankingPositionChange": -3,
+ "gloryPoint": 19124,
  "gloryPointChange": 96,
  "soldierRankID": 10,
  "characterName": "Ancaron",
@@ -280,6 +280,14 @@
    "position": 835,
    "rankingPositionChange": 4,
    "gloryPoint": 19028,
+   "gloryPointChange": 96,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 838,
+   "rankingPositionChange": -3,
+   "gloryPoint": 19124,
    "gloryPointChange": 96,
    "soldierRankID": 10
   }

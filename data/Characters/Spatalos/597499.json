@@ -2,9 +2,9 @@
  "characterID": 597499,
  "characterClassID": 7,
  "raceID": 0,
- "position": 982,
- "rankingPositionChange": 1,
- "gloryPoint": 5934,
+ "position": 987,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5927,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cottonmouth",
@@ -280,6 +280,14 @@
    "position": 982,
    "rankingPositionChange": 1,
    "gloryPoint": 5934,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 987,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5927,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

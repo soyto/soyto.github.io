@@ -2,10 +2,10 @@
  "characterID": 1151740,
  "characterClassID": 16,
  "raceID": 0,
- "position": 260,
- "rankingPositionChange": 1,
- "gloryPoint": 50638,
- "gloryPointChange": 141,
+ "position": 261,
+ "rankingPositionChange": -1,
+ "gloryPoint": 50639,
+ "gloryPointChange": 1,
  "soldierRankID": 13,
  "characterName": "Jadetear",
  "guildName": "bombastic",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 50638,
    "gloryPointChange": 141,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50639,
+   "gloryPointChange": 1,
    "soldierRankID": 13
   }
  ],

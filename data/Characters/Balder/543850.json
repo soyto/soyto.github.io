@@ -2,9 +2,9 @@
  "characterID": 543850,
  "characterClassID": 11,
  "raceID": 0,
- "position": 254,
- "rankingPositionChange": 1,
- "gloryPoint": 28460,
+ "position": 255,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28411,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Maluka",
@@ -280,6 +280,14 @@
    "position": 254,
    "rankingPositionChange": 1,
    "gloryPoint": 28460,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28411,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

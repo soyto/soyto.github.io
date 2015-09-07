@@ -2,9 +2,9 @@
  "characterID": 1153546,
  "characterClassID": 14,
  "raceID": 0,
- "position": 788,
- "rankingPositionChange": 3,
- "gloryPoint": 19002,
+ "position": 800,
+ "rankingPositionChange": -12,
+ "gloryPoint": 18995,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Huntdog",
@@ -280,6 +280,14 @@
    "position": 788,
    "rankingPositionChange": 3,
    "gloryPoint": 19002,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": -12,
+   "gloryPoint": 18995,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

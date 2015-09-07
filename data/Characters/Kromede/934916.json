@@ -2,10 +2,10 @@
  "characterID": 934916,
  "characterClassID": 16,
  "raceID": 1,
- "position": 598,
- "rankingPositionChange": 7,
- "gloryPoint": 7470,
- "gloryPointChange": 206,
+ "position": 601,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7456,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Virydia",
  "guildName": "Black Pearl",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 7470,
    "gloryPointChange": 206,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 601,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7456,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 424567,
  "characterClassID": 10,
  "raceID": 0,
- "position": 378,
- "rankingPositionChange": 0,
- "gloryPoint": 33072,
+ "position": 379,
+ "rankingPositionChange": -1,
+ "gloryPoint": 33044,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ochnee",
@@ -256,6 +256,14 @@
    "position": 378,
    "rankingPositionChange": 0,
    "gloryPoint": 33072,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 379,
+   "rankingPositionChange": -1,
+   "gloryPoint": 33044,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

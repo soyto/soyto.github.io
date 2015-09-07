@@ -2,12 +2,14 @@
  "characterID": 285448,
  "characterClassID": 7,
  "raceID": 1,
- "position": 663,
- "rankingPositionChange": -3,
- "gloryPoint": 4411,
+ "position": 665,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4397,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Wykin",
+ "guildName": "Golden Power",
+ "guildID": 6826,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 4411,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4397,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Golden Power",
+   "guildID": 6826
   }
  ]
 }

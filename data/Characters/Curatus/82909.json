@@ -2,10 +2,10 @@
  "characterID": 82909,
  "characterClassID": 14,
  "raceID": 1,
- "position": 135,
- "rankingPositionChange": 0,
- "gloryPoint": 58866,
- "gloryPointChange": 383,
+ "position": 136,
+ "rankingPositionChange": -1,
+ "gloryPoint": 58983,
+ "gloryPointChange": 117,
  "soldierRankID": 13,
  "characterName": "Rheeaka",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 58866,
    "gloryPointChange": 383,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 136,
+   "rankingPositionChange": -1,
+   "gloryPoint": 58983,
+   "gloryPointChange": 117,
    "soldierRankID": 13
   }
  ],

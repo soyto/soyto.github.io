@@ -2,9 +2,9 @@
  "characterID": 312824,
  "characterClassID": 11,
  "raceID": 0,
- "position": 312,
- "rankingPositionChange": -2,
- "gloryPoint": 9871,
+ "position": 311,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9843,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Messer",
@@ -280,6 +280,14 @@
    "position": 312,
    "rankingPositionChange": -2,
    "gloryPoint": 9871,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9843,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 501056,
  "characterClassID": 1,
  "raceID": 1,
- "position": 209,
- "rankingPositionChange": 4,
- "gloryPoint": 53758,
- "gloryPointChange": 526,
+ "position": 210,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53709,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Noula",
  "guildName": "Coeur noir",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 53758,
    "gloryPointChange": 526,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 210,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53709,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

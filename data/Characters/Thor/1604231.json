@@ -2,9 +2,9 @@
  "characterID": 1604231,
  "characterClassID": 5,
  "raceID": 0,
- "position": 747,
- "rankingPositionChange": 0,
- "gloryPoint": 23027,
+ "position": 752,
+ "rankingPositionChange": -5,
+ "gloryPoint": 23020,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ledian",
@@ -278,6 +278,14 @@
    "position": 747,
    "rankingPositionChange": 0,
    "gloryPoint": 23027,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 752,
+   "rankingPositionChange": -5,
+   "gloryPoint": 23020,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

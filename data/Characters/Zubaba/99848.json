@@ -2,10 +2,10 @@
  "characterID": 99848,
  "characterClassID": 16,
  "raceID": 0,
- "position": 65,
- "rankingPositionChange": 0,
- "gloryPoint": 132603,
- "gloryPointChange": -107,
+ "position": 66,
+ "rankingPositionChange": -1,
+ "gloryPoint": 132389,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Megna",
  "guildName": "Soul Reapers",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 132603,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 66,
+   "rankingPositionChange": -1,
+   "gloryPoint": 132389,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

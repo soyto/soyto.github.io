@@ -2,9 +2,9 @@
  "characterID": 237536,
  "characterClassID": 10,
  "raceID": 1,
- "position": 153,
- "rankingPositionChange": -1,
- "gloryPoint": 60269,
+ "position": 152,
+ "rankingPositionChange": 1,
+ "gloryPoint": 60220,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lisha",
@@ -278,6 +278,14 @@
    "position": 153,
    "rankingPositionChange": -1,
    "gloryPoint": 60269,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 152,
+   "rankingPositionChange": 1,
+   "gloryPoint": 60220,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

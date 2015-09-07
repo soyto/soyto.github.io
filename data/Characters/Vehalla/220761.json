@@ -2,9 +2,9 @@
  "characterID": 220761,
  "characterClassID": 4,
  "raceID": 1,
- "position": 128,
- "rankingPositionChange": -1,
- "gloryPoint": 44793,
+ "position": 127,
+ "rankingPositionChange": 1,
+ "gloryPoint": 44744,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Haxorus",
@@ -280,6 +280,14 @@
    "position": 128,
    "rankingPositionChange": -1,
    "gloryPoint": 44793,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": 1,
+   "gloryPoint": 44744,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

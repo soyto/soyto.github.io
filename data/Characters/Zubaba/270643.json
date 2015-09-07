@@ -2,9 +2,9 @@
  "characterID": 270643,
  "characterClassID": 8,
  "raceID": 0,
- "position": 937,
- "rankingPositionChange": -3,
- "gloryPoint": 3310,
+ "position": 936,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3303,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Fizz",
@@ -278,6 +278,14 @@
    "position": 937,
    "rankingPositionChange": -3,
    "gloryPoint": 3310,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 936,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3303,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

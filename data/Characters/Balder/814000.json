@@ -2,10 +2,10 @@
  "characterID": 814000,
  "characterClassID": 16,
  "raceID": 1,
- "position": 655,
- "rankingPositionChange": 2,
- "gloryPoint": 1286,
- "gloryPointChange": 17,
+ "position": 660,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1279,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Merilla",
  "guildName": "Bloody Tears of Angels",
@@ -73,6 +73,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 1286,
    "gloryPointChange": 17,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 660,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1279,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

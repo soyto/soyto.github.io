@@ -2,10 +2,10 @@
  "characterID": 854442,
  "characterClassID": 11,
  "raceID": 0,
- "position": 45,
- "rankingPositionChange": 0,
- "gloryPoint": 145463,
- "gloryPointChange": 443,
+ "position": 46,
+ "rankingPositionChange": -1,
+ "gloryPoint": 145524,
+ "gloryPointChange": 61,
  "soldierRankID": 14,
  "characterName": "Anotherchanter",
  "guildName": "Welcome to PvE",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 145463,
    "gloryPointChange": 443,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 46,
+   "rankingPositionChange": -1,
+   "gloryPoint": 145524,
+   "gloryPointChange": 61,
    "soldierRankID": 14
   }
  ],

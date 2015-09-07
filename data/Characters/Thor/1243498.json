@@ -2,9 +2,9 @@
  "characterID": 1243498,
  "characterClassID": 4,
  "raceID": 0,
- "position": 305,
- "rankingPositionChange": 0,
- "gloryPoint": 63001,
+ "position": 307,
+ "rankingPositionChange": -2,
+ "gloryPoint": 62973,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Cacpoo",
@@ -232,6 +232,14 @@
    "position": 305,
    "rankingPositionChange": 0,
    "gloryPoint": 63001,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 307,
+   "rankingPositionChange": -2,
+   "gloryPoint": 62973,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

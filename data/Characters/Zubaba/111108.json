@@ -2,9 +2,9 @@
  "characterID": 111108,
  "characterClassID": 11,
  "raceID": 1,
- "position": 145,
- "rankingPositionChange": -1,
- "gloryPoint": 64289,
+ "position": 144,
+ "rankingPositionChange": 1,
+ "gloryPoint": 64240,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Raessee",
@@ -280,6 +280,14 @@
    "position": 145,
    "rankingPositionChange": -1,
    "gloryPoint": 64289,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": 1,
+   "gloryPoint": 64240,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

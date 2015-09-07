@@ -2,10 +2,10 @@
  "characterID": 730588,
  "characterClassID": 11,
  "raceID": 0,
- "position": 692,
- "rankingPositionChange": -1,
- "gloryPoint": 8811,
- "gloryPointChange": -14,
+ "position": 678,
+ "rankingPositionChange": 14,
+ "gloryPoint": 9159,
+ "gloryPointChange": 348,
  "soldierRankID": 11,
  "characterName": "Maderdin",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 8811,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 678,
+   "rankingPositionChange": 14,
+   "gloryPoint": 9159,
+   "gloryPointChange": 348,
    "soldierRankID": 11
   }
  ],

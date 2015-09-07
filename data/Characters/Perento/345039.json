@@ -2,9 +2,9 @@
  "characterID": 345039,
  "characterClassID": 11,
  "raceID": 1,
- "position": 180,
- "rankingPositionChange": 0,
- "gloryPoint": 50904,
+ "position": 181,
+ "rankingPositionChange": -1,
+ "gloryPoint": 50855,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hlectra",
@@ -280,6 +280,14 @@
    "position": 180,
    "rankingPositionChange": 0,
    "gloryPoint": 50904,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 181,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50855,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

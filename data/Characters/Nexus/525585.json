@@ -2,9 +2,9 @@
  "characterID": 525585,
  "characterClassID": 1,
  "raceID": 0,
- "position": 655,
- "rankingPositionChange": 1,
- "gloryPoint": 10926,
+ "position": 660,
+ "rankingPositionChange": -5,
+ "gloryPoint": 10912,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Bitchez",
@@ -238,6 +238,14 @@
    "position": 655,
    "rankingPositionChange": 1,
    "gloryPoint": 10926,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 660,
+   "rankingPositionChange": -5,
+   "gloryPoint": 10912,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -3,9 +3,9 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 319,
- "rankingPositionChange": 2,
- "gloryPoint": 21201,
- "gloryPointChange": 313,
+ "rankingPositionChange": 0,
+ "gloryPoint": 21173,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Toonami",
  "guildName": "Flawless Victory",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 21201,
    "gloryPointChange": 313,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 319,
+   "rankingPositionChange": 0,
+   "gloryPoint": 21173,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

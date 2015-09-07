@@ -2,9 +2,9 @@
  "characterID": 844644,
  "characterClassID": 10,
  "raceID": 0,
- "position": 584,
- "rankingPositionChange": 0,
- "gloryPoint": 11303,
+ "position": 585,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11289,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Evikzolcz",
@@ -280,6 +280,14 @@
    "position": 584,
    "rankingPositionChange": 0,
    "gloryPoint": 11303,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 585,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11289,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 1369064,
  "characterClassID": 10,
  "raceID": 0,
- "position": 848,
- "rankingPositionChange": 4,
- "gloryPoint": 7153,
- "gloryPointChange": 53,
+ "position": 847,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7149,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Healea",
  "guildName": "Czech Legend",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 7153,
    "gloryPointChange": 53,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 847,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7149,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

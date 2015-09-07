@@ -2,9 +2,9 @@
  "characterID": 364783,
  "characterClassID": 14,
  "raceID": 0,
- "position": 50,
- "rankingPositionChange": 0,
- "gloryPoint": 131852,
+ "position": 52,
+ "rankingPositionChange": -2,
+ "gloryPoint": 131745,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Akato",
@@ -278,6 +278,14 @@
    "position": 50,
    "rankingPositionChange": 0,
    "gloryPoint": 131852,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 52,
+   "rankingPositionChange": -2,
+   "gloryPoint": 131745,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

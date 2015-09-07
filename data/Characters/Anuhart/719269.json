@@ -2,9 +2,9 @@
  "characterID": 719269,
  "characterClassID": 4,
  "raceID": 0,
- "position": 806,
- "rankingPositionChange": 3,
- "gloryPoint": 6487,
+ "position": 808,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6480,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Iel",
@@ -278,6 +278,14 @@
    "position": 806,
    "rankingPositionChange": 3,
    "gloryPoint": 6487,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 808,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6480,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

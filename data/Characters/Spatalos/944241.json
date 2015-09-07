@@ -2,9 +2,9 @@
  "characterID": 944241,
  "characterClassID": 8,
  "raceID": 0,
- "position": 851,
- "rankingPositionChange": 2,
- "gloryPoint": 8883,
+ "position": 856,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8876,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mairy",
@@ -206,6 +206,14 @@
    "position": 851,
    "rankingPositionChange": 2,
    "gloryPoint": 8883,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 856,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8876,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

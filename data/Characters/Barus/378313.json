@@ -2,9 +2,9 @@
  "characterID": 378313,
  "characterClassID": 7,
  "raceID": 1,
- "position": 858,
- "rankingPositionChange": 2,
- "gloryPoint": 12904,
+ "position": 863,
+ "rankingPositionChange": -5,
+ "gloryPoint": 12897,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Salemus",
@@ -280,6 +280,14 @@
    "position": 858,
    "rankingPositionChange": 2,
    "gloryPoint": 12904,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 863,
+   "rankingPositionChange": -5,
+   "gloryPoint": 12897,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

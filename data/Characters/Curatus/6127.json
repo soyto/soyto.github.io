@@ -2,10 +2,10 @@
  "characterID": 6127,
  "characterClassID": 5,
  "raceID": 0,
- "position": 623,
- "rankingPositionChange": 0,
- "gloryPoint": 21021,
- "gloryPointChange": 57,
+ "position": 625,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21007,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Drugo",
  "guildName": "Empyrean Lords",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 21021,
    "gloryPointChange": 57,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 625,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21007,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

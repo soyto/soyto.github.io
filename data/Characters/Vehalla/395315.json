@@ -2,9 +2,9 @@
  "characterID": 395315,
  "characterClassID": 11,
  "raceID": 0,
- "position": 439,
- "rankingPositionChange": 0,
- "gloryPoint": 4133,
+ "position": 443,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4105,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kuruna",
@@ -278,6 +278,14 @@
    "position": 439,
    "rankingPositionChange": 0,
    "gloryPoint": 4133,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 443,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4105,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

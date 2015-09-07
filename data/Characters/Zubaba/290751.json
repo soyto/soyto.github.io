@@ -2,10 +2,10 @@
  "characterID": 290751,
  "characterClassID": 2,
  "raceID": 1,
- "position": 449,
- "rankingPositionChange": 10,
- "gloryPoint": 11245,
- "gloryPointChange": 256,
+ "position": 450,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11436,
+ "gloryPointChange": 191,
  "soldierRankID": 12,
  "characterName": "Tersekiz",
  "guildName": "ANCHOR",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 11245,
    "gloryPointChange": 256,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11436,
+   "gloryPointChange": 191,
    "soldierRankID": 12
   }
  ],

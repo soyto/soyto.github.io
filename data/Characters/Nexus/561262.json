@@ -2,10 +2,10 @@
  "characterID": 561262,
  "characterClassID": 4,
  "raceID": 1,
- "position": 814,
- "rankingPositionChange": 8,
- "gloryPoint": 12167,
- "gloryPointChange": 309,
+ "position": 823,
+ "rankingPositionChange": -9,
+ "gloryPoint": 12163,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Inckredible",
  "guildName": "WeAreLegion",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 12167,
    "gloryPointChange": 309,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 823,
+   "rankingPositionChange": -9,
+   "gloryPoint": 12163,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

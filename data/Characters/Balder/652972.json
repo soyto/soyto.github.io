@@ -2,9 +2,9 @@
  "characterID": 652972,
  "characterClassID": 1,
  "raceID": 0,
- "position": 507,
- "rankingPositionChange": 4,
- "gloryPoint": 6871,
+ "position": 509,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6857,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kalirasar",
@@ -272,6 +272,14 @@
    "position": 507,
    "rankingPositionChange": 4,
    "gloryPoint": 6871,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 509,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6857,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 296917,
  "characterClassID": 4,
  "raceID": 1,
- "position": 57,
- "rankingPositionChange": 0,
- "gloryPoint": 116916,
+ "position": 58,
+ "rankingPositionChange": -1,
+ "gloryPoint": 116809,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Kahlie",
@@ -280,6 +280,14 @@
    "position": 57,
    "rankingPositionChange": 0,
    "gloryPoint": 116916,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": -1,
+   "gloryPoint": 116809,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

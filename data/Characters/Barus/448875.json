@@ -2,9 +2,9 @@
  "characterID": 448875,
  "characterClassID": 5,
  "raceID": 1,
- "position": 704,
- "rankingPositionChange": 0,
- "gloryPoint": 17992,
+ "position": 705,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17985,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Majoneez",
@@ -280,6 +280,14 @@
    "position": 704,
    "rankingPositionChange": 0,
    "gloryPoint": 17992,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 705,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17985,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

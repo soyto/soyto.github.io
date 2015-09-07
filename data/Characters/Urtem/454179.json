@@ -2,9 +2,9 @@
  "characterID": 454179,
  "characterClassID": 2,
  "raceID": 0,
- "position": 666,
- "rankingPositionChange": 1,
- "gloryPoint": 24514,
+ "position": 676,
+ "rankingPositionChange": -10,
+ "gloryPoint": 24500,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Berial",
@@ -280,6 +280,14 @@
    "position": 666,
    "rankingPositionChange": 1,
    "gloryPoint": 24514,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": -10,
+   "gloryPoint": 24500,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

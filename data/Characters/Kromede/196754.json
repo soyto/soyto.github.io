@@ -2,9 +2,9 @@
  "characterID": 196754,
  "characterClassID": 5,
  "raceID": 0,
- "position": 659,
- "rankingPositionChange": 0,
- "gloryPoint": 17384,
+ "position": 660,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17370,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Fruchttigger",
@@ -152,6 +152,14 @@
    "position": 659,
    "rankingPositionChange": 0,
    "gloryPoint": 17384,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 660,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17370,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

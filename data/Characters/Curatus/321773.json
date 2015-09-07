@@ -2,10 +2,10 @@
  "characterID": 321773,
  "characterClassID": 1,
  "raceID": 1,
- "position": 628,
- "rankingPositionChange": 11,
- "gloryPoint": 8484,
- "gloryPointChange": 236,
+ "position": 632,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8470,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Africanboy",
  "guildName": "Asgard",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 8484,
    "gloryPointChange": 236,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 632,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8470,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

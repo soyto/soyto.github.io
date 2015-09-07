@@ -2,9 +2,9 @@
  "characterID": 256118,
  "characterClassID": 4,
  "raceID": 0,
- "position": 832,
- "rankingPositionChange": 0,
- "gloryPoint": 9411,
+ "position": 833,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9404,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kattie",
@@ -280,6 +280,14 @@
    "position": 832,
    "rankingPositionChange": 0,
    "gloryPoint": 9411,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9404,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

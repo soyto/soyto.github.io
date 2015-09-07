@@ -2,10 +2,10 @@
  "characterID": 550751,
  "characterClassID": 8,
  "raceID": 0,
- "position": 919,
- "rankingPositionChange": 43,
- "gloryPoint": 1286,
- "gloryPointChange": 8,
+ "position": 926,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1279,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Oxsir",
  "guildName": "Frozen Moon",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 43,
    "gloryPoint": 1286,
    "gloryPointChange": 8,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1279,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

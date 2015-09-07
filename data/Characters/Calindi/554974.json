@@ -2,9 +2,9 @@
  "characterID": 554974,
  "characterClassID": 16,
  "raceID": 0,
- "position": 886,
- "rankingPositionChange": 1,
- "gloryPoint": 1400,
+ "position": 892,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1393,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kenzaa",
@@ -264,6 +264,14 @@
    "position": 886,
    "rankingPositionChange": 1,
    "gloryPoint": 1400,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 892,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1393,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

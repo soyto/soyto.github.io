@@ -2,9 +2,9 @@
  "characterID": 555595,
  "characterClassID": 11,
  "raceID": 0,
- "position": 552,
- "rankingPositionChange": 2,
- "gloryPoint": 30569,
+ "position": 561,
+ "rankingPositionChange": -9,
+ "gloryPoint": 30555,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Geminijune",
@@ -280,6 +280,14 @@
    "position": 552,
    "rankingPositionChange": 2,
    "gloryPoint": 30569,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 561,
+   "rankingPositionChange": -9,
+   "gloryPoint": 30555,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

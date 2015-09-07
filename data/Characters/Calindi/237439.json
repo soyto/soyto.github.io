@@ -2,9 +2,9 @@
  "characterID": 237439,
  "characterClassID": 2,
  "raceID": 0,
- "position": 252,
- "rankingPositionChange": 1,
- "gloryPoint": 26609,
+ "position": 254,
+ "rankingPositionChange": -2,
+ "gloryPoint": 26560,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Justpower",
@@ -278,6 +278,14 @@
    "position": 252,
    "rankingPositionChange": 1,
    "gloryPoint": 26609,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 254,
+   "rankingPositionChange": -2,
+   "gloryPoint": 26560,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

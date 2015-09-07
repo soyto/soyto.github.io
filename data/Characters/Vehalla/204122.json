@@ -2,9 +2,9 @@
  "characterID": 204122,
  "characterClassID": 10,
  "raceID": 1,
- "position": 341,
- "rankingPositionChange": 3,
- "gloryPoint": 7196,
+ "position": 342,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7168,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Denaris",
@@ -278,6 +278,14 @@
    "position": 341,
    "rankingPositionChange": 3,
    "gloryPoint": 7196,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 342,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7168,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

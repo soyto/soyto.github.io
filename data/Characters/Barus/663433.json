@@ -2,14 +2,14 @@
  "characterID": 663433,
  "characterClassID": 10,
  "raceID": 1,
- "position": 941,
- "rankingPositionChange": 1,
- "gloryPoint": 10853,
- "gloryPointChange": -7,
+ "position": 920,
+ "rankingPositionChange": 21,
+ "gloryPoint": 11436,
+ "gloryPointChange": 583,
  "soldierRankID": 10,
  "characterName": "Kiyome",
- "guildName": "Stormwings Stole My Bike",
- "guildID": 11613,
+ "guildName": "GANG",
+ "guildID": 13592,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 10853,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 920,
+   "rankingPositionChange": 21,
+   "gloryPoint": 11436,
+   "gloryPointChange": 583,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Stormwings Stole My Bike",
    "guildID": 11613
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "GANG",
+   "guildID": 13592
   }
  ]
 }

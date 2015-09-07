@@ -2,9 +2,9 @@
  "characterID": 293068,
  "characterClassID": 4,
  "raceID": 0,
- "position": 740,
- "rankingPositionChange": 2,
- "gloryPoint": 7859,
+ "position": 744,
+ "rankingPositionChange": -4,
+ "gloryPoint": 7852,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Stash",
@@ -280,6 +280,14 @@
    "position": 740,
    "rankingPositionChange": 2,
    "gloryPoint": 7859,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 744,
+   "rankingPositionChange": -4,
+   "gloryPoint": 7852,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

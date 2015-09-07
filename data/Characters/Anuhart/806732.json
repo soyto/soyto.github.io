@@ -2,9 +2,9 @@
  "characterID": 806732,
  "characterClassID": 7,
  "raceID": 0,
- "position": 789,
- "rankingPositionChange": 4,
- "gloryPoint": 6778,
+ "position": 795,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6771,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zindira",
@@ -280,6 +280,14 @@
    "position": 789,
    "rankingPositionChange": 4,
    "gloryPoint": 6778,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 795,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6771,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

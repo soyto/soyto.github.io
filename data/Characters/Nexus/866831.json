@@ -2,12 +2,14 @@
  "characterID": 866831,
  "characterClassID": 4,
  "raceID": 1,
- "position": 489,
- "rankingPositionChange": -2,
- "gloryPoint": 28801,
- "gloryPointChange": -28,
+ "position": 495,
+ "rankingPositionChange": -6,
+ "gloryPoint": 28782,
+ "gloryPointChange": -19,
  "soldierRankID": 12,
  "characterName": "Nephelim",
+ "guildName": "UndisputeD",
+ "guildID": 13531,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -112,6 +114,14 @@
    "gloryPoint": 28801,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 495,
+   "rankingPositionChange": -6,
+   "gloryPoint": 28782,
+   "gloryPointChange": -19,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -123,6 +133,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "UndisputeD",
+   "guildID": 13531
   }
  ]
 }

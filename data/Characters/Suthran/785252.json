@@ -2,10 +2,10 @@
  "characterID": 785252,
  "characterClassID": 1,
  "raceID": 1,
- "position": 399,
- "rankingPositionChange": 0,
- "gloryPoint": 21356,
- "gloryPointChange": -56,
+ "position": 400,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21328,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Spartis",
  "guildName": " Eclypse ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 21356,
    "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 400,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21328,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1246423,
  "characterClassID": 13,
  "raceID": 0,
- "position": 193,
- "rankingPositionChange": -1,
- "gloryPoint": 75702,
- "gloryPointChange": 101,
+ "position": 192,
+ "rankingPositionChange": 1,
+ "gloryPoint": 75978,
+ "gloryPointChange": 276,
  "soldierRankID": 13,
  "characterName": "Arbalest",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 75702,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 192,
+   "rankingPositionChange": 1,
+   "gloryPoint": 75978,
+   "gloryPointChange": 276,
    "soldierRankID": 13
   }
  ],

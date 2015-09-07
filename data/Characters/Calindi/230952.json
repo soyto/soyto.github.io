@@ -2,9 +2,9 @@
  "characterID": 230952,
  "characterClassID": 10,
  "raceID": 0,
- "position": 177,
- "rankingPositionChange": 1,
- "gloryPoint": 45113,
+ "position": 179,
+ "rankingPositionChange": -2,
+ "gloryPoint": 45064,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Mokuton",
@@ -280,6 +280,14 @@
    "position": 177,
    "rankingPositionChange": 1,
    "gloryPoint": 45113,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 179,
+   "rankingPositionChange": -2,
+   "gloryPoint": 45064,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

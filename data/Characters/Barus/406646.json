@@ -2,14 +2,12 @@
  "characterID": 406646,
  "characterClassID": 7,
  "raceID": 0,
- "position": 613,
- "rankingPositionChange": 0,
- "gloryPoint": 22549,
+ "position": 612,
+ "rankingPositionChange": 1,
+ "gloryPoint": 22535,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Munri",
- "guildName": "Invictum",
- "guildID": 8783,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 22549,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": 1,
+   "gloryPoint": 22535,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Invictum",
    "guildID": 8783
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

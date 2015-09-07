@@ -2,10 +2,10 @@
  "characterID": 106614,
  "characterClassID": 5,
  "raceID": 1,
- "position": 834,
- "rankingPositionChange": 8,
- "gloryPoint": 2144,
- "gloryPointChange": 93,
+ "position": 836,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2137,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aox",
  "guildName": "ESKiDOSTLAR",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 2144,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 836,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2137,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

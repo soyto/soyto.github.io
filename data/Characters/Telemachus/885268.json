@@ -2,9 +2,9 @@
  "characterID": 885268,
  "characterClassID": 5,
  "raceID": 0,
- "position": 455,
- "rankingPositionChange": 0,
- "gloryPoint": 27293,
+ "position": 456,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27265,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Cybershott",
@@ -256,6 +256,14 @@
    "position": 455,
    "rankingPositionChange": 0,
    "gloryPoint": 27293,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27265,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

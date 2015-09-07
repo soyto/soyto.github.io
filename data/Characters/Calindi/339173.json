@@ -2,10 +2,10 @@
  "characterID": 339173,
  "characterClassID": 8,
  "raceID": 0,
- "position": 533,
- "rankingPositionChange": 1,
- "gloryPoint": 5059,
- "gloryPointChange": 36,
+ "position": 538,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5045,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Narusaigawa",
  "guildName": "Burn With Me",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 5059,
    "gloryPointChange": 36,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5045,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

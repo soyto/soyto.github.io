@@ -2,14 +2,12 @@
  "characterID": 1387581,
  "characterClassID": 14,
  "raceID": 0,
- "position": 871,
- "rankingPositionChange": 32,
- "gloryPoint": 6682,
- "gloryPointChange": 549,
+ "position": 844,
+ "rankingPositionChange": 27,
+ "gloryPoint": 7192,
+ "gloryPointChange": 510,
  "soldierRankID": 10,
  "characterName": "Lethalgun",
- "guildName": "The Darkwind",
- "guildID": 27578,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -42,6 +40,14 @@
    "gloryPoint": 6682,
    "gloryPointChange": 549,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 844,
+   "rankingPositionChange": 27,
+   "gloryPoint": 7192,
+   "gloryPointChange": 510,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -60,6 +66,9 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "The Darkwind",
    "guildID": 27578
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

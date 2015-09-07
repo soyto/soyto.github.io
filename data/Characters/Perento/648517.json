@@ -2,9 +2,9 @@
  "characterID": 648517,
  "characterClassID": 7,
  "raceID": 1,
- "position": 554,
- "rankingPositionChange": 0,
- "gloryPoint": 6664,
+ "position": 555,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6650,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Chayenne",
@@ -278,6 +278,14 @@
    "position": 554,
    "rankingPositionChange": 0,
    "gloryPoint": 6664,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 555,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6650,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

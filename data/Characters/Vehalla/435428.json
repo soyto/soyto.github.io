@@ -2,9 +2,9 @@
  "characterID": 435428,
  "characterClassID": 10,
  "raceID": 1,
- "position": 526,
- "rankingPositionChange": 4,
- "gloryPoint": 1681,
+ "position": 535,
+ "rankingPositionChange": -9,
+ "gloryPoint": 1667,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Yuaris",
@@ -280,6 +280,14 @@
    "position": 526,
    "rankingPositionChange": 4,
    "gloryPoint": 1681,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 535,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1667,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

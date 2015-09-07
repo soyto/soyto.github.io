@@ -2,10 +2,10 @@
  "characterID": 4542,
  "characterClassID": 8,
  "raceID": 0,
- "position": 857,
- "rankingPositionChange": 4,
- "gloryPoint": 11560,
- "gloryPointChange": 63,
+ "position": 858,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11788,
+ "gloryPointChange": 228,
  "soldierRankID": 10,
  "characterName": "Sparhawk",
  "guildName": "JFF",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 11560,
    "gloryPointChange": 63,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 858,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11788,
+   "gloryPointChange": 228,
    "soldierRankID": 10
   }
  ],

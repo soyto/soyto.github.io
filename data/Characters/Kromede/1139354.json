@@ -2,10 +2,10 @@
  "characterID": 1139354,
  "characterClassID": 7,
  "raceID": 0,
- "position": 256,
- "rankingPositionChange": 0,
- "gloryPoint": 51023,
- "gloryPointChange": 51,
+ "position": 257,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51054,
+ "gloryPointChange": 31,
  "soldierRankID": 13,
  "characterName": "Varalia",
  "guildName": "DeQuIroX",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 51023,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 257,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51054,
+   "gloryPointChange": 31,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 867593,
  "characterClassID": 16,
  "raceID": 1,
- "position": 234,
- "rankingPositionChange": 0,
- "gloryPoint": 39889,
- "gloryPointChange": 1,
+ "position": 235,
+ "rankingPositionChange": -1,
+ "gloryPoint": 39840,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Cindorella",
  "guildName": "ValarMorghulis",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 39889,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 235,
+   "rankingPositionChange": -1,
+   "gloryPoint": 39840,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

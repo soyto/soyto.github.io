@@ -2,9 +2,9 @@
  "characterID": 1326068,
  "characterClassID": 14,
  "raceID": 0,
- "position": 813,
- "rankingPositionChange": 2,
- "gloryPoint": 9829,
+ "position": 816,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9822,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dimmis",
@@ -278,6 +278,14 @@
    "position": 813,
    "rankingPositionChange": 2,
    "gloryPoint": 9829,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 816,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9822,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 261987,
  "characterClassID": 11,
  "raceID": 0,
- "position": 818,
- "rankingPositionChange": 1,
- "gloryPoint": 18075,
+ "position": 832,
+ "rankingPositionChange": -14,
+ "gloryPoint": 18068,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Prety",
@@ -280,6 +280,14 @@
    "position": 818,
    "rankingPositionChange": 1,
    "gloryPoint": 18075,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 832,
+   "rankingPositionChange": -14,
+   "gloryPoint": 18068,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

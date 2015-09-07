@@ -2,12 +2,14 @@
  "characterID": 7492,
  "characterClassID": 10,
  "raceID": 1,
- "position": 157,
- "rankingPositionChange": -2,
- "gloryPoint": 59586,
+ "position": 156,
+ "rankingPositionChange": 1,
+ "gloryPoint": 59537,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Roxxo",
+ "guildName": "Bosphorus",
+ "guildID": 1226,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 59586,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 156,
+   "rankingPositionChange": 1,
+   "gloryPoint": 59537,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Bosphorus",
+   "guildID": 1226
   }
  ]
 }

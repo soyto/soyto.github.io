@@ -2,12 +2,14 @@
  "characterID": 1075435,
  "characterClassID": 14,
  "raceID": 1,
- "position": 757,
- "rankingPositionChange": -4,
- "gloryPoint": 8183,
- "gloryPointChange": -7,
+ "position": 754,
+ "rankingPositionChange": 3,
+ "gloryPoint": 8510,
+ "gloryPointChange": 327,
  "soldierRankID": 10,
  "characterName": "Melissine",
+ "guildName": "  Night Raid ",
+ "guildID": 42588,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 8183,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 754,
+   "rankingPositionChange": 3,
+   "gloryPoint": 8510,
+   "gloryPointChange": 327,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "  Night Raid ",
+   "guildID": 42588
   }
  ]
 }

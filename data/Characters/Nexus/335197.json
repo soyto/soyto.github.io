@@ -2,9 +2,9 @@
  "characterID": 335197,
  "characterClassID": 11,
  "raceID": 0,
- "position": 367,
- "rankingPositionChange": 0,
- "gloryPoint": 26320,
+ "position": 371,
+ "rankingPositionChange": -4,
+ "gloryPoint": 26292,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Reyzel",
@@ -280,6 +280,14 @@
    "position": 367,
    "rankingPositionChange": 0,
    "gloryPoint": 26320,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 371,
+   "rankingPositionChange": -4,
+   "gloryPoint": 26292,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,10 +2,10 @@
  "characterID": 345233,
  "characterClassID": 4,
  "raceID": 0,
- "position": 571,
- "rankingPositionChange": 0,
- "gloryPoint": 20098,
- "gloryPointChange": 14,
+ "position": 569,
+ "rankingPositionChange": 2,
+ "gloryPoint": 20084,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sirow",
  "guildName": "UnioN",
@@ -209,6 +209,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 20098,
    "gloryPointChange": 14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 569,
+   "rankingPositionChange": 2,
+   "gloryPoint": 20084,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1185933,
  "characterClassID": 7,
  "raceID": 0,
- "position": 946,
- "rankingPositionChange": -1,
- "gloryPoint": 9192,
+ "position": 945,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9185,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chayax",
@@ -278,6 +278,14 @@
    "position": 946,
    "rankingPositionChange": -1,
    "gloryPoint": 9192,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9185,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 190159,
  "characterClassID": 10,
  "raceID": 0,
- "position": 896,
- "rankingPositionChange": 3,
- "gloryPoint": 1334,
+ "position": 906,
+ "rankingPositionChange": -10,
+ "gloryPoint": 1327,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dolliprane",
@@ -280,6 +280,14 @@
    "position": 896,
    "rankingPositionChange": 3,
    "gloryPoint": 1334,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 906,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1327,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

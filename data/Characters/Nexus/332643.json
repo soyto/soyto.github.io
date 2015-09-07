@@ -2,10 +2,10 @@
  "characterID": 332643,
  "characterClassID": 4,
  "raceID": 0,
- "position": 220,
+ "position": 221,
  "rankingPositionChange": -1,
- "gloryPoint": 49668,
- "gloryPointChange": 104,
+ "gloryPoint": 49619,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Iguanas",
  "guildName": "HellsArmy",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 49668,
    "gloryPointChange": 104,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 221,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49619,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

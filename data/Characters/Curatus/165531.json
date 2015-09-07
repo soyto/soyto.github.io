@@ -2,9 +2,9 @@
  "characterID": 165531,
  "characterClassID": 14,
  "raceID": 1,
- "position": 911,
- "rankingPositionChange": 1,
- "gloryPoint": 3821,
+ "position": 916,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3814,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Leeyam",
@@ -270,6 +270,14 @@
    "position": 911,
    "rankingPositionChange": 1,
    "gloryPoint": 3821,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3814,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

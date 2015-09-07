@@ -2,14 +2,12 @@
  "characterID": 781801,
  "characterClassID": 8,
  "raceID": 0,
- "position": 303,
- "rankingPositionChange": 0,
- "gloryPoint": 51009,
- "gloryPointChange": -28,
+ "position": 301,
+ "rankingPositionChange": 2,
+ "gloryPoint": 51241,
+ "gloryPointChange": 232,
  "soldierRankID": 12,
  "characterName": "Kisbugyi",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 51009,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 301,
+   "rankingPositionChange": 2,
+   "gloryPoint": 51241,
+   "gloryPointChange": 232,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

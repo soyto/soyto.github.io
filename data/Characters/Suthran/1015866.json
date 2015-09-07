@@ -2,12 +2,14 @@
  "characterID": 1015866,
  "characterClassID": 2,
  "raceID": 1,
- "position": 269,
- "rankingPositionChange": 4,
- "gloryPoint": 39916,
- "gloryPointChange": 251,
+ "position": 266,
+ "rankingPositionChange": 3,
+ "gloryPoint": 40681,
+ "gloryPointChange": 765,
  "soldierRankID": 13,
  "characterName": "Abadom",
+ "guildName": "The Stand Alone",
+ "guildID": 43714,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 39916,
    "gloryPointChange": 251,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 266,
+   "rankingPositionChange": 3,
+   "gloryPoint": 40681,
+   "gloryPointChange": 765,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-29T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "The Stand Alone",
+   "guildID": 43714
   }
  ]
 }

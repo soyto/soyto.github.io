@@ -2,10 +2,10 @@
  "characterID": 501073,
  "characterClassID": 10,
  "raceID": 1,
- "position": 960,
- "rankingPositionChange": 6,
- "gloryPoint": 5966,
- "gloryPointChange": 93,
+ "position": 961,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5959,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zaragooozano",
  "guildName": "Elder",
@@ -121,6 +121,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 5966,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5959,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

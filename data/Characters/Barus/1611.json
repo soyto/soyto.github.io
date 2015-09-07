@@ -2,9 +2,9 @@
  "characterID": 1611,
  "characterClassID": 11,
  "raceID": 1,
- "position": 565,
- "rankingPositionChange": 1,
- "gloryPoint": 23567,
+ "position": 569,
+ "rankingPositionChange": -4,
+ "gloryPoint": 23553,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sakramento",
@@ -280,6 +280,14 @@
    "position": 565,
    "rankingPositionChange": 1,
    "gloryPoint": 23567,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 569,
+   "rankingPositionChange": -4,
+   "gloryPoint": 23553,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

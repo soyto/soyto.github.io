@@ -2,9 +2,9 @@
  "characterID": 816133,
  "characterClassID": 10,
  "raceID": 0,
- "position": 853,
- "rankingPositionChange": 0,
- "gloryPoint": 6318,
+ "position": 857,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6311,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zikitizi",
@@ -224,6 +224,14 @@
    "position": 853,
    "rankingPositionChange": 0,
    "gloryPoint": 6318,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 857,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6311,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

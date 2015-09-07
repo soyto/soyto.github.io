@@ -2,9 +2,9 @@
  "characterID": 494576,
  "characterClassID": 11,
  "raceID": 1,
- "position": 761,
- "rankingPositionChange": 0,
- "gloryPoint": 17136,
+ "position": 763,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17129,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Monsti",
@@ -280,6 +280,14 @@
    "position": 761,
    "rankingPositionChange": 0,
    "gloryPoint": 17136,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 763,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17129,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

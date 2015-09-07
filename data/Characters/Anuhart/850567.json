@@ -2,10 +2,10 @@
  "characterID": 850567,
  "characterClassID": 16,
  "raceID": 1,
- "position": 606,
- "rankingPositionChange": 4,
- "gloryPoint": 6264,
- "gloryPointChange": 142,
+ "position": 614,
+ "rankingPositionChange": -8,
+ "gloryPoint": 6250,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Haineko",
  "guildName": "First Let Me Take A Selfie",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 6264,
    "gloryPointChange": 142,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 614,
+   "rankingPositionChange": -8,
+   "gloryPoint": 6250,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

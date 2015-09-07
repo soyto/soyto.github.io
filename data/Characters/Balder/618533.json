@@ -2,9 +2,9 @@
  "characterID": 618533,
  "characterClassID": 10,
  "raceID": 1,
- "position": 352,
- "rankingPositionChange": 0,
- "gloryPoint": 6756,
+ "position": 353,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6728,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Nightwrath",
@@ -248,6 +248,14 @@
    "position": 352,
    "rankingPositionChange": 0,
    "gloryPoint": 6756,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 353,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6728,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

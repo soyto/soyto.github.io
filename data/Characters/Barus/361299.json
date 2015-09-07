@@ -2,10 +2,10 @@
  "characterID": 361299,
  "characterClassID": 2,
  "raceID": 1,
- "position": 343,
- "rankingPositionChange": 1,
- "gloryPoint": 43772,
- "gloryPointChange": 75,
+ "position": 345,
+ "rankingPositionChange": -2,
+ "gloryPoint": 43844,
+ "gloryPointChange": 72,
  "soldierRankID": 12,
  "characterName": "Szymonix",
  "guildName": "No Clan ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 43772,
    "gloryPointChange": 75,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 345,
+   "rankingPositionChange": -2,
+   "gloryPoint": 43844,
+   "gloryPointChange": 72,
    "soldierRankID": 12
   }
  ],

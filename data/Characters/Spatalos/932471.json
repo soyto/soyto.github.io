@@ -2,9 +2,9 @@
  "characterID": 932471,
  "characterClassID": 7,
  "raceID": 0,
- "position": 769,
- "rankingPositionChange": 4,
- "gloryPoint": 11445,
+ "position": 771,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11438,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Armenisths",
@@ -280,6 +280,14 @@
    "position": 769,
    "rankingPositionChange": 4,
    "gloryPoint": 11445,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 771,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11438,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

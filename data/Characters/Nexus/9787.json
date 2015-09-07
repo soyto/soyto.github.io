@@ -2,9 +2,9 @@
  "characterID": 9787,
  "characterClassID": 11,
  "raceID": 0,
- "position": 455,
- "rankingPositionChange": 1,
- "gloryPoint": 19772,
+ "position": 457,
+ "rankingPositionChange": -2,
+ "gloryPoint": 19744,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sodan",
@@ -280,6 +280,14 @@
    "position": 455,
    "rankingPositionChange": 1,
    "gloryPoint": 19772,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 457,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19744,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

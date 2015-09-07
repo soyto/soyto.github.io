@@ -2,9 +2,9 @@
  "characterID": 556153,
  "characterClassID": 4,
  "raceID": 1,
- "position": 328,
- "rankingPositionChange": 0,
- "gloryPoint": 46803,
+ "position": 329,
+ "rankingPositionChange": -1,
+ "gloryPoint": 46775,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Dummy",
@@ -280,6 +280,14 @@
    "position": 328,
    "rankingPositionChange": 0,
    "gloryPoint": 46803,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 329,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46775,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

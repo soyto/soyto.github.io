@@ -2,10 +2,10 @@
  "characterID": 41286,
  "characterClassID": 5,
  "raceID": 1,
- "position": 978,
- "rankingPositionChange": -4,
- "gloryPoint": 1245,
- "gloryPointChange": -7,
+ "position": 968,
+ "rankingPositionChange": 10,
+ "gloryPoint": 1247,
+ "gloryPointChange": 2,
  "soldierRankID": 10,
  "characterName": "Gameover",
  "status": [
@@ -119,6 +119,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 1245,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 968,
+   "rankingPositionChange": 10,
+   "gloryPoint": 1247,
+   "gloryPointChange": 2,
    "soldierRankID": 10
   }
  ],

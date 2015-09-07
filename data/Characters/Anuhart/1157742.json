@@ -2,9 +2,9 @@
  "characterID": 1157742,
  "characterClassID": 5,
  "raceID": 0,
- "position": 765,
- "rankingPositionChange": 1,
- "gloryPoint": 7197,
+ "position": 768,
+ "rankingPositionChange": -3,
+ "gloryPoint": 7190,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Goodshott",
@@ -280,6 +280,14 @@
    "position": 765,
    "rankingPositionChange": 1,
    "gloryPoint": 7197,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 768,
+   "rankingPositionChange": -3,
+   "gloryPoint": 7190,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

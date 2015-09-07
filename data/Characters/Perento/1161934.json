@@ -2,9 +2,9 @@
  "characterID": 1161934,
  "characterClassID": 10,
  "raceID": 0,
- "position": 155,
- "rankingPositionChange": 0,
- "gloryPoint": 83622,
+ "position": 156,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83573,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Vaiol",
@@ -280,6 +280,14 @@
    "position": 155,
    "rankingPositionChange": 0,
    "gloryPoint": 83622,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 156,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83573,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

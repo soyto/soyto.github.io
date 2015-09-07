@@ -2,9 +2,9 @@
  "characterID": 560908,
  "characterClassID": 2,
  "raceID": 0,
- "position": 289,
- "rankingPositionChange": 1,
- "gloryPoint": 20537,
+ "position": 291,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20488,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Captainguiness",
@@ -280,6 +280,14 @@
    "position": 289,
    "rankingPositionChange": 1,
    "gloryPoint": 20537,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 291,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20488,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

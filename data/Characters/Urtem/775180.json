@@ -2,9 +2,9 @@
  "characterID": 775180,
  "characterClassID": 2,
  "raceID": 0,
- "position": 560,
- "rankingPositionChange": 3,
- "gloryPoint": 30178,
+ "position": 570,
+ "rankingPositionChange": -10,
+ "gloryPoint": 30164,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Puppetmastaz",
@@ -280,6 +280,14 @@
    "position": 560,
    "rankingPositionChange": 3,
    "gloryPoint": 30178,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 570,
+   "rankingPositionChange": -10,
+   "gloryPoint": 30164,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 90287,
  "characterClassID": 2,
  "raceID": 1,
- "position": 149,
- "rankingPositionChange": 0,
- "gloryPoint": 57532,
- "gloryPointChange": 291,
+ "position": 150,
+ "rankingPositionChange": -1,
+ "gloryPoint": 57599,
+ "gloryPointChange": 67,
  "soldierRankID": 13,
  "characterName": "Zircon",
  "guildName": "Elder",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 57532,
    "gloryPointChange": 291,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": -1,
+   "gloryPoint": 57599,
+   "gloryPointChange": 67,
    "soldierRankID": 13
   }
  ],

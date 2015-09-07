@@ -2,10 +2,10 @@
  "characterID": 893158,
  "characterClassID": 8,
  "raceID": 1,
- "position": 161,
- "rankingPositionChange": 0,
- "gloryPoint": 41575,
- "gloryPointChange": -49,
+ "position": 162,
+ "rankingPositionChange": -1,
+ "gloryPoint": 41576,
+ "gloryPointChange": 1,
  "soldierRankID": 13,
  "characterName": "Hillaryclinton",
  "guildName": "Syntagma",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 41575,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41576,
+   "gloryPointChange": 1,
    "soldierRankID": 13
   }
  ],

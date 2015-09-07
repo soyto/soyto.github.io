@@ -2,9 +2,9 @@
  "characterID": 81348,
  "characterClassID": 1,
  "raceID": 1,
- "position": 517,
- "rankingPositionChange": 4,
- "gloryPoint": 1714,
+ "position": 526,
+ "rankingPositionChange": -9,
+ "gloryPoint": 1700,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Theplague",
@@ -272,6 +272,14 @@
    "position": 517,
    "rankingPositionChange": 4,
    "gloryPoint": 1714,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 526,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1700,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

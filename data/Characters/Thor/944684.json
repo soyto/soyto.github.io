@@ -2,9 +2,9 @@
  "characterID": 944684,
  "characterClassID": 11,
  "raceID": 0,
- "position": 724,
- "rankingPositionChange": 1,
- "gloryPoint": 24277,
+ "position": 730,
+ "rankingPositionChange": -6,
+ "gloryPoint": 24270,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vineah",
@@ -278,6 +278,14 @@
    "position": 724,
    "rankingPositionChange": 1,
    "gloryPoint": 24277,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 730,
+   "rankingPositionChange": -6,
+   "gloryPoint": 24270,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

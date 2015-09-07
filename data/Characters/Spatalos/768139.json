@@ -2,9 +2,9 @@
  "characterID": 768139,
  "characterClassID": 11,
  "raceID": 1,
- "position": 167,
- "rankingPositionChange": 0,
- "gloryPoint": 39540,
+ "position": 169,
+ "rankingPositionChange": -2,
+ "gloryPoint": 39491,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Juster",
@@ -280,6 +280,14 @@
    "position": 167,
    "rankingPositionChange": 0,
    "gloryPoint": 39540,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 169,
+   "rankingPositionChange": -2,
+   "gloryPoint": 39491,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

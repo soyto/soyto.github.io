@@ -2,9 +2,9 @@
  "characterID": 968838,
  "characterClassID": 4,
  "raceID": 0,
- "position": 220,
- "rankingPositionChange": 0,
- "gloryPoint": 35008,
+ "position": 222,
+ "rankingPositionChange": -2,
+ "gloryPoint": 34959,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Quylie",
@@ -280,6 +280,14 @@
    "position": 220,
    "rankingPositionChange": 0,
    "gloryPoint": 35008,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -2,
+   "gloryPoint": 34959,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

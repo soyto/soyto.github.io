@@ -2,9 +2,9 @@
  "characterID": 1122308,
  "characterClassID": 7,
  "raceID": 0,
- "position": 958,
- "rankingPositionChange": 0,
- "gloryPoint": 5314,
+ "position": 953,
+ "rankingPositionChange": 5,
+ "gloryPoint": 5307,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Redrain",
@@ -278,6 +278,14 @@
    "position": 958,
    "rankingPositionChange": 0,
    "gloryPoint": 5314,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 953,
+   "rankingPositionChange": 5,
+   "gloryPoint": 5307,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

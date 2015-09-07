@@ -2,9 +2,9 @@
  "characterID": 396192,
  "characterClassID": 4,
  "raceID": 0,
- "position": 653,
- "rankingPositionChange": 3,
- "gloryPoint": 4124,
+ "position": 654,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4110,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Energize",
@@ -280,6 +280,14 @@
    "position": 653,
    "rankingPositionChange": 3,
    "gloryPoint": 4124,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 654,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4110,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

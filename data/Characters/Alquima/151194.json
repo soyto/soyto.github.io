@@ -2,10 +2,10 @@
  "characterID": 151194,
  "characterClassID": 16,
  "raceID": 1,
- "position": 441,
- "rankingPositionChange": 1,
- "gloryPoint": 18294,
- "gloryPointChange": 72,
+ "position": 443,
+ "rankingPositionChange": -2,
+ "gloryPoint": 18266,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Batalla",
  "guildName": "Helado Oscuro",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 18294,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 443,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18266,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

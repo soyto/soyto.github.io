@@ -2,9 +2,9 @@
  "characterID": 49004,
  "characterClassID": 16,
  "raceID": 1,
- "position": 399,
- "rankingPositionChange": -1,
- "gloryPoint": 15012,
+ "position": 398,
+ "rankingPositionChange": 1,
+ "gloryPoint": 14984,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lilies",
@@ -278,6 +278,14 @@
    "position": 399,
    "rankingPositionChange": -1,
    "gloryPoint": 15012,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 398,
+   "rankingPositionChange": 1,
+   "gloryPoint": 14984,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

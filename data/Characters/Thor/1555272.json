@@ -2,9 +2,9 @@
  "characterID": 1555272,
  "characterClassID": 10,
  "raceID": 0,
- "position": 913,
- "rankingPositionChange": 2,
- "gloryPoint": 16047,
+ "position": 924,
+ "rankingPositionChange": -11,
+ "gloryPoint": 16040,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Anesa",
@@ -136,6 +136,14 @@
    "position": 913,
    "rankingPositionChange": 2,
    "gloryPoint": 16047,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 924,
+   "rankingPositionChange": -11,
+   "gloryPoint": 16040,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

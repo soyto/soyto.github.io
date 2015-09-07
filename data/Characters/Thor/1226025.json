@@ -2,9 +2,9 @@
  "characterID": 1226025,
  "characterClassID": 14,
  "raceID": 1,
- "position": 151,
- "rankingPositionChange": 0,
- "gloryPoint": 93048,
+ "position": 152,
+ "rankingPositionChange": -1,
+ "gloryPoint": 92999,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kashimo",
@@ -280,6 +280,14 @@
    "position": 151,
    "rankingPositionChange": 0,
    "gloryPoint": 93048,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 152,
+   "rankingPositionChange": -1,
+   "gloryPoint": 92999,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

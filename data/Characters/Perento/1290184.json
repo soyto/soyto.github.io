@@ -2,9 +2,9 @@
  "characterID": 1290184,
  "characterClassID": 16,
  "raceID": 1,
- "position": 514,
- "rankingPositionChange": 0,
- "gloryPoint": 7980,
+ "position": 516,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7966,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Suite",
@@ -280,6 +280,14 @@
    "position": 514,
    "rankingPositionChange": 0,
    "gloryPoint": 7980,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 516,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7966,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

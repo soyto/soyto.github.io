@@ -2,9 +2,9 @@
  "characterID": 507163,
  "characterClassID": 14,
  "raceID": 1,
- "position": 788,
- "rankingPositionChange": 3,
- "gloryPoint": 14924,
+ "position": 792,
+ "rankingPositionChange": -4,
+ "gloryPoint": 14917,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Santiano",
@@ -278,6 +278,14 @@
    "position": 788,
    "rankingPositionChange": 3,
    "gloryPoint": 14924,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 792,
+   "rankingPositionChange": -4,
+   "gloryPoint": 14917,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

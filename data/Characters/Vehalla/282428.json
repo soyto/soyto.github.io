@@ -2,9 +2,9 @@
  "characterID": 282428,
  "characterClassID": 7,
  "raceID": 1,
- "position": 652,
- "rankingPositionChange": 0,
- "gloryPoint": 1283,
+ "position": 666,
+ "rankingPositionChange": -14,
+ "gloryPoint": 1276,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xabona",
@@ -136,6 +136,14 @@
    "position": 652,
    "rankingPositionChange": 0,
    "gloryPoint": 1283,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 666,
+   "rankingPositionChange": -14,
+   "gloryPoint": 1276,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

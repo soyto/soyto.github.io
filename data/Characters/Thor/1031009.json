@@ -2,10 +2,10 @@
  "characterID": 1031009,
  "characterClassID": 5,
  "raceID": 1,
- "position": 386,
- "rankingPositionChange": 1,
- "gloryPoint": 38462,
- "gloryPointChange": 103,
+ "position": 387,
+ "rankingPositionChange": -1,
+ "gloryPoint": 38483,
+ "gloryPointChange": 21,
  "soldierRankID": 12,
  "characterName": "Evorun",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 38462,
    "gloryPointChange": 103,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": -1,
+   "gloryPoint": 38483,
+   "gloryPointChange": 21,
    "soldierRankID": 12
   }
  ],

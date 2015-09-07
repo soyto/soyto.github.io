@@ -2,14 +2,14 @@
  "characterID": 752935,
  "characterClassID": 13,
  "raceID": 1,
- "position": 756,
- "rankingPositionChange": 0,
- "gloryPoint": 9599,
- "gloryPointChange": 27,
+ "position": 722,
+ "rankingPositionChange": 34,
+ "gloryPoint": 10530,
+ "gloryPointChange": 931,
  "soldierRankID": 10,
  "characterName": "Hatsure",
- "guildName": "Nemesis",
- "guildID": 3416,
+ "guildName": "XTinCioN",
+ "guildID": 8194,
  "status": [
   {
    "date": "2015-08-21T22:00:00.000Z",
@@ -114,6 +114,14 @@
    "gloryPoint": 9599,
    "gloryPointChange": 27,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 722,
+   "rankingPositionChange": 34,
+   "gloryPoint": 10530,
+   "gloryPointChange": 931,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -135,6 +143,11 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "Nemesis",
    "guildID": 3416
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "XTinCioN",
+   "guildID": 8194
   }
  ]
 }

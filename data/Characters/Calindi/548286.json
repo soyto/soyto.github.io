@@ -2,14 +2,12 @@
  "characterID": 548286,
  "characterClassID": 16,
  "raceID": 0,
- "position": 721,
- "rankingPositionChange": -28,
- "gloryPoint": 2396,
- "gloryPointChange": -14,
+ "position": 724,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2389,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bardelina",
- "guildName": "Savage Spirit",
- "guildID": 13827,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 2396,
    "gloryPointChange": -14,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 724,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2389,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Savage Spirit",
    "guildID": 13827
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

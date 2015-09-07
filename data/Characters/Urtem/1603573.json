@@ -2,9 +2,9 @@
  "characterID": 1603573,
  "characterClassID": 1,
  "raceID": 0,
- "position": 982,
- "rankingPositionChange": 2,
- "gloryPoint": 13453,
+ "position": 996,
+ "rankingPositionChange": -14,
+ "gloryPoint": 13446,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lacross",
@@ -278,6 +278,14 @@
    "position": 982,
    "rankingPositionChange": 2,
    "gloryPoint": 13453,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -14,
+   "gloryPoint": 13446,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

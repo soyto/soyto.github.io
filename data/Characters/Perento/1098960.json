@@ -2,9 +2,9 @@
  "characterID": 1098960,
  "characterClassID": 14,
  "raceID": 1,
- "position": 708,
- "rankingPositionChange": 0,
- "gloryPoint": 3825,
+ "position": 712,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3818,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hesting",
@@ -278,6 +278,14 @@
    "position": 708,
    "rankingPositionChange": 0,
    "gloryPoint": 3825,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 712,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3818,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

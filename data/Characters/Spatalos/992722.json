@@ -2,9 +2,9 @@
  "characterID": 992722,
  "characterClassID": 8,
  "raceID": 1,
- "position": 572,
- "rankingPositionChange": 0,
- "gloryPoint": 6412,
+ "position": 577,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6398,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Detrix",
@@ -280,6 +280,14 @@
    "position": 572,
    "rankingPositionChange": 0,
    "gloryPoint": 6412,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 577,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6398,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

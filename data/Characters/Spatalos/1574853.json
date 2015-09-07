@@ -2,12 +2,14 @@
  "characterID": 1574853,
  "characterClassID": 2,
  "raceID": 0,
- "position": 719,
- "rankingPositionChange": 0,
- "gloryPoint": 13713,
- "gloryPointChange": -7,
+ "position": 717,
+ "rankingPositionChange": 2,
+ "gloryPoint": 13849,
+ "gloryPointChange": 136,
  "soldierRankID": 10,
  "characterName": "Lynkan",
+ "guildName": "Dragon Path",
+ "guildID": 27288,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 13713,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 717,
+   "rankingPositionChange": 2,
+   "gloryPoint": 13849,
+   "gloryPointChange": 136,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-27T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Dragon Path",
+   "guildID": 27288
   }
  ]
 }

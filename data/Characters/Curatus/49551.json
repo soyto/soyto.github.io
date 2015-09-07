@@ -2,9 +2,9 @@
  "characterID": 49551,
  "characterClassID": 16,
  "raceID": 0,
- "position": 119,
- "rankingPositionChange": 0,
- "gloryPoint": 118509,
+ "position": 120,
+ "rankingPositionChange": -1,
+ "gloryPoint": 118460,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Efedrina",
@@ -280,6 +280,14 @@
    "position": 119,
    "rankingPositionChange": 0,
    "gloryPoint": 118509,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 120,
+   "rankingPositionChange": -1,
+   "gloryPoint": 118460,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

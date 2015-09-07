@@ -2,10 +2,10 @@
  "characterID": 1312804,
  "characterClassID": 16,
  "raceID": 1,
- "position": 970,
- "rankingPositionChange": 1,
- "gloryPoint": 7083,
- "gloryPointChange": 49,
+ "position": 975,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7104,
+ "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Petiboy",
  "guildName": "I Libertad I",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7083,
    "gloryPointChange": 49,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 975,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7104,
+   "gloryPointChange": 21,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1165731,
  "characterClassID": 7,
  "raceID": 0,
- "position": 939,
- "rankingPositionChange": -2,
- "gloryPoint": 9358,
+ "position": 938,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9351,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dorem",
@@ -256,6 +256,14 @@
    "position": 939,
    "rankingPositionChange": -2,
    "gloryPoint": 9358,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 938,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9351,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

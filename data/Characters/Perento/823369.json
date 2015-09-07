@@ -2,9 +2,9 @@
  "characterID": 823369,
  "characterClassID": 8,
  "raceID": 1,
- "position": 957,
- "rankingPositionChange": 1,
- "gloryPoint": 1676,
+ "position": 958,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1669,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Icoxxx",
@@ -280,6 +280,14 @@
    "position": 957,
    "rankingPositionChange": 1,
    "gloryPoint": 1676,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 958,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1669,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

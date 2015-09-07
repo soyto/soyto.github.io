@@ -2,10 +2,10 @@
  "characterID": 909273,
  "characterClassID": 10,
  "raceID": 1,
- "position": 857,
- "rankingPositionChange": 2,
- "gloryPoint": 6157,
- "gloryPointChange": 23,
+ "position": 863,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6150,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Arrweenn",
  "guildName": "ll Imperium ll",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 6157,
    "gloryPointChange": 23,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 863,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6150,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

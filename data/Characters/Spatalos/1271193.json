@@ -2,14 +2,14 @@
  "characterID": 1271193,
  "characterClassID": 8,
  "raceID": 0,
- "position": 710,
- "rankingPositionChange": 10,
- "gloryPoint": 14031,
- "gloryPointChange": 343,
- "soldierRankID": 10,
+ "position": 694,
+ "rankingPositionChange": 16,
+ "gloryPoint": 14360,
+ "gloryPointChange": 329,
+ "soldierRankID": 11,
  "characterName": "Mikhailek",
- "guildName": "Pride IA",
- "guildID": 15660,
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 14031,
    "gloryPointChange": 343,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 694,
+   "rankingPositionChange": 16,
+   "gloryPoint": 14360,
+   "gloryPointChange": 329,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Pride IA",
    "guildID": 15660
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

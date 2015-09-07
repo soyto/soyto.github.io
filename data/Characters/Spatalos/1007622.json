@@ -2,9 +2,9 @@
  "characterID": 1007622,
  "characterClassID": 1,
  "raceID": 1,
- "position": 453,
- "rankingPositionChange": 0,
- "gloryPoint": 9691,
+ "position": 454,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9663,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Yagai",
@@ -270,6 +270,14 @@
    "position": 453,
    "rankingPositionChange": 0,
    "gloryPoint": 9691,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 454,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9663,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

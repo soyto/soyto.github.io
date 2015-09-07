@@ -2,10 +2,10 @@
  "characterID": 687531,
  "characterClassID": 11,
  "raceID": 0,
- "position": 398,
- "rankingPositionChange": 0,
- "gloryPoint": 31166,
- "gloryPointChange": -28,
+ "position": 399,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31146,
+ "gloryPointChange": -20,
  "soldierRankID": 12,
  "characterName": "Shocklate",
  "guildName": "Smiley",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 31166,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 399,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31146,
+   "gloryPointChange": -20,
    "soldierRankID": 12
   }
  ],

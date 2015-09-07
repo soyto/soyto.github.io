@@ -2,9 +2,9 @@
  "characterID": 1048771,
  "characterClassID": 16,
  "raceID": 0,
- "position": 875,
- "rankingPositionChange": 0,
- "gloryPoint": 8223,
+ "position": 881,
+ "rankingPositionChange": -6,
+ "gloryPoint": 8216,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dyaxis",
@@ -278,6 +278,14 @@
    "position": 875,
    "rankingPositionChange": 0,
    "gloryPoint": 8223,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 881,
+   "rankingPositionChange": -6,
+   "gloryPoint": 8216,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

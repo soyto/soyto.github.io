@@ -2,9 +2,9 @@
  "characterID": 1158918,
  "characterClassID": 16,
  "raceID": 0,
- "position": 529,
- "rankingPositionChange": 2,
- "gloryPoint": 17627,
+ "position": 531,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17616,
  "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Vojvodaa",
@@ -280,6 +280,14 @@
    "position": 529,
    "rankingPositionChange": 2,
    "gloryPoint": 17627,
+   "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 531,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17616,
    "gloryPointChange": -11,
    "soldierRankID": 11
   }

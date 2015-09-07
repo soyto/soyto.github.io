@@ -2,9 +2,9 @@
  "characterID": 45019,
  "characterClassID": 5,
  "raceID": 1,
- "position": 204,
- "rankingPositionChange": -1,
- "gloryPoint": 25962,
+ "position": 202,
+ "rankingPositionChange": 2,
+ "gloryPoint": 25913,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Deadlyarrow",
@@ -280,6 +280,14 @@
    "position": 204,
    "rankingPositionChange": -1,
    "gloryPoint": 25962,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 202,
+   "rankingPositionChange": 2,
+   "gloryPoint": 25913,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 463650,
  "characterClassID": 2,
  "raceID": 0,
- "position": 260,
- "rankingPositionChange": 0,
- "gloryPoint": 26942,
+ "position": 262,
+ "rankingPositionChange": -2,
+ "gloryPoint": 26893,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Itsuki",
@@ -280,6 +280,14 @@
    "position": 260,
    "rankingPositionChange": 0,
    "gloryPoint": 26942,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 262,
+   "rankingPositionChange": -2,
+   "gloryPoint": 26893,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

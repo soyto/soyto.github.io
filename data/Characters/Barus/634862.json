@@ -2,9 +2,9 @@
  "characterID": 634862,
  "characterClassID": 10,
  "raceID": 1,
- "position": 855,
- "rankingPositionChange": 2,
- "gloryPoint": 12981,
+ "position": 859,
+ "rankingPositionChange": -4,
+ "gloryPoint": 12974,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ichichi",
@@ -120,6 +120,14 @@
    "position": 855,
    "rankingPositionChange": 2,
    "gloryPoint": 12981,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 859,
+   "rankingPositionChange": -4,
+   "gloryPoint": 12974,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

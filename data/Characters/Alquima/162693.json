@@ -2,9 +2,9 @@
  "characterID": 162693,
  "characterClassID": 5,
  "raceID": 0,
- "position": 205,
- "rankingPositionChange": 1,
- "gloryPoint": 58337,
+ "position": 206,
+ "rankingPositionChange": -1,
+ "gloryPoint": 58288,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Eniigma",
@@ -126,6 +126,14 @@
    "position": 205,
    "rankingPositionChange": 1,
    "gloryPoint": 58337,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 206,
+   "rankingPositionChange": -1,
+   "gloryPoint": 58288,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

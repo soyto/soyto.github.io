@@ -2,9 +2,9 @@
  "characterID": 880771,
  "characterClassID": 10,
  "raceID": 0,
- "position": 573,
- "rankingPositionChange": 1,
- "gloryPoint": 29647,
+ "position": 581,
+ "rankingPositionChange": -8,
+ "gloryPoint": 29633,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hykie",
@@ -280,6 +280,14 @@
    "position": 573,
    "rankingPositionChange": 1,
    "gloryPoint": 29647,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 581,
+   "rankingPositionChange": -8,
+   "gloryPoint": 29633,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

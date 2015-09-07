@@ -2,10 +2,10 @@
  "characterID": 161112,
  "characterClassID": 14,
  "raceID": 1,
- "position": 825,
- "rankingPositionChange": 0,
- "gloryPoint": 12840,
- "gloryPointChange": 0,
+ "position": 874,
+ "rankingPositionChange": -49,
+ "gloryPoint": 12712,
+ "gloryPointChange": -128,
  "soldierRankID": 10,
  "characterName": "Lixen",
  "status": [
@@ -79,6 +79,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 12840,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 874,
+   "rankingPositionChange": -49,
+   "gloryPoint": 12712,
+   "gloryPointChange": -128,
    "soldierRankID": 10
   }
  ],

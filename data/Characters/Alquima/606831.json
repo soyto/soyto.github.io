@@ -2,14 +2,14 @@
  "characterID": 606831,
  "characterClassID": 7,
  "raceID": 1,
- "position": 819,
- "rankingPositionChange": 0,
- "gloryPoint": 8247,
- "gloryPointChange": -7,
+ "position": 795,
+ "rankingPositionChange": 24,
+ "gloryPoint": 8796,
+ "gloryPointChange": 549,
  "soldierRankID": 10,
  "characterName": "Latiz",
- "guildName": "Code Geass",
- "guildID": 10414,
+ "guildName": "Los Valar",
+ "guildID": 14845,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 8247,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 795,
+   "rankingPositionChange": 24,
+   "gloryPoint": 8796,
+   "gloryPointChange": 549,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Code Geass",
    "guildID": 10414
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Los Valar",
+   "guildID": 14845
   }
  ]
 }

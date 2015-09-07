@@ -2,10 +2,10 @@
  "characterID": 384998,
  "characterClassID": 4,
  "raceID": 1,
- "position": 842,
- "rankingPositionChange": 5,
- "gloryPoint": 13306,
- "gloryPointChange": 116,
+ "position": 845,
+ "rankingPositionChange": -3,
+ "gloryPoint": 13299,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Larethian",
  "guildName": "Slackers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 13306,
    "gloryPointChange": 116,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 845,
+   "rankingPositionChange": -3,
+   "gloryPoint": 13299,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 896976,
  "characterClassID": 14,
  "raceID": 0,
- "position": 980,
- "rankingPositionChange": 1,
- "gloryPoint": 4228,
+ "position": 986,
+ "rankingPositionChange": -6,
+ "gloryPoint": 4221,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Elitgunner",
@@ -278,6 +278,14 @@
    "position": 980,
    "rankingPositionChange": 1,
    "gloryPoint": 4228,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": -6,
+   "gloryPoint": 4221,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

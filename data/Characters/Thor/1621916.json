@@ -2,12 +2,14 @@
  "characterID": 1621916,
  "characterClassID": 4,
  "raceID": 0,
- "position": 661,
- "rankingPositionChange": 2,
- "gloryPoint": 26843,
- "gloryPointChange": 114,
+ "position": 665,
+ "rankingPositionChange": -4,
+ "gloryPoint": 26932,
+ "gloryPointChange": 89,
  "soldierRankID": 11,
  "characterName": "Diamondriv",
+ "guildName": " Hentai ",
+ "guildID": 48499,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 26843,
    "gloryPointChange": 114,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": -4,
+   "gloryPoint": 26932,
+   "gloryPointChange": 89,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-18T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": " Hentai ",
+   "guildID": 48499
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 1138400,
  "characterClassID": 13,
  "raceID": 0,
- "position": 965,
- "rankingPositionChange": 1,
- "gloryPoint": 8704,
+ "position": 966,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8697,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Illshanalll",
@@ -206,6 +206,14 @@
    "position": 965,
    "rankingPositionChange": 1,
    "gloryPoint": 8704,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 966,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8697,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

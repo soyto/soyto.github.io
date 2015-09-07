@@ -2,9 +2,9 @@
  "characterID": 1199716,
  "characterClassID": 1,
  "raceID": 1,
- "position": 660,
- "rankingPositionChange": 1,
- "gloryPoint": 4531,
+ "position": 664,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4517,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Gts",
@@ -280,6 +280,14 @@
    "position": 660,
    "rankingPositionChange": 1,
    "gloryPoint": 4531,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 664,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4517,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

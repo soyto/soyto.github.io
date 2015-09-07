@@ -2,11 +2,11 @@
  "characterID": 868043,
  "characterClassID": 10,
  "raceID": 0,
- "position": 1000,
- "rankingPositionChange": 0,
+ "position": 999,
+ "rankingPositionChange": 1,
  "gloryPoint": 8102,
  "gloryPointChange": 0,
- "soldierRankID": 0,
+ "soldierRankID": 10,
  "characterName": "Terrible",
  "guildName": "Esperance",
  "guildID": 7501,
@@ -122,6 +122,14 @@
    "gloryPoint": 8102,
    "gloryPointChange": 0,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8102,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
   }
  ],
  "names": [

@@ -2,9 +2,9 @@
  "characterID": 838233,
  "characterClassID": 11,
  "raceID": 1,
- "position": 120,
- "rankingPositionChange": 0,
- "gloryPoint": 58280,
+ "position": 121,
+ "rankingPositionChange": -1,
+ "gloryPoint": 58331,
  "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Yohohoho",
@@ -280,6 +280,14 @@
    "position": 120,
    "rankingPositionChange": 0,
    "gloryPoint": 58280,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": -1,
+   "gloryPoint": 58331,
    "gloryPointChange": 51,
    "soldierRankID": 13
   }

@@ -2,14 +2,14 @@
  "characterID": 457208,
  "characterClassID": 14,
  "raceID": 1,
- "position": 968,
- "rankingPositionChange": -3,
- "gloryPoint": 5894,
- "gloryPointChange": -7,
+ "position": 947,
+ "rankingPositionChange": 21,
+ "gloryPoint": 6135,
+ "gloryPointChange": 241,
  "soldierRankID": 10,
  "characterName": "Fapper",
- "guildName": "The Nephelim",
- "guildID": 13318,
+ "guildName": "The Mist",
+ "guildID": 2407,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 5894,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 947,
+   "rankingPositionChange": 21,
+   "gloryPoint": 6135,
+   "gloryPointChange": 241,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Nephelim",
    "guildID": 13318
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "The Mist",
+   "guildID": 2407
   }
  ]
 }

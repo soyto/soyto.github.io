@@ -2,9 +2,9 @@
  "characterID": 721078,
  "characterClassID": 1,
  "raceID": 0,
- "position": 677,
- "rankingPositionChange": 0,
- "gloryPoint": 10358,
+ "position": 681,
+ "rankingPositionChange": -4,
+ "gloryPoint": 10344,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Tsantilas",
@@ -278,6 +278,14 @@
    "position": 677,
    "rankingPositionChange": 0,
    "gloryPoint": 10358,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 681,
+   "rankingPositionChange": -4,
+   "gloryPoint": 10344,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

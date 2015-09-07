@@ -2,9 +2,9 @@
  "characterID": 736811,
  "characterClassID": 10,
  "raceID": 0,
- "position": 936,
- "rankingPositionChange": -2,
- "gloryPoint": 6240,
+ "position": 935,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6233,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ostkakan",
@@ -280,6 +280,14 @@
    "position": 936,
    "rankingPositionChange": -2,
    "gloryPoint": 6240,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 935,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6233,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

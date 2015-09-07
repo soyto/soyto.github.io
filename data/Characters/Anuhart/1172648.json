@@ -2,9 +2,9 @@
  "characterID": 1172648,
  "characterClassID": 16,
  "raceID": 0,
- "position": 575,
- "rankingPositionChange": 0,
- "gloryPoint": 11715,
+ "position": 577,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11701,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Mousikos",
@@ -280,6 +280,14 @@
    "position": 575,
    "rankingPositionChange": 0,
    "gloryPoint": 11715,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 577,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11701,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

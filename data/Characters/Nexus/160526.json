@@ -2,9 +2,9 @@
  "characterID": 160526,
  "characterClassID": 5,
  "raceID": 1,
- "position": 180,
- "rankingPositionChange": 0,
- "gloryPoint": 88856,
+ "position": 181,
+ "rankingPositionChange": -1,
+ "gloryPoint": 88807,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Adictia",
@@ -240,6 +240,14 @@
    "position": 180,
    "rankingPositionChange": 0,
    "gloryPoint": 88856,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 181,
+   "rankingPositionChange": -1,
+   "gloryPoint": 88807,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

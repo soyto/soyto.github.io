@@ -2,10 +2,10 @@
  "characterID": 12775,
  "characterClassID": 4,
  "raceID": 1,
- "position": 264,
- "rankingPositionChange": 2,
- "gloryPoint": 56926,
- "gloryPointChange": 432,
+ "position": 266,
+ "rankingPositionChange": -2,
+ "gloryPoint": 56953,
+ "gloryPointChange": 27,
  "soldierRankID": 13,
  "characterName": "Grabasz",
  "guildName": "Turn Down For What",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 56926,
    "gloryPointChange": 432,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 266,
+   "rankingPositionChange": -2,
+   "gloryPoint": 56953,
+   "gloryPointChange": 27,
    "soldierRankID": 13
   }
  ],

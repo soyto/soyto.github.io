@@ -2,9 +2,9 @@
  "characterID": 149421,
  "characterClassID": 8,
  "raceID": 0,
- "position": 869,
- "rankingPositionChange": 4,
- "gloryPoint": 6695,
+ "position": 870,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6688,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Manolisf",
@@ -278,6 +278,14 @@
    "position": 869,
    "rankingPositionChange": 4,
    "gloryPoint": 6695,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 870,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6688,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

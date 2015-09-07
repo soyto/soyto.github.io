@@ -2,9 +2,9 @@
  "characterID": 540875,
  "characterClassID": 14,
  "raceID": 1,
- "position": 793,
- "rankingPositionChange": 5,
- "gloryPoint": 14824,
+ "position": 796,
+ "rankingPositionChange": -3,
+ "gloryPoint": 14817,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Katpl",
@@ -262,6 +262,14 @@
    "position": 793,
    "rankingPositionChange": 5,
    "gloryPoint": 14824,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 796,
+   "rankingPositionChange": -3,
+   "gloryPoint": 14817,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

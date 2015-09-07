@@ -2,9 +2,9 @@
  "characterID": 212438,
  "characterClassID": 11,
  "raceID": 0,
- "position": 819,
- "rankingPositionChange": 1,
- "gloryPoint": 9707,
+ "position": 822,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9700,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Eurika",
@@ -216,6 +216,14 @@
    "position": 819,
    "rankingPositionChange": 1,
    "gloryPoint": 9707,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 822,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9700,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

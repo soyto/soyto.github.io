@@ -2,10 +2,10 @@
  "characterID": 348541,
  "characterClassID": 10,
  "raceID": 1,
- "position": 953,
- "rankingPositionChange": 1,
- "gloryPoint": 8240,
- "gloryPointChange": 16,
+ "position": 966,
+ "rankingPositionChange": -13,
+ "gloryPoint": 8233,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gothloly",
  "guildName": "AHNENERBE",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 8240,
    "gloryPointChange": 16,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 966,
+   "rankingPositionChange": -13,
+   "gloryPoint": 8233,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

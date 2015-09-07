@@ -2,10 +2,10 @@
  "characterID": 410293,
  "characterClassID": 13,
  "raceID": 0,
- "position": 398,
- "rankingPositionChange": 3,
- "gloryPoint": 29888,
- "gloryPointChange": 128,
+ "position": 399,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29860,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Garaa",
  "guildName": "Noob Killers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 29888,
    "gloryPointChange": 128,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 399,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29860,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

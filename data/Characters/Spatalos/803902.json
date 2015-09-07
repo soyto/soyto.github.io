@@ -2,9 +2,9 @@
  "characterID": 803902,
  "characterClassID": 5,
  "raceID": 0,
- "position": 950,
- "rankingPositionChange": 1,
- "gloryPoint": 6388,
+ "position": 955,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6381,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Demen",
@@ -40,6 +40,14 @@
    "position": 950,
    "rankingPositionChange": 1,
    "gloryPoint": 6388,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6381,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

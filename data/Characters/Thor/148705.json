@@ -2,10 +2,10 @@
  "characterID": 148705,
  "characterClassID": 2,
  "raceID": 0,
- "position": 371,
- "rankingPositionChange": 1,
- "gloryPoint": 49089,
- "gloryPointChange": 92,
+ "position": 372,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49081,
+ "gloryPointChange": -8,
  "soldierRankID": 12,
  "characterName": "Schlampi",
  "guildName": "Macht und Magie",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 49089,
    "gloryPointChange": 92,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 372,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49081,
+   "gloryPointChange": -8,
    "soldierRankID": 12
   }
  ],

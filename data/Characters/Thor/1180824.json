@@ -2,9 +2,9 @@
  "characterID": 1180824,
  "characterClassID": 10,
  "raceID": 1,
- "position": 111,
- "rankingPositionChange": 0,
- "gloryPoint": 127617,
+ "position": 112,
+ "rankingPositionChange": -1,
+ "gloryPoint": 127568,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Mymadpewny",
@@ -280,6 +280,14 @@
    "position": 111,
    "rankingPositionChange": 0,
    "gloryPoint": 127617,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 112,
+   "rankingPositionChange": -1,
+   "gloryPoint": 127568,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

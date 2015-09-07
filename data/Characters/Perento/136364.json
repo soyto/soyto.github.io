@@ -2,9 +2,9 @@
  "characterID": 136364,
  "characterClassID": 1,
  "raceID": 1,
- "position": 286,
- "rankingPositionChange": 0,
- "gloryPoint": 26049,
+ "position": 287,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26000,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Vere",
@@ -278,6 +278,14 @@
    "position": 286,
    "rankingPositionChange": 0,
    "gloryPoint": 26049,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 287,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26000,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

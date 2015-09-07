@@ -2,9 +2,9 @@
  "characterID": 846683,
  "characterClassID": 2,
  "raceID": 0,
- "position": 702,
- "rankingPositionChange": 0,
- "gloryPoint": 25080,
+ "position": 711,
+ "rankingPositionChange": -9,
+ "gloryPoint": 25073,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lavodoll",
@@ -280,6 +280,14 @@
    "position": 702,
    "rankingPositionChange": 0,
    "gloryPoint": 25080,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": -9,
+   "gloryPoint": 25073,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

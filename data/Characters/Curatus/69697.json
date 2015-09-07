@@ -2,10 +2,10 @@
  "characterID": 69697,
  "characterClassID": 11,
  "raceID": 1,
- "position": 256,
- "rankingPositionChange": 2,
- "gloryPoint": 30962,
- "gloryPointChange": 436,
+ "position": 257,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31031,
+ "gloryPointChange": 69,
  "soldierRankID": 13,
  "characterName": "Tomi",
  "guildName": "DarkWish",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 30962,
    "gloryPointChange": 436,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 257,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31031,
+   "gloryPointChange": 69,
    "soldierRankID": 13
   }
  ],

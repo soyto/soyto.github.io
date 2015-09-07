@@ -2,9 +2,9 @@
  "characterID": 642205,
  "characterClassID": 16,
  "raceID": 0,
- "position": 358,
- "rankingPositionChange": 0,
- "gloryPoint": 27385,
+ "position": 361,
+ "rankingPositionChange": -3,
+ "gloryPoint": 27357,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Arwens",
@@ -150,6 +150,14 @@
    "position": 358,
    "rankingPositionChange": 0,
    "gloryPoint": 27385,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 361,
+   "rankingPositionChange": -3,
+   "gloryPoint": 27357,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

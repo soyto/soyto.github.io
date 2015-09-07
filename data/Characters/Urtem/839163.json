@@ -2,10 +2,10 @@
  "characterID": 839163,
  "characterClassID": 7,
  "raceID": 1,
- "position": 441,
- "rankingPositionChange": 2,
- "gloryPoint": 22411,
- "gloryPointChange": 197,
+ "position": 443,
+ "rankingPositionChange": -2,
+ "gloryPoint": 22393,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Ptitebombe",
  "guildName": "elfy team",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 22411,
    "gloryPointChange": 197,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 443,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22393,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

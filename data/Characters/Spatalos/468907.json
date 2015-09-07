@@ -2,9 +2,9 @@
  "characterID": 468907,
  "characterClassID": 10,
  "raceID": 0,
- "position": 847,
- "rankingPositionChange": 2,
- "gloryPoint": 9001,
+ "position": 851,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8994,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Leanne",
@@ -280,6 +280,14 @@
    "position": 847,
    "rankingPositionChange": 2,
    "gloryPoint": 9001,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 851,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8994,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

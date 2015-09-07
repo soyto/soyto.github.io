@@ -2,9 +2,9 @@
  "characterID": 597263,
  "characterClassID": 7,
  "raceID": 1,
- "position": 451,
- "rankingPositionChange": 0,
- "gloryPoint": 9741,
+ "position": 453,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9713,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Skoti",
@@ -272,6 +272,14 @@
    "position": 451,
    "rankingPositionChange": 0,
    "gloryPoint": 9741,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 453,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9713,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

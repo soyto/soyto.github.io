@@ -2,9 +2,9 @@
  "characterID": 409461,
  "characterClassID": 5,
  "raceID": 1,
- "position": 363,
- "rankingPositionChange": -3,
- "gloryPoint": 8216,
+ "position": 362,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8188,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Hinta",
@@ -248,6 +248,14 @@
    "position": 363,
    "rankingPositionChange": -3,
    "gloryPoint": 8216,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 362,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8188,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

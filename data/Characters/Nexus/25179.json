@@ -2,10 +2,10 @@
  "characterID": 25179,
  "characterClassID": 10,
  "raceID": 1,
- "position": 655,
- "rankingPositionChange": 2,
- "gloryPoint": 18906,
- "gloryPointChange": 484,
+ "position": 660,
+ "rankingPositionChange": -5,
+ "gloryPoint": 19066,
+ "gloryPointChange": 160,
  "soldierRankID": 11,
  "characterName": "Konnie",
  "guildName": "  Inspiration  ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 18906,
    "gloryPointChange": 484,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 660,
+   "rankingPositionChange": -5,
+   "gloryPoint": 19066,
+   "gloryPointChange": 160,
    "soldierRankID": 11
   }
  ],

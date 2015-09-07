@@ -2,9 +2,9 @@
  "characterID": 1299659,
  "characterClassID": 7,
  "raceID": 0,
- "position": 568,
- "rankingPositionChange": 0,
- "gloryPoint": 20034,
+ "position": 570,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20020,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Dicero",
@@ -280,6 +280,14 @@
    "position": 568,
    "rankingPositionChange": 0,
    "gloryPoint": 20034,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 570,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20020,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

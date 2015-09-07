@@ -2,9 +2,9 @@
  "characterID": 97317,
  "characterClassID": 11,
  "raceID": 0,
- "position": 820,
- "rankingPositionChange": 0,
- "gloryPoint": 12640,
+ "position": 828,
+ "rankingPositionChange": -8,
+ "gloryPoint": 12633,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Niksi",
@@ -280,6 +280,14 @@
    "position": 820,
    "rankingPositionChange": 0,
    "gloryPoint": 12640,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 828,
+   "rankingPositionChange": -8,
+   "gloryPoint": 12633,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 609136,
  "characterClassID": 2,
  "raceID": 1,
- "position": 13,
- "rankingPositionChange": 0,
- "gloryPoint": 317133,
- "gloryPointChange": 615,
+ "position": 14,
+ "rankingPositionChange": -1,
+ "gloryPoint": 317954,
+ "gloryPointChange": 821,
  "soldierRankID": 15,
  "characterName": "Czort",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 317133,
    "gloryPointChange": 615,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 14,
+   "rankingPositionChange": -1,
+   "gloryPoint": 317954,
+   "gloryPointChange": 821,
    "soldierRankID": 15
   }
  ],

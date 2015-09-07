@@ -2,9 +2,9 @@
  "characterID": 758512,
  "characterClassID": 8,
  "raceID": 0,
- "position": 977,
- "rankingPositionChange": 1,
- "gloryPoint": 4262,
+ "position": 983,
+ "rankingPositionChange": -6,
+ "gloryPoint": 4255,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lephi",
@@ -280,6 +280,14 @@
    "position": 977,
    "rankingPositionChange": 1,
    "gloryPoint": 4262,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 983,
+   "rankingPositionChange": -6,
+   "gloryPoint": 4255,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

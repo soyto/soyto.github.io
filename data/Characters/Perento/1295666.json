@@ -2,9 +2,9 @@
  "characterID": 1295666,
  "characterClassID": 11,
  "raceID": 1,
- "position": 925,
- "rankingPositionChange": 1,
- "gloryPoint": 1835,
+ "position": 927,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1828,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jigang",
@@ -278,6 +278,14 @@
    "position": 925,
    "rankingPositionChange": 1,
    "gloryPoint": 1835,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 927,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1828,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 318874,
  "characterClassID": 8,
  "raceID": 1,
- "position": 912,
- "rankingPositionChange": 1,
- "gloryPoint": 3808,
+ "position": 917,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3801,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Changa",
@@ -270,6 +270,14 @@
    "position": 912,
    "rankingPositionChange": 1,
    "gloryPoint": 3808,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 917,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3801,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

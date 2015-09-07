@@ -2,9 +2,9 @@
  "characterID": 305414,
  "characterClassID": 8,
  "raceID": 0,
- "position": 709,
- "rankingPositionChange": 4,
- "gloryPoint": 22690,
+ "position": 718,
+ "rankingPositionChange": -9,
+ "gloryPoint": 22683,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Icecube",
@@ -224,6 +224,14 @@
    "position": 709,
    "rankingPositionChange": 4,
    "gloryPoint": 22690,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 718,
+   "rankingPositionChange": -9,
+   "gloryPoint": 22683,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

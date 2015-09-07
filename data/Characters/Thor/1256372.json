@@ -2,9 +2,9 @@
  "characterID": 1256372,
  "characterClassID": 16,
  "raceID": 0,
- "position": 165,
- "rankingPositionChange": 0,
- "gloryPoint": 104916,
+ "position": 167,
+ "rankingPositionChange": -2,
+ "gloryPoint": 104867,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Latiina",
@@ -280,6 +280,14 @@
    "position": 165,
    "rankingPositionChange": 0,
    "gloryPoint": 104916,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 167,
+   "rankingPositionChange": -2,
+   "gloryPoint": 104867,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

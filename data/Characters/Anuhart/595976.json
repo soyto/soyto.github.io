@@ -2,9 +2,9 @@
  "characterID": 595976,
  "characterClassID": 10,
  "raceID": 0,
- "position": 786,
- "rankingPositionChange": 2,
- "gloryPoint": 6850,
+ "position": 791,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6843,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Skyrecover",
@@ -280,6 +280,14 @@
    "position": 786,
    "rankingPositionChange": 2,
    "gloryPoint": 6850,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 791,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6843,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

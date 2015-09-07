@@ -3,8 +3,8 @@
  "characterClassID": 2,
  "raceID": 0,
  "position": 933,
- "rankingPositionChange": -5,
- "gloryPoint": 3345,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3338,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shipowner",
@@ -278,6 +278,14 @@
    "position": 933,
    "rankingPositionChange": -5,
    "gloryPoint": 3345,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 933,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3338,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

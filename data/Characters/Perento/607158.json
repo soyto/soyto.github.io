@@ -2,14 +2,14 @@
  "characterID": 607158,
  "characterClassID": 1,
  "raceID": 1,
- "position": 675,
- "rankingPositionChange": 24,
- "gloryPoint": 4346,
- "gloryPointChange": 367,
+ "position": 653,
+ "rankingPositionChange": 22,
+ "gloryPoint": 4651,
+ "gloryPointChange": 305,
  "soldierRankID": 11,
  "characterName": "Boobsie",
- "guildName": "Not Today",
- "guildID": 17024,
+ "guildName": "The  Cartel",
+ "guildID": 21359,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -258,6 +258,14 @@
    "gloryPoint": 4346,
    "gloryPointChange": 367,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": 22,
+   "gloryPoint": 4651,
+   "gloryPointChange": 305,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -274,6 +282,11 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "Not Today",
    "guildID": 17024
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "The  Cartel",
+   "guildID": 21359
   }
  ]
 }

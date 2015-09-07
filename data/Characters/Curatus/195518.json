@@ -2,10 +2,10 @@
  "characterID": 195518,
  "characterClassID": 8,
  "raceID": 1,
- "position": 652,
- "rankingPositionChange": 1,
- "gloryPoint": 7858,
- "gloryPointChange": 86,
+ "position": 653,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7898,
+ "gloryPointChange": 40,
  "soldierRankID": 11,
  "characterName": "Joyboy",
  "guildName": "DarkWish",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7858,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7898,
+   "gloryPointChange": 40,
    "soldierRankID": 11
   }
  ],

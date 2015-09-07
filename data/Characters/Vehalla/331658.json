@@ -2,12 +2,14 @@
  "characterID": 331658,
  "characterClassID": 2,
  "raceID": 1,
- "position": 581,
- "rankingPositionChange": 2,
- "gloryPoint": 1441,
- "gloryPointChange": -14,
+ "position": 531,
+ "rankingPositionChange": 50,
+ "gloryPoint": 1677,
+ "gloryPointChange": 236,
  "soldierRankID": 11,
  "characterName": "Xenovia",
+ "guildName": "Black Demons",
+ "guildID": 13920,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 1441,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 531,
+   "rankingPositionChange": 50,
+   "gloryPoint": 1677,
+   "gloryPointChange": 236,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Black Demons",
+   "guildID": 13920
   }
  ]
 }

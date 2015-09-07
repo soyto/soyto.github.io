@@ -2,14 +2,14 @@
  "characterID": 157709,
  "characterClassID": 11,
  "raceID": 1,
- "position": 261,
- "rankingPositionChange": -5,
- "gloryPoint": 1756,
+ "position": 267,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1742,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Elskins",
- "guildName": "Chasseurs de Foudre",
- "guildID": 13938,
+ "guildName": "Happy Burstday",
+ "guildID": 15410,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 1756,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 267,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1742,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Chasseurs de Foudre",
    "guildID": 13938
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Happy Burstday",
+   "guildID": 15410
   }
  ]
 }

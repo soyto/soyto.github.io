@@ -2,9 +2,9 @@
  "characterID": 241113,
  "characterClassID": 7,
  "raceID": 1,
- "position": 868,
- "rankingPositionChange": 0,
- "gloryPoint": 4283,
+ "position": 872,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4276,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gargoyle",
@@ -270,6 +270,14 @@
    "position": 868,
    "rankingPositionChange": 0,
    "gloryPoint": 4283,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 872,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4276,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

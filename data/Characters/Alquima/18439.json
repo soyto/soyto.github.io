@@ -2,10 +2,10 @@
  "characterID": 18439,
  "characterClassID": 11,
  "raceID": 1,
- "position": 143,
- "rankingPositionChange": 0,
- "gloryPoint": 60314,
- "gloryPointChange": -49,
+ "position": 144,
+ "rankingPositionChange": -1,
+ "gloryPoint": 60427,
+ "gloryPointChange": 113,
  "soldierRankID": 13,
  "characterName": "Aden",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 60314,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": -1,
+   "gloryPoint": 60427,
+   "gloryPointChange": 113,
    "soldierRankID": 13
   }
  ],

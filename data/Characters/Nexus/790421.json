@@ -2,10 +2,10 @@
  "characterID": 790421,
  "characterClassID": 10,
  "raceID": 1,
- "position": 987,
- "rankingPositionChange": -8,
- "gloryPoint": 7766,
- "gloryPointChange": -7,
+ "position": 986,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7911,
+ "gloryPointChange": 145,
  "soldierRankID": 10,
  "characterName": "Axmo",
  "guildName": "Night Raid",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 7766,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7911,
+   "gloryPointChange": 145,
    "soldierRankID": 10
   }
  ],

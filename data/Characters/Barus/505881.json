@@ -2,9 +2,9 @@
  "characterID": 505881,
  "characterClassID": 14,
  "raceID": 1,
- "position": 851,
- "rankingPositionChange": 2,
- "gloryPoint": 13018,
+ "position": 854,
+ "rankingPositionChange": -3,
+ "gloryPoint": 13011,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Afes",
@@ -278,6 +278,14 @@
    "position": 851,
    "rankingPositionChange": 2,
    "gloryPoint": 13018,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 854,
+   "rankingPositionChange": -3,
+   "gloryPoint": 13011,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

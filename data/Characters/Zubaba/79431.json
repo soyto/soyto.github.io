@@ -2,9 +2,9 @@
  "characterID": 79431,
  "characterClassID": 4,
  "raceID": 1,
- "position": 280,
- "rankingPositionChange": 0,
- "gloryPoint": 28523,
+ "position": 279,
+ "rankingPositionChange": 1,
+ "gloryPoint": 28598,
  "gloryPointChange": 75,
  "soldierRankID": 13,
  "characterName": "Jyrou",
@@ -280,6 +280,14 @@
    "position": 280,
    "rankingPositionChange": 0,
    "gloryPoint": 28523,
+   "gloryPointChange": 75,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 279,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28598,
    "gloryPointChange": 75,
    "soldierRankID": 13
   }

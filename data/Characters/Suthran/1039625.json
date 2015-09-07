@@ -2,9 +2,9 @@
  "characterID": 1039625,
  "characterClassID": 1,
  "raceID": 0,
- "position": 164,
- "rankingPositionChange": 0,
- "gloryPoint": 85671,
+ "position": 165,
+ "rankingPositionChange": -1,
+ "gloryPoint": 85622,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Poppii",
@@ -280,6 +280,14 @@
    "position": 164,
    "rankingPositionChange": 0,
    "gloryPoint": 85671,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 165,
+   "rankingPositionChange": -1,
+   "gloryPoint": 85622,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

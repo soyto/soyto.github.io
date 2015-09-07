@@ -2,10 +2,10 @@
  "characterID": 830978,
  "characterClassID": 16,
  "raceID": 1,
- "position": 831,
- "rankingPositionChange": 2,
- "gloryPoint": 7979,
- "gloryPointChange": 41,
+ "position": 832,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7972,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Chichioya",
  "guildName": "Malkavian",
@@ -97,6 +97,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 7979,
    "gloryPointChange": 41,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 832,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7972,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

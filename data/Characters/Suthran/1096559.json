@@ -2,9 +2,9 @@
  "characterID": 1096559,
  "characterClassID": 16,
  "raceID": 1,
- "position": 210,
- "rankingPositionChange": 0,
- "gloryPoint": 53677,
+ "position": 211,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53628,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Elealixe",
@@ -280,6 +280,14 @@
    "position": 210,
    "rankingPositionChange": 0,
    "gloryPoint": 53677,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 211,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53628,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

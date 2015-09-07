@@ -2,9 +2,9 @@
  "characterID": 278306,
  "characterClassID": 10,
  "raceID": 1,
- "position": 534,
- "rankingPositionChange": 4,
- "gloryPoint": 1641,
+ "position": 540,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1627,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kamuffle",
@@ -270,6 +270,14 @@
    "position": 534,
    "rankingPositionChange": 4,
    "gloryPoint": 1641,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1627,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

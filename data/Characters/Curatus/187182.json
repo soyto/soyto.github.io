@@ -2,9 +2,9 @@
  "characterID": 187182,
  "characterClassID": 11,
  "raceID": 0,
- "position": 127,
- "rankingPositionChange": 0,
- "gloryPoint": 110640,
+ "position": 128,
+ "rankingPositionChange": -1,
+ "gloryPoint": 110591,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Yachiiru",
@@ -280,6 +280,14 @@
    "position": 127,
    "rankingPositionChange": 0,
    "gloryPoint": 110640,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": -1,
+   "gloryPoint": 110591,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

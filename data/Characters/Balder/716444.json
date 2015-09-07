@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 543,
- "rankingPositionChange": 21,
- "gloryPoint": 6216,
- "gloryPointChange": 386,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6202,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Venenum",
  "guildName": "Elyseas Angels",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 21,
    "gloryPoint": 6216,
    "gloryPointChange": 386,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 543,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6202,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

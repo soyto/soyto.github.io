@@ -2,9 +2,9 @@
  "characterID": 113334,
  "characterClassID": 8,
  "raceID": 0,
- "position": 543,
- "rankingPositionChange": 0,
- "gloryPoint": 25654,
+ "position": 545,
+ "rankingPositionChange": -2,
+ "gloryPoint": 25640,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Exvehl",
@@ -278,6 +278,14 @@
    "position": 543,
    "rankingPositionChange": 0,
    "gloryPoint": 25654,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 545,
+   "rankingPositionChange": -2,
+   "gloryPoint": 25640,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

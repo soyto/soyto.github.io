@@ -2,9 +2,9 @@
  "characterID": 33753,
  "characterClassID": 1,
  "raceID": 1,
- "position": 308,
- "rankingPositionChange": 0,
- "gloryPoint": 57388,
+ "position": 310,
+ "rankingPositionChange": -2,
+ "gloryPoint": 57360,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Casein",
@@ -278,6 +278,14 @@
    "position": 308,
    "rankingPositionChange": 0,
    "gloryPoint": 57388,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 310,
+   "rankingPositionChange": -2,
+   "gloryPoint": 57360,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

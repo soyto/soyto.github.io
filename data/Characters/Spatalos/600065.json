@@ -2,9 +2,9 @@
  "characterID": 600065,
  "characterClassID": 10,
  "raceID": 0,
- "position": 755,
- "rankingPositionChange": 3,
- "gloryPoint": 12348,
+ "position": 757,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12341,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Karlyn",
@@ -280,6 +280,14 @@
    "position": 755,
    "rankingPositionChange": 3,
    "gloryPoint": 12348,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 757,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12341,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

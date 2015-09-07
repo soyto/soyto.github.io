@@ -2,9 +2,9 @@
  "characterID": 595975,
  "characterClassID": 7,
  "raceID": 1,
- "position": 570,
- "rankingPositionChange": 0,
- "gloryPoint": 6464,
+ "position": 575,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6450,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Pussssy",
@@ -278,6 +278,14 @@
    "position": 570,
    "rankingPositionChange": 0,
    "gloryPoint": 6464,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6450,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

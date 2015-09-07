@@ -2,9 +2,9 @@
  "characterID": 485659,
  "characterClassID": 1,
  "raceID": 0,
- "position": 157,
- "rankingPositionChange": 0,
- "gloryPoint": 60559,
+ "position": 159,
+ "rankingPositionChange": -2,
+ "gloryPoint": 60510,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Anticipation",
@@ -280,6 +280,14 @@
    "position": 157,
    "rankingPositionChange": 0,
    "gloryPoint": 60559,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": -2,
+   "gloryPoint": 60510,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

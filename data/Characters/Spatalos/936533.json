@@ -2,9 +2,9 @@
  "characterID": 936533,
  "characterClassID": 10,
  "raceID": 0,
- "position": 835,
- "rankingPositionChange": 2,
- "gloryPoint": 9303,
+ "position": 837,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9296,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Aenis",
@@ -182,6 +182,14 @@
    "position": 835,
    "rankingPositionChange": 2,
    "gloryPoint": 9303,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 837,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9296,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

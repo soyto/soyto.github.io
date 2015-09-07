@@ -2,9 +2,9 @@
  "characterID": 793515,
  "characterClassID": 4,
  "raceID": 1,
- "position": 400,
- "rankingPositionChange": -2,
- "gloryPoint": 14047,
+ "position": 399,
+ "rankingPositionChange": 1,
+ "gloryPoint": 14019,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Seyashima",
@@ -280,6 +280,14 @@
    "position": 400,
    "rankingPositionChange": -2,
    "gloryPoint": 14047,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 399,
+   "rankingPositionChange": 1,
+   "gloryPoint": 14019,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

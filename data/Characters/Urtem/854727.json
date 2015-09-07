@@ -2,10 +2,10 @@
  "characterID": 854727,
  "characterClassID": 1,
  "raceID": 1,
- "position": 83,
- "rankingPositionChange": 0,
- "gloryPoint": 94509,
- "gloryPointChange": 143,
+ "position": 84,
+ "rankingPositionChange": -1,
+ "gloryPoint": 94502,
+ "gloryPointChange": -7,
  "soldierRankID": 14,
  "characterName": "Golgotor",
  "guildName": "ATIKA",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 94509,
    "gloryPointChange": 143,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 84,
+   "rankingPositionChange": -1,
+   "gloryPoint": 94502,
+   "gloryPointChange": -7,
    "soldierRankID": 14
   }
  ],

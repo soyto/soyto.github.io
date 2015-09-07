@@ -2,9 +2,9 @@
  "characterID": 189667,
  "characterClassID": 8,
  "raceID": 1,
- "position": 324,
- "rankingPositionChange": 2,
- "gloryPoint": 7822,
+ "position": 325,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7794,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Radiezchen",
@@ -278,6 +278,14 @@
    "position": 324,
    "rankingPositionChange": 2,
    "gloryPoint": 7822,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 325,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7794,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

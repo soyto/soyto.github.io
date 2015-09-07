@@ -2,9 +2,9 @@
  "characterID": 709184,
  "characterClassID": 1,
  "raceID": 0,
- "position": 342,
- "rankingPositionChange": 0,
- "gloryPoint": 27520,
+ "position": 344,
+ "rankingPositionChange": -2,
+ "gloryPoint": 27492,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Iowen",
@@ -280,6 +280,14 @@
    "position": 342,
    "rankingPositionChange": 0,
    "gloryPoint": 27520,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 344,
+   "rankingPositionChange": -2,
+   "gloryPoint": 27492,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

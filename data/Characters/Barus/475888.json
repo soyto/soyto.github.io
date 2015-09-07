@@ -2,10 +2,10 @@
  "characterID": 475888,
  "characterClassID": 5,
  "raceID": 1,
- "position": 658,
- "rankingPositionChange": 1,
- "gloryPoint": 19822,
- "gloryPointChange": 48,
+ "position": 659,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19808,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Isshini",
  "guildName": "Kill Me Now",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 19822,
    "gloryPointChange": 48,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 659,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19808,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

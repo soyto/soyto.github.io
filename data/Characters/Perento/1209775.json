@@ -2,9 +2,9 @@
  "characterID": 1209775,
  "characterClassID": 7,
  "raceID": 1,
- "position": 772,
- "rankingPositionChange": 0,
- "gloryPoint": 3084,
+ "position": 778,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3077,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Asterya",
@@ -280,6 +280,14 @@
    "position": 772,
    "rankingPositionChange": 0,
    "gloryPoint": 3084,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 778,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3077,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

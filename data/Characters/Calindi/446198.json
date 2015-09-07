@@ -2,14 +2,12 @@
  "characterID": 446198,
  "characterClassID": 5,
  "raceID": 0,
- "position": 352,
- "rankingPositionChange": 1,
- "gloryPoint": 15015,
+ "position": 355,
+ "rankingPositionChange": -3,
+ "gloryPoint": 14987,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lexaa",
- "guildName": "Hisatsu Yoko",
- "guildID": 10938,
  "status": [
   {
    "date": "2015-08-01T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 15015,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 355,
+   "rankingPositionChange": -3,
+   "gloryPoint": 14987,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -290,6 +296,9 @@
    "date": "2015-08-06T22:00:00.000Z",
    "guildName": "Hisatsu Yoko",
    "guildID": 10938
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

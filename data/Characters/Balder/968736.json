@@ -2,10 +2,10 @@
  "characterID": 968736,
  "characterClassID": 10,
  "raceID": 1,
- "position": 448,
- "rankingPositionChange": 1,
- "gloryPoint": 2859,
- "gloryPointChange": 22,
+ "position": 450,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2831,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Melloa",
  "guildName": "Wings of Anarchy",
@@ -201,6 +201,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 2859,
    "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2831,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

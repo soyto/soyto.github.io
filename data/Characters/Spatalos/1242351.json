@@ -2,9 +2,9 @@
  "characterID": 1242351,
  "characterClassID": 5,
  "raceID": 0,
- "position": 499,
- "rankingPositionChange": 0,
- "gloryPoint": 23764,
+ "position": 500,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23736,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Raytheon",
@@ -176,6 +176,14 @@
    "position": 499,
    "rankingPositionChange": 0,
    "gloryPoint": 23764,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 500,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23736,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

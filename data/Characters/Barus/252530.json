@@ -2,10 +2,10 @@
  "characterID": 252530,
  "characterClassID": 16,
  "raceID": 0,
- "position": 155,
- "rankingPositionChange": 1,
- "gloryPoint": 75280,
- "gloryPointChange": 1,
+ "position": 157,
+ "rankingPositionChange": -2,
+ "gloryPoint": 75234,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Esechiel",
  "guildName": " Clearly Hacking ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 75280,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 157,
+   "rankingPositionChange": -2,
+   "gloryPoint": 75234,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

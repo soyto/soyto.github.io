@@ -2,10 +2,10 @@
  "characterID": 161408,
  "characterClassID": 16,
  "raceID": 1,
- "position": 297,
- "rankingPositionChange": 3,
- "gloryPoint": 25581,
- "gloryPointChange": 579,
+ "position": 299,
+ "rankingPositionChange": -2,
+ "gloryPoint": 25701,
+ "gloryPointChange": 120,
  "soldierRankID": 13,
  "characterName": "Lurikeen",
  "guildName": "Prepotenti",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 25581,
    "gloryPointChange": 579,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": -2,
+   "gloryPoint": 25701,
+   "gloryPointChange": 120,
    "soldierRankID": 13
   }
  ],

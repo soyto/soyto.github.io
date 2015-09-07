@@ -2,9 +2,9 @@
  "characterID": 1023416,
  "characterClassID": 16,
  "raceID": 0,
- "position": 949,
- "rankingPositionChange": 1,
- "gloryPoint": 6401,
+ "position": 953,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6394,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vokalas",
@@ -198,6 +198,14 @@
    "position": 949,
    "rankingPositionChange": 1,
    "gloryPoint": 6401,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 953,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6394,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

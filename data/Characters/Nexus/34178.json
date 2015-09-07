@@ -2,9 +2,9 @@
  "characterID": 34178,
  "characterClassID": 8,
  "raceID": 1,
- "position": 198,
- "rankingPositionChange": 0,
- "gloryPoint": 82522,
+ "position": 199,
+ "rankingPositionChange": -1,
+ "gloryPoint": 82473,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kicia",
@@ -264,6 +264,14 @@
    "position": 198,
    "rankingPositionChange": 0,
    "gloryPoint": 82522,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 199,
+   "rankingPositionChange": -1,
+   "gloryPoint": 82473,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

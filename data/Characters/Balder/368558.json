@@ -2,9 +2,9 @@
  "characterID": 368558,
  "characterClassID": 10,
  "raceID": 1,
- "position": 87,
- "rankingPositionChange": 0,
- "gloryPoint": 69909,
+ "position": 88,
+ "rankingPositionChange": -1,
+ "gloryPoint": 69802,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Kalseru",
@@ -280,6 +280,14 @@
    "position": 87,
    "rankingPositionChange": 0,
    "gloryPoint": 69909,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 88,
+   "rankingPositionChange": -1,
+   "gloryPoint": 69802,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

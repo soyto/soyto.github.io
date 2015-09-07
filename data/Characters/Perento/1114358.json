@@ -2,9 +2,9 @@
  "characterID": 1114358,
  "characterClassID": 16,
  "raceID": 0,
- "position": 540,
- "rankingPositionChange": 0,
- "gloryPoint": 17230,
+ "position": 541,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17216,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Achhan",
@@ -280,6 +280,14 @@
    "position": 540,
    "rankingPositionChange": 0,
    "gloryPoint": 17230,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 541,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17216,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

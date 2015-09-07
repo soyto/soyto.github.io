@@ -2,9 +2,9 @@
  "characterID": 85539,
  "characterClassID": 14,
  "raceID": 0,
- "position": 966,
- "rankingPositionChange": 0,
- "gloryPoint": 8927,
+ "position": 970,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8920,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dott",
@@ -272,6 +272,14 @@
    "position": 966,
    "rankingPositionChange": 0,
    "gloryPoint": 8927,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 970,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8920,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

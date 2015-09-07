@@ -2,10 +2,10 @@
  "characterID": 1034069,
  "characterClassID": 16,
  "raceID": 1,
- "position": 70,
- "rankingPositionChange": 0,
- "gloryPoint": 88739,
- "gloryPointChange": 87,
+ "position": 72,
+ "rankingPositionChange": -2,
+ "gloryPoint": 88694,
+ "gloryPointChange": -45,
  "soldierRankID": 14,
  "characterName": "Kee",
  "guildName": "Black Hawks",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 88739,
    "gloryPointChange": 87,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 72,
+   "rankingPositionChange": -2,
+   "gloryPoint": 88694,
+   "gloryPointChange": -45,
    "soldierRankID": 14
   }
  ],

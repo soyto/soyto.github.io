@@ -2,10 +2,10 @@
  "characterID": 550545,
  "characterClassID": 7,
  "raceID": 0,
- "position": 849,
- "rankingPositionChange": 2,
- "gloryPoint": 6397,
- "gloryPointChange": 43,
+ "position": 853,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6390,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Greatozi",
  "guildName": "Heavens",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 6397,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 853,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6390,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

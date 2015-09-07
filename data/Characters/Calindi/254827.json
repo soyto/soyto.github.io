@@ -2,9 +2,9 @@
  "characterID": 254827,
  "characterClassID": 5,
  "raceID": 0,
- "position": 861,
- "rankingPositionChange": 2,
- "gloryPoint": 1540,
+ "position": 866,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1533,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Edith",
@@ -278,6 +278,14 @@
    "position": 861,
    "rankingPositionChange": 2,
    "gloryPoint": 1540,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 866,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1533,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

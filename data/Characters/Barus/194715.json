@@ -2,10 +2,10 @@
  "characterID": 194715,
  "characterClassID": 2,
  "raceID": 1,
- "position": 986,
- "rankingPositionChange": 2,
- "gloryPoint": 9541,
- "gloryPointChange": 23,
+ "position": 989,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9607,
+ "gloryPointChange": 66,
  "soldierRankID": 10,
  "characterName": "Grassant",
  "guildName": "Mad Penguins",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 9541,
    "gloryPointChange": 23,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9607,
+   "gloryPointChange": 66,
    "soldierRankID": 10
   }
  ],

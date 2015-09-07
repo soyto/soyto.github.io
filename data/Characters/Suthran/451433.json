@@ -2,9 +2,9 @@
  "characterID": 451433,
  "characterClassID": 10,
  "raceID": 1,
- "position": 268,
- "rankingPositionChange": 0,
- "gloryPoint": 40198,
+ "position": 269,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40149,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Zemkeltank",
@@ -280,6 +280,14 @@
    "position": 268,
    "rankingPositionChange": 0,
    "gloryPoint": 40198,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 269,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40149,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

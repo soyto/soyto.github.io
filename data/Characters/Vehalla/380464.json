@@ -2,10 +2,10 @@
  "characterID": 380464,
  "characterClassID": 8,
  "raceID": 1,
- "position": 459,
- "rankingPositionChange": 4,
- "gloryPoint": 2405,
- "gloryPointChange": -28,
+ "position": 464,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2380,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Vesto",
  "guildName": "Impera",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 2405,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 464,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2380,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

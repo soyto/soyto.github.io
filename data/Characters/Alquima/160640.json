@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 931,
- "rankingPositionChange": -4,
- "gloryPoint": 6370,
- "gloryPointChange": -7,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6413,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Claymorrow",
  "status": [
@@ -255,6 +255,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 6370,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 931,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6413,
+   "gloryPointChange": 43,
    "soldierRankID": 10
   }
  ],

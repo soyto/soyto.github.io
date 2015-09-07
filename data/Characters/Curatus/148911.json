@@ -2,14 +2,12 @@
  "characterID": 148911,
  "characterClassID": 16,
  "raceID": 0,
- "position": 850,
- "rankingPositionChange": 3,
- "gloryPoint": 11774,
- "gloryPointChange": 80,
+ "position": 856,
+ "rankingPositionChange": -6,
+ "gloryPoint": 11798,
+ "gloryPointChange": 24,
  "soldierRankID": 10,
  "characterName": "Ikklabel",
- "guildName": "JFF",
- "guildID": 3244,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 11774,
    "gloryPointChange": 80,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 856,
+   "rankingPositionChange": -6,
+   "gloryPoint": 11798,
+   "gloryPointChange": 24,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "JFF",
    "guildID": 3244
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

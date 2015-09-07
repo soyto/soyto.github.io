@@ -2,10 +2,10 @@
  "characterID": 107452,
  "characterClassID": 1,
  "raceID": 0,
- "position": 142,
- "rankingPositionChange": -1,
- "gloryPoint": 120560,
- "gloryPointChange": 101,
+ "position": 141,
+ "rankingPositionChange": 1,
+ "gloryPoint": 121231,
+ "gloryPointChange": 671,
  "soldierRankID": 13,
  "characterName": "Belmond",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 120560,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 141,
+   "rankingPositionChange": 1,
+   "gloryPoint": 121231,
+   "gloryPointChange": 671,
    "soldierRankID": 13
   }
  ],

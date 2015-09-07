@@ -2,9 +2,9 @@
  "characterID": 329195,
  "characterClassID": 14,
  "raceID": 0,
- "position": 157,
- "rankingPositionChange": 1,
- "gloryPoint": 75069,
+ "position": 159,
+ "rankingPositionChange": -2,
+ "gloryPoint": 75120,
  "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Soulvar",
@@ -280,6 +280,14 @@
    "position": 157,
    "rankingPositionChange": 1,
    "gloryPoint": 75069,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": -2,
+   "gloryPoint": 75120,
    "gloryPointChange": 51,
    "soldierRankID": 13
   }

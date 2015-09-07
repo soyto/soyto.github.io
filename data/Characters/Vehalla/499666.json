@@ -2,9 +2,9 @@
  "characterID": 499666,
  "characterClassID": 2,
  "raceID": 1,
- "position": 574,
- "rankingPositionChange": 1,
- "gloryPoint": 1450,
+ "position": 580,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1436,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Tarista",
@@ -280,6 +280,14 @@
    "position": 574,
    "rankingPositionChange": 1,
    "gloryPoint": 1450,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 580,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1436,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

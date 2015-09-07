@@ -2,10 +2,10 @@
  "characterID": 22593,
  "characterClassID": 2,
  "raceID": 0,
- "position": 57,
- "rankingPositionChange": 0,
- "gloryPoint": 153058,
- "gloryPointChange": 315,
+ "position": 58,
+ "rankingPositionChange": -1,
+ "gloryPoint": 154008,
+ "gloryPointChange": 950,
  "soldierRankID": 14,
  "characterName": "Rjd",
  "guildName": "Astralis",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 153058,
    "gloryPointChange": 315,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": -1,
+   "gloryPoint": 154008,
+   "gloryPointChange": 950,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 463447,
  "characterClassID": 10,
  "raceID": 1,
- "position": 899,
- "rankingPositionChange": 10,
- "gloryPoint": 2659,
- "gloryPointChange": 93,
+ "position": 903,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2652,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Baron",
  "guildName": "Lionhearts",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 2659,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 903,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2652,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

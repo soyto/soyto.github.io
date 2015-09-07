@@ -2,10 +2,10 @@
  "characterID": 1183862,
  "characterClassID": 10,
  "raceID": 0,
- "position": 47,
- "rankingPositionChange": 0,
- "gloryPoint": 166407,
- "gloryPointChange": 221,
+ "position": 48,
+ "rankingPositionChange": -1,
+ "gloryPoint": 166850,
+ "gloryPointChange": 443,
  "soldierRankID": 14,
  "characterName": "Charmix",
  "guildName": "Havoc",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 166407,
    "gloryPointChange": 221,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 48,
+   "rankingPositionChange": -1,
+   "gloryPoint": 166850,
+   "gloryPointChange": 443,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1229420,
  "characterClassID": 14,
  "raceID": 0,
- "position": 830,
- "rankingPositionChange": 1,
- "gloryPoint": 19236,
+ "position": 835,
+ "rankingPositionChange": -5,
+ "gloryPoint": 19229,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hupefloh",
@@ -280,6 +280,14 @@
    "position": 830,
    "rankingPositionChange": 1,
    "gloryPoint": 19236,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 835,
+   "rankingPositionChange": -5,
+   "gloryPoint": 19229,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,12 +2,14 @@
  "characterID": 1659348,
  "characterClassID": 11,
  "raceID": 1,
- "position": 653,
- "rankingPositionChange": 9,
- "gloryPoint": 5062,
- "gloryPointChange": 136,
+ "position": 643,
+ "rankingPositionChange": 10,
+ "gloryPoint": 5376,
+ "gloryPointChange": 314,
  "soldierRankID": 11,
  "characterName": "Miitsii",
+ "guildName": "BandOfBrothers",
+ "guildID": 9893,
  "status": [
   {
    "date": "2015-08-27T22:00:00.000Z",
@@ -72,6 +74,14 @@
    "gloryPoint": 5062,
    "gloryPointChange": 136,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 643,
+   "rankingPositionChange": 10,
+   "gloryPoint": 5376,
+   "gloryPointChange": 314,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -88,6 +98,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "BandOfBrothers",
+   "guildID": 9893
   }
  ]
 }

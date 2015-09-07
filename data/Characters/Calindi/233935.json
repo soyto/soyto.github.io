@@ -2,10 +2,10 @@
  "characterID": 233935,
  "characterClassID": 4,
  "raceID": 0,
- "position": 221,
- "rankingPositionChange": 0,
- "gloryPoint": 31849,
- "gloryPointChange": -49,
+ "position": 225,
+ "rankingPositionChange": -4,
+ "gloryPoint": 31866,
+ "gloryPointChange": 17,
  "soldierRankID": 13,
  "characterName": "Sodii",
  "status": [
@@ -119,6 +119,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 31849,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 225,
+   "rankingPositionChange": -4,
+   "gloryPoint": 31866,
+   "gloryPointChange": 17,
    "soldierRankID": 13
   }
  ],

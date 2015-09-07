@@ -2,9 +2,9 @@
  "characterID": 441402,
  "characterClassID": 7,
  "raceID": 0,
- "position": 571,
- "rankingPositionChange": 0,
- "gloryPoint": 2049,
+ "position": 575,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2035,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Callev",
@@ -280,6 +280,14 @@
    "position": 571,
    "rankingPositionChange": 0,
    "gloryPoint": 2049,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2035,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

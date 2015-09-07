@@ -2,10 +2,10 @@
  "characterID": 589224,
  "characterClassID": 5,
  "raceID": 1,
- "position": 685,
- "rankingPositionChange": 10,
- "gloryPoint": 11167,
- "gloryPointChange": 274,
+ "position": 687,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11169,
+ "gloryPointChange": 2,
  "soldierRankID": 11,
  "characterName": "Track",
  "guildName": "Track",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 11167,
    "gloryPointChange": 274,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11169,
+   "gloryPointChange": 2,
    "soldierRankID": 11
   }
  ],

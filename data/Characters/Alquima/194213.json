@@ -2,9 +2,9 @@
  "characterID": 194213,
  "characterClassID": 5,
  "raceID": 1,
- "position": 17,
- "rankingPositionChange": 0,
- "gloryPoint": 175652,
+ "position": 18,
+ "rankingPositionChange": -1,
+ "gloryPoint": 175533,
  "gloryPointChange": -119,
  "soldierRankID": 15,
  "characterName": "Vaginesil",
@@ -280,6 +280,14 @@
    "position": 17,
    "rankingPositionChange": 0,
    "gloryPoint": 175652,
+   "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 18,
+   "rankingPositionChange": -1,
+   "gloryPoint": 175533,
    "gloryPointChange": -119,
    "soldierRankID": 15
   }

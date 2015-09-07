@@ -2,9 +2,9 @@
  "characterID": 1004689,
  "characterClassID": 11,
  "raceID": 1,
- "position": 742,
- "rankingPositionChange": 0,
- "gloryPoint": 3440,
+ "position": 743,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3433,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Occultus",
@@ -280,6 +280,14 @@
    "position": 742,
    "rankingPositionChange": 0,
    "gloryPoint": 3440,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 743,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3433,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

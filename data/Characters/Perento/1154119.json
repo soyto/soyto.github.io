@@ -2,10 +2,10 @@
  "characterID": 1154119,
  "characterClassID": 1,
  "raceID": 1,
- "position": 75,
- "rankingPositionChange": 0,
- "gloryPoint": 125614,
- "gloryPointChange": 463,
+ "position": 76,
+ "rankingPositionChange": -1,
+ "gloryPoint": 126636,
+ "gloryPointChange": 1022,
  "soldierRankID": 14,
  "characterName": "Fatball",
  "guildName": "Showbiz",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 125614,
    "gloryPointChange": 463,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 76,
+   "rankingPositionChange": -1,
+   "gloryPoint": 126636,
+   "gloryPointChange": 1022,
    "soldierRankID": 14
   }
  ],

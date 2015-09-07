@@ -2,9 +2,9 @@
  "characterID": 112449,
  "characterClassID": 2,
  "raceID": 0,
- "position": 960,
- "rankingPositionChange": 2,
- "gloryPoint": 9039,
+ "position": 965,
+ "rankingPositionChange": -5,
+ "gloryPoint": 9032,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lupofull",
@@ -272,6 +272,14 @@
    "position": 960,
    "rankingPositionChange": 2,
    "gloryPoint": 9039,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 965,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9032,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

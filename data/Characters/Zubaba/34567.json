@@ -2,10 +2,10 @@
  "characterID": 34567,
  "characterClassID": 11,
  "raceID": 1,
- "position": 53,
- "rankingPositionChange": -1,
- "gloryPoint": 139976,
- "gloryPointChange": 275,
+ "position": 51,
+ "rankingPositionChange": 2,
+ "gloryPoint": 140119,
+ "gloryPointChange": 143,
  "soldierRankID": 14,
  "characterName": "Peer",
  "guildName": "ANCHOR",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 139976,
    "gloryPointChange": 275,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 51,
+   "rankingPositionChange": 2,
+   "gloryPoint": 140119,
+   "gloryPointChange": 143,
    "soldierRankID": 14
   }
  ],

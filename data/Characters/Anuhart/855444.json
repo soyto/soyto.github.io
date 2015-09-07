@@ -2,9 +2,9 @@
  "characterID": 855444,
  "characterClassID": 16,
  "raceID": 0,
- "position": 963,
- "rankingPositionChange": 2,
- "gloryPoint": 4400,
+ "position": 969,
+ "rankingPositionChange": -6,
+ "gloryPoint": 4393,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Iunia",
@@ -176,6 +176,14 @@
    "position": 963,
    "rankingPositionChange": 2,
    "gloryPoint": 4400,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": -6,
+   "gloryPoint": 4393,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

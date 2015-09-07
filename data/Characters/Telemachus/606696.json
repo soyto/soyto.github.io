@@ -2,12 +2,12 @@
  "characterID": 606696,
  "characterClassID": 1,
  "raceID": 1,
- "position": 544,
- "rankingPositionChange": 0,
- "gloryPoint": 2854,
- "gloryPointChange": 36,
+ "position": 546,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2840,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
- "characterName": "Yokaii",
+ "characterName": "Roxiro",
  "guildName": "Valkan Mafia",
  "guildID": 8964,
  "status": [
@@ -282,12 +282,24 @@
    "gloryPoint": 2854,
    "gloryPointChange": 36,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 546,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2840,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Yokaii"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "characterName": "Roxiro"
   }
  ],
  "guilds": [

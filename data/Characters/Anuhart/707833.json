@@ -2,10 +2,10 @@
  "characterID": 707833,
  "characterClassID": 4,
  "raceID": 0,
- "position": 938,
- "rankingPositionChange": 8,
- "gloryPoint": 4746,
- "gloryPointChange": 116,
+ "position": 942,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4739,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mommyli",
  "guildName": "Nightshades",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 4746,
    "gloryPointChange": 116,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4739,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

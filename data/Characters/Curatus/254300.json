@@ -2,10 +2,10 @@
  "characterID": 254300,
  "characterClassID": 5,
  "raceID": 0,
- "position": 515,
- "rankingPositionChange": 5,
- "gloryPoint": 27764,
- "gloryPointChange": 400,
+ "position": 516,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27800,
+ "gloryPointChange": 36,
  "soldierRankID": 11,
  "characterName": "Azeron",
  "guildName": "Sick Minds",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 27764,
    "gloryPointChange": 400,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 516,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27800,
+   "gloryPointChange": 36,
    "soldierRankID": 11
   }
  ],

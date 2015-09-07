@@ -2,9 +2,9 @@
  "characterID": 511508,
  "characterClassID": 10,
  "raceID": 1,
- "position": 544,
- "rankingPositionChange": 3,
- "gloryPoint": 1600,
+ "position": 549,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1586,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nemusa",
@@ -208,6 +208,14 @@
    "position": 544,
    "rankingPositionChange": 3,
    "gloryPoint": 1600,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 549,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1586,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 637108,
  "characterClassID": 10,
  "raceID": 1,
- "position": 600,
- "rankingPositionChange": 0,
- "gloryPoint": 22980,
+ "position": 602,
+ "rankingPositionChange": -2,
+ "gloryPoint": 22966,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Tetsuki",
@@ -272,6 +272,14 @@
    "position": 600,
    "rankingPositionChange": 0,
    "gloryPoint": 22980,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 602,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22966,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

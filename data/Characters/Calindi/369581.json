@@ -2,14 +2,14 @@
  "characterID": 369581,
  "characterClassID": 10,
  "raceID": 1,
- "position": 179,
- "rankingPositionChange": 7,
- "gloryPoint": 4778,
- "gloryPointChange": 322,
+ "position": 178,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5066,
+ "gloryPointChange": 288,
  "soldierRankID": 13,
  "characterName": "Fuwaa",
- "guildName": "Chasseurs de Foudre",
- "guildID": 13938,
+ "guildName": "Happy Burstday",
+ "guildID": 15410,
  "status": [
   {
    "date": "2015-08-27T22:00:00.000Z",
@@ -74,6 +74,14 @@
    "gloryPoint": 4778,
    "gloryPointChange": 322,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 178,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5066,
+   "gloryPointChange": 288,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -87,6 +95,11 @@
    "date": "2015-08-27T22:00:00.000Z",
    "guildName": "Chasseurs de Foudre",
    "guildID": 13938
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Happy Burstday",
+   "guildID": 15410
   }
  ]
 }

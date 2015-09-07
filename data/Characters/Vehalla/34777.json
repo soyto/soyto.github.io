@@ -2,9 +2,9 @@
  "characterID": 34777,
  "characterClassID": 11,
  "raceID": 1,
- "position": 72,
- "rankingPositionChange": -1,
- "gloryPoint": 75102,
+ "position": 71,
+ "rankingPositionChange": 1,
+ "gloryPoint": 74995,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Remake",
@@ -278,6 +278,14 @@
    "position": 72,
    "rankingPositionChange": -1,
    "gloryPoint": 75102,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 71,
+   "rankingPositionChange": 1,
+   "gloryPoint": 74995,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

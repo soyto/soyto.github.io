@@ -2,9 +2,9 @@
  "characterID": 922028,
  "characterClassID": 8,
  "raceID": 1,
- "position": 594,
- "rankingPositionChange": 1,
- "gloryPoint": 1478,
+ "position": 595,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1464,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Arsaria",
@@ -216,6 +216,14 @@
    "position": 594,
    "rankingPositionChange": 1,
    "gloryPoint": 1478,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1464,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

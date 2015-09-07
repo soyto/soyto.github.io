@@ -2,10 +2,10 @@
  "characterID": 980271,
  "characterClassID": 2,
  "raceID": 1,
- "position": 565,
- "rankingPositionChange": 0,
- "gloryPoint": 13203,
- "gloryPointChange": 36,
+ "position": 567,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13189,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Paella",
  "guildName": " Mangeur de Paella ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 13203,
    "gloryPointChange": 36,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 567,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13189,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

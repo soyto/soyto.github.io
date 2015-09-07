@@ -2,9 +2,9 @@
  "characterID": 1228567,
  "characterClassID": 14,
  "raceID": 1,
- "position": 581,
- "rankingPositionChange": 0,
- "gloryPoint": 23878,
+ "position": 583,
+ "rankingPositionChange": -2,
+ "gloryPoint": 23864,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Gunsofglory",
@@ -280,6 +280,14 @@
    "position": 581,
    "rankingPositionChange": 0,
    "gloryPoint": 23878,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 583,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23864,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

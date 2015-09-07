@@ -2,10 +2,10 @@
  "characterID": 714252,
  "characterClassID": 10,
  "raceID": 1,
- "position": 792,
- "rankingPositionChange": 4,
- "gloryPoint": 15769,
- "gloryPointChange": 183,
+ "position": 794,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15762,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Quasimordo",
  "guildName": "Rise Of Fallen Legions",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 15769,
    "gloryPointChange": 183,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 794,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15762,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

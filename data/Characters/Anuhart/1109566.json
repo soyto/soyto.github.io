@@ -2,9 +2,9 @@
  "characterID": 1109566,
  "characterClassID": 10,
  "raceID": 0,
- "position": 709,
- "rankingPositionChange": 0,
- "gloryPoint": 8632,
+ "position": 710,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8625,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sopphi",
@@ -272,6 +272,14 @@
    "position": 709,
    "rankingPositionChange": 0,
    "gloryPoint": 8632,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 710,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8625,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

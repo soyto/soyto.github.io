@@ -2,9 +2,9 @@
  "characterID": 1096487,
  "characterClassID": 14,
  "raceID": 0,
- "position": 898,
- "rankingPositionChange": 0,
- "gloryPoint": 7020,
+ "position": 897,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7013,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Specialistas",
@@ -272,6 +272,14 @@
    "position": 898,
    "rankingPositionChange": 0,
    "gloryPoint": 7020,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 897,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7013,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 705477,
  "characterClassID": 2,
  "raceID": 0,
- "position": 147,
- "rankingPositionChange": 0,
- "gloryPoint": 95820,
- "gloryPointChange": 116,
+ "position": 150,
+ "rankingPositionChange": -3,
+ "gloryPoint": 96070,
+ "gloryPointChange": 250,
  "soldierRankID": 13,
  "characterName": "Pegase",
  "guildName": "Ardet Nec Consumitur",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 95820,
    "gloryPointChange": 116,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": -3,
+   "gloryPoint": 96070,
+   "gloryPointChange": 250,
    "soldierRankID": 13
   }
  ],

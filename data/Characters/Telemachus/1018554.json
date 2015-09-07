@@ -2,10 +2,10 @@
  "characterID": 1018554,
  "characterClassID": 2,
  "raceID": 0,
- "position": 365,
- "rankingPositionChange": 0,
- "gloryPoint": 37635,
- "gloryPointChange": 0,
+ "position": 364,
+ "rankingPositionChange": 1,
+ "gloryPoint": 37607,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sauwyer",
  "guildName": "les FRANCAIS",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 37635,
    "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": 1,
+   "gloryPoint": 37607,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

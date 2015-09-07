@@ -2,9 +2,9 @@
  "characterID": 349124,
  "characterClassID": 13,
  "raceID": 1,
- "position": 361,
- "rankingPositionChange": 2,
- "gloryPoint": 41614,
+ "position": 362,
+ "rankingPositionChange": -1,
+ "gloryPoint": 41586,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mansy",
@@ -280,6 +280,14 @@
    "position": 361,
    "rankingPositionChange": 2,
    "gloryPoint": 41614,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 362,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41586,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

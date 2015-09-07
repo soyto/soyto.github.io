@@ -2,9 +2,9 @@
  "characterID": 1694943,
  "characterClassID": 16,
  "raceID": 0,
- "position": 629,
- "rankingPositionChange": 1,
- "gloryPoint": 27966,
+ "position": 636,
+ "rankingPositionChange": -7,
+ "gloryPoint": 27952,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Gatti",
@@ -280,6 +280,14 @@
    "position": 629,
    "rankingPositionChange": 1,
    "gloryPoint": 27966,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 636,
+   "rankingPositionChange": -7,
+   "gloryPoint": 27952,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

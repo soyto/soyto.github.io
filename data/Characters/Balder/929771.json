@@ -2,10 +2,10 @@
  "characterID": 929771,
  "characterClassID": 8,
  "raceID": 1,
- "position": 106,
- "rankingPositionChange": 0,
- "gloryPoint": 62328,
- "gloryPointChange": -49,
+ "position": 107,
+ "rankingPositionChange": -1,
+ "gloryPoint": 62282,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Tarago",
  "guildName": "Wings of Anarchy",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 62328,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": -1,
+   "gloryPoint": 62282,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

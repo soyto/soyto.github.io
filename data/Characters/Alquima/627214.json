@@ -2,10 +2,10 @@
  "characterID": 627214,
  "characterClassID": 10,
  "raceID": 0,
- "position": 804,
- "rankingPositionChange": 0,
- "gloryPoint": 14073,
- "gloryPointChange": 3,
+ "position": 805,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14066,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Claraotaku",
  "guildName": "Broken Sword",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 14073,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 805,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14066,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

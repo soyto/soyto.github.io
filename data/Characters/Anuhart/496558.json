@@ -2,9 +2,9 @@
  "characterID": 496558,
  "characterClassID": 7,
  "raceID": 1,
- "position": 977,
- "rankingPositionChange": 21,
- "gloryPoint": 1700,
+ "position": 986,
+ "rankingPositionChange": -9,
+ "gloryPoint": 1693,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Tiberiy",
@@ -64,6 +64,14 @@
    "position": 977,
    "rankingPositionChange": 21,
    "gloryPoint": 1700,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1693,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

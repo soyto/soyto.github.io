@@ -2,9 +2,9 @@
  "characterID": 406804,
  "characterClassID": 7,
  "raceID": 0,
- "position": 317,
- "rankingPositionChange": 2,
- "gloryPoint": 47669,
+ "position": 318,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47641,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Magmanus",
@@ -208,6 +208,14 @@
    "position": 317,
    "rankingPositionChange": 2,
    "gloryPoint": 47669,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 318,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47641,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

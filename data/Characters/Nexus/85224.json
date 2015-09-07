@@ -2,14 +2,12 @@
  "characterID": 85224,
  "characterClassID": 5,
  "raceID": 0,
- "position": 355,
- "rankingPositionChange": 0,
- "gloryPoint": 27989,
+ "position": 356,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27961,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kompotka",
- "guildName": "Fantasy",
- "guildID": 1006,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,6 +264,14 @@
    "gloryPoint": 27989,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 356,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27961,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -279,6 +285,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Fantasy",
    "guildID": 1006
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 417239,
  "characterClassID": 16,
  "raceID": 0,
- "position": 61,
- "rankingPositionChange": 0,
- "gloryPoint": 93066,
+ "position": 63,
+ "rankingPositionChange": -2,
+ "gloryPoint": 92959,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Crystalize",
@@ -270,6 +270,14 @@
    "position": 61,
    "rankingPositionChange": 0,
    "gloryPoint": 93066,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 63,
+   "rankingPositionChange": -2,
+   "gloryPoint": 92959,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

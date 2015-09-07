@@ -2,9 +2,9 @@
  "characterID": 367857,
  "characterClassID": 10,
  "raceID": 0,
- "position": 777,
- "rankingPositionChange": 4,
- "gloryPoint": 2833,
+ "position": 778,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2826,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Elu",
@@ -280,6 +280,14 @@
    "position": 777,
    "rankingPositionChange": 4,
    "gloryPoint": 2833,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 778,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2826,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

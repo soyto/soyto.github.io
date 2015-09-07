@@ -2,9 +2,9 @@
  "characterID": 58251,
  "characterClassID": 16,
  "raceID": 1,
- "position": 96,
- "rankingPositionChange": 0,
- "gloryPoint": 118123,
+ "position": 98,
+ "rankingPositionChange": -2,
+ "gloryPoint": 118016,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Salie",
@@ -278,6 +278,14 @@
    "position": 96,
    "rankingPositionChange": 0,
    "gloryPoint": 118123,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 98,
+   "rankingPositionChange": -2,
+   "gloryPoint": 118016,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

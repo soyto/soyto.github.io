@@ -2,9 +2,9 @@
  "characterID": 1092025,
  "characterClassID": 11,
  "raceID": 0,
- "position": 271,
- "rankingPositionChange": -1,
- "gloryPoint": 53322,
+ "position": 270,
+ "rankingPositionChange": 1,
+ "gloryPoint": 53273,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nekostep",
@@ -278,6 +278,14 @@
    "position": 271,
    "rankingPositionChange": -1,
    "gloryPoint": 53322,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": 1,
+   "gloryPoint": 53273,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

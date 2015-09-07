@@ -2,10 +2,10 @@
  "characterID": 631819,
  "characterClassID": 10,
  "raceID": 0,
- "position": 333,
- "rankingPositionChange": 0,
- "gloryPoint": 47856,
- "gloryPointChange": 52,
+ "position": 334,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47858,
+ "gloryPointChange": 2,
  "soldierRankID": 12,
  "characterName": "Archangelle",
  "guildName": "Noi",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 47856,
    "gloryPointChange": 52,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 334,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47858,
+   "gloryPointChange": 2,
    "soldierRankID": 12
   }
  ],

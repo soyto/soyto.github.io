@@ -2,9 +2,9 @@
  "characterID": 563760,
  "characterClassID": 10,
  "raceID": 0,
- "position": 616,
- "rankingPositionChange": 0,
- "gloryPoint": 17624,
+ "position": 617,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17610,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Skystrap",
@@ -280,6 +280,14 @@
    "position": 616,
    "rankingPositionChange": 0,
    "gloryPoint": 17624,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 617,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17610,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

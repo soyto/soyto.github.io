@@ -2,9 +2,9 @@
  "characterID": 954584,
  "characterClassID": 4,
  "raceID": 0,
- "position": 776,
- "rankingPositionChange": 4,
- "gloryPoint": 11157,
+ "position": 778,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11150,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Skidrow",
@@ -278,6 +278,14 @@
    "position": 776,
    "rankingPositionChange": 4,
    "gloryPoint": 11157,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 778,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11150,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

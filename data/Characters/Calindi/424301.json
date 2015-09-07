@@ -2,9 +2,9 @@
  "characterID": 424301,
  "characterClassID": 16,
  "raceID": 1,
- "position": 73,
- "rankingPositionChange": 0,
- "gloryPoint": 23520,
+ "position": 75,
+ "rankingPositionChange": -2,
+ "gloryPoint": 23413,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Ahriiie",
@@ -230,6 +230,14 @@
    "position": 73,
    "rankingPositionChange": 0,
    "gloryPoint": 23520,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 75,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23413,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

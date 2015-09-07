@@ -2,10 +2,10 @@
  "characterID": 1112614,
  "characterClassID": 14,
  "raceID": 1,
- "position": 144,
- "rankingPositionChange": 0,
- "gloryPoint": 45961,
- "gloryPointChange": 0,
+ "position": 143,
+ "rankingPositionChange": 1,
+ "gloryPoint": 45912,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Gerobatraxos",
  "guildName": "M I N I O N",
@@ -17,6 +17,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 45961,
    "gloryPointChange": 0,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 143,
+   "rankingPositionChange": 1,
+   "gloryPoint": 45912,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 513899,
  "characterClassID": 16,
  "raceID": 0,
- "position": 557,
- "rankingPositionChange": 6,
- "gloryPoint": 2250,
- "gloryPointChange": 48,
+ "position": 560,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2236,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Bardynax",
  "guildName": "Moon",
@@ -201,6 +201,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 2250,
    "gloryPointChange": 48,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 560,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2236,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

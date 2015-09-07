@@ -2,10 +2,10 @@
  "characterID": 278208,
  "characterClassID": 16,
  "raceID": 1,
- "position": 388,
- "rankingPositionChange": -1,
- "gloryPoint": 15932,
- "gloryPointChange": -28,
+ "position": 387,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15913,
+ "gloryPointChange": -19,
  "soldierRankID": 12,
  "characterName": "Synix",
  "status": [
@@ -223,6 +223,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 15932,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15913,
+   "gloryPointChange": -19,
    "soldierRankID": 12
   }
  ],

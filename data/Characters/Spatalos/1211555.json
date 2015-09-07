@@ -2,9 +2,9 @@
  "characterID": 1211555,
  "characterClassID": 2,
  "raceID": 0,
- "position": 425,
- "rankingPositionChange": 2,
- "gloryPoint": 30058,
+ "position": 426,
+ "rankingPositionChange": -1,
+ "gloryPoint": 30030,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ultratanker",
@@ -280,6 +280,14 @@
    "position": 425,
    "rankingPositionChange": 2,
    "gloryPoint": 30058,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 426,
+   "rankingPositionChange": -1,
+   "gloryPoint": 30030,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

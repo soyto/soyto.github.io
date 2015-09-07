@@ -2,9 +2,9 @@
  "characterID": 1137356,
  "characterClassID": 10,
  "raceID": 1,
- "position": 430,
- "rankingPositionChange": 1,
- "gloryPoint": 18778,
+ "position": 434,
+ "rankingPositionChange": -4,
+ "gloryPoint": 18750,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Tanirae",
@@ -280,6 +280,14 @@
    "position": 430,
    "rankingPositionChange": 1,
    "gloryPoint": 18778,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 434,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18750,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

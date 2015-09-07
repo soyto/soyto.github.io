@@ -2,9 +2,9 @@
  "characterID": 198697,
  "characterClassID": 8,
  "raceID": 0,
- "position": 231,
- "rankingPositionChange": 0,
- "gloryPoint": 33555,
+ "position": 233,
+ "rankingPositionChange": -2,
+ "gloryPoint": 33506,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Ashaty",
@@ -280,6 +280,14 @@
    "position": 231,
    "rankingPositionChange": 0,
    "gloryPoint": 33555,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 233,
+   "rankingPositionChange": -2,
+   "gloryPoint": 33506,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

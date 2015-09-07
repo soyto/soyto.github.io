@@ -2,10 +2,10 @@
  "characterID": 701480,
  "characterClassID": 4,
  "raceID": 0,
- "position": 71,
- "rankingPositionChange": 0,
- "gloryPoint": 181528,
- "gloryPointChange": 303,
+ "position": 72,
+ "rankingPositionChange": -1,
+ "gloryPoint": 181421,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Smallstep",
  "guildName": "HUN Army",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 181528,
    "gloryPointChange": 303,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 72,
+   "rankingPositionChange": -1,
+   "gloryPoint": 181421,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

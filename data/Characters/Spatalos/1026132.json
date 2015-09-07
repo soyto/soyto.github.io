@@ -2,9 +2,9 @@
  "characterID": 1026132,
  "characterClassID": 11,
  "raceID": 0,
- "position": 980,
- "rankingPositionChange": 1,
- "gloryPoint": 5962,
+ "position": 985,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5955,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Flufflez",
@@ -278,6 +278,14 @@
    "position": 980,
    "rankingPositionChange": 1,
    "gloryPoint": 5962,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5955,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

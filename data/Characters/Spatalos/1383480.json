@@ -2,10 +2,10 @@
  "characterID": 1383480,
  "characterClassID": 7,
  "raceID": 0,
- "position": 830,
- "rankingPositionChange": 9,
- "gloryPoint": 9523,
- "gloryPointChange": 256,
+ "position": 832,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9516,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Traficantul",
  "guildName": "Spartan Legend",
@@ -177,6 +177,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 9523,
    "gloryPointChange": 256,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 832,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9516,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

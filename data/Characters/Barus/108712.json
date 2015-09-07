@@ -2,9 +2,9 @@
  "characterID": 108712,
  "characterClassID": 14,
  "raceID": 1,
- "position": 330,
- "rankingPositionChange": 1,
- "gloryPoint": 46089,
+ "position": 331,
+ "rankingPositionChange": -1,
+ "gloryPoint": 46061,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Aeterno",
@@ -134,6 +134,14 @@
    "position": 330,
    "rankingPositionChange": 1,
    "gloryPoint": 46089,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 331,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46061,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

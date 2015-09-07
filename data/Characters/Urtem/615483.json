@@ -2,10 +2,10 @@
  "characterID": 615483,
  "characterClassID": 8,
  "raceID": 1,
- "position": 664,
- "rankingPositionChange": 11,
- "gloryPoint": 12568,
- "gloryPointChange": 135,
+ "position": 669,
+ "rankingPositionChange": -5,
+ "gloryPoint": 12554,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Nervousstorm",
  "guildName": "Paradizia",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 12568,
    "gloryPointChange": 135,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 669,
+   "rankingPositionChange": -5,
+   "gloryPoint": 12554,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

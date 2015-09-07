@@ -2,10 +2,10 @@
  "characterID": 459403,
  "characterClassID": 1,
  "raceID": 1,
- "position": 411,
- "rankingPositionChange": 6,
+ "position": 412,
+ "rankingPositionChange": -1,
  "gloryPoint": 3557,
- "gloryPointChange": 33,
+ "gloryPointChange": 0,
  "soldierRankID": 12,
  "characterName": "Rocketeer",
  "guildName": "Wings of Evil ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 3557,
    "gloryPointChange": 33,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 412,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3557,
+   "gloryPointChange": 0,
    "soldierRankID": 12
   }
  ],

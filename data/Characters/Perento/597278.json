@@ -2,9 +2,9 @@
  "characterID": 597278,
  "characterClassID": 4,
  "raceID": 1,
- "position": 765,
- "rankingPositionChange": 0,
- "gloryPoint": 3169,
+ "position": 768,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3162,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Autumnwhisper",
@@ -280,6 +280,14 @@
    "position": 765,
    "rankingPositionChange": 0,
    "gloryPoint": 3169,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 768,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3162,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

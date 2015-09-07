@@ -2,10 +2,10 @@
  "characterID": 729422,
  "characterClassID": 1,
  "raceID": 0,
- "position": 496,
- "rankingPositionChange": 1,
- "gloryPoint": 14510,
- "gloryPointChange": 222,
+ "position": 498,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14482,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mancerayder",
  "guildName": "LionHeart",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 14510,
    "gloryPointChange": 222,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 498,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14482,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 307343,
  "characterClassID": 10,
  "raceID": 0,
- "position": 342,
- "rankingPositionChange": 0,
- "gloryPoint": 29516,
+ "position": 345,
+ "rankingPositionChange": -3,
+ "gloryPoint": 29488,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Vinga",
@@ -262,6 +262,14 @@
    "position": 342,
    "rankingPositionChange": 0,
    "gloryPoint": 29516,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 345,
+   "rankingPositionChange": -3,
+   "gloryPoint": 29488,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

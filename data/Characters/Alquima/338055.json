@@ -2,14 +2,14 @@
  "characterID": 338055,
  "characterClassID": 10,
  "raceID": 1,
- "position": 548,
- "rankingPositionChange": 4,
- "gloryPoint": 14361,
- "gloryPointChange": 86,
+ "position": 540,
+ "rankingPositionChange": 8,
+ "gloryPoint": 14722,
+ "gloryPointChange": 361,
  "soldierRankID": 11,
  "characterName": "Ekia",
- "guildName": "The Nephelim",
- "guildID": 13318,
+ "guildName": "The Mist",
+ "guildID": 2407,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 14361,
    "gloryPointChange": 86,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": 8,
+   "gloryPoint": 14722,
+   "gloryPointChange": 361,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Nephelim",
    "guildID": 13318
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "The Mist",
+   "guildID": 2407
   }
  ]
 }

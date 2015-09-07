@@ -2,9 +2,9 @@
  "characterID": 1199645,
  "characterClassID": 2,
  "raceID": 0,
- "position": 560,
- "rankingPositionChange": 0,
- "gloryPoint": 12447,
+ "position": 562,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12433,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kuums",
@@ -256,6 +256,14 @@
    "position": 560,
    "rankingPositionChange": 0,
    "gloryPoint": 12447,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 562,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12433,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

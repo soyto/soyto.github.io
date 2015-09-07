@@ -2,9 +2,9 @@
  "characterID": 614030,
  "characterClassID": 7,
  "raceID": 1,
- "position": 606,
- "rankingPositionChange": 1,
- "gloryPoint": 1421,
+ "position": 608,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1407,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Welo",
@@ -280,6 +280,14 @@
    "position": 606,
    "rankingPositionChange": 1,
    "gloryPoint": 1421,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 608,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1407,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

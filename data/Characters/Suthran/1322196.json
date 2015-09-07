@@ -2,9 +2,9 @@
  "characterID": 1322196,
  "characterClassID": 8,
  "raceID": 1,
- "position": 225,
- "rankingPositionChange": 1,
- "gloryPoint": 48394,
+ "position": 226,
+ "rankingPositionChange": -1,
+ "gloryPoint": 48345,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Cathoularebelle",
@@ -278,6 +278,14 @@
    "position": 225,
    "rankingPositionChange": 1,
    "gloryPoint": 48394,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 226,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48345,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

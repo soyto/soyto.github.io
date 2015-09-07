@@ -2,9 +2,9 @@
  "characterID": 46742,
  "characterClassID": 4,
  "raceID": 1,
- "position": 293,
- "rankingPositionChange": 0,
- "gloryPoint": 26291,
+ "position": 294,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26242,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Levis",
@@ -280,6 +280,14 @@
    "position": 293,
    "rankingPositionChange": 0,
    "gloryPoint": 26291,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 294,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26242,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

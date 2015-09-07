@@ -2,9 +2,9 @@
  "characterID": 1040761,
  "characterClassID": 7,
  "raceID": 0,
- "position": 430,
- "rankingPositionChange": 0,
- "gloryPoint": 28466,
+ "position": 432,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28438,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Liwen",
@@ -280,6 +280,14 @@
    "position": 430,
    "rankingPositionChange": 0,
    "gloryPoint": 28466,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 432,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28438,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

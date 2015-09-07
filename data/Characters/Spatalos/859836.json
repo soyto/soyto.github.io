@@ -2,10 +2,10 @@
  "characterID": 859836,
  "characterClassID": 10,
  "raceID": 1,
- "position": 141,
- "rankingPositionChange": 0,
- "gloryPoint": 47803,
- "gloryPointChange": 10,
+ "position": 143,
+ "rankingPositionChange": -2,
+ "gloryPoint": 48026,
+ "gloryPointChange": 223,
  "soldierRankID": 13,
  "characterName": "Sampa",
  "guildName": "Howl at the Moon",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 47803,
    "gloryPointChange": 10,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 143,
+   "rankingPositionChange": -2,
+   "gloryPoint": 48026,
+   "gloryPointChange": 223,
    "soldierRankID": 13
   }
  ],

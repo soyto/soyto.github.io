@@ -2,12 +2,12 @@
  "characterID": 224950,
  "characterClassID": 1,
  "raceID": 0,
- "position": 385,
- "rankingPositionChange": 0,
- "gloryPoint": 21729,
- "gloryPointChange": 212,
+ "position": 387,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21711,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
- "characterName": "Lordkatil",
+ "characterName": "Liee",
  "guildName": "    A  L  P  H  A   ",
  "guildID": 1051,
  "status": [
@@ -282,12 +282,24 @@
    "gloryPoint": 21729,
    "gloryPointChange": 212,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 387,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21711,
+   "gloryPointChange": -18,
+   "soldierRankID": 12
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Lordkatil"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "characterName": "Liee"
   }
  ],
  "guilds": [

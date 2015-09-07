@@ -2,9 +2,9 @@
  "characterID": 443036,
  "characterClassID": 1,
  "raceID": 0,
- "position": 726,
- "rankingPositionChange": 2,
- "gloryPoint": 8218,
+ "position": 728,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8211,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Testoviron",
@@ -280,6 +280,14 @@
    "position": 726,
    "rankingPositionChange": 2,
    "gloryPoint": 8218,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 728,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8211,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

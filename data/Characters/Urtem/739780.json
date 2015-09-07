@@ -2,10 +2,10 @@
  "characterID": 739780,
  "characterClassID": 10,
  "raceID": 0,
- "position": 674,
- "rankingPositionChange": 3,
- "gloryPoint": 24034,
- "gloryPointChange": 86,
+ "position": 684,
+ "rankingPositionChange": -10,
+ "gloryPoint": 24020,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Arrieluma",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 24034,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 684,
+   "rankingPositionChange": -10,
+   "gloryPoint": 24020,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

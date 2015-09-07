@@ -2,10 +2,10 @@
  "characterID": 847576,
  "characterClassID": 2,
  "raceID": 1,
- "position": 243,
- "rankingPositionChange": 0,
- "gloryPoint": 35289,
- "gloryPointChange": -46,
+ "position": 247,
+ "rankingPositionChange": -4,
+ "gloryPoint": 35240,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sgls",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35289,
    "gloryPointChange": -46,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 247,
+   "rankingPositionChange": -4,
+   "gloryPoint": 35240,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

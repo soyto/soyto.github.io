@@ -2,10 +2,10 @@
  "characterID": 1220590,
  "characterClassID": 10,
  "raceID": 1,
- "position": 145,
- "rankingPositionChange": 1,
- "gloryPoint": 47050,
- "gloryPointChange": 522,
+ "position": 146,
+ "rankingPositionChange": -1,
+ "gloryPoint": 47287,
+ "gloryPointChange": 237,
  "soldierRankID": 13,
  "characterName": "Chapla",
  "guildName": "Lionhearts",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 47050,
    "gloryPointChange": 522,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": -1,
+   "gloryPoint": 47287,
+   "gloryPointChange": 237,
    "soldierRankID": 13
   }
  ],

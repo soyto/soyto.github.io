@@ -2,12 +2,14 @@
  "characterID": 1128494,
  "characterClassID": 14,
  "raceID": 1,
- "position": 212,
- "rankingPositionChange": 0,
- "gloryPoint": 35736,
- "gloryPointChange": 13,
+ "position": 213,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35968,
+ "gloryPointChange": 232,
  "soldierRankID": 13,
  "characterName": "Misakuraya",
+ "guildName": "Superior",
+ "guildID": 38011,
  "status": [
   {
    "date": "2015-08-12T22:00:00.000Z",
@@ -184,6 +186,14 @@
    "gloryPoint": 35736,
    "gloryPointChange": 13,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 213,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35968,
+   "gloryPointChange": 232,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -208,6 +218,11 @@
   },
   {
    "date": "2015-08-23T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Superior",
+   "guildID": 38011
   }
  ]
 }

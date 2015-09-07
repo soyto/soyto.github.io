@@ -2,12 +2,14 @@
  "characterID": 953581,
  "characterClassID": 7,
  "raceID": 1,
- "position": 778,
- "rankingPositionChange": 2,
- "gloryPoint": 1250,
- "gloryPointChange": -7,
+ "position": 790,
+ "rankingPositionChange": -12,
+ "gloryPoint": 1252,
+ "gloryPointChange": 2,
  "soldierRankID": 10,
  "characterName": "Sealofdeath",
+ "guildName": "Paradigma",
+ "guildID": 1176,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -176,6 +178,14 @@
    "gloryPoint": 1250,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 790,
+   "rankingPositionChange": -12,
+   "gloryPoint": 1252,
+   "gloryPointChange": 2,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -187,6 +197,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Paradigma",
+   "guildID": 1176
   }
  ]
 }

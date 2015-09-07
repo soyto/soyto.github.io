@@ -2,9 +2,9 @@
  "characterID": 508814,
  "characterClassID": 4,
  "raceID": 0,
- "position": 819,
- "rankingPositionChange": 0,
- "gloryPoint": 1851,
+ "position": 827,
+ "rankingPositionChange": -8,
+ "gloryPoint": 1844,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Jessydark",
@@ -280,6 +280,14 @@
    "position": 819,
    "rankingPositionChange": 0,
    "gloryPoint": 1851,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 827,
+   "rankingPositionChange": -8,
+   "gloryPoint": 1844,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

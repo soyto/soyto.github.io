@@ -2,9 +2,9 @@
  "characterID": 762459,
  "characterClassID": 1,
  "raceID": 1,
- "position": 641,
- "rankingPositionChange": 2,
- "gloryPoint": 4846,
+ "position": 642,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4832,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Looool",
@@ -280,6 +280,14 @@
    "position": 641,
    "rankingPositionChange": 2,
    "gloryPoint": 4846,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 642,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4832,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

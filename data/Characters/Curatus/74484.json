@@ -2,9 +2,9 @@
  "characterID": 74484,
  "characterClassID": 16,
  "raceID": 1,
- "position": 689,
- "rankingPositionChange": 0,
- "gloryPoint": 6941,
+ "position": 691,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6927,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kingzero",
@@ -80,6 +80,14 @@
    "position": 689,
    "rankingPositionChange": 0,
    "gloryPoint": 6941,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 691,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6927,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

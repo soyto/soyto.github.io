@@ -2,10 +2,10 @@
  "characterID": 230393,
  "characterClassID": 1,
  "raceID": 1,
- "position": 134,
- "rankingPositionChange": 0,
- "gloryPoint": 69120,
- "gloryPointChange": 89,
+ "position": 135,
+ "rankingPositionChange": -1,
+ "gloryPoint": 69649,
+ "gloryPointChange": 529,
  "soldierRankID": 13,
  "characterName": "Kyantyss",
  "guildName": "Plumes Noires",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 69120,
    "gloryPointChange": 89,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 135,
+   "rankingPositionChange": -1,
+   "gloryPoint": 69649,
+   "gloryPointChange": 529,
    "soldierRankID": 13
   }
  ],

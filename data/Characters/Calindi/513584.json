@@ -2,9 +2,9 @@
  "characterID": 513584,
  "characterClassID": 10,
  "raceID": 0,
- "position": 892,
- "rankingPositionChange": 2,
- "gloryPoint": 1362,
+ "position": 902,
+ "rankingPositionChange": -10,
+ "gloryPoint": 1355,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Cocotte",
@@ -280,6 +280,14 @@
    "position": 892,
    "rankingPositionChange": 2,
    "gloryPoint": 1362,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 902,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1355,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

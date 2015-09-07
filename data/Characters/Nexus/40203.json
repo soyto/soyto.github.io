@@ -2,10 +2,10 @@
  "characterID": 40203,
  "characterClassID": 10,
  "raceID": 0,
- "position": 444,
- "rankingPositionChange": 0,
- "gloryPoint": 20236,
- "gloryPointChange": -25,
+ "position": 445,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20208,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Astros",
  "guildName": "Eccentricity",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 20236,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 445,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20208,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

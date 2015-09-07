@@ -2,10 +2,10 @@
  "characterID": 1290625,
  "characterClassID": 16,
  "raceID": 1,
- "position": 856,
- "rankingPositionChange": 5,
- "gloryPoint": 6165,
- "gloryPointChange": 43,
+ "position": 862,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6158,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Symphone",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 6165,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6158,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

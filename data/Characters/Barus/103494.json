@@ -2,9 +2,9 @@
  "characterID": 103494,
  "characterClassID": 10,
  "raceID": 1,
- "position": 875,
- "rankingPositionChange": 3,
- "gloryPoint": 12516,
+ "position": 883,
+ "rankingPositionChange": -8,
+ "gloryPoint": 12509,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Marioneta",
@@ -280,6 +280,14 @@
    "position": 875,
    "rankingPositionChange": 3,
    "gloryPoint": 12516,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 883,
+   "rankingPositionChange": -8,
+   "gloryPoint": 12509,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

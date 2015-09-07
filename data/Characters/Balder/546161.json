@@ -2,9 +2,9 @@
  "characterID": 546161,
  "characterClassID": 1,
  "raceID": 1,
- "position": 548,
- "rankingPositionChange": 1,
- "gloryPoint": 1723,
+ "position": 550,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1729,
  "gloryPointChange": 6,
  "soldierRankID": 11,
  "characterName": "Zeltarion",
@@ -280,6 +280,14 @@
    "position": 548,
    "rankingPositionChange": 1,
    "gloryPoint": 1723,
+   "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 550,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1729,
    "gloryPointChange": 6,
    "soldierRankID": 11
   }

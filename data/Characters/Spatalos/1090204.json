@@ -2,9 +2,9 @@
  "characterID": 1090204,
  "characterClassID": 1,
  "raceID": 0,
- "position": 101,
- "rankingPositionChange": 1,
- "gloryPoint": 132079,
+ "position": 102,
+ "rankingPositionChange": -1,
+ "gloryPoint": 132030,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Bigmamas",
@@ -280,6 +280,14 @@
    "position": 101,
    "rankingPositionChange": 1,
    "gloryPoint": 132079,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 102,
+   "rankingPositionChange": -1,
+   "gloryPoint": 132030,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,9 +2,9 @@
  "characterID": 511644,
  "characterClassID": 5,
  "raceID": 1,
- "position": 554,
- "rankingPositionChange": 1,
- "gloryPoint": 1535,
+ "position": 558,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1521,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Elayne",
@@ -280,6 +280,14 @@
    "position": 554,
    "rankingPositionChange": 1,
    "gloryPoint": 1535,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 558,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1521,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

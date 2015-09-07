@@ -2,9 +2,9 @@
  "characterID": 825502,
  "characterClassID": 10,
  "raceID": 0,
- "position": 161,
- "rankingPositionChange": 0,
- "gloryPoint": 83407,
+ "position": 163,
+ "rankingPositionChange": -2,
+ "gloryPoint": 83358,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hikokoro",
@@ -272,6 +272,14 @@
    "position": 161,
    "rankingPositionChange": 0,
    "gloryPoint": 83407,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 163,
+   "rankingPositionChange": -2,
+   "gloryPoint": 83358,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

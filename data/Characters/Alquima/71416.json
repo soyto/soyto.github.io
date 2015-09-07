@@ -2,10 +2,10 @@
  "characterID": 71416,
  "characterClassID": 16,
  "raceID": 1,
- "position": 628,
- "rankingPositionChange": 4,
- "gloryPoint": 12507,
- "gloryPointChange": 86,
+ "position": 631,
+ "rankingPositionChange": -3,
+ "gloryPoint": 12493,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Leitanne",
  "guildName": "Lujuria",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 12507,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 631,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12493,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

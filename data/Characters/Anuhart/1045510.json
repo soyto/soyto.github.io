@@ -2,10 +2,10 @@
  "characterID": 1045510,
  "characterClassID": 4,
  "raceID": 0,
- "position": 710,
- "rankingPositionChange": 3,
- "gloryPoint": 8631,
- "gloryPointChange": 55,
+ "position": 711,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8624,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Siverdramon",
  "guildName": "TALISMAN",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 8631,
    "gloryPointChange": 55,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8624,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

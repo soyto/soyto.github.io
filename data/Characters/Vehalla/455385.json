@@ -2,9 +2,9 @@
  "characterID": 455385,
  "characterClassID": 16,
  "raceID": 1,
- "position": 655,
- "rankingPositionChange": 0,
- "gloryPoint": 1282,
+ "position": 669,
+ "rankingPositionChange": -14,
+ "gloryPoint": 1275,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Janura",
@@ -62,6 +62,14 @@
    "position": 655,
    "rankingPositionChange": 0,
    "gloryPoint": 1282,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 669,
+   "rankingPositionChange": -14,
+   "gloryPoint": 1275,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

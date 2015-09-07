@@ -2,9 +2,9 @@
  "characterID": 923967,
  "characterClassID": 2,
  "raceID": 0,
- "position": 144,
- "rankingPositionChange": 0,
- "gloryPoint": 97414,
+ "position": 145,
+ "rankingPositionChange": -1,
+ "gloryPoint": 97365,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tekaa",
@@ -280,6 +280,14 @@
    "position": 144,
    "rankingPositionChange": 0,
    "gloryPoint": 97414,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 145,
+   "rankingPositionChange": -1,
+   "gloryPoint": 97365,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

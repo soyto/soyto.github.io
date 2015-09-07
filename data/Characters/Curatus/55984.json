@@ -2,10 +2,10 @@
  "characterID": 55984,
  "characterClassID": 7,
  "raceID": 0,
- "position": 539,
- "rankingPositionChange": 0,
- "gloryPoint": 25994,
- "gloryPointChange": -14,
+ "position": 540,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26010,
+ "gloryPointChange": 16,
  "soldierRankID": 11,
  "characterName": "Rawkin",
  "guildName": "Warmness",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 25994,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26010,
+   "gloryPointChange": 16,
    "soldierRankID": 11
   }
  ],

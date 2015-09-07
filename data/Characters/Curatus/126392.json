@@ -2,10 +2,10 @@
  "characterID": 126392,
  "characterClassID": 2,
  "raceID": 1,
- "position": 149,
- "rankingPositionChange": 0,
- "gloryPoint": 49782,
- "gloryPointChange": 286,
+ "position": 150,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49963,
+ "gloryPointChange": 181,
  "soldierRankID": 13,
  "characterName": "Mawtina",
  "guildName": " Arkadia ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 49782,
    "gloryPointChange": 286,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49963,
+   "gloryPointChange": 181,
    "soldierRankID": 13
   }
  ],

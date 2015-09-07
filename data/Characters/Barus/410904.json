@@ -2,9 +2,9 @@
  "characterID": 410904,
  "characterClassID": 7,
  "raceID": 1,
- "position": 874,
- "rankingPositionChange": 3,
- "gloryPoint": 12526,
+ "position": 882,
+ "rankingPositionChange": -8,
+ "gloryPoint": 12519,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ninars",
@@ -280,6 +280,14 @@
    "position": 874,
    "rankingPositionChange": 3,
    "gloryPoint": 12526,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": -8,
+   "gloryPoint": 12519,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

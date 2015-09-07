@@ -2,9 +2,9 @@
  "characterID": 363627,
  "characterClassID": 7,
  "raceID": 0,
- "position": 400,
- "rankingPositionChange": 0,
- "gloryPoint": 36156,
+ "position": 401,
+ "rankingPositionChange": -1,
+ "gloryPoint": 36128,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Seeqer",
@@ -280,6 +280,14 @@
    "position": 400,
    "rankingPositionChange": 0,
    "gloryPoint": 36156,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": -1,
+   "gloryPoint": 36128,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

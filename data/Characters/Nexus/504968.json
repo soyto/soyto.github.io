@@ -2,9 +2,9 @@
  "characterID": 504968,
  "characterClassID": 10,
  "raceID": 0,
- "position": 128,
- "rankingPositionChange": -1,
- "gloryPoint": 78376,
+ "position": 127,
+ "rankingPositionChange": 1,
+ "gloryPoint": 78337,
  "gloryPointChange": -39,
  "soldierRankID": 13,
  "characterName": "Ibereth",
@@ -278,6 +278,14 @@
    "position": 128,
    "rankingPositionChange": -1,
    "gloryPoint": 78376,
+   "gloryPointChange": -39,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": 1,
+   "gloryPoint": 78337,
    "gloryPointChange": -39,
    "soldierRankID": 13
   }

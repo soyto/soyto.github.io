@@ -2,9 +2,9 @@
  "characterID": 457659,
  "characterClassID": 16,
  "raceID": 0,
- "position": 522,
- "rankingPositionChange": 0,
- "gloryPoint": 2493,
+ "position": 523,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2479,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Ursl",
@@ -280,6 +280,14 @@
    "position": 522,
    "rankingPositionChange": 0,
    "gloryPoint": 2493,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 523,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2479,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

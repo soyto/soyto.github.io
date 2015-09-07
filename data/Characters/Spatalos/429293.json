@@ -2,10 +2,10 @@
  "characterID": 429293,
  "characterClassID": 11,
  "raceID": 1,
- "position": 303,
- "rankingPositionChange": 1,
- "gloryPoint": 19832,
- "gloryPointChange": 121,
+ "position": 306,
+ "rankingPositionChange": -3,
+ "gloryPoint": 19876,
+ "gloryPointChange": 44,
  "soldierRankID": 12,
  "characterName": "Kisi",
  "guildName": "Evul Smurfies",
@@ -217,6 +217,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 19832,
    "gloryPointChange": 121,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 306,
+   "rankingPositionChange": -3,
+   "gloryPoint": 19876,
+   "gloryPointChange": 44,
    "soldierRankID": 12
   }
  ],

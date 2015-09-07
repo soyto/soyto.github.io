@@ -2,9 +2,9 @@
  "characterID": 816249,
  "characterClassID": 14,
  "raceID": 0,
- "position": 914,
- "rankingPositionChange": 4,
- "gloryPoint": 1896,
+ "position": 916,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1889,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ueberraschung",
@@ -278,6 +278,14 @@
    "position": 914,
    "rankingPositionChange": 4,
    "gloryPoint": 1896,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1889,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

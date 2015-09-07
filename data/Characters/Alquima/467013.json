@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 855,
- "rankingPositionChange": 5,
- "gloryPoint": 7534,
- "gloryPointChange": 91,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7527,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Akaishi",
  "guildName": "Embajadores de Shangri La",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 7534,
    "gloryPointChange": 91,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7527,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

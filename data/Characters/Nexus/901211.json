@@ -2,10 +2,10 @@
  "characterID": 901211,
  "characterClassID": 10,
  "raceID": 1,
- "position": 511,
- "rankingPositionChange": 0,
- "gloryPoint": 27180,
- "gloryPointChange": 192,
+ "position": 513,
+ "rankingPositionChange": -2,
+ "gloryPoint": 27476,
+ "gloryPointChange": 296,
  "soldierRankID": 11,
  "characterName": "Aurelie",
  "guildName": "FinalFantasy",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 27180,
    "gloryPointChange": 192,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 513,
+   "rankingPositionChange": -2,
+   "gloryPoint": 27476,
+   "gloryPointChange": 296,
    "soldierRankID": 11
   }
  ],

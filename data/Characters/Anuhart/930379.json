@@ -2,9 +2,9 @@
  "characterID": 930379,
  "characterClassID": 10,
  "raceID": 0,
- "position": 790,
- "rankingPositionChange": 4,
- "gloryPoint": 6765,
+ "position": 796,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6758,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Innaki",
@@ -280,6 +280,14 @@
    "position": 790,
    "rankingPositionChange": 4,
    "gloryPoint": 6765,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 796,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6758,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,11 +2,11 @@
  "characterID": 238512,
  "characterClassID": 1,
  "raceID": 0,
- "position": 100,
- "rankingPositionChange": 0,
- "gloryPoint": 67155,
- "gloryPointChange": 556,
- "soldierRankID": 14,
+ "position": 101,
+ "rankingPositionChange": -1,
+ "gloryPoint": 67048,
+ "gloryPointChange": -107,
+ "soldierRankID": 13,
  "characterName": "Aleanor",
  "guildName": "The Legacy",
  "guildID": 7833,
@@ -282,6 +282,14 @@
    "gloryPoint": 67155,
    "gloryPointChange": 556,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 101,
+   "rankingPositionChange": -1,
+   "gloryPoint": 67048,
+   "gloryPointChange": -107,
+   "soldierRankID": 13
   }
  ],
  "names": [

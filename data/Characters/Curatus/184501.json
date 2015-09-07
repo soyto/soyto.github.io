@@ -2,9 +2,9 @@
  "characterID": 184501,
  "characterClassID": 14,
  "raceID": 0,
- "position": 895,
- "rankingPositionChange": 0,
- "gloryPoint": 10492,
+ "position": 901,
+ "rankingPositionChange": -6,
+ "gloryPoint": 10485,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Monyka",
@@ -72,6 +72,14 @@
    "position": 895,
    "rankingPositionChange": 0,
    "gloryPoint": 10492,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 901,
+   "rankingPositionChange": -6,
+   "gloryPoint": 10485,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 958148,
  "characterClassID": 14,
  "raceID": 0,
- "position": 922,
- "rankingPositionChange": 3,
- "gloryPoint": 1863,
+ "position": 923,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1856,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Levya",
@@ -232,6 +232,14 @@
    "position": 922,
    "rankingPositionChange": 3,
    "gloryPoint": 1863,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 923,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1856,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

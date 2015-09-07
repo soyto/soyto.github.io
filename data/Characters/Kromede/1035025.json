@@ -2,10 +2,10 @@
  "characterID": 1035025,
  "characterClassID": 8,
  "raceID": 1,
- "position": 917,
- "rankingPositionChange": 1,
- "gloryPoint": 3352,
- "gloryPointChange": 14,
+ "position": 925,
+ "rankingPositionChange": -8,
+ "gloryPoint": 3345,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Farwin",
  "guildName": "Callejon",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 3352,
    "gloryPointChange": 14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 925,
+   "rankingPositionChange": -8,
+   "gloryPoint": 3345,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

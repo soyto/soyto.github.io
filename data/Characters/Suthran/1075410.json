@@ -2,14 +2,12 @@
  "characterID": 1075410,
  "characterClassID": 2,
  "raceID": 1,
- "position": 986,
+ "position": 991,
  "rankingPositionChange": -5,
- "gloryPoint": 4532,
- "gloryPointChange": -7,
+ "gloryPoint": 4518,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Torrtank",
- "guildName": "ChivasRegal",
- "guildID": 43723,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 4532,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4518,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -287,6 +293,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "ChivasRegal",
    "guildID": 43723
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

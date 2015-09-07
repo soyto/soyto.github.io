@@ -2,9 +2,9 @@
  "characterID": 911443,
  "characterClassID": 10,
  "raceID": 0,
- "position": 657,
- "rankingPositionChange": 3,
- "gloryPoint": 3999,
+ "position": 658,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3985,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Zolayaa",
@@ -280,6 +280,14 @@
    "position": 657,
    "rankingPositionChange": 3,
    "gloryPoint": 3999,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 658,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3985,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

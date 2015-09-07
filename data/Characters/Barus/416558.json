@@ -2,9 +2,9 @@
  "characterID": 416558,
  "characterClassID": 16,
  "raceID": 1,
- "position": 979,
- "rankingPositionChange": 3,
- "gloryPoint": 9723,
+ "position": 985,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9716,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Yoyoruichi",
@@ -280,6 +280,14 @@
    "position": 979,
    "rankingPositionChange": 3,
    "gloryPoint": 9723,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 985,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9716,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 832865,
  "characterClassID": 16,
  "raceID": 1,
- "position": 399,
- "rankingPositionChange": 0,
- "gloryPoint": 4487,
- "gloryPointChange": -18,
+ "position": 400,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4459,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Angelsayuri",
  "guildName": "Schwarzblutschwingen",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 4487,
    "gloryPointChange": -18,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 400,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4459,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

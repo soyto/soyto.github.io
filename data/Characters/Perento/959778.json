@@ -2,9 +2,9 @@
  "characterID": 959778,
  "characterClassID": 8,
  "raceID": 1,
- "position": 918,
- "rankingPositionChange": 0,
- "gloryPoint": 1862,
+ "position": 919,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1855,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sabak",
@@ -280,6 +280,14 @@
    "position": 918,
    "rankingPositionChange": 0,
    "gloryPoint": 1862,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 919,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1855,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 1355323,
  "characterClassID": 5,
  "raceID": 1,
- "position": 807,
- "rankingPositionChange": 23,
- "gloryPoint": 3382,
- "gloryPointChange": 196,
+ "position": 816,
+ "rankingPositionChange": -9,
+ "gloryPoint": 3375,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Saho",
  "guildName": "Malevolent Masterminds",
@@ -105,6 +105,14 @@
    "rankingPositionChange": 23,
    "gloryPoint": 3382,
    "gloryPointChange": 196,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 816,
+   "rankingPositionChange": -9,
+   "gloryPoint": 3375,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

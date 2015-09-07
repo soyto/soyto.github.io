@@ -2,9 +2,9 @@
  "characterID": 1070680,
  "characterClassID": 5,
  "raceID": 0,
- "position": 839,
- "rankingPositionChange": 1,
- "gloryPoint": 18864,
+ "position": 845,
+ "rankingPositionChange": -6,
+ "gloryPoint": 18857,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Riyuku",
@@ -216,6 +216,14 @@
    "position": 839,
    "rankingPositionChange": 1,
    "gloryPoint": 18864,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 845,
+   "rankingPositionChange": -6,
+   "gloryPoint": 18857,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

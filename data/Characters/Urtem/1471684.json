@@ -2,9 +2,9 @@
  "characterID": 1471684,
  "characterClassID": 11,
  "raceID": 1,
- "position": 263,
- "rankingPositionChange": 1,
- "gloryPoint": 41663,
+ "position": 265,
+ "rankingPositionChange": -2,
+ "gloryPoint": 41614,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Minsung",
@@ -272,6 +272,14 @@
    "position": 263,
    "rankingPositionChange": 1,
    "gloryPoint": 41663,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 265,
+   "rankingPositionChange": -2,
+   "gloryPoint": 41614,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

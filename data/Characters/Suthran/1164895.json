@@ -2,10 +2,10 @@
  "characterID": 1164895,
  "characterClassID": 14,
  "raceID": 1,
- "position": 387,
- "rankingPositionChange": 16,
- "gloryPoint": 22241,
- "gloryPointChange": 1047,
+ "position": 390,
+ "rankingPositionChange": -3,
+ "gloryPoint": 22213,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sephiroot",
  "guildName": "Disorder",
@@ -169,6 +169,14 @@
    "rankingPositionChange": 16,
    "gloryPoint": 22241,
    "gloryPointChange": 1047,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 390,
+   "rankingPositionChange": -3,
+   "gloryPoint": 22213,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

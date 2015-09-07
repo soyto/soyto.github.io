@@ -2,9 +2,9 @@
  "characterID": 23309,
  "characterClassID": 10,
  "raceID": 0,
- "position": 828,
- "rankingPositionChange": 1,
- "gloryPoint": 19400,
+ "position": 833,
+ "rankingPositionChange": -5,
+ "gloryPoint": 19393,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pitch",
@@ -144,6 +144,14 @@
    "position": 828,
    "rankingPositionChange": 1,
    "gloryPoint": 19400,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": -5,
+   "gloryPoint": 19393,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

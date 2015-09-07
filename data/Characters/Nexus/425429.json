@@ -2,10 +2,10 @@
  "characterID": 425429,
  "characterClassID": 5,
  "raceID": 1,
- "position": 659,
- "rankingPositionChange": 1,
- "gloryPoint": 18672,
- "gloryPointChange": 335,
+ "position": 664,
+ "rankingPositionChange": -5,
+ "gloryPoint": 18708,
+ "gloryPointChange": 36,
  "soldierRankID": 11,
  "characterName": "Yoshida",
  "guildName": "A N O N Y M O U S",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 18672,
    "gloryPointChange": 335,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 664,
+   "rankingPositionChange": -5,
+   "gloryPoint": 18708,
+   "gloryPointChange": 36,
    "soldierRankID": 11
   }
  ],

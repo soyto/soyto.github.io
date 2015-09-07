@@ -2,9 +2,9 @@
  "characterID": 1288826,
  "characterClassID": 16,
  "raceID": 0,
- "position": 521,
- "rankingPositionChange": 0,
- "gloryPoint": 34580,
+ "position": 525,
+ "rankingPositionChange": -4,
+ "gloryPoint": 34566,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lilyblossom",
@@ -280,6 +280,14 @@
    "position": 521,
    "rankingPositionChange": 0,
    "gloryPoint": 34580,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 525,
+   "rankingPositionChange": -4,
+   "gloryPoint": 34566,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 353007,
  "characterClassID": 4,
  "raceID": 0,
- "position": 602,
- "rankingPositionChange": 9,
- "gloryPoint": 10703,
- "gloryPointChange": 319,
+ "position": 605,
+ "rankingPositionChange": -3,
+ "gloryPoint": 10689,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Skaly",
  "guildName": "Army of Hungary",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 10703,
    "gloryPointChange": 319,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 605,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10689,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 633829,
  "characterClassID": 1,
  "raceID": 1,
- "position": 80,
- "rankingPositionChange": 0,
- "gloryPoint": 99551,
- "gloryPointChange": 20,
+ "position": 79,
+ "rankingPositionChange": 1,
+ "gloryPoint": 99506,
+ "gloryPointChange": -45,
  "soldierRankID": 14,
  "characterName": "Borja",
  "guildName": "lnitium Novum",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 99551,
    "gloryPointChange": 20,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 79,
+   "rankingPositionChange": 1,
+   "gloryPoint": 99506,
+   "gloryPointChange": -45,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 359392,
  "characterClassID": 7,
  "raceID": 1,
- "position": 975,
- "rankingPositionChange": 5,
- "gloryPoint": 9876,
+ "position": 981,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9869,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Locia",
@@ -280,6 +280,14 @@
    "position": 975,
    "rankingPositionChange": 5,
    "gloryPoint": 9876,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9869,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

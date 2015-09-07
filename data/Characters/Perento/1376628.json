@@ -2,14 +2,14 @@
  "characterID": 1376628,
  "characterClassID": 16,
  "raceID": 0,
- "position": 349,
- "rankingPositionChange": 3,
- "gloryPoint": 35282,
- "gloryPointChange": 82,
+ "position": 345,
+ "rankingPositionChange": 4,
+ "gloryPoint": 35578,
+ "gloryPointChange": 296,
  "soldierRankID": 12,
  "characterName": "Cnu",
- "guildName": "The Black Dozen",
- "guildID": 19646,
+ "guildName": "BalaurBorn",
+ "guildID": 16908,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 35282,
    "gloryPointChange": 82,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 345,
+   "rankingPositionChange": 4,
+   "gloryPoint": 35578,
+   "gloryPointChange": 296,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -299,6 +307,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Black Dozen",
    "guildID": 19646
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "BalaurBorn",
+   "guildID": 16908
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 347605,
  "characterClassID": 13,
  "raceID": 0,
- "position": 885,
- "rankingPositionChange": 1,
- "gloryPoint": 10809,
+ "position": 892,
+ "rankingPositionChange": -7,
+ "gloryPoint": 10802,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Velozord",
@@ -88,6 +88,14 @@
    "position": 885,
    "rankingPositionChange": 1,
    "gloryPoint": 10809,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 892,
+   "rankingPositionChange": -7,
+   "gloryPoint": 10802,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

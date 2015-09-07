@@ -2,9 +2,9 @@
  "characterID": 842533,
  "characterClassID": 14,
  "raceID": 0,
- "position": 239,
- "rankingPositionChange": 1,
- "gloryPoint": 31121,
+ "position": 241,
+ "rankingPositionChange": -2,
+ "gloryPoint": 31072,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pablorivaldo",
@@ -280,6 +280,14 @@
    "position": 239,
    "rankingPositionChange": 1,
    "gloryPoint": 31121,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 241,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31072,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

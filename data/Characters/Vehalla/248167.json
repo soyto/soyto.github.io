@@ -2,9 +2,9 @@
  "characterID": 248167,
  "characterClassID": 5,
  "raceID": 1,
- "position": 533,
- "rankingPositionChange": 4,
- "gloryPoint": 1642,
+ "position": 539,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1628,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Besstyszon",
@@ -270,6 +270,14 @@
    "position": 533,
    "rankingPositionChange": 4,
    "gloryPoint": 1642,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 539,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1628,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

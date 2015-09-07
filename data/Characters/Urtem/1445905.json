@@ -2,9 +2,9 @@
  "characterID": 1445905,
  "characterClassID": 13,
  "raceID": 0,
- "position": 659,
- "rankingPositionChange": 2,
- "gloryPoint": 24965,
+ "position": 669,
+ "rankingPositionChange": -10,
+ "gloryPoint": 24951,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Pimpmybuk",
@@ -280,6 +280,14 @@
    "position": 659,
    "rankingPositionChange": 2,
    "gloryPoint": 24965,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 669,
+   "rankingPositionChange": -10,
+   "gloryPoint": 24951,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

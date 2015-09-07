@@ -2,12 +2,14 @@
  "characterID": 344029,
  "characterClassID": 7,
  "raceID": 0,
- "position": 565,
- "rankingPositionChange": 0,
- "gloryPoint": 24482,
+ "position": 564,
+ "rankingPositionChange": 1,
+ "gloryPoint": 24468,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Godric",
+ "guildName": " Zero Empathy ",
+ "guildID": 13780,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 24482,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 564,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24468,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": " Zero Empathy ",
+   "guildID": 13780
   }
  ]
 }

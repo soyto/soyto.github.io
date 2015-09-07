@@ -2,10 +2,10 @@
  "characterID": 179846,
  "characterClassID": 2,
  "raceID": 1,
- "position": 788,
- "rankingPositionChange": 5,
- "gloryPoint": 5484,
- "gloryPointChange": 201,
+ "position": 789,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5480,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Sunvior",
  "guildName": " I D K W ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 5484,
    "gloryPointChange": 201,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 789,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5480,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

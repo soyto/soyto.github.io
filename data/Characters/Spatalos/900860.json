@@ -2,10 +2,10 @@
  "characterID": 900860,
  "characterClassID": 10,
  "raceID": 1,
- "position": 704,
- "rankingPositionChange": 30,
- "gloryPoint": 4293,
- "gloryPointChange": 342,
+ "position": 708,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4286,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lda",
  "guildName": "Lionhearts",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 30,
    "gloryPoint": 4293,
    "gloryPointChange": 342,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 708,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4286,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

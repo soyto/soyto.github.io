@@ -2,9 +2,9 @@
  "characterID": 1041411,
  "characterClassID": 7,
  "raceID": 0,
- "position": 877,
- "rankingPositionChange": 1,
- "gloryPoint": 17409,
+ "position": 884,
+ "rankingPositionChange": -7,
+ "gloryPoint": 17402,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lunescaa",
@@ -280,6 +280,14 @@
    "position": 877,
    "rankingPositionChange": 1,
    "gloryPoint": 17409,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 884,
+   "rankingPositionChange": -7,
+   "gloryPoint": 17402,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 65643,
  "characterClassID": 7,
  "raceID": 1,
- "position": 316,
- "rankingPositionChange": -2,
- "gloryPoint": 23895,
+ "position": 315,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23867,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Jeay",
@@ -278,6 +278,14 @@
    "position": 316,
    "rankingPositionChange": -2,
    "gloryPoint": 23895,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 315,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23867,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

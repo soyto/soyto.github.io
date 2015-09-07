@@ -2,10 +2,10 @@
  "characterID": 863305,
  "characterClassID": 4,
  "raceID": 0,
- "position": 730,
- "rankingPositionChange": 0,
- "gloryPoint": 24182,
- "gloryPointChange": 85,
+ "position": 735,
+ "rankingPositionChange": -5,
+ "gloryPoint": 24175,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Methamod",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 24182,
    "gloryPointChange": 85,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 735,
+   "rankingPositionChange": -5,
+   "gloryPoint": 24175,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

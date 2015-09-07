@@ -2,10 +2,10 @@
  "characterID": 263904,
  "characterClassID": 14,
  "raceID": 0,
- "position": 164,
- "rankingPositionChange": 1,
- "gloryPoint": 69678,
- "gloryPointChange": 623,
+ "position": 165,
+ "rankingPositionChange": -1,
+ "gloryPoint": 70009,
+ "gloryPointChange": 331,
  "soldierRankID": 13,
  "characterName": "Brightness",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 69678,
    "gloryPointChange": 623,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 165,
+   "rankingPositionChange": -1,
+   "gloryPoint": 70009,
+   "gloryPointChange": 331,
    "soldierRankID": 13
   }
  ],

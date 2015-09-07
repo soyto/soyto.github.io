@@ -2,10 +2,10 @@
  "characterID": 779310,
  "characterClassID": 10,
  "raceID": 0,
- "position": 450,
- "rankingPositionChange": 1,
- "gloryPoint": 27259,
- "gloryPointChange": 2,
+ "position": 451,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27381,
+ "gloryPointChange": 122,
  "soldierRankID": 12,
  "characterName": "Wirrkopp",
  "guildName": " Shaolin ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 27259,
    "gloryPointChange": 2,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 451,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27381,
+   "gloryPointChange": 122,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 626940,
  "characterClassID": 1,
  "raceID": 1,
- "position": 399,
- "rankingPositionChange": 0,
- "gloryPoint": 14440,
- "gloryPointChange": -28,
+ "position": 400,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14415,
+ "gloryPointChange": -25,
  "soldierRankID": 12,
  "characterName": "Hollyshit",
  "guildName": "Pain and Gain",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 14440,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 400,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14415,
+   "gloryPointChange": -25,
    "soldierRankID": 12
   }
  ],

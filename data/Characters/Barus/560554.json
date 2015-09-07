@@ -2,9 +2,9 @@
  "characterID": 560554,
  "characterClassID": 1,
  "raceID": 1,
- "position": 789,
- "rankingPositionChange": 5,
- "gloryPoint": 14873,
+ "position": 794,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14866,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Freaq",
@@ -278,6 +278,14 @@
    "position": 789,
    "rankingPositionChange": 5,
    "gloryPoint": 14873,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 794,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14866,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

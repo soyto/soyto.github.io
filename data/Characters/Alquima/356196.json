@@ -2,10 +2,10 @@
  "characterID": 356196,
  "characterClassID": 10,
  "raceID": 1,
- "position": 169,
- "rankingPositionChange": 0,
- "gloryPoint": 52142,
- "gloryPointChange": 554,
+ "position": 170,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52093,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Hellokitty",
  "guildName": "After School",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 52142,
    "gloryPointChange": 554,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 170,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52093,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

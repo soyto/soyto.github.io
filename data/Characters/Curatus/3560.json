@@ -2,10 +2,10 @@
  "characterID": 3560,
  "characterClassID": 10,
  "raceID": 1,
- "position": 94,
- "rankingPositionChange": 0,
- "gloryPoint": 82991,
- "gloryPointChange": 94,
+ "position": 96,
+ "rankingPositionChange": -2,
+ "gloryPoint": 82884,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Linn",
  "guildName": " Arkadia ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 82991,
    "gloryPointChange": 94,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 96,
+   "rankingPositionChange": -2,
+   "gloryPoint": 82884,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

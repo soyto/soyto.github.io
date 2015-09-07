@@ -2,10 +2,10 @@
  "characterID": 676294,
  "characterClassID": 1,
  "raceID": 1,
- "position": 242,
- "rankingPositionChange": 1,
- "gloryPoint": 25232,
- "gloryPointChange": 206,
+ "position": 247,
+ "rankingPositionChange": -5,
+ "gloryPoint": 25183,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Sickboy",
  "guildName": "Elegibo",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 25232,
    "gloryPointChange": 206,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 247,
+   "rankingPositionChange": -5,
+   "gloryPoint": 25183,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

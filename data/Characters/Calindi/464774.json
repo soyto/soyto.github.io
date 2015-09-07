@@ -2,9 +2,9 @@
  "characterID": 464774,
  "characterClassID": 7,
  "raceID": 0,
- "position": 415,
- "rankingPositionChange": 0,
- "gloryPoint": 9754,
+ "position": 418,
+ "rankingPositionChange": -3,
+ "gloryPoint": 9726,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Erawenn",
@@ -280,6 +280,14 @@
    "position": 415,
    "rankingPositionChange": 0,
    "gloryPoint": 9754,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 418,
+   "rankingPositionChange": -3,
+   "gloryPoint": 9726,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

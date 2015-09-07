@@ -2,9 +2,9 @@
  "characterID": 64366,
  "characterClassID": 11,
  "raceID": 0,
- "position": 822,
- "rankingPositionChange": -1,
- "gloryPoint": 2468,
+ "position": 821,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2461,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Sienta",
@@ -136,6 +136,14 @@
    "position": 822,
    "rankingPositionChange": -1,
    "gloryPoint": 2468,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 821,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2461,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

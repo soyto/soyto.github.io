@@ -3,9 +3,9 @@
  "characterClassID": 16,
  "raceID": 0,
  "position": 458,
- "rankingPositionChange": 2,
- "gloryPoint": 25171,
- "gloryPointChange": 160,
+ "rankingPositionChange": 0,
+ "gloryPoint": 25143,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Diavola",
  "guildName": "Alianza Comercial",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 25171,
    "gloryPointChange": 160,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 458,
+   "rankingPositionChange": 0,
+   "gloryPoint": 25143,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

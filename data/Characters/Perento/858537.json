@@ -2,10 +2,10 @@
  "characterID": 858537,
  "characterClassID": 1,
  "raceID": 1,
- "position": 49,
- "rankingPositionChange": 0,
- "gloryPoint": 157423,
- "gloryPointChange": 779,
+ "position": 50,
+ "rankingPositionChange": -1,
+ "gloryPoint": 157919,
+ "gloryPointChange": 496,
  "soldierRankID": 14,
  "characterName": "Brito",
  "guildName": "Prets",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 157423,
    "gloryPointChange": 779,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 50,
+   "rankingPositionChange": -1,
+   "gloryPoint": 157919,
+   "gloryPointChange": 496,
    "soldierRankID": 14
   }
  ],

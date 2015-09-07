@@ -2,10 +2,10 @@
  "characterID": 993645,
  "characterClassID": 10,
  "raceID": 0,
- "position": 150,
- "rankingPositionChange": 1,
- "gloryPoint": 86329,
- "gloryPointChange": 151,
+ "position": 152,
+ "rankingPositionChange": -2,
+ "gloryPoint": 86280,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Oreoo",
  "guildName": "Famous",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 86329,
    "gloryPointChange": 151,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 152,
+   "rankingPositionChange": -2,
+   "gloryPoint": 86280,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

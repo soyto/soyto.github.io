@@ -2,9 +2,9 @@
  "characterID": 487428,
  "characterClassID": 7,
  "raceID": 1,
- "position": 289,
- "rankingPositionChange": -1,
- "gloryPoint": 13323,
+ "position": 288,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13274,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pantourou",
@@ -200,6 +200,14 @@
    "position": 289,
    "rankingPositionChange": -1,
    "gloryPoint": 13323,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 288,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13274,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

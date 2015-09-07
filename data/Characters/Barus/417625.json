@@ -2,9 +2,9 @@
  "characterID": 417625,
  "characterClassID": 2,
  "raceID": 0,
- "position": 469,
- "rankingPositionChange": -1,
- "gloryPoint": 30449,
+ "position": 468,
+ "rankingPositionChange": 1,
+ "gloryPoint": 30421,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Extor",
@@ -280,6 +280,14 @@
    "position": 469,
    "rankingPositionChange": -1,
    "gloryPoint": 30449,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 468,
+   "rankingPositionChange": 1,
+   "gloryPoint": 30421,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

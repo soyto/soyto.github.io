@@ -2,12 +2,14 @@
  "characterID": 464855,
  "characterClassID": 10,
  "raceID": 0,
- "position": 889,
- "rankingPositionChange": 3,
- "gloryPoint": 5736,
- "gloryPointChange": 43,
+ "position": 895,
+ "rankingPositionChange": -6,
+ "gloryPoint": 5729,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kobylka",
+ "guildName": "CZECHrelaxCZECH",
+ "guildID": 16515,
  "status": [
   {
    "date": "2015-08-18T22:00:00.000Z",
@@ -136,6 +138,14 @@
    "gloryPoint": 5736,
    "gloryPointChange": 43,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 895,
+   "rankingPositionChange": -6,
+   "gloryPoint": 5729,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -152,6 +162,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "CZECHrelaxCZECH",
+   "guildID": 16515
   }
  ]
 }

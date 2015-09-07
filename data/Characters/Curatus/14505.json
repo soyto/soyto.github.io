@@ -2,10 +2,10 @@
  "characterID": 14505,
  "characterClassID": 4,
  "raceID": 0,
- "position": 202,
- "rankingPositionChange": 1,
- "gloryPoint": 79201,
- "gloryPointChange": 632,
+ "position": 204,
+ "rankingPositionChange": -2,
+ "gloryPoint": 79152,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Maxking",
  "guildName": " Outlaw ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 79201,
    "gloryPointChange": 632,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 204,
+   "rankingPositionChange": -2,
+   "gloryPoint": 79152,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

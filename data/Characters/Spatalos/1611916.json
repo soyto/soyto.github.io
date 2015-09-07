@@ -2,10 +2,10 @@
  "characterID": 1611916,
  "characterClassID": 5,
  "raceID": 1,
- "position": 538,
- "rankingPositionChange": 1,
- "gloryPoint": 7164,
- "gloryPointChange": 71,
+ "position": 540,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7160,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Ideva",
  "guildName": "JEZDZCY APOKALIPSY",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7164,
    "gloryPointChange": 71,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7160,
+   "gloryPointChange": -4,
    "soldierRankID": 11
   }
  ],

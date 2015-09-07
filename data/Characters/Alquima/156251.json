@@ -2,9 +2,9 @@
  "characterID": 156251,
  "characterClassID": 16,
  "raceID": 0,
- "position": 595,
- "rankingPositionChange": 0,
- "gloryPoint": 19670,
+ "position": 596,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19656,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Simmon",
@@ -280,6 +280,14 @@
    "position": 595,
    "rankingPositionChange": 0,
    "gloryPoint": 19670,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19656,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

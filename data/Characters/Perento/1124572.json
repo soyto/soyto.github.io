@@ -2,10 +2,10 @@
  "characterID": 1124572,
  "characterClassID": 16,
  "raceID": 1,
- "position": 697,
- "rankingPositionChange": 0,
- "gloryPoint": 4047,
- "gloryPointChange": 46,
+ "position": 698,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4033,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kalastria",
  "guildName": "Et in Arcadia Ego",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 4047,
    "gloryPointChange": 46,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 698,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4033,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

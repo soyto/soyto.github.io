@@ -2,9 +2,9 @@
  "characterID": 806865,
  "characterClassID": 16,
  "raceID": 0,
- "position": 720,
- "rankingPositionChange": 0,
- "gloryPoint": 9411,
+ "position": 724,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9404,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nilitiel",
@@ -280,6 +280,14 @@
    "position": 720,
    "rankingPositionChange": 0,
    "gloryPoint": 9411,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 724,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9404,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

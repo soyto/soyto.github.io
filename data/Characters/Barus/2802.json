@@ -2,9 +2,9 @@
  "characterID": 2802,
  "characterClassID": 11,
  "raceID": 1,
- "position": 607,
- "rankingPositionChange": 0,
- "gloryPoint": 21767,
+ "position": 609,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21753,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Kopsnij",
@@ -280,6 +280,14 @@
    "position": 607,
    "rankingPositionChange": 0,
    "gloryPoint": 21767,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 609,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21753,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,12 +2,14 @@
  "characterID": 1138779,
  "characterClassID": 14,
  "raceID": 0,
- "position": 983,
- "rankingPositionChange": 1,
- "gloryPoint": 5902,
+ "position": 989,
+ "rankingPositionChange": -6,
+ "gloryPoint": 5895,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Matriix",
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 5902,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": -6,
+   "gloryPoint": 5895,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-08-13T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

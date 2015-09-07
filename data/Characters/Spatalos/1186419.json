@@ -2,9 +2,9 @@
  "characterID": 1186419,
  "characterClassID": 2,
  "raceID": 0,
- "position": 833,
- "rankingPositionChange": 0,
- "gloryPoint": 9384,
+ "position": 835,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9377,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Heavey",
@@ -150,6 +150,14 @@
    "position": 833,
    "rankingPositionChange": 0,
    "gloryPoint": 9384,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 835,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9377,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

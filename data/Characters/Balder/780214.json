@@ -2,9 +2,9 @@
  "characterID": 780214,
  "characterClassID": 11,
  "raceID": 0,
- "position": 965,
- "rankingPositionChange": 4,
- "gloryPoint": 1750,
+ "position": 968,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1743,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Dilaya",
@@ -280,6 +280,14 @@
    "position": 965,
    "rankingPositionChange": 4,
    "gloryPoint": 1750,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 968,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1743,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

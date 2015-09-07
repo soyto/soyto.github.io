@@ -2,10 +2,10 @@
  "characterID": 680724,
  "characterClassID": 10,
  "raceID": 0,
- "position": 290,
- "rankingPositionChange": 0,
- "gloryPoint": 45100,
- "gloryPointChange": 171,
+ "position": 289,
+ "rankingPositionChange": 1,
+ "gloryPoint": 45099,
+ "gloryPointChange": -1,
  "soldierRankID": 13,
  "characterName": "Siete",
  "guildName": "L A T I N O S",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 45100,
    "gloryPointChange": 171,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 289,
+   "rankingPositionChange": 1,
+   "gloryPoint": 45099,
+   "gloryPointChange": -1,
    "soldierRankID": 13
   }
  ],

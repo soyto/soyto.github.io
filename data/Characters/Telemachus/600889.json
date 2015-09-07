@@ -2,9 +2,9 @@
  "characterID": 600889,
  "characterClassID": 7,
  "raceID": 0,
- "position": 163,
- "rankingPositionChange": 0,
- "gloryPoint": 92376,
+ "position": 164,
+ "rankingPositionChange": -1,
+ "gloryPoint": 92327,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lykofoss",
@@ -280,6 +280,14 @@
    "position": 163,
    "rankingPositionChange": 0,
    "gloryPoint": 92376,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 164,
+   "rankingPositionChange": -1,
+   "gloryPoint": 92327,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

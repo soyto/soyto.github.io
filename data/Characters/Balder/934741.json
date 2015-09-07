@@ -2,10 +2,10 @@
  "characterID": 934741,
  "characterClassID": 2,
  "raceID": 0,
- "position": 228,
- "rankingPositionChange": 1,
+ "position": 229,
+ "rankingPositionChange": -1,
  "gloryPoint": 33841,
- "gloryPointChange": 75,
+ "gloryPointChange": 0,
  "soldierRankID": 13,
  "characterName": "Steingolem",
  "guildName": "IsMirWayne",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 33841,
    "gloryPointChange": 75,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 229,
+   "rankingPositionChange": -1,
+   "gloryPoint": 33841,
+   "gloryPointChange": 0,
    "soldierRankID": 13
   }
  ],

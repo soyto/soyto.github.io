@@ -2,9 +2,9 @@
  "characterID": 1475471,
  "characterClassID": 14,
  "raceID": 0,
- "position": 493,
- "rankingPositionChange": 1,
- "gloryPoint": 24106,
+ "position": 494,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24078,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Dux",
@@ -280,6 +280,14 @@
    "position": 493,
    "rankingPositionChange": 1,
    "gloryPoint": 24106,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 494,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24078,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

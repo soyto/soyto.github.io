@@ -2,10 +2,10 @@
  "characterID": 1288386,
  "characterClassID": 2,
  "raceID": 0,
- "position": 980,
- "rankingPositionChange": 1,
- "gloryPoint": 13886,
- "gloryPointChange": 93,
+ "position": 981,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14035,
+ "gloryPointChange": 149,
  "soldierRankID": 10,
  "characterName": "Notank",
  "status": [
@@ -39,6 +39,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13886,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14035,
+   "gloryPointChange": 149,
    "soldierRankID": 10
   }
  ],

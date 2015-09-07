@@ -2,9 +2,9 @@
  "characterID": 1033409,
  "characterClassID": 14,
  "raceID": 0,
- "position": 497,
- "rankingPositionChange": 0,
- "gloryPoint": 24282,
+ "position": 499,
+ "rankingPositionChange": -2,
+ "gloryPoint": 24254,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Nekori",
@@ -280,6 +280,14 @@
    "position": 497,
    "rankingPositionChange": 0,
    "gloryPoint": 24282,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 499,
+   "rankingPositionChange": -2,
+   "gloryPoint": 24254,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

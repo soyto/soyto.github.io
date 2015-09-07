@@ -2,10 +2,10 @@
  "characterID": 177177,
  "characterClassID": 10,
  "raceID": 1,
- "position": 574,
- "rankingPositionChange": 12,
- "gloryPoint": 9945,
- "gloryPointChange": 411,
+ "position": 575,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10040,
+ "gloryPointChange": 95,
  "soldierRankID": 11,
  "characterName": "Niniveh",
  "guildName": "Prepotenti",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 12,
    "gloryPoint": 9945,
    "gloryPointChange": 411,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10040,
+   "gloryPointChange": 95,
    "soldierRankID": 11
   }
  ],

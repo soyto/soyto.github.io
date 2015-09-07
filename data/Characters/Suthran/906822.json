@@ -2,9 +2,9 @@
  "characterID": 906822,
  "characterClassID": 8,
  "raceID": 0,
- "position": 881,
- "rankingPositionChange": 0,
- "gloryPoint": 12320,
+ "position": 882,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12313,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Expeliare",
@@ -176,6 +176,14 @@
    "position": 881,
    "rankingPositionChange": 0,
    "gloryPoint": 12320,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12313,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

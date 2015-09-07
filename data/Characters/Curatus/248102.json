@@ -2,10 +2,10 @@
  "characterID": 248102,
  "characterClassID": 14,
  "raceID": 1,
- "position": 893,
- "rankingPositionChange": 1,
- "gloryPoint": 4072,
- "gloryPointChange": 33,
+ "position": 898,
+ "rankingPositionChange": -5,
+ "gloryPoint": 4065,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xiba",
  "guildName": "Dei Ex Mortis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 4072,
    "gloryPointChange": 33,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 898,
+   "rankingPositionChange": -5,
+   "gloryPoint": 4065,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

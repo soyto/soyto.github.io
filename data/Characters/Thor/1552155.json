@@ -2,9 +2,9 @@
  "characterID": 1552155,
  "characterClassID": 1,
  "raceID": 0,
- "position": 954,
- "rankingPositionChange": 1,
- "gloryPoint": 14447,
+ "position": 963,
+ "rankingPositionChange": -9,
+ "gloryPoint": 14440,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Erufuuun",
@@ -280,6 +280,14 @@
    "position": 954,
    "rankingPositionChange": 1,
    "gloryPoint": 14447,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 963,
+   "rankingPositionChange": -9,
+   "gloryPoint": 14440,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

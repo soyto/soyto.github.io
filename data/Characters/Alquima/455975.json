@@ -2,9 +2,9 @@
  "characterID": 455975,
  "characterClassID": 10,
  "raceID": 0,
- "position": 627,
- "rankingPositionChange": 1,
- "gloryPoint": 18864,
+ "position": 629,
+ "rankingPositionChange": -2,
+ "gloryPoint": 18850,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Etno",
@@ -158,6 +158,14 @@
    "position": 627,
    "rankingPositionChange": 1,
    "gloryPoint": 18864,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 629,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18850,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

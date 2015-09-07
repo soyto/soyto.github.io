@@ -2,10 +2,10 @@
  "characterID": 579523,
  "characterClassID": 2,
  "raceID": 0,
- "position": 156,
- "rankingPositionChange": 0,
- "gloryPoint": 91264,
- "gloryPointChange": 301,
+ "position": 158,
+ "rankingPositionChange": -2,
+ "gloryPoint": 91215,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Vicefunk",
  "guildName": "Zerg Smoke and Rng",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 91264,
    "gloryPointChange": 301,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 158,
+   "rankingPositionChange": -2,
+   "gloryPoint": 91215,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 96542,
  "characterClassID": 7,
  "raceID": 1,
- "position": 569,
- "rankingPositionChange": 1,
- "gloryPoint": 23512,
- "gloryPointChange": -11,
+ "position": 570,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23551,
+ "gloryPointChange": 39,
  "soldierRankID": 11,
  "characterName": "Xell",
+ "guildName": "Infinitum",
+ "guildID": 7382,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -216,6 +218,14 @@
    "gloryPoint": 23512,
    "gloryPointChange": -11,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 570,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23551,
+   "gloryPointChange": 39,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -227,6 +237,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Infinitum",
+   "guildID": 7382
   }
  ]
 }

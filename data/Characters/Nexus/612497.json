@@ -2,9 +2,9 @@
  "characterID": 612497,
  "characterClassID": 10,
  "raceID": 0,
- "position": 443,
- "rankingPositionChange": 0,
- "gloryPoint": 20267,
+ "position": 444,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20239,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lluviazul",
@@ -280,6 +280,14 @@
    "position": 443,
    "rankingPositionChange": 0,
    "gloryPoint": 20267,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 444,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20239,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

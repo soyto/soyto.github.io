@@ -2,9 +2,9 @@
  "characterID": 564253,
  "characterClassID": 2,
  "raceID": 1,
- "position": 949,
- "rankingPositionChange": 2,
- "gloryPoint": 10656,
+ "position": 953,
+ "rankingPositionChange": -4,
+ "gloryPoint": 10649,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kamuji",
@@ -238,6 +238,14 @@
    "position": 949,
    "rankingPositionChange": 2,
    "gloryPoint": 10656,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 953,
+   "rankingPositionChange": -4,
+   "gloryPoint": 10649,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

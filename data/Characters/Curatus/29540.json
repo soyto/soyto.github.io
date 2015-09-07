@@ -2,9 +2,9 @@
  "characterID": 29540,
  "characterClassID": 14,
  "raceID": 0,
- "position": 110,
- "rankingPositionChange": 0,
- "gloryPoint": 125460,
+ "position": 111,
+ "rankingPositionChange": -1,
+ "gloryPoint": 125411,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rathiel",
@@ -254,6 +254,14 @@
    "position": 110,
    "rankingPositionChange": 0,
    "gloryPoint": 125460,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 111,
+   "rankingPositionChange": -1,
+   "gloryPoint": 125411,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

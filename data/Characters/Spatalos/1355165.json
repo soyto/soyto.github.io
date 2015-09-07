@@ -2,10 +2,10 @@
  "characterID": 1355165,
  "characterClassID": 8,
  "raceID": 1,
- "position": 905,
- "rankingPositionChange": -4,
- "gloryPoint": 2614,
- "gloryPointChange": -7,
+ "position": 883,
+ "rankingPositionChange": 22,
+ "gloryPoint": 2806,
+ "gloryPointChange": 192,
  "soldierRankID": 10,
  "characterName": "Dasksm",
  "status": [
@@ -191,6 +191,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 2614,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 883,
+   "rankingPositionChange": 22,
+   "gloryPoint": 2806,
+   "gloryPointChange": 192,
    "soldierRankID": 10
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 797673,
  "characterClassID": 10,
  "raceID": 0,
- "position": 769,
- "rankingPositionChange": 0,
- "gloryPoint": 21831,
+ "position": 774,
+ "rankingPositionChange": -5,
+ "gloryPoint": 21824,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Barbarrossa",
@@ -280,6 +280,14 @@
    "position": 769,
    "rankingPositionChange": 0,
    "gloryPoint": 21831,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 774,
+   "rankingPositionChange": -5,
+   "gloryPoint": 21824,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

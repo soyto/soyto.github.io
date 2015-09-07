@@ -2,9 +2,9 @@
  "characterID": 806925,
  "characterClassID": 5,
  "raceID": 0,
- "position": 608,
- "rankingPositionChange": 0,
- "gloryPoint": 12828,
+ "position": 610,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12814,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Yakyt",
@@ -272,6 +272,14 @@
    "position": 608,
    "rankingPositionChange": 0,
    "gloryPoint": 12828,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 610,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12814,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

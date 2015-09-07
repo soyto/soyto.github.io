@@ -2,9 +2,9 @@
  "characterID": 300388,
  "characterClassID": 16,
  "raceID": 1,
- "position": 909,
- "rankingPositionChange": 2,
- "gloryPoint": 11628,
+ "position": 913,
+ "rankingPositionChange": -4,
+ "gloryPoint": 11621,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Makalabra",
@@ -278,6 +278,14 @@
    "position": 909,
    "rankingPositionChange": 2,
    "gloryPoint": 11628,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 913,
+   "rankingPositionChange": -4,
+   "gloryPoint": 11621,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

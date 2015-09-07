@@ -2,9 +2,9 @@
  "characterID": 351429,
  "characterClassID": 7,
  "raceID": 0,
- "position": 881,
- "rankingPositionChange": 3,
- "gloryPoint": 2084,
+ "position": 882,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2077,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Snake",
@@ -280,6 +280,14 @@
    "position": 881,
    "rankingPositionChange": 3,
    "gloryPoint": 2084,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2077,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

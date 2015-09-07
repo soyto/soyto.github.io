@@ -3,9 +3,9 @@
  "characterClassID": 16,
  "raceID": 1,
  "position": 338,
- "rankingPositionChange": 5,
- "gloryPoint": 20971,
- "gloryPointChange": 522,
+ "rankingPositionChange": 0,
+ "gloryPoint": 20943,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Mickeycloud",
  "guildName": "Bosphorus",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 20971,
    "gloryPointChange": 522,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 338,
+   "rankingPositionChange": 0,
+   "gloryPoint": 20943,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

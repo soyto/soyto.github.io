@@ -2,9 +2,9 @@
  "characterID": 450291,
  "characterClassID": 8,
  "raceID": 1,
- "position": 292,
- "rankingPositionChange": 1,
- "gloryPoint": 36008,
+ "position": 296,
+ "rankingPositionChange": -4,
+ "gloryPoint": 35959,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Pafspirit",
@@ -280,6 +280,14 @@
    "position": 292,
    "rankingPositionChange": 1,
    "gloryPoint": 36008,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 296,
+   "rankingPositionChange": -4,
+   "gloryPoint": 35959,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

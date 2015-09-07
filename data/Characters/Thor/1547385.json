@@ -2,10 +2,10 @@
  "characterID": 1547385,
  "characterClassID": 5,
  "raceID": 1,
- "position": 894,
- "rankingPositionChange": 2,
- "gloryPoint": 12785,
- "gloryPointChange": 93,
+ "position": 895,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12778,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shanga",
  "guildName": "xXXx",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 12785,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 895,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12778,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

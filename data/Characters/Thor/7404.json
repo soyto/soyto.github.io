@@ -2,9 +2,9 @@
  "characterID": 7404,
  "characterClassID": 7,
  "raceID": 1,
- "position": 560,
- "rankingPositionChange": 0,
- "gloryPoint": 25136,
+ "position": 562,
+ "rankingPositionChange": -2,
+ "gloryPoint": 25122,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Silviya",
@@ -280,6 +280,14 @@
    "position": 560,
    "rankingPositionChange": 0,
    "gloryPoint": 25136,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 562,
+   "rankingPositionChange": -2,
+   "gloryPoint": 25122,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

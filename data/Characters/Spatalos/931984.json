@@ -2,14 +2,14 @@
  "characterID": 931984,
  "characterClassID": 11,
  "raceID": 0,
- "position": 349,
- "rankingPositionChange": 3,
+ "position": 347,
+ "rankingPositionChange": 2,
  "gloryPoint": 41607,
- "gloryPointChange": 384,
+ "gloryPointChange": 0,
  "soldierRankID": 12,
  "characterName": "Vanesser",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 41607,
    "gloryPointChange": 384,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 347,
+   "rankingPositionChange": 2,
+   "gloryPoint": 41607,
+   "gloryPointChange": 0,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

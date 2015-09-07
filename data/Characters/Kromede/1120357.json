@@ -2,9 +2,9 @@
  "characterID": 1120357,
  "characterClassID": 14,
  "raceID": 0,
- "position": 123,
- "rankingPositionChange": 0,
- "gloryPoint": 102429,
+ "position": 124,
+ "rankingPositionChange": -1,
+ "gloryPoint": 102380,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tyze",
@@ -280,6 +280,14 @@
    "position": 123,
    "rankingPositionChange": 0,
    "gloryPoint": 102429,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 124,
+   "rankingPositionChange": -1,
+   "gloryPoint": 102380,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

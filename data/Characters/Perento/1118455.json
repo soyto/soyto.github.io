@@ -3,8 +3,8 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 945,
- "rankingPositionChange": 1,
- "gloryPoint": 1732,
+ "rankingPositionChange": 0,
+ "gloryPoint": 1725,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Deathunter",
@@ -280,6 +280,14 @@
    "position": 945,
    "rankingPositionChange": 1,
    "gloryPoint": 1732,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": 0,
+   "gloryPoint": 1725,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

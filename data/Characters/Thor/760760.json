@@ -2,9 +2,9 @@
  "characterID": 760760,
  "characterClassID": 5,
  "raceID": 1,
- "position": 699,
- "rankingPositionChange": 1,
- "gloryPoint": 19340,
+ "position": 700,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19326,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Hiruki",
@@ -182,6 +182,14 @@
    "position": 699,
    "rankingPositionChange": 1,
    "gloryPoint": 19340,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 700,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19326,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

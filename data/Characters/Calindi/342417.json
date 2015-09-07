@@ -2,9 +2,9 @@
  "characterID": 342417,
  "characterClassID": 2,
  "raceID": 0,
- "position": 233,
- "rankingPositionChange": 0,
- "gloryPoint": 30059,
+ "position": 235,
+ "rankingPositionChange": -2,
+ "gloryPoint": 30010,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rhao",
@@ -280,6 +280,14 @@
    "position": 233,
    "rankingPositionChange": 0,
    "gloryPoint": 30059,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 235,
+   "rankingPositionChange": -2,
+   "gloryPoint": 30010,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

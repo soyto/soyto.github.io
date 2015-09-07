@@ -2,9 +2,9 @@
  "characterID": 493854,
  "characterClassID": 8,
  "raceID": 0,
- "position": 770,
- "rankingPositionChange": 0,
- "gloryPoint": 11025,
+ "position": 771,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11018,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pefcaki",
@@ -280,6 +280,14 @@
    "position": 770,
    "rankingPositionChange": 0,
    "gloryPoint": 11025,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 771,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11018,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

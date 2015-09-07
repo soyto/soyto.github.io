@@ -2,9 +2,9 @@
  "characterID": 1290644,
  "characterClassID": 14,
  "raceID": 0,
- "position": 748,
- "rankingPositionChange": 1,
- "gloryPoint": 22857,
+ "position": 756,
+ "rankingPositionChange": -8,
+ "gloryPoint": 22850,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Slo",
@@ -280,6 +280,14 @@
    "position": 748,
    "rankingPositionChange": 1,
    "gloryPoint": 22857,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 756,
+   "rankingPositionChange": -8,
+   "gloryPoint": 22850,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

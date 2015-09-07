@@ -2,9 +2,9 @@
  "characterID": 1147286,
  "characterClassID": 1,
  "raceID": 1,
- "position": 299,
- "rankingPositionChange": -1,
- "gloryPoint": 24511,
+ "position": 298,
+ "rankingPositionChange": 1,
+ "gloryPoint": 24462,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Vehteya",
@@ -264,6 +264,14 @@
    "position": 299,
    "rankingPositionChange": -1,
    "gloryPoint": 24511,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 298,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24462,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

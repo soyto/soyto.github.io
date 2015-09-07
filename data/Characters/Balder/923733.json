@@ -2,9 +2,9 @@
  "characterID": 923733,
  "characterClassID": 16,
  "raceID": 1,
- "position": 271,
- "rankingPositionChange": 0,
- "gloryPoint": 12670,
+ "position": 272,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12621,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Rijku",
@@ -278,6 +278,14 @@
    "position": 271,
    "rankingPositionChange": 0,
    "gloryPoint": 12670,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 272,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12621,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

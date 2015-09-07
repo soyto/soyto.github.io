@@ -2,10 +2,10 @@
  "characterID": 100040,
  "characterClassID": 5,
  "raceID": 0,
- "position": 766,
- "rankingPositionChange": 8,
- "gloryPoint": 14441,
- "gloryPointChange": 323,
+ "position": 771,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14574,
+ "gloryPointChange": 133,
  "soldierRankID": 10,
  "characterName": "Flashault",
  "guildName": " Oblivion ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 14441,
    "gloryPointChange": 323,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 771,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14574,
+   "gloryPointChange": 133,
    "soldierRankID": 10
   }
  ],

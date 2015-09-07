@@ -2,9 +2,9 @@
  "characterID": 1171441,
  "characterClassID": 14,
  "raceID": 0,
- "position": 143,
- "rankingPositionChange": 0,
- "gloryPoint": 97998,
+ "position": 146,
+ "rankingPositionChange": -3,
+ "gloryPoint": 97949,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Katezen",
@@ -272,6 +272,14 @@
    "position": 143,
    "rankingPositionChange": 0,
    "gloryPoint": 97998,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": -3,
+   "gloryPoint": 97949,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

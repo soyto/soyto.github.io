@@ -2,9 +2,9 @@
  "characterID": 620861,
  "characterClassID": 10,
  "raceID": 0,
- "position": 750,
- "rankingPositionChange": 4,
- "gloryPoint": 20525,
+ "position": 760,
+ "rankingPositionChange": -10,
+ "gloryPoint": 20518,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Vampthique",
@@ -280,6 +280,14 @@
    "position": 750,
    "rankingPositionChange": 4,
    "gloryPoint": 20525,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 760,
+   "rankingPositionChange": -10,
+   "gloryPoint": 20518,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

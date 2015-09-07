@@ -2,10 +2,10 @@
  "characterID": 154382,
  "characterClassID": 5,
  "raceID": 1,
- "position": 78,
- "rankingPositionChange": 0,
- "gloryPoint": 84424,
- "gloryPointChange": 583,
+ "position": 79,
+ "rankingPositionChange": -1,
+ "gloryPoint": 84767,
+ "gloryPointChange": 343,
  "soldierRankID": 14,
  "characterName": "Hellcat",
  "guildName": "Syntagma",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 84424,
    "gloryPointChange": 583,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 79,
+   "rankingPositionChange": -1,
+   "gloryPoint": 84767,
+   "gloryPointChange": 343,
    "soldierRankID": 14
   }
  ],

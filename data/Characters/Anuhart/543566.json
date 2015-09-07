@@ -3,13 +3,11 @@
  "characterClassID": 1,
  "raceID": 0,
  "position": 329,
- "rankingPositionChange": 2,
- "gloryPoint": 29036,
- "gloryPointChange": 540,
+ "rankingPositionChange": 0,
+ "gloryPoint": 29066,
+ "gloryPointChange": 30,
  "soldierRankID": 12,
- "characterName": "Konichi",
- "guildName": " Panda Mafia ",
- "guildID": 21072,
+ "characterName": "Tokido",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,12 +280,24 @@
    "gloryPoint": 29036,
    "gloryPointChange": 540,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 329,
+   "rankingPositionChange": 0,
+   "gloryPoint": 29066,
+   "gloryPointChange": 30,
+   "soldierRankID": 12
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Konichi"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "characterName": "Tokido"
   }
  ],
  "guilds": [
@@ -303,6 +313,9 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": " Panda Mafia ",
    "guildID": 21072
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 555296,
  "characterClassID": 4,
  "raceID": 1,
- "position": 66,
- "rankingPositionChange": 0,
- "gloryPoint": 148299,
+ "position": 67,
+ "rankingPositionChange": -1,
+ "gloryPoint": 148192,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Appeal",
@@ -280,6 +280,14 @@
    "position": 66,
    "rankingPositionChange": 0,
    "gloryPoint": 148299,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 67,
+   "rankingPositionChange": -1,
+   "gloryPoint": 148192,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

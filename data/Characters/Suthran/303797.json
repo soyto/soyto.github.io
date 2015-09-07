@@ -2,10 +2,10 @@
  "characterID": 303797,
  "characterClassID": 8,
  "raceID": 1,
- "position": 64,
- "rankingPositionChange": 0,
- "gloryPoint": 126122,
- "gloryPointChange": 152,
+ "position": 65,
+ "rankingPositionChange": -1,
+ "gloryPoint": 126963,
+ "gloryPointChange": 841,
  "soldierRankID": 14,
  "characterName": "Matrice",
  "guildName": "Disorder",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 126122,
    "gloryPointChange": 152,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": -1,
+   "gloryPoint": 126963,
+   "gloryPointChange": 841,
    "soldierRankID": 14
   }
  ],

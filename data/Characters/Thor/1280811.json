@@ -2,9 +2,9 @@
  "characterID": 1280811,
  "characterClassID": 16,
  "raceID": 1,
- "position": 883,
- "rankingPositionChange": 0,
- "gloryPoint": 12982,
+ "position": 886,
+ "rankingPositionChange": -3,
+ "gloryPoint": 12975,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Bisky",
@@ -280,6 +280,14 @@
    "position": 883,
    "rankingPositionChange": 0,
    "gloryPoint": 12982,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 886,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12975,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

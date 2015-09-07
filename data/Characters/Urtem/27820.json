@@ -2,11 +2,11 @@
  "characterID": 27820,
  "characterClassID": 10,
  "raceID": 0,
- "position": 692,
- "rankingPositionChange": 0,
- "gloryPoint": 23226,
+ "position": 702,
+ "rankingPositionChange": -10,
+ "gloryPoint": 23212,
  "gloryPointChange": -14,
- "soldierRankID": 11,
+ "soldierRankID": 10,
  "characterName": "Mahad",
  "guildName": "Phoenix Requiem",
  "guildID": 8481,
@@ -282,6 +282,14 @@
    "gloryPoint": 23226,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 702,
+   "rankingPositionChange": -10,
+   "gloryPoint": 23212,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [

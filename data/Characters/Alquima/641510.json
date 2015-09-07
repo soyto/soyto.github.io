@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 202,
- "rankingPositionChange": 2,
- "gloryPoint": 60251,
- "gloryPointChange": 51,
+ "rankingPositionChange": 0,
+ "gloryPoint": 60202,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kuplu",
  "guildName": "Check Ready",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 60251,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 202,
+   "rankingPositionChange": 0,
+   "gloryPoint": 60202,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

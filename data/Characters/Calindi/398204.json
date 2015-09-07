@@ -2,9 +2,9 @@
  "characterID": 398204,
  "characterClassID": 16,
  "raceID": 0,
- "position": 391,
- "rankingPositionChange": 0,
- "gloryPoint": 11478,
+ "position": 394,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11490,
  "gloryPointChange": 12,
  "soldierRankID": 12,
  "characterName": "Erzalina",
@@ -280,6 +280,14 @@
    "position": 391,
    "rankingPositionChange": 0,
    "gloryPoint": 11478,
+   "gloryPointChange": 12,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11490,
    "gloryPointChange": 12,
    "soldierRankID": 12
   }

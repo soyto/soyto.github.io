@@ -2,9 +2,9 @@
  "characterID": 9607,
  "characterClassID": 2,
  "raceID": 0,
- "position": 886,
- "rankingPositionChange": -1,
- "gloryPoint": 12858,
+ "position": 882,
+ "rankingPositionChange": 4,
+ "gloryPoint": 12851,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pitt",
@@ -280,6 +280,14 @@
    "position": 886,
    "rankingPositionChange": -1,
    "gloryPoint": 12858,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": 4,
+   "gloryPoint": 12851,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

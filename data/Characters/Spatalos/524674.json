@@ -2,9 +2,9 @@
  "characterID": 524674,
  "characterClassID": 8,
  "raceID": 1,
- "position": 555,
- "rankingPositionChange": 0,
- "gloryPoint": 6787,
+ "position": 560,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6773,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Andreasg",
@@ -280,6 +280,14 @@
    "position": 555,
    "rankingPositionChange": 0,
    "gloryPoint": 6787,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 560,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6773,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

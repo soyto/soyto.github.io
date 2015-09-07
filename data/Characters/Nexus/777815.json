@@ -2,10 +2,10 @@
  "characterID": 777815,
  "characterClassID": 4,
  "raceID": 1,
- "position": 93,
- "rankingPositionChange": 0,
- "gloryPoint": 128719,
- "gloryPointChange": 43,
+ "position": 94,
+ "rankingPositionChange": -1,
+ "gloryPoint": 128724,
+ "gloryPointChange": 5,
  "soldierRankID": 14,
  "characterName": "Deeen",
  "guildName": "Pannon Reborn",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 128719,
    "gloryPointChange": 43,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 94,
+   "rankingPositionChange": -1,
+   "gloryPoint": 128724,
+   "gloryPointChange": 5,
    "soldierRankID": 14
   }
  ],

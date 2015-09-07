@@ -2,12 +2,14 @@
  "characterID": 316350,
  "characterClassID": 10,
  "raceID": 1,
- "position": 305,
- "rankingPositionChange": 6,
- "gloryPoint": 1307,
- "gloryPointChange": 38,
- "soldierRankID": 10,
+ "position": 264,
+ "rankingPositionChange": 41,
+ "gloryPoint": 1786,
+ "gloryPointChange": 479,
+ "soldierRankID": 11,
  "characterName": "Kajackill",
+ "guildName": "KamiSama",
+ "guildID": 12388,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -40,6 +42,14 @@
    "gloryPoint": 1307,
    "gloryPointChange": 38,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 264,
+   "rankingPositionChange": 41,
+   "gloryPoint": 1786,
+   "gloryPointChange": 479,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -51,6 +61,11 @@
  "guilds": [
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "KamiSama",
+   "guildID": 12388
   }
  ]
 }

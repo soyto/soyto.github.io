@@ -2,10 +2,10 @@
  "characterID": 706555,
  "characterClassID": 10,
  "raceID": 1,
- "position": 221,
- "rankingPositionChange": 0,
- "gloryPoint": 49581,
- "gloryPointChange": -49,
+ "position": 222,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49759,
+ "gloryPointChange": 178,
  "soldierRankID": 13,
  "characterName": "Healkiler",
  "guildName": "A D V",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 49581,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49759,
+   "gloryPointChange": 178,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 916941,
  "characterClassID": 1,
  "raceID": 1,
- "position": 600,
- "rankingPositionChange": 1,
- "gloryPoint": 1452,
+ "position": 602,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1438,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Shiizu",
@@ -280,6 +280,14 @@
    "position": 600,
    "rankingPositionChange": 1,
    "gloryPoint": 1452,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 602,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1438,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

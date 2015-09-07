@@ -2,10 +2,10 @@
  "characterID": 876642,
  "characterClassID": 8,
  "raceID": 1,
- "position": 506,
- "rankingPositionChange": -1,
- "gloryPoint": 9636,
- "gloryPointChange": -14,
+ "position": 505,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9742,
+ "gloryPointChange": 106,
  "soldierRankID": 11,
  "characterName": "Purez",
  "guildName": "A Little Bit Random",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 9636,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 505,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9742,
+   "gloryPointChange": 106,
    "soldierRankID": 11
   }
  ],

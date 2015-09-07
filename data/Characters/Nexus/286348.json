@@ -2,9 +2,9 @@
  "characterID": 286348,
  "characterClassID": 5,
  "raceID": 0,
- "position": 191,
- "rankingPositionChange": -1,
- "gloryPoint": 55946,
+ "position": 190,
+ "rankingPositionChange": 1,
+ "gloryPoint": 55897,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Afregar",
@@ -280,6 +280,14 @@
    "position": 191,
    "rankingPositionChange": -1,
    "gloryPoint": 55946,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 190,
+   "rankingPositionChange": 1,
+   "gloryPoint": 55897,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

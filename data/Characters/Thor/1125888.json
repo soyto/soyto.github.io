@@ -2,9 +2,9 @@
  "characterID": 1125888,
  "characterClassID": 10,
  "raceID": 1,
- "position": 370,
- "rankingPositionChange": 1,
- "gloryPoint": 40317,
+ "position": 372,
+ "rankingPositionChange": -2,
+ "gloryPoint": 40289,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kyubiia",
@@ -272,6 +272,14 @@
    "position": 370,
    "rankingPositionChange": 1,
    "gloryPoint": 40317,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 372,
+   "rankingPositionChange": -2,
+   "gloryPoint": 40289,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

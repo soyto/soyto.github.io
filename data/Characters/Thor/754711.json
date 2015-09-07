@@ -2,9 +2,9 @@
  "characterID": 754711,
  "characterClassID": 7,
  "raceID": 0,
- "position": 112,
- "rankingPositionChange": 0,
- "gloryPoint": 148337,
+ "position": 113,
+ "rankingPositionChange": -1,
+ "gloryPoint": 148288,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Asukia",
@@ -280,6 +280,14 @@
    "position": 112,
    "rankingPositionChange": 0,
    "gloryPoint": 148337,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 113,
+   "rankingPositionChange": -1,
+   "gloryPoint": 148288,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

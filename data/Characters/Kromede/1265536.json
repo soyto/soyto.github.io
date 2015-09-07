@@ -2,10 +2,10 @@
  "characterID": 1265536,
  "characterClassID": 7,
  "raceID": 1,
- "position": 622,
- "rankingPositionChange": 0,
- "gloryPoint": 6992,
- "gloryPointChange": 72,
+ "position": 626,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6978,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Negus",
  "guildName": "Verpeilt aber Geil",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6992,
    "gloryPointChange": 72,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 626,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6978,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

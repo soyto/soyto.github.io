@@ -2,10 +2,10 @@
  "characterID": 998253,
  "characterClassID": 5,
  "raceID": 1,
- "position": 505,
- "rankingPositionChange": 10,
- "gloryPoint": 9639,
- "gloryPointChange": 385,
+ "position": 506,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9721,
+ "gloryPointChange": 82,
  "soldierRankID": 11,
  "characterName": "Boobhunter",
  "guildName": "The Nobodies",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 9639,
    "gloryPointChange": 385,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 506,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9721,
+   "gloryPointChange": 82,
    "soldierRankID": 11
   }
  ],

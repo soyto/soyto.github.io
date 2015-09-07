@@ -2,10 +2,10 @@
  "characterID": 407914,
  "characterClassID": 14,
  "raceID": 0,
- "position": 599,
- "rankingPositionChange": 0,
- "gloryPoint": 22992,
- "gloryPointChange": -11,
+ "position": 600,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22988,
+ "gloryPointChange": -4,
  "soldierRankID": 11,
  "characterName": "Teeemo",
  "guildName": "Heavenly",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 22992,
    "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22988,
+   "gloryPointChange": -4,
    "soldierRankID": 11
   }
  ],

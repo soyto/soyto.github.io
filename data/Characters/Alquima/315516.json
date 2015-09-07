@@ -2,9 +2,9 @@
  "characterID": 315516,
  "characterClassID": 5,
  "raceID": 0,
- "position": 455,
- "rankingPositionChange": 0,
- "gloryPoint": 25278,
+ "position": 456,
+ "rankingPositionChange": -1,
+ "gloryPoint": 25250,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ayrema",
@@ -278,6 +278,14 @@
    "position": 455,
    "rankingPositionChange": 0,
    "gloryPoint": 25278,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": -1,
+   "gloryPoint": 25250,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

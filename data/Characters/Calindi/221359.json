@@ -2,9 +2,9 @@
  "characterID": 221359,
  "characterClassID": 2,
  "raceID": 0,
- "position": 276,
- "rankingPositionChange": 0,
- "gloryPoint": 23058,
+ "position": 278,
+ "rankingPositionChange": -2,
+ "gloryPoint": 23009,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Derior",
@@ -280,6 +280,14 @@
    "position": 276,
    "rankingPositionChange": 0,
    "gloryPoint": 23058,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 278,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23009,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

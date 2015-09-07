@@ -2,14 +2,14 @@
  "characterID": 67609,
  "characterClassID": 10,
  "raceID": 0,
- "position": 298,
- "rankingPositionChange": 0,
- "gloryPoint": 55815,
- "gloryPointChange": 373,
+ "position": 299,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55866,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Hevenwhite",
- "guildName": " S A W",
- "guildID": 4893,
+ "guildName": "R A G E",
+ "guildID": 5085,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 55815,
    "gloryPointChange": 373,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55866,
+   "gloryPointChange": 51,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -317,6 +325,11 @@
    "date": "2015-08-20T22:00:00.000Z",
    "guildName": "Shannara",
    "guildID": 4893
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "R A G E",
+   "guildID": 5085
   }
  ]
 }

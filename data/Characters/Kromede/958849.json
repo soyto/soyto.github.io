@@ -2,9 +2,9 @@
  "characterID": 958849,
  "characterClassID": 16,
  "raceID": 1,
- "position": 213,
- "rankingPositionChange": 1,
- "gloryPoint": 35465,
+ "position": 216,
+ "rankingPositionChange": -3,
+ "gloryPoint": 35416,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Lunacy",
@@ -280,6 +280,14 @@
    "position": 213,
    "rankingPositionChange": 1,
    "gloryPoint": 35465,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 216,
+   "rankingPositionChange": -3,
+   "gloryPoint": 35416,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

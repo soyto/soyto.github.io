@@ -2,14 +2,12 @@
  "characterID": 46143,
  "characterClassID": 5,
  "raceID": 0,
- "position": 973,
- "rankingPositionChange": 2,
- "gloryPoint": 4301,
- "gloryPointChange": -7,
+ "position": 974,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4344,
+ "gloryPointChange": 43,
  "soldierRankID": 10,
  "characterName": "Taeyeon",
- "guildName": "Cruel Intentions",
- "guildID": 16669,
  "status": [
   {
    "date": "2015-08-21T22:00:00.000Z",
@@ -114,6 +112,14 @@
    "gloryPoint": 4301,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 974,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4344,
+   "gloryPointChange": 43,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -127,6 +133,9 @@
    "date": "2015-08-21T22:00:00.000Z",
    "guildName": "Cruel Intentions",
    "guildID": 16669
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

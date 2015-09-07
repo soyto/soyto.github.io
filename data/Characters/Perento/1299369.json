@@ -2,10 +2,10 @@
  "characterID": 1299369,
  "characterClassID": 5,
  "raceID": 1,
- "position": 777,
- "rankingPositionChange": 4,
- "gloryPoint": 3054,
- "gloryPointChange": 93,
+ "position": 781,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3047,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Ukgangsta",
  "guildName": "Eternal Army",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 3054,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3047,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

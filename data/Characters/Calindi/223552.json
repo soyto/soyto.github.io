@@ -2,10 +2,10 @@
  "characterID": 223552,
  "characterClassID": 11,
  "raceID": 0,
- "position": 655,
- "rankingPositionChange": 1,
- "gloryPoint": 2721,
- "gloryPointChange": 14,
+ "position": 659,
+ "rankingPositionChange": -4,
+ "gloryPoint": 2707,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Baboum",
  "guildName": "Insecticide",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 2721,
    "gloryPointChange": 14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 659,
+   "rankingPositionChange": -4,
+   "gloryPoint": 2707,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

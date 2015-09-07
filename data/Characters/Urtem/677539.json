@@ -2,9 +2,9 @@
  "characterID": 677539,
  "characterClassID": 5,
  "raceID": 0,
- "position": 167,
- "rankingPositionChange": 0,
- "gloryPoint": 84658,
+ "position": 169,
+ "rankingPositionChange": -2,
+ "gloryPoint": 84609,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Biseo",
@@ -272,6 +272,14 @@
    "position": 167,
    "rankingPositionChange": 0,
    "gloryPoint": 84658,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 169,
+   "rankingPositionChange": -2,
+   "gloryPoint": 84609,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

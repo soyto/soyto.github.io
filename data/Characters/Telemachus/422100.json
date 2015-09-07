@@ -3,9 +3,9 @@
  "characterClassID": 11,
  "raceID": 1,
  "position": 402,
- "rankingPositionChange": 2,
- "gloryPoint": 6375,
- "gloryPointChange": 122,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6347,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Clampettjan",
  "guildName": "M I N I O N",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 6375,
    "gloryPointChange": 122,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 402,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6347,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1296701,
  "characterClassID": 13,
  "raceID": 1,
- "position": 620,
- "rankingPositionChange": 0,
- "gloryPoint": 5302,
+ "position": 621,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5288,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Beatboy",
@@ -280,6 +280,14 @@
    "position": 620,
    "rankingPositionChange": 0,
    "gloryPoint": 5302,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5288,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

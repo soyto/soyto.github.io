@@ -2,9 +2,9 @@
  "characterID": 823418,
  "characterClassID": 16,
  "raceID": 1,
- "position": 605,
- "rankingPositionChange": 0,
- "gloryPoint": 1431,
+ "position": 607,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1417,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Jakyy",
@@ -280,6 +280,14 @@
    "position": 605,
    "rankingPositionChange": 0,
    "gloryPoint": 1431,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 607,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1417,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

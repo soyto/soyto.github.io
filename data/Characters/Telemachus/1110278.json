@@ -2,9 +2,9 @@
  "characterID": 1110278,
  "characterClassID": 11,
  "raceID": 1,
- "position": 420,
- "rankingPositionChange": -2,
- "gloryPoint": 5764,
+ "position": 419,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5736,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ltwort",
@@ -280,6 +280,14 @@
    "position": 420,
    "rankingPositionChange": -2,
    "gloryPoint": 5764,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 419,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5736,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

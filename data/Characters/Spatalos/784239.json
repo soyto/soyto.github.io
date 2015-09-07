@@ -2,9 +2,9 @@
  "characterID": 784239,
  "characterClassID": 1,
  "raceID": 1,
- "position": 622,
- "rankingPositionChange": 0,
- "gloryPoint": 5602,
+ "position": 627,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5616,
  "gloryPointChange": 14,
  "soldierRankID": 11,
  "characterName": "Bandarra",
@@ -280,6 +280,14 @@
    "position": 622,
    "rankingPositionChange": 0,
    "gloryPoint": 5602,
+   "gloryPointChange": 14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 627,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5616,
    "gloryPointChange": 14,
    "soldierRankID": 11
   }

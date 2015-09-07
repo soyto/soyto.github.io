@@ -2,9 +2,9 @@
  "characterID": 101239,
  "characterClassID": 10,
  "raceID": 0,
- "position": 135,
- "rankingPositionChange": 1,
- "gloryPoint": 80812,
+ "position": 136,
+ "rankingPositionChange": -1,
+ "gloryPoint": 80763,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Georgiana",
@@ -182,6 +182,14 @@
    "position": 135,
    "rankingPositionChange": 1,
    "gloryPoint": 80812,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 136,
+   "rankingPositionChange": -1,
+   "gloryPoint": 80763,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

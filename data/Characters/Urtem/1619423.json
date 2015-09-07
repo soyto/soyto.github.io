@@ -2,10 +2,10 @@
  "characterID": 1619423,
  "characterClassID": 5,
  "raceID": 1,
- "position": 735,
- "rankingPositionChange": 3,
- "gloryPoint": 11021,
- "gloryPointChange": 53,
+ "position": 736,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11123,
+ "gloryPointChange": 102,
  "soldierRankID": 10,
  "characterName": "Taniki",
  "guildName": "DevilZ",
@@ -169,6 +169,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 11021,
    "gloryPointChange": 53,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 736,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11123,
+   "gloryPointChange": 102,
    "soldierRankID": 10
   }
  ],

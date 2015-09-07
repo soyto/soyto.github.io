@@ -2,9 +2,9 @@
  "characterID": 539426,
  "characterClassID": 10,
  "raceID": 0,
- "position": 939,
- "rankingPositionChange": 1,
- "gloryPoint": 11457,
+ "position": 940,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11450,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alexo",
@@ -278,6 +278,14 @@
    "position": 939,
    "rankingPositionChange": 1,
    "gloryPoint": 11457,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11450,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

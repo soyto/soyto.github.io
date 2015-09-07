@@ -2,9 +2,9 @@
  "characterID": 204498,
  "characterClassID": 1,
  "raceID": 1,
- "position": 60,
- "rankingPositionChange": -1,
- "gloryPoint": 127234,
+ "position": 59,
+ "rankingPositionChange": 1,
+ "gloryPoint": 127127,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Dreamwalk",
@@ -280,6 +280,14 @@
    "position": 60,
    "rankingPositionChange": -1,
    "gloryPoint": 127234,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 59,
+   "rankingPositionChange": 1,
+   "gloryPoint": 127127,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

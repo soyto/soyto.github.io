@@ -2,10 +2,10 @@
  "characterID": 870531,
  "characterClassID": 8,
  "raceID": 1,
- "position": 321,
- "rankingPositionChange": 5,
- "gloryPoint": 18438,
- "gloryPointChange": 454,
+ "position": 326,
+ "rankingPositionChange": -5,
+ "gloryPoint": 18399,
+ "gloryPointChange": -39,
  "soldierRankID": 12,
  "characterName": "Smpt",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 18438,
    "gloryPointChange": 454,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 326,
+   "rankingPositionChange": -5,
+   "gloryPoint": 18399,
+   "gloryPointChange": -39,
    "soldierRankID": 12
   }
  ],

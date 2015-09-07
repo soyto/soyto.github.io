@@ -2,11 +2,11 @@
  "characterID": 1067171,
  "characterClassID": 1,
  "raceID": 1,
- "position": 697,
- "rankingPositionChange": 11,
- "gloryPoint": 4225,
- "gloryPointChange": 252,
- "soldierRankID": 11,
+ "position": 708,
+ "rankingPositionChange": -11,
+ "gloryPoint": 4211,
+ "gloryPointChange": -14,
+ "soldierRankID": 10,
  "characterName": "Ryosenkay",
  "status": [
   {
@@ -280,6 +280,14 @@
    "gloryPoint": 4225,
    "gloryPointChange": 252,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 708,
+   "rankingPositionChange": -11,
+   "gloryPoint": 4211,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [

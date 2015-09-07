@@ -2,9 +2,9 @@
  "characterID": 556760,
  "characterClassID": 7,
  "raceID": 1,
- "position": 962,
- "rankingPositionChange": 4,
- "gloryPoint": 10275,
+ "position": 967,
+ "rankingPositionChange": -5,
+ "gloryPoint": 10268,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hiyorii",
@@ -278,6 +278,14 @@
    "position": 962,
    "rankingPositionChange": 4,
    "gloryPoint": 10275,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -5,
+   "gloryPoint": 10268,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 1207965,
  "characterClassID": 10,
  "raceID": 1,
- "position": 257,
- "rankingPositionChange": 0,
- "gloryPoint": 31815,
- "gloryPointChange": 192,
+ "position": 259,
+ "rankingPositionChange": -2,
+ "gloryPoint": 31766,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Nabie",
  "guildName": "Hope",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 31815,
    "gloryPointChange": 192,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 259,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31766,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

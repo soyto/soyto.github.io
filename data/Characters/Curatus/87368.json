@@ -2,9 +2,9 @@
  "characterID": 87368,
  "characterClassID": 14,
  "raceID": 0,
- "position": 983,
- "rankingPositionChange": 1,
- "gloryPoint": 8380,
+ "position": 988,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8373,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Francylll",
@@ -126,6 +126,14 @@
    "position": 983,
    "rankingPositionChange": 1,
    "gloryPoint": 8380,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8373,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

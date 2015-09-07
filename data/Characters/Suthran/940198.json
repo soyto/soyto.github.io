@@ -2,9 +2,9 @@
  "characterID": 940198,
  "characterClassID": 2,
  "raceID": 1,
- "position": 111,
- "rankingPositionChange": 0,
- "gloryPoint": 95091,
+ "position": 115,
+ "rankingPositionChange": -4,
+ "gloryPoint": 95042,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Eleeeck",
@@ -280,6 +280,14 @@
    "position": 111,
    "rankingPositionChange": 0,
    "gloryPoint": 95091,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 115,
+   "rankingPositionChange": -4,
+   "gloryPoint": 95042,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

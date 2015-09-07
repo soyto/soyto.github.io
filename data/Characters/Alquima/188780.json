@@ -2,10 +2,10 @@
  "characterID": 188780,
  "characterClassID": 16,
  "raceID": 1,
- "position": 811,
- "rankingPositionChange": 2,
- "gloryPoint": 8388,
- "gloryPointChange": 63,
+ "position": 813,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8381,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Naiwa",
  "guildName": "Skydivers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 8388,
    "gloryPointChange": 63,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 813,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8381,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

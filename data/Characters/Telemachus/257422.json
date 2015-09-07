@@ -2,9 +2,9 @@
  "characterID": 257422,
  "characterClassID": 5,
  "raceID": 0,
- "position": 961,
- "rankingPositionChange": 0,
- "gloryPoint": 5733,
+ "position": 962,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5726,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Quasee",
@@ -280,6 +280,14 @@
    "position": 961,
    "rankingPositionChange": 0,
    "gloryPoint": 5733,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5726,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

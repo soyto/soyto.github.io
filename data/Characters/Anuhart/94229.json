@@ -2,9 +2,9 @@
  "characterID": 94229,
  "characterClassID": 10,
  "raceID": 0,
- "position": 783,
- "rankingPositionChange": 1,
- "gloryPoint": 6886,
+ "position": 786,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6879,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Zoribella",
@@ -280,6 +280,14 @@
    "position": 783,
    "rankingPositionChange": 1,
    "gloryPoint": 6886,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 786,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6879,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

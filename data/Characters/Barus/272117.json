@@ -2,9 +2,9 @@
  "characterID": 272117,
  "characterClassID": 1,
  "raceID": 1,
- "position": 994,
- "rankingPositionChange": 0,
- "gloryPoint": 9413,
+ "position": 996,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9406,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pyrom",
@@ -280,6 +280,14 @@
    "position": 994,
    "rankingPositionChange": 0,
    "gloryPoint": 9413,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9406,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

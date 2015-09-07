@@ -2,11 +2,11 @@
  "characterID": 375000,
  "characterClassID": 1,
  "raceID": 0,
- "position": 697,
- "rankingPositionChange": 0,
- "gloryPoint": 8727,
+ "position": 702,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8713,
  "gloryPointChange": -14,
- "soldierRankID": 11,
+ "soldierRankID": 10,
  "characterName": "Cinis",
  "guildName": "ARMAGEDDON",
  "guildID": 1594,
@@ -274,6 +274,14 @@
    "gloryPoint": 8727,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 702,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8713,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [

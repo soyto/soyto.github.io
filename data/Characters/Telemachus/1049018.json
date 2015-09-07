@@ -2,9 +2,9 @@
  "characterID": 1049018,
  "characterClassID": 1,
  "raceID": 0,
- "position": 817,
- "rankingPositionChange": -1,
- "gloryPoint": 9401,
+ "position": 816,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9394,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Warlord",
@@ -190,6 +190,14 @@
    "position": 817,
    "rankingPositionChange": -1,
    "gloryPoint": 9401,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 816,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9394,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

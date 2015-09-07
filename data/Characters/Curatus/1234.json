@@ -2,11 +2,11 @@
  "characterID": 1234,
  "characterClassID": 1,
  "raceID": 1,
- "position": 999,
+ "position": 1000,
  "rankingPositionChange": -1,
- "gloryPoint": 2955,
- "gloryPointChange": -7,
- "soldierRankID": 10,
+ "gloryPoint": 2963,
+ "gloryPointChange": 8,
+ "soldierRankID": 0,
  "characterName": "Exow",
  "guildName": " QQ too Kawaiiii to be Alone QQ ",
  "guildID": 6792,
@@ -58,6 +58,14 @@
    "gloryPoint": 2955,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2963,
+   "gloryPointChange": 8,
+   "soldierRankID": 0
   }
  ],
  "names": [

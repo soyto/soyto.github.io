@@ -2,9 +2,9 @@
  "characterID": 1210273,
  "characterClassID": 2,
  "raceID": 0,
- "position": 168,
- "rankingPositionChange": 0,
- "gloryPoint": 82261,
+ "position": 170,
+ "rankingPositionChange": -2,
+ "gloryPoint": 82212,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Scroop",
@@ -270,6 +270,14 @@
    "position": 168,
    "rankingPositionChange": 0,
    "gloryPoint": 82261,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 170,
+   "rankingPositionChange": -2,
+   "gloryPoint": 82212,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

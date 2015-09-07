@@ -2,9 +2,9 @@
  "characterID": 1270211,
  "characterClassID": 10,
  "raceID": 1,
- "position": 560,
- "rankingPositionChange": 0,
- "gloryPoint": 13311,
+ "position": 562,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13337,
  "gloryPointChange": 26,
  "soldierRankID": 11,
  "characterName": "Grimkaphy",
@@ -270,6 +270,14 @@
    "position": 560,
    "rankingPositionChange": 0,
    "gloryPoint": 13311,
+   "gloryPointChange": 26,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 562,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13337,
    "gloryPointChange": 26,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 362017,
  "characterClassID": 10,
  "raceID": 1,
- "position": 25,
- "rankingPositionChange": 0,
- "gloryPoint": 152645,
- "gloryPointChange": 106,
+ "position": 24,
+ "rankingPositionChange": 1,
+ "gloryPoint": 152526,
+ "gloryPointChange": -119,
  "soldierRankID": 15,
  "characterName": "Desinfektion",
  "guildName": "Rosa Hoppelhasen",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 152645,
    "gloryPointChange": 106,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 24,
+   "rankingPositionChange": 1,
+   "gloryPoint": 152526,
+   "gloryPointChange": -119,
    "soldierRankID": 15
   }
  ],

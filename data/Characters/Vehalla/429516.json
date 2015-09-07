@@ -3,9 +3,9 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 227,
- "rankingPositionChange": 5,
- "gloryPoint": 16015,
- "gloryPointChange": 301,
+ "rankingPositionChange": 0,
+ "gloryPoint": 15975,
+ "gloryPointChange": -40,
  "soldierRankID": 13,
  "characterName": "Maenriah",
  "guildName": "Maligne",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 16015,
    "gloryPointChange": 301,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 227,
+   "rankingPositionChange": 0,
+   "gloryPoint": 15975,
+   "gloryPointChange": -40,
    "soldierRankID": 13
   }
  ],

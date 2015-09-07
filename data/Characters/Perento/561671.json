@@ -2,9 +2,9 @@
  "characterID": 561671,
  "characterClassID": 4,
  "raceID": 1,
- "position": 768,
- "rankingPositionChange": 0,
- "gloryPoint": 3129,
+ "position": 772,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3122,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Biribiri",
@@ -280,6 +280,14 @@
    "position": 768,
    "rankingPositionChange": 0,
    "gloryPoint": 3129,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 772,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3122,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

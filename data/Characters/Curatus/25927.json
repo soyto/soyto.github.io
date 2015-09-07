@@ -2,10 +2,10 @@
  "characterID": 25927,
  "characterClassID": 2,
  "raceID": 1,
- "position": 923,
- "rankingPositionChange": -2,
- "gloryPoint": 3703,
- "gloryPointChange": -7,
+ "position": 928,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3706,
+ "gloryPointChange": 3,
  "soldierRankID": 10,
  "characterName": "Lionheart",
  "guildName": "Pendragon",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 3703,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 928,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3706,
+   "gloryPointChange": 3,
    "soldierRankID": 10
   }
  ],

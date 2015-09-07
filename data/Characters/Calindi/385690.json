@@ -2,9 +2,9 @@
  "characterID": 385690,
  "characterClassID": 4,
  "raceID": 0,
- "position": 217,
- "rankingPositionChange": 0,
- "gloryPoint": 32479,
+ "position": 220,
+ "rankingPositionChange": -3,
+ "gloryPoint": 32430,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Schall",
@@ -280,6 +280,14 @@
    "position": 217,
    "rankingPositionChange": 0,
    "gloryPoint": 32479,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": -3,
+   "gloryPoint": 32430,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

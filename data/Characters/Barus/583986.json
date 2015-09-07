@@ -2,9 +2,9 @@
  "characterID": 583986,
  "characterClassID": 14,
  "raceID": 1,
- "position": 889,
- "rankingPositionChange": 2,
- "gloryPoint": 12164,
+ "position": 894,
+ "rankingPositionChange": -5,
+ "gloryPoint": 12157,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Funtix",
@@ -280,6 +280,14 @@
    "position": 889,
    "rankingPositionChange": 2,
    "gloryPoint": 12164,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 894,
+   "rankingPositionChange": -5,
+   "gloryPoint": 12157,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

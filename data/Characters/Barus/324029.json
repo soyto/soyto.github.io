@@ -2,9 +2,9 @@
  "characterID": 324029,
  "characterClassID": 11,
  "raceID": 1,
- "position": 839,
- "rankingPositionChange": 2,
- "gloryPoint": 13471,
+ "position": 841,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13464,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lwiatko",
@@ -280,6 +280,14 @@
    "position": 839,
    "rankingPositionChange": 2,
    "gloryPoint": 13471,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 841,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13464,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

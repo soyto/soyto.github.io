@@ -2,9 +2,9 @@
  "characterID": 308263,
  "characterClassID": 1,
  "raceID": 1,
- "position": 640,
- "rankingPositionChange": 0,
- "gloryPoint": 20458,
+ "position": 644,
+ "rankingPositionChange": -4,
+ "gloryPoint": 20444,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Diiablo",
@@ -280,6 +280,14 @@
    "position": 640,
    "rankingPositionChange": 0,
    "gloryPoint": 20458,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 644,
+   "rankingPositionChange": -4,
+   "gloryPoint": 20444,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,10 +2,10 @@
  "characterID": 824283,
  "characterClassID": 10,
  "raceID": 0,
- "position": 360,
- "rankingPositionChange": 0,
- "gloryPoint": 25106,
- "gloryPointChange": -28,
+ "position": 363,
+ "rankingPositionChange": -3,
+ "gloryPoint": 25128,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Juytaro",
  "guildName": "The Spartans",
@@ -249,6 +249,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 25106,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 363,
+   "rankingPositionChange": -3,
+   "gloryPoint": 25128,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

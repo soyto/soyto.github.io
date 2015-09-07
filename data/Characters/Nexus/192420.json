@@ -2,9 +2,9 @@
  "characterID": 192420,
  "characterClassID": 2,
  "raceID": 0,
- "position": 845,
- "rankingPositionChange": 0,
- "gloryPoint": 6535,
+ "position": 849,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6528,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Defensivedeity",
@@ -278,6 +278,14 @@
    "position": 845,
    "rankingPositionChange": 0,
    "gloryPoint": 6535,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 849,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6528,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

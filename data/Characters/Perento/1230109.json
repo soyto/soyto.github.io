@@ -2,9 +2,9 @@
  "characterID": 1230109,
  "characterClassID": 10,
  "raceID": 1,
- "position": 964,
- "rankingPositionChange": 2,
- "gloryPoint": 1646,
+ "position": 969,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1639,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nussse",
@@ -272,6 +272,14 @@
    "position": 964,
    "rankingPositionChange": 2,
    "gloryPoint": 1646,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1639,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 155624,
  "characterClassID": 4,
  "raceID": 1,
- "position": 106,
- "rankingPositionChange": 1,
- "gloryPoint": 54184,
- "gloryPointChange": 210,
+ "position": 107,
+ "rankingPositionChange": -1,
+ "gloryPoint": 54135,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Liarekon",
  "guildName": "Semper Paratus",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 54184,
    "gloryPointChange": 210,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": -1,
+   "gloryPoint": 54135,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

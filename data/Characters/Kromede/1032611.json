@@ -2,10 +2,10 @@
  "characterID": 1032611,
  "characterClassID": 2,
  "raceID": 1,
- "position": 770,
- "rankingPositionChange": 23,
- "gloryPoint": 4670,
- "gloryPointChange": 239,
+ "position": 772,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4663,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mimitan",
  "guildName": "The Darkness Rising",
@@ -137,6 +137,14 @@
    "rankingPositionChange": 23,
    "gloryPoint": 4670,
    "gloryPointChange": 239,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 772,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4663,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 150752,
  "characterClassID": 5,
  "raceID": 0,
- "position": 197,
- "rankingPositionChange": 2,
- "gloryPoint": 38975,
- "gloryPointChange": 321,
+ "position": 201,
+ "rankingPositionChange": -4,
+ "gloryPoint": 38941,
+ "gloryPointChange": -34,
  "soldierRankID": 13,
  "characterName": "Locus",
  "guildName": "Fantasia",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 38975,
    "gloryPointChange": 321,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 201,
+   "rankingPositionChange": -4,
+   "gloryPoint": 38941,
+   "gloryPointChange": -34,
    "soldierRankID": 13
   }
  ],

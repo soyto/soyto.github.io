@@ -2,9 +2,9 @@
  "characterID": 20265,
  "characterClassID": 10,
  "raceID": 0,
- "position": 856,
- "rankingPositionChange": 0,
- "gloryPoint": 6235,
+ "position": 860,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6228,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mistyk",
@@ -280,6 +280,14 @@
    "position": 856,
    "rankingPositionChange": 0,
    "gloryPoint": 6235,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6228,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

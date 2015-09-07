@@ -2,9 +2,9 @@
  "characterID": 246000,
  "characterClassID": 1,
  "raceID": 0,
- "position": 448,
- "rankingPositionChange": 1,
- "gloryPoint": 6847,
+ "position": 456,
+ "rankingPositionChange": -8,
+ "gloryPoint": 6819,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Kamiyapink",
@@ -278,6 +278,14 @@
    "position": 448,
    "rankingPositionChange": 1,
    "gloryPoint": 6847,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": -8,
+   "gloryPoint": 6819,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

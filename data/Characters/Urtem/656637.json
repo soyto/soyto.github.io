@@ -2,10 +2,10 @@
  "characterID": 656637,
  "characterClassID": 5,
  "raceID": 1,
- "position": 191,
- "rankingPositionChange": 0,
- "gloryPoint": 54937,
- "gloryPointChange": 7,
+ "position": 196,
+ "rankingPositionChange": -5,
+ "gloryPoint": 54988,
+ "gloryPointChange": 51,
  "soldierRankID": 13,
  "characterName": "Laxatyf",
  "guildName": "Les Affranchis",
@@ -217,6 +217,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 54937,
    "gloryPointChange": 7,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": -5,
+   "gloryPoint": 54988,
+   "gloryPointChange": 51,
    "soldierRankID": 13
   }
  ],

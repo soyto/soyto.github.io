@@ -2,9 +2,9 @@
  "characterID": 295724,
  "characterClassID": 7,
  "raceID": 0,
- "position": 965,
- "rankingPositionChange": 0,
- "gloryPoint": 8932,
+ "position": 969,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8925,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lignus",
@@ -192,6 +192,14 @@
    "position": 965,
    "rankingPositionChange": 0,
    "gloryPoint": 8932,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8925,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

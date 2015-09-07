@@ -2,9 +2,9 @@
  "characterID": 309102,
  "characterClassID": 8,
  "raceID": 1,
- "position": 834,
- "rankingPositionChange": 0,
- "gloryPoint": 9195,
+ "position": 841,
+ "rankingPositionChange": -7,
+ "gloryPoint": 9188,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Inora",
@@ -280,6 +280,14 @@
    "position": 834,
    "rankingPositionChange": 0,
    "gloryPoint": 9195,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 841,
+   "rankingPositionChange": -7,
+   "gloryPoint": 9188,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

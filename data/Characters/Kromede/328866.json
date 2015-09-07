@@ -2,10 +2,10 @@
  "characterID": 328866,
  "characterClassID": 2,
  "raceID": 0,
- "position": 260,
- "rankingPositionChange": -1,
- "gloryPoint": 50462,
- "gloryPointChange": -49,
+ "position": 259,
+ "rankingPositionChange": 1,
+ "gloryPoint": 50690,
+ "gloryPointChange": 228,
  "soldierRankID": 13,
  "characterName": "Darthunter",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 50462,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 259,
+   "rankingPositionChange": 1,
+   "gloryPoint": 50690,
+   "gloryPointChange": 228,
    "soldierRankID": 13
   }
  ],

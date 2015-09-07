@@ -2,9 +2,9 @@
  "characterID": 320405,
  "characterClassID": 2,
  "raceID": 1,
- "position": 690,
- "rankingPositionChange": 0,
- "gloryPoint": 6939,
+ "position": 692,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6925,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Stocka",
@@ -262,6 +262,14 @@
    "position": 690,
    "rankingPositionChange": 0,
    "gloryPoint": 6939,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 692,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6925,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

@@ -2,9 +2,9 @@
  "characterID": 1572971,
  "characterClassID": 13,
  "raceID": 0,
- "position": 765,
- "rankingPositionChange": 5,
- "gloryPoint": 19784,
+ "position": 776,
+ "rankingPositionChange": -11,
+ "gloryPoint": 19777,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Amrush",
@@ -176,6 +176,14 @@
    "position": 765,
    "rankingPositionChange": 5,
    "gloryPoint": 19784,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 776,
+   "rankingPositionChange": -11,
+   "gloryPoint": 19777,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

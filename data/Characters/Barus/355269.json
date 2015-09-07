@@ -2,9 +2,9 @@
  "characterID": 355269,
  "characterClassID": 13,
  "raceID": 1,
- "position": 899,
- "rankingPositionChange": 3,
- "gloryPoint": 11916,
+ "position": 904,
+ "rankingPositionChange": -5,
+ "gloryPoint": 11909,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Patrolx",
@@ -280,6 +280,14 @@
    "position": 899,
    "rankingPositionChange": 3,
    "gloryPoint": 11916,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 904,
+   "rankingPositionChange": -5,
+   "gloryPoint": 11909,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

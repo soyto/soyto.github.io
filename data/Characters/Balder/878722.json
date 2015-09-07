@@ -2,9 +2,9 @@
  "characterID": 878722,
  "characterClassID": 14,
  "raceID": 1,
- "position": 163,
- "rankingPositionChange": 0,
- "gloryPoint": 35203,
+ "position": 164,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35154,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Liguliana",
@@ -280,6 +280,14 @@
    "position": 163,
    "rankingPositionChange": 0,
    "gloryPoint": 35203,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 164,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35154,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

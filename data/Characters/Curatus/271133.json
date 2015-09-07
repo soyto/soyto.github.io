@@ -2,10 +2,10 @@
  "characterID": 271133,
  "characterClassID": 10,
  "raceID": 1,
- "position": 366,
- "rankingPositionChange": -1,
- "gloryPoint": 18911,
- "gloryPointChange": -28,
+ "position": 365,
+ "rankingPositionChange": 1,
+ "gloryPoint": 19116,
+ "gloryPointChange": 205,
  "soldierRankID": 12,
  "characterName": "Plimp",
  "guildName": " Arkadia ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 18911,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 365,
+   "rankingPositionChange": 1,
+   "gloryPoint": 19116,
+   "gloryPointChange": 205,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 195154,
  "characterClassID": 4,
  "raceID": 1,
- "position": 546,
- "rankingPositionChange": 1,
- "gloryPoint": 24691,
- "gloryPointChange": 120,
+ "position": 547,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24683,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Kazuro",
  "guildName": "Rigu Taikyu sei Kyojin",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 24691,
    "gloryPointChange": 120,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 547,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24683,
+   "gloryPointChange": -8,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 660957,
  "characterClassID": 1,
  "raceID": 1,
- "position": 818,
- "rankingPositionChange": 4,
- "gloryPoint": 13948,
+ "position": 824,
+ "rankingPositionChange": -6,
+ "gloryPoint": 13941,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Xenodus",
@@ -256,6 +256,14 @@
    "position": 818,
    "rankingPositionChange": 4,
    "gloryPoint": 13948,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 824,
+   "rankingPositionChange": -6,
+   "gloryPoint": 13941,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

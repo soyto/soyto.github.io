@@ -2,14 +2,14 @@
  "characterID": 536090,
  "characterClassID": 14,
  "raceID": 0,
- "position": 178,
- "rankingPositionChange": 1,
- "gloryPoint": 67764,
- "gloryPointChange": 4,
+ "position": 175,
+ "rankingPositionChange": 3,
+ "gloryPoint": 68036,
+ "gloryPointChange": 272,
  "soldierRankID": 13,
  "characterName": "Xraiz",
- "guildName": "Retard Forces",
- "guildID": 1460,
+ "guildName": "QUINIENTOS DE PING",
+ "guildID": 14307,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 67764,
    "gloryPointChange": 4,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 175,
+   "rankingPositionChange": 3,
+   "gloryPoint": 68036,
+   "gloryPointChange": 272,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -315,6 +323,11 @@
    "date": "2015-08-30T22:00:00.000Z",
    "guildName": "Retard Forces",
    "guildID": 1460
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "QUINIENTOS DE PING",
+   "guildID": 14307
   }
  ]
 }

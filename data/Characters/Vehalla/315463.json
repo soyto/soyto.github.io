@@ -2,9 +2,9 @@
  "characterID": 315463,
  "characterClassID": 5,
  "raceID": 0,
- "position": 217,
- "rankingPositionChange": -1,
- "gloryPoint": 22114,
+ "position": 216,
+ "rankingPositionChange": 1,
+ "gloryPoint": 22065,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Raye",
@@ -272,6 +272,14 @@
    "position": 217,
    "rankingPositionChange": -1,
    "gloryPoint": 22114,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 216,
+   "rankingPositionChange": 1,
+   "gloryPoint": 22065,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

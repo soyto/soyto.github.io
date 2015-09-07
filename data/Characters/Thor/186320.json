@@ -2,10 +2,10 @@
  "characterID": 186320,
  "characterClassID": 10,
  "raceID": 0,
- "position": 168,
- "rankingPositionChange": 1,
- "gloryPoint": 103218,
- "gloryPointChange": 742,
+ "position": 170,
+ "rankingPositionChange": -2,
+ "gloryPoint": 103169,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tailtu",
  "guildName": "SchildkroeteLite",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 103218,
    "gloryPointChange": 742,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 170,
+   "rankingPositionChange": -2,
+   "gloryPoint": 103169,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

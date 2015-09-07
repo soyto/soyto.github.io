@@ -2,9 +2,9 @@
  "characterID": 361203,
  "characterClassID": 14,
  "raceID": 1,
- "position": 436,
- "rankingPositionChange": 4,
- "gloryPoint": 2835,
+ "position": 437,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2807,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Talvikki",
@@ -272,6 +272,14 @@
    "position": 436,
    "rankingPositionChange": 4,
    "gloryPoint": 2835,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 437,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2807,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

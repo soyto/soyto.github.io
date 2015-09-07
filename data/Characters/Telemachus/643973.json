@@ -3,9 +3,9 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 245,
- "rankingPositionChange": 1,
- "gloryPoint": 17984,
- "gloryPointChange": 251,
+ "rankingPositionChange": 0,
+ "gloryPoint": 17935,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Morghul",
  "guildName": "Ordem Secreta",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 17984,
    "gloryPointChange": 251,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": 0,
+   "gloryPoint": 17935,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

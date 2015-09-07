@@ -2,14 +2,14 @@
  "characterID": 225533,
  "characterClassID": 16,
  "raceID": 1,
- "position": 755,
- "rankingPositionChange": -2,
- "gloryPoint": 5999,
- "gloryPointChange": 43,
+ "position": 729,
+ "rankingPositionChange": 26,
+ "gloryPoint": 6334,
+ "gloryPointChange": 335,
  "soldierRankID": 10,
  "characterName": "Erunir",
- "guildName": "Silent Majority",
- "guildID": 5836,
+ "guildName": "Prepotenti",
+ "guildID": 5129,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 5999,
    "gloryPointChange": 43,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 729,
+   "rankingPositionChange": 26,
+   "gloryPoint": 6334,
+   "gloryPointChange": 335,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -298,6 +306,11 @@
    "date": "2015-08-17T22:00:00.000Z",
    "guildName": "Silent Majority",
    "guildID": 5836
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Prepotenti",
+   "guildID": 5129
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 933269,
  "characterClassID": 7,
  "raceID": 0,
- "position": 409,
- "rankingPositionChange": 2,
- "gloryPoint": 32081,
+ "position": 410,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32053,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Holycrown",
@@ -272,6 +272,14 @@
    "position": 409,
    "rankingPositionChange": 2,
    "gloryPoint": 32081,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 410,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32053,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

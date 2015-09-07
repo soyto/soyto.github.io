@@ -2,10 +2,10 @@
  "characterID": 433621,
  "characterClassID": 4,
  "raceID": 1,
- "position": 47,
- "rankingPositionChange": 0,
- "gloryPoint": 159175,
- "gloryPointChange": 860,
+ "position": 48,
+ "rankingPositionChange": -1,
+ "gloryPoint": 159755,
+ "gloryPointChange": 580,
  "soldierRankID": 14,
  "characterName": "Aiyuki",
  "guildName": "BadGirl",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 159175,
    "gloryPointChange": 860,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 48,
+   "rankingPositionChange": -1,
+   "gloryPoint": 159755,
+   "gloryPointChange": 580,
    "soldierRankID": 14
   }
  ],

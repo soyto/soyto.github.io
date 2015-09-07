@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 0,
  "position": 787,
- "rankingPositionChange": 4,
- "gloryPoint": 2776,
- "gloryPointChange": 3,
+ "rankingPositionChange": 0,
+ "gloryPoint": 2769,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rumblebee",
  "guildName": "Blood and Money",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 2776,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 787,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2769,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

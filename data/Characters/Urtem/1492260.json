@@ -2,12 +2,14 @@
  "characterID": 1492260,
  "characterClassID": 1,
  "raceID": 1,
- "position": 941,
- "rankingPositionChange": 11,
- "gloryPoint": 7473,
- "gloryPointChange": 86,
+ "position": 915,
+ "rankingPositionChange": 26,
+ "gloryPoint": 7922,
+ "gloryPointChange": 449,
  "soldierRankID": 10,
  "characterName": "Minishuzen",
+ "guildName": "Solaria",
+ "guildID": 44117,
  "status": [
   {
    "date": "2015-08-16T22:00:00.000Z",
@@ -152,6 +154,14 @@
    "gloryPoint": 7473,
    "gloryPointChange": 86,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 915,
+   "rankingPositionChange": 26,
+   "gloryPoint": 7922,
+   "gloryPointChange": 449,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -163,6 +173,11 @@
  "guilds": [
   {
    "date": "2015-08-16T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Solaria",
+   "guildID": 44117
   }
  ]
 }

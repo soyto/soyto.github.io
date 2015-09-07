@@ -2,10 +2,10 @@
  "characterID": 1193824,
  "characterClassID": 13,
  "raceID": 0,
- "position": 159,
- "rankingPositionChange": 0,
- "gloryPoint": 85019,
- "gloryPointChange": 55,
+ "position": 160,
+ "rankingPositionChange": -1,
+ "gloryPoint": 84993,
+ "gloryPointChange": -26,
  "soldierRankID": 13,
  "characterName": "Scorypion",
  "guildName": "The Wind is pushing meeeeeeeeeee",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 85019,
    "gloryPointChange": 55,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 160,
+   "rankingPositionChange": -1,
+   "gloryPoint": 84993,
+   "gloryPointChange": -26,
    "soldierRankID": 13
   }
  ],

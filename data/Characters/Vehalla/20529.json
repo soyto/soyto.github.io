@@ -2,9 +2,9 @@
  "characterID": 20529,
  "characterClassID": 5,
  "raceID": 1,
- "position": 590,
- "rankingPositionChange": 0,
- "gloryPoint": 1409,
+ "position": 599,
+ "rankingPositionChange": -9,
+ "gloryPoint": 1395,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Fanrin",
@@ -144,6 +144,14 @@
    "position": 590,
    "rankingPositionChange": 0,
    "gloryPoint": 1409,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 599,
+   "rankingPositionChange": -9,
+   "gloryPoint": 1395,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

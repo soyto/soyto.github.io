@@ -2,10 +2,10 @@
  "characterID": 1611721,
  "characterClassID": 7,
  "raceID": 1,
- "position": 802,
- "rankingPositionChange": 8,
- "gloryPoint": 9796,
- "gloryPointChange": 118,
+ "position": 806,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9819,
+ "gloryPointChange": 23,
  "soldierRankID": 10,
  "characterName": "Spookyboogy",
  "guildName": "Death Guards",
@@ -225,6 +225,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 9796,
    "gloryPointChange": 118,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 806,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9819,
+   "gloryPointChange": 23,
    "soldierRankID": 10
   }
  ],

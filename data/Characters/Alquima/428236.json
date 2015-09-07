@@ -2,9 +2,9 @@
  "characterID": 428236,
  "characterClassID": 14,
  "raceID": 1,
- "position": 109,
- "rankingPositionChange": 0,
- "gloryPoint": 72999,
+ "position": 110,
+ "rankingPositionChange": -1,
+ "gloryPoint": 72950,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Repo",
@@ -78,6 +78,14 @@
    "position": 109,
    "rankingPositionChange": 0,
    "gloryPoint": 72999,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 110,
+   "rankingPositionChange": -1,
+   "gloryPoint": 72950,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

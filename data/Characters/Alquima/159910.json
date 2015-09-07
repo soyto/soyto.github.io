@@ -2,10 +2,10 @@
  "characterID": 159910,
  "characterClassID": 8,
  "raceID": 1,
- "position": 939,
- "rankingPositionChange": 5,
- "gloryPoint": 6252,
- "gloryPointChange": 65,
+ "position": 941,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6265,
+ "gloryPointChange": 13,
  "soldierRankID": 10,
  "characterName": "Cfuert",
  "guildName": "HYDRA",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 6252,
    "gloryPointChange": 65,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 941,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6265,
+   "gloryPointChange": 13,
    "soldierRankID": 10
   }
  ],

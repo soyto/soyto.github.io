@@ -2,9 +2,9 @@
  "characterID": 251886,
  "characterClassID": 10,
  "raceID": 1,
- "position": 39,
- "rankingPositionChange": 0,
- "gloryPoint": 108551,
+ "position": 40,
+ "rankingPositionChange": -1,
+ "gloryPoint": 108444,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Zeusidte",
@@ -272,6 +272,14 @@
    "position": 39,
    "rankingPositionChange": 0,
    "gloryPoint": 108551,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 40,
+   "rankingPositionChange": -1,
+   "gloryPoint": 108444,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

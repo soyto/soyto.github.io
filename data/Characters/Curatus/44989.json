@@ -2,10 +2,10 @@
  "characterID": 44989,
  "characterClassID": 5,
  "raceID": 0,
- "position": 435,
- "rankingPositionChange": 3,
- "gloryPoint": 34419,
- "gloryPointChange": 278,
+ "position": 439,
+ "rankingPositionChange": -4,
+ "gloryPoint": 34391,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ginmoc",
  "guildName": "Ascension",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 34419,
    "gloryPointChange": 278,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 439,
+   "rankingPositionChange": -4,
+   "gloryPoint": 34391,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

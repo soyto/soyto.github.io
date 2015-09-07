@@ -2,9 +2,9 @@
  "characterID": 494083,
  "characterClassID": 2,
  "raceID": 1,
- "position": 238,
- "rankingPositionChange": 1,
- "gloryPoint": 45305,
+ "position": 240,
+ "rankingPositionChange": -2,
+ "gloryPoint": 45256,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Kennycaine",
@@ -280,6 +280,14 @@
    "position": 238,
    "rankingPositionChange": 1,
    "gloryPoint": 45305,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 240,
+   "rankingPositionChange": -2,
+   "gloryPoint": 45256,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

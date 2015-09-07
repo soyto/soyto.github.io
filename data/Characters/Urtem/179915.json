@@ -2,9 +2,9 @@
  "characterID": 179915,
  "characterClassID": 7,
  "raceID": 0,
- "position": 155,
- "rankingPositionChange": 0,
- "gloryPoint": 92291,
+ "position": 157,
+ "rankingPositionChange": -2,
+ "gloryPoint": 92242,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Yllang",
@@ -264,6 +264,14 @@
    "position": 155,
    "rankingPositionChange": 0,
    "gloryPoint": 92291,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 157,
+   "rankingPositionChange": -2,
+   "gloryPoint": 92242,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

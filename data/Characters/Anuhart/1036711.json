@@ -2,9 +2,9 @@
  "characterID": 1036711,
  "characterClassID": 1,
  "raceID": 1,
- "position": 71,
- "rankingPositionChange": 0,
- "gloryPoint": 134932,
+ "position": 72,
+ "rankingPositionChange": -1,
+ "gloryPoint": 134825,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Machico",
@@ -280,6 +280,14 @@
    "position": 71,
    "rankingPositionChange": 0,
    "gloryPoint": 134932,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 72,
+   "rankingPositionChange": -1,
+   "gloryPoint": 134825,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

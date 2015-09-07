@@ -2,10 +2,10 @@
  "characterID": 699989,
  "characterClassID": 11,
  "raceID": 0,
- "position": 248,
- "rankingPositionChange": 1,
- "gloryPoint": 41580,
- "gloryPointChange": 27,
+ "position": 250,
+ "rankingPositionChange": -2,
+ "gloryPoint": 41531,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Serendipita",
  "guildName": "Argo cz",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 41580,
    "gloryPointChange": 27,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 250,
+   "rankingPositionChange": -2,
+   "gloryPoint": 41531,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

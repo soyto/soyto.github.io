@@ -2,9 +2,9 @@
  "characterID": 1001490,
  "characterClassID": 4,
  "raceID": 0,
- "position": 281,
- "rankingPositionChange": 0,
- "gloryPoint": 51438,
+ "position": 282,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51389,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Scunker",
@@ -280,6 +280,14 @@
    "position": 281,
    "rankingPositionChange": 0,
    "gloryPoint": 51438,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 282,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51389,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

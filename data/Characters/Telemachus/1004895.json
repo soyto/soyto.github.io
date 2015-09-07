@@ -2,9 +2,9 @@
  "characterID": 1004895,
  "characterClassID": 16,
  "raceID": 0,
- "position": 847,
- "rankingPositionChange": 0,
- "gloryPoint": 8364,
+ "position": 849,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8357,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Paparazzi",
@@ -272,6 +272,14 @@
    "position": 847,
    "rankingPositionChange": 0,
    "gloryPoint": 8364,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 849,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8357,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 1637813,
  "characterClassID": 13,
  "raceID": 0,
- "position": 245,
- "rankingPositionChange": 0,
- "gloryPoint": 75095,
+ "position": 249,
+ "rankingPositionChange": -4,
+ "gloryPoint": 75046,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Exotech",
@@ -278,6 +278,14 @@
    "position": 245,
    "rankingPositionChange": 0,
    "gloryPoint": 75095,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 249,
+   "rankingPositionChange": -4,
+   "gloryPoint": 75046,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

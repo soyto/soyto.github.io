@@ -2,10 +2,10 @@
  "characterID": 382923,
  "characterClassID": 5,
  "raceID": 0,
- "position": 178,
- "rankingPositionChange": 1,
- "gloryPoint": 44849,
- "gloryPointChange": 51,
+ "position": 180,
+ "rankingPositionChange": -2,
+ "gloryPoint": 44800,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Eyesoflight",
  "guildName": "Rise of Deava",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 44849,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 180,
+   "rankingPositionChange": -2,
+   "gloryPoint": 44800,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

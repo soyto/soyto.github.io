@@ -2,9 +2,9 @@
  "characterID": 1338361,
  "characterClassID": 8,
  "raceID": 0,
- "position": 500,
- "rankingPositionChange": 0,
- "gloryPoint": 18515,
+ "position": 499,
+ "rankingPositionChange": 1,
+ "gloryPoint": 18487,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Skyspirit",
@@ -280,6 +280,14 @@
    "position": 500,
    "rankingPositionChange": 0,
    "gloryPoint": 18515,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 499,
+   "rankingPositionChange": 1,
+   "gloryPoint": 18487,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

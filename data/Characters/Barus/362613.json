@@ -2,9 +2,9 @@
  "characterID": 362613,
  "characterClassID": 5,
  "raceID": 1,
- "position": 360,
- "rankingPositionChange": 1,
- "gloryPoint": 41806,
+ "position": 361,
+ "rankingPositionChange": -1,
+ "gloryPoint": 41778,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Darkhit",
@@ -280,6 +280,14 @@
    "position": 360,
    "rankingPositionChange": 1,
    "gloryPoint": 41806,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 361,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41778,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

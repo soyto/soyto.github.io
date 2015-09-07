@@ -2,9 +2,9 @@
  "characterID": 443257,
  "characterClassID": 16,
  "raceID": 0,
- "position": 196,
- "rankingPositionChange": 1,
- "gloryPoint": 39340,
+ "position": 200,
+ "rankingPositionChange": -4,
+ "gloryPoint": 39291,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Mitzuuu",
@@ -240,6 +240,14 @@
    "position": 196,
    "rankingPositionChange": 1,
    "gloryPoint": 39340,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 200,
+   "rankingPositionChange": -4,
+   "gloryPoint": 39291,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

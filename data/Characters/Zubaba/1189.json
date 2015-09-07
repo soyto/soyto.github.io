@@ -2,10 +2,10 @@
  "characterID": 1189,
  "characterClassID": 10,
  "raceID": 1,
- "position": 313,
- "rankingPositionChange": -2,
- "gloryPoint": 24250,
- "gloryPointChange": -28,
+ "position": 311,
+ "rankingPositionChange": 2,
+ "gloryPoint": 24372,
+ "gloryPointChange": 122,
  "soldierRankID": 12,
  "characterName": "Guardian",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 24250,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": 2,
+   "gloryPoint": 24372,
+   "gloryPointChange": 122,
    "soldierRankID": 12
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 51598,
  "characterClassID": 2,
  "raceID": 0,
- "position": 144,
- "rankingPositionChange": 0,
- "gloryPoint": 78507,
- "gloryPointChange": 251,
+ "position": 143,
+ "rankingPositionChange": 1,
+ "gloryPoint": 78952,
+ "gloryPointChange": 445,
  "soldierRankID": 13,
  "characterName": "Asector",
- "guildName": "Hades Breath",
- "guildID": 5051,
+ "guildName": "Never Alone",
+ "guildID": 12517,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 78507,
    "gloryPointChange": 251,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 143,
+   "rankingPositionChange": 1,
+   "gloryPoint": 78952,
+   "gloryPointChange": 445,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -310,6 +318,11 @@
    "date": "2015-08-29T22:00:00.000Z",
    "guildName": "Hades Breath",
    "guildID": 5051
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Never Alone",
+   "guildID": 12517
   }
  ]
 }

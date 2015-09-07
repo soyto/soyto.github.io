@@ -2,9 +2,9 @@
  "characterID": 1373626,
  "characterClassID": 2,
  "raceID": 0,
- "position": 185,
- "rankingPositionChange": 0,
- "gloryPoint": 97285,
+ "position": 186,
+ "rankingPositionChange": -1,
+ "gloryPoint": 97236,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Deadus",
@@ -280,6 +280,14 @@
    "position": 185,
    "rankingPositionChange": 0,
    "gloryPoint": 97285,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 186,
+   "rankingPositionChange": -1,
+   "gloryPoint": 97236,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

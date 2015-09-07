@@ -2,10 +2,10 @@
  "characterID": 1234444,
  "characterClassID": 13,
  "raceID": 0,
- "position": 347,
- "rankingPositionChange": 0,
- "gloryPoint": 45950,
- "gloryPointChange": 32,
+ "position": 346,
+ "rankingPositionChange": 1,
+ "gloryPoint": 46422,
+ "gloryPointChange": 472,
  "soldierRankID": 12,
  "characterName": "Darktitan",
  "guildName": "Neo Destiny",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 45950,
    "gloryPointChange": 32,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 346,
+   "rankingPositionChange": 1,
+   "gloryPoint": 46422,
+   "gloryPointChange": 472,
    "soldierRankID": 12
   }
  ],

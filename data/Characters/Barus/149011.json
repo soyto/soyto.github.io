@@ -2,10 +2,10 @@
  "characterID": 149011,
  "characterClassID": 4,
  "raceID": 1,
- "position": 260,
- "rankingPositionChange": 2,
- "gloryPoint": 57206,
- "gloryPointChange": 149,
+ "position": 261,
+ "rankingPositionChange": -1,
+ "gloryPoint": 57448,
+ "gloryPointChange": 242,
  "soldierRankID": 13,
  "characterName": "Batoron",
  "guildName": "Equillibrium",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 57206,
    "gloryPointChange": 149,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": -1,
+   "gloryPoint": 57448,
+   "gloryPointChange": 242,
    "soldierRankID": 13
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1153682,
  "characterClassID": 16,
  "raceID": 0,
- "position": 857,
- "rankingPositionChange": 1,
- "gloryPoint": 11089,
+ "position": 859,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11082,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Lavego",
@@ -230,6 +230,14 @@
    "position": 857,
    "rankingPositionChange": 1,
    "gloryPoint": 11089,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 859,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11082,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

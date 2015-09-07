@@ -2,10 +2,10 @@
  "characterID": 378699,
  "characterClassID": 10,
  "raceID": 1,
- "position": 128,
- "rankingPositionChange": 0,
- "gloryPoint": 64364,
- "gloryPointChange": 44,
+ "position": 130,
+ "rankingPositionChange": -2,
+ "gloryPoint": 64315,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Shirow",
  "guildName": "Helado Oscuro",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 64364,
    "gloryPointChange": 44,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 130,
+   "rankingPositionChange": -2,
+   "gloryPoint": 64315,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

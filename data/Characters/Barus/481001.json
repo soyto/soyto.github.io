@@ -2,9 +2,9 @@
  "characterID": 481001,
  "characterClassID": 10,
  "raceID": 1,
- "position": 821,
- "rankingPositionChange": 4,
- "gloryPoint": 13780,
+ "position": 828,
+ "rankingPositionChange": -7,
+ "gloryPoint": 13773,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Gornik",
@@ -280,6 +280,14 @@
    "position": 821,
    "rankingPositionChange": 4,
    "gloryPoint": 13780,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 828,
+   "rankingPositionChange": -7,
+   "gloryPoint": 13773,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

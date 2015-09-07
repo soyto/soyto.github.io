@@ -2,10 +2,10 @@
  "characterID": 1071926,
  "characterClassID": 14,
  "raceID": 1,
- "position": 250,
- "rankingPositionChange": 0,
- "gloryPoint": 43130,
- "gloryPointChange": 101,
+ "position": 251,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43416,
+ "gloryPointChange": 286,
  "soldierRankID": 13,
  "characterName": "Purplegun",
  "guildName": "Incline toi devant la LEGENDE",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 43130,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 251,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43416,
+   "gloryPointChange": 286,
    "soldierRankID": 13
   }
  ],

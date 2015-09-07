@@ -2,9 +2,9 @@
  "characterID": 349956,
  "characterClassID": 2,
  "raceID": 0,
- "position": 443,
- "rankingPositionChange": 0,
- "gloryPoint": 7229,
+ "position": 449,
+ "rankingPositionChange": -6,
+ "gloryPoint": 7201,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Akkio",
@@ -280,6 +280,14 @@
    "position": 443,
    "rankingPositionChange": 0,
    "gloryPoint": 7229,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 449,
+   "rankingPositionChange": -6,
+   "gloryPoint": 7201,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

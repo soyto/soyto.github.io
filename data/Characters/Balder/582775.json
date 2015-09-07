@@ -2,9 +2,9 @@
  "characterID": 582775,
  "characterClassID": 2,
  "raceID": 1,
- "position": 98,
- "rankingPositionChange": 0,
- "gloryPoint": 65596,
+ "position": 99,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65489,
  "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Playalol",
@@ -280,6 +280,14 @@
    "position": 98,
    "rankingPositionChange": 0,
    "gloryPoint": 65596,
+   "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 99,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65489,
    "gloryPointChange": -107,
    "soldierRankID": 14
   }

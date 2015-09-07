@@ -2,10 +2,10 @@
  "characterID": 926511,
  "characterClassID": 10,
  "raceID": 1,
- "position": 513,
- "rankingPositionChange": 0,
- "gloryPoint": 27535,
- "gloryPointChange": 136,
+ "position": 515,
+ "rankingPositionChange": -2,
+ "gloryPoint": 27521,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sritttsch",
  "guildName": "In Aeternitas",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 27535,
    "gloryPointChange": 136,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 515,
+   "rankingPositionChange": -2,
+   "gloryPoint": 27521,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

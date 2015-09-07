@@ -2,9 +2,9 @@
  "characterID": 185229,
  "characterClassID": 10,
  "raceID": 0,
- "position": 150,
- "rankingPositionChange": -1,
- "gloryPoint": 39571,
+ "position": 149,
+ "rankingPositionChange": 1,
+ "gloryPoint": 39522,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Vongola",
@@ -280,6 +280,14 @@
    "position": 150,
    "rankingPositionChange": -1,
    "gloryPoint": 39571,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 149,
+   "rankingPositionChange": 1,
+   "gloryPoint": 39522,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

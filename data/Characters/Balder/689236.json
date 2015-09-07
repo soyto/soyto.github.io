@@ -2,10 +2,10 @@
  "characterID": 689236,
  "characterClassID": 10,
  "raceID": 1,
- "position": 262,
- "rankingPositionChange": 3,
- "gloryPoint": 13478,
- "gloryPointChange": 59,
+ "position": 263,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13429,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Devileye",
  "guildName": "Strangers with Candy",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 13478,
    "gloryPointChange": 59,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 263,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13429,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

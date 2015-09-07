@@ -2,9 +2,9 @@
  "characterID": 968019,
  "characterClassID": 7,
  "raceID": 0,
- "position": 594,
- "rankingPositionChange": 1,
- "gloryPoint": 5195,
+ "position": 596,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5181,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lutzomyia",
@@ -280,6 +280,14 @@
    "position": 594,
    "rankingPositionChange": 1,
    "gloryPoint": 5195,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5181,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

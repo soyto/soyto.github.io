@@ -2,10 +2,10 @@
  "characterID": 206943,
  "characterClassID": 7,
  "raceID": 1,
- "position": 987,
- "rankingPositionChange": 1,
- "gloryPoint": 5682,
- "gloryPointChange": 33,
+ "position": 988,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5675,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Belcebuu",
  "guildName": "Licantropos Hijos de la Luna",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 5682,
    "gloryPointChange": 33,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5675,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

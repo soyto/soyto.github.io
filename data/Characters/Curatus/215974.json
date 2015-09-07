@@ -2,10 +2,10 @@
  "characterID": 215974,
  "characterClassID": 16,
  "raceID": 0,
- "position": 626,
- "rankingPositionChange": 10,
- "gloryPoint": 20897,
- "gloryPointChange": 447,
+ "position": 628,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20883,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Veil",
  "guildName": "Upset",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 20897,
    "gloryPointChange": 447,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 628,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20883,
+   "gloryPointChange": -14,
    "soldierRankID": 11
   }
  ],

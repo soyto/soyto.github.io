@@ -2,9 +2,9 @@
  "characterID": 809703,
  "characterClassID": 7,
  "raceID": 1,
- "position": 720,
- "rankingPositionChange": 0,
- "gloryPoint": 4055,
+ "position": 727,
+ "rankingPositionChange": -7,
+ "gloryPoint": 4048,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Kettu",
@@ -280,6 +280,14 @@
    "position": 720,
    "rankingPositionChange": 0,
    "gloryPoint": 4055,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 727,
+   "rankingPositionChange": -7,
+   "gloryPoint": 4048,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

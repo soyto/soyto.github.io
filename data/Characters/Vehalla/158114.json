@@ -2,9 +2,9 @@
  "characterID": 158114,
  "characterClassID": 8,
  "raceID": 1,
- "position": 429,
- "rankingPositionChange": 4,
- "gloryPoint": 2929,
+ "position": 430,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2901,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Baum",
@@ -120,6 +120,14 @@
    "position": 429,
    "rankingPositionChange": 4,
    "gloryPoint": 2929,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 430,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2901,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

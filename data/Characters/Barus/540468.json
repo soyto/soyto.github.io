@@ -2,10 +2,10 @@
  "characterID": 540468,
  "characterClassID": 1,
  "raceID": 0,
- "position": 926,
+ "position": 921,
  "rankingPositionChange": 5,
- "gloryPoint": 11808,
- "gloryPointChange": 193,
+ "gloryPoint": 11801,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Shelea",
  "guildName": "NeverGiveUp",
@@ -249,6 +249,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 11808,
    "gloryPointChange": 193,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": 5,
+   "gloryPoint": 11801,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

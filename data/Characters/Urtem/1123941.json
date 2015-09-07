@@ -2,10 +2,10 @@
  "characterID": 1123941,
  "characterClassID": 10,
  "raceID": 0,
- "position": 665,
- "rankingPositionChange": 4,
- "gloryPoint": 24573,
- "gloryPointChange": 186,
+ "position": 666,
+ "rankingPositionChange": -1,
+ "gloryPoint": 25103,
+ "gloryPointChange": 530,
  "soldierRankID": 11,
  "characterName": "Liorne",
  "guildName": "Free HugZ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 24573,
    "gloryPointChange": 186,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 666,
+   "rankingPositionChange": -1,
+   "gloryPoint": 25103,
+   "gloryPointChange": 530,
    "soldierRankID": 11
   }
  ],

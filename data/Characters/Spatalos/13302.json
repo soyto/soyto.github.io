@@ -2,10 +2,10 @@
  "characterID": 13302,
  "characterClassID": 11,
  "raceID": 0,
- "position": 51,
- "rankingPositionChange": 1,
- "gloryPoint": 191121,
- "gloryPointChange": 243,
+ "position": 52,
+ "rankingPositionChange": -1,
+ "gloryPoint": 191464,
+ "gloryPointChange": 343,
  "soldierRankID": 14,
  "characterName": "Erietta",
  "guildName": "OldSchooI",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 191121,
    "gloryPointChange": 243,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 52,
+   "rankingPositionChange": -1,
+   "gloryPoint": 191464,
+   "gloryPointChange": 343,
    "soldierRankID": 14
   }
  ],

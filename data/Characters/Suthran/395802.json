@@ -2,10 +2,10 @@
  "characterID": 395802,
  "characterClassID": 1,
  "raceID": 1,
- "position": 31,
- "rankingPositionChange": 1,
- "gloryPoint": 169432,
- "gloryPointChange": 708,
+ "position": 32,
+ "rankingPositionChange": -1,
+ "gloryPoint": 170221,
+ "gloryPointChange": 789,
  "soldierRankID": 14,
  "characterName": "Amanithe",
  "guildName": "GodBless",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 169432,
    "gloryPointChange": 708,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 32,
+   "rankingPositionChange": -1,
+   "gloryPoint": 170221,
+   "gloryPointChange": 789,
    "soldierRankID": 14
   }
  ],

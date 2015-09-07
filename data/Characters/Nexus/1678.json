@@ -2,14 +2,12 @@
  "characterID": 1678,
  "characterClassID": 11,
  "raceID": 1,
- "position": 872,
+ "position": 882,
  "rankingPositionChange": -10,
- "gloryPoint": 10087,
+ "gloryPoint": 10080,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Mondigliani",
- "guildName": "U Mad Habibi",
- "guildID": 15768,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,6 +264,14 @@
    "gloryPoint": 10087,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 882,
+   "rankingPositionChange": -10,
+   "gloryPoint": 10080,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -279,6 +285,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "U Mad Habibi",
    "guildID": 15768
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 515595,
  "characterClassID": 2,
  "raceID": 0,
- "position": 662,
- "rankingPositionChange": 1,
- "gloryPoint": 17320,
+ "position": 663,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17306,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lunasil",
@@ -280,6 +280,14 @@
    "position": 662,
    "rankingPositionChange": 1,
    "gloryPoint": 17320,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 663,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17306,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

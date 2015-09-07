@@ -2,9 +2,9 @@
  "characterID": 204909,
  "characterClassID": 16,
  "raceID": 1,
- "position": 110,
- "rankingPositionChange": 0,
- "gloryPoint": 109378,
+ "position": 111,
+ "rankingPositionChange": -1,
+ "gloryPoint": 109329,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Niterro",
@@ -278,6 +278,14 @@
    "position": 110,
    "rankingPositionChange": 0,
    "gloryPoint": 109378,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 111,
+   "rankingPositionChange": -1,
+   "gloryPoint": 109329,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

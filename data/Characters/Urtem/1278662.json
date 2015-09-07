@@ -2,9 +2,9 @@
  "characterID": 1278662,
  "characterClassID": 10,
  "raceID": 1,
- "position": 547,
- "rankingPositionChange": 0,
- "gloryPoint": 16111,
+ "position": 551,
+ "rankingPositionChange": -4,
+ "gloryPoint": 16097,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Saiitohimea",
@@ -118,6 +118,14 @@
    "position": 547,
    "rankingPositionChange": 0,
    "gloryPoint": 16111,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 551,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16097,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

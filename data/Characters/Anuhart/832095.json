@@ -2,9 +2,9 @@
  "characterID": 832095,
  "characterClassID": 4,
  "raceID": 0,
- "position": 780,
- "rankingPositionChange": 0,
- "gloryPoint": 6918,
+ "position": 783,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6911,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Stig",
@@ -280,6 +280,14 @@
    "position": 780,
    "rankingPositionChange": 0,
    "gloryPoint": 6918,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 783,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6911,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

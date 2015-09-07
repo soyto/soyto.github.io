@@ -2,10 +2,10 @@
  "characterID": 844507,
  "characterClassID": 8,
  "raceID": 0,
- "position": 598,
- "rankingPositionChange": 1,
- "gloryPoint": 29766,
- "gloryPointChange": 32,
+ "position": 604,
+ "rankingPositionChange": -6,
+ "gloryPoint": 29852,
+ "gloryPointChange": 86,
  "soldierRankID": 11,
  "characterName": "Hankower",
  "guildName": "Rababerbarbaren",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 29766,
    "gloryPointChange": 32,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": -6,
+   "gloryPoint": 29852,
+   "gloryPointChange": 86,
    "soldierRankID": 11
   }
  ],

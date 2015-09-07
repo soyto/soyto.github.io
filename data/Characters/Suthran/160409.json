@@ -2,10 +2,10 @@
  "characterID": 160409,
  "characterClassID": 1,
  "raceID": 0,
- "position": 89,
- "rankingPositionChange": 0,
- "gloryPoint": 128546,
- "gloryPointChange": 8,
+ "position": 90,
+ "rankingPositionChange": -1,
+ "gloryPoint": 128770,
+ "gloryPointChange": 224,
  "soldierRankID": 14,
  "characterName": "Sulfur",
  "guildName": "En Pire",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 128546,
    "gloryPointChange": 8,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 90,
+   "rankingPositionChange": -1,
+   "gloryPoint": 128770,
+   "gloryPointChange": 224,
    "soldierRankID": 14
   }
  ],

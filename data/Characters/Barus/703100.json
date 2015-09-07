@@ -2,9 +2,9 @@
  "characterID": 703100,
  "characterClassID": 2,
  "raceID": 1,
- "position": 865,
- "rankingPositionChange": 1,
- "gloryPoint": 12826,
+ "position": 869,
+ "rankingPositionChange": -4,
+ "gloryPoint": 12819,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Predaking",
@@ -280,6 +280,14 @@
    "position": 865,
    "rankingPositionChange": 1,
    "gloryPoint": 12826,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 869,
+   "rankingPositionChange": -4,
+   "gloryPoint": 12819,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

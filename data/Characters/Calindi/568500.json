@@ -2,10 +2,10 @@
  "characterID": 568500,
  "characterClassID": 10,
  "raceID": 1,
- "position": 90,
- "rankingPositionChange": 0,
- "gloryPoint": 19256,
- "gloryPointChange": 128,
+ "position": 91,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19149,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Avelline",
  "guildName": "Cursed",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 19256,
    "gloryPointChange": 128,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 91,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19149,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

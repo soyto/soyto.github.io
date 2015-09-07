@@ -2,14 +2,12 @@
  "characterID": 1135285,
  "characterClassID": 14,
  "raceID": 0,
- "position": 430,
- "rankingPositionChange": 5,
- "gloryPoint": 29583,
- "gloryPointChange": 260,
+ "position": 428,
+ "rankingPositionChange": 2,
+ "gloryPoint": 29865,
+ "gloryPointChange": 282,
  "soldierRankID": 12,
  "characterName": "Giulika",
- "guildName": "Extazi",
- "guildID": 19182,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 29583,
    "gloryPointChange": 260,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 428,
+   "rankingPositionChange": 2,
+   "gloryPoint": 29865,
+   "gloryPointChange": 282,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Extazi",
    "guildID": 19182
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

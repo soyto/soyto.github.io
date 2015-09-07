@@ -2,9 +2,9 @@
  "characterID": 1065135,
  "characterClassID": 10,
  "raceID": 1,
- "position": 429,
- "rankingPositionChange": -4,
- "gloryPoint": 5295,
+ "position": 428,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5267,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Jarhead",
@@ -280,6 +280,14 @@
    "position": 429,
    "rankingPositionChange": -4,
    "gloryPoint": 5295,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 428,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5267,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 651689,
  "characterClassID": 11,
  "raceID": 0,
- "position": 934,
- "rankingPositionChange": 0,
- "gloryPoint": 11096,
+ "position": 935,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11089,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Narvil",
@@ -280,6 +280,14 @@
    "position": 934,
    "rankingPositionChange": 0,
    "gloryPoint": 11096,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 935,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11089,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

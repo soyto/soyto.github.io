@@ -2,10 +2,10 @@
  "characterID": 67828,
  "characterClassID": 7,
  "raceID": 1,
- "position": 403,
- "rankingPositionChange": 2,
- "gloryPoint": 14082,
- "gloryPointChange": 78,
+ "position": 404,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14147,
+ "gloryPointChange": 65,
  "soldierRankID": 12,
  "characterName": "Atenuviel",
  "guildName": "Verpeilt aber Geil",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 14082,
    "gloryPointChange": 78,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 404,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14147,
+   "gloryPointChange": 65,
    "soldierRankID": 12
   }
  ],

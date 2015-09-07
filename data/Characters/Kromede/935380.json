@@ -2,10 +2,10 @@
  "characterID": 935380,
  "characterClassID": 16,
  "raceID": 1,
- "position": 195,
- "rankingPositionChange": 0,
- "gloryPoint": 40454,
- "gloryPointChange": 51,
+ "position": 196,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40545,
+ "gloryPointChange": 91,
  "soldierRankID": 13,
  "characterName": "Highfive",
  "guildName": "Verpeilt aber Geil",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 40454,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40545,
+   "gloryPointChange": 91,
    "soldierRankID": 13
   }
  ],

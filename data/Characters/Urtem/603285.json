@@ -2,9 +2,9 @@
  "characterID": 603285,
  "characterClassID": 4,
  "raceID": 0,
- "position": 189,
- "rankingPositionChange": 0,
- "gloryPoint": 76954,
+ "position": 194,
+ "rankingPositionChange": -5,
+ "gloryPoint": 76905,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Mulyeog",
@@ -270,6 +270,14 @@
    "position": 189,
    "rankingPositionChange": 0,
    "gloryPoint": 76954,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 194,
+   "rankingPositionChange": -5,
+   "gloryPoint": 76905,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

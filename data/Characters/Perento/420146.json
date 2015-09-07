@@ -2,10 +2,10 @@
  "characterID": 420146,
  "characterClassID": 2,
  "raceID": 0,
- "position": 266,
- "rankingPositionChange": 1,
- "gloryPoint": 49531,
- "gloryPointChange": 339,
+ "position": 267,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49482,
+ "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Digwo",
  "guildName": "Vrai",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 49531,
    "gloryPointChange": 339,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 267,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49482,
+   "gloryPointChange": -49,
    "soldierRankID": 13
   }
  ],

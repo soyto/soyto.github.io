@@ -2,9 +2,9 @@
  "characterID": 1125812,
  "characterClassID": 14,
  "raceID": 0,
- "position": 711,
- "rankingPositionChange": -2,
- "gloryPoint": 20340,
+ "position": 710,
+ "rankingPositionChange": 1,
+ "gloryPoint": 20333,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Naerin",
@@ -280,6 +280,14 @@
    "position": 711,
    "rankingPositionChange": -2,
    "gloryPoint": 20340,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 710,
+   "rankingPositionChange": 1,
+   "gloryPoint": 20333,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

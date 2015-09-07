@@ -2,9 +2,9 @@
  "characterID": 316988,
  "characterClassID": 11,
  "raceID": 1,
- "position": 952,
- "rankingPositionChange": 2,
- "gloryPoint": 10555,
+ "position": 955,
+ "rankingPositionChange": -3,
+ "gloryPoint": 10548,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Inubot",
@@ -278,6 +278,14 @@
    "position": 952,
    "rankingPositionChange": 2,
    "gloryPoint": 10555,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10548,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 840018,
  "characterClassID": 4,
  "raceID": 1,
- "position": 279,
- "rankingPositionChange": -1,
- "gloryPoint": 14072,
+ "position": 277,
+ "rankingPositionChange": 2,
+ "gloryPoint": 14023,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Tzepes",
@@ -280,6 +280,14 @@
    "position": 279,
    "rankingPositionChange": -1,
    "gloryPoint": 14072,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 277,
+   "rankingPositionChange": 2,
+   "gloryPoint": 14023,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

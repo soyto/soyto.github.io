@@ -2,9 +2,9 @@
  "characterID": 683879,
  "characterClassID": 10,
  "raceID": 0,
- "position": 585,
- "rankingPositionChange": 0,
- "gloryPoint": 19044,
+ "position": 586,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19030,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Dobz",
@@ -272,6 +272,14 @@
    "position": 585,
    "rankingPositionChange": 0,
    "gloryPoint": 19044,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 586,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19030,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

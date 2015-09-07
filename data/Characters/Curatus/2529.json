@@ -2,10 +2,10 @@
  "characterID": 2529,
  "characterClassID": 2,
  "raceID": 1,
- "position": 142,
- "rankingPositionChange": 0,
- "gloryPoint": 54943,
- "gloryPointChange": 254,
+ "position": 143,
+ "rankingPositionChange": -1,
+ "gloryPoint": 55009,
+ "gloryPointChange": 66,
  "soldierRankID": 13,
  "characterName": "Nero",
  "guildName": "Asgard",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 54943,
    "gloryPointChange": 254,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 143,
+   "rankingPositionChange": -1,
+   "gloryPoint": 55009,
+   "gloryPointChange": 66,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 618993,
  "characterClassID": 2,
  "raceID": 0,
- "position": 46,
- "rankingPositionChange": 0,
- "gloryPoint": 242591,
- "gloryPointChange": 19,
+ "position": 47,
+ "rankingPositionChange": -1,
+ "gloryPoint": 242484,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Johnbrack",
  "guildName": "Cyber Warfare",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 242591,
    "gloryPointChange": 19,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 47,
+   "rankingPositionChange": -1,
+   "gloryPoint": 242484,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

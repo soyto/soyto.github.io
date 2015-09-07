@@ -2,9 +2,9 @@
  "characterID": 1068512,
  "characterClassID": 10,
  "raceID": 0,
- "position": 321,
- "rankingPositionChange": 0,
- "gloryPoint": 40419,
+ "position": 322,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40391,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Romus",
@@ -280,6 +280,14 @@
    "position": 321,
    "rankingPositionChange": 0,
    "gloryPoint": 40419,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 322,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40391,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

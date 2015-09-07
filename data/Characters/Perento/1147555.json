@@ -2,9 +2,9 @@
  "characterID": 1147555,
  "characterClassID": 2,
  "raceID": 1,
- "position": 247,
- "rankingPositionChange": 0,
- "gloryPoint": 34643,
+ "position": 248,
+ "rankingPositionChange": -1,
+ "gloryPoint": 34697,
  "gloryPointChange": 54,
  "soldierRankID": 13,
  "characterName": "Issida",
@@ -280,6 +280,14 @@
    "position": 247,
    "rankingPositionChange": 0,
    "gloryPoint": 34643,
+   "gloryPointChange": 54,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 248,
+   "rankingPositionChange": -1,
+   "gloryPoint": 34697,
    "gloryPointChange": 54,
    "soldierRankID": 13
   }

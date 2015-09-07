@@ -2,9 +2,9 @@
  "characterID": 162404,
  "characterClassID": 11,
  "raceID": 1,
- "position": 517,
- "rankingPositionChange": 1,
- "gloryPoint": 7816,
+ "position": 518,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7802,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Toruh",
@@ -280,6 +280,14 @@
    "position": 517,
    "rankingPositionChange": 1,
    "gloryPoint": 7816,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 518,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7802,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

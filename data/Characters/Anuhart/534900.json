@@ -2,9 +2,9 @@
  "characterID": 534900,
  "characterClassID": 5,
  "raceID": 0,
- "position": 612,
- "rankingPositionChange": 0,
- "gloryPoint": 10358,
+ "position": 620,
+ "rankingPositionChange": -8,
+ "gloryPoint": 10344,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Marqex",
@@ -280,6 +280,14 @@
    "position": 612,
    "rankingPositionChange": 0,
    "gloryPoint": 10358,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 620,
+   "rankingPositionChange": -8,
+   "gloryPoint": 10344,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

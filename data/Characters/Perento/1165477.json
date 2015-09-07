@@ -2,9 +2,9 @@
  "characterID": 1165477,
  "characterClassID": 13,
  "raceID": 1,
- "position": 670,
- "rankingPositionChange": 0,
- "gloryPoint": 4431,
+ "position": 673,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4417,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Beatles",
@@ -280,6 +280,14 @@
    "position": 670,
    "rankingPositionChange": 0,
    "gloryPoint": 4431,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 673,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4417,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

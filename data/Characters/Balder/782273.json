@@ -2,14 +2,12 @@
  "characterID": 782273,
  "characterClassID": 7,
  "raceID": 0,
- "position": 776,
- "rankingPositionChange": 4,
- "gloryPoint": 2851,
+ "position": 777,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2844,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alara",
- "guildName": "Live Fast Die Young",
- "guildID": 24946,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 2851,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 777,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2844,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Live Fast Die Young",
    "guildID": 24946
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

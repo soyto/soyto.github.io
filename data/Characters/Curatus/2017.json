@@ -2,10 +2,10 @@
  "characterID": 2017,
  "characterClassID": 5,
  "raceID": 1,
- "position": 903,
- "rankingPositionChange": -2,
- "gloryPoint": 3946,
- "gloryPointChange": -7,
+ "position": 902,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4023,
+ "gloryPointChange": 77,
  "soldierRankID": 10,
  "characterName": "Falco",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 3946,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 902,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4023,
+   "gloryPointChange": 77,
    "soldierRankID": 10
   }
  ],

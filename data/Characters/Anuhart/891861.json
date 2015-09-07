@@ -2,9 +2,9 @@
  "characterID": 891861,
  "characterClassID": 16,
  "raceID": 1,
- "position": 218,
- "rankingPositionChange": 0,
- "gloryPoint": 44398,
+ "position": 219,
+ "rankingPositionChange": -1,
+ "gloryPoint": 44349,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Darkbard",
@@ -208,6 +208,14 @@
    "position": 218,
    "rankingPositionChange": 0,
    "gloryPoint": 44398,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 219,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44349,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

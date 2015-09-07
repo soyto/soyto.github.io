@@ -2,9 +2,9 @@
  "characterID": 1140276,
  "characterClassID": 14,
  "raceID": 0,
- "position": 349,
- "rankingPositionChange": 1,
- "gloryPoint": 48086,
+ "position": 354,
+ "rankingPositionChange": -5,
+ "gloryPoint": 48058,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lasvoul",
@@ -272,6 +272,14 @@
    "position": 349,
    "rankingPositionChange": 1,
    "gloryPoint": 48086,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 354,
+   "rankingPositionChange": -5,
+   "gloryPoint": 48058,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

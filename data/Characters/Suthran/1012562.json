@@ -2,9 +2,9 @@
  "characterID": 1012562,
  "characterClassID": 10,
  "raceID": 0,
- "position": 285,
- "rankingPositionChange": 0,
- "gloryPoint": 56999,
+ "position": 289,
+ "rankingPositionChange": -4,
+ "gloryPoint": 56950,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Xeylia",
@@ -278,6 +278,14 @@
    "position": 285,
    "rankingPositionChange": 0,
    "gloryPoint": 56999,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 289,
+   "rankingPositionChange": -4,
+   "gloryPoint": 56950,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

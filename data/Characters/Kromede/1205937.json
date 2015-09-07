@@ -2,14 +2,14 @@
  "characterID": 1205937,
  "characterClassID": 14,
  "raceID": 0,
- "position": 596,
- "rankingPositionChange": 1,
- "gloryPoint": 19499,
- "gloryPointChange": 63,
+ "position": 597,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19485,
+ "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Lutra",
- "guildName": "Endstation",
- "guildID": 20284,
+ "guildName": "Corpus Delicti",
+ "guildID": 27738,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 19499,
    "gloryPointChange": 63,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 597,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19485,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -300,6 +308,11 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "Endstation",
    "guildID": 20284
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "Corpus Delicti",
+   "guildID": 27738
   }
  ]
 }

@@ -2,9 +2,9 @@
  "characterID": 1535032,
  "characterClassID": 4,
  "raceID": 0,
- "position": 874,
- "rankingPositionChange": 0,
- "gloryPoint": 8235,
+ "position": 880,
+ "rankingPositionChange": -6,
+ "gloryPoint": 8228,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Catnipp",
@@ -280,6 +280,14 @@
    "position": 874,
    "rankingPositionChange": 0,
    "gloryPoint": 8235,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 880,
+   "rankingPositionChange": -6,
+   "gloryPoint": 8228,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

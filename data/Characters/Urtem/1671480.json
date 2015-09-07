@@ -2,9 +2,9 @@
  "characterID": 1671480,
  "characterClassID": 10,
  "raceID": 1,
- "position": 935,
- "rankingPositionChange": 0,
- "gloryPoint": 7541,
+ "position": 942,
+ "rankingPositionChange": -7,
+ "gloryPoint": 7534,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Amazight",
@@ -272,6 +272,14 @@
    "position": 935,
    "rankingPositionChange": 0,
    "gloryPoint": 7541,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": -7,
+   "gloryPoint": 7534,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

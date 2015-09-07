@@ -2,9 +2,9 @@
  "characterID": 88999,
  "characterClassID": 8,
  "raceID": 1,
- "position": 965,
- "rankingPositionChange": 0,
- "gloryPoint": 3211,
+ "position": 968,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3204,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Wolowizard",
@@ -102,6 +102,14 @@
    "position": 965,
    "rankingPositionChange": 0,
    "gloryPoint": 3211,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 968,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3204,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

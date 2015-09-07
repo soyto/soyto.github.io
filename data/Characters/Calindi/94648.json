@@ -2,10 +2,10 @@
  "characterID": 94648,
  "characterClassID": 1,
  "raceID": 1,
- "position": 85,
- "rankingPositionChange": 2,
- "gloryPoint": 20193,
- "gloryPointChange": 227,
+ "position": 86,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20293,
+ "gloryPointChange": 100,
  "soldierRankID": 14,
  "characterName": "Neisha",
  "guildName": "Consumpti Oath",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 20193,
    "gloryPointChange": 227,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 86,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20293,
+   "gloryPointChange": 100,
    "soldierRankID": 14
   }
  ],

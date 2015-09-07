@@ -2,10 +2,10 @@
  "characterID": 811025,
  "characterClassID": 4,
  "raceID": 1,
- "position": 750,
- "rankingPositionChange": 0,
- "gloryPoint": 4910,
- "gloryPointChange": 11,
+ "position": 754,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4909,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Tooshi",
  "guildName": "Kanalreiniger",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 4910,
    "gloryPointChange": 11,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 754,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4909,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

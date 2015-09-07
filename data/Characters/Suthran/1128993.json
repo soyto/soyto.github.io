@@ -2,9 +2,9 @@
  "characterID": 1128993,
  "characterClassID": 10,
  "raceID": 1,
- "position": 176,
- "rankingPositionChange": 1,
- "gloryPoint": 64505,
+ "position": 179,
+ "rankingPositionChange": -3,
+ "gloryPoint": 64456,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Snapz",
@@ -280,6 +280,14 @@
    "position": 176,
    "rankingPositionChange": 1,
    "gloryPoint": 64505,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 179,
+   "rankingPositionChange": -3,
+   "gloryPoint": 64456,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

@@ -2,10 +2,10 @@
  "characterID": 250512,
  "characterClassID": 2,
  "raceID": 0,
- "position": 41,
- "rankingPositionChange": 0,
- "gloryPoint": 118761,
- "gloryPointChange": -7,
+ "position": 42,
+ "rankingPositionChange": -1,
+ "gloryPoint": 118654,
+ "gloryPointChange": -107,
  "soldierRankID": 14,
  "characterName": "Barres",
  "guildName": "Unbekannt",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 118761,
    "gloryPointChange": -7,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 42,
+   "rankingPositionChange": -1,
+   "gloryPoint": 118654,
+   "gloryPointChange": -107,
    "soldierRankID": 14
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 1588841,
  "characterClassID": 2,
  "raceID": 1,
- "position": 783,
- "rankingPositionChange": 2,
- "gloryPoint": 10165,
+ "position": 785,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10258,
  "gloryPointChange": 93,
  "soldierRankID": 10,
  "characterName": "Lawren",
@@ -200,6 +200,14 @@
    "position": 783,
    "rankingPositionChange": 2,
    "gloryPoint": 10165,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 785,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10258,
    "gloryPointChange": 93,
    "soldierRankID": 10
   }

@@ -2,9 +2,9 @@
  "characterID": 884149,
  "characterClassID": 7,
  "raceID": 0,
- "position": 847,
- "rankingPositionChange": 3,
- "gloryPoint": 5921,
+ "position": 850,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5914,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Auraniya",
@@ -280,6 +280,14 @@
    "position": 847,
    "rankingPositionChange": 3,
    "gloryPoint": 5921,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 850,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5914,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 1133132,
  "characterClassID": 7,
  "raceID": 0,
- "position": 147,
- "rankingPositionChange": 1,
- "gloryPoint": 96493,
- "gloryPointChange": 122,
+ "position": 148,
+ "rankingPositionChange": -1,
+ "gloryPoint": 96908,
+ "gloryPointChange": 415,
  "soldierRankID": 13,
  "characterName": "Hoheneym",
  "guildName": "Spartan Legend",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 96493,
    "gloryPointChange": 122,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 148,
+   "rankingPositionChange": -1,
+   "gloryPoint": 96908,
+   "gloryPointChange": 415,
    "soldierRankID": 13
   }
  ],

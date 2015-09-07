@@ -2,14 +2,12 @@
  "characterID": 550201,
  "characterClassID": 1,
  "raceID": 1,
- "position": 231,
- "rankingPositionChange": 5,
- "gloryPoint": 62519,
- "gloryPointChange": 564,
+ "position": 233,
+ "rankingPositionChange": -2,
+ "gloryPoint": 62758,
+ "gloryPointChange": 239,
  "soldierRankID": 13,
  "characterName": "Tigz",
- "guildName": "Nieskalani",
- "guildID": 2964,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 62519,
    "gloryPointChange": 564,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 233,
+   "rankingPositionChange": -2,
+   "gloryPoint": 62758,
+   "gloryPointChange": 239,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Nieskalani",
    "guildID": 2964
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

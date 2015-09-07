@@ -2,9 +2,9 @@
  "characterID": 709481,
  "characterClassID": 1,
  "raceID": 1,
- "position": 890,
- "rankingPositionChange": 0,
- "gloryPoint": 2000,
+ "position": 892,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1993,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Alexxglad",
@@ -280,6 +280,14 @@
    "position": 890,
    "rankingPositionChange": 0,
    "gloryPoint": 2000,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 892,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1993,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

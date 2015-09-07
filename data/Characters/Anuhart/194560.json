@@ -2,10 +2,10 @@
  "characterID": 194560,
  "characterClassID": 7,
  "raceID": 1,
- "position": 316,
- "rankingPositionChange": 0,
- "gloryPoint": 24345,
- "gloryPointChange": 72,
+ "position": 317,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24367,
+ "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Amatsu",
  "guildName": "Exiled Riders",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 24345,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 317,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24367,
+   "gloryPointChange": 22,
    "soldierRankID": 12
   }
  ],

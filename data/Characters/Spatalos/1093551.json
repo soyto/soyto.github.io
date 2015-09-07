@@ -2,9 +2,9 @@
  "characterID": 1093551,
  "characterClassID": 14,
  "raceID": 0,
- "position": 288,
- "rankingPositionChange": 2,
- "gloryPoint": 52898,
+ "position": 289,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52849,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Cheer",
@@ -280,6 +280,14 @@
    "position": 288,
    "rankingPositionChange": 2,
    "gloryPoint": 52898,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 289,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52849,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

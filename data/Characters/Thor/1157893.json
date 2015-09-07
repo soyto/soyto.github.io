@@ -2,14 +2,12 @@
  "characterID": 1157893,
  "characterClassID": 1,
  "raceID": 1,
- "position": 856,
- "rankingPositionChange": -1,
- "gloryPoint": 13677,
- "gloryPointChange": 65,
+ "position": 859,
+ "rankingPositionChange": -3,
+ "gloryPoint": 13698,
+ "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Tarzi",
- "guildName": "Blackhearts",
- "guildID": 45967,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 13677,
    "gloryPointChange": 65,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 859,
+   "rankingPositionChange": -3,
+   "gloryPoint": 13698,
+   "gloryPointChange": 21,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Blackhearts",
    "guildID": 45967
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

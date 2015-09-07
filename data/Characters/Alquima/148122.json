@@ -2,10 +2,10 @@
  "characterID": 148122,
  "characterClassID": 5,
  "raceID": 1,
- "position": 578,
- "rankingPositionChange": 0,
- "gloryPoint": 13525,
- "gloryPointChange": -14,
+ "position": 583,
+ "rankingPositionChange": -5,
+ "gloryPoint": 13514,
+ "gloryPointChange": -11,
  "soldierRankID": 11,
  "characterName": "Neocrits",
  "guildName": "Maestros de Asmodia",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 13525,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 583,
+   "rankingPositionChange": -5,
+   "gloryPoint": 13514,
+   "gloryPointChange": -11,
    "soldierRankID": 11
   }
  ],

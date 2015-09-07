@@ -3,9 +3,9 @@
  "characterClassID": 11,
  "raceID": 0,
  "position": 87,
- "rankingPositionChange": 1,
- "gloryPoint": 145204,
- "gloryPointChange": 205,
+ "rankingPositionChange": 0,
+ "gloryPoint": 145106,
+ "gloryPointChange": -98,
  "soldierRankID": 14,
  "characterName": "Trissmerrigold",
  "guildName": "Shake It Off",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 145204,
    "gloryPointChange": 205,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 87,
+   "rankingPositionChange": 0,
+   "gloryPoint": 145106,
+   "gloryPointChange": -98,
    "soldierRankID": 14
   }
  ],

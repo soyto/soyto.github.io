@@ -2,9 +2,9 @@
  "characterID": 603157,
  "characterClassID": 10,
  "raceID": 1,
- "position": 146,
- "rankingPositionChange": 0,
- "gloryPoint": 69916,
+ "position": 147,
+ "rankingPositionChange": -1,
+ "gloryPoint": 69867,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Dispel",
@@ -280,6 +280,14 @@
    "position": 146,
    "rankingPositionChange": 0,
    "gloryPoint": 69916,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": -1,
+   "gloryPoint": 69867,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }

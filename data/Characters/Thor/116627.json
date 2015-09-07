@@ -2,9 +2,9 @@
  "characterID": 116627,
  "characterClassID": 2,
  "raceID": 1,
- "position": 570,
- "rankingPositionChange": 1,
- "gloryPoint": 24411,
+ "position": 572,
+ "rankingPositionChange": -2,
+ "gloryPoint": 24397,
  "gloryPointChange": -14,
  "soldierRankID": 11,
  "characterName": "Sizilia",
@@ -280,6 +280,14 @@
    "position": 570,
    "rankingPositionChange": 1,
    "gloryPoint": 24411,
+   "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": -2,
+   "gloryPoint": 24397,
    "gloryPointChange": -14,
    "soldierRankID": 11
   }

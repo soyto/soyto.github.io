@@ -2,9 +2,9 @@
  "characterID": 1427022,
  "characterClassID": 16,
  "raceID": 1,
- "position": 438,
- "rankingPositionChange": 0,
- "gloryPoint": 10366,
+ "position": 440,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10338,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Spindib",
@@ -270,6 +270,14 @@
    "position": 438,
    "rankingPositionChange": 0,
    "gloryPoint": 10366,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 440,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10338,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

@@ -2,9 +2,9 @@
  "characterID": 1325480,
  "characterClassID": 7,
  "raceID": 1,
- "position": 402,
- "rankingPositionChange": -1,
- "gloryPoint": 12682,
+ "position": 401,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12704,
  "gloryPointChange": 22,
  "soldierRankID": 12,
  "characterName": "Vioz",
@@ -280,6 +280,14 @@
    "position": 402,
    "rankingPositionChange": -1,
    "gloryPoint": 12682,
+   "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12704,
    "gloryPointChange": 22,
    "soldierRankID": 12
   }

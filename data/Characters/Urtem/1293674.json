@@ -2,9 +2,9 @@
  "characterID": 1293674,
  "characterClassID": 14,
  "raceID": 1,
- "position": 307,
- "rankingPositionChange": 0,
- "gloryPoint": 35763,
+ "position": 309,
+ "rankingPositionChange": -2,
+ "gloryPoint": 35735,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Preeta",
@@ -272,6 +272,14 @@
    "position": 307,
    "rankingPositionChange": 0,
    "gloryPoint": 35763,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 309,
+   "rankingPositionChange": -2,
+   "gloryPoint": 35735,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

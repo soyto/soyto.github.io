@@ -2,9 +2,9 @@
  "characterID": 280404,
  "characterClassID": 1,
  "raceID": 0,
- "position": 959,
- "rankingPositionChange": 0,
- "gloryPoint": 6250,
+ "position": 962,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6243,
  "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Hudy",
@@ -48,6 +48,14 @@
    "position": 959,
    "rankingPositionChange": 0,
    "gloryPoint": 6250,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6243,
    "gloryPointChange": -7,
    "soldierRankID": 10
   }

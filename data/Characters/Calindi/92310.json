@@ -2,9 +2,9 @@
  "characterID": 92310,
  "characterClassID": 10,
  "raceID": 0,
- "position": 341,
- "rankingPositionChange": 0,
- "gloryPoint": 16097,
+ "position": 345,
+ "rankingPositionChange": -4,
+ "gloryPoint": 16069,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Sparkus",
@@ -280,6 +280,14 @@
    "position": 341,
    "rankingPositionChange": 0,
    "gloryPoint": 16097,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 345,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16069,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

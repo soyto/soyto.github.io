@@ -2,10 +2,10 @@
  "characterID": 1680489,
  "characterClassID": 8,
  "raceID": 1,
- "position": 305,
- "rankingPositionChange": 2,
- "gloryPoint": 52504,
- "gloryPointChange": 172,
+ "position": 309,
+ "rankingPositionChange": -4,
+ "gloryPoint": 52476,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Fearronica",
  "guildName": "KeinSkillAberFear",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 52504,
    "gloryPointChange": 172,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 309,
+   "rankingPositionChange": -4,
+   "gloryPoint": 52476,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

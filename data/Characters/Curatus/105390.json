@@ -2,10 +2,10 @@
  "characterID": 105390,
  "characterClassID": 11,
  "raceID": 1,
- "position": 997,
- "rankingPositionChange": 1,
- "gloryPoint": 2979,
- "gloryPointChange": 43,
+ "position": 998,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2972,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Rikoom",
  "status": [
@@ -159,6 +159,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 2979,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2972,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

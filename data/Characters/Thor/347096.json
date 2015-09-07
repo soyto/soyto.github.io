@@ -3,13 +3,11 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 426,
- "rankingPositionChange": 5,
- "gloryPoint": 34444,
- "gloryPointChange": 508,
+ "rankingPositionChange": 0,
+ "gloryPoint": 34617,
+ "gloryPointChange": 173,
  "soldierRankID": 12,
  "characterName": "Fionnlagh",
- "guildName": "Paradise Place",
- "guildID": 47205,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 34444,
    "gloryPointChange": 508,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 426,
+   "rankingPositionChange": 0,
+   "gloryPoint": 34617,
+   "gloryPointChange": 173,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "Paradise Place",
    "guildID": 47205
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z"
   }
  ]
 }

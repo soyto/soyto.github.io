@@ -2,14 +2,14 @@
  "characterID": 469062,
  "characterClassID": 11,
  "raceID": 0,
- "position": 859,
- "rankingPositionChange": 0,
- "gloryPoint": 11067,
- "gloryPointChange": -7,
+ "position": 854,
+ "rankingPositionChange": 5,
+ "gloryPoint": 11260,
+ "gloryPointChange": 193,
  "soldierRankID": 10,
  "characterName": "Felografix",
- "guildName": "EnVisIoN",
- "guildID": 21988,
+ "guildName": "I Outsiderz I",
+ "guildID": 26291,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 11067,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 854,
+   "rankingPositionChange": 5,
+   "gloryPoint": 11260,
+   "gloryPointChange": 193,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "EnVisIoN",
    "guildID": 21988
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "guildName": "I Outsiderz I",
+   "guildID": 26291
   }
  ]
 }

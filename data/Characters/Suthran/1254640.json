@@ -2,10 +2,10 @@
  "characterID": 1254640,
  "characterClassID": 11,
  "raceID": 1,
- "position": 658,
- "rankingPositionChange": 0,
- "gloryPoint": 10258,
- "gloryPointChange": 47,
+ "position": 660,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10272,
+ "gloryPointChange": 14,
  "soldierRankID": 11,
  "characterName": "Elindheart",
  "guildName": "Night Shade",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 10258,
    "gloryPointChange": 47,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 660,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10272,
+   "gloryPointChange": 14,
    "soldierRankID": 11
   }
  ],

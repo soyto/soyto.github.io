@@ -2,10 +2,10 @@
  "characterID": 407491,
  "characterClassID": 16,
  "raceID": 1,
- "position": 164,
- "rankingPositionChange": 0,
- "gloryPoint": 93905,
- "gloryPointChange": 451,
+ "position": 166,
+ "rankingPositionChange": -2,
+ "gloryPoint": 94501,
+ "gloryPointChange": 596,
  "soldierRankID": 13,
  "characterName": "Solele",
  "status": [
@@ -239,6 +239,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 93905,
    "gloryPointChange": 451,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 166,
+   "rankingPositionChange": -2,
+   "gloryPoint": 94501,
+   "gloryPointChange": 596,
    "soldierRankID": 13
   }
  ],

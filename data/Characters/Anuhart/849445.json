@@ -2,9 +2,9 @@
  "characterID": 849445,
  "characterClassID": 14,
  "raceID": 0,
- "position": 124,
- "rankingPositionChange": 0,
- "gloryPoint": 74589,
+ "position": 125,
+ "rankingPositionChange": -1,
+ "gloryPoint": 74540,
  "gloryPointChange": -49,
  "soldierRankID": 13,
  "characterName": "Crabby",
@@ -278,6 +278,14 @@
    "position": 124,
    "rankingPositionChange": 0,
    "gloryPoint": 74589,
+   "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-05T22:00:00.000Z",
+   "position": 125,
+   "rankingPositionChange": -1,
+   "gloryPoint": 74540,
    "gloryPointChange": -49,
    "soldierRankID": 13
   }
