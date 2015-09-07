@@ -51,7 +51,6 @@
         }]
       }
     };
-
     $routeProvider.when('/ranking/:serverName', isMobile ? rankingRouteMobileData :  rankingRouteData);
 
     var rankingWithDateRouteData = {
@@ -63,7 +62,6 @@
         }]
       }
     };
-
     var rankingWithDateRouteMobileData = {
       templateUrl: '/app/templates/ranking.mobile.html',
       controller: 'mainApp.ranking.list.mobile.controller',
@@ -95,6 +93,71 @@
       }
     };
     $routeProvider.when('/character/:serverName/:characterID', isMobile ? characterInfoMobileRouteData :  characterInfoRouteData);
+
+
+    var mergeRouteData = {
+      templateUrl: '/app/templates/merge.html',
+      controller: 'mainApp.merge.list.controller',
+      resolve: {
+        serversData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+
+          var servers = storedDataService.mergeGroups[$route.current.params.groupID];
+          var serversData = [];
+
+          var $$q = helperService.$q.resolve();
+
+          servers.forEach(function(server){
+            $$q = $$q.then(function(){
+              return helperService.$q.likeNormal(storedDataService.getLastFromServer(server.name)).then(function(serverData){
+                serversData.push({
+                  server: server,
+                  data: serverData.data,
+                  date: serverData.date
+                });
+              });
+            });
+          });
+
+
+          return $$q = $$q.then(function(){ return serversData; });
+        }],
+        groupID: ['$route', function($route){
+          return $route.current.params.groupID;
+        }]
+      }
+    };
+    var mergeMobileRouteData = {
+      templateUrl: '/app/templates/merge.mobile.html',
+      controller: 'mainApp.merge.list.mobile.controller',
+      resolve: {
+        serversData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+
+          var servers = storedDataService.mergeGroups[$route.current.params.groupID];
+          var serversData = [];
+
+          var $$q = helperService.$q.resolve();
+
+          servers.forEach(function(server){
+            $$q = $$q.then(function(){
+              return helperService.$q.likeNormal(storedDataService.getLastFromServer(server.name)).then(function(serverData){
+                serversData.push({
+                  server: server,
+                  data: serverData.data,
+                  date: serverData.date
+                });
+              });
+            });
+          });
+
+
+          return $$q = $$q.then(function(){ return serversData; });
+        }],
+        groupID: ['$route', function($route){
+          return $route.current.params.groupID;
+        }]
+      }
+    };
+    $routeProvider.when('/merge/:groupID', isMobile ? mergeMobileRouteData : mergeRouteData);
   }
 
   function cfpLoadingBarFn(cfpLoadingBarProvider) {

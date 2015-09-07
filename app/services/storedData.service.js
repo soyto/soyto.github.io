@@ -14,22 +14,31 @@
 
     //Wich servers
     $this.serversList = [
-      {id : 47, name: 'Alquima'},
-      {id : 46, name: 'Anuhart'},
-      {id : 39, name: 'Balder'},
-      {id : 49, name: 'Barus'},
-      {id : 45, name: 'Calindi'},
-      {id : 48, name: 'Curatus'},
-      {id : 36, name: 'Kromede'},
-      {id : 44, name: 'Nexus'},
-      {id : 34, name: 'Perento'},
-      {id : 31, name: 'Spatalos'},
-      {id : 42, name: 'Suthran'},
-      {id : 32, name: 'Telemachus'},
-      {id : 37, name: 'Thor'},
-      {id : 40, name: 'Urtem'},
-      {id : 43, name: 'Vehalla'},
-      {id : 51, name: 'Zubaba'},
+      {id : 47, name: 'Alquima'},     //0
+      {id : 46, name: 'Anuhart'},     //1
+      {id : 39, name: 'Balder'},      //2
+      {id : 49, name: 'Barus'},       //3
+      {id : 45, name: 'Calindi'},     //4
+      {id : 48, name: 'Curatus'},     //5
+      {id : 36, name: 'Kromede'},     //6
+      {id : 44, name: 'Nexus'},       //7
+      {id : 34, name: 'Perento'},     //8
+      {id : 31, name: 'Spatalos'},    //9
+      {id : 42, name: 'Suthran'},     //10
+      {id : 32, name: 'Telemachus'},  //11
+      {id : 37, name: 'Thor'},        //12
+      {id : 40, name: 'Urtem'},       //13
+      {id : 43, name: 'Vehalla'},     //14
+      {id : 51, name: 'Zubaba'},      //15
+    ];
+
+    //Merge groups
+    $this.mergeGroups = [
+      [$this.serversList[0],  $this.serversList[1]],                            //0
+      [$this.serversList[14], $this.serversList[6], $this.serversList[2]],      //1
+      [$this.serversList[11], $this.serversList[9], $this.serversList[5]],      //2
+      [$this.serversList[8],  $this.serversList[7], $this.serversList[15]],      //3
+      [$this.serversList[4],  $this.serversList[10]]                            //4
     ];
 
     //Wich dates we have stored

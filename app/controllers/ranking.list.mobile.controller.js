@@ -8,7 +8,6 @@
   ]);
 
   function index_controller($scope, $window, $location, storedDataService, helperService, serverData) {
-
     $scope._name = CONTROLLER_NAME;
 
     $scope.filteredData = false;
