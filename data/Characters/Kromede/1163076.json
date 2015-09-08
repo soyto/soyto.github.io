@@ -2,9 +2,9 @@
  "characterID": 1163076,
  "characterClassID": 1,
  "raceID": 1,
- "position": 704,
- "rankingPositionChange": -5,
- "gloryPoint": 5629,
+ "position": 703,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5615,
  "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Exdon",
@@ -64,6 +64,14 @@
    "position": 704,
    "rankingPositionChange": -5,
    "gloryPoint": 5629,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 703,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5615,
    "gloryPointChange": -14,
    "soldierRankID": 10
   }

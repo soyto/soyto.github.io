@@ -2,10 +2,10 @@
  "characterID": 380303,
  "characterClassID": 4,
  "raceID": 0,
- "position": 483,
- "rankingPositionChange": 1,
- "gloryPoint": 7570,
- "gloryPointChange": -28,
+ "position": 485,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7514,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Kensei",
  "guildName": "Sic Luceat Lux II",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7570,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 485,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7514,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

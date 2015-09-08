@@ -2,10 +2,10 @@
  "characterID": 12085,
  "characterClassID": 7,
  "raceID": 1,
- "position": 770,
- "rankingPositionChange": -5,
- "gloryPoint": 3032,
- "gloryPointChange": -7,
+ "position": 769,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3018,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Carcos",
  "guildName": "Turkish Mafia",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 3032,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 769,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3018,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

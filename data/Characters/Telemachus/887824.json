@@ -2,10 +2,10 @@
  "characterID": 887824,
  "characterClassID": 4,
  "raceID": 1,
- "position": 798,
- "rankingPositionChange": 0,
- "gloryPoint": 1244,
- "gloryPointChange": 0,
+ "position": 799,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1248,
+ "gloryPointChange": 4,
  "soldierRankID": 10,
  "characterName": "Eschel",
  "guildName": "The Legion of Friends",
@@ -17,6 +17,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 1244,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 799,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1248,
+   "gloryPointChange": 4,
    "soldierRankID": 10
   }
  ],

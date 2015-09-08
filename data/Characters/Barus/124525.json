@@ -2,14 +2,12 @@
  "characterID": 124525,
  "characterClassID": 4,
  "raceID": 0,
- "position": 774,
- "rankingPositionChange": 4,
- "gloryPoint": 16847,
- "gloryPointChange": 43,
+ "position": 778,
+ "rankingPositionChange": -4,
+ "gloryPoint": 16833,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Heras",
- "guildName": "StayTrue",
- "guildID": 3280,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 16847,
    "gloryPointChange": 43,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 778,
+   "rankingPositionChange": -4,
+   "gloryPoint": 16833,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -311,6 +317,9 @@
    "date": "2015-08-23T22:00:00.000Z",
    "guildName": "StayTrue",
    "guildID": 3280
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

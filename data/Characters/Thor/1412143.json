@@ -2,14 +2,12 @@
  "characterID": 1412143,
  "characterClassID": 13,
  "raceID": 1,
- "position": 225,
- "rankingPositionChange": -1,
- "gloryPoint": 67079,
- "gloryPointChange": 411,
+ "position": 231,
+ "rankingPositionChange": -6,
+ "gloryPoint": 67155,
+ "gloryPointChange": 76,
  "soldierRankID": 13,
  "characterName": "Aethermachinary",
- "guildName": "Gluecksbaerchis",
- "guildID": 15181,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 67079,
    "gloryPointChange": 411,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 231,
+   "rankingPositionChange": -6,
+   "gloryPoint": 67155,
+   "gloryPointChange": 76,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Gluecksbaerchis",
    "guildID": 15181
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

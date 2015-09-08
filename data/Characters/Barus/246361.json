@@ -2,10 +2,10 @@
  "characterID": 246361,
  "characterClassID": 7,
  "raceID": 1,
- "position": 126,
- "rankingPositionChange": 0,
- "gloryPoint": 101207,
- "gloryPointChange": 329,
+ "position": 127,
+ "rankingPositionChange": -1,
+ "gloryPoint": 101109,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Qsii",
  "guildName": "Dead Chicks Cant Say No",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 101207,
    "gloryPointChange": 329,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": -1,
+   "gloryPoint": 101109,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 1426281,
  "characterClassID": 7,
  "raceID": 1,
- "position": 323,
- "rankingPositionChange": 11,
- "gloryPoint": 21264,
- "gloryPointChange": 1041,
+ "position": 313,
+ "rankingPositionChange": 10,
+ "gloryPoint": 22529,
+ "gloryPointChange": 1265,
  "soldierRankID": 12,
  "characterName": "Logitexx",
+ "guildName": "Prets",
+ "guildID": 11223,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 21264,
    "gloryPointChange": 1041,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 313,
+   "rankingPositionChange": 10,
+   "gloryPoint": 22529,
+   "gloryPointChange": 1265,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -309,6 +319,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Prets",
+   "guildID": 11223
   }
  ]
 }

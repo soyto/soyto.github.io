@@ -2,10 +2,10 @@
  "characterID": 1165941,
  "characterClassID": 1,
  "raceID": 0,
- "position": 101,
- "rankingPositionChange": 2,
- "gloryPoint": 156495,
- "gloryPointChange": 1595,
+ "position": 102,
+ "rankingPositionChange": -1,
+ "gloryPoint": 156720,
+ "gloryPointChange": 225,
  "soldierRankID": 13,
  "characterName": "Floe",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 156495,
    "gloryPointChange": 1595,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 102,
+   "rankingPositionChange": -1,
+   "gloryPoint": 156720,
+   "gloryPointChange": 225,
    "soldierRankID": 13
   }
  ],

@@ -2,14 +2,12 @@
  "characterID": 938947,
  "characterClassID": 7,
  "raceID": 1,
- "position": 493,
- "rankingPositionChange": -2,
- "gloryPoint": 28484,
- "gloryPointChange": -28,
+ "position": 494,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28428,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Krankii",
- "guildName": "Heer der Finsternis",
- "guildID": 41586,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 28484,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 494,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28428,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Heer der Finsternis",
    "guildID": 41586
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

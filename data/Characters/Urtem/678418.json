@@ -2,10 +2,10 @@
  "characterID": 678418,
  "characterClassID": 10,
  "raceID": 1,
- "position": 137,
- "rankingPositionChange": 0,
- "gloryPoint": 68487,
- "gloryPointChange": -49,
+ "position": 138,
+ "rankingPositionChange": -1,
+ "gloryPoint": 69342,
+ "gloryPointChange": 855,
  "soldierRankID": 13,
  "characterName": "Ahoka",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 68487,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 138,
+   "rankingPositionChange": -1,
+   "gloryPoint": 69342,
+   "gloryPointChange": 855,
    "soldierRankID": 13
   }
  ],

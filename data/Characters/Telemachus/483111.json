@@ -2,10 +2,10 @@
  "characterID": 483111,
  "characterClassID": 5,
  "raceID": 1,
- "position": 462,
- "rankingPositionChange": 5,
- "gloryPoint": 3964,
- "gloryPointChange": 122,
+ "position": 465,
+ "rankingPositionChange": -3,
+ "gloryPoint": 3958,
+ "gloryPointChange": -6,
  "soldierRankID": 12,
  "characterName": "Ashmawygg",
  "guildName": "Ordem Secreta",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 3964,
    "gloryPointChange": 122,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 465,
+   "rankingPositionChange": -3,
+   "gloryPoint": 3958,
+   "gloryPointChange": -6,
    "soldierRankID": 12
   }
  ],

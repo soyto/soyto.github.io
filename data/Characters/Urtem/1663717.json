@@ -2,10 +2,10 @@
  "characterID": 1663717,
  "characterClassID": 4,
  "raceID": 1,
- "position": 807,
- "rankingPositionChange": 15,
- "gloryPoint": 9790,
- "gloryPointChange": 315,
+ "position": 809,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9776,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Neverskill",
  "guildName": "  M A D N E S S  ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 15,
    "gloryPoint": 9790,
    "gloryPointChange": 315,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 809,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9776,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

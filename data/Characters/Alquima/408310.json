@@ -2,14 +2,12 @@
  "characterID": 408310,
  "characterClassID": 16,
  "raceID": 0,
- "position": 702,
- "rankingPositionChange": 2,
- "gloryPoint": 16851,
- "gloryPointChange": -7,
- "soldierRankID": 10,
+ "position": 697,
+ "rankingPositionChange": 5,
+ "gloryPoint": 17079,
+ "gloryPointChange": 228,
+ "soldierRankID": 11,
  "characterName": "Jolene",
- "guildName": "IronCross",
- "guildID": 3726,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 16851,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 697,
+   "rankingPositionChange": 5,
+   "gloryPoint": 17079,
+   "gloryPointChange": 228,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "IronCross",
    "guildID": 3726
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

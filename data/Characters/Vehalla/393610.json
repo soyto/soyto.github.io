@@ -2,10 +2,10 @@
  "characterID": 393610,
  "characterClassID": 11,
  "raceID": 1,
- "position": 555,
- "rankingPositionChange": 9,
- "gloryPoint": 1528,
- "gloryPointChange": 42,
+ "position": 560,
+ "rankingPositionChange": -5,
+ "gloryPoint": 1500,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Kathreeeen",
  "guildName": "Rollator Gang",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 1528,
    "gloryPointChange": 42,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 560,
+   "rankingPositionChange": -5,
+   "gloryPoint": 1500,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

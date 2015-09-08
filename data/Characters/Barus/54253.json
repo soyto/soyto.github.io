@@ -2,10 +2,10 @@
  "characterID": 54253,
  "characterClassID": 14,
  "raceID": 1,
- "position": 366,
- "rankingPositionChange": 0,
- "gloryPoint": 40736,
- "gloryPointChange": 1,
+ "position": 369,
+ "rankingPositionChange": -3,
+ "gloryPoint": 40683,
+ "gloryPointChange": -53,
  "soldierRankID": 12,
  "characterName": "Evei",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 40736,
    "gloryPointChange": 1,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 369,
+   "rankingPositionChange": -3,
+   "gloryPoint": 40683,
+   "gloryPointChange": -53,
    "soldierRankID": 12
   }
  ],

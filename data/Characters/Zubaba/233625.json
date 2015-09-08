@@ -2,14 +2,14 @@
  "characterID": 233625,
  "characterClassID": 1,
  "raceID": 1,
- "position": 715,
- "rankingPositionChange": 0,
- "gloryPoint": 3537,
- "gloryPointChange": -7,
- "soldierRankID": 10,
+ "position": 687,
+ "rankingPositionChange": 28,
+ "gloryPoint": 3987,
+ "gloryPointChange": 450,
+ "soldierRankID": 11,
  "characterName": "Kasue",
- "guildName": "Villains",
- "guildID": 1830,
+ "guildName": "V for Vendetta",
+ "guildID": 1639,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 3537,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": 28,
+   "gloryPoint": 3987,
+   "gloryPointChange": 450,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Villains",
    "guildID": 1830
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "V for Vendetta",
+   "guildID": 1639
   }
  ]
 }

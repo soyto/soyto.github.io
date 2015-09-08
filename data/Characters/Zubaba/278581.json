@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 656,
- "rankingPositionChange": 2,
- "gloryPoint": 4584,
- "gloryPointChange": 46,
+ "rankingPositionChange": 0,
+ "gloryPoint": 4556,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Rca",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 4584,
    "gloryPointChange": 46,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 656,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4556,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 200216,
  "characterClassID": 1,
  "raceID": 0,
- "position": 696,
- "rankingPositionChange": 5,
- "gloryPoint": 19895,
- "gloryPointChange": 134,
+ "position": 698,
+ "rankingPositionChange": -2,
+ "gloryPoint": 19905,
+ "gloryPointChange": 10,
  "soldierRankID": 11,
  "characterName": "Aniutkab",
  "guildName": "WARRIORS OF LIGHT",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 19895,
    "gloryPointChange": 134,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 698,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19905,
+   "gloryPointChange": 10,
    "soldierRankID": 11
   }
  ],

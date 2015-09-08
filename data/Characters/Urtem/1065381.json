@@ -2,10 +2,10 @@
  "characterID": 1065381,
  "characterClassID": 2,
  "raceID": 0,
- "position": 830,
- "rankingPositionChange": 3,
- "gloryPoint": 18083,
- "gloryPointChange": 408,
+ "position": 831,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18266,
+ "gloryPointChange": 183,
  "soldierRankID": 10,
  "characterName": "Pedross",
  "guildName": "Valar  Morghulis",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 18083,
    "gloryPointChange": 408,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 831,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18266,
+   "gloryPointChange": 183,
    "soldierRankID": 10
   }
  ],

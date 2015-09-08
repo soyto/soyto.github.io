@@ -2,10 +2,10 @@
  "characterID": 590203,
  "characterClassID": 16,
  "raceID": 1,
- "position": 478,
- "rankingPositionChange": 1,
- "gloryPoint": 28196,
- "gloryPointChange": -28,
+ "position": 483,
+ "rankingPositionChange": -5,
+ "gloryPoint": 28143,
+ "gloryPointChange": -53,
  "soldierRankID": 12,
  "characterName": "Pinkey",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 28196,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 483,
+   "rankingPositionChange": -5,
+   "gloryPoint": 28143,
+   "gloryPointChange": -53,
    "soldierRankID": 12
   }
  ],

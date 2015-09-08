@@ -2,10 +2,10 @@
  "characterID": 87705,
  "characterClassID": 1,
  "raceID": 0,
- "position": 844,
- "rankingPositionChange": 27,
- "gloryPoint": 5966,
- "gloryPointChange": 276,
+ "position": 841,
+ "rankingPositionChange": 3,
+ "gloryPoint": 5962,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Chilperic",
  "guildName": "les dragons",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 27,
    "gloryPoint": 5966,
    "gloryPointChange": 276,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 841,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5962,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

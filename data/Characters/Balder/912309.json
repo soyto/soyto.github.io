@@ -2,10 +2,10 @@
  "characterID": 912309,
  "characterClassID": 2,
  "raceID": 0,
- "position": 492,
- "rankingPositionChange": 2,
+ "position": 493,
+ "rankingPositionChange": -1,
  "gloryPoint": 7170,
- "gloryPointChange": 33,
+ "gloryPointChange": 0,
  "soldierRankID": 12,
  "characterName": "Niartlous",
  "guildName": "ZweihasenaufTour",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 7170,
    "gloryPointChange": 33,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 493,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7170,
+   "gloryPointChange": 0,
    "soldierRankID": 12
   }
  ],

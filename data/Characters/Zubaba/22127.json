@@ -2,10 +2,10 @@
  "characterID": 22127,
  "characterClassID": 1,
  "raceID": 1,
- "position": 602,
- "rankingPositionChange": -3,
- "gloryPoint": 6156,
- "gloryPointChange": -14,
+ "position": 600,
+ "rankingPositionChange": 2,
+ "gloryPoint": 6231,
+ "gloryPointChange": 75,
  "soldierRankID": 11,
  "characterName": "Methis",
  "guildName": "V for Vendetta",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 6156,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": 2,
+   "gloryPoint": 6231,
+   "gloryPointChange": 75,
    "soldierRankID": 11
   }
  ],

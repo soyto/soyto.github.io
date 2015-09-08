@@ -2,10 +2,10 @@
  "characterID": 166856,
  "characterClassID": 1,
  "raceID": 0,
- "position": 895,
- "rankingPositionChange": 14,
- "gloryPoint": 1385,
- "gloryPointChange": 83,
+ "position": 897,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1371,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Nastius",
  "guildName": "Cerbere du Sanctum",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 14,
    "gloryPoint": 1385,
    "gloryPointChange": 83,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 897,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1371,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

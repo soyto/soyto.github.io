@@ -2,10 +2,10 @@
  "characterID": 1221437,
  "characterClassID": 14,
  "raceID": 1,
- "position": 296,
- "rankingPositionChange": 0,
- "gloryPoint": 55070,
- "gloryPointChange": 77,
+ "position": 299,
+ "rankingPositionChange": -3,
+ "gloryPoint": 54982,
+ "gloryPointChange": -88,
  "soldierRankID": 13,
  "characterName": "Deathshot",
  "guildName": "Awkward Moments",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 55070,
    "gloryPointChange": 77,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": -3,
+   "gloryPoint": 54982,
+   "gloryPointChange": -88,
    "soldierRankID": 13
   }
  ],

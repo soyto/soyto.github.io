@@ -2,10 +2,10 @@
  "characterID": 763686,
  "characterClassID": 4,
  "raceID": 0,
- "position": 24,
- "rankingPositionChange": 0,
- "gloryPoint": 273492,
- "gloryPointChange": 2366,
+ "position": 25,
+ "rankingPositionChange": -1,
+ "gloryPoint": 274692,
+ "gloryPointChange": 1200,
  "soldierRankID": 15,
  "characterName": "Ludita",
  "guildName": "Vs ALL",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 273492,
    "gloryPointChange": 2366,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 25,
+   "rankingPositionChange": -1,
+   "gloryPoint": 274692,
+   "gloryPointChange": 1200,
    "soldierRankID": 15
   }
  ],

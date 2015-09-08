@@ -2,10 +2,10 @@
  "characterID": 1130521,
  "characterClassID": 10,
  "raceID": 1,
- "position": 853,
- "rankingPositionChange": -1,
- "gloryPoint": 2295,
- "gloryPointChange": -7,
+ "position": 850,
+ "rankingPositionChange": 3,
+ "gloryPoint": 2281,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Volrung",
  "guildName": "Nova Legio",
@@ -153,6 +153,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 2295,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 850,
+   "rankingPositionChange": 3,
+   "gloryPoint": 2281,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

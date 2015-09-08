@@ -2,14 +2,14 @@
  "characterID": 146476,
  "characterClassID": 4,
  "raceID": 1,
- "position": 140,
- "rankingPositionChange": 1,
- "gloryPoint": 65216,
- "gloryPointChange": -49,
+ "position": 141,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65262,
+ "gloryPointChange": 46,
  "soldierRankID": 13,
  "characterName": "Ivi",
- "guildName": "Bosphorus",
- "guildID": 1226,
+ "guildName": "Ivi",
+ "guildID": 6911,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 65216,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 141,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65262,
+   "gloryPointChange": 46,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -307,6 +315,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Bosphorus",
    "guildID": 1226
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Ivi",
+   "guildID": 6911
   }
  ]
 }

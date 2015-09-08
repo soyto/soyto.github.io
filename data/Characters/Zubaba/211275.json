@@ -2,10 +2,10 @@
  "characterID": 211275,
  "characterClassID": 7,
  "raceID": 0,
- "position": 262,
- "rankingPositionChange": 1,
- "gloryPoint": 41013,
- "gloryPointChange": 91,
+ "position": 263,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40925,
+ "gloryPointChange": -88,
  "soldierRankID": 13,
  "characterName": "Recital",
  "guildName": "    A  L  P  H  A   ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 41013,
    "gloryPointChange": 91,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 263,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40925,
+   "gloryPointChange": -88,
    "soldierRankID": 13
   }
  ],

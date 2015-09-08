@@ -2,10 +2,10 @@
  "characterID": 4332,
  "characterClassID": 8,
  "raceID": 1,
- "position": 148,
- "rankingPositionChange": 0,
- "gloryPoint": 32568,
- "gloryPointChange": -49,
+ "position": 147,
+ "rankingPositionChange": 1,
+ "gloryPoint": 32570,
+ "gloryPointChange": 2,
  "soldierRankID": 13,
  "characterName": "Toxino",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 32568,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": 1,
+   "gloryPoint": 32570,
+   "gloryPointChange": 2,
    "soldierRankID": 13
   }
  ],

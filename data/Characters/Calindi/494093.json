@@ -2,10 +2,10 @@
  "characterID": 494093,
  "characterClassID": 10,
  "raceID": 1,
- "position": 118,
- "rankingPositionChange": 0,
- "gloryPoint": 14186,
- "gloryPointChange": 4,
+ "position": 119,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14091,
+ "gloryPointChange": -95,
  "soldierRankID": 13,
  "characterName": "Alduinya",
  "guildName": "RoxxorClub",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 14186,
    "gloryPointChange": 4,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 119,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14091,
+   "gloryPointChange": -95,
    "soldierRankID": 13
   }
  ],

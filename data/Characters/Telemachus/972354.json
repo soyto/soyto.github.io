@@ -2,10 +2,10 @@
  "characterID": 972354,
  "characterClassID": 5,
  "raceID": 0,
- "position": 753,
- "rankingPositionChange": -1,
- "gloryPoint": 11598,
- "gloryPointChange": -7,
+ "position": 752,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11584,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Elesari",
  "guildName": "Second Identity",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 11598,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 752,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11584,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

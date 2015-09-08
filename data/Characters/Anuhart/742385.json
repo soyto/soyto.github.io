@@ -2,14 +2,14 @@
  "characterID": 742385,
  "characterClassID": 2,
  "raceID": 0,
- "position": 267,
- "rankingPositionChange": 8,
- "gloryPoint": 38319,
- "gloryPointChange": 1000,
+ "position": 261,
+ "rankingPositionChange": 6,
+ "gloryPoint": 39495,
+ "gloryPointChange": 1176,
  "soldierRankID": 13,
  "characterName": "Modesto",
- "guildName": "LionHeart",
- "guildID": 1122,
+ "guildName": "Divergence",
+ "guildID": 4974,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 38319,
    "gloryPointChange": 1000,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": 6,
+   "gloryPoint": 39495,
+   "gloryPointChange": 1176,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "LionHeart",
    "guildID": 1122
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Divergence",
+   "guildID": 4974
   }
  ]
 }

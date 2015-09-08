@@ -2,14 +2,14 @@
  "characterID": 643777,
  "characterClassID": 8,
  "raceID": 0,
- "position": 72,
- "rankingPositionChange": 2,
- "gloryPoint": 110542,
- "gloryPointChange": 288,
+ "position": 73,
+ "rankingPositionChange": -1,
+ "gloryPoint": 111056,
+ "gloryPointChange": 514,
  "soldierRankID": 14,
  "characterName": "Thefiregarden",
- "guildName": "BlackWolves",
- "guildID": 2234,
+ "guildName": "Heavens",
+ "guildID": 15890,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 110542,
    "gloryPointChange": 288,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 73,
+   "rankingPositionChange": -1,
+   "gloryPoint": 111056,
+   "gloryPointChange": 514,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -311,6 +319,11 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "BlackWolves",
    "guildID": 2234
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Heavens",
+   "guildID": 15890
   }
  ]
 }

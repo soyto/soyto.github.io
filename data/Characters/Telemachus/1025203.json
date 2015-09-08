@@ -2,10 +2,10 @@
  "characterID": 1025203,
  "characterClassID": 11,
  "raceID": 1,
- "position": 298,
- "rankingPositionChange": 2,
- "gloryPoint": 12394,
- "gloryPointChange": 7,
+ "position": 299,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12506,
+ "gloryPointChange": 112,
  "soldierRankID": 13,
  "characterName": "Kaetien",
  "guildName": "The Legion of Friends",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 12394,
    "gloryPointChange": 7,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 299,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12506,
+   "gloryPointChange": 112,
    "soldierRankID": 13
   }
  ],

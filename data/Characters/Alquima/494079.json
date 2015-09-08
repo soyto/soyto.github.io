@@ -2,10 +2,10 @@
  "characterID": 494079,
  "characterClassID": 2,
  "raceID": 0,
- "position": 806,
- "rankingPositionChange": 1,
- "gloryPoint": 14056,
- "gloryPointChange": -7,
+ "position": 807,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14042,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Blaxic",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 14056,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 807,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14042,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

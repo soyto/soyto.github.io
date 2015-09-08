@@ -2,14 +2,12 @@
  "characterID": 948183,
  "characterClassID": 10,
  "raceID": 0,
- "position": 802,
- "rankingPositionChange": 3,
- "gloryPoint": 2645,
- "gloryPointChange": 43,
+ "position": 798,
+ "rankingPositionChange": 4,
+ "gloryPoint": 2691,
+ "gloryPointChange": 46,
  "soldierRankID": 10,
  "characterName": "Kareshi",
- "guildName": "Random",
- "guildID": 20612,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 2645,
    "gloryPointChange": 43,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 798,
+   "rankingPositionChange": 4,
+   "gloryPoint": 2691,
+   "gloryPointChange": 46,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Random",
    "guildID": 20612
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 1209785,
  "characterClassID": 4,
  "raceID": 1,
- "position": 612,
- "rankingPositionChange": -1,
- "gloryPoint": 5410,
- "gloryPointChange": -11,
+ "position": 611,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5382,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Fonzin",
  "guildName": "The Others",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 5410,
    "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5382,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

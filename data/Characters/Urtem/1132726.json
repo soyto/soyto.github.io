@@ -2,14 +2,14 @@
  "characterID": 1132726,
  "characterClassID": 14,
  "raceID": 0,
- "position": 69,
- "rankingPositionChange": 1,
- "gloryPoint": 155274,
- "gloryPointChange": 650,
+ "position": 70,
+ "rankingPositionChange": -1,
+ "gloryPoint": 156613,
+ "gloryPointChange": 1339,
  "soldierRankID": 14,
  "characterName": "Waallas",
- "guildName": "Tears Of Shadows",
- "guildID": 13418,
+ "guildName": "Faction Elyseenne",
+ "guildID": 47366,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 155274,
    "gloryPointChange": 650,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 70,
+   "rankingPositionChange": -1,
+   "gloryPoint": 156613,
+   "gloryPointChange": 1339,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -323,6 +331,11 @@
    "date": "2015-08-18T22:00:00.000Z",
    "guildName": "Tears Of Shadows",
    "guildID": 13418
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Faction Elyseenne",
+   "guildID": 47366
   }
  ]
 }

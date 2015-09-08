@@ -2,10 +2,10 @@
  "characterID": 1567601,
  "characterClassID": 13,
  "raceID": 0,
- "position": 27,
- "rankingPositionChange": 0,
- "gloryPoint": 270406,
- "gloryPointChange": 1366,
+ "position": 28,
+ "rankingPositionChange": -1,
+ "gloryPoint": 271543,
+ "gloryPointChange": 1137,
  "soldierRankID": 15,
  "characterName": "Tamaxios",
  "guildName": "Nakama",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 270406,
    "gloryPointChange": 1366,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 28,
+   "rankingPositionChange": -1,
+   "gloryPoint": 271543,
+   "gloryPointChange": 1137,
    "soldierRankID": 15
   }
  ],

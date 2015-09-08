@@ -2,10 +2,10 @@
  "characterID": 114834,
  "characterClassID": 11,
  "raceID": 0,
- "position": 534,
- "rankingPositionChange": 0,
- "gloryPoint": 13748,
- "gloryPointChange": -14,
+ "position": 535,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13720,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Phandasio",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 13748,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 535,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13720,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

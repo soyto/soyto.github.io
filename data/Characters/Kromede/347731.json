@@ -4,10 +4,10 @@
  "raceID": 1,
  "position": 12,
  "rankingPositionChange": 0,
- "gloryPoint": 281937,
- "gloryPointChange": 764,
+ "gloryPoint": 282073,
+ "gloryPointChange": 136,
  "soldierRankID": 15,
- "characterName": "Eminence",
+ "characterName": "Trespasser",
  "guildName": "Flawless Victory",
  "guildID": 31046,
  "status": [
@@ -290,12 +290,24 @@
    "gloryPoint": 281937,
    "gloryPointChange": 764,
    "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 12,
+   "rankingPositionChange": 0,
+   "gloryPoint": 282073,
+   "gloryPointChange": 136,
+   "soldierRankID": 15
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Eminence"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Trespasser"
   }
  ],
  "guilds": [

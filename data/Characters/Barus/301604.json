@@ -2,10 +2,10 @@
  "characterID": 301604,
  "characterClassID": 2,
  "raceID": 0,
- "position": 75,
- "rankingPositionChange": 0,
- "gloryPoint": 110116,
- "gloryPointChange": -1,
+ "position": 74,
+ "rankingPositionChange": 1,
+ "gloryPoint": 110957,
+ "gloryPointChange": 841,
  "soldierRankID": 14,
  "characterName": "Essiel",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 110116,
    "gloryPointChange": -1,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": 1,
+   "gloryPoint": 110957,
+   "gloryPointChange": 841,
    "soldierRankID": 14
   }
  ],

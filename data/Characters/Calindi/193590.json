@@ -2,10 +2,10 @@
  "characterID": 193590,
  "characterClassID": 1,
  "raceID": 1,
- "position": 250,
- "rankingPositionChange": 29,
- "gloryPoint": 1883,
- "gloryPointChange": 378,
+ "position": 252,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1875,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Darkshadaw",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 29,
    "gloryPoint": 1883,
    "gloryPointChange": 378,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 252,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1875,
+   "gloryPointChange": -8,
    "soldierRankID": 11
   }
  ],

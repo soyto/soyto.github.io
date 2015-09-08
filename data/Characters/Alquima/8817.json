@@ -2,10 +2,10 @@
  "characterID": 8817,
  "characterClassID": 7,
  "raceID": 0,
- "position": 19,
- "rankingPositionChange": 0,
- "gloryPoint": 227526,
- "gloryPointChange": 385,
+ "position": 20,
+ "rankingPositionChange": -1,
+ "gloryPoint": 228038,
+ "gloryPointChange": 512,
  "soldierRankID": 15,
  "characterName": "Reflejo",
  "guildName": "OUTLAWS",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 227526,
    "gloryPointChange": 385,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 20,
+   "rankingPositionChange": -1,
+   "gloryPoint": 228038,
+   "gloryPointChange": 512,
    "soldierRankID": 15
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 124989,
  "characterClassID": 4,
  "raceID": 1,
- "position": 161,
- "rankingPositionChange": 1,
- "gloryPoint": 56279,
- "gloryPointChange": 760,
+ "position": 162,
+ "rankingPositionChange": -1,
+ "gloryPoint": 56331,
+ "gloryPointChange": 52,
  "soldierRankID": 13,
  "characterName": "Red",
  "guildName": "KIZIL ORDU",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 56279,
    "gloryPointChange": 760,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": -1,
+   "gloryPoint": 56331,
+   "gloryPointChange": 52,
    "soldierRankID": 13
   }
  ],

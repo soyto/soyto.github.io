@@ -2,10 +2,10 @@
  "characterID": 702143,
  "characterClassID": 11,
  "raceID": 0,
- "position": 330,
- "rankingPositionChange": 1,
- "gloryPoint": 17936,
- "gloryPointChange": -28,
+ "position": 331,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17920,
+ "gloryPointChange": -16,
  "soldierRankID": 12,
  "characterName": "Melainda",
  "guildName": "Elyseas Angels",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 17936,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 331,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17920,
+   "gloryPointChange": -16,
    "soldierRankID": 12
   }
  ],

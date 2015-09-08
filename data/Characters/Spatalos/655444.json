@@ -2,12 +2,14 @@
  "characterID": 655444,
  "characterClassID": 5,
  "raceID": 1,
- "position": 300,
- "rankingPositionChange": 0,
- "gloryPoint": 20197,
- "gloryPointChange": 179,
- "soldierRankID": 13,
+ "position": 301,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20220,
+ "gloryPointChange": 23,
+ "soldierRankID": 12,
  "characterName": "Dynamit",
+ "guildName": "Syntagma",
+ "guildID": 10094,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 20197,
    "gloryPointChange": 179,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 301,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20220,
+   "gloryPointChange": 23,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Syntagma",
+   "guildID": 10094
   }
  ]
 }

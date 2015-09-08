@@ -2,14 +2,12 @@
  "characterID": 507958,
  "characterClassID": 4,
  "raceID": 1,
- "position": 789,
- "rankingPositionChange": -11,
- "gloryPoint": 1250,
- "gloryPointChange": -7,
- "soldierRankID": 10,
+ "position": 660,
+ "rankingPositionChange": 129,
+ "gloryPoint": 1662,
+ "gloryPointChange": 412,
+ "soldierRankID": 11,
  "characterName": "Pille",
- "guildName": "HappyDay",
- "guildID": 25418,
  "status": [
   {
    "date": "2015-08-30T22:00:00.000Z",
@@ -50,6 +48,14 @@
    "gloryPoint": 1250,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 660,
+   "rankingPositionChange": 129,
+   "gloryPoint": 1662,
+   "gloryPointChange": 412,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -63,6 +69,9 @@
    "date": "2015-08-30T22:00:00.000Z",
    "guildName": "HappyDay",
    "guildID": 25418
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

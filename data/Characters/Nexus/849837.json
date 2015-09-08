@@ -2,14 +2,14 @@
  "characterID": 849837,
  "characterClassID": 2,
  "raceID": 0,
- "position": 400,
- "rankingPositionChange": -1,
- "gloryPoint": 23734,
- "gloryPointChange": -28,
+ "position": 399,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23904,
+ "gloryPointChange": 170,
  "soldierRankID": 12,
- "characterName": "Yunmin",
- "guildName": "Fire Shadows",
- "guildID": 2208,
+ "characterName": "Daxan",
+ "guildName": "Otpusti Menja Chudo Trava",
+ "guildID": 2415,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,12 +290,24 @@
    "gloryPoint": 23734,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 399,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23904,
+   "gloryPointChange": 170,
+   "soldierRankID": 12
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Yunmin"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Daxan"
   }
  ],
  "guilds": [
@@ -303,6 +315,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Fire Shadows",
    "guildID": 2208
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Otpusti Menja Chudo Trava",
+   "guildID": 2415
   }
  ]
 }

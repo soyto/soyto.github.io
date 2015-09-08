@@ -2,10 +2,10 @@
  "characterID": 1206420,
  "characterClassID": 10,
  "raceID": 1,
- "position": 68,
- "rankingPositionChange": 0,
- "gloryPoint": 135353,
- "gloryPointChange": 306,
+ "position": 69,
+ "rankingPositionChange": -1,
+ "gloryPoint": 135802,
+ "gloryPointChange": 449,
  "soldierRankID": 14,
  "characterName": "Ane",
  "guildName": "Not Today",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 135353,
    "gloryPointChange": 306,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 69,
+   "rankingPositionChange": -1,
+   "gloryPoint": 135802,
+   "gloryPointChange": 449,
    "soldierRankID": 14
   }
  ],

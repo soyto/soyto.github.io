@@ -2,10 +2,10 @@
  "characterID": 465757,
  "characterClassID": 4,
  "raceID": 1,
- "position": 477,
- "rankingPositionChange": 19,
- "gloryPoint": 2137,
- "gloryPointChange": 276,
+ "position": 478,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2109,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Garun",
  "guildName": "TheRatPack",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 19,
    "gloryPoint": 2137,
    "gloryPointChange": 276,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 478,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2109,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

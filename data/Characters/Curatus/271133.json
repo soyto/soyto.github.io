@@ -2,14 +2,14 @@
  "characterID": 271133,
  "characterClassID": 10,
  "raceID": 1,
- "position": 365,
+ "position": 364,
  "rankingPositionChange": 1,
- "gloryPoint": 19116,
- "gloryPointChange": 205,
+ "gloryPoint": 19070,
+ "gloryPointChange": -46,
  "soldierRankID": 12,
  "characterName": "Plimp",
- "guildName": " Arkadia ",
- "guildID": 1064,
+ "guildName": "Infernal Requiem",
+ "guildID": 1034,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 19116,
    "gloryPointChange": 205,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": 1,
+   "gloryPoint": 19070,
+   "gloryPointChange": -46,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Arkadia ",
    "guildID": 1064
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Infernal Requiem",
+   "guildID": 1034
   }
  ]
 }

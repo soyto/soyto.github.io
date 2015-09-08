@@ -2,10 +2,10 @@
  "characterID": 106274,
  "characterClassID": 7,
  "raceID": 1,
- "position": 22,
- "rankingPositionChange": 0,
- "gloryPoint": 165765,
- "gloryPointChange": -119,
+ "position": 23,
+ "rankingPositionChange": -1,
+ "gloryPoint": 165527,
+ "gloryPointChange": -238,
  "soldierRankID": 15,
  "characterName": "Lrx",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 165765,
    "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 23,
+   "rankingPositionChange": -1,
+   "gloryPoint": 165527,
+   "gloryPointChange": -238,
    "soldierRankID": 15
   }
  ],

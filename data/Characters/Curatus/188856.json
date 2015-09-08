@@ -3,11 +3,13 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 495,
- "rankingPositionChange": -5,
- "gloryPoint": 13047,
- "gloryPointChange": -28,
+ "rankingPositionChange": 0,
+ "gloryPoint": 13095,
+ "gloryPointChange": 48,
  "soldierRankID": 12,
  "characterName": "Massman",
+ "guildName": "AbyssGates",
+ "guildID": 1846,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 13047,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 495,
+   "rankingPositionChange": 0,
+   "gloryPoint": 13095,
+   "gloryPointChange": 48,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "AbyssGates",
+   "guildID": 1846
   }
  ]
 }

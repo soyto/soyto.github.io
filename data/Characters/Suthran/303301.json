@@ -2,14 +2,12 @@
  "characterID": 303301,
  "characterClassID": 10,
  "raceID": 1,
- "position": 859,
- "rankingPositionChange": 0,
- "gloryPoint": 6053,
- "gloryPointChange": -7,
+ "position": 894,
+ "rankingPositionChange": -35,
+ "gloryPoint": 5934,
+ "gloryPointChange": -119,
  "soldierRankID": 10,
  "characterName": "Matricia",
- "guildName": "BlacKSheeP",
- "guildID": 5314,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -170,6 +168,14 @@
    "gloryPoint": 6053,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 894,
+   "rankingPositionChange": -35,
+   "gloryPoint": 5934,
+   "gloryPointChange": -119,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -183,6 +189,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "BlacKSheeP",
    "guildID": 5314
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 639443,
  "characterClassID": 10,
  "raceID": 1,
- "position": 545,
- "rankingPositionChange": 1,
- "gloryPoint": 1739,
- "gloryPointChange": 6,
+ "position": 543,
+ "rankingPositionChange": 2,
+ "gloryPoint": 1721,
+ "gloryPointChange": -18,
  "soldierRankID": 11,
  "characterName": "Demonel",
  "guildName": "Wings of Death",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 1739,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 543,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1721,
+   "gloryPointChange": -18,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 175044,
  "characterClassID": 10,
  "raceID": 0,
- "position": 494,
- "rankingPositionChange": 15,
- "gloryPoint": 7091,
- "gloryPointChange": 255,
+ "position": 495,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7096,
+ "gloryPointChange": 5,
  "soldierRankID": 12,
  "characterName": "Taye",
  "guildName": "Ultima Deluxe",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 15,
    "gloryPoint": 7091,
    "gloryPointChange": 255,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 495,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7096,
+   "gloryPointChange": 5,
    "soldierRankID": 12
   }
  ],

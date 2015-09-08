@@ -2,14 +2,12 @@
  "characterID": 64751,
  "characterClassID": 11,
  "raceID": 0,
- "position": 126,
+ "position": 127,
  "rankingPositionChange": -1,
- "gloryPoint": 93407,
- "gloryPointChange": -49,
+ "gloryPoint": 93509,
+ "gloryPointChange": 102,
  "soldierRankID": 13,
  "characterName": "Geliyor",
- "guildName": "LETHAL",
- "guildID": 3529,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 93407,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": -1,
+   "gloryPoint": 93509,
+   "gloryPointChange": 102,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "LETHAL",
    "guildID": 3529
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

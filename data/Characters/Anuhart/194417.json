@@ -2,10 +2,10 @@
  "characterID": 194417,
  "characterClassID": 10,
  "raceID": 1,
- "position": 301,
- "rankingPositionChange": 4,
- "gloryPoint": 26606,
- "gloryPointChange": 175,
+ "position": 302,
+ "rankingPositionChange": -1,
+ "gloryPoint": 26550,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Benzaiten",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 26606,
    "gloryPointChange": 175,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 302,
+   "rankingPositionChange": -1,
+   "gloryPoint": 26550,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

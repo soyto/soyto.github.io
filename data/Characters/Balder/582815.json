@@ -2,10 +2,10 @@
  "characterID": 582815,
  "characterClassID": 2,
  "raceID": 1,
- "position": 273,
- "rankingPositionChange": -1,
- "gloryPoint": 12566,
- "gloryPointChange": 1,
+ "position": 272,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12468,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Mannaroth",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 12566,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 272,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12468,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

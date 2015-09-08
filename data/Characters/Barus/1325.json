@@ -2,10 +2,10 @@
  "characterID": 1325,
  "characterClassID": 10,
  "raceID": 1,
- "position": 332,
- "rankingPositionChange": 6,
- "gloryPoint": 45811,
- "gloryPointChange": 680,
+ "position": 334,
+ "rankingPositionChange": -2,
+ "gloryPoint": 45755,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Stopdying",
  "guildName": "DevastatioN",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 45811,
    "gloryPointChange": 680,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 334,
+   "rankingPositionChange": -2,
+   "gloryPoint": 45755,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

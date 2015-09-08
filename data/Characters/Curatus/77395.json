@@ -3,13 +3,13 @@
  "characterClassID": 16,
  "raceID": 0,
  "position": 74,
- "rankingPositionChange": 5,
- "gloryPoint": 147178,
- "gloryPointChange": 980,
+ "rankingPositionChange": 0,
+ "gloryPoint": 148069,
+ "gloryPointChange": 891,
  "soldierRankID": 14,
  "characterName": "Dekys",
- "guildName": " Enigma ",
- "guildID": 1027,
+ "guildName": "meow",
+ "guildID": 7077,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 147178,
    "gloryPointChange": 980,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 74,
+   "rankingPositionChange": 0,
+   "gloryPoint": 148069,
+   "gloryPointChange": 891,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Enigma ",
    "guildID": 1027
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "meow",
+   "guildID": 7077
   }
  ]
 }

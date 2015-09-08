@@ -2,10 +2,10 @@
  "characterID": 150321,
  "characterClassID": 8,
  "raceID": 0,
- "position": 380,
- "rankingPositionChange": 3,
- "gloryPoint": 40591,
- "gloryPointChange": 235,
+ "position": 381,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40815,
+ "gloryPointChange": 224,
  "soldierRankID": 12,
  "characterName": "Granpassoita",
  "guildName": "Eclypse",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 40591,
    "gloryPointChange": 235,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 381,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40815,
+   "gloryPointChange": 224,
    "soldierRankID": 12
   }
  ],

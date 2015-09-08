@@ -2,14 +2,14 @@
  "characterID": 180785,
  "characterClassID": 5,
  "raceID": 1,
- "position": 256,
- "rankingPositionChange": -1,
- "gloryPoint": 29122,
- "gloryPointChange": -98,
+ "position": 275,
+ "rankingPositionChange": -19,
+ "gloryPoint": 28534,
+ "gloryPointChange": -588,
  "soldierRankID": 13,
  "characterName": "Hyris",
- "guildName": "N o S",
- "guildID": 1770,
+ "guildName": "SouL  TeaR",
+ "guildID": 1039,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -210,6 +210,14 @@
    "gloryPoint": 29122,
    "gloryPointChange": -98,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 275,
+   "rankingPositionChange": -19,
+   "gloryPoint": 28534,
+   "gloryPointChange": -588,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -223,6 +231,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "N o S",
    "guildID": 1770
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "SouL  TeaR",
+   "guildID": 1039
   }
  ]
 }

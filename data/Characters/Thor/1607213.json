@@ -4,10 +4,12 @@
  "raceID": 0,
  "position": 58,
  "rankingPositionChange": 0,
- "gloryPoint": 191592,
- "gloryPointChange": 1563,
+ "gloryPoint": 192877,
+ "gloryPointChange": 1285,
  "soldierRankID": 14,
  "characterName": "Arjuun",
+ "guildName": "Born to Rage",
+ "guildID": 44496,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 191592,
    "gloryPointChange": 1563,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": 0,
+   "gloryPoint": 192877,
+   "gloryPointChange": 1285,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Born to Rage",
+   "guildID": 44496
   }
  ]
 }

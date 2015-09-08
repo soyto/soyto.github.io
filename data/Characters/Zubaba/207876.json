@@ -2,10 +2,10 @@
  "characterID": 207876,
  "characterClassID": 1,
  "raceID": 0,
- "position": 884,
- "rankingPositionChange": -4,
- "gloryPoint": 4041,
- "gloryPointChange": -7,
+ "position": 883,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4027,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Khanjar",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 4041,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 883,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4027,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

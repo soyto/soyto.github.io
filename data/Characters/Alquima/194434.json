@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 143,
- "rankingPositionChange": -1,
- "gloryPoint": 60539,
- "gloryPointChange": -49,
+ "rankingPositionChange": 0,
+ "gloryPoint": 60544,
+ "gloryPointChange": 5,
  "soldierRankID": 13,
  "characterName": "Nikkasa",
  "guildName": "Nemesis",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 60539,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 143,
+   "rankingPositionChange": 0,
+   "gloryPoint": 60544,
+   "gloryPointChange": 5,
    "soldierRankID": 13
   }
  ],

@@ -3,13 +3,13 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 962,
- "rankingPositionChange": -4,
- "gloryPoint": 7304,
- "gloryPointChange": -7,
+ "rankingPositionChange": 0,
+ "gloryPoint": 7354,
+ "gloryPointChange": 50,
  "soldierRankID": 10,
  "characterName": "Poehy",
- "guildName": "Oo FOCUS ME oO",
- "guildID": 48040,
+ "guildName": "AauiM",
+ "guildID": 48575,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 7304,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": 0,
+   "gloryPoint": 7354,
+   "gloryPointChange": 50,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -308,6 +316,11 @@
    "date": "2015-08-25T22:00:00.000Z",
    "guildName": "Oo FOCUS ME oO",
    "guildID": 48040
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "AauiM",
+   "guildID": 48575
   }
  ]
 }

@@ -2,14 +2,12 @@
  "characterID": 553479,
  "characterClassID": 14,
  "raceID": 0,
- "position": 838,
- "rankingPositionChange": -6,
- "gloryPoint": 1710,
- "gloryPointChange": -7,
+ "position": 840,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1696,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Supagun",
- "guildName": "Shining Fate",
- "guildID": 15554,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 1710,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1696,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "THUG LIFE",
    "guildID": 15554
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

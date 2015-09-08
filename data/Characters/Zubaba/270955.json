@@ -2,10 +2,10 @@
  "characterID": 270955,
  "characterClassID": 13,
  "raceID": 1,
- "position": 245,
- "rankingPositionChange": 0,
- "gloryPoint": 33951,
- "gloryPointChange": -49,
+ "position": 246,
+ "rankingPositionChange": -1,
+ "gloryPoint": 33853,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Promp",
  "guildName": "G U A R D S",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 33951,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 246,
+   "rankingPositionChange": -1,
+   "gloryPoint": 33853,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

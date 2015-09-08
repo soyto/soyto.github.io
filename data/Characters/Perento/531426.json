@@ -2,10 +2,10 @@
  "characterID": 531426,
  "characterClassID": 11,
  "raceID": 1,
- "position": 333,
- "rankingPositionChange": -1,
- "gloryPoint": 20293,
- "gloryPointChange": -22,
+ "position": 321,
+ "rankingPositionChange": 12,
+ "gloryPoint": 21500,
+ "gloryPointChange": 1207,
  "soldierRankID": 12,
  "characterName": "Mangotango",
  "guildName": "Pandemic",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 20293,
    "gloryPointChange": -22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 321,
+   "rankingPositionChange": 12,
+   "gloryPoint": 21500,
+   "gloryPointChange": 1207,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 272743,
  "characterClassID": 1,
  "raceID": 1,
- "position": 382,
- "rankingPositionChange": 5,
- "gloryPoint": 17905,
- "gloryPointChange": 292,
+ "position": 384,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17857,
+ "gloryPointChange": -48,
  "soldierRankID": 12,
  "characterName": "Bastos",
  "guildName": "Untold",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 17905,
    "gloryPointChange": 292,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 384,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17857,
+   "gloryPointChange": -48,
    "soldierRankID": 12
   }
  ],

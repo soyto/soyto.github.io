@@ -2,14 +2,12 @@
  "characterID": 1166919,
  "characterClassID": 7,
  "raceID": 1,
- "position": 43,
- "rankingPositionChange": -1,
- "gloryPoint": 135637,
- "gloryPointChange": 701,
+ "position": 42,
+ "rankingPositionChange": 1,
+ "gloryPoint": 137291,
+ "gloryPointChange": 1654,
  "soldierRankID": 14,
- "characterName": "Rawger",
- "guildName": "RaidAndWeed",
- "guildID": 38671,
+ "characterName": "Hervann",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,12 +288,24 @@
    "gloryPoint": 135637,
    "gloryPointChange": 701,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 42,
+   "rankingPositionChange": 1,
+   "gloryPoint": 137291,
+   "gloryPointChange": 1654,
+   "soldierRankID": 14
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Rawger"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Hervann"
   }
  ],
  "guilds": [
@@ -303,6 +313,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "RaidAndWeed",
    "guildID": 38671
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

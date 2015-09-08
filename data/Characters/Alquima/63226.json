@@ -2,14 +2,14 @@
  "characterID": 63226,
  "characterClassID": 1,
  "raceID": 1,
- "position": 145,
- "rankingPositionChange": 0,
- "gloryPoint": 59302,
- "gloryPointChange": -49,
+ "position": 146,
+ "rankingPositionChange": -1,
+ "gloryPoint": 59414,
+ "gloryPointChange": 112,
  "soldierRankID": 13,
  "characterName": "Kriegner",
- "guildName": " Illuminati ",
- "guildID": 2015,
+ "guildName": "STAFF",
+ "guildID": 14435,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 59302,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": -1,
+   "gloryPoint": 59414,
+   "gloryPointChange": 112,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -311,6 +319,11 @@
    "date": "2015-08-22T22:00:00.000Z",
    "guildName": " Illuminati ",
    "guildID": 2015
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "STAFF",
+   "guildID": 14435
   }
  ]
 }

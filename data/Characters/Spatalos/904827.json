@@ -2,10 +2,10 @@
  "characterID": 904827,
  "characterClassID": 5,
  "raceID": 0,
- "position": 999,
- "rankingPositionChange": -11,
- "gloryPoint": 5691,
- "gloryPointChange": -14,
+ "position": 998,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5684,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Pernix",
  "guildName": "The Wings of Freedom",
@@ -185,6 +185,14 @@
    "rankingPositionChange": -11,
    "gloryPoint": 5691,
    "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5684,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

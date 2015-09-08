@@ -2,10 +2,10 @@
  "characterID": 1101500,
  "characterClassID": 14,
  "raceID": 0,
- "position": 253,
- "rankingPositionChange": 0,
- "gloryPoint": 51712,
- "gloryPointChange": -49,
+ "position": 255,
+ "rankingPositionChange": -2,
+ "gloryPoint": 51732,
+ "gloryPointChange": 20,
  "soldierRankID": 13,
  "characterName": "Blinx",
  "guildName": "The Black Dozen",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 51712,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -2,
+   "gloryPoint": 51732,
+   "gloryPointChange": 20,
    "soldierRankID": 13
   }
  ],

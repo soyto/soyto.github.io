@@ -2,10 +2,10 @@
  "characterID": 756948,
  "characterClassID": 7,
  "raceID": 1,
- "position": 185,
- "rankingPositionChange": 1,
- "gloryPoint": 77054,
- "gloryPointChange": 399,
+ "position": 186,
+ "rankingPositionChange": -1,
+ "gloryPoint": 77872,
+ "gloryPointChange": 818,
  "soldierRankID": 13,
  "characterName": "Nervmal",
  "guildName": "SEALS INC",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 77054,
    "gloryPointChange": 399,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 186,
+   "rankingPositionChange": -1,
+   "gloryPoint": 77872,
+   "gloryPointChange": 818,
    "soldierRankID": 13
   }
  ],

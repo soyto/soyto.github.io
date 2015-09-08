@@ -2,12 +2,12 @@
  "characterID": 131589,
  "characterClassID": 14,
  "raceID": 1,
- "position": 131,
- "rankingPositionChange": 0,
- "gloryPoint": 60407,
- "gloryPointChange": 122,
+ "position": 133,
+ "rankingPositionChange": -2,
+ "gloryPoint": 60615,
+ "gloryPointChange": 208,
  "soldierRankID": 13,
- "characterName": "Darkarmony",
+ "characterName": "Ghostgirl",
  "guildName": " Arkadia ",
  "guildID": 1064,
  "status": [
@@ -290,12 +290,24 @@
    "gloryPoint": 60407,
    "gloryPointChange": 122,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 133,
+   "rankingPositionChange": -2,
+   "gloryPoint": 60615,
+   "gloryPointChange": 208,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Darkarmony"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Ghostgirl"
   }
  ],
  "guilds": [

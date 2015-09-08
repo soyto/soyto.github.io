@@ -2,10 +2,10 @@
  "characterID": 230548,
  "characterClassID": 13,
  "raceID": 1,
- "position": 265,
- "rankingPositionChange": 1,
- "gloryPoint": 30992,
- "gloryPointChange": 296,
+ "position": 267,
+ "rankingPositionChange": -2,
+ "gloryPoint": 31137,
+ "gloryPointChange": 145,
  "soldierRankID": 13,
  "characterName": "Aaylin",
  "guildName": "FightForHonor",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 30992,
    "gloryPointChange": 296,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 267,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31137,
+   "gloryPointChange": 145,
    "soldierRankID": 13
   }
  ],

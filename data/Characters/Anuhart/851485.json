@@ -2,14 +2,14 @@
  "characterID": 851485,
  "characterClassID": 14,
  "raceID": 0,
- "position": 546,
- "rankingPositionChange": -2,
- "gloryPoint": 12845,
- "gloryPointChange": -14,
+ "position": 544,
+ "rankingPositionChange": 2,
+ "gloryPoint": 12826,
+ "gloryPointChange": -19,
  "soldierRankID": 11,
  "characterName": "Depzaikhoaito",
- "guildName": "X Evil Angels X",
- "guildID": 18975,
+ "guildName": "mafia business",
+ "guildID": 21172,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 12845,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 544,
+   "rankingPositionChange": 2,
+   "gloryPoint": 12826,
+   "gloryPointChange": -19,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "X Evil Angels X",
    "guildID": 18975
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "mafia business",
+   "guildID": 21172
   }
  ]
 }

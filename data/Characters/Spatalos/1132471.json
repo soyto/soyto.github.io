@@ -2,10 +2,10 @@
  "characterID": 1132471,
  "characterClassID": 10,
  "raceID": 1,
- "position": 302,
- "rankingPositionChange": 2,
- "gloryPoint": 20145,
- "gloryPointChange": 344,
+ "position": 304,
+ "rankingPositionChange": -2,
+ "gloryPoint": 20089,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Osyiris",
  "guildName": "The Legendary Bastards",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 20145,
    "gloryPointChange": 344,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 304,
+   "rankingPositionChange": -2,
+   "gloryPoint": 20089,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

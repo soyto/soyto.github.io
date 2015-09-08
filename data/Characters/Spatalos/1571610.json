@@ -2,12 +2,14 @@
  "characterID": 1571610,
  "characterClassID": 16,
  "raceID": 1,
- "position": 498,
- "rankingPositionChange": 7,
- "gloryPoint": 8108,
- "gloryPointChange": 376,
+ "position": 493,
+ "rankingPositionChange": 5,
+ "gloryPoint": 8252,
+ "gloryPointChange": 144,
  "soldierRankID": 12,
  "characterName": "Mitsu",
+ "guildName": "Haters Gonna Hate",
+ "guildID": 29296,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 8108,
    "gloryPointChange": 376,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 493,
+   "rankingPositionChange": 5,
+   "gloryPoint": 8252,
+   "gloryPointChange": 144,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -317,6 +327,11 @@
   },
   {
    "date": "2015-08-14T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Haters Gonna Hate",
+   "guildID": 29296
   }
  ]
 }

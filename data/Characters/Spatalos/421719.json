@@ -2,10 +2,10 @@
  "characterID": 421719,
  "characterClassID": 11,
  "raceID": 1,
- "position": 110,
- "rankingPositionChange": 1,
- "gloryPoint": 66359,
- "gloryPointChange": 731,
+ "position": 111,
+ "rankingPositionChange": -1,
+ "gloryPoint": 66464,
+ "gloryPointChange": 105,
  "soldierRankID": 13,
  "characterName": "Chelathiel",
  "guildName": "Divine Bloodline",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 66359,
    "gloryPointChange": 731,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 111,
+   "rankingPositionChange": -1,
+   "gloryPoint": 66464,
+   "gloryPointChange": 105,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 123954,
  "characterClassID": 11,
  "raceID": 1,
- "position": 626,
- "rankingPositionChange": -3,
- "gloryPoint": 8603,
- "gloryPointChange": -11,
+ "position": 625,
+ "rankingPositionChange": 1,
+ "gloryPoint": 8625,
+ "gloryPointChange": 22,
  "soldierRankID": 11,
  "characterName": "Temi",
  "guildName": "DarkWish",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 8603,
    "gloryPointChange": -11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 625,
+   "rankingPositionChange": 1,
+   "gloryPoint": 8625,
+   "gloryPointChange": 22,
    "soldierRankID": 11
   }
  ],

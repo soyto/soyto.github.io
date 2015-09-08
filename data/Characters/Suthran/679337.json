@@ -2,10 +2,10 @@
  "characterID": 679337,
  "characterClassID": 8,
  "raceID": 0,
- "position": 670,
- "rankingPositionChange": 0,
- "gloryPoint": 22038,
- "gloryPointChange": 11,
+ "position": 671,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22010,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Tueurelios",
  "guildName": "Mirages",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 22038,
    "gloryPointChange": 11,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 671,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22010,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

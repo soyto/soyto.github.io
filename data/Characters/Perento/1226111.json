@@ -2,10 +2,10 @@
  "characterID": 1226111,
  "characterClassID": 2,
  "raceID": 1,
- "position": 104,
- "rankingPositionChange": 1,
- "gloryPoint": 104418,
- "gloryPointChange": 1940,
+ "position": 105,
+ "rankingPositionChange": -1,
+ "gloryPoint": 104485,
+ "gloryPointChange": 67,
  "soldierRankID": 13,
  "characterName": "Bojna",
  "guildName": "Eternal Army",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 104418,
    "gloryPointChange": 1940,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": -1,
+   "gloryPoint": 104485,
+   "gloryPointChange": 67,
    "soldierRankID": 13
   }
  ],

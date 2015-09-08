@@ -2,10 +2,10 @@
  "characterID": 345728,
  "characterClassID": 1,
  "raceID": 1,
- "position": 407,
- "rankingPositionChange": 0,
- "gloryPoint": 6117,
- "gloryPointChange": -28,
+ "position": 412,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6061,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Onslaughter",
  "guildName": "Never Say No To Panda",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6117,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 412,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6061,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

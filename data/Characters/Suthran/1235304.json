@@ -2,12 +2,14 @@
  "characterID": 1235304,
  "characterClassID": 5,
  "raceID": 1,
- "position": 721,
- "rankingPositionChange": -2,
- "gloryPoint": 9227,
- "gloryPointChange": -7,
+ "position": 726,
+ "rankingPositionChange": -5,
+ "gloryPoint": 9213,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Mityque",
+ "guildName": "Oo UltiOniS oO",
+ "guildID": 25122,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 9227,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 726,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9213,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Oo UltiOniS oO",
+   "guildID": 25122
   }
  ]
 }

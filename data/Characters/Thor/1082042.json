@@ -2,10 +2,10 @@
  "characterID": 1082042,
  "characterClassID": 10,
  "raceID": 0,
- "position": 999,
- "rankingPositionChange": -7,
- "gloryPoint": 13580,
- "gloryPointChange": -7,
+ "position": 998,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13566,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Yibbez",
  "guildName": "Crash Boom Bang",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -7,
    "gloryPoint": 13580,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13566,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

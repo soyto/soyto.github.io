@@ -3,13 +3,11 @@
  "characterClassID": 10,
  "raceID": 0,
  "position": 796,
- "rankingPositionChange": -6,
- "gloryPoint": 6758,
- "gloryPointChange": -7,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6744,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Innaki",
- "guildName": "LionHeart",
- "guildID": 1122,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 6758,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 796,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6744,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "LionHeart",
    "guildID": 1122
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

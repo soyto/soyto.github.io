@@ -3,9 +3,9 @@
  "characterClassID": 7,
  "raceID": 0,
  "position": 790,
- "rankingPositionChange": 2,
- "gloryPoint": 6869,
- "gloryPointChange": 155,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6855,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Horrorstory",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 6869,
    "gloryPointChange": 155,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 790,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6855,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

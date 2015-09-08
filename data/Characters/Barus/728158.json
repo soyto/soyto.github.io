@@ -2,14 +2,14 @@
  "characterID": 728158,
  "characterClassID": 8,
  "raceID": 1,
- "position": 990,
- "rankingPositionChange": -3,
- "gloryPoint": 9504,
- "gloryPointChange": -4,
+ "position": 984,
+ "rankingPositionChange": 6,
+ "gloryPoint": 9696,
+ "gloryPointChange": 192,
  "soldierRankID": 10,
  "characterName": "Flaminis",
- "guildName": "RAMPAGE",
- "guildID": 13070,
+ "guildName": " U n d e f i n e D ",
+ "guildID": 13329,
  "status": [
   {
    "date": "2015-09-04T22:00:00.000Z",
@@ -26,6 +26,14 @@
    "gloryPoint": 9504,
    "gloryPointChange": -4,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 984,
+   "rankingPositionChange": 6,
+   "gloryPoint": 9696,
+   "gloryPointChange": 192,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -39,6 +47,11 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "RAMPAGE",
    "guildID": 13070
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " U n d e f i n e D ",
+   "guildID": 13329
   }
  ]
 }

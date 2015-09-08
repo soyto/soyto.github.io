@@ -2,14 +2,12 @@
  "characterID": 1501989,
  "characterClassID": 1,
  "raceID": 0,
- "position": 241,
- "rankingPositionChange": -1,
- "gloryPoint": 69192,
- "gloryPointChange": 750,
+ "position": 239,
+ "rankingPositionChange": 2,
+ "gloryPoint": 70443,
+ "gloryPointChange": 1251,
  "soldierRankID": 13,
  "characterName": "Syrose",
- "guildName": " Flawless ",
- "guildID": 46156,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +272,14 @@
    "gloryPoint": 69192,
    "gloryPointChange": 750,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 239,
+   "rankingPositionChange": 2,
+   "gloryPoint": 70443,
+   "gloryPointChange": 1251,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +310,9 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": " Flawless ",
    "guildID": 46156
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

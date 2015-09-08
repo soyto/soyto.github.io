@@ -2,10 +2,10 @@
  "characterID": 1463795,
  "characterClassID": 5,
  "raceID": 1,
- "position": 127,
- "rankingPositionChange": 1,
- "gloryPoint": 73615,
- "gloryPointChange": 383,
+ "position": 128,
+ "rankingPositionChange": -1,
+ "gloryPoint": 74047,
+ "gloryPointChange": 432,
  "soldierRankID": 13,
  "characterName": "Asarrow",
  "guildName": "ATIKA",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 73615,
    "gloryPointChange": 383,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": -1,
+   "gloryPoint": 74047,
+   "gloryPointChange": 432,
    "soldierRankID": 13
   }
  ],

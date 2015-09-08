@@ -2,10 +2,10 @@
  "characterID": 1285377,
  "characterClassID": 16,
  "raceID": 1,
- "position": 245,
- "rankingPositionChange": 6,
- "gloryPoint": 44476,
- "gloryPointChange": 587,
+ "position": 250,
+ "rankingPositionChange": -5,
+ "gloryPoint": 44378,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Nivoma",
  "guildName": "Drake",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 44476,
    "gloryPointChange": 587,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 250,
+   "rankingPositionChange": -5,
+   "gloryPoint": 44378,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

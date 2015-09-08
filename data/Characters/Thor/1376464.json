@@ -2,10 +2,10 @@
  "characterID": 1376464,
  "characterClassID": 5,
  "raceID": 0,
- "position": 785,
- "rankingPositionChange": 5,
- "gloryPoint": 21356,
- "gloryPointChange": 331,
+ "position": 790,
+ "rankingPositionChange": -5,
+ "gloryPoint": 21342,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Tellyox",
  "guildName": "  Pink Fluffy Unicorns  ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 21356,
    "gloryPointChange": 331,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 790,
+   "rankingPositionChange": -5,
+   "gloryPoint": 21342,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

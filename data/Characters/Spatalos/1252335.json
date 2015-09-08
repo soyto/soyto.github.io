@@ -2,10 +2,10 @@
  "characterID": 1252335,
  "characterClassID": 1,
  "raceID": 0,
- "position": 811,
- "rankingPositionChange": -4,
- "gloryPoint": 10004,
- "gloryPointChange": -7,
+ "position": 802,
+ "rankingPositionChange": 9,
+ "gloryPoint": 10163,
+ "gloryPointChange": 159,
  "soldierRankID": 10,
  "characterName": "Horme",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 10004,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 802,
+   "rankingPositionChange": 9,
+   "gloryPoint": 10163,
+   "gloryPointChange": 159,
    "soldierRankID": 10
   }
  ],

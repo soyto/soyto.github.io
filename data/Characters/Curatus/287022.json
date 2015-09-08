@@ -2,10 +2,10 @@
  "characterID": 287022,
  "characterClassID": 10,
  "raceID": 0,
- "position": 977,
- "rankingPositionChange": 1,
- "gloryPoint": 8655,
- "gloryPointChange": 145,
+ "position": 978,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8641,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Opul",
  "guildName": "Ali Della Liberta",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 8655,
    "gloryPointChange": 145,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8641,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

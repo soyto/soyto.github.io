@@ -2,10 +2,10 @@
  "characterID": 358505,
  "characterClassID": 11,
  "raceID": 1,
- "position": 64,
- "rankingPositionChange": 0,
- "gloryPoint": 32307,
- "gloryPointChange": 574,
+ "position": 65,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32093,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Shirayukii",
  "guildName": "Consumpti Oath",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 32307,
    "gloryPointChange": 574,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32093,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

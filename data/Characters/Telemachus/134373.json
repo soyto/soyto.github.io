@@ -2,10 +2,10 @@
  "characterID": 134373,
  "characterClassID": 1,
  "raceID": 0,
- "position": 370,
- "rankingPositionChange": 1,
- "gloryPoint": 36577,
- "gloryPointChange": -28,
+ "position": 371,
+ "rankingPositionChange": -1,
+ "gloryPoint": 36521,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Freeday",
  "status": [
@@ -79,6 +79,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 36577,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 371,
+   "rankingPositionChange": -1,
+   "gloryPoint": 36521,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

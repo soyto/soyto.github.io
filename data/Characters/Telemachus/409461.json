@@ -2,10 +2,10 @@
  "characterID": 409461,
  "characterClassID": 5,
  "raceID": 1,
- "position": 362,
- "rankingPositionChange": 1,
- "gloryPoint": 8188,
- "gloryPointChange": -28,
+ "position": 364,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8132,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Hinta",
  "guildName": "Ordem Secreta",
@@ -257,6 +257,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 8188,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8132,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

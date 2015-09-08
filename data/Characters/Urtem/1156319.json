@@ -2,10 +2,10 @@
  "characterID": 1156319,
  "characterClassID": 16,
  "raceID": 1,
- "position": 992,
- "rankingPositionChange": -7,
- "gloryPoint": 6888,
- "gloryPointChange": -7,
+ "position": 991,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6874,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Anriune",
  "guildName": "Eskadrille",
@@ -209,6 +209,14 @@
    "rankingPositionChange": -7,
    "gloryPoint": 6888,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6874,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

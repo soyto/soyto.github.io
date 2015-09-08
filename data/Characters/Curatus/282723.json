@@ -2,12 +2,14 @@
  "characterID": 282723,
  "characterClassID": 10,
  "raceID": 1,
- "position": 534,
- "rankingPositionChange": 1,
- "gloryPoint": 11361,
- "gloryPointChange": 107,
+ "position": 530,
+ "rankingPositionChange": 4,
+ "gloryPoint": 11573,
+ "gloryPointChange": 212,
  "soldierRankID": 11,
  "characterName": "Dipsy",
+ "guildName": "Prepotenti",
+ "guildID": 5129,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 11361,
    "gloryPointChange": 107,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 530,
+   "rankingPositionChange": 4,
+   "gloryPoint": 11573,
+   "gloryPointChange": 212,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-30T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Prepotenti",
+   "guildID": 5129
   }
  ]
 }

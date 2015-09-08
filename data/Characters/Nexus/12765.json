@@ -2,14 +2,12 @@
  "characterID": 12765,
  "characterClassID": 7,
  "raceID": 0,
- "position": 107,
- "rankingPositionChange": 1,
- "gloryPoint": 88097,
- "gloryPointChange": -49,
+ "position": 109,
+ "rankingPositionChange": -2,
+ "gloryPoint": 87999,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Dzulias",
- "guildName": "ChillOut",
- "guildID": 1506,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 88097,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 109,
+   "rankingPositionChange": -2,
+   "gloryPoint": 87999,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "ChillOut",
    "guildID": 1506
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

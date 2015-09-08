@@ -2,10 +2,10 @@
  "characterID": 527518,
  "characterClassID": 10,
  "raceID": 0,
- "position": 542,
- "rankingPositionChange": 5,
- "gloryPoint": 21394,
- "gloryPointChange": 166,
+ "position": 543,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21484,
+ "gloryPointChange": 90,
  "soldierRankID": 11,
  "characterName": "Vassalord",
  "guildName": "XFORM",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 21394,
    "gloryPointChange": 166,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 543,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21484,
+   "gloryPointChange": 90,
    "soldierRankID": 11
   }
  ],

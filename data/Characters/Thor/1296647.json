@@ -2,14 +2,12 @@
  "characterID": 1296647,
  "characterClassID": 11,
  "raceID": 0,
- "position": 819,
- "rankingPositionChange": -10,
- "gloryPoint": 20263,
- "gloryPointChange": -7,
+ "position": 815,
+ "rankingPositionChange": 4,
+ "gloryPoint": 20339,
+ "gloryPointChange": 76,
  "soldierRankID": 10,
  "characterName": "Symptom",
- "guildName": "Animexx",
- "guildID": 13787,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 20263,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 815,
+   "rankingPositionChange": 4,
+   "gloryPoint": 20339,
+   "gloryPointChange": 76,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -307,6 +313,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Animexx",
    "guildID": 13787
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

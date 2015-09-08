@@ -2,10 +2,10 @@
  "characterID": 288901,
  "characterClassID": 10,
  "raceID": 0,
- "position": 244,
- "rankingPositionChange": 0,
- "gloryPoint": 50016,
- "gloryPointChange": -49,
+ "position": 245,
+ "rankingPositionChange": -1,
+ "gloryPoint": 49918,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Albya",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 50016,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": -1,
+   "gloryPoint": 49918,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 457240,
  "characterClassID": 7,
  "raceID": 1,
- "position": 649,
- "rankingPositionChange": -8,
- "gloryPoint": 1692,
- "gloryPointChange": -28,
- "soldierRankID": 11,
+ "position": 705,
+ "rankingPositionChange": -56,
+ "gloryPoint": 1406,
+ "gloryPointChange": -286,
+ "soldierRankID": 10,
  "characterName": "Obula",
- "guildName": "Veterans",
- "guildID": 1100,
+ "guildName": "K a r m a",
+ "guildID": 14900,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -114,6 +114,14 @@
    "gloryPoint": 1692,
    "gloryPointChange": -28,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 705,
+   "rankingPositionChange": -56,
+   "gloryPoint": 1406,
+   "gloryPointChange": -286,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -127,6 +135,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Veterans",
    "guildID": 1100
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "K a r m a",
+   "guildID": 14900
   }
  ]
 }

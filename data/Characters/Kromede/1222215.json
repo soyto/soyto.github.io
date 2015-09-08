@@ -2,10 +2,10 @@
  "characterID": 1222215,
  "characterClassID": 2,
  "raceID": 0,
- "position": 392,
- "rankingPositionChange": -2,
- "gloryPoint": 31686,
- "gloryPointChange": -25,
+ "position": 382,
+ "rankingPositionChange": 10,
+ "gloryPoint": 32333,
+ "gloryPointChange": 647,
  "soldierRankID": 12,
  "characterName": "Aova",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 31686,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 382,
+   "rankingPositionChange": 10,
+   "gloryPoint": 32333,
+   "gloryPointChange": 647,
    "soldierRankID": 12
   }
  ],

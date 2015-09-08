@@ -2,12 +2,14 @@
  "characterID": 1407286,
  "characterClassID": 1,
  "raceID": 0,
- "position": 738,
- "rankingPositionChange": -5,
- "gloryPoint": 23939,
- "gloryPointChange": -7,
+ "position": 737,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23925,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Babonga",
+ "guildName": "Mad Rulez",
+ "guildID": 48454,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -232,6 +234,14 @@
    "gloryPoint": 23939,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 737,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23925,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -243,6 +253,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Mad Rulez",
+   "guildID": 48454
   }
  ]
 }

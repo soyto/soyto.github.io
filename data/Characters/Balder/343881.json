@@ -2,10 +2,10 @@
  "characterID": 343881,
  "characterClassID": 2,
  "raceID": 1,
- "position": 128,
- "rankingPositionChange": 0,
- "gloryPoint": 46566,
- "gloryPointChange": 12,
+ "position": 130,
+ "rankingPositionChange": -2,
+ "gloryPoint": 46468,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Iring",
  "guildName": "The Lost Soldiers",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 46566,
    "gloryPointChange": 12,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 130,
+   "rankingPositionChange": -2,
+   "gloryPoint": 46468,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

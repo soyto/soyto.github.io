@@ -2,10 +2,10 @@
  "characterID": 115108,
  "characterClassID": 10,
  "raceID": 0,
- "position": 457,
- "rankingPositionChange": 2,
- "gloryPoint": 30987,
- "gloryPointChange": 92,
+ "position": 459,
+ "rankingPositionChange": -2,
+ "gloryPoint": 31147,
+ "gloryPointChange": 160,
  "soldierRankID": 12,
  "characterName": "Sahaja",
  "guildName": "Heavenly",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 30987,
    "gloryPointChange": 92,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 459,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31147,
+   "gloryPointChange": 160,
    "soldierRankID": 12
   }
  ],

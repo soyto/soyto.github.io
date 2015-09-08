@@ -2,10 +2,10 @@
  "characterID": 161694,
  "characterClassID": 14,
  "raceID": 0,
- "position": 509,
- "rankingPositionChange": -1,
- "gloryPoint": 14708,
- "gloryPointChange": -14,
+ "position": 508,
+ "rankingPositionChange": 1,
+ "gloryPoint": 14680,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Whelp",
  "status": [
@@ -143,6 +143,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 14708,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": 1,
+   "gloryPoint": 14680,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

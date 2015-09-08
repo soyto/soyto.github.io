@@ -2,10 +2,10 @@
  "characterID": 1450480,
  "characterClassID": 8,
  "raceID": 1,
- "position": 904,
- "rankingPositionChange": 0,
- "gloryPoint": 2372,
- "gloryPointChange": 0,
+ "position": 938,
+ "rankingPositionChange": -34,
+ "gloryPoint": 2365,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Femmefatalle",
  "status": [
@@ -135,6 +135,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 2372,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 938,
+   "rankingPositionChange": -34,
+   "gloryPoint": 2365,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

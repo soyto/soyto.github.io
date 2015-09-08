@@ -2,10 +2,10 @@
  "characterID": 120948,
  "characterClassID": 5,
  "raceID": 1,
- "position": 829,
- "rankingPositionChange": -6,
- "gloryPoint": 13719,
- "gloryPointChange": -7,
+ "position": 828,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13705,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Grundol",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 13719,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 828,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13705,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

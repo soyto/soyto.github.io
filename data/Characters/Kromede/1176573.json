@@ -2,10 +2,10 @@
  "characterID": 1176573,
  "characterClassID": 14,
  "raceID": 0,
- "position": 509,
- "rankingPositionChange": -1,
- "gloryPoint": 23732,
- "gloryPointChange": -14,
+ "position": 505,
+ "rankingPositionChange": 4,
+ "gloryPoint": 23704,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Springfield",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 23732,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 505,
+   "rankingPositionChange": 4,
+   "gloryPoint": 23704,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

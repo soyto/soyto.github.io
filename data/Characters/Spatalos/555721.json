@@ -2,10 +2,10 @@
  "characterID": 555721,
  "characterClassID": 4,
  "raceID": 0,
- "position": 724,
- "rankingPositionChange": -1,
- "gloryPoint": 13570,
- "gloryPointChange": -4,
+ "position": 719,
+ "rankingPositionChange": 5,
+ "gloryPoint": 13556,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Zodiakus",
  "guildName": " majestic ",
@@ -225,6 +225,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 13570,
    "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 719,
+   "rankingPositionChange": 5,
+   "gloryPoint": 13556,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

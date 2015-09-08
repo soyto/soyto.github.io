@@ -2,10 +2,10 @@
  "characterID": 414039,
  "characterClassID": 14,
  "raceID": 0,
- "position": 550,
- "rankingPositionChange": 34,
- "gloryPoint": 2289,
- "gloryPointChange": 361,
+ "position": 549,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2261,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Sunnydancer",
  "guildName": "The Ducks",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 34,
    "gloryPoint": 2289,
    "gloryPointChange": 361,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 549,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2261,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

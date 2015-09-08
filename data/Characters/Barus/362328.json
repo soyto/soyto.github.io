@@ -2,10 +2,10 @@
  "characterID": 362328,
  "characterClassID": 10,
  "raceID": 0,
- "position": 664,
- "rankingPositionChange": 5,
- "gloryPoint": 20734,
- "gloryPointChange": 86,
+ "position": 667,
+ "rankingPositionChange": -3,
+ "gloryPoint": 20756,
+ "gloryPointChange": 22,
  "soldierRankID": 11,
  "characterName": "Lattia",
  "guildName": "Fide Cui Vide",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 20734,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 667,
+   "rankingPositionChange": -3,
+   "gloryPoint": 20756,
+   "gloryPointChange": 22,
    "soldierRankID": 11
   }
  ],

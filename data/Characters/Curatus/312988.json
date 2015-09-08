@@ -2,10 +2,10 @@
  "characterID": 312988,
  "characterClassID": 8,
  "raceID": 1,
- "position": 182,
- "rankingPositionChange": -3,
- "gloryPoint": 43618,
- "gloryPointChange": -49,
+ "position": 180,
+ "rankingPositionChange": 2,
+ "gloryPoint": 44118,
+ "gloryPointChange": 500,
  "soldierRankID": 13,
  "characterName": "Gandhalph",
  "guildName": "DarkWish",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 43618,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 180,
+   "rankingPositionChange": 2,
+   "gloryPoint": 44118,
+   "gloryPointChange": 500,
    "soldierRankID": 13
   }
  ],

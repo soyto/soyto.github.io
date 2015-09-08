@@ -2,10 +2,10 @@
  "characterID": 434204,
  "characterClassID": 10,
  "raceID": 0,
- "position": 92,
- "rankingPositionChange": 0,
- "gloryPoint": 99850,
- "gloryPointChange": 810,
+ "position": 93,
+ "rankingPositionChange": -1,
+ "gloryPoint": 100210,
+ "gloryPointChange": 360,
  "soldierRankID": 14,
  "characterName": "Daztan",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 99850,
    "gloryPointChange": 810,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": -1,
+   "gloryPoint": 100210,
+   "gloryPointChange": 360,
    "soldierRankID": 14
   }
  ],

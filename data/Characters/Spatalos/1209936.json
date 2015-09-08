@@ -2,10 +2,10 @@
  "characterID": 1209936,
  "characterClassID": 11,
  "raceID": 1,
- "position": 415,
- "rankingPositionChange": -2,
- "gloryPoint": 11800,
- "gloryPointChange": -28,
+ "position": 413,
+ "rankingPositionChange": 2,
+ "gloryPoint": 11744,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Sotka",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 11800,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 413,
+   "rankingPositionChange": 2,
+   "gloryPoint": 11744,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

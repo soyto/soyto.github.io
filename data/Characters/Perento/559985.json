@@ -2,10 +2,10 @@
  "characterID": 559985,
  "characterClassID": 11,
  "raceID": 1,
- "position": 479,
- "rankingPositionChange": 6,
- "gloryPoint": 9019,
- "gloryPointChange": 156,
+ "position": 480,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9027,
+ "gloryPointChange": 8,
  "soldierRankID": 12,
  "characterName": "Fiifth",
  "guildName": "Hope",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 9019,
    "gloryPointChange": 156,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 480,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9027,
+   "gloryPointChange": 8,
    "soldierRankID": 12
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 1028419,
  "characterClassID": 10,
  "raceID": 0,
- "position": 90,
- "rankingPositionChange": 1,
- "gloryPoint": 163064,
- "gloryPointChange": 980,
+ "position": 91,
+ "rankingPositionChange": -1,
+ "gloryPoint": 163461,
+ "gloryPointChange": 397,
  "soldierRankID": 14,
  "characterName": "Nyktimene",
- "guildName": "Die Eulen Gang",
- "guildID": 48615,
+ "guildName": "Krit Passion Christi",
+ "guildID": 48442,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 163064,
    "gloryPointChange": 980,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 91,
+   "rankingPositionChange": -1,
+   "gloryPoint": 163461,
+   "gloryPointChange": 397,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -311,6 +319,11 @@
    "date": "2015-08-28T22:00:00.000Z",
    "guildName": "Die Eulen Gang",
    "guildID": 48615
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Krit Passion Christi",
+   "guildID": 48442
   }
  ]
 }

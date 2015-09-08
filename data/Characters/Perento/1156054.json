@@ -2,10 +2,10 @@
  "characterID": 1156054,
  "characterClassID": 14,
  "raceID": 1,
- "position": 24,
- "rankingPositionChange": 0,
- "gloryPoint": 246085,
- "gloryPointChange": 1229,
+ "position": 25,
+ "rankingPositionChange": -1,
+ "gloryPoint": 247303,
+ "gloryPointChange": 1218,
  "soldierRankID": 15,
  "characterName": "Nekroad",
  "guildName": "IX Legion",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 246085,
    "gloryPointChange": 1229,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 25,
+   "rankingPositionChange": -1,
+   "gloryPoint": 247303,
+   "gloryPointChange": 1218,
    "soldierRankID": 15
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 193562,
  "characterClassID": 4,
  "raceID": 1,
- "position": 772,
- "rankingPositionChange": 2,
- "gloryPoint": 15418,
- "gloryPointChange": 83,
+ "position": 776,
+ "rankingPositionChange": -4,
+ "gloryPoint": 15432,
+ "gloryPointChange": 14,
  "soldierRankID": 10,
  "characterName": "Asmodeuss",
  "guildName": "Death Hunters",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 15418,
    "gloryPointChange": 83,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 776,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15432,
+   "gloryPointChange": 14,
    "soldierRankID": 10
   }
  ],

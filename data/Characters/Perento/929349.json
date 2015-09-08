@@ -2,14 +2,14 @@
  "characterID": 929349,
  "characterClassID": 8,
  "raceID": 1,
- "position": 865,
- "rankingPositionChange": 12,
- "gloryPoint": 2190,
- "gloryPointChange": 93,
+ "position": 859,
+ "rankingPositionChange": 6,
+ "gloryPoint": 2176,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Dragoof",
- "guildName": "Chaos Daeva",
- "guildID": 28480,
+ "guildName": "PwnStar",
+ "guildID": 28810,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 2190,
    "gloryPointChange": 93,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 859,
+   "rankingPositionChange": 6,
+   "gloryPoint": 2176,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -306,6 +314,11 @@
    "date": "2015-08-16T22:00:00.000Z",
    "guildName": "Chaos Daeva",
    "guildID": 28480
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "PwnStar",
+   "guildID": 28810
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 687322,
  "characterClassID": 7,
  "raceID": 0,
- "position": 27,
- "rankingPositionChange": 0,
- "gloryPoint": 169302,
- "gloryPointChange": 1088,
+ "position": 29,
+ "rankingPositionChange": -2,
+ "gloryPoint": 169226,
+ "gloryPointChange": -76,
  "soldierRankID": 15,
  "characterName": "Xamika",
  "guildName": "HellsArmy",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 169302,
    "gloryPointChange": 1088,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 29,
+   "rankingPositionChange": -2,
+   "gloryPoint": 169226,
+   "gloryPointChange": -76,
    "soldierRankID": 15
   }
  ],

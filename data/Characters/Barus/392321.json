@@ -2,10 +2,10 @@
  "characterID": 392321,
  "characterClassID": 1,
  "raceID": 0,
- "position": 351,
- "rankingPositionChange": 1,
- "gloryPoint": 41910,
- "gloryPointChange": 233,
+ "position": 354,
+ "rankingPositionChange": -3,
+ "gloryPoint": 42190,
+ "gloryPointChange": 280,
  "soldierRankID": 12,
  "characterName": "Orusah",
  "guildName": " Clearly Hacking ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 41910,
    "gloryPointChange": 233,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 354,
+   "rankingPositionChange": -3,
+   "gloryPoint": 42190,
+   "gloryPointChange": 280,
    "soldierRankID": 12
   }
  ],

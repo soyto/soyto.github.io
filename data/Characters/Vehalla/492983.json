@@ -2,12 +2,14 @@
  "characterID": 492983,
  "characterClassID": 11,
  "raceID": 0,
- "position": 235,
- "rankingPositionChange": 1,
- "gloryPoint": 17976,
- "gloryPointChange": 351,
+ "position": 233,
+ "rankingPositionChange": 2,
+ "gloryPoint": 18067,
+ "gloryPointChange": 91,
  "soldierRankID": 13,
  "characterName": "Aiden",
+ "guildName": "Dead Elyos Society",
+ "guildID": 13363,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 17976,
    "gloryPointChange": 351,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 233,
+   "rankingPositionChange": 2,
+   "gloryPoint": 18067,
+   "gloryPointChange": 91,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Dead Elyos Society",
+   "guildID": 13363
   }
  ]
 }

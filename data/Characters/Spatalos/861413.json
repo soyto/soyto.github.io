@@ -2,12 +2,14 @@
  "characterID": 861413,
  "characterClassID": 11,
  "raceID": 1,
- "position": 184,
- "rankingPositionChange": -1,
- "gloryPoint": 36037,
- "gloryPointChange": -49,
+ "position": 183,
+ "rankingPositionChange": 1,
+ "gloryPoint": 36498,
+ "gloryPointChange": 461,
  "soldierRankID": 13,
  "characterName": "Lamess",
+ "guildName": "Bar",
+ "guildID": 30447,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 36037,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 183,
+   "rankingPositionChange": 1,
+   "gloryPoint": 36498,
+   "gloryPointChange": 461,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -322,6 +332,11 @@
   },
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Bar",
+   "guildID": 30447
   }
  ]
 }

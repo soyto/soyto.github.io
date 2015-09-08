@@ -2,14 +2,14 @@
  "characterID": 192314,
  "characterClassID": 11,
  "raceID": 1,
- "position": 412,
- "rankingPositionChange": 1,
- "gloryPoint": 14107,
- "gloryPointChange": 72,
+ "position": 406,
+ "rankingPositionChange": 6,
+ "gloryPoint": 14401,
+ "gloryPointChange": 294,
  "soldierRankID": 12,
  "characterName": "Lamagra",
- "guildName": "V for Vendetta",
- "guildID": 1639,
+ "guildName": " GANGSTA  ",
+ "guildID": 6690,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 14107,
    "gloryPointChange": 72,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 406,
+   "rankingPositionChange": 6,
+   "gloryPoint": 14401,
+   "gloryPointChange": 294,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -324,6 +332,11 @@
    "date": "2015-08-16T22:00:00.000Z",
    "guildName": "V for Vendetta",
    "guildID": 1639
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " GANGSTA  ",
+   "guildID": 6690
   }
  ]
 }

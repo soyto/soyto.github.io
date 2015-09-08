@@ -2,10 +2,10 @@
  "characterID": 412318,
  "characterClassID": 2,
  "raceID": 0,
- "position": 854,
- "rankingPositionChange": 4,
- "gloryPoint": 1598,
- "gloryPointChange": 43,
+ "position": 855,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1584,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Ametazu",
  "guildName": "NoPainNoKinah",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 1598,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 855,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1584,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

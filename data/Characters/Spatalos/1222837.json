@@ -2,10 +2,10 @@
  "characterID": 1222837,
  "characterClassID": 1,
  "raceID": 1,
- "position": 133,
- "rankingPositionChange": -4,
- "gloryPoint": 53989,
- "gloryPointChange": -49,
+ "position": 132,
+ "rankingPositionChange": 1,
+ "gloryPoint": 53891,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Dartmeer",
  "guildName": "Lionhearts",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 53989,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": 1,
+   "gloryPoint": 53891,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

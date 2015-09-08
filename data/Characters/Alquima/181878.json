@@ -2,10 +2,10 @@
  "characterID": 181878,
  "characterClassID": 16,
  "raceID": 1,
- "position": 80,
- "rankingPositionChange": 0,
- "gloryPoint": 93929,
- "gloryPointChange": 329,
+ "position": 81,
+ "rankingPositionChange": -1,
+ "gloryPoint": 94265,
+ "gloryPointChange": 336,
  "soldierRankID": 14,
  "characterName": "Enjoy",
  "guildName": "Fluffy Unicorns",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 93929,
    "gloryPointChange": 329,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 81,
+   "rankingPositionChange": -1,
+   "gloryPoint": 94265,
+   "gloryPointChange": 336,
    "soldierRankID": 14
   }
  ],

@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 85,
- "rankingPositionChange": 1,
- "gloryPoint": 145337,
- "gloryPointChange": 843,
+ "rankingPositionChange": 0,
+ "gloryPoint": 145185,
+ "gloryPointChange": -152,
  "soldierRankID": 14,
  "characterName": "Genschaia",
  "guildName": "Evolution",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 145337,
    "gloryPointChange": 843,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 85,
+   "rankingPositionChange": 0,
+   "gloryPoint": 145185,
+   "gloryPointChange": -152,
    "soldierRankID": 14
   }
  ],

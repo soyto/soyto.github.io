@@ -2,12 +2,14 @@
  "characterID": 74946,
  "characterClassID": 7,
  "raceID": 0,
- "position": 571,
- "rankingPositionChange": -1,
- "gloryPoint": 12506,
- "gloryPointChange": -14,
+ "position": 570,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12481,
+ "gloryPointChange": -25,
  "soldierRankID": 11,
  "characterName": "Cadee",
+ "guildName": "No Problem",
+ "guildID": 2610,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -184,6 +186,14 @@
    "gloryPoint": 12506,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 570,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12481,
+   "gloryPointChange": -25,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -195,6 +205,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "No Problem",
+   "guildID": 2610
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 1233104,
  "characterClassID": 5,
  "raceID": 1,
- "position": 821,
- "rankingPositionChange": 0,
- "gloryPoint": 4175,
- "gloryPointChange": 0,
+ "position": 829,
+ "rankingPositionChange": -8,
+ "gloryPoint": 4161,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Gizzmoh",
  "status": [
@@ -15,6 +15,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 4175,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 829,
+   "rankingPositionChange": -8,
+   "gloryPoint": 4161,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

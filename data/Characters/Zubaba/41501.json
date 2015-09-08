@@ -2,10 +2,10 @@
  "characterID": 41501,
  "characterClassID": 14,
  "raceID": 0,
- "position": 31,
- "rankingPositionChange": 0,
- "gloryPoint": 195969,
- "gloryPointChange": 813,
+ "position": 32,
+ "rankingPositionChange": -1,
+ "gloryPoint": 197804,
+ "gloryPointChange": 1835,
  "soldierRankID": 14,
  "characterName": "Flume",
  "guildName": "LETHAL",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 195969,
    "gloryPointChange": 813,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 32,
+   "rankingPositionChange": -1,
+   "gloryPoint": 197804,
+   "gloryPointChange": 1835,
    "soldierRankID": 14
   }
  ],

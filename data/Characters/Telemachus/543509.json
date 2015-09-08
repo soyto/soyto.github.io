@@ -2,10 +2,10 @@
  "characterID": 543509,
  "characterClassID": 10,
  "raceID": 1,
- "position": 474,
- "rankingPositionChange": 5,
- "gloryPoint": 3702,
- "gloryPointChange": 72,
+ "position": 480,
+ "rankingPositionChange": -6,
+ "gloryPoint": 3646,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Chafra",
  "guildName": "Sweet Love",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 3702,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 480,
+   "rankingPositionChange": -6,
+   "gloryPoint": 3646,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

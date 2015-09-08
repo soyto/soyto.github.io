@@ -2,10 +2,10 @@
  "characterID": 778574,
  "characterClassID": 1,
  "raceID": 1,
- "position": 168,
- "rankingPositionChange": 1,
- "gloryPoint": 64873,
- "gloryPointChange": -49,
+ "position": 169,
+ "rankingPositionChange": -1,
+ "gloryPoint": 64775,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Hamdan",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 64873,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 169,
+   "rankingPositionChange": -1,
+   "gloryPoint": 64775,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 777150,
  "characterClassID": 10,
  "raceID": 1,
- "position": 690,
- "rankingPositionChange": 11,
- "gloryPoint": 9730,
- "gloryPointChange": 261,
+ "position": 692,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9752,
+ "gloryPointChange": 22,
  "soldierRankID": 11,
  "characterName": "Zhest",
  "guildName": "Les rebelles de la foret",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 9730,
    "gloryPointChange": 261,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 692,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9752,
+   "gloryPointChange": 22,
    "soldierRankID": 11
   }
  ],

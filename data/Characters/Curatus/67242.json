@@ -2,14 +2,12 @@
  "characterID": 67242,
  "characterClassID": 2,
  "raceID": 1,
- "position": 544,
- "rankingPositionChange": -4,
- "gloryPoint": 11170,
- "gloryPointChange": -14,
+ "position": 545,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11142,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Skyzzo",
- "guildName": "Prepotenti",
- "guildID": 5129,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 11170,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 545,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11142,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -311,6 +317,9 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "Prepotenti",
    "guildID": 5129
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

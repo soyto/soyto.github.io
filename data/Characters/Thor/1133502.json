@@ -2,10 +2,10 @@
  "characterID": 1133502,
  "characterClassID": 11,
  "raceID": 1,
- "position": 390,
- "rankingPositionChange": 6,
- "gloryPoint": 37947,
- "gloryPointChange": 731,
+ "position": 391,
+ "rankingPositionChange": -1,
+ "gloryPoint": 38091,
+ "gloryPointChange": 144,
  "soldierRankID": 12,
  "characterName": "Mykro",
  "guildName": "Onmitsu",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 37947,
    "gloryPointChange": 731,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 391,
+   "rankingPositionChange": -1,
+   "gloryPoint": 38091,
+   "gloryPointChange": 144,
    "soldierRankID": 12
   }
  ],

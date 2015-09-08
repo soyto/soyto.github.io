@@ -2,10 +2,10 @@
  "characterID": 487883,
  "characterClassID": 2,
  "raceID": 1,
- "position": 914,
- "rankingPositionChange": 0,
- "gloryPoint": 6676,
- "gloryPointChange": 14,
+ "position": 920,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6662,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Mengeche",
  "guildName": "Miserables Con Suerte",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6676,
    "gloryPointChange": 14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 920,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6662,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

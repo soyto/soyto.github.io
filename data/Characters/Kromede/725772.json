@@ -2,14 +2,14 @@
  "characterID": 725772,
  "characterClassID": 10,
  "raceID": 0,
- "position": 878,
- "rankingPositionChange": 6,
- "gloryPoint": 10632,
- "gloryPointChange": 99,
+ "position": 860,
+ "rankingPositionChange": 18,
+ "gloryPoint": 11032,
+ "gloryPointChange": 400,
  "soldierRankID": 10,
  "characterName": "Luxianaa",
- "guildName": "The Reborn",
- "guildID": 38212,
+ "guildName": "Maggi GmbH und Co KG",
+ "guildID": 38389,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 10632,
    "gloryPointChange": 99,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": 18,
+   "gloryPoint": 11032,
+   "gloryPointChange": 400,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -311,6 +319,11 @@
    "date": "2015-08-18T22:00:00.000Z",
    "guildName": "The Reborn",
    "guildID": 38212
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Maggi GmbH und Co KG",
+   "guildID": 38389
   }
  ]
 }

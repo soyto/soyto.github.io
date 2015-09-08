@@ -2,11 +2,11 @@
  "characterID": 1142449,
  "characterClassID": 11,
  "raceID": 0,
- "position": 1000,
- "rankingPositionChange": -13,
+ "position": 996,
+ "rankingPositionChange": 4,
  "gloryPoint": 5687,
- "gloryPointChange": -21,
- "soldierRankID": 0,
+ "gloryPointChange": 0,
+ "soldierRankID": 10,
  "characterName": "Ative",
  "guildName": "Our Army Comes From Deep Within",
  "guildID": 9470,
@@ -258,6 +258,14 @@
    "gloryPoint": 5687,
    "gloryPointChange": -21,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": 4,
+   "gloryPoint": 5687,
+   "gloryPointChange": 0,
+   "soldierRankID": 10
   }
  ],
  "names": [

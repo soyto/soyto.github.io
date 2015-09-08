@@ -3,11 +3,13 @@
  "characterClassID": 5,
  "raceID": 0,
  "position": 95,
- "rankingPositionChange": 1,
- "gloryPoint": 112489,
- "gloryPointChange": -157,
+ "rankingPositionChange": 0,
+ "gloryPoint": 113454,
+ "gloryPointChange": 965,
  "soldierRankID": 14,
  "characterName": "Lind",
+ "guildName": "Be Happy",
+ "guildID": 6871,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 112489,
    "gloryPointChange": -157,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 95,
+   "rankingPositionChange": 0,
+   "gloryPoint": 113454,
+   "gloryPointChange": 965,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -296,6 +306,11 @@
   },
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Be Happy",
+   "guildID": 6871
   }
  ]
 }

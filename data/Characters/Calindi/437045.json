@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 0,
  "position": 293,
- "rankingPositionChange": -1,
- "gloryPoint": 19849,
- "gloryPointChange": 1,
+ "rankingPositionChange": 0,
+ "gloryPoint": 19751,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Cedeline",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 19849,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 293,
+   "rankingPositionChange": 0,
+   "gloryPoint": 19751,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

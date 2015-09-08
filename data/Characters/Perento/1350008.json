@@ -2,14 +2,14 @@
  "characterID": 1350008,
  "characterClassID": 4,
  "raceID": 1,
- "position": 758,
- "rankingPositionChange": 22,
- "gloryPoint": 3308,
- "gloryPointChange": 303,
+ "position": 712,
+ "rankingPositionChange": 46,
+ "gloryPoint": 3807,
+ "gloryPointChange": 499,
  "soldierRankID": 10,
  "characterName": "Affaffina",
- "guildName": "Sprawl",
- "guildID": 28164,
+ "guildName": "Eternal Army",
+ "guildID": 27184,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -42,6 +42,14 @@
    "gloryPoint": 3308,
    "gloryPointChange": 303,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 712,
+   "rankingPositionChange": 46,
+   "gloryPoint": 3807,
+   "gloryPointChange": 499,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -55,6 +63,11 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "Sprawl",
    "guildID": 28164
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Eternal Army",
+   "guildID": 27184
   }
  ]
 }

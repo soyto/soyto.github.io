@@ -2,10 +2,10 @@
  "characterID": 452804,
  "characterClassID": 11,
  "raceID": 1,
- "position": 739,
- "rankingPositionChange": -1,
- "gloryPoint": 3480,
- "gloryPointChange": -7,
+ "position": 738,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3466,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Hodoms",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 3480,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 738,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3466,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

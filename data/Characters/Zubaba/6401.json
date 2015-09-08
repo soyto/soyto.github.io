@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 0,
  "position": 4,
- "rankingPositionChange": -1,
- "gloryPoint": 335688,
- "gloryPointChange": 344,
+ "rankingPositionChange": 0,
+ "gloryPoint": 335656,
+ "gloryPointChange": -32,
  "soldierRankID": 16,
  "characterName": "Tzadkiel",
  "guildName": "LETHAL",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 335688,
    "gloryPointChange": 344,
+   "soldierRankID": 16
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 4,
+   "rankingPositionChange": 0,
+   "gloryPoint": 335656,
+   "gloryPointChange": -32,
    "soldierRankID": 16
   }
  ],

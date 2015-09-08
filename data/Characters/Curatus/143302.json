@@ -2,14 +2,14 @@
  "characterID": 143302,
  "characterClassID": 5,
  "raceID": 1,
- "position": 838,
- "rankingPositionChange": -4,
- "gloryPoint": 4697,
- "gloryPointChange": 2,
+ "position": 830,
+ "rankingPositionChange": 8,
+ "gloryPoint": 4716,
+ "gloryPointChange": 19,
  "soldierRankID": 10,
  "characterName": "Achner",
- "guildName": "R I P",
- "guildID": 4252,
+ "guildName": "Untold",
+ "guildID": 5997,
  "status": [
   {
    "date": "2015-08-22T22:00:00.000Z",
@@ -106,6 +106,14 @@
    "gloryPoint": 4697,
    "gloryPointChange": 2,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 830,
+   "rankingPositionChange": 8,
+   "gloryPoint": 4716,
+   "gloryPointChange": 19,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -119,6 +127,11 @@
    "date": "2015-08-22T22:00:00.000Z",
    "guildName": "R I P",
    "guildID": 4252
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Untold",
+   "guildID": 5997
   }
  ]
 }

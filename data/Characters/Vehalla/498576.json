@@ -2,10 +2,10 @@
  "characterID": 498576,
  "characterClassID": 4,
  "raceID": 1,
- "position": 225,
- "rankingPositionChange": 1,
- "gloryPoint": 16091,
- "gloryPointChange": -49,
+ "position": 226,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15993,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Blitzfee",
  "guildName": "Sanatorium",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 16091,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 226,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15993,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 960816,
  "characterClassID": 10,
  "raceID": 1,
- "position": 32,
- "rankingPositionChange": 0,
- "gloryPoint": 163879,
- "gloryPointChange": 306,
+ "position": 33,
+ "rankingPositionChange": -1,
+ "gloryPoint": 164043,
+ "gloryPointChange": 164,
  "soldierRankID": 14,
  "characterName": "Aiyshah",
  "guildName": "Shadow Walker",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 163879,
    "gloryPointChange": 306,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 33,
+   "rankingPositionChange": -1,
+   "gloryPoint": 164043,
+   "gloryPointChange": 164,
    "soldierRankID": 14
   }
  ],

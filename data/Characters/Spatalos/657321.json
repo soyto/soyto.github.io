@@ -2,10 +2,10 @@
  "characterID": 657321,
  "characterClassID": 10,
  "raceID": 0,
- "position": 123,
- "rankingPositionChange": 1,
- "gloryPoint": 119566,
- "gloryPointChange": 1071,
+ "position": 125,
+ "rankingPositionChange": -2,
+ "gloryPoint": 120213,
+ "gloryPointChange": 647,
  "soldierRankID": 13,
  "characterName": "Tychee",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 119566,
    "gloryPointChange": 1071,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 125,
+   "rankingPositionChange": -2,
+   "gloryPoint": 120213,
+   "gloryPointChange": 647,
    "soldierRankID": 13
   }
  ],

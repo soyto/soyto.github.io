@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 234,
- "rankingPositionChange": -1,
- "gloryPoint": 38094,
- "gloryPointChange": 25,
+ "rankingPositionChange": 0,
+ "gloryPoint": 38006,
+ "gloryPointChange": -88,
  "soldierRankID": 13,
  "characterName": "Saracin",
  "guildName": "Hope",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 38094,
    "gloryPointChange": 25,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 234,
+   "rankingPositionChange": 0,
+   "gloryPoint": 38006,
+   "gloryPointChange": -88,
    "soldierRankID": 13
   }
  ],

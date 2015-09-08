@@ -2,14 +2,12 @@
  "characterID": 701338,
  "characterClassID": 4,
  "raceID": 1,
- "position": 286,
- "rankingPositionChange": -1,
- "gloryPoint": 28351,
- "gloryPointChange": 201,
+ "position": 285,
+ "rankingPositionChange": 1,
+ "gloryPoint": 28316,
+ "gloryPointChange": -35,
  "soldierRankID": 13,
  "characterName": "Khyia",
- "guildName": "         ",
- "guildID": 20087,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 28351,
    "gloryPointChange": 201,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 285,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28316,
+   "gloryPointChange": -35,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -315,6 +321,9 @@
    "date": "2015-08-30T22:00:00.000Z",
    "guildName": "         ",
    "guildID": 20087
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

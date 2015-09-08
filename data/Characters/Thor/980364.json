@@ -2,10 +2,10 @@
  "characterID": 980364,
  "characterClassID": 7,
  "raceID": 1,
- "position": 669,
- "rankingPositionChange": 19,
+ "position": 674,
+ "rankingPositionChange": -5,
  "gloryPoint": 20310,
- "gloryPointChange": 663,
+ "gloryPointChange": 0,
  "soldierRankID": 11,
  "characterName": "Magnolisa",
  "guildName": "Dunedain",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 19,
    "gloryPoint": 20310,
    "gloryPointChange": 663,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 674,
+   "rankingPositionChange": -5,
+   "gloryPoint": 20310,
+   "gloryPointChange": 0,
    "soldierRankID": 11
   }
  ],

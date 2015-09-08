@@ -2,10 +2,10 @@
  "characterID": 579327,
  "characterClassID": 5,
  "raceID": 0,
- "position": 678,
- "rankingPositionChange": 3,
- "gloryPoint": 17513,
- "gloryPointChange": 20,
+ "position": 679,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17485,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Cazney",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 17513,
    "gloryPointChange": 20,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 679,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17485,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

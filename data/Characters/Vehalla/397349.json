@@ -2,12 +2,14 @@
  "characterID": 397349,
  "characterClassID": 10,
  "raceID": 1,
- "position": 370,
- "rankingPositionChange": 2,
- "gloryPoint": 5730,
- "gloryPointChange": 34,
+ "position": 363,
+ "rankingPositionChange": 7,
+ "gloryPoint": 5885,
+ "gloryPointChange": 155,
  "soldierRankID": 12,
  "characterName": "Angelika",
+ "guildName": "Sword Of Wings",
+ "guildID": 10018,
  "status": [
   {
    "date": "2015-08-06T22:00:00.000Z",
@@ -232,6 +234,14 @@
    "gloryPoint": 5730,
    "gloryPointChange": 34,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 363,
+   "rankingPositionChange": 7,
+   "gloryPoint": 5885,
+   "gloryPointChange": 155,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -248,6 +258,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Sword Of Wings",
+   "guildID": 10018
   }
  ]
 }

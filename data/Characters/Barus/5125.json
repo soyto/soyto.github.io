@@ -2,10 +2,10 @@
  "characterID": 5125,
  "characterClassID": 1,
  "raceID": 0,
- "position": 297,
- "rankingPositionChange": 0,
- "gloryPoint": 50518,
- "gloryPointChange": 399,
+ "position": 298,
+ "rankingPositionChange": -1,
+ "gloryPoint": 50548,
+ "gloryPointChange": 30,
  "soldierRankID": 13,
  "characterName": "Sebasu",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 50518,
    "gloryPointChange": 399,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 298,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50548,
+   "gloryPointChange": 30,
    "soldierRankID": 13
   }
  ],

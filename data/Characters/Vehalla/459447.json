@@ -2,10 +2,10 @@
  "characterID": 459447,
  "characterClassID": 10,
  "raceID": 1,
- "position": 239,
- "rankingPositionChange": 2,
- "gloryPoint": 14494,
- "gloryPointChange": 13,
+ "position": 240,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14542,
+ "gloryPointChange": 48,
  "soldierRankID": 13,
  "characterName": "Fanthaghiro",
  "guildName": "Wings of Evil ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 14494,
    "gloryPointChange": 13,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 240,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14542,
+   "gloryPointChange": 48,
    "soldierRankID": 13
   }
  ],

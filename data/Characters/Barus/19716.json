@@ -2,12 +2,14 @@
  "characterID": 19716,
  "characterClassID": 7,
  "raceID": 1,
- "position": 932,
- "rankingPositionChange": -9,
- "gloryPoint": 11215,
- "gloryPointChange": -7,
+ "position": 927,
+ "rankingPositionChange": 5,
+ "gloryPoint": 11301,
+ "gloryPointChange": 86,
  "soldierRankID": 10,
  "characterName": "Semis",
+ "guildName": "Slow It Down",
+ "guildID": 13130,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 11215,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 927,
+   "rankingPositionChange": 5,
+   "gloryPoint": 11301,
+   "gloryPointChange": 86,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Slow It Down",
+   "guildID": 13130
   }
  ]
 }

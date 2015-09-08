@@ -2,10 +2,10 @@
  "characterID": 1028062,
  "characterClassID": 2,
  "raceID": 1,
- "position": 258,
- "rankingPositionChange": 8,
- "gloryPoint": 60470,
- "gloryPointChange": 1406,
+ "position": 259,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61165,
+ "gloryPointChange": 695,
  "soldierRankID": 13,
  "characterName": "Brodor",
  "guildName": "Black Legion",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 60470,
    "gloryPointChange": 1406,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 259,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61165,
+   "gloryPointChange": 695,
    "soldierRankID": 13
   }
  ],

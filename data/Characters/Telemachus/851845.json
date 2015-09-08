@@ -2,14 +2,14 @@
  "characterID": 851845,
  "characterClassID": 1,
  "raceID": 0,
- "position": 546,
- "rankingPositionChange": -1,
- "gloryPoint": 21620,
- "gloryPointChange": -14,
+ "position": 544,
+ "rankingPositionChange": 2,
+ "gloryPoint": 21592,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Rhaazzell",
- "guildName": "R A R E",
- "guildID": 25766,
+ "guildName": "GANG",
+ "guildID": 9931,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 21620,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 544,
+   "rankingPositionChange": 2,
+   "gloryPoint": 21592,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -307,6 +315,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "R A R E",
    "guildID": 25766
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "GANG",
+   "guildID": 9931
   }
  ]
 }

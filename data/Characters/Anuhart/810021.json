@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 0,
  "position": 271,
- "rankingPositionChange": -1,
- "gloryPoint": 37714,
- "gloryPointChange": 1,
+ "rankingPositionChange": 0,
+ "gloryPoint": 37669,
+ "gloryPointChange": -45,
  "soldierRankID": 13,
  "characterName": "Vetkin",
  "guildName": " Revolution ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 37714,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 271,
+   "rankingPositionChange": 0,
+   "gloryPoint": 37669,
+   "gloryPointChange": -45,
    "soldierRankID": 13
   }
  ],

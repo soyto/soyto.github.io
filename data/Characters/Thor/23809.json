@@ -2,10 +2,10 @@
  "characterID": 23809,
  "characterClassID": 2,
  "raceID": 1,
- "position": 342,
- "rankingPositionChange": 4,
- "gloryPoint": 46501,
- "gloryPointChange": 986,
+ "position": 343,
+ "rankingPositionChange": -1,
+ "gloryPoint": 46495,
+ "gloryPointChange": -6,
  "soldierRankID": 12,
  "characterName": "Tankyyy",
  "guildName": "   Predicted   ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 46501,
    "gloryPointChange": 986,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 343,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46495,
+   "gloryPointChange": -6,
    "soldierRankID": 12
   }
  ],

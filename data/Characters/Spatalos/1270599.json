@@ -2,14 +2,14 @@
  "characterID": 1270599,
  "characterClassID": 14,
  "raceID": 0,
- "position": 234,
+ "position": 233,
  "rankingPositionChange": 1,
- "gloryPoint": 64260,
- "gloryPointChange": 25,
+ "gloryPoint": 64727,
+ "gloryPointChange": 467,
  "soldierRankID": 13,
  "characterName": "Enngineer",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 64260,
    "gloryPointChange": 25,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 233,
+   "rankingPositionChange": 1,
+   "gloryPoint": 64727,
+   "gloryPointChange": 467,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

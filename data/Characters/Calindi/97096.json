@@ -2,10 +2,10 @@
  "characterID": 97096,
  "characterClassID": 2,
  "raceID": 0,
- "position": 610,
- "rankingPositionChange": -6,
- "gloryPoint": 3399,
- "gloryPointChange": -14,
+ "position": 600,
+ "rankingPositionChange": 10,
+ "gloryPoint": 3581,
+ "gloryPointChange": 182,
  "soldierRankID": 11,
  "characterName": "Hewyn",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 3399,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": 10,
+   "gloryPoint": 3581,
+   "gloryPointChange": 182,
    "soldierRankID": 11
   }
  ],

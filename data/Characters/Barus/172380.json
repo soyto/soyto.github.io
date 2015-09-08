@@ -2,10 +2,10 @@
  "characterID": 172380,
  "characterClassID": 2,
  "raceID": 0,
- "position": 497,
- "rankingPositionChange": 8,
- "gloryPoint": 28502,
- "gloryPointChange": 305,
+ "position": 500,
+ "rankingPositionChange": -3,
+ "gloryPoint": 28576,
+ "gloryPointChange": 74,
  "soldierRankID": 12,
  "characterName": "Dlaczegoja",
  "guildName": "Polish Devils",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 28502,
    "gloryPointChange": 305,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 500,
+   "rankingPositionChange": -3,
+   "gloryPoint": 28576,
+   "gloryPointChange": 74,
    "soldierRankID": 12
   }
  ],

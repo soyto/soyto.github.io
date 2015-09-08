@@ -2,10 +2,10 @@
  "characterID": 350290,
  "characterClassID": 10,
  "raceID": 1,
- "position": 161,
- "rankingPositionChange": 0,
- "gloryPoint": 86001,
- "gloryPointChange": 51,
+ "position": 163,
+ "rankingPositionChange": -2,
+ "gloryPoint": 85903,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Eobane",
  "guildName": "Symphony of Desolation",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 86001,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 163,
+   "rankingPositionChange": -2,
+   "gloryPoint": 85903,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

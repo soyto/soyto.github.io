@@ -2,10 +2,10 @@
  "characterID": 206026,
  "characterClassID": 7,
  "raceID": 1,
- "position": 7,
- "rankingPositionChange": 0,
- "gloryPoint": 126049,
- "gloryPointChange": 28,
+ "position": 8,
+ "rankingPositionChange": -1,
+ "gloryPoint": 125867,
+ "gloryPointChange": -182,
  "soldierRankID": 16,
  "characterName": "Valafar",
  "guildName": "Les  Phoenix  sanglants",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 126049,
    "gloryPointChange": 28,
+   "soldierRankID": 16
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 8,
+   "rankingPositionChange": -1,
+   "gloryPoint": 125867,
+   "gloryPointChange": -182,
    "soldierRankID": 16
   }
  ],

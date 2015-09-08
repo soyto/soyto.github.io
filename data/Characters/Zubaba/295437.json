@@ -2,14 +2,14 @@
  "characterID": 295437,
  "characterClassID": 4,
  "raceID": 1,
- "position": 533,
- "rankingPositionChange": 11,
- "gloryPoint": 7948,
- "gloryPointChange": 347,
+ "position": 519,
+ "rankingPositionChange": 14,
+ "gloryPoint": 8451,
+ "gloryPointChange": 503,
  "soldierRankID": 11,
  "characterName": "Caji",
- "guildName": "abuksubuk",
- "guildID": 6905,
+ "guildName": "G U A R D S",
+ "guildID": 6689,
  "status": [
   {
    "date": "2015-08-06T22:00:00.000Z",
@@ -242,6 +242,14 @@
    "gloryPoint": 7948,
    "gloryPointChange": 347,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 519,
+   "rankingPositionChange": 14,
+   "gloryPoint": 8451,
+   "gloryPointChange": 503,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -260,6 +268,11 @@
    "date": "2015-09-05T22:00:00.000Z",
    "guildName": "abuksubuk",
    "guildID": 6905
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "G U A R D S",
+   "guildID": 6689
   }
  ]
 }

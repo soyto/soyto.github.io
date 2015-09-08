@@ -2,10 +2,10 @@
  "characterID": 1044789,
  "characterClassID": 14,
  "raceID": 0,
- "position": 135,
- "rankingPositionChange": 0,
- "gloryPoint": 107230,
- "gloryPointChange": 165,
+ "position": 137,
+ "rankingPositionChange": -2,
+ "gloryPoint": 107132,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Rvs",
  "guildName": "OneTwoThree",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 107230,
    "gloryPointChange": 165,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 137,
+   "rankingPositionChange": -2,
+   "gloryPoint": 107132,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

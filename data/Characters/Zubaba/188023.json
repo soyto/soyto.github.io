@@ -2,10 +2,10 @@
  "characterID": 188023,
  "characterClassID": 11,
  "raceID": 1,
- "position": 211,
- "rankingPositionChange": 1,
- "gloryPoint": 41929,
- "gloryPointChange": 171,
+ "position": 213,
+ "rankingPositionChange": -2,
+ "gloryPoint": 41931,
+ "gloryPointChange": 2,
  "soldierRankID": 13,
  "characterName": "Handoflife",
  "guildName": "Smile",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 41929,
    "gloryPointChange": 171,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 213,
+   "rankingPositionChange": -2,
+   "gloryPoint": 41931,
+   "gloryPointChange": 2,
    "soldierRankID": 13
   }
  ],

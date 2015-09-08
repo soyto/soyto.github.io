@@ -2,10 +2,10 @@
  "characterID": 495445,
  "characterClassID": 16,
  "raceID": 0,
- "position": 510,
- "rankingPositionChange": 0,
- "gloryPoint": 17131,
- "gloryPointChange": 115,
+ "position": 511,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17113,
+ "gloryPointChange": -18,
  "soldierRankID": 11,
  "characterName": "Mirandamoon",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 17131,
    "gloryPointChange": 115,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17113,
+   "gloryPointChange": -18,
    "soldierRankID": 11
   }
  ],

@@ -2,9 +2,9 @@
  "characterID": 27820,
  "characterClassID": 10,
  "raceID": 0,
- "position": 702,
- "rankingPositionChange": -10,
- "gloryPoint": 23212,
+ "position": 701,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23198,
  "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Mahad",
@@ -288,6 +288,14 @@
    "position": 702,
    "rankingPositionChange": -10,
    "gloryPoint": 23212,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 701,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23198,
    "gloryPointChange": -14,
    "soldierRankID": 10
   }

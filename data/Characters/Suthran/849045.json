@@ -2,10 +2,10 @@
  "characterID": 849045,
  "characterClassID": 8,
  "raceID": 1,
- "position": 854,
- "rankingPositionChange": 9,
- "gloryPoint": 6324,
- "gloryPointChange": 220,
+ "position": 862,
+ "rankingPositionChange": -8,
+ "gloryPoint": 6310,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Druslalegende",
  "guildName": "Inner Universe ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 6324,
    "gloryPointChange": 220,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": -8,
+   "gloryPoint": 6310,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

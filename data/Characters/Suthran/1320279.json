@@ -2,10 +2,10 @@
  "characterID": 1320279,
  "characterClassID": 13,
  "raceID": 0,
- "position": 481,
- "rankingPositionChange": 0,
- "gloryPoint": 32941,
- "gloryPointChange": -28,
+ "position": 482,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32885,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Barbimeca",
  "guildName": "Noi",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 32941,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 482,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32885,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

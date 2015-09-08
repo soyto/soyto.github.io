@@ -2,10 +2,10 @@
  "characterID": 207836,
  "characterClassID": 5,
  "raceID": 0,
- "position": 511,
- "rankingPositionChange": 0,
- "gloryPoint": 27926,
- "gloryPointChange": -5,
+ "position": 515,
+ "rankingPositionChange": -4,
+ "gloryPoint": 27910,
+ "gloryPointChange": -16,
  "soldierRankID": 11,
  "characterName": "Brozek",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 27926,
    "gloryPointChange": -5,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 515,
+   "rankingPositionChange": -4,
+   "gloryPoint": 27910,
+   "gloryPointChange": -16,
    "soldierRankID": 11
   }
  ],

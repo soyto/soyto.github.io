@@ -2,10 +2,10 @@
  "characterID": 566445,
  "characterClassID": 1,
  "raceID": 1,
- "position": 390,
- "rankingPositionChange": 4,
- "gloryPoint": 6867,
- "gloryPointChange": 72,
+ "position": 396,
+ "rankingPositionChange": -6,
+ "gloryPoint": 6811,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Dancemix",
  "guildName": "The Legion of Friends",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 6867,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 396,
+   "rankingPositionChange": -6,
+   "gloryPoint": 6811,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

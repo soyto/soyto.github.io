@@ -2,14 +2,14 @@
  "characterID": 264013,
  "characterClassID": 10,
  "raceID": 0,
- "position": 375,
- "rankingPositionChange": -1,
- "gloryPoint": 25894,
- "gloryPointChange": -28,
+ "position": 371,
+ "rankingPositionChange": 4,
+ "gloryPoint": 26320,
+ "gloryPointChange": 426,
  "soldierRankID": 12,
  "characterName": "Vitaminas",
- "guildName": "Devil Inside",
- "guildID": 1103,
+ "guildName": "Reported",
+ "guildID": 15747,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 25894,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 371,
+   "rankingPositionChange": 4,
+   "gloryPoint": 26320,
+   "gloryPointChange": 426,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Devil Inside",
    "guildID": 1103
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Reported",
+   "guildID": 15747
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 293592,
  "characterClassID": 4,
  "raceID": 0,
- "position": 847,
- "rankingPositionChange": 1,
- "gloryPoint": 12776,
- "gloryPointChange": -7,
+ "position": 848,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12762,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Demonot",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12776,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 848,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12762,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

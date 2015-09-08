@@ -2,10 +2,10 @@
  "characterID": 832913,
  "characterClassID": 11,
  "raceID": 1,
- "position": 259,
- "rankingPositionChange": 0,
- "gloryPoint": 60391,
- "gloryPointChange": 461,
+ "position": 260,
+ "rankingPositionChange": -1,
+ "gloryPoint": 60896,
+ "gloryPointChange": 505,
  "soldierRankID": 13,
  "characterName": "Tamiva",
  "guildName": "Randoms",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 60391,
    "gloryPointChange": 461,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 260,
+   "rankingPositionChange": -1,
+   "gloryPoint": 60896,
+   "gloryPointChange": 505,
    "soldierRankID": 13
   }
  ],

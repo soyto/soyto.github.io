@@ -2,14 +2,14 @@
  "characterID": 485244,
  "characterClassID": 10,
  "raceID": 0,
- "position": 271,
+ "position": 268,
  "rankingPositionChange": 3,
- "gloryPoint": 69598,
- "gloryPointChange": 938,
+ "gloryPoint": 70682,
+ "gloryPointChange": 1084,
  "soldierRankID": 13,
  "characterName": "Antaia",
- "guildName": "Natural born Chillers",
- "guildID": 3530,
+ "guildName": "Egoist FTW",
+ "guildID": 43900,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 69598,
    "gloryPointChange": 938,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 268,
+   "rankingPositionChange": 3,
+   "gloryPoint": 70682,
+   "gloryPointChange": 1084,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Natural born Chillers",
    "guildID": 3530
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Egoist FTW",
+   "guildID": 43900
   }
  ]
 }

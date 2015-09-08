@@ -2,10 +2,10 @@
  "characterID": 188843,
  "characterClassID": 2,
  "raceID": 1,
- "position": 189,
- "rankingPositionChange": 0,
- "gloryPoint": 56052,
- "gloryPointChange": 551,
+ "position": 194,
+ "rankingPositionChange": -5,
+ "gloryPoint": 56210,
+ "gloryPointChange": 158,
  "soldierRankID": 13,
  "characterName": "Eniho",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 56052,
    "gloryPointChange": 551,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 194,
+   "rankingPositionChange": -5,
+   "gloryPoint": 56210,
+   "gloryPointChange": 158,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 56620,
  "characterClassID": 2,
  "raceID": 0,
- "position": 445,
- "rankingPositionChange": 0,
- "gloryPoint": 18163,
- "gloryPointChange": -28,
+ "position": 446,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18107,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Centilmen",
  "guildName": "GameMasters",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 18163,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 446,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18107,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

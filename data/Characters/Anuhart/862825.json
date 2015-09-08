@@ -4,10 +4,12 @@
  "raceID": 0,
  "position": 131,
  "rankingPositionChange": 0,
- "gloryPoint": 70179,
- "gloryPointChange": -49,
+ "gloryPoint": 70224,
+ "gloryPointChange": 45,
  "soldierRankID": 13,
  "characterName": "Psychobard",
+ "guildName": "I DONT CARE I LOVE IT",
+ "guildID": 21148,
  "status": [
   {
    "date": "2015-08-09T22:00:00.000Z",
@@ -216,6 +218,14 @@
    "gloryPoint": 70179,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 131,
+   "rankingPositionChange": 0,
+   "gloryPoint": 70224,
+   "gloryPointChange": 45,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -227,6 +237,11 @@
  "guilds": [
   {
    "date": "2015-08-09T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "I DONT CARE I LOVE IT",
+   "guildID": 21148
   }
  ]
 }

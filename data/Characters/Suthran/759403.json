@@ -2,9 +2,9 @@
  "characterID": 759403,
  "characterClassID": 8,
  "raceID": 0,
- "position": 963,
- "rankingPositionChange": 4,
- "gloryPoint": 10647,
+ "position": 964,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10693,
  "gloryPointChange": 46,
  "soldierRankID": 10,
  "characterName": "Eudoxie",
@@ -286,6 +286,14 @@
    "position": 963,
    "rankingPositionChange": 4,
    "gloryPoint": 10647,
+   "gloryPointChange": 46,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 964,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10693,
    "gloryPointChange": 46,
    "soldierRankID": 10
   }

@@ -2,14 +2,14 @@
  "characterID": 175280,
  "characterClassID": 16,
  "raceID": 1,
- "position": 482,
- "rankingPositionChange": 1,
- "gloryPoint": 28040,
- "gloryPointChange": 45,
+ "position": 478,
+ "rankingPositionChange": 4,
+ "gloryPoint": 28570,
+ "gloryPointChange": 530,
  "soldierRankID": 12,
  "characterName": "Macziacziczi",
- "guildName": " NeverMind ",
- "guildID": 5169,
+ "guildName": "No Clan ",
+ "guildID": 1461,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 28040,
    "gloryPointChange": 45,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 478,
+   "rankingPositionChange": 4,
+   "gloryPoint": 28570,
+   "gloryPointChange": 530,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -316,6 +324,11 @@
    "date": "2015-08-23T22:00:00.000Z",
    "guildName": " NeverMind ",
    "guildID": 5169
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "No Clan ",
+   "guildID": 1461
   }
  ]
 }

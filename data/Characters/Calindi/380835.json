@@ -2,10 +2,10 @@
  "characterID": 380835,
  "characterClassID": 14,
  "raceID": 0,
- "position": 750,
- "rankingPositionChange": -7,
- "gloryPoint": 2282,
- "gloryPointChange": -7,
+ "position": 749,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2268,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Yasuri",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -7,
    "gloryPoint": 2282,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 749,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2268,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

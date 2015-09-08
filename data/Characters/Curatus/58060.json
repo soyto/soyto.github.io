@@ -2,10 +2,10 @@
  "characterID": 58060,
  "characterClassID": 1,
  "raceID": 1,
- "position": 11,
- "rankingPositionChange": 1,
- "gloryPoint": 227930,
- "gloryPointChange": 1345,
+ "position": 12,
+ "rankingPositionChange": -1,
+ "gloryPoint": 229315,
+ "gloryPointChange": 1385,
  "soldierRankID": 15,
  "characterName": "Lokar",
  "guildName": "Infernal Requiem",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 227930,
    "gloryPointChange": 1345,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 12,
+   "rankingPositionChange": -1,
+   "gloryPoint": 229315,
+   "gloryPointChange": 1385,
    "soldierRankID": 15
   }
  ],

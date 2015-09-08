@@ -2,12 +2,14 @@
  "characterID": 1089779,
  "characterClassID": 7,
  "raceID": 0,
- "position": 245,
- "rankingPositionChange": 1,
- "gloryPoint": 58633,
- "gloryPointChange": -49,
+ "position": 249,
+ "rankingPositionChange": -4,
+ "gloryPoint": 58538,
+ "gloryPointChange": -95,
  "soldierRankID": 13,
  "characterName": "Loky",
+ "guildName": "GANG",
+ "guildID": 9931,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 58633,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 249,
+   "rankingPositionChange": -4,
+   "gloryPoint": 58538,
+   "gloryPointChange": -95,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "GANG",
+   "guildID": 9931
   }
  ]
 }

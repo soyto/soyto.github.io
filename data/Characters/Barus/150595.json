@@ -3,13 +3,13 @@
  "characterClassID": 11,
  "raceID": 1,
  "position": 385,
- "rankingPositionChange": -1,
- "gloryPoint": 37945,
- "gloryPointChange": 195,
+ "rankingPositionChange": 0,
+ "gloryPoint": 38294,
+ "gloryPointChange": 349,
  "soldierRankID": 12,
  "characterName": "Tiktak",
- "guildName": "OutOfControl",
- "guildID": 1028,
+ "guildName": "RAMPAGE",
+ "guildID": 13070,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 37945,
    "gloryPointChange": 195,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 385,
+   "rankingPositionChange": 0,
+   "gloryPoint": 38294,
+   "gloryPointChange": 349,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -311,6 +319,11 @@
    "date": "2015-09-05T22:00:00.000Z",
    "guildName": "OutOfControl",
    "guildID": 1028
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "RAMPAGE",
+   "guildID": 13070
   }
  ]
 }

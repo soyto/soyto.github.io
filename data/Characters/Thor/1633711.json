@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 1,
  "position": 453,
- "rankingPositionChange": 1,
- "gloryPoint": 32076,
- "gloryPointChange": 122,
+ "rankingPositionChange": 0,
+ "gloryPoint": 32030,
+ "gloryPointChange": -46,
  "soldierRankID": 12,
  "characterName": "Grumbl",
  "guildName": "Old Dirty Basterdz",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 32076,
    "gloryPointChange": 122,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 453,
+   "rankingPositionChange": 0,
+   "gloryPoint": 32030,
+   "gloryPointChange": -46,
    "soldierRankID": 12
   }
  ],

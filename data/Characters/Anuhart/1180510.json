@@ -2,10 +2,10 @@
  "characterID": 1180510,
  "characterClassID": 10,
  "raceID": 1,
- "position": 815,
- "rankingPositionChange": -8,
- "gloryPoint": 2884,
- "gloryPointChange": -7,
+ "position": 814,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2870,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "July",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 2884,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2870,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

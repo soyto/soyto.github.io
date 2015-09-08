@@ -2,10 +2,10 @@
  "characterID": 55701,
  "characterClassID": 4,
  "raceID": 0,
- "position": 854,
- "rankingPositionChange": -5,
- "gloryPoint": 8942,
- "gloryPointChange": -7,
+ "position": 846,
+ "rankingPositionChange": 8,
+ "gloryPoint": 8928,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Bazyl",
  "guildName": "Alis Dei",
@@ -209,6 +209,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 8942,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": 8,
+   "gloryPoint": 8928,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

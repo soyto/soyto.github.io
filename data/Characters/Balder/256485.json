@@ -2,10 +2,10 @@
  "characterID": 256485,
  "characterClassID": 10,
  "raceID": 1,
- "position": 306,
- "rankingPositionChange": 0,
- "gloryPoint": 9824,
- "gloryPointChange": -18,
+ "position": 301,
+ "rankingPositionChange": 5,
+ "gloryPoint": 10133,
+ "gloryPointChange": 309,
  "soldierRankID": 12,
  "characterName": "Avantii",
  "guildName": "The Dark Side of the Sun",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 9824,
    "gloryPointChange": -18,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 301,
+   "rankingPositionChange": 5,
+   "gloryPoint": 10133,
+   "gloryPointChange": 309,
    "soldierRankID": 12
   }
  ],

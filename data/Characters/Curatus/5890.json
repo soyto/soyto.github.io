@@ -2,10 +2,10 @@
  "characterID": 5890,
  "characterClassID": 10,
  "raceID": 0,
- "position": 53,
- "rankingPositionChange": 1,
- "gloryPoint": 158831,
- "gloryPointChange": 502,
+ "position": 54,
+ "rankingPositionChange": -1,
+ "gloryPoint": 159191,
+ "gloryPointChange": 360,
  "soldierRankID": 14,
  "characterName": "Maysha",
  "guildName": " Outlaw ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 158831,
    "gloryPointChange": 502,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 54,
+   "rankingPositionChange": -1,
+   "gloryPoint": 159191,
+   "gloryPointChange": 360,
    "soldierRankID": 14
   }
  ],

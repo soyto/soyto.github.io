@@ -2,10 +2,10 @@
  "characterID": 1464258,
  "characterClassID": 16,
  "raceID": 1,
- "position": 358,
- "rankingPositionChange": 0,
- "gloryPoint": 28643,
- "gloryPointChange": 72,
+ "position": 360,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28709,
+ "gloryPointChange": 66,
  "soldierRankID": 12,
  "characterName": "Loyality",
  "guildName": "Paradizia",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 28643,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 360,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28709,
+   "gloryPointChange": 66,
    "soldierRankID": 12
   }
  ],

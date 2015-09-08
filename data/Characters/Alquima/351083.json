@@ -2,10 +2,10 @@
  "characterID": 351083,
  "characterClassID": 5,
  "raceID": 1,
- "position": 103,
- "rankingPositionChange": 1,
- "gloryPoint": 75602,
- "gloryPointChange": 176,
+ "position": 104,
+ "rankingPositionChange": -1,
+ "gloryPoint": 75902,
+ "gloryPointChange": 300,
  "soldierRankID": 13,
  "characterName": "Alasya",
  "guildName": "The Mist",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 75602,
    "gloryPointChange": 176,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": -1,
+   "gloryPoint": 75902,
+   "gloryPointChange": 300,
    "soldierRankID": 13
   }
  ],

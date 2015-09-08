@@ -2,14 +2,12 @@
  "characterID": 678808,
  "characterClassID": 7,
  "raceID": 1,
- "position": 98,
- "rankingPositionChange": 0,
- "gloryPoint": 88465,
- "gloryPointChange": 259,
+ "position": 96,
+ "rankingPositionChange": 2,
+ "gloryPoint": 88962,
+ "gloryPointChange": 497,
  "soldierRankID": 14,
  "characterName": "Rawllhax",
- "guildName": "RaidAndWeed",
- "guildID": 38671,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 88465,
    "gloryPointChange": 259,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 96,
+   "rankingPositionChange": 2,
+   "gloryPoint": 88962,
+   "gloryPointChange": 497,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "RaidAndWeed",
    "guildID": 38671
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

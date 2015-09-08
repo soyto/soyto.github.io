@@ -2,10 +2,10 @@
  "characterID": 651498,
  "characterClassID": 1,
  "raceID": 0,
- "position": 441,
- "rankingPositionChange": -2,
- "gloryPoint": 28466,
- "gloryPointChange": -28,
+ "position": 440,
+ "rankingPositionChange": 1,
+ "gloryPoint": 28410,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Everard",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 28466,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 440,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28410,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 965734,
  "characterClassID": 16,
  "raceID": 1,
- "position": 466,
- "rankingPositionChange": -1,
- "gloryPoint": 2520,
- "gloryPointChange": -28,
+ "position": 460,
+ "rankingPositionChange": 6,
+ "gloryPoint": 2530,
+ "gloryPointChange": 10,
  "soldierRankID": 12,
  "characterName": "Leilaani",
  "guildName": "PrimaTech",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 2520,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 460,
+   "rankingPositionChange": 6,
+   "gloryPoint": 2530,
+   "gloryPointChange": 10,
    "soldierRankID": 12
   }
  ],

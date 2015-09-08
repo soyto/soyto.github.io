@@ -2,14 +2,12 @@
  "characterID": 1264443,
  "characterClassID": 8,
  "raceID": 0,
- "position": 833,
- "rankingPositionChange": 1,
- "gloryPoint": 11868,
- "gloryPointChange": -7,
+ "position": 831,
+ "rankingPositionChange": 2,
+ "gloryPoint": 11854,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Fearchainn",
- "guildName": "The Wind is pushing meeeeeeeeeee",
- "guildID": 29251,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 11868,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 831,
+   "rankingPositionChange": 2,
+   "gloryPoint": 11854,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Wind is pushing meeeeeeeeeee",
    "guildID": 29251
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

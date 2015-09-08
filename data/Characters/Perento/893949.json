@@ -2,10 +2,10 @@
  "characterID": 893949,
  "characterClassID": 5,
  "raceID": 0,
- "position": 13,
- "rankingPositionChange": 0,
- "gloryPoint": 283313,
- "gloryPointChange": 861,
+ "position": 14,
+ "rankingPositionChange": -1,
+ "gloryPoint": 284038,
+ "gloryPointChange": 725,
  "soldierRankID": 15,
  "characterName": "Aptenodytes",
  "guildName": "Astralis",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 283313,
    "gloryPointChange": 861,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 14,
+   "rankingPositionChange": -1,
+   "gloryPoint": 284038,
+   "gloryPointChange": 725,
    "soldierRankID": 15
   }
  ],

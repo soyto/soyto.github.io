@@ -2,10 +2,10 @@
  "characterID": 180374,
  "characterClassID": 11,
  "raceID": 0,
- "position": 315,
- "rankingPositionChange": 1,
- "gloryPoint": 47858,
- "gloryPointChange": 72,
+ "position": 321,
+ "rankingPositionChange": -6,
+ "gloryPoint": 47802,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Sarkan",
  "guildName": " FAKE ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 47858,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 321,
+   "rankingPositionChange": -6,
+   "gloryPoint": 47802,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

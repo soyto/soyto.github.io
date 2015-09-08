@@ -2,12 +2,14 @@
  "characterID": 356761,
  "characterClassID": 16,
  "raceID": 1,
- "position": 108,
+ "position": 107,
  "rankingPositionChange": 1,
- "gloryPoint": 53484,
- "gloryPointChange": 261,
+ "gloryPoint": 53566,
+ "gloryPointChange": 82,
  "soldierRankID": 13,
  "characterName": "Yantra",
+ "guildName": "Pave Low",
+ "guildID": 14747,
  "status": [
   {
    "date": "2015-08-10T22:00:00.000Z",
@@ -208,6 +210,14 @@
    "gloryPoint": 53484,
    "gloryPointChange": 261,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": 1,
+   "gloryPoint": 53566,
+   "gloryPointChange": 82,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -224,6 +234,11 @@
   },
   {
    "date": "2015-08-21T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Pave Low",
+   "guildID": 14747
   }
  ]
 }

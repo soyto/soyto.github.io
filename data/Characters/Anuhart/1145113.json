@@ -2,10 +2,10 @@
  "characterID": 1145113,
  "characterClassID": 10,
  "raceID": 0,
- "position": 900,
- "rankingPositionChange": 14,
- "gloryPoint": 5097,
- "gloryPointChange": 139,
+ "position": 903,
+ "rankingPositionChange": -3,
+ "gloryPoint": 5093,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Etthan",
  "guildName": "Fury Wolf",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 14,
    "gloryPoint": 5097,
    "gloryPointChange": 139,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 903,
+   "rankingPositionChange": -3,
+   "gloryPoint": 5093,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

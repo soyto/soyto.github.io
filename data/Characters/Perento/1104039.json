@@ -2,12 +2,14 @@
  "characterID": 1104039,
  "characterClassID": 14,
  "raceID": 1,
- "position": 305,
- "rankingPositionChange": 2,
- "gloryPoint": 23564,
- "gloryPointChange": 22,
+ "position": 304,
+ "rankingPositionChange": 1,
+ "gloryPoint": 24206,
+ "gloryPointChange": 642,
  "soldierRankID": 12,
  "characterName": "Reming",
+ "guildName": "The Others",
+ "guildID": 2516,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 23564,
    "gloryPointChange": 22,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 304,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24206,
+   "gloryPointChange": 642,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "The Others",
+   "guildID": 2516
   }
  ]
 }

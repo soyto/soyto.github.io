@@ -2,10 +2,10 @@
  "characterID": 1095913,
  "characterClassID": 1,
  "raceID": 0,
- "position": 626,
+ "position": 624,
  "rankingPositionChange": 2,
- "gloryPoint": 17159,
- "gloryPointChange": 47,
+ "gloryPoint": 17131,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Kreana",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 17159,
    "gloryPointChange": 47,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 624,
+   "rankingPositionChange": 2,
+   "gloryPoint": 17131,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

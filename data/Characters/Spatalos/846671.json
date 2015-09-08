@@ -2,10 +2,10 @@
  "characterID": 846671,
  "characterClassID": 8,
  "raceID": 1,
- "position": 312,
- "rankingPositionChange": 4,
- "gloryPoint": 19548,
- "gloryPointChange": 753,
+ "position": 314,
+ "rankingPositionChange": -2,
+ "gloryPoint": 19545,
+ "gloryPointChange": -3,
  "soldierRankID": 12,
  "characterName": "Kkirki",
  "guildName": "The Guardians",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 19548,
    "gloryPointChange": 753,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 314,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19545,
+   "gloryPointChange": -3,
    "soldierRankID": 12
   }
  ],

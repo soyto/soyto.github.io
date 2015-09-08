@@ -2,10 +2,10 @@
  "characterID": 38160,
  "characterClassID": 11,
  "raceID": 1,
- "position": 166,
- "rankingPositionChange": 0,
- "gloryPoint": 53161,
- "gloryPointChange": 387,
+ "position": 167,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53175,
+ "gloryPointChange": 14,
  "soldierRankID": 13,
  "characterName": "Zordton",
  "guildName": "Destinados",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 53161,
    "gloryPointChange": 387,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 167,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53175,
+   "gloryPointChange": 14,
    "soldierRankID": 13
   }
  ],

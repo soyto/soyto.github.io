@@ -2,10 +2,10 @@
  "characterID": 577029,
  "characterClassID": 5,
  "raceID": 0,
- "position": 44,
- "rankingPositionChange": 1,
- "gloryPoint": 201770,
- "gloryPointChange": 1619,
+ "position": 45,
+ "rankingPositionChange": -1,
+ "gloryPoint": 201727,
+ "gloryPointChange": -43,
  "soldierRankID": 14,
  "characterName": "Snakee",
  "guildName": "c ude",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 201770,
    "gloryPointChange": 1619,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": -1,
+   "gloryPoint": 201727,
+   "gloryPointChange": -43,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1057020,
  "characterClassID": 14,
  "raceID": 1,
- "position": 804,
- "rankingPositionChange": 1,
- "gloryPoint": 7227,
- "gloryPointChange": 161,
+ "position": 814,
+ "rankingPositionChange": -10,
+ "gloryPoint": 7213,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Yossuke",
  "guildName": "Unozuka",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7227,
    "gloryPointChange": 161,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 814,
+   "rankingPositionChange": -10,
+   "gloryPoint": 7213,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

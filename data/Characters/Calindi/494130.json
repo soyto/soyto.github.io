@@ -2,12 +2,14 @@
  "characterID": 494130,
  "characterClassID": 2,
  "raceID": 0,
- "position": 33,
+ "position": 34,
  "rankingPositionChange": -1,
- "gloryPoint": 161986,
- "gloryPointChange": 904,
+ "gloryPoint": 162521,
+ "gloryPointChange": 535,
  "soldierRankID": 14,
  "characterName": "Eytan",
+ "guildName": "Fantasia",
+ "guildID": 1197,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 161986,
    "gloryPointChange": 904,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 34,
+   "rankingPositionChange": -1,
+   "gloryPoint": 162521,
+   "gloryPointChange": 535,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -307,6 +317,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Fantasia",
+   "guildID": 1197
   }
  ]
 }

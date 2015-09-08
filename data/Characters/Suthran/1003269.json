@@ -2,10 +2,10 @@
  "characterID": 1003269,
  "characterClassID": 4,
  "raceID": 1,
- "position": 432,
- "rankingPositionChange": 5,
- "gloryPoint": 18844,
- "gloryPointChange": 338,
+ "position": 434,
+ "rankingPositionChange": -2,
+ "gloryPoint": 18807,
+ "gloryPointChange": -37,
  "soldierRankID": 12,
  "characterName": "Magickeim",
  "guildName": "Storm",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 18844,
    "gloryPointChange": 338,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 434,
+   "rankingPositionChange": -2,
+   "gloryPoint": 18807,
+   "gloryPointChange": -37,
    "soldierRankID": 12
   }
  ],

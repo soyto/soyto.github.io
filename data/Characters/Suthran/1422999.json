@@ -2,12 +2,14 @@
  "characterID": 1422999,
  "characterClassID": 8,
  "raceID": 0,
- "position": 367,
- "rankingPositionChange": 12,
- "gloryPoint": 43701,
- "gloryPointChange": 1383,
+ "position": 358,
+ "rankingPositionChange": 9,
+ "gloryPoint": 44603,
+ "gloryPointChange": 902,
  "soldierRankID": 12,
  "characterName": "Tayulya",
+ "guildName": "l KISS ME l",
+ "guildID": 33430,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 43701,
    "gloryPointChange": 1383,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 358,
+   "rankingPositionChange": 9,
+   "gloryPoint": 44603,
+   "gloryPointChange": 902,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-19T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "l KISS ME l",
+   "guildID": 33430
   }
  ]
 }

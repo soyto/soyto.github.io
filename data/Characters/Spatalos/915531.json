@@ -2,14 +2,12 @@
  "characterID": 915531,
  "characterClassID": 7,
  "raceID": 1,
- "position": 434,
- "rankingPositionChange": -3,
- "gloryPoint": 10846,
+ "position": 431,
+ "rankingPositionChange": 3,
+ "gloryPoint": 10818,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Ismir",
- "guildName": "Syntagma",
- "guildID": 10094,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 10846,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 431,
+   "rankingPositionChange": 3,
+   "gloryPoint": 10818,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Syntagma",
    "guildID": 10094
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

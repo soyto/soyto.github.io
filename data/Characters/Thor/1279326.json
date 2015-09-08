@@ -2,12 +2,14 @@
  "characterID": 1279326,
  "characterClassID": 10,
  "raceID": 0,
- "position": 191,
- "rankingPositionChange": 0,
- "gloryPoint": 93807,
- "gloryPointChange": 212,
+ "position": 189,
+ "rankingPositionChange": 2,
+ "gloryPoint": 95196,
+ "gloryPointChange": 1389,
  "soldierRankID": 13,
  "characterName": "Shibuiiya",
+ "guildName": "Born to Rage",
+ "guildID": 44496,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 93807,
    "gloryPointChange": 212,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 189,
+   "rankingPositionChange": 2,
+   "gloryPoint": 95196,
+   "gloryPointChange": 1389,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Born to Rage",
+   "guildID": 44496
   }
  ]
 }

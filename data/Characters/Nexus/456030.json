@@ -2,10 +2,10 @@
  "characterID": 456030,
  "characterClassID": 14,
  "raceID": 0,
- "position": 459,
- "rankingPositionChange": -2,
- "gloryPoint": 19531,
- "gloryPointChange": -25,
+ "position": 458,
+ "rankingPositionChange": 1,
+ "gloryPoint": 19956,
+ "gloryPointChange": 425,
  "soldierRankID": 12,
  "characterName": "Ishbaal",
  "guildName": "Fire Shadows",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 19531,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 458,
+   "rankingPositionChange": 1,
+   "gloryPoint": 19956,
+   "gloryPointChange": 425,
    "soldierRankID": 12
   }
  ],

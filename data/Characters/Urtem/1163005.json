@@ -2,10 +2,10 @@
  "characterID": 1163005,
  "characterClassID": 14,
  "raceID": 1,
- "position": 148,
- "rankingPositionChange": 1,
- "gloryPoint": 64406,
- "gloryPointChange": 270,
+ "position": 150,
+ "rankingPositionChange": -2,
+ "gloryPoint": 64318,
+ "gloryPointChange": -88,
  "soldierRankID": 13,
  "characterName": "Tontongata",
  "guildName": "A D V",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 64406,
    "gloryPointChange": 270,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": -2,
+   "gloryPoint": 64318,
+   "gloryPointChange": -88,
    "soldierRankID": 13
   }
  ],

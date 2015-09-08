@@ -2,10 +2,10 @@
  "characterID": 409403,
  "characterClassID": 5,
  "raceID": 0,
- "position": 938,
- "rankingPositionChange": 1,
- "gloryPoint": 6185,
- "gloryPointChange": -7,
+ "position": 940,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6171,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Scooby",
  "guildName": "SoulRippers",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 6185,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6171,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

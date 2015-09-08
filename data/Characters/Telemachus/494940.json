@@ -2,14 +2,14 @@
  "characterID": 494940,
  "characterClassID": 1,
  "raceID": 1,
- "position": 234,
- "rankingPositionChange": 0,
- "gloryPoint": 19295,
- "gloryPointChange": -49,
+ "position": 235,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19480,
+ "gloryPointChange": 185,
  "soldierRankID": 13,
  "characterName": "Vagito",
- "guildName": "Valkan Mafia",
- "guildID": 8964,
+ "guildName": "The Legion of Friends",
+ "guildID": 24621,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 19295,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 235,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19480,
+   "gloryPointChange": 185,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Valkan Mafia",
    "guildID": 8964
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "The Legion of Friends",
+   "guildID": 24621
   }
  ]
 }

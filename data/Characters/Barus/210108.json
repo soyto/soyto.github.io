@@ -2,14 +2,14 @@
  "characterID": 210108,
  "characterClassID": 7,
  "raceID": 0,
- "position": 486,
- "rankingPositionChange": 7,
- "gloryPoint": 29094,
- "gloryPointChange": 214,
+ "position": 489,
+ "rankingPositionChange": -3,
+ "gloryPoint": 29078,
+ "gloryPointChange": -16,
  "soldierRankID": 12,
  "characterName": "Liptono",
- "guildName": "AnalTerror",
- "guildID": 13414,
+ "guildName": "Heavenly",
+ "guildID": 2219,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 29094,
    "gloryPointChange": 214,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 489,
+   "rankingPositionChange": -3,
+   "gloryPoint": 29078,
+   "gloryPointChange": -16,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -300,6 +308,11 @@
    "date": "2015-08-10T22:00:00.000Z",
    "guildName": "AnalTerror",
    "guildID": 13414
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Heavenly",
+   "guildID": 2219
   }
  ]
 }

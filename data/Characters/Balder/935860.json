@@ -2,10 +2,10 @@
  "characterID": 935860,
  "characterClassID": 10,
  "raceID": 0,
- "position": 820,
- "rankingPositionChange": 1,
- "gloryPoint": 2477,
- "gloryPointChange": -7,
+ "position": 825,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2463,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Maxitplusk",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 2477,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 825,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2463,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

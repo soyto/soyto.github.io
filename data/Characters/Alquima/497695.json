@@ -3,11 +3,13 @@
  "characterClassID": 13,
  "raceID": 1,
  "position": 169,
- "rankingPositionChange": -1,
- "gloryPoint": 52617,
- "gloryPointChange": -49,
+ "rankingPositionChange": 0,
+ "gloryPoint": 52743,
+ "gloryPointChange": 126,
  "soldierRankID": 13,
  "characterName": "Toguroo",
+ "guildName": "Consejo de Sabios",
+ "guildID": 5149,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 52617,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 169,
+   "rankingPositionChange": 0,
+   "gloryPoint": 52743,
+   "gloryPointChange": 126,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -309,6 +319,11 @@
   },
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Consejo de Sabios",
+   "guildID": 5149
   }
  ]
 }

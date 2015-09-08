@@ -2,10 +2,10 @@
  "characterID": 964841,
  "characterClassID": 4,
  "raceID": 1,
- "position": 570,
- "rankingPositionChange": 3,
- "gloryPoint": 7977,
- "gloryPointChange": 84,
+ "position": 575,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7949,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Jeyssy",
  "guildName": "The Soul Catcher",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 7977,
    "gloryPointChange": 84,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7949,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

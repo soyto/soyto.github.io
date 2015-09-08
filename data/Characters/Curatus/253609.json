@@ -2,10 +2,10 @@
  "characterID": 253609,
  "characterClassID": 10,
  "raceID": 0,
- "position": 251,
- "rankingPositionChange": 1,
- "gloryPoint": 66031,
- "gloryPointChange": 357,
+ "position": 252,
+ "rankingPositionChange": -1,
+ "gloryPoint": 66023,
+ "gloryPointChange": -8,
  "soldierRankID": 13,
  "characterName": "Trademark",
  "guildName": "Eclypse",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 66031,
    "gloryPointChange": 357,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 252,
+   "rankingPositionChange": -1,
+   "gloryPoint": 66023,
+   "gloryPointChange": -8,
    "soldierRankID": 13
   }
  ],

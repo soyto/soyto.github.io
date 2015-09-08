@@ -2,10 +2,10 @@
  "characterID": 1261674,
  "characterClassID": 16,
  "raceID": 0,
- "position": 951,
- "rankingPositionChange": 2,
- "gloryPoint": 10877,
- "gloryPointChange": 68,
+ "position": 955,
+ "rankingPositionChange": -4,
+ "gloryPoint": 10863,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Tamsiiin",
  "guildName": "Rougain",
@@ -233,6 +233,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 10877,
    "gloryPointChange": 68,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": -4,
+   "gloryPoint": 10863,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

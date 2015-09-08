@@ -2,12 +2,14 @@
  "characterID": 312195,
  "characterClassID": 16,
  "raceID": 1,
- "position": 168,
- "rankingPositionChange": -1,
- "gloryPoint": 52680,
- "gloryPointChange": -49,
+ "position": 170,
+ "rankingPositionChange": -2,
+ "gloryPoint": 52685,
+ "gloryPointChange": 5,
  "soldierRankID": 13,
  "characterName": "Savva",
+ "guildName": "Fluffy Unicorns",
+ "guildID": 8785,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 52680,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 170,
+   "rankingPositionChange": -2,
+   "gloryPoint": 52685,
+   "gloryPointChange": 5,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Fluffy Unicorns",
+   "guildID": 8785
   }
  ]
 }

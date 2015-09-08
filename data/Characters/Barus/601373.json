@@ -2,10 +2,10 @@
  "characterID": 601373,
  "characterClassID": 13,
  "raceID": 1,
- "position": 712,
- "rankingPositionChange": 1,
- "gloryPoint": 17660,
- "gloryPointChange": 2,
+ "position": 718,
+ "rankingPositionChange": -6,
+ "gloryPoint": 17649,
+ "gloryPointChange": -11,
  "soldierRankID": 10,
  "characterName": "Letrix",
  "guildName": "Path of Destiny",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 17660,
    "gloryPointChange": 2,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 718,
+   "rankingPositionChange": -6,
+   "gloryPoint": 17649,
+   "gloryPointChange": -11,
    "soldierRankID": 10
   }
  ],

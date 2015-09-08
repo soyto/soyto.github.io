@@ -2,10 +2,10 @@
  "characterID": 500612,
  "characterClassID": 10,
  "raceID": 0,
- "position": 807,
- "rankingPositionChange": 22,
- "gloryPoint": 15594,
- "gloryPointChange": 430,
+ "position": 808,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15640,
+ "gloryPointChange": 46,
  "soldierRankID": 10,
  "characterName": "Littleliar",
  "guildName": "Hades Breath",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 22,
    "gloryPoint": 15594,
    "gloryPointChange": 430,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 808,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15640,
+   "gloryPointChange": 46,
    "soldierRankID": 10
   }
  ],

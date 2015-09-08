@@ -2,10 +2,10 @@
  "characterID": 82736,
  "characterClassID": 10,
  "raceID": 1,
- "position": 115,
- "rankingPositionChange": 2,
- "gloryPoint": 80397,
- "gloryPointChange": 261,
+ "position": 117,
+ "rankingPositionChange": -2,
+ "gloryPoint": 80299,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Pozithieff",
  "guildName": "MAD MEN",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 80397,
    "gloryPointChange": 261,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 117,
+   "rankingPositionChange": -2,
+   "gloryPoint": 80299,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

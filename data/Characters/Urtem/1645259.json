@@ -2,14 +2,14 @@
  "characterID": 1645259,
  "characterClassID": 16,
  "raceID": 1,
- "position": 704,
- "rankingPositionChange": 7,
- "gloryPoint": 11972,
- "gloryPointChange": 255,
+ "position": 703,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12124,
+ "gloryPointChange": 152,
  "soldierRankID": 10,
  "characterName": "Shocolatine",
- "guildName": "NiNjA Family",
- "guildID": 44990,
+ "guildName": "Spectral",
+ "guildID": 48595,
  "status": [
   {
    "date": "2015-08-19T22:00:00.000Z",
@@ -130,6 +130,14 @@
    "gloryPoint": 11972,
    "gloryPointChange": 255,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 703,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12124,
+   "gloryPointChange": 152,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -143,6 +151,11 @@
    "date": "2015-08-19T22:00:00.000Z",
    "guildName": "NiNjA Family",
    "guildID": 44990
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Spectral",
+   "guildID": 48595
   }
  ]
 }

@@ -3,9 +3,9 @@
  "characterClassID": 14,
  "raceID": 0,
  "position": 21,
- "rankingPositionChange": 1,
- "gloryPoint": 237815,
- "gloryPointChange": 222,
+ "rankingPositionChange": 0,
+ "gloryPoint": 237577,
+ "gloryPointChange": -238,
  "soldierRankID": 15,
  "characterName": "Neo",
  "guildName": "Soul Reapers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 237815,
    "gloryPointChange": 222,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 21,
+   "rankingPositionChange": 0,
+   "gloryPoint": 237577,
+   "gloryPointChange": -238,
    "soldierRankID": 15
   }
  ],

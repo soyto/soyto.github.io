@@ -2,10 +2,10 @@
  "characterID": 1004738,
  "characterClassID": 11,
  "raceID": 1,
- "position": 56,
- "rankingPositionChange": 0,
- "gloryPoint": 124333,
- "gloryPointChange": -47,
+ "position": 57,
+ "rankingPositionChange": -1,
+ "gloryPoint": 124229,
+ "gloryPointChange": -104,
  "soldierRankID": 14,
  "characterName": "Bluesword",
  "guildName": "Callejon",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 124333,
    "gloryPointChange": -47,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 57,
+   "rankingPositionChange": -1,
+   "gloryPoint": 124229,
+   "gloryPointChange": -104,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 35682,
  "characterClassID": 7,
  "raceID": 0,
- "position": 143,
- "rankingPositionChange": 0,
- "gloryPoint": 82584,
- "gloryPointChange": 136,
+ "position": 144,
+ "rankingPositionChange": -1,
+ "gloryPoint": 82510,
+ "gloryPointChange": -74,
  "soldierRankID": 13,
  "characterName": "Coseta",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 82584,
    "gloryPointChange": 136,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": -1,
+   "gloryPoint": 82510,
+   "gloryPointChange": -74,
    "soldierRankID": 13
   }
  ],

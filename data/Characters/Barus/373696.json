@@ -2,10 +2,10 @@
  "characterID": 373696,
  "characterClassID": 8,
  "raceID": 1,
- "position": 611,
- "rankingPositionChange": 7,
- "gloryPoint": 21620,
- "gloryPointChange": 169,
+ "position": 615,
+ "rankingPositionChange": -4,
+ "gloryPoint": 21690,
+ "gloryPointChange": 70,
  "soldierRankID": 11,
  "characterName": "Pharisee",
  "guildName": "Nice To Kill You",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 21620,
    "gloryPointChange": 169,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 615,
+   "rankingPositionChange": -4,
+   "gloryPoint": 21690,
+   "gloryPointChange": 70,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 516150,
  "characterClassID": 16,
  "raceID": 0,
- "position": 925,
- "rankingPositionChange": 1,
- "gloryPoint": 11322,
- "gloryPointChange": 11,
+ "position": 927,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11308,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Punkie",
  "guildName": "Black Lights",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 11322,
    "gloryPointChange": 11,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 927,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11308,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

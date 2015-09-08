@@ -2,10 +2,10 @@
  "characterID": 981976,
  "characterClassID": 4,
  "raceID": 1,
- "position": 753,
- "rankingPositionChange": 5,
- "gloryPoint": 8518,
- "gloryPointChange": 368,
+ "position": 761,
+ "rankingPositionChange": -8,
+ "gloryPoint": 8504,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Naussicka",
  "guildName": "Night Shade",
@@ -209,6 +209,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 8518,
    "gloryPointChange": 368,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 761,
+   "rankingPositionChange": -8,
+   "gloryPoint": 8504,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

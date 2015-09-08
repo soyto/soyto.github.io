@@ -2,10 +2,10 @@
  "characterID": 1201826,
  "characterClassID": 11,
  "raceID": 1,
- "position": 98,
- "rankingPositionChange": 1,
- "gloryPoint": 72729,
- "gloryPointChange": 805,
+ "position": 100,
+ "rankingPositionChange": -2,
+ "gloryPoint": 72576,
+ "gloryPointChange": -153,
  "soldierRankID": 14,
  "characterName": "Dissonantia",
  "guildName": "Munin Stole My Bike",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 72729,
    "gloryPointChange": 805,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 100,
+   "rankingPositionChange": -2,
+   "gloryPoint": 72576,
+   "gloryPointChange": -153,
    "soldierRankID": 14
   }
  ],

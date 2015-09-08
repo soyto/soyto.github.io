@@ -2,10 +2,10 @@
  "characterID": 1353590,
  "characterClassID": 8,
  "raceID": 0,
- "position": 861,
- "rankingPositionChange": 3,
- "gloryPoint": 6782,
- "gloryPointChange": 21,
+ "position": 860,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6768,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Noraga",
  "guildName": "Vrai",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 6782,
    "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 860,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6768,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

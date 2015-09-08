@@ -2,10 +2,10 @@
  "characterID": 933845,
  "characterClassID": 14,
  "raceID": 0,
- "position": 410,
- "rankingPositionChange": 1,
- "gloryPoint": 11591,
- "gloryPointChange": -28,
+ "position": 411,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11535,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Abraxy",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 11591,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 411,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11535,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

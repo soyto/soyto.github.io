@@ -2,14 +2,14 @@
  "characterID": 328904,
  "characterClassID": 2,
  "raceID": 0,
- "position": 706,
- "rankingPositionChange": -4,
- "gloryPoint": 2393,
- "gloryPointChange": -7,
+ "position": 703,
+ "rankingPositionChange": 3,
+ "gloryPoint": 2379,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Impera",
- "guildName": "Shining Fate",
- "guildID": 15554,
+ "guildName": "Easy Craft",
+ "guildID": 14461,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 2393,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 703,
+   "rankingPositionChange": 3,
+   "gloryPoint": 2379,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "THUG LIFE",
    "guildID": 15554
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Easy Craft",
+   "guildID": 14461
   }
  ]
 }

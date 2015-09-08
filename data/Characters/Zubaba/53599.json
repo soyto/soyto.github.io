@@ -2,10 +2,10 @@
  "characterID": 53599,
  "characterClassID": 2,
  "raceID": 0,
- "position": 127,
- "rankingPositionChange": 0,
- "gloryPoint": 92271,
- "gloryPointChange": 93,
+ "position": 128,
+ "rankingPositionChange": -1,
+ "gloryPoint": 93099,
+ "gloryPointChange": 828,
  "soldierRankID": 13,
  "characterName": "Javacode",
  "guildName": "LETHAL",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 92271,
    "gloryPointChange": 93,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": -1,
+   "gloryPoint": 93099,
+   "gloryPointChange": 828,
    "soldierRankID": 13
   }
  ],

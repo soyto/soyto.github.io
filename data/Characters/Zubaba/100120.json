@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 522,
- "rankingPositionChange": 1,
- "gloryPoint": 8345,
- "gloryPointChange": 39,
+ "rankingPositionChange": 0,
+ "gloryPoint": 8317,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Ameloss",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 8345,
    "gloryPointChange": 39,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 522,
+   "rankingPositionChange": 0,
+   "gloryPoint": 8317,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

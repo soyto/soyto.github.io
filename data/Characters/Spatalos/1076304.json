@@ -2,10 +2,10 @@
  "characterID": 1076304,
  "characterClassID": 16,
  "raceID": 0,
- "position": 272,
- "rankingPositionChange": 3,
- "gloryPoint": 56430,
- "gloryPointChange": 331,
+ "position": 271,
+ "rankingPositionChange": 1,
+ "gloryPoint": 56341,
+ "gloryPointChange": -89,
  "soldierRankID": 13,
  "characterName": "Sharapi",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 56430,
    "gloryPointChange": 331,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 271,
+   "rankingPositionChange": 1,
+   "gloryPoint": 56341,
+   "gloryPointChange": -89,
    "soldierRankID": 13
   }
  ],

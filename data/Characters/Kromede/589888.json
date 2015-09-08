@@ -2,14 +2,14 @@
  "characterID": 589888,
  "characterClassID": 11,
  "raceID": 1,
- "position": 496,
- "rankingPositionChange": -2,
- "gloryPoint": 10088,
+ "position": 499,
+ "rankingPositionChange": -3,
+ "gloryPoint": 10060,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Lidi",
- "guildName": "WhiteReapers",
- "guildID": 4901,
+ "guildName": "Wiege der Götter",
+ "guildID": 1208,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 10088,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 499,
+   "rankingPositionChange": -3,
+   "gloryPoint": 10060,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "WhiteReapers",
    "guildID": 4901
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Wiege der Götter",
+   "guildID": 1208
   }
  ]
 }

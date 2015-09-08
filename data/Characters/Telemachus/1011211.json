@@ -2,10 +2,10 @@
  "characterID": 1011211,
  "characterClassID": 14,
  "raceID": 0,
- "position": 579,
- "rankingPositionChange": 3,
- "gloryPoint": 19561,
- "gloryPointChange": 6,
+ "position": 578,
+ "rankingPositionChange": 1,
+ "gloryPoint": 19533,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Vonnie",
  "status": [
@@ -143,6 +143,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 19561,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 578,
+   "rankingPositionChange": 1,
+   "gloryPoint": 19533,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

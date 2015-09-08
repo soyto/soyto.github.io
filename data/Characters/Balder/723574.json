@@ -3,9 +3,9 @@
  "characterClassID": 11,
  "raceID": 1,
  "position": 102,
- "rankingPositionChange": 1,
- "gloryPoint": 64895,
- "gloryPointChange": 22,
+ "rankingPositionChange": 0,
+ "gloryPoint": 64862,
+ "gloryPointChange": -33,
  "soldierRankID": 13,
  "characterName": "Fkingtali",
  "guildName": "Sober",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 64895,
    "gloryPointChange": 22,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 102,
+   "rankingPositionChange": 0,
+   "gloryPoint": 64862,
+   "gloryPointChange": -33,
    "soldierRankID": 13
   }
  ],

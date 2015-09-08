@@ -2,10 +2,10 @@
  "characterID": 166289,
  "characterClassID": 10,
  "raceID": 0,
- "position": 942,
- "rankingPositionChange": 1,
- "gloryPoint": 3266,
- "gloryPointChange": -7,
+ "position": 943,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3252,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Nela",
  "status": [
@@ -175,6 +175,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 3266,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 943,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3252,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

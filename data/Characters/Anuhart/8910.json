@@ -2,12 +2,14 @@
  "characterID": 8910,
  "characterClassID": 7,
  "raceID": 0,
- "position": 693,
- "rankingPositionChange": -4,
- "gloryPoint": 8893,
- "gloryPointChange": -14,
+ "position": 694,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8865,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Sorcerer",
+ "guildName": "CrEePy DoLL",
+ "guildID": 21175,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 8893,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 694,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8865,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -301,6 +311,11 @@
   },
   {
    "date": "2015-08-10T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "CrEePy DoLL",
+   "guildID": 21175
   }
  ]
 }

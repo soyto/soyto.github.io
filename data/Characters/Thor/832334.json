@@ -2,10 +2,10 @@
  "characterID": 832334,
  "characterClassID": 1,
  "raceID": 0,
- "position": 117,
- "rankingPositionChange": 1,
- "gloryPoint": 137973,
- "gloryPointChange": 257,
+ "position": 119,
+ "rankingPositionChange": -2,
+ "gloryPoint": 137875,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Kazhigh",
  "guildName": "Annihilation",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 137973,
    "gloryPointChange": 257,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 119,
+   "rankingPositionChange": -2,
+   "gloryPoint": 137875,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

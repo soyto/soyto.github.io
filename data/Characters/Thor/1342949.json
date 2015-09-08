@@ -2,10 +2,10 @@
  "characterID": 1342949,
  "characterClassID": 11,
  "raceID": 1,
- "position": 254,
- "rankingPositionChange": 0,
- "gloryPoint": 61574,
- "gloryPointChange": 793,
+ "position": 255,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61884,
+ "gloryPointChange": 310,
  "soldierRankID": 13,
  "characterName": "Cirada",
  "guildName": "Black listed",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 61574,
    "gloryPointChange": 793,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61884,
+   "gloryPointChange": 310,
    "soldierRankID": 13
   }
  ],

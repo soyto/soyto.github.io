@@ -3,11 +3,13 @@
  "characterClassID": 4,
  "raceID": 0,
  "position": 648,
- "rankingPositionChange": 16,
- "gloryPoint": 11257,
- "gloryPointChange": 571,
+ "rankingPositionChange": 0,
+ "gloryPoint": 11249,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Zlitium",
+ "guildName": "Anoha",
+ "guildID": 7325,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 11257,
    "gloryPointChange": 571,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 648,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11249,
+   "gloryPointChange": -8,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-25T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Anoha",
+   "guildID": 7325
   }
  ]
 }

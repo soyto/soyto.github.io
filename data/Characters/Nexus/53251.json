@@ -2,10 +2,10 @@
  "characterID": 53251,
  "characterClassID": 10,
  "raceID": 1,
- "position": 160,
- "rankingPositionChange": 0,
- "gloryPoint": 95270,
- "gloryPointChange": -49,
+ "position": 165,
+ "rankingPositionChange": -5,
+ "gloryPoint": 95172,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Zlobni",
  "guildName": "We PvP IRL",
@@ -249,6 +249,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 95270,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 165,
+   "rankingPositionChange": -5,
+   "gloryPoint": 95172,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -3,9 +3,9 @@
  "characterClassID": 11,
  "raceID": 1,
  "position": 80,
- "rankingPositionChange": -1,
- "gloryPoint": 123441,
- "gloryPointChange": -107,
+ "rankingPositionChange": 0,
+ "gloryPoint": 123403,
+ "gloryPointChange": -38,
  "soldierRankID": 14,
  "characterName": "Yrria",
  "guildName": "Not Today",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 123441,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 80,
+   "rankingPositionChange": 0,
+   "gloryPoint": 123403,
+   "gloryPointChange": -38,
    "soldierRankID": 14
   }
  ],

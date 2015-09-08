@@ -2,14 +2,14 @@
  "characterID": 1321058,
  "characterClassID": 14,
  "raceID": 1,
- "position": 77,
- "rankingPositionChange": 0,
- "gloryPoint": 151613,
- "gloryPointChange": 488,
+ "position": 76,
+ "rankingPositionChange": 1,
+ "gloryPoint": 152846,
+ "gloryPointChange": 1233,
  "soldierRankID": 14,
  "characterName": "Deviance",
- "guildName": "Ich bremse nicht ich lauf durch",
- "guildID": 46737,
+ "guildName": "Heer der Finsternis",
+ "guildID": 41586,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 151613,
    "gloryPointChange": 488,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 76,
+   "rankingPositionChange": 1,
+   "gloryPoint": 152846,
+   "gloryPointChange": 1233,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -308,6 +316,11 @@
    "date": "2015-08-02T22:00:00.000Z",
    "guildName": "Ich bremse nicht ich lauf durch",
    "guildID": 46737
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Heer der Finsternis",
+   "guildID": 41586
   }
  ]
 }

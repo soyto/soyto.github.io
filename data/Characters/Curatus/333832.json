@@ -2,10 +2,10 @@
  "characterID": 333832,
  "characterClassID": 11,
  "raceID": 1,
- "position": 594,
- "rankingPositionChange": 2,
- "gloryPoint": 9500,
- "gloryPointChange": 210,
+ "position": 595,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9572,
+ "gloryPointChange": 72,
  "soldierRankID": 11,
  "characterName": "Ryngyl",
  "guildName": "  TOP  ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 9500,
    "gloryPointChange": 210,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 595,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9572,
+   "gloryPointChange": 72,
    "soldierRankID": 11
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 63237,
  "characterClassID": 1,
  "raceID": 0,
- "position": 28,
- "rankingPositionChange": 0,
- "gloryPoint": 225494,
- "gloryPointChange": 1041,
+ "position": 27,
+ "rankingPositionChange": 1,
+ "gloryPoint": 226586,
+ "gloryPointChange": 1092,
  "soldierRankID": 15,
  "characterName": "Kali",
+ "guildName": " NoCheat NoBaveuse ",
+ "guildID": 33695,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 225494,
    "gloryPointChange": 1041,
    "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 27,
+   "rankingPositionChange": 1,
+   "gloryPoint": 226586,
+   "gloryPointChange": 1092,
+   "soldierRankID": 15
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " NoCheat NoBaveuse ",
+   "guildID": 33695
   }
  ]
 }

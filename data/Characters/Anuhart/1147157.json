@@ -2,10 +2,10 @@
  "characterID": 1147157,
  "characterClassID": 4,
  "raceID": 0,
- "position": 945,
- "rankingPositionChange": -6,
- "gloryPoint": 4690,
- "gloryPointChange": -7,
+ "position": 944,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4791,
+ "gloryPointChange": 101,
  "soldierRankID": 10,
  "characterName": "Dawisher",
  "guildName": "The Spartans",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 4690,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 944,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4791,
+   "gloryPointChange": 101,
    "soldierRankID": 10
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 289031,
  "characterClassID": 4,
  "raceID": 0,
- "position": 926,
- "rankingPositionChange": 19,
- "gloryPoint": 11665,
- "gloryPointChange": 315,
+ "position": 909,
+ "rankingPositionChange": 17,
+ "gloryPoint": 12324,
+ "gloryPointChange": 659,
  "soldierRankID": 10,
  "characterName": "Struggle",
+ "guildName": "THOR",
+ "guildID": 1037,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -48,6 +50,14 @@
    "gloryPoint": 11665,
    "gloryPointChange": 315,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 909,
+   "rankingPositionChange": 17,
+   "gloryPoint": 12324,
+   "gloryPointChange": 659,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -59,6 +69,11 @@
  "guilds": [
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "THOR",
+   "guildID": 1037
   }
  ]
 }

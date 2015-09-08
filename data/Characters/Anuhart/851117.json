@@ -2,12 +2,14 @@
  "characterID": 851117,
  "characterClassID": 16,
  "raceID": 0,
- "position": 475,
- "rankingPositionChange": -1,
- "gloryPoint": 15650,
- "gloryPointChange": 62,
+ "position": 472,
+ "rankingPositionChange": 3,
+ "gloryPoint": 15797,
+ "gloryPointChange": 147,
  "soldierRankID": 12,
  "characterName": "Solcat",
+ "guildName": "PIKA PIKACHU",
+ "guildID": 20886,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 15650,
    "gloryPointChange": 62,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 472,
+   "rankingPositionChange": 3,
+   "gloryPoint": 15797,
+   "gloryPointChange": 147,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -312,6 +322,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "PIKA PIKACHU",
+   "guildID": 20886
   }
  ]
 }

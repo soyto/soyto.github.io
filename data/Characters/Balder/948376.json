@@ -2,10 +2,10 @@
  "characterID": 948376,
  "characterClassID": 13,
  "raceID": 1,
- "position": 421,
- "rankingPositionChange": 0,
- "gloryPoint": 3636,
- "gloryPointChange": 32,
+ "position": 418,
+ "rankingPositionChange": 3,
+ "gloryPoint": 3580,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Schlumpfbeer",
  "guildName": "The Dark Side of the Sun",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 3636,
    "gloryPointChange": 32,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 418,
+   "rankingPositionChange": 3,
+   "gloryPoint": 3580,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

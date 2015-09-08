@@ -2,10 +2,10 @@
  "characterID": 55764,
  "characterClassID": 5,
  "raceID": 0,
- "position": 727,
- "rankingPositionChange": 0,
- "gloryPoint": 7141,
- "gloryPointChange": -7,
+ "position": 728,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7127,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Sharlock",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7141,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 728,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7127,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

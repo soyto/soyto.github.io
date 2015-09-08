@@ -2,14 +2,14 @@
  "characterID": 1361719,
  "characterClassID": 7,
  "raceID": 0,
- "position": 980,
- "rankingPositionChange": 20,
- "gloryPoint": 6063,
- "gloryPointChange": 527,
+ "position": 969,
+ "rankingPositionChange": 11,
+ "gloryPoint": 6049,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Vanmey",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -234,6 +234,14 @@
    "gloryPoint": 6063,
    "gloryPointChange": 527,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": 11,
+   "gloryPoint": 6049,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -247,6 +255,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

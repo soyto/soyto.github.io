@@ -2,10 +2,10 @@
  "characterID": 105696,
  "characterClassID": 8,
  "raceID": 0,
- "position": 218,
- "rankingPositionChange": 1,
- "gloryPoint": 51822,
- "gloryPointChange": -49,
+ "position": 219,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51724,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Shaena",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 51822,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 219,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51724,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

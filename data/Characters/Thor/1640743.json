@@ -2,12 +2,14 @@
  "characterID": 1640743,
  "characterClassID": 5,
  "raceID": 1,
- "position": 221,
- "rankingPositionChange": -3,
- "gloryPoint": 67404,
- "gloryPointChange": -46,
+ "position": 220,
+ "rankingPositionChange": 1,
+ "gloryPoint": 68128,
+ "gloryPointChange": 724,
  "soldierRankID": 13,
- "characterName": "Haten",
+ "characterName": "Babadook",
+ "guildName": "Heer der Finsternis",
+ "guildID": 41586,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,12 +290,24 @@
    "gloryPoint": 67404,
    "gloryPointChange": -46,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": 1,
+   "gloryPoint": 68128,
+   "gloryPointChange": 724,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Haten"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Babadook"
   }
  ],
  "guilds": [
@@ -317,6 +331,11 @@
   },
   {
    "date": "2015-08-30T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Heer der Finsternis",
+   "guildID": 41586
   }
  ]
 }

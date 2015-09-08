@@ -2,10 +2,10 @@
  "characterID": 345752,
  "characterClassID": 2,
  "raceID": 1,
- "position": 163,
- "rankingPositionChange": 0,
- "gloryPoint": 60181,
- "gloryPointChange": 101,
+ "position": 165,
+ "rankingPositionChange": -2,
+ "gloryPoint": 60083,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Diablekam",
  "guildName": "Les Affranchis",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 60181,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 165,
+   "rankingPositionChange": -2,
+   "gloryPoint": 60083,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

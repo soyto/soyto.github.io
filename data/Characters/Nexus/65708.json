@@ -2,10 +2,10 @@
  "characterID": 65708,
  "characterClassID": 4,
  "raceID": 0,
- "position": 272,
- "rankingPositionChange": 3,
- "gloryPoint": 40691,
- "gloryPointChange": 860,
+ "position": 275,
+ "rankingPositionChange": -3,
+ "gloryPoint": 40593,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Unix",
  "guildName": "Fire Shadows",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 40691,
    "gloryPointChange": 860,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 275,
+   "rankingPositionChange": -3,
+   "gloryPoint": 40593,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

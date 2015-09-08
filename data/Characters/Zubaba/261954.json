@@ -2,10 +2,10 @@
  "characterID": 261954,
  "characterClassID": 5,
  "raceID": 1,
- "position": 955,
- "rankingPositionChange": -5,
- "gloryPoint": 1293,
- "gloryPointChange": -7,
+ "position": 951,
+ "rankingPositionChange": 4,
+ "gloryPoint": 1279,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Sofast",
  "status": [
@@ -127,6 +127,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 1293,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": 4,
+   "gloryPoint": 1279,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

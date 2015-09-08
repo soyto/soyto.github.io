@@ -2,10 +2,10 @@
  "characterID": 820381,
  "characterClassID": 14,
  "raceID": 1,
- "position": 76,
- "rankingPositionChange": 0,
- "gloryPoint": 75192,
- "gloryPointChange": -57,
+ "position": 77,
+ "rankingPositionChange": -1,
+ "gloryPoint": 75028,
+ "gloryPointChange": -164,
  "soldierRankID": 14,
  "characterName": "Asgardur",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 75192,
    "gloryPointChange": -57,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 77,
+   "rankingPositionChange": -1,
+   "gloryPoint": 75028,
+   "gloryPointChange": -164,
    "soldierRankID": 14
   }
  ],

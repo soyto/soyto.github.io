@@ -2,14 +2,14 @@
  "characterID": 1125743,
  "characterClassID": 16,
  "raceID": 0,
- "position": 891,
- "rankingPositionChange": 0,
- "gloryPoint": 15102,
- "gloryPointChange": 0,
+ "position": 943,
+ "rankingPositionChange": -52,
+ "gloryPoint": 14899,
+ "gloryPointChange": -203,
  "soldierRankID": 10,
  "characterName": "Kaanzo",
- "guildName": "L E S I M M O R T E L S",
- "guildID": 38280,
+ "guildName": "TheWorldOfDark",
+ "guildID": 48613,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -82,6 +82,14 @@
    "gloryPoint": 15102,
    "gloryPointChange": 0,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 943,
+   "rankingPositionChange": -52,
+   "gloryPoint": 14899,
+   "gloryPointChange": -203,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -95,6 +103,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "L E S I M M O R T E L S",
    "guildID": 38280
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "TheWorldOfDark",
+   "guildID": 48613
   }
  ]
 }

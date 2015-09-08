@@ -2,10 +2,10 @@
  "characterID": 703703,
  "characterClassID": 13,
  "raceID": 1,
- "position": 252,
- "rankingPositionChange": 0,
- "gloryPoint": 35077,
- "gloryPointChange": 101,
+ "position": 257,
+ "rankingPositionChange": -5,
+ "gloryPoint": 35182,
+ "gloryPointChange": 105,
  "soldierRankID": 13,
  "characterName": "Twistoffate",
  "guildName": "SHADE",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35077,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 257,
+   "rankingPositionChange": -5,
+   "gloryPoint": 35182,
+   "gloryPointChange": 105,
    "soldierRankID": 13
   }
  ],

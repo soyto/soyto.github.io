@@ -2,10 +2,10 @@
  "characterID": 228772,
  "characterClassID": 2,
  "raceID": 1,
- "position": 360,
- "rankingPositionChange": 0,
- "gloryPoint": 18250,
- "gloryPointChange": -28,
+ "position": 361,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18215,
+ "gloryPointChange": -35,
  "soldierRankID": 12,
  "characterName": "Yekialem",
  "guildName": "Nizam I Cedid",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 18250,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 361,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18215,
+   "gloryPointChange": -35,
    "soldierRankID": 12
   }
  ],

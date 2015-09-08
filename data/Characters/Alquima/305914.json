@@ -2,10 +2,10 @@
  "characterID": 305914,
  "characterClassID": 8,
  "raceID": 1,
- "position": 456,
- "rankingPositionChange": 8,
- "gloryPoint": 17712,
- "gloryPointChange": 370,
+ "position": 458,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17959,
+ "gloryPointChange": 247,
  "soldierRankID": 12,
  "characterName": "Eireen",
  "guildName": "Embajadores de Shangri La",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 17712,
    "gloryPointChange": 370,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 458,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17959,
+   "gloryPointChange": 247,
    "soldierRankID": 12
   }
  ],

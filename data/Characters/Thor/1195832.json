@@ -2,10 +2,10 @@
  "characterID": 1195832,
  "characterClassID": 7,
  "raceID": 1,
- "position": 154,
- "rankingPositionChange": 0,
- "gloryPoint": 91162,
- "gloryPointChange": 204,
+ "position": 155,
+ "rankingPositionChange": -1,
+ "gloryPoint": 91267,
+ "gloryPointChange": 105,
  "soldierRankID": 13,
  "characterName": "Aschn",
  "guildName": "Weedhunters",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 91162,
    "gloryPointChange": 204,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 155,
+   "rankingPositionChange": -1,
+   "gloryPoint": 91267,
+   "gloryPointChange": 105,
    "soldierRankID": 13
   }
  ],

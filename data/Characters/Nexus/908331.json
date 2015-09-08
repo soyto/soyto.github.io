@@ -2,12 +2,12 @@
  "characterID": 908331,
  "characterClassID": 10,
  "raceID": 1,
- "position": 861,
- "rankingPositionChange": -6,
- "gloryPoint": 10948,
- "gloryPointChange": -7,
+ "position": 847,
+ "rankingPositionChange": 14,
+ "gloryPoint": 11384,
+ "gloryPointChange": 436,
  "soldierRankID": 10,
- "characterName": "Devares",
+ "characterName": "Holystorm",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -232,12 +232,24 @@
    "gloryPoint": 10948,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 847,
+   "rankingPositionChange": 14,
+   "gloryPoint": 11384,
+   "gloryPointChange": 436,
+   "soldierRankID": 10
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Devares"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Holystorm"
   }
  ],
  "guilds": [

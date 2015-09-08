@@ -2,14 +2,14 @@
  "characterID": 919959,
  "characterClassID": 11,
  "raceID": 1,
- "position": 807,
- "rankingPositionChange": -7,
- "gloryPoint": 3453,
- "gloryPointChange": -7,
+ "position": 803,
+ "rankingPositionChange": 4,
+ "gloryPoint": 3489,
+ "gloryPointChange": 36,
  "soldierRankID": 10,
  "characterName": "Samelia",
- "guildName": "Lionhearts",
- "guildID": 6062,
+ "guildName": "The Legendary Bastards",
+ "guildID": 15103,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 3453,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 803,
+   "rankingPositionChange": 4,
+   "gloryPoint": 3489,
+   "gloryPointChange": 36,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Lionhearts",
    "guildID": 6062
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "The Legendary Bastards",
+   "guildID": 15103
   }
  ]
 }

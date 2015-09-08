@@ -2,10 +2,10 @@
  "characterID": 1255480,
  "characterClassID": 16,
  "raceID": 0,
- "position": 163,
- "rankingPositionChange": -1,
- "gloryPoint": 90596,
- "gloryPointChange": 451,
+ "position": 162,
+ "rankingPositionChange": 1,
+ "gloryPoint": 90498,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Urriel",
  "guildName": "Honor Of Elyos",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 90596,
    "gloryPointChange": 451,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 162,
+   "rankingPositionChange": 1,
+   "gloryPoint": 90498,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

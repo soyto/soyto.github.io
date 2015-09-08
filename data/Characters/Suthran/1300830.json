@@ -2,10 +2,10 @@
  "characterID": 1300830,
  "characterClassID": 14,
  "raceID": 1,
- "position": 733,
- "rankingPositionChange": 1,
- "gloryPoint": 8670,
- "gloryPointChange": -7,
+ "position": 755,
+ "rankingPositionChange": -22,
+ "gloryPoint": 8614,
+ "gloryPointChange": -56,
  "soldierRankID": 10,
  "characterName": "Myoha",
  "status": [
@@ -231,6 +231,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 8670,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 755,
+   "rankingPositionChange": -22,
+   "gloryPoint": 8614,
+   "gloryPointChange": -56,
    "soldierRankID": 10
   }
  ],

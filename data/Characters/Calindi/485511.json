@@ -2,10 +2,10 @@
  "characterID": 485511,
  "characterClassID": 10,
  "raceID": 1,
- "position": 72,
- "rankingPositionChange": 0,
- "gloryPoint": 24624,
- "gloryPointChange": 0,
+ "position": 73,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24410,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Istralis",
  "status": [
@@ -15,6 +15,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 24624,
    "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 73,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24410,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

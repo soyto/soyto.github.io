@@ -2,10 +2,10 @@
  "characterID": 467282,
  "characterClassID": 14,
  "raceID": 1,
- "position": 883,
- "rankingPositionChange": 0,
- "gloryPoint": 7022,
- "gloryPointChange": -7,
+ "position": 884,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7115,
+ "gloryPointChange": 93,
  "soldierRankID": 10,
  "characterName": "Mogor",
  "guildName": "HYDRA",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7022,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 884,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7115,
+   "gloryPointChange": 93,
    "soldierRankID": 10
   }
  ],

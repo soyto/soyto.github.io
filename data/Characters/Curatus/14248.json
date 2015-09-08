@@ -2,10 +2,10 @@
  "characterID": 14248,
  "characterClassID": 10,
  "raceID": 0,
- "position": 553,
- "rankingPositionChange": -1,
- "gloryPoint": 25099,
- "gloryPointChange": -14,
+ "position": 551,
+ "rankingPositionChange": 2,
+ "gloryPoint": 25071,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Raksha",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 25099,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 551,
+   "rankingPositionChange": 2,
+   "gloryPoint": 25071,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

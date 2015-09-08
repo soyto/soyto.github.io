@@ -2,10 +2,10 @@
  "characterID": 444989,
  "characterClassID": 4,
  "raceID": 0,
- "position": 101,
- "rankingPositionChange": 0,
- "gloryPoint": 108290,
- "gloryPointChange": -49,
+ "position": 103,
+ "rankingPositionChange": -2,
+ "gloryPoint": 108192,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Kineas",
  "guildName": "Check Ready",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 108290,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 103,
+   "rankingPositionChange": -2,
+   "gloryPoint": 108192,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

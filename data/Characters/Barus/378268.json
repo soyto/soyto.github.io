@@ -2,10 +2,10 @@
  "characterID": 378268,
  "characterClassID": 2,
  "raceID": 0,
- "position": 469,
- "rankingPositionChange": 1,
- "gloryPoint": 30338,
- "gloryPointChange": 79,
+ "position": 470,
+ "rankingPositionChange": -1,
+ "gloryPoint": 30530,
+ "gloryPointChange": 192,
  "soldierRankID": 12,
  "characterName": "Sabio",
  "guildName": "Invictum",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 30338,
    "gloryPointChange": 79,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 470,
+   "rankingPositionChange": -1,
+   "gloryPoint": 30530,
+   "gloryPointChange": 192,
    "soldierRankID": 12
   }
  ],

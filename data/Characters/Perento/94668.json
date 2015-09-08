@@ -2,14 +2,14 @@
  "characterID": 94668,
  "characterClassID": 1,
  "raceID": 0,
- "position": 651,
- "rankingPositionChange": 2,
- "gloryPoint": 13023,
- "gloryPointChange": -14,
+ "position": 645,
+ "rankingPositionChange": 6,
+ "gloryPoint": 13095,
+ "gloryPointChange": 72,
  "soldierRankID": 11,
  "characterName": "Rajram",
- "guildName": "S t a r D u s t",
- "guildID": 29530,
+ "guildName": "Ultimate Destiny",
+ "guildID": 10893,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 13023,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 645,
+   "rankingPositionChange": 6,
+   "gloryPoint": 13095,
+   "gloryPointChange": 72,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "S t a r D u s t",
    "guildID": 29530
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Ultimate Destiny",
+   "guildID": 10893
   }
  ]
 }

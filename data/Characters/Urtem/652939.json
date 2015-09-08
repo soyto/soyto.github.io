@@ -2,10 +2,10 @@
  "characterID": 652939,
  "characterClassID": 8,
  "raceID": 0,
- "position": 864,
- "rankingPositionChange": 1,
- "gloryPoint": 16807,
- "gloryPointChange": 353,
+ "position": 865,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17053,
+ "gloryPointChange": 246,
  "soldierRankID": 10,
  "characterName": "Naenerys",
  "guildName": "Les Plaies Mobiles",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 16807,
    "gloryPointChange": 353,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 865,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17053,
+   "gloryPointChange": 246,
    "soldierRankID": 10
   }
  ],

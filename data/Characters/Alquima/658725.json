@@ -2,10 +2,10 @@
  "characterID": 658725,
  "characterClassID": 1,
  "raceID": 1,
- "position": 952,
- "rankingPositionChange": 10,
- "gloryPoint": 6111,
- "gloryPointChange": 163,
+ "position": 959,
+ "rankingPositionChange": -7,
+ "gloryPoint": 6097,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Cynx",
  "guildName": "Aogiri",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 6111,
    "gloryPointChange": 163,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 959,
+   "rankingPositionChange": -7,
+   "gloryPoint": 6097,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

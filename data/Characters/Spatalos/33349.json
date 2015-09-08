@@ -2,10 +2,10 @@
  "characterID": 33349,
  "characterClassID": 1,
  "raceID": 0,
- "position": 215,
- "rankingPositionChange": 3,
- "gloryPoint": 69207,
- "gloryPointChange": 411,
+ "position": 219,
+ "rankingPositionChange": -4,
+ "gloryPoint": 68538,
+ "gloryPointChange": -669,
  "soldierRankID": 13,
  "characterName": "Beserker",
  "guildName": "Death is Coming",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 69207,
    "gloryPointChange": 411,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 219,
+   "rankingPositionChange": -4,
+   "gloryPoint": 68538,
+   "gloryPointChange": -669,
    "soldierRankID": 13
   }
  ],

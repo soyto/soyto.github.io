@@ -2,10 +2,10 @@
  "characterID": 195206,
  "characterClassID": 1,
  "raceID": 0,
- "position": 341,
- "rankingPositionChange": -2,
- "gloryPoint": 27690,
- "gloryPointChange": -28,
+ "position": 340,
+ "rankingPositionChange": 1,
+ "gloryPoint": 27634,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Luscilla",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 27690,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 340,
+   "rankingPositionChange": 1,
+   "gloryPoint": 27634,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

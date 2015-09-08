@@ -2,10 +2,10 @@
  "characterID": 1439744,
  "characterClassID": 16,
  "raceID": 1,
- "position": 802,
- "rankingPositionChange": 16,
- "gloryPoint": 7276,
- "gloryPointChange": 403,
+ "position": 810,
+ "rankingPositionChange": -8,
+ "gloryPoint": 7312,
+ "gloryPointChange": 36,
  "soldierRankID": 10,
  "characterName": "Cedeline",
  "guildName": "Lady s Warrior Demon",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 16,
    "gloryPoint": 7276,
    "gloryPointChange": 403,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 810,
+   "rankingPositionChange": -8,
+   "gloryPoint": 7312,
+   "gloryPointChange": 36,
    "soldierRankID": 10
   }
  ],

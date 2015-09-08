@@ -2,14 +2,12 @@
  "characterID": 759956,
  "characterClassID": 16,
  "raceID": 0,
- "position": 115,
- "rankingPositionChange": 1,
- "gloryPoint": 85174,
- "gloryPointChange": 391,
+ "position": 117,
+ "rankingPositionChange": -2,
+ "gloryPoint": 85256,
+ "gloryPointChange": 82,
  "soldierRankID": 13,
  "characterName": "Lelicz",
- "guildName": "OjdoForLife",
- "guildID": 14528,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 85174,
    "gloryPointChange": 391,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 117,
+   "rankingPositionChange": -2,
+   "gloryPoint": 85256,
+   "gloryPointChange": 82,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -308,6 +314,9 @@
    "date": "2015-08-17T22:00:00.000Z",
    "guildName": "OjdoForLife",
    "guildID": 14528
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

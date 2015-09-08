@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 952,
- "rankingPositionChange": -8,
- "gloryPoint": 3184,
- "gloryPointChange": -1,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3216,
+ "gloryPointChange": 32,
  "soldierRankID": 10,
  "characterName": "Ladygold",
  "guildName": "Callejon",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 3184,
    "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 952,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3216,
+   "gloryPointChange": 32,
    "soldierRankID": 10
   }
  ],

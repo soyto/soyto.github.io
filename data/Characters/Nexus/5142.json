@@ -2,10 +2,10 @@
  "characterID": 5142,
  "characterClassID": 2,
  "raceID": 0,
- "position": 75,
- "rankingPositionChange": 1,
- "gloryPoint": 109223,
- "gloryPointChange": 1203,
+ "position": 76,
+ "rankingPositionChange": -1,
+ "gloryPoint": 109912,
+ "gloryPointChange": 689,
  "soldierRankID": 14,
  "characterName": "Trina",
  "guildName": "Empyrean Order",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 109223,
    "gloryPointChange": 1203,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 76,
+   "rankingPositionChange": -1,
+   "gloryPoint": 109912,
+   "gloryPointChange": 689,
    "soldierRankID": 14
   }
  ],

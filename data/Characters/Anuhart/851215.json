@@ -2,10 +2,10 @@
  "characterID": 851215,
  "characterClassID": 16,
  "raceID": 1,
- "position": 956,
- "rankingPositionChange": -10,
- "gloryPoint": 1786,
- "gloryPointChange": -7,
+ "position": 933,
+ "rankingPositionChange": 23,
+ "gloryPoint": 1876,
+ "gloryPointChange": 90,
  "soldierRankID": 10,
  "characterName": "Astonia",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -10,
    "gloryPoint": 1786,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 933,
+   "rankingPositionChange": 23,
+   "gloryPoint": 1876,
+   "gloryPointChange": 90,
    "soldierRankID": 10
   }
  ],

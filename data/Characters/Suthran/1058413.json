@@ -2,10 +2,10 @@
  "characterID": 1058413,
  "characterClassID": 16,
  "raceID": 1,
- "position": 255,
- "rankingPositionChange": 1,
- "gloryPoint": 42156,
- "gloryPointChange": 173,
+ "position": 256,
+ "rankingPositionChange": -1,
+ "gloryPoint": 42266,
+ "gloryPointChange": 110,
  "soldierRankID": 13,
  "characterName": "Ririka",
  "guildName": "Fallen",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 42156,
    "gloryPointChange": 173,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 256,
+   "rankingPositionChange": -1,
+   "gloryPoint": 42266,
+   "gloryPointChange": 110,
    "soldierRankID": 13
   }
  ],

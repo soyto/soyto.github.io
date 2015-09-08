@@ -3,11 +3,13 @@
  "characterClassID": 8,
  "raceID": 0,
  "position": 395,
- "rankingPositionChange": -1,
- "gloryPoint": 24340,
- "gloryPointChange": -28,
+ "rankingPositionChange": 0,
+ "gloryPoint": 24559,
+ "gloryPointChange": 219,
  "soldierRankID": 12,
  "characterName": "Ispitaa",
+ "guildName": "Ten Inches Unbuffed",
+ "guildID": 14109,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 24340,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 395,
+   "rankingPositionChange": 0,
+   "gloryPoint": 24559,
+   "gloryPointChange": 219,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Ten Inches Unbuffed",
+   "guildID": 14109
   }
  ]
 }

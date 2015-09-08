@@ -2,10 +2,10 @@
  "characterID": 490703,
  "characterClassID": 8,
  "raceID": 0,
- "position": 798,
- "rankingPositionChange": 1,
- "gloryPoint": 15801,
- "gloryPointChange": -7,
+ "position": 800,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15787,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Trolman",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 15801,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15787,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

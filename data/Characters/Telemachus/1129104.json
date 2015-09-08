@@ -2,14 +2,12 @@
  "characterID": 1129104,
  "characterClassID": 16,
  "raceID": 0,
- "position": 860,
- "rankingPositionChange": 0,
- "gloryPoint": 8151,
- "gloryPointChange": -7,
+ "position": 840,
+ "rankingPositionChange": 20,
+ "gloryPoint": 8540,
+ "gloryPointChange": 389,
  "soldierRankID": 10,
  "characterName": "Hyon",
- "guildName": "Never Again",
- "guildID": 22032,
  "status": [
   {
    "date": "2015-08-16T22:00:00.000Z",
@@ -162,6 +160,14 @@
    "gloryPoint": 8151,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 840,
+   "rankingPositionChange": 20,
+   "gloryPoint": 8540,
+   "gloryPointChange": 389,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -175,6 +181,9 @@
    "date": "2015-08-16T22:00:00.000Z",
    "guildName": "Never Again",
    "guildID": 22032
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 1044851,
  "characterClassID": 11,
  "raceID": 0,
- "position": 900,
- "rankingPositionChange": 1,
- "gloryPoint": 11828,
- "gloryPointChange": 134,
+ "position": 902,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11823,
+ "gloryPointChange": -5,
  "soldierRankID": 10,
  "characterName": "Keledon",
  "guildName": "Nareth",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 11828,
    "gloryPointChange": 134,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 902,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11823,
+   "gloryPointChange": -5,
    "soldierRankID": 10
   }
  ],

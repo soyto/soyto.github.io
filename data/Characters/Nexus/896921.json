@@ -2,12 +2,14 @@
  "characterID": 896921,
  "characterClassID": 10,
  "raceID": 0,
- "position": 639,
- "rankingPositionChange": 6,
- "gloryPoint": 11457,
- "gloryPointChange": 261,
+ "position": 635,
+ "rankingPositionChange": 4,
+ "gloryPoint": 11621,
+ "gloryPointChange": 164,
  "soldierRankID": 11,
  "characterName": "Ujonia",
+ "guildName": "Private",
+ "guildID": 14307,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 11457,
    "gloryPointChange": 261,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 635,
+   "rankingPositionChange": 4,
+   "gloryPoint": 11621,
+   "gloryPointChange": 164,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-28T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Private",
+   "guildID": 14307
   }
  ]
 }

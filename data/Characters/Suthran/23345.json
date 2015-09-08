@@ -2,12 +2,12 @@
  "characterID": 23345,
  "characterClassID": 4,
  "raceID": 0,
- "position": 737,
- "rankingPositionChange": 1,
- "gloryPoint": 19210,
- "gloryPointChange": -7,
+ "position": 738,
+ "rankingPositionChange": -1,
+ "gloryPoint": 19196,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
- "characterName": "Maalwnn",
+ "characterName": "Wysaeh",
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,12 +288,24 @@
    "gloryPoint": 19210,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 738,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19196,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Maalwnn"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Wysaeh"
   }
  ],
  "guilds": [

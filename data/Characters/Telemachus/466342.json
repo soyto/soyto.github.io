@@ -2,10 +2,10 @@
  "characterID": 466342,
  "characterClassID": 5,
  "raceID": 1,
- "position": 105,
- "rankingPositionChange": 1,
- "gloryPoint": 60198,
- "gloryPointChange": 334,
+ "position": 106,
+ "rankingPositionChange": -1,
+ "gloryPoint": 60420,
+ "gloryPointChange": 222,
  "soldierRankID": 13,
  "characterName": "Psychotic",
  "guildName": "Nyerk",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 60198,
    "gloryPointChange": 334,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 106,
+   "rankingPositionChange": -1,
+   "gloryPoint": 60420,
+   "gloryPointChange": 222,
    "soldierRankID": 13
   }
  ],

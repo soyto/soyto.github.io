@@ -2,10 +2,10 @@
  "characterID": 693075,
  "characterClassID": 1,
  "raceID": 0,
- "position": 23,
- "rankingPositionChange": 1,
- "gloryPoint": 243930,
- "gloryPointChange": 1122,
+ "position": 24,
+ "rankingPositionChange": -1,
+ "gloryPoint": 244684,
+ "gloryPointChange": 754,
  "soldierRankID": 15,
  "characterName": "Nourson",
  "guildName": "Prima Luce",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 243930,
    "gloryPointChange": 1122,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 24,
+   "rankingPositionChange": -1,
+   "gloryPoint": 244684,
+   "gloryPointChange": 754,
    "soldierRankID": 15
   }
  ],

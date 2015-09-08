@@ -2,12 +2,14 @@
  "characterID": 1561165,
  "characterClassID": 1,
  "raceID": 0,
- "position": 497,
- "rankingPositionChange": 1,
- "gloryPoint": 37196,
- "gloryPointChange": 444,
+ "position": 482,
+ "rankingPositionChange": 15,
+ "gloryPoint": 37993,
+ "gloryPointChange": 797,
  "soldierRankID": 12,
  "characterName": "Legaliize",
+ "guildName": " Vicious Circle ",
+ "guildID": 47975,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 37196,
    "gloryPointChange": 444,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 482,
+   "rankingPositionChange": 15,
+   "gloryPoint": 37993,
+   "gloryPointChange": 797,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -300,6 +310,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " Vicious Circle ",
+   "guildID": 47975
   }
  ]
 }

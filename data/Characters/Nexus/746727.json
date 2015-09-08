@@ -2,10 +2,10 @@
  "characterID": 746727,
  "characterClassID": 13,
  "raceID": 1,
- "position": 430,
- "rankingPositionChange": -5,
- "gloryPoint": 36722,
- "gloryPointChange": -28,
+ "position": 429,
+ "rankingPositionChange": 1,
+ "gloryPoint": 36666,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Biggolumn",
  "status": [
@@ -239,6 +239,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 36722,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 429,
+   "rankingPositionChange": 1,
+   "gloryPoint": 36666,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 839880,
  "characterClassID": 4,
  "raceID": 1,
- "position": 786,
- "rankingPositionChange": 8,
- "gloryPoint": 1262,
- "gloryPointChange": 16,
+ "position": 800,
+ "rankingPositionChange": -14,
+ "gloryPoint": 1248,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Rabordian",
  "guildName": "The Legion of Friends",
@@ -89,6 +89,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 1262,
    "gloryPointChange": 16,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": -14,
+   "gloryPoint": 1248,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

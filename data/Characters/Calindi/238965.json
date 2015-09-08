@@ -2,10 +2,10 @@
  "characterID": 238965,
  "characterClassID": 4,
  "raceID": 1,
- "position": 304,
- "rankingPositionChange": 11,
- "gloryPoint": 1337,
- "gloryPointChange": 69,
+ "position": 306,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1323,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Captainekid",
  "guildName": "INSURRECTION",
@@ -217,6 +217,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 1337,
    "gloryPointChange": 69,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 306,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1323,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

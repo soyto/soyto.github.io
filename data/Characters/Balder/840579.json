@@ -2,10 +2,10 @@
  "characterID": 840579,
  "characterClassID": 4,
  "raceID": 1,
- "position": 580,
- "rankingPositionChange": -1,
- "gloryPoint": 1512,
- "gloryPointChange": -14,
+ "position": 579,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1484,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Wiggly",
  "guildName": "I Twist of Fate I",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 1512,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 579,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1484,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

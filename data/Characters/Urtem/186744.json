@@ -2,10 +2,10 @@
  "characterID": 186744,
  "characterClassID": 10,
  "raceID": 1,
- "position": 350,
- "rankingPositionChange": 2,
- "gloryPoint": 29358,
- "gloryPointChange": 81,
+ "position": 352,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29302,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Vandeta",
  "guildName": "Heaven Fall",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 29358,
    "gloryPointChange": 81,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 352,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29302,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

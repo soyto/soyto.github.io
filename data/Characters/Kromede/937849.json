@@ -2,10 +2,10 @@
  "characterID": 937849,
  "characterClassID": 16,
  "raceID": 0,
- "position": 345,
- "rankingPositionChange": -1,
- "gloryPoint": 36814,
- "gloryPointChange": -28,
+ "position": 344,
+ "rankingPositionChange": 1,
+ "gloryPoint": 36758,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Douma",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 36814,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 344,
+   "rankingPositionChange": 1,
+   "gloryPoint": 36758,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

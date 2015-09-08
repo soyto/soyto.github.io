@@ -2,10 +2,10 @@
  "characterID": 44458,
  "characterClassID": 10,
  "raceID": 0,
- "position": 275,
- "rankingPositionChange": 1,
- "gloryPoint": 37311,
- "gloryPointChange": 76,
+ "position": 276,
+ "rankingPositionChange": -1,
+ "gloryPoint": 37386,
+ "gloryPointChange": 75,
  "soldierRankID": 13,
  "characterName": "Nightingales",
  "guildName": "NO CRY",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 37311,
    "gloryPointChange": 76,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 276,
+   "rankingPositionChange": -1,
+   "gloryPoint": 37386,
+   "gloryPointChange": 75,
    "soldierRankID": 13
   }
  ],

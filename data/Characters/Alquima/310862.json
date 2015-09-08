@@ -2,10 +2,10 @@
  "characterID": 310862,
  "characterClassID": 1,
  "raceID": 1,
- "position": 828,
- "rankingPositionChange": 0,
- "gloryPoint": 8020,
- "gloryPointChange": -7,
+ "position": 833,
+ "rankingPositionChange": -5,
+ "gloryPoint": 8006,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Wookong",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8020,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": -5,
+   "gloryPoint": 8006,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

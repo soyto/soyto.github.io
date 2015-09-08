@@ -2,14 +2,14 @@
  "characterID": 374528,
  "characterClassID": 1,
  "raceID": 0,
- "position": 677,
- "rankingPositionChange": -5,
- "gloryPoint": 10447,
- "gloryPointChange": -14,
+ "position": 676,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10419,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Poutsos",
- "guildName": "Eccentricity",
- "guildID": 16004,
+ "guildName": "BooBss",
+ "guildID": 16116,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 10447,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 676,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10419,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Eccentricity",
    "guildID": 16004
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "BooBss",
+   "guildID": 16116
   }
  ]
 }

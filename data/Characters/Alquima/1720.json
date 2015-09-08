@@ -2,10 +2,10 @@
  "characterID": 1720,
  "characterClassID": 4,
  "raceID": 0,
- "position": 772,
- "rankingPositionChange": 1,
- "gloryPoint": 15030,
- "gloryPointChange": -7,
+ "position": 776,
+ "rankingPositionChange": -4,
+ "gloryPoint": 15016,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Phantom",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 15030,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 776,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15016,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

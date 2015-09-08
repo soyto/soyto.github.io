@@ -2,10 +2,10 @@
  "characterID": 10721,
  "characterClassID": 7,
  "raceID": 0,
- "position": 72,
- "rankingPositionChange": 2,
- "gloryPoint": 111003,
- "gloryPointChange": 633,
+ "position": 73,
+ "rankingPositionChange": -1,
+ "gloryPoint": 111183,
+ "gloryPointChange": 180,
  "soldierRankID": 14,
  "characterName": "Eumena",
  "guildName": " Clearly Hacking ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 111003,
    "gloryPointChange": 633,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 73,
+   "rankingPositionChange": -1,
+   "gloryPoint": 111183,
+   "gloryPointChange": 180,
    "soldierRankID": 14
   }
  ],

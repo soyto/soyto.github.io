@@ -2,10 +2,10 @@
  "characterID": 183855,
  "characterClassID": 13,
  "raceID": 0,
- "position": 812,
- "rankingPositionChange": -2,
- "gloryPoint": 5434,
- "gloryPointChange": -7,
+ "position": 804,
+ "rankingPositionChange": 8,
+ "gloryPoint": 5343,
+ "gloryPointChange": -91,
  "soldierRankID": 10,
  "characterName": "Seimen",
  "status": [
@@ -199,6 +199,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 5434,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 804,
+   "rankingPositionChange": 8,
+   "gloryPoint": 5343,
+   "gloryPointChange": -91,
    "soldierRankID": 10
   }
  ],

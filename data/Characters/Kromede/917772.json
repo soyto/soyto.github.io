@@ -2,10 +2,10 @@
  "characterID": 917772,
  "characterClassID": 10,
  "raceID": 1,
- "position": 325,
- "rankingPositionChange": 0,
- "gloryPoint": 20509,
- "gloryPointChange": -28,
+ "position": 326,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20453,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Amatullah",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 20509,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 326,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20453,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

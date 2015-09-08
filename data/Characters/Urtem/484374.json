@@ -2,10 +2,10 @@
  "characterID": 484374,
  "characterClassID": 11,
  "raceID": 1,
- "position": 241,
- "rankingPositionChange": 0,
- "gloryPoint": 44748,
- "gloryPointChange": 104,
+ "position": 246,
+ "rankingPositionChange": -5,
+ "gloryPoint": 44707,
+ "gloryPointChange": -41,
  "soldierRankID": 13,
  "characterName": "Lumie",
  "guildName": "Shugo Mafia",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 44748,
    "gloryPointChange": 104,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 246,
+   "rankingPositionChange": -5,
+   "gloryPoint": 44707,
+   "gloryPointChange": -41,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 834213,
  "characterClassID": 1,
  "raceID": 0,
- "position": 98,
- "rankingPositionChange": 0,
- "gloryPoint": 158408,
- "gloryPointChange": 132,
+ "position": 100,
+ "rankingPositionChange": -2,
+ "gloryPoint": 159085,
+ "gloryPointChange": 677,
  "soldierRankID": 14,
  "characterName": "Sshark",
  "guildName": "Another Cold Day",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 158408,
    "gloryPointChange": 132,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 100,
+   "rankingPositionChange": -2,
+   "gloryPoint": 159085,
+   "gloryPointChange": 677,
    "soldierRankID": 14
   }
  ],

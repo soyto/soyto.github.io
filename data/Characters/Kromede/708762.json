@@ -2,12 +2,14 @@
  "characterID": 708762,
  "characterClassID": 7,
  "raceID": 0,
- "position": 502,
- "rankingPositionChange": 1,
- "gloryPoint": 23590,
- "gloryPointChange": -28,
+ "position": 508,
+ "rankingPositionChange": -6,
+ "gloryPoint": 23408,
+ "gloryPointChange": -182,
  "soldierRankID": 11,
  "characterName": "Zelyna",
+ "guildName": "I Black Skorpion I",
+ "guildID": 37205,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -208,6 +210,14 @@
    "gloryPoint": 23590,
    "gloryPointChange": -28,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 508,
+   "rankingPositionChange": -6,
+   "gloryPoint": 23408,
+   "gloryPointChange": -182,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -219,6 +229,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "I Black Skorpion I",
+   "guildID": 37205
   }
  ]
 }

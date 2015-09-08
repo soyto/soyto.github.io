@@ -2,14 +2,12 @@
  "characterID": 874085,
  "characterClassID": 2,
  "raceID": 0,
- "position": 734,
- "rankingPositionChange": 2,
- "gloryPoint": 10814,
- "gloryPointChange": -7,
+ "position": 709,
+ "rankingPositionChange": 25,
+ "gloryPoint": 10835,
+ "gloryPointChange": 21,
  "soldierRankID": 10,
  "characterName": "Fabianoo",
- "guildName": "HighIander",
- "guildID": 1131,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -250,6 +248,14 @@
    "gloryPoint": 10814,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 709,
+   "rankingPositionChange": 25,
+   "gloryPoint": 10835,
+   "gloryPointChange": 21,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -263,6 +269,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "HighIander",
    "guildID": 1131
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

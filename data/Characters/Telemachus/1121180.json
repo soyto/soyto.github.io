@@ -2,10 +2,10 @@
  "characterID": 1121180,
  "characterClassID": 4,
  "raceID": 1,
- "position": 520,
- "rankingPositionChange": 3,
- "gloryPoint": 3036,
- "gloryPointChange": 6,
+ "position": 525,
+ "rankingPositionChange": -5,
+ "gloryPoint": 3008,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Ataim",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 3036,
    "gloryPointChange": 6,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 525,
+   "rankingPositionChange": -5,
+   "gloryPoint": 3008,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

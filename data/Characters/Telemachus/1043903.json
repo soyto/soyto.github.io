@@ -2,10 +2,10 @@
  "characterID": 1043903,
  "characterClassID": 16,
  "raceID": 0,
- "position": 255,
- "rankingPositionChange": 1,
- "gloryPoint": 57260,
- "gloryPointChange": -49,
+ "position": 256,
+ "rankingPositionChange": -1,
+ "gloryPoint": 57162,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Challice",
  "guildName": "Pendulum",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 57260,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 256,
+   "rankingPositionChange": -1,
+   "gloryPoint": 57162,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

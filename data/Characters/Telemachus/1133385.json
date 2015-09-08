@@ -2,10 +2,10 @@
  "characterID": 1133385,
  "characterClassID": 14,
  "raceID": 1,
- "position": 351,
- "rankingPositionChange": 4,
- "gloryPoint": 8818,
- "gloryPointChange": 170,
+ "position": 353,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8832,
+ "gloryPointChange": 14,
  "soldierRankID": 12,
  "characterName": "Saandy",
  "guildName": "The Legion of Friends",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 8818,
    "gloryPointChange": 170,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 353,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8832,
+   "gloryPointChange": 14,
    "soldierRankID": 12
   }
  ],

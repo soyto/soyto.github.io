@@ -2,10 +2,10 @@
  "characterID": 897071,
  "characterClassID": 1,
  "raceID": 1,
- "position": 731,
- "rankingPositionChange": -5,
- "gloryPoint": 15847,
- "gloryPointChange": -7,
+ "position": 730,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15833,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Pommel",
  "guildName": "Who cares",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 15847,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 730,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15833,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

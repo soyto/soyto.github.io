@@ -2,10 +2,10 @@
  "characterID": 511446,
  "characterClassID": 7,
  "raceID": 0,
- "position": 873,
- "rankingPositionChange": -6,
- "gloryPoint": 1465,
- "gloryPointChange": -7,
+ "position": 872,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1451,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Doktar",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 1465,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 872,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1451,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

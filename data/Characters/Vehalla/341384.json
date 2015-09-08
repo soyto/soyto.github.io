@@ -2,10 +2,10 @@
  "characterID": 341384,
  "characterClassID": 14,
  "raceID": 0,
- "position": 332,
- "rankingPositionChange": 6,
- "gloryPoint": 8361,
- "gloryPointChange": 208,
+ "position": 336,
+ "rankingPositionChange": -4,
+ "gloryPoint": 8305,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Nachtfalke",
  "guildName": "Goldfield",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 8361,
    "gloryPointChange": 208,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 336,
+   "rankingPositionChange": -4,
+   "gloryPoint": 8305,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

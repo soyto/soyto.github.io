@@ -2,10 +2,10 @@
  "characterID": 466761,
  "characterClassID": 10,
  "raceID": 1,
- "position": 515,
- "rankingPositionChange": 1,
- "gloryPoint": 15705,
- "gloryPointChange": 232,
+ "position": 517,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15712,
+ "gloryPointChange": 7,
  "soldierRankID": 11,
  "characterName": "Shilena",
  "guildName": "Destinados",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 15705,
    "gloryPointChange": 232,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15712,
+   "gloryPointChange": 7,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 355440,
  "characterClassID": 1,
  "raceID": 0,
- "position": 375,
- "rankingPositionChange": 4,
- "gloryPoint": 38453,
- "gloryPointChange": 72,
+ "position": 380,
+ "rankingPositionChange": -5,
+ "gloryPoint": 38497,
+ "gloryPointChange": 44,
  "soldierRankID": 12,
  "characterName": "Mavan",
  "guildName": "Hades Breath",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 38453,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": -5,
+   "gloryPoint": 38497,
+   "gloryPointChange": 44,
    "soldierRankID": 12
   }
  ],

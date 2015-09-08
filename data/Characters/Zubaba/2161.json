@@ -2,10 +2,10 @@
  "characterID": 2161,
  "characterClassID": 16,
  "raceID": 1,
- "position": 940,
- "rankingPositionChange": 28,
- "gloryPoint": 1339,
- "gloryPointChange": 93,
+ "position": 932,
+ "rankingPositionChange": 8,
+ "gloryPoint": 1338,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Bartolomeo",
  "status": [
@@ -23,6 +23,14 @@
    "rankingPositionChange": 28,
    "gloryPoint": 1339,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 932,
+   "rankingPositionChange": 8,
+   "gloryPoint": 1338,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

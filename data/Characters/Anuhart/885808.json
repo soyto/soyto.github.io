@@ -2,10 +2,10 @@
  "characterID": 885808,
  "characterClassID": 5,
  "raceID": 0,
- "position": 366,
- "rankingPositionChange": -2,
- "gloryPoint": 24984,
- "gloryPointChange": -28,
+ "position": 364,
+ "rankingPositionChange": 2,
+ "gloryPoint": 24928,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Copai",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 24984,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": 2,
+   "gloryPoint": 24928,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

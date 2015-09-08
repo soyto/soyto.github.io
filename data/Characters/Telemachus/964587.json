@@ -2,10 +2,10 @@
  "characterID": 964587,
  "characterClassID": 10,
  "raceID": 1,
- "position": 148,
- "rankingPositionChange": 3,
- "gloryPoint": 44544,
- "gloryPointChange": 446,
+ "position": 149,
+ "rankingPositionChange": -1,
+ "gloryPoint": 45084,
+ "gloryPointChange": 540,
  "soldierRankID": 13,
  "characterName": "Aescia",
  "guildName": "A       C       E",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 44544,
    "gloryPointChange": 446,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 149,
+   "rankingPositionChange": -1,
+   "gloryPoint": 45084,
+   "gloryPointChange": 540,
    "soldierRankID": 13
   }
  ],

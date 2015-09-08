@@ -2,10 +2,10 @@
  "characterID": 1133653,
  "characterClassID": 14,
  "raceID": 1,
- "position": 469,
- "rankingPositionChange": 30,
- "gloryPoint": 3867,
- "gloryPointChange": 528,
+ "position": 470,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3891,
+ "gloryPointChange": 24,
  "soldierRankID": 12,
  "characterName": "Magoichix",
  "status": [
@@ -71,6 +71,14 @@
    "rankingPositionChange": 30,
    "gloryPoint": 3867,
    "gloryPointChange": 528,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 470,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3891,
+   "gloryPointChange": 24,
    "soldierRankID": 12
   }
  ],

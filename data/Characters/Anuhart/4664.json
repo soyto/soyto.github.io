@@ -2,10 +2,10 @@
  "characterID": 4664,
  "characterClassID": 1,
  "raceID": 1,
- "position": 882,
- "rankingPositionChange": -10,
- "gloryPoint": 2268,
- "gloryPointChange": -7,
+ "position": 877,
+ "rankingPositionChange": 5,
+ "gloryPoint": 2254,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Sanguis",
  "status": [
@@ -79,6 +79,14 @@
    "rankingPositionChange": -10,
    "gloryPoint": 2268,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 877,
+   "rankingPositionChange": 5,
+   "gloryPoint": 2254,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

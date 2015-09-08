@@ -2,10 +2,10 @@
  "characterID": 1049392,
  "characterClassID": 14,
  "raceID": 0,
- "position": 928,
- "rankingPositionChange": 0,
- "gloryPoint": 6302,
- "gloryPointChange": -7,
+ "position": 929,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6288,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Buiaka",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6302,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 929,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6288,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1629474,
  "characterClassID": 1,
  "raceID": 1,
- "position": 962,
- "rankingPositionChange": 0,
- "gloryPoint": 10727,
- "gloryPointChange": -7,
+ "position": 963,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10706,
+ "gloryPointChange": -21,
  "soldierRankID": 10,
  "characterName": "Shiigeku",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 10727,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 963,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10706,
+   "gloryPointChange": -21,
    "soldierRankID": 10
   }
  ],

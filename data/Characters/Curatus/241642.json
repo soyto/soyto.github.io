@@ -2,12 +2,14 @@
  "characterID": 241642,
  "characterClassID": 8,
  "raceID": 1,
- "position": 586,
- "rankingPositionChange": -2,
- "gloryPoint": 9734,
- "gloryPointChange": -14,
+ "position": 587,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9721,
+ "gloryPointChange": -13,
  "soldierRankID": 11,
  "characterName": "Qatar",
+ "guildName": "Deads Can Dance",
+ "guildID": 2711,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 9734,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 587,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9721,
+   "gloryPointChange": -13,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -307,6 +317,11 @@
   },
   {
    "date": "2015-08-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Deads Can Dance",
+   "guildID": 2711
   }
  ]
 }

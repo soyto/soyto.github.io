@@ -2,12 +2,14 @@
  "characterID": 537783,
  "characterClassID": 16,
  "raceID": 0,
- "position": 970,
- "rankingPositionChange": 2,
- "gloryPoint": 10289,
- "gloryPointChange": -4,
+ "position": 953,
+ "rankingPositionChange": 17,
+ "gloryPoint": 10662,
+ "gloryPointChange": 373,
  "soldierRankID": 10,
  "characterName": "Kiimura",
+ "guildName": "XFORM",
+ "guildID": 4517,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -48,6 +50,14 @@
    "gloryPoint": 10289,
    "gloryPointChange": -4,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 953,
+   "rankingPositionChange": 17,
+   "gloryPoint": 10662,
+   "gloryPointChange": 373,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -64,6 +74,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "XFORM",
+   "guildID": 4517
   }
  ]
 }

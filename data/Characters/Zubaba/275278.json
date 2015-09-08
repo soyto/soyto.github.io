@@ -3,11 +3,13 @@
  "characterClassID": 7,
  "raceID": 1,
  "position": 231,
- "rankingPositionChange": 1,
- "gloryPoint": 36369,
- "gloryPointChange": -49,
+ "rankingPositionChange": 0,
+ "gloryPoint": 36371,
+ "gloryPointChange": 2,
  "soldierRankID": 13,
  "characterName": "Yukiae",
+ "guildName": "Bosphorus",
+ "guildID": 1226,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 36369,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 231,
+   "rankingPositionChange": 0,
+   "gloryPoint": 36371,
+   "gloryPointChange": 2,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -308,6 +318,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Bosphorus",
+   "guildID": 1226
   }
  ]
 }

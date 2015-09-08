@@ -2,9 +2,9 @@
  "characterID": 79124,
  "characterClassID": 1,
  "raceID": 0,
- "position": 19,
- "rankingPositionChange": 0,
- "gloryPoint": 245835,
+ "position": 20,
+ "rankingPositionChange": -1,
+ "gloryPoint": 245597,
  "gloryPointChange": -238,
  "soldierRankID": 15,
  "characterName": "Aeth",
@@ -174,6 +174,14 @@
    "position": 19,
    "rankingPositionChange": 0,
    "gloryPoint": 245835,
+   "gloryPointChange": -238,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 20,
+   "rankingPositionChange": -1,
+   "gloryPoint": 245597,
    "gloryPointChange": -238,
    "soldierRankID": 15
   }

@@ -2,10 +2,10 @@
  "characterID": 223260,
  "characterClassID": 2,
  "raceID": 0,
- "position": 65,
- "rankingPositionChange": 1,
- "gloryPoint": 166041,
- "gloryPointChange": 858,
+ "position": 66,
+ "rankingPositionChange": -1,
+ "gloryPoint": 166137,
+ "gloryPointChange": 96,
  "soldierRankID": 14,
  "characterName": "Dgees",
  "guildName": "BlueWolves",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 166041,
    "gloryPointChange": 858,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 66,
+   "rankingPositionChange": -1,
+   "gloryPoint": 166137,
+   "gloryPointChange": 96,
    "soldierRankID": 14
   }
  ],

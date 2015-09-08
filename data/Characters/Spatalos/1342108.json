@@ -2,10 +2,10 @@
  "characterID": 1342108,
  "characterClassID": 16,
  "raceID": 1,
- "position": 212,
- "rankingPositionChange": -1,
- "gloryPoint": 29378,
- "gloryPointChange": -49,
+ "position": 211,
+ "rankingPositionChange": 1,
+ "gloryPoint": 30058,
+ "gloryPointChange": 680,
  "soldierRankID": 13,
  "characterName": "Sunshin",
  "guildName": "Tenebris",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 29378,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 211,
+   "rankingPositionChange": 1,
+   "gloryPoint": 30058,
+   "gloryPointChange": 680,
    "soldierRankID": 13
   }
  ],

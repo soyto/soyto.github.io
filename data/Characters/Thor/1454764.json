@@ -2,10 +2,10 @@
  "characterID": 1454764,
  "characterClassID": 1,
  "raceID": 1,
- "position": 954,
- "rankingPositionChange": 4,
- "gloryPoint": 10884,
- "gloryPointChange": 105,
+ "position": 953,
+ "rankingPositionChange": 1,
+ "gloryPoint": 10863,
+ "gloryPointChange": -21,
  "soldierRankID": 10,
  "characterName": "Errordatabase",
  "guildName": "Dunedain",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 10884,
    "gloryPointChange": 105,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 953,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10863,
+   "gloryPointChange": -21,
    "soldierRankID": 10
   }
  ],

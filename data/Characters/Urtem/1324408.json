@@ -2,10 +2,10 @@
  "characterID": 1324408,
  "characterClassID": 10,
  "raceID": 1,
- "position": 414,
- "rankingPositionChange": 1,
- "gloryPoint": 24187,
- "gloryPointChange": 89,
+ "position": 416,
+ "rankingPositionChange": -2,
+ "gloryPoint": 24131,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Nihiria",
  "guildName": "Ombre et Lumiere",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 24187,
    "gloryPointChange": 89,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": -2,
+   "gloryPoint": 24131,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 22341,
  "characterClassID": 10,
  "raceID": 1,
- "position": 847,
- "rankingPositionChange": 0,
- "gloryPoint": 7718,
- "gloryPointChange": -7,
+ "position": 852,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7704,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Yozora",
  "guildName": " Illuminati ",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7718,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7704,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

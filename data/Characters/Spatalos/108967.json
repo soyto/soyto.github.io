@@ -2,10 +2,10 @@
  "characterID": 108967,
  "characterClassID": 2,
  "raceID": 0,
- "position": 250,
- "rankingPositionChange": 0,
- "gloryPoint": 59930,
- "gloryPointChange": 361,
+ "position": 249,
+ "rankingPositionChange": 1,
+ "gloryPoint": 59882,
+ "gloryPointChange": -48,
  "soldierRankID": 13,
  "characterName": "Cannox",
  "guildName": "Seers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 59930,
    "gloryPointChange": 361,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 249,
+   "rankingPositionChange": 1,
+   "gloryPoint": 59882,
+   "gloryPointChange": -48,
    "soldierRankID": 13
   }
  ],

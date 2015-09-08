@@ -2,10 +2,10 @@
  "characterID": 1127989,
  "characterClassID": 7,
  "raceID": 0,
- "position": 92,
- "rankingPositionChange": 0,
- "gloryPoint": 139299,
- "gloryPointChange": 332,
+ "position": 93,
+ "rankingPositionChange": -1,
+ "gloryPoint": 139624,
+ "gloryPointChange": 325,
  "soldierRankID": 14,
  "characterName": "Merlinist",
  "guildName": "Honor Of Elyos",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 139299,
    "gloryPointChange": 332,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": -1,
+   "gloryPoint": 139624,
+   "gloryPointChange": 325,
    "soldierRankID": 14
   }
  ],

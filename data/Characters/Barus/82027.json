@@ -2,14 +2,14 @@
  "characterID": 82027,
  "characterClassID": 14,
  "raceID": 1,
- "position": 618,
- "rankingPositionChange": 6,
- "gloryPoint": 21480,
- "gloryPointChange": 349,
+ "position": 609,
+ "rankingPositionChange": 9,
+ "gloryPoint": 21893,
+ "gloryPointChange": 413,
  "soldierRankID": 11,
  "characterName": "Brzytewka",
- "guildName": "R E B O R N ",
- "guildID": 12624,
+ "guildName": "Slackers",
+ "guildID": 1036,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 21480,
    "gloryPointChange": 349,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 609,
+   "rankingPositionChange": 9,
+   "gloryPoint": 21893,
+   "gloryPointChange": 413,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "R E B O R N ",
    "guildID": 12624
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Slackers",
+   "guildID": 1036
   }
  ]
 }

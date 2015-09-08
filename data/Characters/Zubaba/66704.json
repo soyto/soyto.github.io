@@ -2,10 +2,10 @@
  "characterID": 66704,
  "characterClassID": 14,
  "raceID": 1,
- "position": 881,
- "rankingPositionChange": 4,
- "gloryPoint": 1784,
- "gloryPointChange": 103,
+ "position": 873,
+ "rankingPositionChange": 8,
+ "gloryPoint": 1770,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Hazardous",
  "guildName": "Golden Power",
@@ -89,6 +89,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 1784,
    "gloryPointChange": 103,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 873,
+   "rankingPositionChange": 8,
+   "gloryPoint": 1770,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

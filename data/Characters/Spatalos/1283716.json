@@ -2,10 +2,10 @@
  "characterID": 1283716,
  "characterClassID": 8,
  "raceID": 1,
- "position": 221,
- "rankingPositionChange": -1,
- "gloryPoint": 28301,
- "gloryPointChange": -9,
+ "position": 220,
+ "rankingPositionChange": 1,
+ "gloryPoint": 28203,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Goadziasza",
  "guildName": "Slackers",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 28301,
    "gloryPointChange": -9,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28203,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

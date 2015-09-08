@@ -2,10 +2,10 @@
  "characterID": 1025745,
  "characterClassID": 14,
  "raceID": 0,
- "position": 155,
- "rankingPositionChange": 0,
- "gloryPoint": 96531,
- "gloryPointChange": 201,
+ "position": 156,
+ "rankingPositionChange": -1,
+ "gloryPoint": 96523,
+ "gloryPointChange": -8,
  "soldierRankID": 13,
  "characterName": "Hotkill",
  "guildName": "Fifth Dawn",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 96531,
    "gloryPointChange": 201,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 156,
+   "rankingPositionChange": -1,
+   "gloryPoint": 96523,
+   "gloryPointChange": -8,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1096724,
  "characterClassID": 10,
  "raceID": 1,
- "position": 150,
- "rankingPositionChange": 3,
- "gloryPoint": 44094,
- "gloryPointChange": 360,
+ "position": 151,
+ "rankingPositionChange": -1,
+ "gloryPoint": 44691,
+ "gloryPointChange": 597,
  "soldierRankID": 13,
  "characterName": "Addicted",
  "guildName": "Reload",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 44094,
    "gloryPointChange": 360,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 151,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44691,
+   "gloryPointChange": 597,
    "soldierRankID": 13
   }
  ],

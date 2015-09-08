@@ -2,10 +2,10 @@
  "characterID": 641643,
  "characterClassID": 1,
  "raceID": 0,
- "position": 987,
- "rankingPositionChange": 0,
- "gloryPoint": 10168,
- "gloryPointChange": 23,
+ "position": 988,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10204,
+ "gloryPointChange": 36,
  "soldierRankID": 10,
  "characterName": "Scarley",
  "guildName": "Archeron",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 10168,
    "gloryPointChange": 23,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10204,
+   "gloryPointChange": 36,
    "soldierRankID": 10
   }
  ],

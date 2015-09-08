@@ -3,13 +3,11 @@
  "characterClassID": 8,
  "raceID": 0,
  "position": 194,
- "rankingPositionChange": 4,
- "gloryPoint": 40586,
- "gloryPointChange": 748,
+ "rankingPositionChange": 0,
+ "gloryPoint": 40651,
+ "gloryPointChange": 65,
  "soldierRankID": 13,
  "characterName": "Sinoru",
- "guildName": "Finalheaven",
- "guildID": 11342,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -258,6 +256,14 @@
    "gloryPoint": 40586,
    "gloryPointChange": 748,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 194,
+   "rankingPositionChange": 0,
+   "gloryPoint": 40651,
+   "gloryPointChange": 65,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -271,6 +277,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Finalheaven",
    "guildID": 11342
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

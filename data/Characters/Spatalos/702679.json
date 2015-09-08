@@ -2,10 +2,10 @@
  "characterID": 702679,
  "characterClassID": 10,
  "raceID": 1,
- "position": 350,
- "rankingPositionChange": -3,
- "gloryPoint": 16386,
- "gloryPointChange": -56,
+ "position": 349,
+ "rankingPositionChange": 1,
+ "gloryPoint": 16333,
+ "gloryPointChange": -53,
  "soldierRankID": 12,
  "characterName": "Kytahl",
  "guildName": "Tevinter Imperium",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 16386,
    "gloryPointChange": -56,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 349,
+   "rankingPositionChange": 1,
+   "gloryPoint": 16333,
+   "gloryPointChange": -53,
    "soldierRankID": 12
   }
  ],

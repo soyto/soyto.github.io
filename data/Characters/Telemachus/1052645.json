@@ -2,10 +2,10 @@
  "characterID": 1052645,
  "characterClassID": 14,
  "raceID": 1,
- "position": 342,
- "rankingPositionChange": 8,
- "gloryPoint": 9542,
- "gloryPointChange": 599,
+ "position": 344,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9536,
+ "gloryPointChange": -6,
  "soldierRankID": 12,
  "characterName": "Aazooz",
  "guildName": "Black Listed",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 9542,
    "gloryPointChange": 599,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 344,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9536,
+   "gloryPointChange": -6,
    "soldierRankID": 12
   }
  ],

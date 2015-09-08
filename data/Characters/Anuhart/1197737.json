@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 456,
- "rankingPositionChange": -5,
- "gloryPoint": 11116,
- "gloryPointChange": -25,
+ "rankingPositionChange": 0,
+ "gloryPoint": 11060,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Skorostrel",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 11116,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": 0,
+   "gloryPoint": 11060,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

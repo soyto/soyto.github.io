@@ -2,12 +2,14 @@
  "characterID": 521984,
  "characterClassID": 16,
  "raceID": 0,
- "position": 172,
- "rankingPositionChange": 2,
- "gloryPoint": 72113,
- "gloryPointChange": 237,
+ "position": 171,
+ "rankingPositionChange": 1,
+ "gloryPoint": 72549,
+ "gloryPointChange": 436,
  "soldierRankID": 13,
  "characterName": "Tigana",
+ "guildName": "Mentor",
+ "guildID": 8971,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 72113,
    "gloryPointChange": 237,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 171,
+   "rankingPositionChange": 1,
+   "gloryPoint": 72549,
+   "gloryPointChange": 436,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Mentor",
+   "guildID": 8971
   }
  ]
 }

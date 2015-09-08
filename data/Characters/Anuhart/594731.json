@@ -2,12 +2,14 @@
  "characterID": 594731,
  "characterClassID": 1,
  "raceID": 1,
- "position": 212,
- "rankingPositionChange": 0,
- "gloryPoint": 45884,
- "gloryPointChange": 57,
+ "position": 209,
+ "rankingPositionChange": 3,
+ "gloryPoint": 46023,
+ "gloryPointChange": 139,
  "soldierRankID": 13,
  "characterName": "Barcodee",
+ "guildName": "No LiFer",
+ "guildID": 21174,
  "status": [
   {
    "date": "2015-08-05T22:00:00.000Z",
@@ -248,6 +250,14 @@
    "gloryPoint": 45884,
    "gloryPointChange": 57,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 209,
+   "rankingPositionChange": 3,
+   "gloryPoint": 46023,
+   "gloryPointChange": 139,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -269,6 +279,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "No LiFer",
+   "guildID": 21174
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 1138361,
  "characterClassID": 7,
  "raceID": 0,
- "position": 965,
- "rankingPositionChange": 1,
- "gloryPoint": 10623,
- "gloryPointChange": 21,
+ "position": 967,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10665,
+ "gloryPointChange": 42,
  "soldierRankID": 10,
  "characterName": "Okow",
  "guildName": "defender of the light",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 10623,
    "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 967,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10665,
+   "gloryPointChange": 42,
    "soldierRankID": 10
   }
  ],

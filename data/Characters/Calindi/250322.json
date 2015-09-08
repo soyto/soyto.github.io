@@ -2,10 +2,10 @@
  "characterID": 250322,
  "characterClassID": 4,
  "raceID": 1,
- "position": 276,
- "rankingPositionChange": 1,
- "gloryPoint": 1549,
- "gloryPointChange": 38,
+ "position": 278,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1521,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Afferio",
  "guildName": "No Skill No GamePlay",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 1549,
    "gloryPointChange": 38,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 278,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1521,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

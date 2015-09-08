@@ -2,10 +2,10 @@
  "characterID": 1098418,
  "characterClassID": 16,
  "raceID": 1,
- "position": 539,
- "rankingPositionChange": 12,
- "gloryPoint": 2870,
- "gloryPointChange": 95,
+ "position": 542,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2854,
+ "gloryPointChange": -16,
  "soldierRankID": 11,
  "characterName": "Songstyle",
  "guildName": "A       C       E",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 12,
    "gloryPoint": 2870,
    "gloryPointChange": 95,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 542,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2854,
+   "gloryPointChange": -16,
    "soldierRankID": 11
   }
  ],

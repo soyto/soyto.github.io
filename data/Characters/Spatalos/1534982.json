@@ -2,11 +2,11 @@
  "characterID": 1534982,
  "characterClassID": 2,
  "raceID": 0,
- "position": 1000,
- "rankingPositionChange": -6,
- "gloryPoint": 5751,
+ "position": 990,
+ "rankingPositionChange": 10,
+ "gloryPoint": 5744,
  "gloryPointChange": -7,
- "soldierRankID": 0,
+ "soldierRankID": 10,
  "characterName": "Kamaee",
  "guildName": "BlueWolves",
  "guildID": 1127,
@@ -186,6 +186,14 @@
    "gloryPoint": 5751,
    "gloryPointChange": -7,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 10,
+   "gloryPoint": 5744,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [

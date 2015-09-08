@@ -2,10 +2,10 @@
  "characterID": 789121,
  "characterClassID": 4,
  "raceID": 0,
- "position": 319,
- "rankingPositionChange": 0,
- "gloryPoint": 41062,
- "gloryPointChange": 22,
+ "position": 318,
+ "rankingPositionChange": 1,
+ "gloryPoint": 41006,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Phaia",
  "guildName": "BLOOD RELATION",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 41062,
    "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 318,
+   "rankingPositionChange": 1,
+   "gloryPoint": 41006,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

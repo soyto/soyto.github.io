@@ -2,10 +2,10 @@
  "characterID": 663327,
  "characterClassID": 13,
  "raceID": 0,
- "position": 986,
- "rankingPositionChange": 9,
- "gloryPoint": 9887,
- "gloryPointChange": 93,
+ "position": 991,
+ "rankingPositionChange": -5,
+ "gloryPoint": 9873,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Breach",
  "guildName": " Nice Day To Die ",
@@ -129,6 +129,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 9887,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 991,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9873,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

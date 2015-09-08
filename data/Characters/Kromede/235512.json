@@ -2,10 +2,10 @@
  "characterID": 235512,
  "characterClassID": 7,
  "raceID": 1,
- "position": 331,
- "rankingPositionChange": -1,
- "gloryPoint": 20151,
- "gloryPointChange": 117,
+ "position": 328,
+ "rankingPositionChange": 3,
+ "gloryPoint": 20123,
+ "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Darkii",
  "guildName": "Sturmkraehen",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 20151,
    "gloryPointChange": 117,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 328,
+   "rankingPositionChange": 3,
+   "gloryPoint": 20123,
+   "gloryPointChange": -28,
    "soldierRankID": 12
   }
  ],

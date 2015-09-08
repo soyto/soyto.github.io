@@ -2,10 +2,10 @@
  "characterID": 1025146,
  "characterClassID": 14,
  "raceID": 0,
- "position": 188,
- "rankingPositionChange": 1,
- "gloryPoint": 81001,
- "gloryPointChange": -49,
+ "position": 189,
+ "rankingPositionChange": -1,
+ "gloryPoint": 80903,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Kinao",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 81001,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 189,
+   "rankingPositionChange": -1,
+   "gloryPoint": 80903,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1128666,
  "characterClassID": 1,
  "raceID": 1,
- "position": 410,
- "rankingPositionChange": 11,
- "gloryPoint": 6058,
- "gloryPointChange": 352,
+ "position": 414,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6002,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Jydo",
  "guildName": "A       C       E",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 6058,
    "gloryPointChange": 352,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 414,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6002,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

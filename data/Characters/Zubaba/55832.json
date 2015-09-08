@@ -2,10 +2,10 @@
  "characterID": 55832,
  "characterClassID": 7,
  "raceID": 0,
- "position": 757,
- "rankingPositionChange": -1,
- "gloryPoint": 6455,
- "gloryPointChange": -4,
+ "position": 753,
+ "rankingPositionChange": 4,
+ "gloryPoint": 6509,
+ "gloryPointChange": 54,
  "soldierRankID": 10,
  "characterName": "Holybomb",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 6455,
    "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 753,
+   "rankingPositionChange": 4,
+   "gloryPoint": 6509,
+   "gloryPointChange": 54,
    "soldierRankID": 10
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 181650,
  "characterClassID": 1,
  "raceID": 1,
- "position": 669,
- "rankingPositionChange": -2,
- "gloryPoint": 4346,
- "gloryPointChange": -4,
+ "position": 668,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4318,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Mogolistanli",
+ "guildName": "Villains",
+ "guildID": 1830,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -192,6 +194,14 @@
    "gloryPoint": 4346,
    "gloryPointChange": -4,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 668,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4318,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -203,6 +213,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Villains",
+   "guildID": 1830
   }
  ]
 }

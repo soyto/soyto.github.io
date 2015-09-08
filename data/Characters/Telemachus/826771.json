@@ -2,10 +2,10 @@
  "characterID": 826771,
  "characterClassID": 10,
  "raceID": 1,
- "position": 730,
- "rankingPositionChange": 51,
- "gloryPoint": 1335,
- "gloryPointChange": 76,
+ "position": 745,
+ "rankingPositionChange": -15,
+ "gloryPoint": 1321,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Sybyla",
  "guildName": "M I N I O N",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 51,
    "gloryPoint": 1335,
    "gloryPointChange": 76,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 745,
+   "rankingPositionChange": -15,
+   "gloryPoint": 1321,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

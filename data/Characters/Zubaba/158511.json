@@ -4,12 +4,10 @@
  "raceID": 0,
  "position": 923,
  "rankingPositionChange": 0,
- "gloryPoint": 3461,
- "gloryPointChange": -7,
+ "gloryPoint": 3447,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Wanteed",
- "guildName": "The Order",
- "guildID": 5668,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 3461,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 923,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3447,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Order",
    "guildID": 5668
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 633298,
  "characterClassID": 11,
  "raceID": 1,
- "position": 204,
- "rankingPositionChange": 0,
- "gloryPoint": 56162,
- "gloryPointChange": -49,
+ "position": 205,
+ "rankingPositionChange": -1,
+ "gloryPoint": 56116,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Morax",
  "guildName": "Sekkusu No Kami",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 56162,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 205,
+   "rankingPositionChange": -1,
+   "gloryPoint": 56116,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

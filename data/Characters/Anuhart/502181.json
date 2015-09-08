@@ -2,10 +2,10 @@
  "characterID": 502181,
  "characterClassID": 5,
  "raceID": 1,
- "position": 969,
- "rankingPositionChange": 31,
- "gloryPoint": 1697,
- "gloryPointChange": 0,
+ "position": 981,
+ "rankingPositionChange": -12,
+ "gloryPoint": 1690,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Nanoshot",
  "guildName": "I am Legend ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 31,
    "gloryPoint": 1697,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 981,
+   "rankingPositionChange": -12,
+   "gloryPoint": 1690,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

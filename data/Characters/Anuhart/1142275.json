@@ -2,9 +2,9 @@
  "characterID": 1142275,
  "characterClassID": 14,
  "raceID": 1,
- "position": 710,
- "rankingPositionChange": -11,
- "gloryPoint": 4141,
+ "position": 708,
+ "rankingPositionChange": 2,
+ "gloryPoint": 4127,
  "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Nicaea",
@@ -288,6 +288,14 @@
    "position": 710,
    "rankingPositionChange": -11,
    "gloryPoint": 4141,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 708,
+   "rankingPositionChange": 2,
+   "gloryPoint": 4127,
    "gloryPointChange": -14,
    "soldierRankID": 10
   }

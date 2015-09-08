@@ -2,10 +2,10 @@
  "characterID": 1114334,
  "characterClassID": 14,
  "raceID": 1,
- "position": 818,
- "rankingPositionChange": -8,
- "gloryPoint": 3367,
- "gloryPointChange": -7,
+ "position": 811,
+ "rankingPositionChange": 7,
+ "gloryPoint": 3402,
+ "gloryPointChange": 35,
  "soldierRankID": 10,
  "characterName": "Kogel",
  "status": [
@@ -135,6 +135,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 3367,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 811,
+   "rankingPositionChange": 7,
+   "gloryPoint": 3402,
+   "gloryPointChange": 35,
    "soldierRankID": 10
   }
  ],

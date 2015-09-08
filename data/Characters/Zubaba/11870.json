@@ -2,10 +2,10 @@
  "characterID": 11870,
  "characterClassID": 10,
  "raceID": 1,
- "position": 316,
- "rankingPositionChange": 1,
- "gloryPoint": 23824,
- "gloryPointChange": -28,
+ "position": 318,
+ "rankingPositionChange": -2,
+ "gloryPoint": 23768,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Pryde",
  "guildName": "Noanime",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 23824,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 318,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23768,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

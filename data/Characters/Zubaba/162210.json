@@ -2,12 +2,14 @@
  "characterID": 162210,
  "characterClassID": 11,
  "raceID": 0,
- "position": 518,
- "rankingPositionChange": 0,
- "gloryPoint": 14242,
- "gloryPointChange": -14,
+ "position": 517,
+ "rankingPositionChange": 1,
+ "gloryPoint": 14214,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Instagoddes",
+ "guildName": "ALACAKARANLIK",
+ "guildID": 6920,
  "status": [
   {
    "date": "2015-08-12T22:00:00.000Z",
@@ -192,6 +194,14 @@
    "gloryPoint": 14242,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 517,
+   "rankingPositionChange": 1,
+   "gloryPoint": 14214,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -203,6 +213,11 @@
  "guilds": [
   {
    "date": "2015-08-12T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "ALACAKARANLIK",
+   "guildID": 6920
   }
  ]
 }

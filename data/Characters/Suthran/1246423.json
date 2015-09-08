@@ -2,12 +2,14 @@
  "characterID": 1246423,
  "characterClassID": 13,
  "raceID": 0,
- "position": 192,
- "rankingPositionChange": 1,
- "gloryPoint": 75978,
- "gloryPointChange": 276,
+ "position": 194,
+ "rankingPositionChange": -2,
+ "gloryPoint": 76230,
+ "gloryPointChange": 252,
  "soldierRankID": 13,
  "characterName": "Arbalest",
+ "guildName": "Sleeping Knights",
+ "guildID": 40907,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 75978,
    "gloryPointChange": 276,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 194,
+   "rankingPositionChange": -2,
+   "gloryPoint": 76230,
+   "gloryPointChange": 252,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Sleeping Knights",
+   "guildID": 40907
   }
  ]
 }

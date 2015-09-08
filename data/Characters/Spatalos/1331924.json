@@ -2,14 +2,12 @@
  "characterID": 1331924,
  "characterClassID": 10,
  "raceID": 0,
- "position": 750,
- "rankingPositionChange": 2,
- "gloryPoint": 12614,
- "gloryPointChange": 146,
+ "position": 739,
+ "rankingPositionChange": 11,
+ "gloryPoint": 12650,
+ "gloryPointChange": 36,
  "soldierRankID": 10,
  "characterName": "Nozomizuki",
- "guildName": "Spartan Legend",
- "guildID": 20213,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 12614,
    "gloryPointChange": 146,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 739,
+   "rankingPositionChange": 11,
+   "gloryPoint": 12650,
+   "gloryPointChange": 36,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -308,6 +314,9 @@
    "date": "2015-08-17T22:00:00.000Z",
    "guildName": "Spartan Legend",
    "guildID": 20213
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

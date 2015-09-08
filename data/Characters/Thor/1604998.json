@@ -2,10 +2,10 @@
  "characterID": 1604998,
  "characterClassID": 1,
  "raceID": 1,
- "position": 456,
- "rankingPositionChange": 0,
- "gloryPoint": 31754,
- "gloryPointChange": -28,
+ "position": 457,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31698,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Vaaro",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 31754,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 457,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31698,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1610016,
  "characterClassID": 1,
  "raceID": 1,
- "position": 76,
- "rankingPositionChange": 0,
- "gloryPoint": 152374,
- "gloryPointChange": 1019,
+ "position": 77,
+ "rankingPositionChange": -1,
+ "gloryPoint": 152160,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Kiyora",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 152374,
    "gloryPointChange": 1019,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 77,
+   "rankingPositionChange": -1,
+   "gloryPoint": 152160,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

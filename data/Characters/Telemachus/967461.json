@@ -2,10 +2,10 @@
  "characterID": 967461,
  "characterClassID": 11,
  "raceID": 0,
- "position": 46,
- "rankingPositionChange": 1,
- "gloryPoint": 242637,
- "gloryPointChange": 393,
+ "position": 47,
+ "rankingPositionChange": -1,
+ "gloryPoint": 243123,
+ "gloryPointChange": 486,
  "soldierRankID": 14,
  "characterName": "Thenea",
  "guildName": "Abyss Angels",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 242637,
    "gloryPointChange": 393,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 47,
+   "rankingPositionChange": -1,
+   "gloryPoint": 243123,
+   "gloryPointChange": 486,
    "soldierRankID": 14
   }
  ],

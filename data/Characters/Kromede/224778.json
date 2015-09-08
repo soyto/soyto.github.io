@@ -2,10 +2,10 @@
  "characterID": 224778,
  "characterClassID": 1,
  "raceID": 1,
- "position": 105,
- "rankingPositionChange": 0,
- "gloryPoint": 83906,
- "gloryPointChange": 64,
+ "position": 106,
+ "rankingPositionChange": -1,
+ "gloryPoint": 84660,
+ "gloryPointChange": 754,
  "soldierRankID": 13,
  "characterName": "Halbtoter",
  "guildName": "Shades of Phoenix",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 83906,
    "gloryPointChange": 64,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 106,
+   "rankingPositionChange": -1,
+   "gloryPoint": 84660,
+   "gloryPointChange": 754,
    "soldierRankID": 13
   }
  ],

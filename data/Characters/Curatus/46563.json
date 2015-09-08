@@ -3,11 +3,13 @@
  "characterClassID": 1,
  "raceID": 0,
  "position": 144,
- "rankingPositionChange": -10,
- "gloryPoint": 101204,
- "gloryPointChange": -686,
+ "rankingPositionChange": 0,
+ "gloryPoint": 101332,
+ "gloryPointChange": 128,
  "soldierRankID": 13,
  "characterName": "Shyrr",
+ "guildName": " Enigma ",
+ "guildID": 1027,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -184,6 +186,14 @@
    "gloryPoint": 101204,
    "gloryPointChange": -686,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": 0,
+   "gloryPoint": 101332,
+   "gloryPointChange": 128,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -199,6 +209,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " Enigma ",
+   "guildID": 1027
   }
  ]
 }

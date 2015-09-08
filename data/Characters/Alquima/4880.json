@@ -2,10 +2,10 @@
  "characterID": 4880,
  "characterClassID": 10,
  "raceID": 1,
- "position": 201,
- "rankingPositionChange": -2,
- "gloryPoint": 44296,
- "gloryPointChange": -49,
+ "position": 200,
+ "rankingPositionChange": 1,
+ "gloryPoint": 44256,
+ "gloryPointChange": -40,
  "soldierRankID": 13,
  "characterName": "Kimuux",
  "guildName": "Hijos de Anuhart",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 44296,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 200,
+   "rankingPositionChange": 1,
+   "gloryPoint": 44256,
+   "gloryPointChange": -40,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1337921,
  "characterClassID": 10,
  "raceID": 1,
- "position": 968,
- "rankingPositionChange": 4,
- "gloryPoint": 4757,
- "gloryPointChange": 136,
+ "position": 977,
+ "rankingPositionChange": -9,
+ "gloryPoint": 4743,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Kabutoyakushi",
  "guildName": " BiM BiM ",
@@ -185,6 +185,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 4757,
    "gloryPointChange": 136,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 977,
+   "rankingPositionChange": -9,
+   "gloryPoint": 4743,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

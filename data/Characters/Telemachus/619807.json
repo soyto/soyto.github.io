@@ -2,12 +2,14 @@
  "characterID": 619807,
  "characterClassID": 10,
  "raceID": 0,
- "position": 754,
- "rankingPositionChange": 1,
- "gloryPoint": 11590,
- "gloryPointChange": 45,
+ "position": 751,
+ "rankingPositionChange": 3,
+ "gloryPoint": 11627,
+ "gloryPointChange": 37,
  "soldierRankID": 10,
  "characterName": "Katves",
+ "guildName": "Perfect Insanity",
+ "guildID": 1064,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -144,6 +146,14 @@
    "gloryPoint": 11590,
    "gloryPointChange": 45,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 751,
+   "rankingPositionChange": 3,
+   "gloryPoint": 11627,
+   "gloryPointChange": 37,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -160,6 +170,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Perfect Insanity",
+   "guildID": 1064
   }
  ]
 }

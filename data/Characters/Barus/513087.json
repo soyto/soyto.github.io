@@ -2,14 +2,12 @@
  "characterID": 513087,
  "characterClassID": 8,
  "raceID": 1,
- "position": 900,
- "rankingPositionChange": -6,
- "gloryPoint": 12013,
- "gloryPointChange": -7,
+ "position": 901,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11999,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Saatu",
- "guildName": "Mad Penguins",
- "guildID": 10669,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 12013,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 901,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11999,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Mad Penguins",
    "guildID": 10669
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

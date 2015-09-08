@@ -3,13 +3,13 @@
  "characterClassID": 4,
  "raceID": 0,
  "position": 252,
- "rankingPositionChange": -4,
- "gloryPoint": 66539,
- "gloryPointChange": 186,
+ "rankingPositionChange": 0,
+ "gloryPoint": 66617,
+ "gloryPointChange": 78,
  "soldierRankID": 13,
  "characterName": "Kakuzo",
- "guildName": "Yami Ninja",
- "guildID": 35484,
+ "guildName": "F I R S T  D I V I S I O N  I",
+ "guildID": 48495,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -274,6 +274,14 @@
    "gloryPoint": 66539,
    "gloryPointChange": 186,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 252,
+   "rankingPositionChange": 0,
+   "gloryPoint": 66617,
+   "gloryPointChange": 78,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -287,6 +295,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Yami Ninja",
    "guildID": 35484
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "F I R S T  D I V I S I O N  I",
+   "guildID": 48495
   }
  ]
 }

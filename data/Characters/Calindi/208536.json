@@ -2,10 +2,10 @@
  "characterID": 208536,
  "characterClassID": 4,
  "raceID": 0,
- "position": 918,
- "rankingPositionChange": 0,
- "gloryPoint": 1290,
- "gloryPointChange": 0,
+ "position": 920,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1276,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Kizashi",
  "status": [
@@ -15,6 +15,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 1290,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 920,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1276,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

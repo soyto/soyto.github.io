@@ -2,10 +2,10 @@
  "characterID": 286219,
  "characterClassID": 2,
  "raceID": 1,
- "position": 46,
- "rankingPositionChange": 0,
- "gloryPoint": 43792,
- "gloryPointChange": 648,
+ "position": 47,
+ "rankingPositionChange": -1,
+ "gloryPoint": 44386,
+ "gloryPointChange": 594,
  "soldierRankID": 14,
  "characterName": "Kilimes",
  "guildName": "Cursed",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 43792,
    "gloryPointChange": 648,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 47,
+   "rankingPositionChange": -1,
+   "gloryPoint": 44386,
+   "gloryPointChange": 594,
    "soldierRankID": 14
   }
  ],

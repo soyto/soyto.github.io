@@ -2,14 +2,14 @@
  "characterID": 1698131,
  "characterClassID": 2,
  "raceID": 0,
- "position": 942,
- "rankingPositionChange": -14,
- "gloryPoint": 14809,
- "gloryPointChange": -7,
+ "position": 924,
+ "rankingPositionChange": 18,
+ "gloryPoint": 15332,
+ "gloryPointChange": 523,
  "soldierRankID": 10,
  "characterName": "Niterbackk",
- "guildName": "Yami Ninja",
- "guildID": 35484,
+ "guildName": "Echoes Of Silence",
+ "guildID": 41803,
  "status": [
   {
    "date": "2015-08-12T22:00:00.000Z",
@@ -178,6 +178,14 @@
    "gloryPoint": 14809,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 924,
+   "rankingPositionChange": 18,
+   "gloryPoint": 15332,
+   "gloryPointChange": 523,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -191,6 +199,11 @@
    "date": "2015-08-12T22:00:00.000Z",
    "guildName": "Yami Ninja",
    "guildID": 35484
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Echoes Of Silence",
+   "guildID": 41803
   }
  ]
 }

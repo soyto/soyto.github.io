@@ -2,10 +2,10 @@
  "characterID": 264842,
  "characterClassID": 7,
  "raceID": 0,
- "position": 219,
- "rankingPositionChange": 0,
- "gloryPoint": 68308,
- "gloryPointChange": -39,
+ "position": 221,
+ "rankingPositionChange": -2,
+ "gloryPoint": 68210,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Gremla",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 68308,
    "gloryPointChange": -39,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 221,
+   "rankingPositionChange": -2,
+   "gloryPoint": 68210,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

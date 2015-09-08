@@ -2,10 +2,10 @@
  "characterID": 1363991,
  "characterClassID": 13,
  "raceID": 0,
- "position": 899,
- "rankingPositionChange": 9,
- "gloryPoint": 7772,
- "gloryPointChange": 264,
+ "position": 888,
+ "rankingPositionChange": 11,
+ "gloryPoint": 7758,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Ludger",
  "guildName": "Fast N Loud",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 7772,
    "gloryPointChange": 264,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 888,
+   "rankingPositionChange": 11,
+   "gloryPoint": 7758,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

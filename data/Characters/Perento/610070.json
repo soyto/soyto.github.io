@@ -2,10 +2,10 @@
  "characterID": 610070,
  "characterClassID": 7,
  "raceID": 1,
- "position": 489,
- "rankingPositionChange": 3,
- "gloryPoint": 8664,
- "gloryPointChange": 168,
+ "position": 491,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8608,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Imbanub",
  "guildName": "Tangra",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 8664,
    "gloryPointChange": 168,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 491,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8608,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

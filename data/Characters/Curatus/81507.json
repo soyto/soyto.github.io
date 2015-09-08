@@ -2,10 +2,10 @@
  "characterID": 81507,
  "characterClassID": 5,
  "raceID": 1,
- "position": 185,
- "rankingPositionChange": 2,
- "gloryPoint": 43107,
- "gloryPointChange": 564,
+ "position": 188,
+ "rankingPositionChange": -3,
+ "gloryPoint": 43015,
+ "gloryPointChange": -92,
  "soldierRankID": 13,
  "characterName": "Poisonous",
  "guildName": "  TOP  ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 43107,
    "gloryPointChange": 564,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 188,
+   "rankingPositionChange": -3,
+   "gloryPoint": 43015,
+   "gloryPointChange": -92,
    "soldierRankID": 13
   }
  ],

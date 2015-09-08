@@ -2,10 +2,10 @@
  "characterID": 1612,
  "characterClassID": 5,
  "raceID": 0,
- "position": 123,
- "rankingPositionChange": 4,
- "gloryPoint": 87564,
- "gloryPointChange": 2245,
+ "position": 124,
+ "rankingPositionChange": -1,
+ "gloryPoint": 87517,
+ "gloryPointChange": -47,
  "soldierRankID": 13,
  "characterName": "Legolas",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 87564,
    "gloryPointChange": 2245,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 124,
+   "rankingPositionChange": -1,
+   "gloryPoint": 87517,
+   "gloryPointChange": -47,
    "soldierRankID": 13
   }
  ],

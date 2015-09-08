@@ -2,10 +2,10 @@
  "characterID": 1528107,
  "characterClassID": 1,
  "raceID": 1,
- "position": 535,
- "rankingPositionChange": 3,
- "gloryPoint": 17034,
- "gloryPointChange": 348,
+ "position": 538,
+ "rankingPositionChange": -3,
+ "gloryPoint": 17009,
+ "gloryPointChange": -25,
  "soldierRankID": 11,
  "characterName": "Gladess",
  "guildName": "Paradizia",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 17034,
    "gloryPointChange": 348,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 538,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17009,
+   "gloryPointChange": -25,
    "soldierRankID": 11
   }
  ],

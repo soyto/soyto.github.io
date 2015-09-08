@@ -2,10 +2,10 @@
  "characterID": 144541,
  "characterClassID": 2,
  "raceID": 0,
- "position": 414,
- "rankingPositionChange": 5,
- "gloryPoint": 22626,
- "gloryPointChange": 536,
+ "position": 416,
+ "rankingPositionChange": -2,
+ "gloryPoint": 22570,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Nightbreaker",
  "guildName": "Fearless",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 22626,
    "gloryPointChange": 536,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22570,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

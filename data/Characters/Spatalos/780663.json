@@ -2,10 +2,10 @@
  "characterID": 780663,
  "characterClassID": 8,
  "raceID": 0,
- "position": 339,
- "rankingPositionChange": -1,
- "gloryPoint": 42557,
- "gloryPointChange": 22,
+ "position": 338,
+ "rankingPositionChange": 1,
+ "gloryPoint": 42511,
+ "gloryPointChange": -46,
  "soldierRankID": 12,
  "characterName": "Ninea",
  "guildName": "Experto Crede",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 42557,
    "gloryPointChange": 22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 338,
+   "rankingPositionChange": 1,
+   "gloryPoint": 42511,
+   "gloryPointChange": -46,
    "soldierRankID": 12
   }
  ],

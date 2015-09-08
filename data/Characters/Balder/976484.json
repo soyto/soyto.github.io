@@ -2,10 +2,10 @@
  "characterID": 976484,
  "characterClassID": 10,
  "raceID": 1,
- "position": 499,
- "rankingPositionChange": 2,
- "gloryPoint": 2045,
- "gloryPointChange": -14,
+ "position": 500,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2003,
+ "gloryPointChange": -42,
  "soldierRankID": 12,
  "characterName": "Lavitinja",
  "status": [
@@ -191,6 +191,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 2045,
    "gloryPointChange": -14,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 500,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2003,
+   "gloryPointChange": -42,
    "soldierRankID": 12
   }
  ],

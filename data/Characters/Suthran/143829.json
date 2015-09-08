@@ -2,14 +2,12 @@
  "characterID": 143829,
  "characterClassID": 8,
  "raceID": 1,
- "position": 203,
- "rankingPositionChange": 0,
- "gloryPoint": 56497,
- "gloryPointChange": 301,
+ "position": 199,
+ "rankingPositionChange": 4,
+ "gloryPoint": 57249,
+ "gloryPointChange": 752,
  "soldierRankID": 13,
  "characterName": "Zaijian",
- "guildName": "Fallen",
- "guildID": 2826,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 56497,
    "gloryPointChange": 301,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 199,
+   "rankingPositionChange": 4,
+   "gloryPoint": 57249,
+   "gloryPointChange": 752,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Fallen",
    "guildID": 2826
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

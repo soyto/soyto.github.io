@@ -2,10 +2,10 @@
  "characterID": 1123199,
  "characterClassID": 11,
  "raceID": 1,
- "position": 206,
- "rankingPositionChange": 3,
- "gloryPoint": 25124,
- "gloryPointChange": 351,
+ "position": 207,
+ "rankingPositionChange": -1,
+ "gloryPoint": 25476,
+ "gloryPointChange": 352,
  "soldierRankID": 13,
  "characterName": "Slackstyle",
  "guildName": "Worldwake",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 25124,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 207,
+   "rankingPositionChange": -1,
+   "gloryPoint": 25476,
+   "gloryPointChange": 352,
    "soldierRankID": 13
   }
  ],

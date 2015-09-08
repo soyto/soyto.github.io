@@ -2,10 +2,10 @@
  "characterID": 297333,
  "characterClassID": 11,
  "raceID": 1,
- "position": 433,
- "rankingPositionChange": 1,
- "gloryPoint": 15157,
- "gloryPointChange": 110,
+ "position": 435,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15362,
+ "gloryPointChange": 205,
  "soldierRankID": 12,
  "characterName": "Bevelle",
  "guildName": "Stalkers",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 15157,
    "gloryPointChange": 110,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 435,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15362,
+   "gloryPointChange": 205,
    "soldierRankID": 12
   }
  ],

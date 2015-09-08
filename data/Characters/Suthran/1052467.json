@@ -2,14 +2,14 @@
  "characterID": 1052467,
  "characterClassID": 16,
  "raceID": 1,
- "position": 219,
- "rankingPositionChange": 0,
- "gloryPoint": 51057,
- "gloryPointChange": 254,
+ "position": 218,
+ "rankingPositionChange": 1,
+ "gloryPoint": 51378,
+ "gloryPointChange": 321,
  "soldierRankID": 13,
  "characterName": "Yukisenpai",
- "guildName": " Spleen de Panda ",
- "guildID": 42874,
+ "guildName": " Mangeur de Paella ",
+ "guildID": 44110,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 51057,
    "gloryPointChange": 254,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 218,
+   "rankingPositionChange": 1,
+   "gloryPoint": 51378,
+   "gloryPointChange": 321,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -319,6 +327,11 @@
    "date": "2015-08-29T22:00:00.000Z",
    "guildName": " Spleen de Panda ",
    "guildID": 42874
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " Mangeur de Paella ",
+   "guildID": 44110
   }
  ]
 }

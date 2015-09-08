@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 380,
- "rankingPositionChange": -4,
- "gloryPoint": 14146,
- "gloryPointChange": -25,
+ "rankingPositionChange": 0,
+ "gloryPoint": 14096,
+ "gloryPointChange": -50,
  "soldierRankID": 12,
  "characterName": "Dawnwings",
  "guildName": "BandOfBrothers",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 14146,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 380,
+   "rankingPositionChange": 0,
+   "gloryPoint": 14096,
+   "gloryPointChange": -50,
    "soldierRankID": 12
   }
  ],

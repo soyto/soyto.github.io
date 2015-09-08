@@ -2,10 +2,10 @@
  "characterID": 1524683,
  "characterClassID": 1,
  "raceID": 1,
- "position": 223,
- "rankingPositionChange": 0,
- "gloryPoint": 28029,
- "gloryPointChange": 903,
+ "position": 222,
+ "rankingPositionChange": 1,
+ "gloryPoint": 27931,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Terber",
  "guildName": "Lionhearts",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 28029,
    "gloryPointChange": 903,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": 1,
+   "gloryPoint": 27931,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

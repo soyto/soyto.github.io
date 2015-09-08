@@ -3,11 +3,13 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 53,
- "rankingPositionChange": 1,
- "gloryPoint": 138845,
- "gloryPointChange": -42,
+ "rankingPositionChange": 0,
+ "gloryPoint": 140162,
+ "gloryPointChange": 1317,
  "soldierRankID": 14,
  "characterName": "Rulhascruntz",
+ "guildName": "Bosphorus",
+ "guildID": 1226,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 138845,
    "gloryPointChange": -42,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 53,
+   "rankingPositionChange": 0,
+   "gloryPoint": 140162,
+   "gloryPointChange": 1317,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Bosphorus",
+   "guildID": 1226
   }
  ]
 }

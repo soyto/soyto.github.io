@@ -2,14 +2,14 @@
  "characterID": 394835,
  "characterClassID": 10,
  "raceID": 0,
- "position": 279,
- "rankingPositionChange": -2,
- "gloryPoint": 22920,
- "gloryPointChange": -49,
+ "position": 277,
+ "rankingPositionChange": 2,
+ "gloryPoint": 22972,
+ "gloryPointChange": 52,
  "soldierRankID": 13,
  "characterName": "Likaris",
- "guildName": "Fumetsu No Tenshi",
- "guildID": 2333,
+ "guildName": "Shining Fate",
+ "guildID": 15554,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 22920,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 277,
+   "rankingPositionChange": 2,
+   "gloryPoint": 22972,
+   "gloryPointChange": 52,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Fumetsu No Tenshi",
    "guildID": 2333
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Shining Fate",
+   "guildID": 15554
   }
  ]
 }

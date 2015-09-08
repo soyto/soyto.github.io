@@ -2,10 +2,10 @@
  "characterID": 736130,
  "characterClassID": 4,
  "raceID": 1,
- "position": 633,
- "rankingPositionChange": 2,
- "gloryPoint": 12470,
- "gloryPointChange": 55,
+ "position": 639,
+ "rankingPositionChange": -6,
+ "gloryPoint": 12500,
+ "gloryPointChange": 30,
  "soldierRankID": 11,
  "characterName": "Valdander",
  "guildName": "Destinados",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 12470,
    "gloryPointChange": 55,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 639,
+   "rankingPositionChange": -6,
+   "gloryPoint": 12500,
+   "gloryPointChange": 30,
    "soldierRankID": 11
   }
  ],

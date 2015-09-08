@@ -2,10 +2,10 @@
  "characterID": 506017,
  "characterClassID": 13,
  "raceID": 1,
- "position": 459,
- "rankingPositionChange": 0,
- "gloryPoint": 17597,
- "gloryPointChange": 102,
+ "position": 461,
+ "rankingPositionChange": -2,
+ "gloryPoint": 17797,
+ "gloryPointChange": 200,
  "soldierRankID": 12,
  "characterName": "Heemonio",
  "guildName": "Maestros de Asmodia",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 17597,
    "gloryPointChange": 102,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 461,
+   "rankingPositionChange": -2,
+   "gloryPoint": 17797,
+   "gloryPointChange": 200,
    "soldierRankID": 12
   }
  ],

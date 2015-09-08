@@ -2,14 +2,14 @@
  "characterID": 1134441,
  "characterClassID": 8,
  "raceID": 0,
- "position": 203,
- "rankingPositionChange": 2,
- "gloryPoint": 89895,
- "gloryPointChange": 1646,
+ "position": 202,
+ "rankingPositionChange": 1,
+ "gloryPoint": 90285,
+ "gloryPointChange": 390,
  "soldierRankID": 13,
  "characterName": "Ulqix",
- "guildName": "Die Eulen Gang",
- "guildID": 48615,
+ "guildName": "Krit Passion Christi",
+ "guildID": 48442,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 89895,
    "gloryPointChange": 1646,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 202,
+   "rankingPositionChange": 1,
+   "gloryPoint": 90285,
+   "gloryPointChange": 390,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -320,6 +328,11 @@
    "date": "2015-08-28T22:00:00.000Z",
    "guildName": "Die Eulen Gang",
    "guildID": 48615
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Krit Passion Christi",
+   "guildID": 48442
   }
  ]
 }

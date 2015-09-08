@@ -2,10 +2,10 @@
  "characterID": 98977,
  "characterClassID": 2,
  "raceID": 1,
- "position": 22,
- "rankingPositionChange": 0,
- "gloryPoint": 82367,
- "gloryPointChange": 131,
+ "position": 23,
+ "rankingPositionChange": -1,
+ "gloryPoint": 82349,
+ "gloryPointChange": -18,
  "soldierRankID": 15,
  "characterName": "Passoire",
  "guildName": "Legendary Players",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 82367,
    "gloryPointChange": 131,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 23,
+   "rankingPositionChange": -1,
+   "gloryPoint": 82349,
+   "gloryPointChange": -18,
    "soldierRankID": 15
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1189221,
  "characterClassID": 8,
  "raceID": 1,
- "position": 253,
- "rankingPositionChange": 0,
- "gloryPoint": 42386,
- "gloryPointChange": -15,
+ "position": 255,
+ "rankingPositionChange": -2,
+ "gloryPoint": 42415,
+ "gloryPointChange": 29,
  "soldierRankID": 13,
  "characterName": "Septi",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 42386,
    "gloryPointChange": -15,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -2,
+   "gloryPoint": 42415,
+   "gloryPointChange": 29,
    "soldierRankID": 13
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 1343825,
  "characterClassID": 14,
  "raceID": 0,
- "position": 704,
- "rankingPositionChange": 0,
- "gloryPoint": 14177,
- "gloryPointChange": -7,
- "soldierRankID": 10,
+ "position": 692,
+ "rankingPositionChange": 12,
+ "gloryPoint": 14277,
+ "gloryPointChange": 100,
+ "soldierRankID": 11,
  "characterName": "Vladcho",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 14177,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 692,
+   "rankingPositionChange": 12,
+   "gloryPoint": 14277,
+   "gloryPointChange": 100,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

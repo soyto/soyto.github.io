@@ -2,10 +2,10 @@
  "characterID": 1428305,
  "characterClassID": 13,
  "raceID": 1,
- "position": 760,
- "rankingPositionChange": 22,
- "gloryPoint": 3282,
- "gloryPointChange": 302,
+ "position": 761,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3268,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Tharros",
  "guildName": "Hope",
@@ -73,6 +73,14 @@
    "rankingPositionChange": 22,
    "gloryPoint": 3282,
    "gloryPointChange": 302,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 761,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3268,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

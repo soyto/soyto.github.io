@@ -2,10 +2,10 @@
  "characterID": 24880,
  "characterClassID": 10,
  "raceID": 0,
- "position": 640,
- "rankingPositionChange": -1,
- "gloryPoint": 9883,
- "gloryPointChange": -5,
+ "position": 637,
+ "rankingPositionChange": 3,
+ "gloryPoint": 9865,
+ "gloryPointChange": -18,
  "soldierRankID": 11,
  "characterName": "Asirion",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 9883,
    "gloryPointChange": -5,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 637,
+   "rankingPositionChange": 3,
+   "gloryPoint": 9865,
+   "gloryPointChange": -18,
    "soldierRankID": 11
   }
  ],

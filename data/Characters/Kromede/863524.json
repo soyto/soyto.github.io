@@ -2,10 +2,10 @@
  "characterID": 863524,
  "characterClassID": 1,
  "raceID": 1,
- "position": 81,
- "rankingPositionChange": 0,
- "gloryPoint": 98873,
- "gloryPointChange": -107,
+ "position": 82,
+ "rankingPositionChange": -1,
+ "gloryPoint": 99212,
+ "gloryPointChange": 339,
  "soldierRankID": 14,
  "characterName": "Fleggi",
  "guildName": "The Darkness Rising",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 98873,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 82,
+   "rankingPositionChange": -1,
+   "gloryPoint": 99212,
+   "gloryPointChange": 339,
    "soldierRankID": 14
   }
  ],

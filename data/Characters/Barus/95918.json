@@ -2,10 +2,10 @@
  "characterID": 95918,
  "characterClassID": 16,
  "raceID": 1,
- "position": 505,
- "rankingPositionChange": 0,
- "gloryPoint": 26769,
- "gloryPointChange": -1,
+ "position": 511,
+ "rankingPositionChange": -6,
+ "gloryPoint": 26864,
+ "gloryPointChange": 95,
  "soldierRankID": 11,
  "characterName": "Paradise",
  "status": [
@@ -263,6 +263,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 26769,
    "gloryPointChange": -1,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 511,
+   "rankingPositionChange": -6,
+   "gloryPoint": 26864,
+   "gloryPointChange": 95,
    "soldierRankID": 11
   }
  ],

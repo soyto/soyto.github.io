@@ -2,10 +2,10 @@
  "characterID": 22494,
  "characterClassID": 7,
  "raceID": 0,
- "position": 619,
- "rankingPositionChange": 37,
- "gloryPoint": 1605,
- "gloryPointChange": 216,
+ "position": 620,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1577,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Melaer",
  "guildName": "Defenders of light",
@@ -65,6 +65,14 @@
    "rankingPositionChange": 37,
    "gloryPoint": 1605,
    "gloryPointChange": 216,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 620,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1577,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

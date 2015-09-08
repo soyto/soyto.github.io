@@ -2,10 +2,10 @@
  "characterID": 158620,
  "characterClassID": 7,
  "raceID": 1,
- "position": 368,
- "rankingPositionChange": 1,
- "gloryPoint": 23547,
- "gloryPointChange": 372,
+ "position": 370,
+ "rankingPositionChange": -2,
+ "gloryPoint": 23491,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Crisar",
  "guildName": "Dark Einhasad",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 23547,
    "gloryPointChange": 372,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 370,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23491,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 79,
- "rankingPositionChange": 1,
- "gloryPoint": 123804,
- "gloryPointChange": 784,
+ "rankingPositionChange": 0,
+ "gloryPoint": 123690,
+ "gloryPointChange": -114,
  "soldierRankID": 14,
  "characterName": "Lynka",
  "guildName": "Eternal Army",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 123804,
    "gloryPointChange": 784,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 79,
+   "rankingPositionChange": 0,
+   "gloryPoint": 123690,
+   "gloryPointChange": -114,
    "soldierRankID": 14
   }
  ],

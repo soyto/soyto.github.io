@@ -2,10 +2,10 @@
  "characterID": 134755,
  "characterClassID": 8,
  "raceID": 1,
- "position": 859,
- "rankingPositionChange": -3,
- "gloryPoint": 1985,
- "gloryPointChange": -7,
+ "position": 854,
+ "rankingPositionChange": 5,
+ "gloryPoint": 1971,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Masssive",
  "status": [
@@ -255,6 +255,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 1985,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 854,
+   "rankingPositionChange": 5,
+   "gloryPoint": 1971,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

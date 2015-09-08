@@ -2,10 +2,10 @@
  "characterID": 88937,
  "characterClassID": 2,
  "raceID": 1,
- "position": 355,
- "rankingPositionChange": -1,
- "gloryPoint": 24164,
- "gloryPointChange": 192,
+ "position": 345,
+ "rankingPositionChange": 10,
+ "gloryPoint": 25235,
+ "gloryPointChange": 1071,
  "soldierRankID": 12,
  "characterName": "Trust",
  "guildName": " Game Over",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 24164,
    "gloryPointChange": 192,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 345,
+   "rankingPositionChange": 10,
+   "gloryPoint": 25235,
+   "gloryPointChange": 1071,
    "soldierRankID": 12
   }
  ],

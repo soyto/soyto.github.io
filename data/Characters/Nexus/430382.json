@@ -2,10 +2,10 @@
  "characterID": 430382,
  "characterClassID": 5,
  "raceID": 0,
- "position": 109,
- "rankingPositionChange": 0,
- "gloryPoint": 87452,
- "gloryPointChange": -49,
+ "position": 110,
+ "rankingPositionChange": -1,
+ "gloryPoint": 87354,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Lloyds",
  "guildName": "Numquam solus",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 87452,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 110,
+   "rankingPositionChange": -1,
+   "gloryPoint": 87354,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

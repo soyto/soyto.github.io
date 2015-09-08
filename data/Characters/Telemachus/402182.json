@@ -2,10 +2,10 @@
  "characterID": 402182,
  "characterClassID": 4,
  "raceID": 1,
- "position": 646,
- "rankingPositionChange": 1,
- "gloryPoint": 1777,
- "gloryPointChange": 36,
+ "position": 648,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1759,
+ "gloryPointChange": -18,
  "soldierRankID": 11,
  "characterName": "Wollhacker",
  "guildName": "VS ALL",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 1777,
    "gloryPointChange": 36,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 648,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1759,
+   "gloryPointChange": -18,
    "soldierRankID": 11
   }
  ],

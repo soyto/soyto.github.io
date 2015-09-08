@@ -2,10 +2,10 @@
  "characterID": 716697,
  "characterClassID": 7,
  "raceID": 0,
- "position": 188,
- "rankingPositionChange": 0,
- "gloryPoint": 42957,
- "gloryPointChange": 51,
+ "position": 190,
+ "rankingPositionChange": -2,
+ "gloryPoint": 42859,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Kaptain",
  "guildName": "Lunar Eclipse",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 42957,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 190,
+   "rankingPositionChange": -2,
+   "gloryPoint": 42859,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

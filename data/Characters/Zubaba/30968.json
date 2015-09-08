@@ -2,12 +2,14 @@
  "characterID": 30968,
  "characterClassID": 1,
  "raceID": 0,
- "position": 152,
- "rankingPositionChange": -1,
- "gloryPoint": 77036,
- "gloryPointChange": -37,
+ "position": 154,
+ "rankingPositionChange": -2,
+ "gloryPoint": 76991,
+ "gloryPointChange": -45,
  "soldierRankID": 13,
  "characterName": "Blackknight",
+ "guildName": "Under World",
+ "guildID": 6907,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 77036,
    "gloryPointChange": -37,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 154,
+   "rankingPositionChange": -2,
+   "gloryPoint": 76991,
+   "gloryPointChange": -45,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Under World",
+   "guildID": 6907
   }
  ]
 }

@@ -2,11 +2,11 @@
  "characterID": 1216580,
  "characterClassID": 1,
  "raceID": 1,
- "position": 300,
- "rankingPositionChange": 1,
- "gloryPoint": 23743,
- "gloryPointChange": 76,
- "soldierRankID": 13,
+ "position": 305,
+ "rankingPositionChange": -5,
+ "gloryPoint": 23666,
+ "gloryPointChange": -77,
+ "soldierRankID": 12,
  "characterName": "Snowfight",
  "status": [
   {
@@ -288,6 +288,14 @@
    "gloryPoint": 23743,
    "gloryPointChange": 76,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": -5,
+   "gloryPoint": 23666,
+   "gloryPointChange": -77,
+   "soldierRankID": 12
   }
  ],
  "names": [

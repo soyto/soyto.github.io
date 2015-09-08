@@ -3,13 +3,13 @@
  "characterClassID": 5,
  "raceID": 0,
  "position": 106,
- "rankingPositionChange": -1,
- "gloryPoint": 78354,
- "gloryPointChange": 124,
+ "rankingPositionChange": 0,
+ "gloryPoint": 78256,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Captaincagette",
- "guildName": "Ur MoM is My Epic Mount",
- "guildID": 16095,
+ "guildName": "AlaPechoMoules",
+ "guildID": 14014,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 78354,
    "gloryPointChange": 124,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 106,
+   "rankingPositionChange": 0,
+   "gloryPoint": 78256,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -311,6 +319,11 @@
    "date": "2015-08-30T22:00:00.000Z",
    "guildName": "Ur MoM is My Epic Mount",
    "guildID": 16095
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "AlaPechoMoules",
+   "guildID": 14014
   }
  ]
 }

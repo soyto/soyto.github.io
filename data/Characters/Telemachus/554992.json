@@ -2,10 +2,10 @@
  "characterID": 554992,
  "characterClassID": 5,
  "raceID": 1,
- "position": 413,
- "rankingPositionChange": 2,
- "gloryPoint": 5984,
- "gloryPointChange": 72,
+ "position": 418,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5928,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Tsiraki",
  "guildName": "Oikos Adoxhs",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 5984,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 418,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5928,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

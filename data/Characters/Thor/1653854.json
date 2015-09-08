@@ -2,12 +2,14 @@
  "characterID": 1653854,
  "characterClassID": 13,
  "raceID": 0,
- "position": 992,
- "rankingPositionChange": -7,
- "gloryPoint": 13752,
- "gloryPointChange": -7,
+ "position": 990,
+ "rankingPositionChange": 2,
+ "gloryPoint": 13756,
+ "gloryPointChange": 4,
  "soldierRankID": 10,
  "characterName": "Godfist",
+ "guildName": "Big Baunce",
+ "guildID": 26745,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 13752,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 2,
+   "gloryPoint": 13756,
+   "gloryPointChange": 4,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Big Baunce",
+   "guildID": 26745
   }
  ]
 }

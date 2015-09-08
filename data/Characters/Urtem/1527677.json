@@ -2,10 +2,10 @@
  "characterID": 1527677,
  "characterClassID": 4,
  "raceID": 1,
- "position": 288,
- "rankingPositionChange": 0,
- "gloryPoint": 38550,
- "gloryPointChange": 3,
+ "position": 290,
+ "rankingPositionChange": -2,
+ "gloryPoint": 38452,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Ioton",
  "guildName": "Istina",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 38550,
    "gloryPointChange": 3,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 290,
+   "rankingPositionChange": -2,
+   "gloryPoint": 38452,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

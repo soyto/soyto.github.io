@@ -2,10 +2,10 @@
  "characterID": 450495,
  "characterClassID": 1,
  "raceID": 0,
- "position": 958,
- "rankingPositionChange": 5,
- "gloryPoint": 10564,
- "gloryPointChange": 92,
+ "position": 960,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10550,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Ryoskee",
  "guildName": "ModernFamily",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 10564,
    "gloryPointChange": 92,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 960,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10550,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

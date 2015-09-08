@@ -2,10 +2,10 @@
  "characterID": 880177,
  "characterClassID": 1,
  "raceID": 1,
- "position": 951,
- "rankingPositionChange": -10,
- "gloryPoint": 1815,
- "gloryPointChange": -7,
+ "position": 935,
+ "rankingPositionChange": 16,
+ "gloryPoint": 1861,
+ "gloryPointChange": 46,
  "soldierRankID": 10,
  "characterName": "Enaris",
  "status": [
@@ -191,6 +191,14 @@
    "rankingPositionChange": -10,
    "gloryPoint": 1815,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 935,
+   "rankingPositionChange": 16,
+   "gloryPoint": 1861,
+   "gloryPointChange": 46,
    "soldierRankID": 10
   }
  ],

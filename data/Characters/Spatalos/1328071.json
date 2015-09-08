@@ -2,10 +2,10 @@
  "characterID": 1328071,
  "characterClassID": 10,
  "raceID": 1,
- "position": 307,
- "rankingPositionChange": 1,
- "gloryPoint": 19815,
- "gloryPointChange": 244,
+ "position": 309,
+ "rankingPositionChange": -2,
+ "gloryPoint": 19809,
+ "gloryPointChange": -6,
  "soldierRankID": 12,
  "characterName": "Reanimatrix",
  "guildName": "BandOfBrothers",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 19815,
    "gloryPointChange": 244,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 309,
+   "rankingPositionChange": -2,
+   "gloryPoint": 19809,
+   "gloryPointChange": -6,
    "soldierRankID": 12
   }
  ],

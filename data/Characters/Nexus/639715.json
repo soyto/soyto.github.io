@@ -2,14 +2,14 @@
  "characterID": 639715,
  "characterClassID": 1,
  "raceID": 0,
- "position": 800,
- "rankingPositionChange": -4,
- "gloryPoint": 7728,
- "gloryPointChange": 43,
+ "position": 797,
+ "rankingPositionChange": 3,
+ "gloryPoint": 7774,
+ "gloryPointChange": 46,
  "soldierRankID": 10,
  "characterName": "Fierysunrise",
- "guildName": "Fire Shadows",
- "guildID": 2208,
+ "guildName": "EndlessNight",
+ "guildID": 16245,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 7728,
    "gloryPointChange": 43,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 797,
+   "rankingPositionChange": 3,
+   "gloryPoint": 7774,
+   "gloryPointChange": 46,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Fire Shadows",
    "guildID": 2208
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "EndlessNight",
+   "guildID": 16245
   }
  ]
 }

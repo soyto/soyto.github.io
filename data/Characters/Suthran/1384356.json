@@ -2,14 +2,12 @@
  "characterID": 1384356,
  "characterClassID": 16,
  "raceID": 1,
- "position": 729,
- "rankingPositionChange": 22,
- "gloryPoint": 9069,
- "gloryPointChange": 661,
- "soldierRankID": 10,
+ "position": 677,
+ "rankingPositionChange": 52,
+ "gloryPoint": 9938,
+ "gloryPointChange": 869,
+ "soldierRankID": 11,
  "characterName": "Kihoubi",
- "guildName": "  Night Raid ",
- "guildID": 42588,
  "status": [
   {
    "date": "2015-08-17T22:00:00.000Z",
@@ -154,6 +152,14 @@
    "gloryPoint": 9069,
    "gloryPointChange": 661,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 677,
+   "rankingPositionChange": 52,
+   "gloryPoint": 9938,
+   "gloryPointChange": 869,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -167,6 +173,9 @@
    "date": "2015-08-17T22:00:00.000Z",
    "guildName": "  Night Raid ",
    "guildID": 42588
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

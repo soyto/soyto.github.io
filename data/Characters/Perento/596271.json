@@ -2,12 +2,14 @@
  "characterID": 596271,
  "characterClassID": 5,
  "raceID": 0,
- "position": 585,
- "rankingPositionChange": -1,
- "gloryPoint": 15386,
- "gloryPointChange": -14,
+ "position": 572,
+ "rankingPositionChange": 13,
+ "gloryPoint": 15833,
+ "gloryPointChange": 447,
  "soldierRankID": 11,
  "characterName": "Kanamii",
+ "guildName": "Axe",
+ "guildID": 29472,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -256,6 +258,14 @@
    "gloryPoint": 15386,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 572,
+   "rankingPositionChange": 13,
+   "gloryPoint": 15833,
+   "gloryPointChange": 447,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -267,6 +277,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Axe",
+   "guildID": 29472
   }
  ]
 }

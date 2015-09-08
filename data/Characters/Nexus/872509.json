@@ -2,10 +2,10 @@
  "characterID": 872509,
  "characterClassID": 7,
  "raceID": 0,
- "position": 786,
- "rankingPositionChange": -4,
- "gloryPoint": 7965,
- "gloryPointChange": -7,
+ "position": 785,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7951,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Zeppi",
  "status": [
@@ -175,6 +175,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 7965,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 785,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7951,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

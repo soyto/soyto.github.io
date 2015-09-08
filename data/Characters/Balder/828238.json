@@ -2,10 +2,10 @@
  "characterID": 828238,
  "characterClassID": 16,
  "raceID": 0,
- "position": 304,
- "rankingPositionChange": 1,
- "gloryPoint": 20129,
- "gloryPointChange": 241,
+ "position": 305,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20117,
+ "gloryPointChange": -12,
  "soldierRankID": 12,
  "characterName": "Clease",
  "guildName": "Fokus",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20129,
    "gloryPointChange": 241,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20117,
+   "gloryPointChange": -12,
    "soldierRankID": 12
   }
  ],

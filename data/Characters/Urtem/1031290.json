@@ -2,10 +2,10 @@
  "characterID": 1031290,
  "characterClassID": 10,
  "raceID": 1,
- "position": 150,
- "rankingPositionChange": 0,
- "gloryPoint": 64220,
- "gloryPointChange": 411,
+ "position": 152,
+ "rankingPositionChange": -2,
+ "gloryPoint": 64122,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Hayel",
  "guildName": "tribaL",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 64220,
    "gloryPointChange": 411,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 152,
+   "rankingPositionChange": -2,
+   "gloryPoint": 64122,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

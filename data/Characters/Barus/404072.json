@@ -2,9 +2,9 @@
  "characterID": 404072,
  "characterClassID": 1,
  "raceID": 1,
- "position": 177,
- "rankingPositionChange": 0,
- "gloryPoint": 78721,
+ "position": 178,
+ "rankingPositionChange": -1,
+ "gloryPoint": 78734,
  "gloryPointChange": 13,
  "soldierRankID": 13,
  "characterName": "Shieldmaster",
@@ -288,6 +288,14 @@
    "position": 177,
    "rankingPositionChange": 0,
    "gloryPoint": 78721,
+   "gloryPointChange": 13,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 178,
+   "rankingPositionChange": -1,
+   "gloryPoint": 78734,
    "gloryPointChange": 13,
    "soldierRankID": 13
   }

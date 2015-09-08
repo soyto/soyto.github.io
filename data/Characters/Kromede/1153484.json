@@ -2,10 +2,10 @@
  "characterID": 1153484,
  "characterClassID": 13,
  "raceID": 0,
- "position": 146,
- "rankingPositionChange": 0,
- "gloryPoint": 87873,
- "gloryPointChange": 51,
+ "position": 147,
+ "rankingPositionChange": -1,
+ "gloryPoint": 88178,
+ "gloryPointChange": 305,
  "soldierRankID": 13,
  "characterName": "Calhirsch",
  "guildName": "Just for Living",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 87873,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 147,
+   "rankingPositionChange": -1,
+   "gloryPoint": 88178,
+   "gloryPointChange": 305,
    "soldierRankID": 13
   }
  ],

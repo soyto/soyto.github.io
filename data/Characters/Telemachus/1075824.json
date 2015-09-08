@@ -2,10 +2,10 @@
  "characterID": 1075824,
  "characterClassID": 14,
  "raceID": 0,
- "position": 97,
- "rankingPositionChange": 1,
- "gloryPoint": 152424,
- "gloryPointChange": 341,
+ "position": 98,
+ "rankingPositionChange": -1,
+ "gloryPoint": 152743,
+ "gloryPointChange": 319,
  "soldierRankID": 14,
  "characterName": "Yueyin",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 152424,
    "gloryPointChange": 341,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 98,
+   "rankingPositionChange": -1,
+   "gloryPoint": 152743,
+   "gloryPointChange": 319,
    "soldierRankID": 14
   }
  ],

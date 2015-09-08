@@ -2,14 +2,14 @@
  "characterID": 596785,
  "characterClassID": 14,
  "raceID": 0,
- "position": 872,
- "rankingPositionChange": 0,
- "gloryPoint": 12248,
- "gloryPointChange": 8,
+ "position": 874,
+ "rankingPositionChange": -2,
+ "gloryPoint": 12320,
+ "gloryPointChange": 72,
  "soldierRankID": 10,
  "characterName": "Satrizer",
- "guildName": "Simphony of Destruction",
- "guildID": 9902,
+ "guildName": "Trashed And Scattered",
+ "guildID": 14660,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 12248,
    "gloryPointChange": 8,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 874,
+   "rankingPositionChange": -2,
+   "gloryPoint": 12320,
+   "gloryPointChange": 72,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -313,6 +321,11 @@
    "date": "2015-08-28T22:00:00.000Z",
    "guildName": "Simphony of Destruction",
    "guildID": 9902
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Trashed And Scattered",
+   "guildID": 14660
   }
  ]
 }

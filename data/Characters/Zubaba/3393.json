@@ -2,12 +2,14 @@
  "characterID": 3393,
  "characterClassID": 5,
  "raceID": 0,
- "position": 831,
- "rankingPositionChange": 4,
- "gloryPoint": 4811,
- "gloryPointChange": 55,
+ "position": 830,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4797,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Ecel",
+ "guildName": "Soloo",
+ "guildID": 6861,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 4811,
    "gloryPointChange": 55,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 830,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4797,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -309,6 +319,11 @@
   },
   {
    "date": "2015-08-12T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Soloo",
+   "guildID": 6861
   }
  ]
 }

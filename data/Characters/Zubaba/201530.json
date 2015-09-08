@@ -2,10 +2,10 @@
  "characterID": 201530,
  "characterClassID": 10,
  "raceID": 1,
- "position": 56,
- "rankingPositionChange": 1,
- "gloryPoint": 130954,
- "gloryPointChange": 103,
+ "position": 57,
+ "rankingPositionChange": -1,
+ "gloryPoint": 131031,
+ "gloryPointChange": 77,
  "soldierRankID": 14,
  "characterName": "Mikaael",
  "guildName": "Asabiler",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 130954,
    "gloryPointChange": 103,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 57,
+   "rankingPositionChange": -1,
+   "gloryPoint": 131031,
+   "gloryPointChange": 77,
    "soldierRankID": 14
   }
  ],

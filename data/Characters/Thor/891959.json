@@ -2,10 +2,10 @@
  "characterID": 891959,
  "characterClassID": 11,
  "raceID": 1,
- "position": 49,
- "rankingPositionChange": 0,
- "gloryPoint": 186688,
- "gloryPointChange": 293,
+ "position": 50,
+ "rankingPositionChange": -1,
+ "gloryPoint": 186633,
+ "gloryPointChange": -55,
  "soldierRankID": 14,
  "characterName": "Darkstick",
  "guildName": "Auenland Reloaded Killaz",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 186688,
    "gloryPointChange": 293,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 50,
+   "rankingPositionChange": -1,
+   "gloryPoint": 186633,
+   "gloryPointChange": -55,
    "soldierRankID": 14
   }
  ],

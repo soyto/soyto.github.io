@@ -2,10 +2,10 @@
  "characterID": 536995,
  "characterClassID": 8,
  "raceID": 1,
- "position": 962,
- "rankingPositionChange": 9,
- "gloryPoint": 1657,
- "gloryPointChange": 23,
+ "position": 964,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1646,
+ "gloryPointChange": -11,
  "soldierRankID": 10,
  "characterName": "Sardelas",
  "guildName": "Chaos Daeva",
@@ -89,6 +89,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 1657,
    "gloryPointChange": 23,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 964,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1646,
+   "gloryPointChange": -11,
    "soldierRankID": 10
   }
  ],

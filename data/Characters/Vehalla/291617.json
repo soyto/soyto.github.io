@@ -2,10 +2,10 @@
  "characterID": 291617,
  "characterClassID": 1,
  "raceID": 0,
- "position": 475,
- "rankingPositionChange": 22,
- "gloryPoint": 3152,
- "gloryPointChange": 347,
+ "position": 479,
+ "rankingPositionChange": -4,
+ "gloryPoint": 3132,
+ "gloryPointChange": -20,
  "soldierRankID": 12,
  "characterName": "Targatos",
  "guildName": "The Ducks",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 22,
    "gloryPoint": 3152,
    "gloryPointChange": 347,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 479,
+   "rankingPositionChange": -4,
+   "gloryPoint": 3132,
+   "gloryPointChange": -20,
    "soldierRankID": 12
   }
  ],

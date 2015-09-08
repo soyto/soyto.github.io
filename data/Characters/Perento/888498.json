@@ -2,10 +2,10 @@
  "characterID": 888498,
  "characterClassID": 10,
  "raceID": 1,
- "position": 906,
- "rankingPositionChange": -2,
- "gloryPoint": 1918,
- "gloryPointChange": -7,
+ "position": 904,
+ "rankingPositionChange": 2,
+ "gloryPoint": 1904,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Lunluna",
  "guildName": "TiggerCrue",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 1918,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 904,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1904,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

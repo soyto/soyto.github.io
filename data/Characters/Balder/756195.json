@@ -2,10 +2,10 @@
  "characterID": 756195,
  "characterClassID": 4,
  "raceID": 1,
- "position": 638,
- "rankingPositionChange": 174,
- "gloryPoint": 1302,
- "gloryPointChange": 0,
+ "position": 648,
+ "rankingPositionChange": -10,
+ "gloryPoint": 1288,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Lyphex",
  "guildName": "Ticket to Hell",
@@ -17,6 +17,14 @@
    "rankingPositionChange": 174,
    "gloryPoint": 1302,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 648,
+   "rankingPositionChange": -10,
+   "gloryPoint": 1288,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

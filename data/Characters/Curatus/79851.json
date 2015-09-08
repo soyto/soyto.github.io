@@ -2,10 +2,10 @@
  "characterID": 79851,
  "characterClassID": 14,
  "raceID": 1,
- "position": 48,
- "rankingPositionChange": -1,
- "gloryPoint": 115067,
- "gloryPointChange": -84,
+ "position": 47,
+ "rankingPositionChange": 1,
+ "gloryPoint": 115804,
+ "gloryPointChange": 737,
  "soldierRankID": 14,
  "characterName": "Ingegnere",
  "guildName": "Asgard",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 115067,
    "gloryPointChange": -84,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 47,
+   "rankingPositionChange": 1,
+   "gloryPoint": 115804,
+   "gloryPointChange": 737,
    "soldierRankID": 14
   }
  ],

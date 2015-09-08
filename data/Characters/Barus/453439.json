@@ -2,12 +2,14 @@
  "characterID": 453439,
  "characterClassID": 1,
  "raceID": 1,
- "position": 542,
- "rankingPositionChange": 2,
- "gloryPoint": 24904,
- "gloryPointChange": 196,
+ "position": 549,
+ "rankingPositionChange": -7,
+ "gloryPoint": 24876,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Emiyu",
+ "guildName": " NeverMind ",
+ "guildID": 5169,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 24904,
    "gloryPointChange": 196,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 549,
+   "rankingPositionChange": -7,
+   "gloryPoint": 24876,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -308,6 +318,11 @@
   },
   {
    "date": "2015-08-25T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " NeverMind ",
+   "guildID": 5169
   }
  ]
 }

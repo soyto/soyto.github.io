@@ -2,12 +2,14 @@
  "characterID": 1299155,
  "characterClassID": 10,
  "raceID": 0,
- "position": 74,
+ "position": 75,
  "rankingPositionChange": -1,
- "gloryPoint": 174910,
- "gloryPointChange": -107,
+ "gloryPoint": 175211,
+ "gloryPointChange": 301,
  "soldierRankID": 14,
  "characterName": "Neverwill",
+ "guildName": "Nakama",
+ "guildID": 31311,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -232,6 +234,14 @@
    "gloryPoint": 174910,
    "gloryPointChange": -107,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 75,
+   "rankingPositionChange": -1,
+   "gloryPoint": 175211,
+   "gloryPointChange": 301,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -243,6 +253,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Nakama",
+   "guildID": 31311
   }
  ]
 }

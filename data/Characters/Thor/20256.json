@@ -2,10 +2,10 @@
  "characterID": 20256,
  "characterClassID": 10,
  "raceID": 1,
- "position": 821,
- "rankingPositionChange": -2,
- "gloryPoint": 14646,
- "gloryPointChange": -7,
+ "position": 810,
+ "rankingPositionChange": 11,
+ "gloryPoint": 15032,
+ "gloryPointChange": 386,
  "soldierRankID": 10,
  "characterName": "Fulmina",
  "guildName": "Seek n Destroy",
@@ -193,6 +193,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 14646,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 810,
+   "rankingPositionChange": 11,
+   "gloryPoint": 15032,
+   "gloryPointChange": 386,
    "soldierRankID": 10
   }
  ],

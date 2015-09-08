@@ -2,10 +2,10 @@
  "characterID": 1009118,
  "characterClassID": 10,
  "raceID": 1,
- "position": 619,
- "rankingPositionChange": 19,
- "gloryPoint": 5754,
- "gloryPointChange": 386,
+ "position": 621,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5726,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Kangaeru",
  "guildName": "Broken",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 19,
    "gloryPoint": 5754,
    "gloryPointChange": 386,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5726,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

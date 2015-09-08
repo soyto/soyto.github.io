@@ -2,14 +2,14 @@
  "characterID": 864206,
  "characterClassID": 7,
  "raceID": 1,
- "position": 1000,
- "rankingPositionChange": 0,
- "gloryPoint": 7341,
- "gloryPointChange": 0,
- "soldierRankID": 0,
+ "position": 994,
+ "rankingPositionChange": 6,
+ "gloryPoint": 7632,
+ "gloryPointChange": 291,
+ "soldierRankID": 10,
  "characterName": "Carden",
- "guildName": "Spolecenstvo pivniho tacku",
- "guildID": 15565,
+ "guildName": "Spolecenstvo pivnich tacku",
+ "guildID": 16505,
  "status": [
   {
    "date": "2015-09-03T22:00:00.000Z",
@@ -18,6 +18,14 @@
    "gloryPoint": 7341,
    "gloryPointChange": 0,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 994,
+   "rankingPositionChange": 6,
+   "gloryPoint": 7632,
+   "gloryPointChange": 291,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -31,6 +39,11 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "Spolecenstvo pivniho tacku",
    "guildID": 15565
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Spolecenstvo pivnich tacku",
+   "guildID": 16505
   }
  ]
 }

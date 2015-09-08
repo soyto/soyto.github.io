@@ -2,10 +2,10 @@
  "characterID": 456777,
  "characterClassID": 16,
  "raceID": 0,
- "position": 823,
- "rankingPositionChange": 4,
- "gloryPoint": 15280,
- "gloryPointChange": -7,
+ "position": 824,
+ "rankingPositionChange": -1,
+ "gloryPoint": 15266,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Viperia",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 15280,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 824,
+   "rankingPositionChange": -1,
+   "gloryPoint": 15266,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

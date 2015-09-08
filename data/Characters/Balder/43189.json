@@ -2,12 +2,14 @@
  "characterID": 43189,
  "characterClassID": 4,
  "raceID": 1,
- "position": 172,
- "rankingPositionChange": 0,
- "gloryPoint": 32896,
- "gloryPointChange": -49,
+ "position": 171,
+ "rankingPositionChange": 1,
+ "gloryPoint": 32936,
+ "gloryPointChange": 40,
  "soldierRankID": 13,
  "characterName": "Rikumi",
+ "guildName": "Schwimmbad",
+ "guildID": 27911,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 32896,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 171,
+   "rankingPositionChange": 1,
+   "gloryPoint": 32936,
+   "gloryPointChange": 40,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-20T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Schwimmbad",
+   "guildID": 27911
   }
  ]
 }

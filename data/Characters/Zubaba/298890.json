@@ -3,9 +3,9 @@
  "characterClassID": 16,
  "raceID": 0,
  "position": 918,
- "rankingPositionChange": 10,
- "gloryPoint": 3513,
- "gloryPointChange": 139,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3499,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Yersinia",
  "status": [
@@ -191,6 +191,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 3513,
    "gloryPointChange": 139,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 918,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3499,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

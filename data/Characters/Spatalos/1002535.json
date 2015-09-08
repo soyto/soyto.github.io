@@ -2,10 +2,10 @@
  "characterID": 1002535,
  "characterClassID": 14,
  "raceID": 1,
- "position": 238,
- "rankingPositionChange": 5,
- "gloryPoint": 25992,
- "gloryPointChange": 801,
+ "position": 240,
+ "rankingPositionChange": -2,
+ "gloryPoint": 25960,
+ "gloryPointChange": -32,
  "soldierRankID": 13,
  "characterName": "Maiha",
  "guildName": "Lionhearts",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 25992,
    "gloryPointChange": 801,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 240,
+   "rankingPositionChange": -2,
+   "gloryPoint": 25960,
+   "gloryPointChange": -32,
    "soldierRankID": 13
   }
  ],

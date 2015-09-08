@@ -2,10 +2,10 @@
  "characterID": 137824,
  "characterClassID": 10,
  "raceID": 1,
- "position": 411,
- "rankingPositionChange": -2,
- "gloryPoint": 3730,
- "gloryPointChange": -28,
+ "position": 401,
+ "rankingPositionChange": 10,
+ "gloryPoint": 3874,
+ "gloryPointChange": 144,
  "soldierRankID": 12,
  "characterName": "Lamya",
  "guildName": "La Morte Nera",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 3730,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": 10,
+   "gloryPoint": 3874,
+   "gloryPointChange": 144,
    "soldierRankID": 12
   }
  ],

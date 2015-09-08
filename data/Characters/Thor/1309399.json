@@ -2,10 +2,10 @@
  "characterID": 1309399,
  "characterClassID": 1,
  "raceID": 0,
- "position": 232,
- "rankingPositionChange": 0,
- "gloryPoint": 79082,
- "gloryPointChange": 865,
+ "position": 233,
+ "rankingPositionChange": -1,
+ "gloryPoint": 79102,
+ "gloryPointChange": 20,
  "soldierRankID": 13,
  "characterName": "Okazaki",
  "guildName": "Frozen Frogs",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 79082,
    "gloryPointChange": 865,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 233,
+   "rankingPositionChange": -1,
+   "gloryPoint": 79102,
+   "gloryPointChange": 20,
    "soldierRankID": 13
   }
  ],

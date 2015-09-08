@@ -2,10 +2,10 @@
  "characterID": 798858,
  "characterClassID": 2,
  "raceID": 1,
- "position": 251,
- "rankingPositionChange": -1,
- "gloryPoint": 14216,
- "gloryPointChange": -49,
+ "position": 249,
+ "rankingPositionChange": 2,
+ "gloryPoint": 14421,
+ "gloryPointChange": 205,
  "soldierRankID": 13,
  "characterName": "Breg",
  "status": [
@@ -271,6 +271,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 14216,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 249,
+   "rankingPositionChange": 2,
+   "gloryPoint": 14421,
+   "gloryPointChange": 205,
    "soldierRankID": 13
   }
  ],

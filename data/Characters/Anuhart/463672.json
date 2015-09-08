@@ -2,11 +2,11 @@
  "characterID": 463672,
  "characterClassID": 7,
  "raceID": 0,
- "position": 1000,
- "rankingPositionChange": -3,
- "gloryPoint": 4031,
- "gloryPointChange": -7,
- "soldierRankID": 0,
+ "position": 999,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4124,
+ "gloryPointChange": 93,
+ "soldierRankID": 10,
  "characterName": "Trakais",
  "guildName": "The Spartans",
  "guildID": 10790,
@@ -42,6 +42,14 @@
    "gloryPoint": 4031,
    "gloryPointChange": -7,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 999,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4124,
+   "gloryPointChange": 93,
+   "soldierRankID": 10
   }
  ],
  "names": [

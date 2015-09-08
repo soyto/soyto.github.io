@@ -2,10 +2,10 @@
  "characterID": 255698,
  "characterClassID": 8,
  "raceID": 0,
- "position": 994,
- "rankingPositionChange": 5,
- "gloryPoint": 9805,
- "gloryPointChange": 145,
+ "position": 998,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9791,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Afrodito",
  "guildName": "Check Ready",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 9805,
    "gloryPointChange": 145,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 998,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9791,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

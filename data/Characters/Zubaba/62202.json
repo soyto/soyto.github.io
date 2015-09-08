@@ -2,12 +2,14 @@
  "characterID": 62202,
  "characterClassID": 1,
  "raceID": 0,
- "position": 494,
- "rankingPositionChange": -2,
- "gloryPoint": 15146,
- "gloryPointChange": -28,
+ "position": 482,
+ "rankingPositionChange": 12,
+ "gloryPoint": 15785,
+ "gloryPointChange": 639,
  "soldierRankID": 12,
  "characterName": "Bloodry",
+ "guildName": "Be Happy",
+ "guildID": 6871,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 15146,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 482,
+   "rankingPositionChange": 12,
+   "gloryPoint": 15785,
+   "gloryPointChange": 639,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Be Happy",
+   "guildID": 6871
   }
  ]
 }

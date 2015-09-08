@@ -2,10 +2,10 @@
  "characterID": 991071,
  "characterClassID": 5,
  "raceID": 1,
- "position": 433,
- "rankingPositionChange": -2,
- "gloryPoint": 18765,
- "gloryPointChange": -8,
+ "position": 436,
+ "rankingPositionChange": -3,
+ "gloryPoint": 18715,
+ "gloryPointChange": -50,
  "soldierRankID": 12,
  "characterName": "Tryll",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 18765,
    "gloryPointChange": -8,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 436,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18715,
+   "gloryPointChange": -50,
    "soldierRankID": 12
   }
  ],

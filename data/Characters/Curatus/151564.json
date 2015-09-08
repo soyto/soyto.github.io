@@ -2,12 +2,14 @@
  "characterID": 151564,
  "characterClassID": 14,
  "raceID": 1,
- "position": 631,
- "rankingPositionChange": -4,
- "gloryPoint": 8480,
- "gloryPointChange": -14,
+ "position": 632,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8475,
+ "gloryPointChange": -5,
  "soldierRankID": 11,
  "characterName": "Ladydrago",
+ "guildName": "Dei Ex Mortis",
+ "guildID": 3737,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 8480,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 632,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8475,
+   "gloryPointChange": -5,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Dei Ex Mortis",
+   "guildID": 3737
   }
  ]
 }

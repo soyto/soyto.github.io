@@ -2,10 +2,10 @@
  "characterID": 1055537,
  "characterClassID": 11,
  "raceID": 1,
- "position": 539,
- "rankingPositionChange": 13,
- "gloryPoint": 8751,
- "gloryPointChange": 286,
+ "position": 545,
+ "rankingPositionChange": -6,
+ "gloryPoint": 8723,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Airys",
  "guildName": "Last Soul",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 8751,
    "gloryPointChange": 286,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 545,
+   "rankingPositionChange": -6,
+   "gloryPoint": 8723,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 92337,
  "characterClassID": 8,
  "raceID": 1,
- "position": 49,
- "rankingPositionChange": 1,
- "gloryPoint": 141860,
- "gloryPointChange": 645,
+ "position": 50,
+ "rankingPositionChange": -1,
+ "gloryPoint": 143126,
+ "gloryPointChange": 1266,
  "soldierRankID": 14,
  "characterName": "Raxnel",
  "guildName": "G U A R D S",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 141860,
    "gloryPointChange": 645,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 50,
+   "rankingPositionChange": -1,
+   "gloryPoint": 143126,
+   "gloryPointChange": 1266,
    "soldierRankID": 14
   }
  ],

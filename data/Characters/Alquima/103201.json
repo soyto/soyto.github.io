@@ -2,10 +2,10 @@
  "characterID": 103201,
  "characterClassID": 14,
  "raceID": 1,
- "position": 809,
- "rankingPositionChange": -3,
- "gloryPoint": 8459,
- "gloryPointChange": -7,
+ "position": 803,
+ "rankingPositionChange": 6,
+ "gloryPoint": 8644,
+ "gloryPointChange": 185,
  "soldierRankID": 10,
  "characterName": "Janodos",
  "guildName": "los mankitos",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 8459,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 803,
+   "rankingPositionChange": 6,
+   "gloryPoint": 8644,
+   "gloryPointChange": 185,
    "soldierRankID": 10
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 159755,
  "characterClassID": 1,
  "raceID": 1,
- "position": 329,
- "rankingPositionChange": -2,
- "gloryPoint": 53307,
- "gloryPointChange": -28,
+ "position": 323,
+ "rankingPositionChange": 6,
+ "gloryPoint": 53646,
+ "gloryPointChange": 339,
  "soldierRankID": 12,
  "characterName": "Nsfw",
+ "guildName": "Easy Peasy Lemon Squeezy",
+ "guildID": 16020,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 53307,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 323,
+   "rankingPositionChange": 6,
+   "gloryPoint": 53646,
+   "gloryPointChange": 339,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -308,6 +318,11 @@
   },
   {
    "date": "2015-08-14T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Easy Peasy Lemon Squeezy",
+   "guildID": 16020
   }
  ]
 }

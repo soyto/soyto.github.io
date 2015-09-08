@@ -2,10 +2,10 @@
  "characterID": 79431,
  "characterClassID": 4,
  "raceID": 1,
- "position": 279,
- "rankingPositionChange": 1,
- "gloryPoint": 28598,
- "gloryPointChange": 75,
+ "position": 280,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28500,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Jyrou",
  "guildName": "KIZIL ORDU",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 28598,
    "gloryPointChange": 75,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 280,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28500,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

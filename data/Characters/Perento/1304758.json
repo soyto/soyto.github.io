@@ -2,10 +2,10 @@
  "characterID": 1304758,
  "characterClassID": 14,
  "raceID": 1,
- "position": 746,
- "rankingPositionChange": 0,
- "gloryPoint": 3415,
- "gloryPointChange": -7,
+ "position": 739,
+ "rankingPositionChange": 7,
+ "gloryPoint": 3457,
+ "gloryPointChange": 42,
  "soldierRankID": 10,
  "characterName": "Stige",
  "guildName": "Sprawl",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 3415,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 739,
+   "rankingPositionChange": 7,
+   "gloryPoint": 3457,
+   "gloryPointChange": 42,
    "soldierRankID": 10
   }
  ],

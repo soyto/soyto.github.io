@@ -2,10 +2,10 @@
  "characterID": 1390176,
  "characterClassID": 13,
  "raceID": 1,
- "position": 424,
- "rankingPositionChange": 12,
- "gloryPoint": 12102,
- "gloryPointChange": 500,
+ "position": 423,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12056,
+ "gloryPointChange": -46,
  "soldierRankID": 12,
  "characterName": "Asso",
  "guildName": "Prets",
@@ -193,6 +193,14 @@
    "rankingPositionChange": 12,
    "gloryPoint": 12102,
    "gloryPointChange": 500,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 423,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12056,
+   "gloryPointChange": -46,
    "soldierRankID": 12
   }
  ],

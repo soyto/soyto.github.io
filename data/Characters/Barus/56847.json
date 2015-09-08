@@ -2,10 +2,10 @@
  "characterID": 56847,
  "characterClassID": 16,
  "raceID": 0,
- "position": 104,
- "rankingPositionChange": 0,
- "gloryPoint": 93071,
- "gloryPointChange": -49,
+ "position": 105,
+ "rankingPositionChange": -1,
+ "gloryPoint": 93560,
+ "gloryPointChange": 489,
  "soldierRankID": 13,
  "characterName": "Witamina",
  "guildName": "Cute Monsters",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 93071,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 105,
+   "rankingPositionChange": -1,
+   "gloryPoint": 93560,
+   "gloryPointChange": 489,
    "soldierRankID": 13
   }
  ],

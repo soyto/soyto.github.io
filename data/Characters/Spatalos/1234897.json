@@ -2,10 +2,10 @@
  "characterID": 1234897,
  "characterClassID": 10,
  "raceID": 1,
- "position": 827,
- "rankingPositionChange": -8,
- "gloryPoint": 3303,
- "gloryPointChange": -7,
+ "position": 817,
+ "rankingPositionChange": 10,
+ "gloryPoint": 3339,
+ "gloryPointChange": 36,
  "soldierRankID": 10,
  "characterName": "Orihimae",
  "guildName": "Malevolent Masterminds",
@@ -153,6 +153,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 3303,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 817,
+   "rankingPositionChange": 10,
+   "gloryPoint": 3339,
+   "gloryPointChange": 36,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1314714,
  "characterClassID": 1,
  "raceID": 1,
- "position": 274,
- "rankingPositionChange": 3,
- "gloryPoint": 21975,
- "gloryPointChange": 351,
+ "position": 275,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21877,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Hardmood",
  "guildName": "Syntagma",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 21975,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 275,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21877,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

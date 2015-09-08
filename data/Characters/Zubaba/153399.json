@@ -2,12 +2,14 @@
  "characterID": 153399,
  "characterClassID": 1,
  "raceID": 0,
- "position": 265,
- "rankingPositionChange": -1,
- "gloryPoint": 40679,
- "gloryPointChange": -49,
+ "position": 264,
+ "rankingPositionChange": 1,
+ "gloryPoint": 40718,
+ "gloryPointChange": 39,
  "soldierRankID": 13,
  "characterName": "Statocny",
+ "guildName": "We Love OPPAI",
+ "guildID": 6843,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 40679,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 264,
+   "rankingPositionChange": 1,
+   "gloryPoint": 40718,
+   "gloryPointChange": 39,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -319,6 +329,11 @@
   },
   {
    "date": "2015-08-28T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "We Love OPPAI",
+   "guildID": 6843
   }
  ]
 }

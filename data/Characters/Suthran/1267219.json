@@ -2,10 +2,10 @@
  "characterID": 1267219,
  "characterClassID": 5,
  "raceID": 0,
- "position": 120,
- "rankingPositionChange": 0,
- "gloryPoint": 111275,
- "gloryPointChange": 163,
+ "position": 121,
+ "rankingPositionChange": -1,
+ "gloryPoint": 111189,
+ "gloryPointChange": -86,
  "soldierRankID": 13,
  "characterName": "Fifiii",
  "guildName": "SHENLONG",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 111275,
    "gloryPointChange": 163,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 121,
+   "rankingPositionChange": -1,
+   "gloryPoint": 111189,
+   "gloryPointChange": -86,
    "soldierRankID": 13
   }
  ],

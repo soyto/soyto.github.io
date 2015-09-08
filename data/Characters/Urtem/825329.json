@@ -2,14 +2,12 @@
  "characterID": 825329,
  "characterClassID": 8,
  "raceID": 1,
- "position": 365,
- "rankingPositionChange": 0,
- "gloryPoint": 28078,
- "gloryPointChange": -28,
+ "position": 356,
+ "rankingPositionChange": 9,
+ "gloryPoint": 29060,
+ "gloryPointChange": 982,
  "soldierRankID": 12,
  "characterName": "Hametsuuu",
- "guildName": "NiNjA Family",
- "guildID": 44990,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -266,6 +264,14 @@
    "gloryPoint": 28078,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 356,
+   "rankingPositionChange": 9,
+   "gloryPoint": 29060,
+   "gloryPointChange": 982,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -296,6 +302,9 @@
    "date": "2015-08-12T22:00:00.000Z",
    "guildName": "NiNjA Family",
    "guildID": 44990
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

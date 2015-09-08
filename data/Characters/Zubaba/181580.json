@@ -2,10 +2,10 @@
  "characterID": 181580,
  "characterClassID": 16,
  "raceID": 1,
- "position": 861,
- "rankingPositionChange": -3,
- "gloryPoint": 1975,
- "gloryPointChange": -7,
+ "position": 856,
+ "rankingPositionChange": 5,
+ "gloryPoint": 1961,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Pella",
  "guildName": "G U A R D S",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 1975,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 856,
+   "rankingPositionChange": 5,
+   "gloryPoint": 1961,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

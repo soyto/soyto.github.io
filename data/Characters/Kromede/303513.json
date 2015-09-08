@@ -2,12 +2,14 @@
  "characterID": 303513,
  "characterClassID": 2,
  "raceID": 1,
- "position": 911,
- "rankingPositionChange": 69,
- "gloryPoint": 3422,
- "gloryPointChange": 464,
+ "position": 800,
+ "rankingPositionChange": 111,
+ "gloryPoint": 4455,
+ "gloryPointChange": 1033,
  "soldierRankID": 10,
  "characterName": "Zante",
+ "guildName": "FOR KINGS",
+ "guildID": 38397,
  "status": [
   {
    "date": "2015-09-02T22:00:00.000Z",
@@ -40,6 +42,14 @@
    "gloryPoint": 3422,
    "gloryPointChange": 464,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 800,
+   "rankingPositionChange": 111,
+   "gloryPoint": 4455,
+   "gloryPointChange": 1033,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -51,6 +61,11 @@
  "guilds": [
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "FOR KINGS",
+   "guildID": 38397
   }
  ]
 }

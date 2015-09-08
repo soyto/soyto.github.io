@@ -2,10 +2,10 @@
  "characterID": 1209508,
  "characterClassID": 1,
  "raceID": 1,
- "position": 603,
- "rankingPositionChange": 0,
- "gloryPoint": 5578,
- "gloryPointChange": -4,
+ "position": 600,
+ "rankingPositionChange": 3,
+ "gloryPoint": 5645,
+ "gloryPointChange": 67,
  "soldierRankID": 11,
  "characterName": "Walkerina",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5578,
    "gloryPointChange": -4,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5645,
+   "gloryPointChange": 67,
    "soldierRankID": 11
   }
  ],

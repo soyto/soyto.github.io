@@ -2,10 +2,10 @@
  "characterID": 933066,
  "characterClassID": 16,
  "raceID": 0,
- "position": 603,
- "rankingPositionChange": -1,
- "gloryPoint": 19348,
- "gloryPointChange": 39,
+ "position": 600,
+ "rankingPositionChange": 3,
+ "gloryPoint": 19330,
+ "gloryPointChange": -18,
  "soldierRankID": 11,
  "characterName": "Jadn",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 19348,
    "gloryPointChange": 39,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": 3,
+   "gloryPoint": 19330,
+   "gloryPointChange": -18,
    "soldierRankID": 11
   }
  ],

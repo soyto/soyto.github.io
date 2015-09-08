@@ -2,14 +2,14 @@
  "characterID": 18513,
  "characterClassID": 10,
  "raceID": 1,
- "position": 62,
- "rankingPositionChange": 2,
- "gloryPoint": 100501,
- "gloryPointChange": 368,
+ "position": 63,
+ "rankingPositionChange": -1,
+ "gloryPoint": 100782,
+ "gloryPointChange": 281,
  "soldierRankID": 14,
  "characterName": "Afrih",
- "guildName": "AFKxdxd",
- "guildID": 14881,
+ "guildName": "Wanted Dead Or Alive",
+ "guildID": 11250,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 100501,
    "gloryPointChange": 368,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 63,
+   "rankingPositionChange": -1,
+   "gloryPoint": 100782,
+   "gloryPointChange": 281,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -308,6 +316,11 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "AFKxdxd",
    "guildID": 14881
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Wanted Dead Or Alive",
+   "guildID": 11250
   }
  ]
 }

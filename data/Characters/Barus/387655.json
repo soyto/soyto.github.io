@@ -2,10 +2,10 @@
  "characterID": 387655,
  "characterClassID": 7,
  "raceID": 0,
- "position": 130,
- "rankingPositionChange": 0,
- "gloryPoint": 83867,
- "gloryPointChange": -49,
+ "position": 131,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83769,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Stregobord",
  "status": [
@@ -127,6 +127,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 83867,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 131,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83769,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

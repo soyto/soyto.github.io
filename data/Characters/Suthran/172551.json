@@ -2,10 +2,10 @@
  "characterID": 172551,
  "characterClassID": 1,
  "raceID": 1,
- "position": 888,
- "rankingPositionChange": 38,
- "gloryPoint": 5819,
- "gloryPointChange": 668,
+ "position": 904,
+ "rankingPositionChange": -16,
+ "gloryPoint": 5805,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Dhuum",
  "guildName": "l Black Wings l",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 38,
    "gloryPoint": 5819,
    "gloryPointChange": 668,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 904,
+   "rankingPositionChange": -16,
+   "gloryPoint": 5805,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

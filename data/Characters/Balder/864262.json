@@ -2,10 +2,10 @@
  "characterID": 864262,
  "characterClassID": 7,
  "raceID": 1,
- "position": 78,
- "rankingPositionChange": 0,
- "gloryPoint": 74771,
- "gloryPointChange": 11,
+ "position": 79,
+ "rankingPositionChange": -1,
+ "gloryPoint": 74907,
+ "gloryPointChange": 136,
  "soldierRankID": 14,
  "characterName": "Cayla",
  "guildName": "Wings of Anarchy",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 74771,
    "gloryPointChange": 11,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 79,
+   "rankingPositionChange": -1,
+   "gloryPoint": 74907,
+   "gloryPointChange": 136,
    "soldierRankID": 14
   }
  ],

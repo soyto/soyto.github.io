@@ -2,10 +2,10 @@
  "characterID": 212311,
  "characterClassID": 1,
  "raceID": 0,
- "position": 526,
- "rankingPositionChange": 13,
- "gloryPoint": 2463,
- "gloryPointChange": 111,
+ "position": 527,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2435,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Lucas",
  "guildName": "Defenders of light",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 2463,
    "gloryPointChange": 111,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 527,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2435,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

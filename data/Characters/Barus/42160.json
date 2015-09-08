@@ -2,10 +2,10 @@
  "characterID": 42160,
  "characterClassID": 2,
  "raceID": 0,
- "position": 211,
- "rankingPositionChange": 0,
- "gloryPoint": 64086,
- "gloryPointChange": 203,
+ "position": 213,
+ "rankingPositionChange": -2,
+ "gloryPoint": 64248,
+ "gloryPointChange": 162,
  "soldierRankID": 13,
  "characterName": "Adia",
  "guildName": "Hades Breath",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 64086,
    "gloryPointChange": 203,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 213,
+   "rankingPositionChange": -2,
+   "gloryPoint": 64248,
+   "gloryPointChange": 162,
    "soldierRankID": 13
   }
  ],

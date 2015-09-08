@@ -2,10 +2,10 @@
  "characterID": 210048,
  "characterClassID": 11,
  "raceID": 0,
- "position": 927,
- "rankingPositionChange": 8,
- "gloryPoint": 3386,
- "gloryPointChange": 53,
+ "position": 928,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3372,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Mcdsd",
  "guildName": "Soul Reapers",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 3386,
    "gloryPointChange": 53,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 928,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3372,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1104452,
  "characterClassID": 2,
  "raceID": 0,
- "position": 489,
- "rankingPositionChange": -1,
- "gloryPoint": 32177,
- "gloryPointChange": -28,
+ "position": 485,
+ "rankingPositionChange": 4,
+ "gloryPoint": 32377,
+ "gloryPointChange": 200,
  "soldierRankID": 12,
  "characterName": "Natheos",
  "guildName": "Fairy Hope",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 32177,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 485,
+   "rankingPositionChange": 4,
+   "gloryPoint": 32377,
+   "gloryPointChange": 200,
    "soldierRankID": 12
   }
  ],

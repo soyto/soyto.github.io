@@ -2,10 +2,10 @@
  "characterID": 317582,
  "characterClassID": 16,
  "raceID": 1,
- "position": 962,
- "rankingPositionChange": -2,
- "gloryPoint": 3263,
- "gloryPointChange": -7,
+ "position": 951,
+ "rankingPositionChange": 11,
+ "gloryPoint": 3372,
+ "gloryPointChange": 109,
  "soldierRankID": 10,
  "characterName": "Falcorn",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 3263,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": 11,
+   "gloryPoint": 3372,
+   "gloryPointChange": 109,
    "soldierRankID": 10
   }
  ],

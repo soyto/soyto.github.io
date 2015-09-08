@@ -4,10 +4,12 @@
  "raceID": 0,
  "position": 5,
  "rankingPositionChange": 0,
- "gloryPoint": 351829,
- "gloryPointChange": 40,
+ "gloryPoint": 352577,
+ "gloryPointChange": 748,
  "soldierRankID": 16,
  "characterName": "Sidi",
+ "guildName": " Enigma ",
+ "guildID": 1027,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 351829,
    "gloryPointChange": 40,
    "soldierRankID": 16
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 5,
+   "rankingPositionChange": 0,
+   "gloryPoint": 352577,
+   "gloryPointChange": 748,
+   "soldierRankID": 16
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-26T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " Enigma ",
+   "guildID": 1027
   }
  ]
 }

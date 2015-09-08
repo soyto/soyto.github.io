@@ -2,14 +2,14 @@
  "characterID": 292131,
  "characterClassID": 2,
  "raceID": 1,
- "position": 812,
- "rankingPositionChange": 0,
- "gloryPoint": 2304,
- "gloryPointChange": -4,
+ "position": 810,
+ "rankingPositionChange": 2,
+ "gloryPoint": 2296,
+ "gloryPointChange": -8,
  "soldierRankID": 10,
  "characterName": "Lastdefender",
- "guildName": "GaMeKoLiK",
- "guildID": 5917,
+ "guildName": "AZE GOD",
+ "guildID": 6815,
  "status": [
   {
    "date": "2015-08-13T22:00:00.000Z",
@@ -186,6 +186,14 @@
    "gloryPoint": 2304,
    "gloryPointChange": -4,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 810,
+   "rankingPositionChange": 2,
+   "gloryPoint": 2296,
+   "gloryPointChange": -8,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -220,6 +228,11 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "GaMeKoLiK",
    "guildID": 5917
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "AZE GOD",
+   "guildID": 6815
   }
  ]
 }

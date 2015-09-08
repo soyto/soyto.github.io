@@ -2,10 +2,10 @@
  "characterID": 1209775,
  "characterClassID": 7,
  "raceID": 1,
- "position": 778,
- "rankingPositionChange": -6,
- "gloryPoint": 3077,
- "gloryPointChange": -7,
+ "position": 777,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3072,
+ "gloryPointChange": -5,
  "soldierRankID": 10,
  "characterName": "Asterya",
  "guildName": "Eternal Army",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 3077,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 777,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3072,
+   "gloryPointChange": -5,
    "soldierRankID": 10
   }
  ],

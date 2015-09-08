@@ -2,10 +2,10 @@
  "characterID": 601560,
  "characterClassID": 10,
  "raceID": 1,
- "position": 484,
- "rankingPositionChange": -2,
- "gloryPoint": 8932,
- "gloryPointChange": -28,
+ "position": 452,
+ "rankingPositionChange": 32,
+ "gloryPoint": 10104,
+ "gloryPointChange": 1172,
  "soldierRankID": 12,
  "characterName": "Swazi",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 8932,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 452,
+   "rankingPositionChange": 32,
+   "gloryPoint": 10104,
+   "gloryPointChange": 1172,
    "soldierRankID": 12
   }
  ],

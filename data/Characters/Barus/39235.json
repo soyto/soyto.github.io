@@ -2,10 +2,10 @@
  "characterID": 39235,
  "characterClassID": 1,
  "raceID": 0,
- "position": 613,
- "rankingPositionChange": 4,
- "gloryPoint": 22526,
- "gloryPointChange": 103,
+ "position": 617,
+ "rankingPositionChange": -4,
+ "gloryPoint": 22498,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Xenaj",
  "guildName": "WARRIORS OF LIGHT",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 22526,
    "gloryPointChange": 103,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 617,
+   "rankingPositionChange": -4,
+   "gloryPoint": 22498,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

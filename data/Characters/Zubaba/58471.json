@@ -2,10 +2,10 @@
  "characterID": 58471,
  "characterClassID": 2,
  "raceID": 1,
- "position": 74,
- "rankingPositionChange": 1,
- "gloryPoint": 114854,
- "gloryPointChange": 53,
+ "position": 75,
+ "rankingPositionChange": -1,
+ "gloryPoint": 114750,
+ "gloryPointChange": -104,
  "soldierRankID": 14,
  "characterName": "Agyrophobia",
  "guildName": "KIZIL ORDU",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 114854,
    "gloryPointChange": 53,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 75,
+   "rankingPositionChange": -1,
+   "gloryPoint": 114750,
+   "gloryPointChange": -104,
    "soldierRankID": 14
   }
  ],

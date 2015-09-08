@@ -2,10 +2,10 @@
  "characterID": 287483,
  "characterClassID": 10,
  "raceID": 0,
- "position": 190,
- "rankingPositionChange": 1,
- "gloryPoint": 67284,
- "gloryPointChange": 73,
+ "position": 192,
+ "rankingPositionChange": -2,
+ "gloryPoint": 67476,
+ "gloryPointChange": 192,
  "soldierRankID": 13,
  "characterName": "Inas",
  "guildName": "Deja Vu",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 67284,
    "gloryPointChange": 73,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 192,
+   "rankingPositionChange": -2,
+   "gloryPoint": 67476,
+   "gloryPointChange": 192,
    "soldierRankID": 13
   }
  ],

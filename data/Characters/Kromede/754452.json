@@ -2,10 +2,10 @@
  "characterID": 754452,
  "characterClassID": 8,
  "raceID": 1,
- "position": 950,
- "rankingPositionChange": -8,
- "gloryPoint": 3186,
- "gloryPointChange": -7,
+ "position": 940,
+ "rankingPositionChange": 10,
+ "gloryPoint": 3284,
+ "gloryPointChange": 98,
  "soldierRankID": 10,
  "characterName": "Amatera",
  "guildName": "Die Mausketiere",
@@ -257,6 +257,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 3186,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 10,
+   "gloryPoint": 3284,
+   "gloryPointChange": 98,
    "soldierRankID": 10
   }
  ],

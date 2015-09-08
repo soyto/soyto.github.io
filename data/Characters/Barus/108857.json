@@ -2,10 +2,10 @@
  "characterID": 108857,
  "characterClassID": 8,
  "raceID": 1,
- "position": 109,
- "rankingPositionChange": 0,
- "gloryPoint": 109887,
- "gloryPointChange": 12,
+ "position": 110,
+ "rankingPositionChange": -1,
+ "gloryPoint": 109789,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Mordziaty",
  "guildName": "Path of Destiny",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 109887,
    "gloryPointChange": 12,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 110,
+   "rankingPositionChange": -1,
+   "gloryPoint": 109789,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

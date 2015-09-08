@@ -2,10 +2,10 @@
  "characterID": 181659,
  "characterClassID": 4,
  "raceID": 0,
- "position": 223,
- "rankingPositionChange": 1,
- "gloryPoint": 49970,
- "gloryPointChange": -49,
+ "position": 225,
+ "rankingPositionChange": -2,
+ "gloryPoint": 49872,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Suarinco",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 49970,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 225,
+   "rankingPositionChange": -2,
+   "gloryPoint": 49872,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

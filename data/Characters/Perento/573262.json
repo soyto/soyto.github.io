@@ -2,10 +2,10 @@
  "characterID": 573262,
  "characterClassID": 8,
  "raceID": 1,
- "position": 160,
- "rankingPositionChange": 0,
- "gloryPoint": 63283,
- "gloryPointChange": 1,
+ "position": 161,
+ "rankingPositionChange": -1,
+ "gloryPoint": 63385,
+ "gloryPointChange": 102,
  "soldierRankID": 13,
  "characterName": "Thesslah",
  "guildName": "Existence",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 63283,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 161,
+   "rankingPositionChange": -1,
+   "gloryPoint": 63385,
+   "gloryPointChange": 102,
    "soldierRankID": 13
   }
  ],

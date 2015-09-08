@@ -2,12 +2,14 @@
  "characterID": 1387581,
  "characterClassID": 14,
  "raceID": 0,
- "position": 844,
- "rankingPositionChange": 27,
- "gloryPoint": 7192,
- "gloryPointChange": 510,
+ "position": 798,
+ "rankingPositionChange": 46,
+ "gloryPoint": 8133,
+ "gloryPointChange": 941,
  "soldierRankID": 10,
  "characterName": "Lethalgun",
+ "guildName": "NecroFobia",
+ "guildID": 29768,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -48,6 +50,14 @@
    "gloryPoint": 7192,
    "gloryPointChange": 510,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 798,
+   "rankingPositionChange": 46,
+   "gloryPoint": 8133,
+   "gloryPointChange": 941,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -69,6 +79,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NecroFobia",
+   "guildID": 29768
   }
  ]
 }

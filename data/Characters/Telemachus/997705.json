@@ -2,10 +2,10 @@
  "characterID": 997705,
  "characterClassID": 16,
  "raceID": 0,
- "position": 151,
- "rankingPositionChange": 1,
- "gloryPoint": 98301,
- "gloryPointChange": 445,
+ "position": 152,
+ "rankingPositionChange": -1,
+ "gloryPoint": 98533,
+ "gloryPointChange": 232,
  "soldierRankID": 13,
  "characterName": "Hyohei",
  "guildName": "Shakujo",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 98301,
    "gloryPointChange": 445,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 152,
+   "rankingPositionChange": -1,
+   "gloryPoint": 98533,
+   "gloryPointChange": 232,
    "soldierRankID": 13
   }
  ],

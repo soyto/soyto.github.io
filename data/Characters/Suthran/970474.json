@@ -2,10 +2,10 @@
  "characterID": 970474,
  "characterClassID": 4,
  "raceID": 0,
- "position": 663,
- "rankingPositionChange": 1,
- "gloryPoint": 22319,
- "gloryPointChange": -14,
+ "position": 665,
+ "rankingPositionChange": -2,
+ "gloryPoint": 22291,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Escargot",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 22319,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 665,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22291,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

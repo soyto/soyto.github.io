@@ -2,10 +2,10 @@
  "characterID": 939218,
  "characterClassID": 10,
  "raceID": 1,
- "position": 606,
- "rankingPositionChange": 23,
- "gloryPoint": 5557,
- "gloryPointChange": 525,
+ "position": 607,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5529,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Dixiex",
  "guildName": "Eternal Army",
@@ -153,6 +153,14 @@
    "rankingPositionChange": 23,
    "gloryPoint": 5557,
    "gloryPointChange": 525,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 607,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5529,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

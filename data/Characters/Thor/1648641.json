@@ -2,10 +2,10 @@
  "characterID": 1648641,
  "characterClassID": 11,
  "raceID": 0,
- "position": 603,
- "rankingPositionChange": 8,
- "gloryPoint": 29871,
- "gloryPointChange": 951,
+ "position": 605,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29843,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Faabi",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 29871,
    "gloryPointChange": 951,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 605,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29843,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

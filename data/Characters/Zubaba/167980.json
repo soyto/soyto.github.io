@@ -2,10 +2,10 @@
  "characterID": 167980,
  "characterClassID": 16,
  "raceID": 0,
- "position": 528,
- "rankingPositionChange": -1,
- "gloryPoint": 13911,
- "gloryPointChange": -14,
+ "position": 527,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13883,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Tentacle",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 13911,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 527,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13883,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

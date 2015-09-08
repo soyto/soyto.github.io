@@ -2,10 +2,10 @@
  "characterID": 464047,
  "characterClassID": 5,
  "raceID": 0,
- "position": 319,
- "rankingPositionChange": 1,
- "gloryPoint": 18847,
- "gloryPointChange": -28,
+ "position": 320,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18791,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Sordor",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 18847,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 320,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18791,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

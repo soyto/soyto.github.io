@@ -2,10 +2,10 @@
  "characterID": 17063,
  "characterClassID": 10,
  "raceID": 0,
- "position": 562,
- "rankingPositionChange": 1,
- "gloryPoint": 32302,
- "gloryPointChange": 486,
+ "position": 563,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32459,
+ "gloryPointChange": 157,
  "soldierRankID": 11,
  "characterName": "Sidy",
  "guildName": "  VeniVidiVici  ",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 32302,
    "gloryPointChange": 486,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 563,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32459,
+   "gloryPointChange": 157,
    "soldierRankID": 11
   }
  ],

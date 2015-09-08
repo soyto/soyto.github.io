@@ -2,10 +2,10 @@
  "characterID": 938744,
  "characterClassID": 5,
  "raceID": 0,
- "position": 150,
- "rankingPositionChange": 2,
- "gloryPoint": 90682,
- "gloryPointChange": 304,
+ "position": 152,
+ "rankingPositionChange": -2,
+ "gloryPoint": 90824,
+ "gloryPointChange": 142,
  "soldierRankID": 13,
  "characterName": "Gilby",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 90682,
    "gloryPointChange": 304,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 152,
+   "rankingPositionChange": -2,
+   "gloryPoint": 90824,
+   "gloryPointChange": 142,
    "soldierRankID": 13
   }
  ],

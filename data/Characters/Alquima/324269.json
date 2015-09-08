@@ -2,10 +2,10 @@
  "characterID": 324269,
  "characterClassID": 16,
  "raceID": 0,
- "position": 807,
- "rankingPositionChange": 2,
- "gloryPoint": 14042,
- "gloryPointChange": -7,
+ "position": 808,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14028,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Namicilla",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 14042,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 808,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14028,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

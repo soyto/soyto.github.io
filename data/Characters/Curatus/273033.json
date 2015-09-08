@@ -2,12 +2,14 @@
  "characterID": 273033,
  "characterClassID": 1,
  "raceID": 0,
- "position": 639,
- "rankingPositionChange": 4,
- "gloryPoint": 20604,
- "gloryPointChange": 474,
+ "position": 621,
+ "rankingPositionChange": 18,
+ "gloryPoint": 21156,
+ "gloryPointChange": 552,
  "soldierRankID": 11,
  "characterName": "Boxxy",
+ "guildName": "R A G E",
+ "guildID": 5085,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 20604,
    "gloryPointChange": 474,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 621,
+   "rankingPositionChange": 18,
+   "gloryPoint": 21156,
+   "gloryPointChange": 552,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -308,6 +318,11 @@
   },
   {
    "date": "2015-08-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "R A G E",
+   "guildID": 5085
   }
  ]
 }

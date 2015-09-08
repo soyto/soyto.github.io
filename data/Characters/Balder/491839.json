@@ -2,10 +2,10 @@
  "characterID": 491839,
  "characterClassID": 1,
  "raceID": 1,
- "position": 62,
- "rankingPositionChange": 0,
- "gloryPoint": 85522,
- "gloryPointChange": 3,
+ "position": 63,
+ "rankingPositionChange": -1,
+ "gloryPoint": 85452,
+ "gloryPointChange": -70,
  "soldierRankID": 14,
  "characterName": "Darkfinal",
  "guildName": "Delirium",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 85522,
    "gloryPointChange": 3,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 63,
+   "rankingPositionChange": -1,
+   "gloryPoint": 85452,
+   "gloryPointChange": -70,
    "soldierRankID": 14
   }
  ],

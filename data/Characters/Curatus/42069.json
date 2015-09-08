@@ -4,10 +4,12 @@
  "raceID": 1,
  "position": 279,
  "rankingPositionChange": 0,
- "gloryPoint": 27385,
- "gloryPointChange": 11,
+ "gloryPoint": 27290,
+ "gloryPointChange": -95,
  "soldierRankID": 13,
  "characterName": "Mosaico",
+ "guildName": "Untold",
+ "guildID": 5997,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -184,6 +186,14 @@
    "gloryPoint": 27385,
    "gloryPointChange": 11,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 279,
+   "rankingPositionChange": 0,
+   "gloryPoint": 27290,
+   "gloryPointChange": -95,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -212,6 +222,11 @@
   },
   {
    "date": "2015-08-30T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Untold",
+   "guildID": 5997
   }
  ]
 }

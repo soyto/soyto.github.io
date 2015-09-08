@@ -2,10 +2,10 @@
  "characterID": 398563,
  "characterClassID": 10,
  "raceID": 1,
- "position": 849,
- "rankingPositionChange": -5,
- "gloryPoint": 3102,
- "gloryPointChange": -7,
+ "position": 848,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3088,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Bloodly",
  "guildName": "Obsidia Covertis",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 3102,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 848,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3088,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

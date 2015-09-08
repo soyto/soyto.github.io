@@ -2,10 +2,10 @@
  "characterID": 663809,
  "characterClassID": 5,
  "raceID": 0,
- "position": 323,
- "rankingPositionChange": 0,
- "gloryPoint": 32205,
- "gloryPointChange": 302,
+ "position": 325,
+ "rankingPositionChange": -2,
+ "gloryPoint": 32328,
+ "gloryPointChange": 123,
  "soldierRankID": 12,
  "characterName": "Anneis",
  "guildName": "Elements of Insanity",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 32205,
    "gloryPointChange": 302,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 325,
+   "rankingPositionChange": -2,
+   "gloryPoint": 32328,
+   "gloryPointChange": 123,
    "soldierRankID": 12
   }
  ],

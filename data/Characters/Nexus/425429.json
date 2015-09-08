@@ -2,14 +2,14 @@
  "characterID": 425429,
  "characterClassID": 5,
  "raceID": 1,
- "position": 664,
- "rankingPositionChange": -5,
- "gloryPoint": 18708,
- "gloryPointChange": 36,
+ "position": 661,
+ "rankingPositionChange": 3,
+ "gloryPoint": 19208,
+ "gloryPointChange": 500,
  "soldierRankID": 11,
  "characterName": "Yoshida",
- "guildName": "A N O N Y M O U S",
- "guildID": 6397,
+ "guildName": " EMPIRE OF DEATH",
+ "guildID": 12762,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 18708,
    "gloryPointChange": 36,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 661,
+   "rankingPositionChange": 3,
+   "gloryPoint": 19208,
+   "gloryPointChange": 500,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "A N O N Y M O U S",
    "guildID": 6397
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " EMPIRE OF DEATH",
+   "guildID": 12762
   }
  ]
 }

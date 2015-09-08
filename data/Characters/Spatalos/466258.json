@@ -2,12 +2,14 @@
  "characterID": 466258,
  "characterClassID": 1,
  "raceID": 1,
- "position": 275,
- "rankingPositionChange": 6,
- "gloryPoint": 21941,
- "gloryPointChange": 583,
+ "position": 261,
+ "rankingPositionChange": 14,
+ "gloryPoint": 23626,
+ "gloryPointChange": 1685,
  "soldierRankID": 13,
  "characterName": "Klmwa",
+ "guildName": "Evul Smurfies",
+ "guildID": 10773,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 21941,
    "gloryPointChange": 583,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 261,
+   "rankingPositionChange": 14,
+   "gloryPoint": 23626,
+   "gloryPointChange": 1685,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -311,6 +321,11 @@
   },
   {
    "date": "2015-08-13T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Evul Smurfies",
+   "guildID": 10773
   }
  ]
 }

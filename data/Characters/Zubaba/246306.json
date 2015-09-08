@@ -2,10 +2,10 @@
  "characterID": 246306,
  "characterClassID": 7,
  "raceID": 1,
- "position": 697,
- "rankingPositionChange": 7,
- "gloryPoint": 3772,
- "gloryPointChange": 93,
+ "position": 698,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3744,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Ikira",
  "guildName": "Black or White",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 3772,
    "gloryPointChange": 93,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 698,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3744,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

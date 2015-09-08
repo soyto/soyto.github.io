@@ -2,10 +2,10 @@
  "characterID": 208654,
  "characterClassID": 14,
  "raceID": 0,
- "position": 444,
- "rankingPositionChange": 0,
- "gloryPoint": 18281,
- "gloryPointChange": -28,
+ "position": 445,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18225,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Mavisakall",
  "guildName": "GloryOfDeath",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 18281,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 445,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18225,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

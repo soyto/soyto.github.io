@@ -2,10 +2,10 @@
  "characterID": 1004689,
  "characterClassID": 11,
  "raceID": 1,
- "position": 743,
- "rankingPositionChange": -1,
- "gloryPoint": 3433,
- "gloryPointChange": -7,
+ "position": 742,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3419,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Occultus",
  "guildName": "Primordial",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 3433,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3419,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

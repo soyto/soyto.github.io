@@ -2,14 +2,14 @@
  "characterID": 812568,
  "characterClassID": 7,
  "raceID": 0,
- "position": 843,
- "rankingPositionChange": -3,
- "gloryPoint": 6638,
- "gloryPointChange": -7,
+ "position": 841,
+ "rankingPositionChange": 2,
+ "gloryPoint": 6624,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Loreleeii",
- "guildName": "Paths of Glory",
- "guildID": 1335,
+ "guildName": "Heavens",
+ "guildID": 15890,
  "status": [
   {
    "date": "2015-08-17T22:00:00.000Z",
@@ -154,6 +154,14 @@
    "gloryPoint": 6638,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 841,
+   "rankingPositionChange": 2,
+   "gloryPoint": 6624,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -167,6 +175,11 @@
    "date": "2015-08-17T22:00:00.000Z",
    "guildName": "Paths of Glory",
    "guildID": 1335
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Heavens",
+   "guildID": 15890
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 148893,
  "characterClassID": 2,
  "raceID": 0,
- "position": 334,
- "rankingPositionChange": 0,
- "gloryPoint": 43109,
- "gloryPointChange": -28,
+ "position": 335,
+ "rankingPositionChange": -1,
+ "gloryPoint": 43053,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Ranneck",
  "guildName": "TrueForce",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 43109,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 335,
+   "rankingPositionChange": -1,
+   "gloryPoint": 43053,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

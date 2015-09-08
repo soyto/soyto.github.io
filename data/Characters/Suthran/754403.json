@@ -2,14 +2,12 @@
  "characterID": 754403,
  "characterClassID": 1,
  "raceID": 1,
- "position": 305,
- "rankingPositionChange": 6,
- "gloryPoint": 34503,
- "gloryPointChange": 1391,
+ "position": 303,
+ "rankingPositionChange": 2,
+ "gloryPoint": 34929,
+ "gloryPointChange": 426,
  "soldierRankID": 12,
  "characterName": "Tchin",
- "guildName": "W House",
- "guildID": 32691,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 34503,
    "gloryPointChange": 1391,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 303,
+   "rankingPositionChange": 2,
+   "gloryPoint": 34929,
+   "gloryPointChange": 426,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "W House",
    "guildID": 32691
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 164037,
  "characterClassID": 11,
  "raceID": 0,
- "position": 900,
- "rankingPositionChange": 2,
- "gloryPoint": 1368,
- "gloryPointChange": 47,
+ "position": 901,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1354,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Pastouille",
  "guildName": "Les Ailes de la Devastation",
@@ -57,6 +57,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 1368,
    "gloryPointChange": 47,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 901,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1354,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

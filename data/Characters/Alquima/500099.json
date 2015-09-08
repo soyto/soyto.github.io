@@ -2,10 +2,10 @@
  "characterID": 500099,
  "characterClassID": 14,
  "raceID": 1,
- "position": 241,
- "rankingPositionChange": 10,
- "gloryPoint": 36953,
- "gloryPointChange": 1744,
+ "position": 243,
+ "rankingPositionChange": -2,
+ "gloryPoint": 36952,
+ "gloryPointChange": -1,
  "soldierRankID": 13,
  "characterName": "Nefasta",
  "guildName": "Destinados",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 36953,
    "gloryPointChange": 1744,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 243,
+   "rankingPositionChange": -2,
+   "gloryPoint": 36952,
+   "gloryPointChange": -1,
    "soldierRankID": 13
   }
  ],

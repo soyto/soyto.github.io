@@ -2,10 +2,10 @@
  "characterID": 212634,
  "characterClassID": 7,
  "raceID": 1,
- "position": 52,
- "rankingPositionChange": 0,
- "gloryPoint": 111900,
- "gloryPointChange": 43,
+ "position": 53,
+ "rankingPositionChange": -1,
+ "gloryPoint": 111686,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Clavale",
  "guildName": "Lujuria",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 111900,
    "gloryPointChange": 43,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 53,
+   "rankingPositionChange": -1,
+   "gloryPoint": 111686,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

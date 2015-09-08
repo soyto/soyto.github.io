@@ -2,11 +2,11 @@
  "characterID": 881658,
  "characterClassID": 10,
  "raceID": 1,
- "position": 700,
- "rankingPositionChange": 0,
- "gloryPoint": 5712,
- "gloryPointChange": 86,
- "soldierRankID": 11,
+ "position": 701,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5691,
+ "gloryPointChange": -21,
+ "soldierRankID": 10,
  "characterName": "Dogtag",
  "guildName": "Blades of Time",
  "guildID": 35502,
@@ -290,6 +290,14 @@
    "gloryPoint": 5712,
    "gloryPointChange": 86,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 701,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5691,
+   "gloryPointChange": -21,
+   "soldierRankID": 10
   }
  ],
  "names": [

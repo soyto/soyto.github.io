@@ -2,10 +2,10 @@
  "characterID": 374276,
  "characterClassID": 10,
  "raceID": 1,
- "position": 211,
- "rankingPositionChange": 3,
- "gloryPoint": 77758,
- "gloryPointChange": 891,
+ "position": 212,
+ "rankingPositionChange": -1,
+ "gloryPoint": 77660,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Mrvicaa",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 77758,
    "gloryPointChange": 891,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 212,
+   "rankingPositionChange": -1,
+   "gloryPoint": 77660,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

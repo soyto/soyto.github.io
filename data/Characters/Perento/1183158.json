@@ -2,14 +2,14 @@
  "characterID": 1183158,
  "characterClassID": 8,
  "raceID": 0,
- "position": 514,
- "rankingPositionChange": 21,
- "gloryPoint": 18006,
- "gloryPointChange": 530,
- "soldierRankID": 11,
+ "position": 487,
+ "rankingPositionChange": 27,
+ "gloryPoint": 19185,
+ "gloryPointChange": 1179,
+ "soldierRankID": 12,
  "characterName": "Medduza",
- "guildName": "Maximum Baddies",
- "guildID": 29461,
+ "guildName": "Astralis",
+ "guildID": 1031,
  "status": [
   {
    "date": "2015-08-04T22:00:00.000Z",
@@ -258,6 +258,14 @@
    "gloryPoint": 18006,
    "gloryPointChange": 530,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 487,
+   "rankingPositionChange": 27,
+   "gloryPoint": 19185,
+   "gloryPointChange": 1179,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -279,6 +287,11 @@
    "date": "2015-09-05T22:00:00.000Z",
    "guildName": "Maximum Baddies",
    "guildID": 29461
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Astralis",
+   "guildID": 1031
   }
  ]
 }

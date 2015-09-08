@@ -3,11 +3,11 @@
  "characterClassID": 1,
  "raceID": 1,
  "position": 31,
- "rankingPositionChange": 1,
- "gloryPoint": 171395,
- "gloryPointChange": 2160,
+ "rankingPositionChange": 0,
+ "gloryPoint": 172546,
+ "gloryPointChange": 1151,
  "soldierRankID": 14,
- "characterName": "Liightphoenix",
+ "characterName": "Yameteoniisan",
  "guildName": "Sekkusu No Kami",
  "guildID": 14663,
  "status": [
@@ -290,12 +290,24 @@
    "gloryPoint": 171395,
    "gloryPointChange": 2160,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 31,
+   "rankingPositionChange": 0,
+   "gloryPoint": 172546,
+   "gloryPointChange": 1151,
+   "soldierRankID": 14
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Liightphoenix"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Yameteoniisan"
   }
  ],
  "guilds": [

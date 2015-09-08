@@ -2,10 +2,10 @@
  "characterID": 216857,
  "characterClassID": 5,
  "raceID": 1,
- "position": 364,
- "rankingPositionChange": 0,
- "gloryPoint": 28088,
- "gloryPointChange": -28,
+ "position": 365,
+ "rankingPositionChange": -1,
+ "gloryPoint": 28581,
+ "gloryPointChange": 493,
  "soldierRankID": 12,
  "characterName": "Jeen",
  "guildName": "Drake",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 28088,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 365,
+   "rankingPositionChange": -1,
+   "gloryPoint": 28581,
+   "gloryPointChange": 493,
    "soldierRankID": 12
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 267707,
  "characterClassID": 5,
  "raceID": 0,
- "position": 624,
- "rankingPositionChange": -2,
- "gloryPoint": 10471,
- "gloryPointChange": -14,
+ "position": 611,
+ "rankingPositionChange": 13,
+ "gloryPoint": 10755,
+ "gloryPointChange": 284,
  "soldierRankID": 11,
  "characterName": "Zuuuuuu",
+ "guildName": "Friendship",
+ "guildID": 6189,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 10471,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": 13,
+   "gloryPoint": 10755,
+   "gloryPointChange": 284,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -309,6 +319,11 @@
   },
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Friendship",
+   "guildID": 6189
   }
  ]
 }

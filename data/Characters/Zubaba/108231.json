@@ -2,10 +2,10 @@
  "characterID": 108231,
  "characterClassID": 8,
  "raceID": 1,
- "position": 181,
- "rankingPositionChange": 1,
- "gloryPoint": 49070,
- "gloryPointChange": 344,
+ "position": 183,
+ "rankingPositionChange": -2,
+ "gloryPoint": 49182,
+ "gloryPointChange": 112,
  "soldierRankID": 13,
  "characterName": "Wizardry",
  "guildName": "MAD MEN",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 49070,
    "gloryPointChange": 344,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 183,
+   "rankingPositionChange": -2,
+   "gloryPoint": 49182,
+   "gloryPointChange": 112,
    "soldierRankID": 13
   }
  ],

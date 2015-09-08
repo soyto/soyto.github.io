@@ -2,10 +2,10 @@
  "characterID": 86777,
  "characterClassID": 1,
  "raceID": 1,
- "position": 69,
- "rankingPositionChange": 2,
- "gloryPoint": 117669,
- "gloryPointChange": 361,
+ "position": 71,
+ "rankingPositionChange": -2,
+ "gloryPoint": 117505,
+ "gloryPointChange": -164,
  "soldierRankID": 14,
  "characterName": "Alcoholic",
  "guildName": "Asabiler",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 117669,
    "gloryPointChange": 361,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 71,
+   "rankingPositionChange": -2,
+   "gloryPoint": 117505,
+   "gloryPointChange": -164,
    "soldierRankID": 14
   }
  ],

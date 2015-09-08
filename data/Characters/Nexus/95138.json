@@ -2,12 +2,14 @@
  "characterID": 95138,
  "characterClassID": 10,
  "raceID": 1,
- "position": 502,
- "rankingPositionChange": 0,
- "gloryPoint": 28209,
- "gloryPointChange": 0,
+ "position": 504,
+ "rankingPositionChange": -2,
+ "gloryPoint": 28191,
+ "gloryPointChange": -18,
  "soldierRankID": 11,
  "characterName": "Mrking",
+ "guildName": "nesl",
+ "guildID": 5217,
  "status": [
   {
    "date": "2015-09-05T22:00:00.000Z",
@@ -15,6 +17,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 28209,
    "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 504,
+   "rankingPositionChange": -2,
+   "gloryPoint": 28191,
+   "gloryPointChange": -18,
    "soldierRankID": 11
   }
  ],
@@ -27,6 +37,11 @@
  "guilds": [
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "nesl",
+   "guildID": 5217
   }
  ]
 }

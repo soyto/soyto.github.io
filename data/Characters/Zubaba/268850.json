@@ -2,12 +2,14 @@
  "characterID": 268850,
  "characterClassID": 4,
  "raceID": 1,
- "position": 400,
- "rankingPositionChange": 2,
- "gloryPoint": 14757,
- "gloryPointChange": -28,
+ "position": 399,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15055,
+ "gloryPointChange": 298,
  "soldierRankID": 12,
  "characterName": "Nyxa",
+ "guildName": "NeFeS",
+ "guildID": 4850,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 14757,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 399,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15055,
+   "gloryPointChange": 298,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -308,6 +318,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NeFeS",
+   "guildID": 4850
   }
  ]
 }

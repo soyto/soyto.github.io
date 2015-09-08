@@ -2,10 +2,10 @@
  "characterID": 104741,
  "characterClassID": 4,
  "raceID": 1,
- "position": 176,
- "rankingPositionChange": 0,
- "gloryPoint": 78779,
- "gloryPointChange": 1,
+ "position": 177,
+ "rankingPositionChange": -1,
+ "gloryPoint": 78812,
+ "gloryPointChange": 33,
  "soldierRankID": 13,
  "characterName": "Tropiciel",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 78779,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 177,
+   "rankingPositionChange": -1,
+   "gloryPoint": 78812,
+   "gloryPointChange": 33,
    "soldierRankID": 13
   }
  ],

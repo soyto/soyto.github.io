@@ -2,10 +2,10 @@
  "characterID": 86403,
  "characterClassID": 2,
  "raceID": 0,
- "position": 331,
- "rankingPositionChange": 0,
- "gloryPoint": 8395,
- "gloryPointChange": 0,
+ "position": 334,
+ "rankingPositionChange": -3,
+ "gloryPoint": 8339,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Vannya",
  "guildName": "Void",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8395,
    "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 334,
+   "rankingPositionChange": -3,
+   "gloryPoint": 8339,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],
