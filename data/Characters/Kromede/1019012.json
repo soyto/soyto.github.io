@@ -2,10 +2,10 @@
  "characterID": 1019012,
  "characterClassID": 14,
  "raceID": 0,
- "position": 145,
- "rankingPositionChange": 0,
- "gloryPoint": 88502,
- "gloryPointChange": -49,
+ "position": 146,
+ "rankingPositionChange": -1,
+ "gloryPoint": 88404,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Marshal",
  "guildName": "I Outsiderz I",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 88502,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 146,
+   "rankingPositionChange": -1,
+   "gloryPoint": 88404,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

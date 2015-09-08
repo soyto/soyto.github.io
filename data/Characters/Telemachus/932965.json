@@ -2,12 +2,14 @@
  "characterID": 932965,
  "characterClassID": 1,
  "raceID": 0,
- "position": 279,
- "rankingPositionChange": 1,
- "gloryPoint": 51895,
- "gloryPointChange": 101,
+ "position": 280,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51857,
+ "gloryPointChange": -38,
  "soldierRankID": 13,
  "characterName": "Leonaaaa",
+ "guildName": "H E L L A S",
+ "guildID": 4278,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 51895,
    "gloryPointChange": 101,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 280,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51857,
+   "gloryPointChange": -38,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "H E L L A S",
+   "guildID": 4278
   }
  ]
 }

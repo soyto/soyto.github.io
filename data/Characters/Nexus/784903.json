@@ -2,10 +2,10 @@
  "characterID": 784903,
  "characterClassID": 5,
  "raceID": 1,
- "position": 338,
- "rankingPositionChange": -2,
- "gloryPoint": 51267,
- "gloryPointChange": -28,
+ "position": 337,
+ "rankingPositionChange": 1,
+ "gloryPoint": 51211,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Burijas",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 51267,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 337,
+   "rankingPositionChange": 1,
+   "gloryPoint": 51211,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

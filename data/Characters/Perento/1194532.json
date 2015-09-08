@@ -2,10 +2,10 @@
  "characterID": 1194532,
  "characterClassID": 14,
  "raceID": 1,
- "position": 837,
- "rankingPositionChange": -1,
- "gloryPoint": 2461,
- "gloryPointChange": -4,
+ "position": 833,
+ "rankingPositionChange": 4,
+ "gloryPoint": 2447,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Ipatia",
  "guildName": "HeLLaS",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 2461,
    "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": 4,
+   "gloryPoint": 2447,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

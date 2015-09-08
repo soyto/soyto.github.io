@@ -2,10 +2,10 @@
  "characterID": 1079232,
  "characterClassID": 13,
  "raceID": 0,
- "position": 156,
- "rankingPositionChange": 0,
- "gloryPoint": 96322,
- "gloryPointChange": 285,
+ "position": 157,
+ "rankingPositionChange": -1,
+ "gloryPoint": 96284,
+ "gloryPointChange": -38,
  "soldierRankID": 13,
  "characterName": "Keymaker",
  "guildName": "Pendulum",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 96322,
    "gloryPointChange": 285,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 157,
+   "rankingPositionChange": -1,
+   "gloryPoint": 96284,
+   "gloryPointChange": -38,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 349531,
  "characterClassID": 1,
  "raceID": 1,
- "position": 651,
- "rankingPositionChange": 1,
- "gloryPoint": 20210,
- "gloryPointChange": 19,
+ "position": 655,
+ "rankingPositionChange": -4,
+ "gloryPoint": 20215,
+ "gloryPointChange": 5,
  "soldierRankID": 11,
  "characterName": "Tillka",
  "guildName": "Turn Down For What",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20210,
    "gloryPointChange": 19,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 655,
+   "rankingPositionChange": -4,
+   "gloryPoint": 20215,
+   "gloryPointChange": 5,
    "soldierRankID": 11
   }
  ],

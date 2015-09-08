@@ -2,10 +2,10 @@
  "characterID": 1112222,
  "characterClassID": 5,
  "raceID": 0,
- "position": 922,
- "rankingPositionChange": -1,
- "gloryPoint": 6376,
- "gloryPointChange": -7,
+ "position": 913,
+ "rankingPositionChange": 9,
+ "gloryPoint": 6572,
+ "gloryPointChange": 196,
  "soldierRankID": 10,
  "characterName": "Ambrozie",
  "guildName": "MostWanted",
@@ -225,6 +225,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 6376,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 913,
+   "rankingPositionChange": 9,
+   "gloryPoint": 6572,
+   "gloryPointChange": 196,
    "soldierRankID": 10
   }
  ],

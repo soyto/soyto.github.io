@@ -2,10 +2,10 @@
  "characterID": 315269,
  "characterClassID": 7,
  "raceID": 1,
- "position": 415,
- "rankingPositionChange": -1,
- "gloryPoint": 3480,
- "gloryPointChange": 32,
+ "position": 412,
+ "rankingPositionChange": 3,
+ "gloryPoint": 3464,
+ "gloryPointChange": -16,
  "soldierRankID": 12,
  "characterName": "Kiranya",
  "guildName": "RussStyle",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 3480,
    "gloryPointChange": 32,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 412,
+   "rankingPositionChange": 3,
+   "gloryPoint": 3464,
+   "gloryPointChange": -16,
    "soldierRankID": 12
   }
  ],

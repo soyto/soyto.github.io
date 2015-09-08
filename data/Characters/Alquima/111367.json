@@ -2,10 +2,10 @@
  "characterID": 111367,
  "characterClassID": 2,
  "raceID": 0,
- "position": 25,
- "rankingPositionChange": 0,
- "gloryPoint": 214089,
- "gloryPointChange": -84,
+ "position": 26,
+ "rankingPositionChange": -1,
+ "gloryPoint": 214700,
+ "gloryPointChange": 611,
  "soldierRankID": 15,
  "characterName": "Axsheen",
  "guildName": "Check Ready",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 214089,
    "gloryPointChange": -84,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 26,
+   "rankingPositionChange": -1,
+   "gloryPoint": 214700,
+   "gloryPointChange": 611,
    "soldierRankID": 15
   }
  ],

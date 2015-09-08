@@ -2,10 +2,10 @@
  "characterID": 436511,
  "characterClassID": 10,
  "raceID": 1,
- "position": 92,
- "rankingPositionChange": 1,
- "gloryPoint": 113653,
- "gloryPointChange": 3110,
+ "position": 93,
+ "rankingPositionChange": -1,
+ "gloryPoint": 113884,
+ "gloryPointChange": 231,
  "soldierRankID": 14,
  "characterName": "Calintz",
  "guildName": "Existence",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 113653,
    "gloryPointChange": 3110,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": -1,
+   "gloryPoint": 113884,
+   "gloryPointChange": 231,
    "soldierRankID": 14
   }
  ],

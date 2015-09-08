@@ -2,10 +2,10 @@
  "characterID": 1035440,
  "characterClassID": 2,
  "raceID": 1,
- "position": 665,
- "rankingPositionChange": 0,
- "gloryPoint": 6335,
- "gloryPointChange": 46,
+ "position": 667,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6307,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Albobtospanzer",
  "guildName": "AlbertosLager",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6335,
    "gloryPointChange": 46,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 667,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6307,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

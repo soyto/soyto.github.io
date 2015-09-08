@@ -2,10 +2,10 @@
  "characterID": 699787,
  "characterClassID": 11,
  "raceID": 1,
- "position": 91,
- "rankingPositionChange": 0,
- "gloryPoint": 122007,
- "gloryPointChange": 443,
+ "position": 92,
+ "rankingPositionChange": -1,
+ "gloryPoint": 122043,
+ "gloryPointChange": 36,
  "soldierRankID": 14,
  "characterName": "Silentia",
  "guildName": "eXtinction",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 122007,
    "gloryPointChange": 443,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": -1,
+   "gloryPoint": 122043,
+   "gloryPointChange": 36,
    "soldierRankID": 14
   }
  ],

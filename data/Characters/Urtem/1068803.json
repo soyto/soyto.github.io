@@ -2,10 +2,10 @@
  "characterID": 1068803,
  "characterClassID": 7,
  "raceID": 1,
- "position": 57,
- "rankingPositionChange": 1,
- "gloryPoint": 117318,
- "gloryPointChange": 465,
+ "position": 58,
+ "rankingPositionChange": -1,
+ "gloryPoint": 117204,
+ "gloryPointChange": -114,
  "soldierRankID": 14,
  "characterName": "Coosy",
  "guildName": " Hmm No Idea ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 117318,
    "gloryPointChange": 465,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": -1,
+   "gloryPoint": 117204,
+   "gloryPointChange": -114,
    "soldierRankID": 14
   }
  ],

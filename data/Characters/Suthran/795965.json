@@ -2,10 +2,10 @@
  "characterID": 795965,
  "characterClassID": 1,
  "raceID": 0,
- "position": 302,
- "rankingPositionChange": 0,
- "gloryPoint": 54611,
- "gloryPointChange": -28,
+ "position": 303,
+ "rankingPositionChange": -1,
+ "gloryPoint": 54555,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Gillgamesh",
  "guildName": "Touktouk",
@@ -225,6 +225,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 54611,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 303,
+   "rankingPositionChange": -1,
+   "gloryPoint": 54555,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

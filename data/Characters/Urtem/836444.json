@@ -2,10 +2,10 @@
  "characterID": 836444,
  "characterClassID": 1,
  "raceID": 1,
- "position": 579,
- "rankingPositionChange": 7,
- "gloryPoint": 15041,
- "gloryPointChange": 309,
+ "position": 582,
+ "rankingPositionChange": -3,
+ "gloryPoint": 15023,
+ "gloryPointChange": -18,
  "soldierRankID": 11,
  "characterName": "Hartt",
  "guildName": "Mercenaries",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 15041,
    "gloryPointChange": 309,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 582,
+   "rankingPositionChange": -3,
+   "gloryPoint": 15023,
+   "gloryPointChange": -18,
    "soldierRankID": 11
   }
  ],

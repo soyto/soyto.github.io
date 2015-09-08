@@ -2,14 +2,12 @@
  "characterID": 102552,
  "characterClassID": 14,
  "raceID": 0,
- "position": 601,
- "rankingPositionChange": -4,
- "gloryPoint": 11104,
- "gloryPointChange": 36,
+ "position": 597,
+ "rankingPositionChange": 4,
+ "gloryPoint": 11179,
+ "gloryPointChange": 75,
  "soldierRankID": 11,
  "characterName": "Tenceretava",
- "guildName": "White",
- "guildID": 6567,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 11104,
    "gloryPointChange": 36,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 597,
+   "rankingPositionChange": 4,
+   "gloryPoint": 11179,
+   "gloryPointChange": 75,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -306,6 +312,9 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "White",
    "guildID": 6567
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

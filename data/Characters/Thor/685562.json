@@ -2,12 +2,12 @@
  "characterID": 685562,
  "characterClassID": 5,
  "raceID": 1,
- "position": 235,
- "rankingPositionChange": 2,
- "gloryPoint": 66034,
- "gloryPointChange": 429,
+ "position": 239,
+ "rankingPositionChange": -4,
+ "gloryPoint": 66430,
+ "gloryPointChange": 396,
  "soldierRankID": 13,
- "characterName": "Babadook",
+ "characterName": "Sickerz",
  "guildName": "SEALS INC",
  "guildID": 25193,
  "status": [
@@ -290,12 +290,24 @@
    "gloryPoint": 66034,
    "gloryPointChange": 429,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 239,
+   "rankingPositionChange": -4,
+   "gloryPoint": 66430,
+   "gloryPointChange": 396,
+   "soldierRankID": 13
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Babadook"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Sickerz"
   }
  ],
  "guilds": [

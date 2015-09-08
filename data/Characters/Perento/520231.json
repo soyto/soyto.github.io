@@ -2,14 +2,14 @@
  "characterID": 520231,
  "characterClassID": 10,
  "raceID": 0,
- "position": 139,
- "rankingPositionChange": 0,
- "gloryPoint": 95086,
- "gloryPointChange": 51,
+ "position": 140,
+ "rankingPositionChange": -1,
+ "gloryPoint": 95228,
+ "gloryPointChange": 142,
  "soldierRankID": 13,
  "characterName": "Misto",
- "guildName": " Awkward Moment ",
- "guildID": 21167,
+ "guildName": "Axe",
+ "guildID": 29472,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 95086,
    "gloryPointChange": 51,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 140,
+   "rankingPositionChange": -1,
+   "gloryPoint": 95228,
+   "gloryPointChange": 142,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Awkward Moment ",
    "guildID": 21167
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Axe",
+   "guildID": 29472
   }
  ]
 }

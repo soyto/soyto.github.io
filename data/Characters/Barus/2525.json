@@ -2,10 +2,10 @@
  "characterID": 2525,
  "characterClassID": 11,
  "raceID": 0,
- "position": 69,
- "rankingPositionChange": 0,
- "gloryPoint": 113374,
- "gloryPointChange": -89,
+ "position": 70,
+ "rankingPositionChange": -1,
+ "gloryPoint": 113160,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Jinema",
  "guildName": "Godspeed",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 113374,
    "gloryPointChange": -89,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 70,
+   "rankingPositionChange": -1,
+   "gloryPoint": 113160,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

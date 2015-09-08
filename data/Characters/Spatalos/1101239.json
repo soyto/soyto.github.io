@@ -2,10 +2,10 @@
  "characterID": 1101239,
  "characterClassID": 14,
  "raceID": 0,
- "position": 195,
- "rankingPositionChange": 0,
- "gloryPoint": 77127,
- "gloryPointChange": -49,
+ "position": 196,
+ "rankingPositionChange": -1,
+ "gloryPoint": 77029,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Luminara",
  "guildName": "B U L G A R I A",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 77127,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 196,
+   "rankingPositionChange": -1,
+   "gloryPoint": 77029,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

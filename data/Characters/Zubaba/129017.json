@@ -4,12 +4,10 @@
  "raceID": 1,
  "position": 44,
  "rankingPositionChange": 0,
- "gloryPoint": 149750,
- "gloryPointChange": 676,
+ "gloryPoint": 150160,
+ "gloryPointChange": 410,
  "soldierRankID": 14,
  "characterName": "Atabek",
- "guildName": "Bosphorus",
- "guildID": 1226,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 149750,
    "gloryPointChange": 676,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 44,
+   "rankingPositionChange": 0,
+   "gloryPoint": 150160,
+   "gloryPointChange": 410,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -319,6 +325,9 @@
    "date": "2015-09-02T22:00:00.000Z",
    "guildName": "Bosphorus",
    "guildID": 1226
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

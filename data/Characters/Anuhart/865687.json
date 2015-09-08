@@ -2,12 +2,14 @@
  "characterID": 865687,
  "characterClassID": 16,
  "raceID": 0,
- "position": 158,
- "rankingPositionChange": 0,
- "gloryPoint": 61159,
- "gloryPointChange": 619,
+ "position": 155,
+ "rankingPositionChange": 3,
+ "gloryPoint": 61251,
+ "gloryPointChange": 92,
  "soldierRankID": 13,
  "characterName": "Sakura",
+ "guildName": "CrEePy DoLL",
+ "guildID": 21175,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 61159,
    "gloryPointChange": 619,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 155,
+   "rankingPositionChange": 3,
+   "gloryPoint": 61251,
+   "gloryPointChange": 92,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -309,6 +319,11 @@
   },
   {
    "date": "2015-08-10T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "CrEePy DoLL",
+   "guildID": 21175
   }
  ]
 }

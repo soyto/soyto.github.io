@@ -2,14 +2,14 @@
  "characterID": 1182308,
  "characterClassID": 11,
  "raceID": 1,
- "position": 226,
- "rankingPositionChange": -2,
- "gloryPoint": 42637,
- "gloryPointChange": -49,
+ "position": 225,
+ "rankingPositionChange": 1,
+ "gloryPoint": 42619,
+ "gloryPointChange": -18,
  "soldierRankID": 13,
  "characterName": "Dech",
- "guildName": "ValarMorghulis",
- "guildID": 19815,
+ "guildName": "         ",
+ "guildID": 20087,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 42637,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 225,
+   "rankingPositionChange": 1,
+   "gloryPoint": 42619,
+   "gloryPointChange": -18,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "ValarMorghulis",
    "guildID": 19815
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "         ",
+   "guildID": 20087
   }
  ]
 }

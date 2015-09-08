@@ -2,14 +2,12 @@
  "characterID": 251398,
  "characterClassID": 14,
  "raceID": 0,
- "position": 380,
- "rankingPositionChange": 0,
- "gloryPoint": 22403,
- "gloryPointChange": 179,
+ "position": 373,
+ "rankingPositionChange": 7,
+ "gloryPoint": 23246,
+ "gloryPointChange": 843,
  "soldierRankID": 12,
  "characterName": "Nepths",
- "guildName": "The Order",
- "guildID": 5668,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 22403,
    "gloryPointChange": 179,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 373,
+   "rankingPositionChange": 7,
+   "gloryPoint": 23246,
+   "gloryPointChange": 843,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -307,6 +313,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Order",
    "guildID": 5668
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

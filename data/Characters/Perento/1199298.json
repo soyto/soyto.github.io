@@ -2,10 +2,10 @@
  "characterID": 1199298,
  "characterClassID": 8,
  "raceID": 1,
- "position": 72,
- "rankingPositionChange": 1,
- "gloryPoint": 131003,
- "gloryPointChange": 85,
+ "position": 73,
+ "rankingPositionChange": -1,
+ "gloryPoint": 130789,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Xaballes",
  "guildName": "Hope",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 131003,
    "gloryPointChange": 85,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 73,
+   "rankingPositionChange": -1,
+   "gloryPoint": 130789,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

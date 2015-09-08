@@ -2,10 +2,10 @@
  "characterID": 85121,
  "characterClassID": 2,
  "raceID": 0,
- "position": 241,
- "rankingPositionChange": -1,
- "gloryPoint": 45895,
- "gloryPointChange": -49,
+ "position": 240,
+ "rankingPositionChange": 1,
+ "gloryPoint": 45897,
+ "gloryPointChange": 2,
  "soldierRankID": 13,
  "characterName": "Codalton",
  "guildName": "LETHAL",
@@ -185,6 +185,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 45895,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 240,
+   "rankingPositionChange": 1,
+   "gloryPoint": 45897,
+   "gloryPointChange": 2,
    "soldierRankID": 13
   }
  ],

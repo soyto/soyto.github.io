@@ -2,10 +2,10 @@
  "characterID": 864561,
  "characterClassID": 5,
  "raceID": 1,
- "position": 994,
- "rankingPositionChange": 2,
- "gloryPoint": 2070,
- "gloryPointChange": 112,
+ "position": 993,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2056,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Vemisa",
  "status": [
@@ -231,6 +231,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 2070,
    "gloryPointChange": 112,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2056,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

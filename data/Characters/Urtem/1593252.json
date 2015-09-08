@@ -3,13 +3,13 @@
  "characterClassID": 2,
  "raceID": 0,
  "position": 456,
- "rankingPositionChange": -7,
- "gloryPoint": 36957,
- "gloryPointChange": -28,
+ "rankingPositionChange": 0,
+ "gloryPoint": 36901,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Emiiih",
- "guildName": "OMEGA",
- "guildID": 1049,
+ "guildName": "Mad Cuz Bad",
+ "guildID": 48548,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 36957,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": 0,
+   "gloryPoint": 36901,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -311,6 +319,11 @@
    "date": "2015-08-06T22:00:00.000Z",
    "guildName": "OMEGA",
    "guildID": 1049
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Mad Cuz Bad",
+   "guildID": 48548
   }
  ]
 }

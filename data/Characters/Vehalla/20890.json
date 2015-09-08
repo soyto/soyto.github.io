@@ -2,10 +2,10 @@
  "characterID": 20890,
  "characterClassID": 1,
  "raceID": 1,
- "position": 152,
- "rankingPositionChange": 0,
- "gloryPoint": 30633,
- "gloryPointChange": -39,
+ "position": 151,
+ "rankingPositionChange": 1,
+ "gloryPoint": 31145,
+ "gloryPointChange": 512,
  "soldierRankID": 13,
  "characterName": "Artalos",
  "guildName": "PathOfDestruction",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 30633,
    "gloryPointChange": -39,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 151,
+   "rankingPositionChange": 1,
+   "gloryPoint": 31145,
+   "gloryPointChange": 512,
    "soldierRankID": 13
   }
  ],

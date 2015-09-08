@@ -2,12 +2,14 @@
  "characterID": 374928,
  "characterClassID": 8,
  "raceID": 1,
- "position": 166,
- "rankingPositionChange": -2,
- "gloryPoint": 6158,
- "gloryPointChange": -49,
+ "position": 167,
+ "rankingPositionChange": -1,
+ "gloryPoint": 6060,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Zecke",
+ "guildName": "LES MECS",
+ "guildID": 16119,
  "status": [
   {
    "date": "2015-08-19T22:00:00.000Z",
@@ -136,6 +138,14 @@
    "gloryPoint": 6158,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 167,
+   "rankingPositionChange": -1,
+   "gloryPoint": 6060,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -147,6 +157,11 @@
  "guilds": [
   {
    "date": "2015-08-19T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "LES MECS",
+   "guildID": 16119
   }
  ]
 }

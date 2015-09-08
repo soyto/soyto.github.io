@@ -2,10 +2,10 @@
  "characterID": 972740,
  "characterClassID": 2,
  "raceID": 0,
- "position": 294,
- "rankingPositionChange": 0,
- "gloryPoint": 50164,
- "gloryPointChange": 1,
+ "position": 295,
+ "rankingPositionChange": -1,
+ "gloryPoint": 50380,
+ "gloryPointChange": 216,
  "soldierRankID": 13,
  "characterName": "Luminasiel",
  "guildName": "GANG",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 50164,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 295,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50380,
+   "gloryPointChange": 216,
    "soldierRankID": 13
   }
  ],

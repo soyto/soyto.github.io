@@ -2,10 +2,10 @@
  "characterID": 1866,
  "characterClassID": 8,
  "raceID": 0,
- "position": 196,
- "rankingPositionChange": 1,
- "gloryPoint": 66338,
- "gloryPointChange": 234,
+ "position": 201,
+ "rankingPositionChange": -5,
+ "gloryPoint": 66240,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Przemyslaw",
  "guildName": "Hades Breath",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 66338,
    "gloryPointChange": 234,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 201,
+   "rankingPositionChange": -5,
+   "gloryPoint": 66240,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

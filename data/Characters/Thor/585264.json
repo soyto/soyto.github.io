@@ -2,10 +2,10 @@
  "characterID": 585264,
  "characterClassID": 1,
  "raceID": 1,
- "position": 190,
- "rankingPositionChange": 0,
- "gloryPoint": 75129,
- "gloryPointChange": 422,
+ "position": 191,
+ "rankingPositionChange": -1,
+ "gloryPoint": 75591,
+ "gloryPointChange": 462,
  "soldierRankID": 13,
  "characterName": "Karcas",
  "guildName": "Randoms",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 75129,
    "gloryPointChange": 422,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 191,
+   "rankingPositionChange": -1,
+   "gloryPoint": 75591,
+   "gloryPointChange": 462,
    "soldierRankID": 13
   }
  ],

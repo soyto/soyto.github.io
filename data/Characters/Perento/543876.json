@@ -2,11 +2,11 @@
  "characterID": 543876,
  "characterClassID": 10,
  "raceID": 0,
- "position": 1000,
- "rankingPositionChange": 0,
- "gloryPoint": 4730,
- "gloryPointChange": 0,
- "soldierRankID": 0,
+ "position": 990,
+ "rankingPositionChange": 10,
+ "gloryPoint": 4723,
+ "gloryPointChange": -7,
+ "soldierRankID": 10,
  "characterName": "Raidan",
  "status": [
   {
@@ -16,6 +16,14 @@
    "gloryPoint": 4730,
    "gloryPointChange": 0,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 990,
+   "rankingPositionChange": 10,
+   "gloryPoint": 4723,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [

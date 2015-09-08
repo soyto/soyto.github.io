@@ -3,9 +3,9 @@
  "characterClassID": 16,
  "raceID": 0,
  "position": 484,
- "rankingPositionChange": 1,
- "gloryPoint": 30869,
- "gloryPointChange": 184,
+ "rankingPositionChange": 0,
+ "gloryPoint": 30836,
+ "gloryPointChange": -33,
  "soldierRankID": 12,
  "characterName": "Kasuga",
  "guildName": "Warmness",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 30869,
    "gloryPointChange": 184,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 484,
+   "rankingPositionChange": 0,
+   "gloryPoint": 30836,
+   "gloryPointChange": -33,
    "soldierRankID": 12
   }
  ],

@@ -2,11 +2,11 @@
  "characterID": 333808,
  "characterClassID": 2,
  "raceID": 1,
- "position": 1000,
- "rankingPositionChange": -1,
- "gloryPoint": 9151,
- "gloryPointChange": -7,
- "soldierRankID": 0,
+ "position": 996,
+ "rankingPositionChange": 4,
+ "gloryPoint": 9411,
+ "gloryPointChange": 260,
+ "soldierRankID": 10,
  "characterName": "Geronimos",
  "guildName": "Mad Penguins",
  "guildID": 10669,
@@ -202,6 +202,14 @@
    "gloryPoint": 9151,
    "gloryPointChange": -7,
    "soldierRankID": 0
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 996,
+   "rankingPositionChange": 4,
+   "gloryPoint": 9411,
+   "gloryPointChange": 260,
+   "soldierRankID": 10
   }
  ],
  "names": [

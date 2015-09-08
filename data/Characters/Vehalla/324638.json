@@ -2,10 +2,10 @@
  "characterID": 324638,
  "characterClassID": 7,
  "raceID": 1,
- "position": 109,
- "rankingPositionChange": 2,
- "gloryPoint": 52256,
- "gloryPointChange": 12,
+ "position": 108,
+ "rankingPositionChange": 1,
+ "gloryPoint": 52158,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Holocaster",
  "guildName": "coast of life",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 52256,
    "gloryPointChange": 12,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 108,
+   "rankingPositionChange": 1,
+   "gloryPoint": 52158,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 115004,
  "characterClassID": 1,
  "raceID": 1,
- "position": 61,
+ "position": 60,
  "rankingPositionChange": 1,
- "gloryPoint": 128192,
- "gloryPointChange": 686,
+ "gloryPoint": 128688,
+ "gloryPointChange": 496,
  "soldierRankID": 14,
  "characterName": "Burgondine",
- "guildName": " BiM BiM ",
- "guildID": 12067,
+ "guildName": "MOOKIE PROD",
+ "guildID": 30658,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 128192,
    "gloryPointChange": 686,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 60,
+   "rankingPositionChange": 1,
+   "gloryPoint": 128688,
+   "gloryPointChange": 496,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -306,6 +314,11 @@
    "date": "2015-08-09T22:00:00.000Z",
    "guildName": " BiM BiM ",
    "guildID": 12067
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "MOOKIE PROD",
+   "guildID": 30658
   }
  ]
 }

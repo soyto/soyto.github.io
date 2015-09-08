@@ -2,10 +2,10 @@
  "characterID": 1278225,
  "characterClassID": 1,
  "raceID": 1,
- "position": 604,
- "rankingPositionChange": 3,
- "gloryPoint": 7423,
- "gloryPointChange": 145,
+ "position": 610,
+ "rankingPositionChange": -6,
+ "gloryPoint": 7398,
+ "gloryPointChange": -25,
  "soldierRankID": 11,
  "characterName": "Highlig",
  "guildName": "I Six I",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 7423,
    "gloryPointChange": 145,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 610,
+   "rankingPositionChange": -6,
+   "gloryPoint": 7398,
+   "gloryPointChange": -25,
    "soldierRankID": 11
   }
  ],

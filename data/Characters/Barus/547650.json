@@ -4,10 +4,12 @@
  "raceID": 1,
  "position": 473,
  "rankingPositionChange": 0,
- "gloryPoint": 28742,
- "gloryPointChange": -25,
+ "gloryPoint": 28766,
+ "gloryPointChange": 24,
  "soldierRankID": 12,
  "characterName": "Roxxik",
+ "guildName": "OldSchool",
+ "guildID": 1092,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 28742,
    "gloryPointChange": -25,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 473,
+   "rankingPositionChange": 0,
+   "gloryPoint": 28766,
+   "gloryPointChange": 24,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-22T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "OldSchool",
+   "guildID": 1092
   }
  ]
 }

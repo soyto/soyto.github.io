@@ -2,10 +2,10 @@
  "characterID": 1505689,
  "characterClassID": 7,
  "raceID": 0,
- "position": 48,
- "rankingPositionChange": 0,
- "gloryPoint": 177160,
- "gloryPointChange": 0,
+ "position": 56,
+ "rankingPositionChange": -8,
+ "gloryPoint": 174806,
+ "gloryPointChange": -2354,
  "soldierRankID": 14,
  "characterName": "Fimbulvetr",
  "status": [
@@ -135,6 +135,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 177160,
    "gloryPointChange": 0,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 56,
+   "rankingPositionChange": -8,
+   "gloryPoint": 174806,
+   "gloryPointChange": -2354,
    "soldierRankID": 14
   }
  ],

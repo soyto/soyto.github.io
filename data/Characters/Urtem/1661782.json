@@ -2,12 +2,14 @@
  "characterID": 1661782,
  "characterClassID": 2,
  "raceID": 1,
- "position": 703,
- "rankingPositionChange": 2,
- "gloryPoint": 11986,
- "gloryPointChange": 114,
- "soldierRankID": 10,
+ "position": 696,
+ "rankingPositionChange": 7,
+ "gloryPoint": 12271,
+ "gloryPointChange": 285,
+ "soldierRankID": 11,
  "characterName": "Juditsu",
+ "guildName": "Dark Destiiny",
+ "guildID": 47055,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 11986,
    "gloryPointChange": 114,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 696,
+   "rankingPositionChange": 7,
+   "gloryPoint": 12271,
+   "gloryPointChange": 285,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -320,6 +330,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Dark Destiiny",
+   "guildID": 47055
   }
  ]
 }

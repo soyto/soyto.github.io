@@ -2,10 +2,10 @@
  "characterID": 965070,
  "characterClassID": 5,
  "raceID": 0,
- "position": 207,
- "rankingPositionChange": 3,
- "gloryPoint": 70755,
- "gloryPointChange": 199,
+ "position": 210,
+ "rankingPositionChange": -3,
+ "gloryPoint": 70879,
+ "gloryPointChange": 124,
  "soldierRankID": 13,
  "characterName": "Sonzai",
  "guildName": "Inspirit",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 70755,
    "gloryPointChange": 199,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 210,
+   "rankingPositionChange": -3,
+   "gloryPoint": 70879,
+   "gloryPointChange": 124,
    "soldierRankID": 13
   }
  ],

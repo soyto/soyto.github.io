@@ -2,10 +2,10 @@
  "characterID": 1210515,
  "characterClassID": 16,
  "raceID": 1,
- "position": 712,
- "rankingPositionChange": 9,
- "gloryPoint": 4264,
- "gloryPointChange": 213,
+ "position": 716,
+ "rankingPositionChange": -4,
+ "gloryPoint": 4250,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Ryukumi",
  "guildName": "Berserkers",
@@ -217,6 +217,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 4264,
    "gloryPointChange": 213,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 716,
+   "rankingPositionChange": -4,
+   "gloryPoint": 4250,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

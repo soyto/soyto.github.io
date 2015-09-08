@@ -2,10 +2,10 @@
  "characterID": 1200409,
  "characterClassID": 4,
  "raceID": 1,
- "position": 262,
- "rankingPositionChange": -1,
- "gloryPoint": 33458,
- "gloryPointChange": 128,
+ "position": 256,
+ "rankingPositionChange": 6,
+ "gloryPoint": 33863,
+ "gloryPointChange": 405,
  "soldierRankID": 13,
  "characterName": "Twistedmind",
  "guildName": "ValarMorghulis",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 33458,
    "gloryPointChange": 128,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 256,
+   "rankingPositionChange": 6,
+   "gloryPoint": 33863,
+   "gloryPointChange": 405,
    "soldierRankID": 13
   }
  ],

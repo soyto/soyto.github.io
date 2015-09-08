@@ -2,10 +2,10 @@
  "characterID": 999641,
  "characterClassID": 4,
  "raceID": 1,
- "position": 293,
- "rankingPositionChange": 0,
- "gloryPoint": 36040,
- "gloryPointChange": 81,
+ "position": 294,
+ "rankingPositionChange": -1,
+ "gloryPoint": 36203,
+ "gloryPointChange": 163,
  "soldierRankID": 13,
  "characterName": "Sshikaku",
  "guildName": "Disorder",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 36040,
    "gloryPointChange": 81,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 294,
+   "rankingPositionChange": -1,
+   "gloryPoint": 36203,
+   "gloryPointChange": 163,
    "soldierRankID": 13
   }
  ],

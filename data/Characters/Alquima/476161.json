@@ -2,10 +2,10 @@
  "characterID": 476161,
  "characterClassID": 1,
  "raceID": 1,
- "position": 97,
- "rankingPositionChange": 1,
- "gloryPoint": 79605,
- "gloryPointChange": 58,
+ "position": 98,
+ "rankingPositionChange": -1,
+ "gloryPoint": 79889,
+ "gloryPointChange": 284,
  "soldierRankID": 14,
  "characterName": "Hiltz",
  "guildName": "Fluffy Unicorns",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 79605,
    "gloryPointChange": 58,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 98,
+   "rankingPositionChange": -1,
+   "gloryPoint": 79889,
+   "gloryPointChange": 284,
    "soldierRankID": 14
   }
  ],

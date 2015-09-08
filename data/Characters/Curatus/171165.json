@@ -2,10 +2,10 @@
  "characterID": 171165,
  "characterClassID": 13,
  "raceID": 0,
- "position": 254,
- "rankingPositionChange": 10,
- "gloryPoint": 65509,
- "gloryPointChange": 2118,
+ "position": 255,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65623,
+ "gloryPointChange": 114,
  "soldierRankID": 13,
  "characterName": "Rhyperior",
  "guildName": "Warmness",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 65509,
    "gloryPointChange": 2118,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65623,
+   "gloryPointChange": 114,
    "soldierRankID": 13
   }
  ],

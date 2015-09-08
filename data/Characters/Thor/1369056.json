@@ -2,10 +2,10 @@
  "characterID": 1369056,
  "characterClassID": 2,
  "raceID": 1,
- "position": 360,
- "rankingPositionChange": 1,
- "gloryPoint": 42780,
- "gloryPointChange": -28,
+ "position": 363,
+ "rankingPositionChange": -3,
+ "gloryPoint": 42724,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Hoshie",
  "guildName": "Dunedain",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 42780,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 363,
+   "rankingPositionChange": -3,
+   "gloryPoint": 42724,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 903945,
  "characterClassID": 2,
  "raceID": 0,
- "position": 746,
- "rankingPositionChange": 3,
- "gloryPoint": 18714,
- "gloryPointChange": 81,
+ "position": 747,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18700,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Haraliel",
  "guildName": "Rougain",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 18714,
    "gloryPointChange": 81,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 747,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18700,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

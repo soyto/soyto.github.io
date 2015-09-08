@@ -2,10 +2,10 @@
  "characterID": 858833,
  "characterClassID": 14,
  "raceID": 1,
- "position": 807,
- "rankingPositionChange": -6,
- "gloryPoint": 12525,
- "gloryPointChange": -7,
+ "position": 806,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12712,
+ "gloryPointChange": 187,
  "soldierRankID": 10,
  "characterName": "Vitsa",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 12525,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 806,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12712,
+   "gloryPointChange": 187,
    "soldierRankID": 10
   }
  ],

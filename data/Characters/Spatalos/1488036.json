@@ -2,14 +2,14 @@
  "characterID": 1488036,
  "characterClassID": 14,
  "raceID": 1,
- "position": 947,
- "rankingPositionChange": 40,
- "gloryPoint": 2336,
- "gloryPointChange": 243,
+ "position": 921,
+ "rankingPositionChange": 26,
+ "gloryPoint": 2472,
+ "gloryPointChange": 136,
  "soldierRankID": 10,
  "characterName": "Snaggletooth",
- "guildName": "Dark Origin",
- "guildID": 29116,
+ "guildName": "Potato Imperium",
+ "guildID": 30330,
  "status": [
   {
    "date": "2015-09-03T22:00:00.000Z",
@@ -34,6 +34,14 @@
    "gloryPoint": 2336,
    "gloryPointChange": 243,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 921,
+   "rankingPositionChange": 26,
+   "gloryPoint": 2472,
+   "gloryPointChange": 136,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -47,6 +55,11 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "Dark Origin",
    "guildID": 29116
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Potato Imperium",
+   "guildID": 30330
   }
  ]
 }

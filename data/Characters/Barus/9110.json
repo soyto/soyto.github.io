@@ -2,10 +2,10 @@
  "characterID": 9110,
  "characterClassID": 10,
  "raceID": 0,
- "position": 140,
- "rankingPositionChange": 1,
- "gloryPoint": 80036,
- "gloryPointChange": 1019,
+ "position": 143,
+ "rankingPositionChange": -3,
+ "gloryPoint": 79960,
+ "gloryPointChange": -76,
  "soldierRankID": 13,
  "characterName": "Haraa",
  "guildName": "Hades Breath",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 80036,
    "gloryPointChange": 1019,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 143,
+   "rankingPositionChange": -3,
+   "gloryPoint": 79960,
+   "gloryPointChange": -76,
    "soldierRankID": 13
   }
  ],

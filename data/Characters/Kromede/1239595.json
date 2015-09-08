@@ -2,12 +2,14 @@
  "characterID": 1239595,
  "characterClassID": 11,
  "raceID": 0,
- "position": 618,
- "rankingPositionChange": 4,
- "gloryPoint": 18845,
- "gloryPointChange": 89,
+ "position": 612,
+ "rankingPositionChange": 6,
+ "gloryPoint": 18995,
+ "gloryPointChange": 150,
  "soldierRankID": 11,
  "characterName": "Kwehkweh",
+ "guildName": "O P E N   P V E",
+ "guildID": 37903,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 18845,
    "gloryPointChange": 89,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 612,
+   "rankingPositionChange": 6,
+   "gloryPoint": 18995,
+   "gloryPointChange": 150,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -309,6 +319,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "O P E N   P V E",
+   "guildID": 37903
   }
  ]
 }

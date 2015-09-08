@@ -2,10 +2,10 @@
  "characterID": 860968,
  "characterClassID": 8,
  "raceID": 1,
- "position": 856,
- "rankingPositionChange": 0,
- "gloryPoint": 2206,
- "gloryPointChange": 0,
+ "position": 885,
+ "rankingPositionChange": -29,
+ "gloryPoint": 2024,
+ "gloryPointChange": -182,
  "soldierRankID": 10,
  "characterName": "Xyrix",
  "guildName": "Eternal Army",
@@ -105,6 +105,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 2206,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 885,
+   "rankingPositionChange": -29,
+   "gloryPoint": 2024,
+   "gloryPointChange": -182,
    "soldierRankID": 10
   }
  ],

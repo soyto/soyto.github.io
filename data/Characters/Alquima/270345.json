@@ -2,10 +2,10 @@
  "characterID": 270345,
  "characterClassID": 7,
  "raceID": 1,
- "position": 889,
- "rankingPositionChange": 17,
- "gloryPoint": 6951,
- "gloryPointChange": 197,
+ "position": 896,
+ "rankingPositionChange": -7,
+ "gloryPoint": 6957,
+ "gloryPointChange": 6,
  "soldierRankID": 10,
  "characterName": "Blaxus",
  "guildName": "CASA STARK",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 17,
    "gloryPoint": 6951,
    "gloryPointChange": 197,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 896,
+   "rankingPositionChange": -7,
+   "gloryPoint": 6957,
+   "gloryPointChange": 6,
    "soldierRankID": 10
   }
  ],

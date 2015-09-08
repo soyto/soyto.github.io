@@ -2,10 +2,10 @@
  "characterID": 81731,
  "characterClassID": 5,
  "raceID": 0,
- "position": 607,
- "rankingPositionChange": 4,
- "gloryPoint": 12934,
- "gloryPointChange": 186,
+ "position": 604,
+ "rankingPositionChange": 3,
+ "gloryPoint": 12926,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Anoriel",
  "guildName": "Empyrean Order",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 12934,
    "gloryPointChange": 186,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 604,
+   "rankingPositionChange": 3,
+   "gloryPoint": 12926,
+   "gloryPointChange": -8,
    "soldierRankID": 11
   }
  ],

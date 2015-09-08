@@ -2,10 +2,10 @@
  "characterID": 79186,
  "characterClassID": 1,
  "raceID": 0,
- "position": 224,
- "rankingPositionChange": 1,
- "gloryPoint": 73116,
- "gloryPointChange": 539,
+ "position": 225,
+ "rankingPositionChange": -1,
+ "gloryPoint": 73702,
+ "gloryPointChange": 586,
  "soldierRankID": 13,
  "characterName": "Lema",
  "guildName": "Daybreak",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 73116,
    "gloryPointChange": 539,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 225,
+   "rankingPositionChange": -1,
+   "gloryPoint": 73702,
+   "gloryPointChange": 586,
    "soldierRankID": 13
   }
  ],

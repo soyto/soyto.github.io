@@ -2,10 +2,10 @@
  "characterID": 192980,
  "characterClassID": 13,
  "raceID": 1,
- "position": 373,
- "rankingPositionChange": 0,
- "gloryPoint": 18281,
- "gloryPointChange": 96,
+ "position": 374,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18475,
+ "gloryPointChange": 194,
  "soldierRankID": 12,
  "characterName": "Abhorash",
  "guildName": "Silent Majority",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 18281,
    "gloryPointChange": 96,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 374,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18475,
+   "gloryPointChange": 194,
    "soldierRankID": 12
   }
  ],

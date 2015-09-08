@@ -2,10 +2,10 @@
  "characterID": 56213,
  "characterClassID": 16,
  "raceID": 0,
- "position": 131,
- "rankingPositionChange": 1,
- "gloryPoint": 82977,
- "gloryPointChange": 1075,
+ "position": 132,
+ "rankingPositionChange": -1,
+ "gloryPoint": 83625,
+ "gloryPointChange": 648,
  "soldierRankID": 13,
  "characterName": "Bellive",
  "guildName": "Sadistic",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 82977,
    "gloryPointChange": 1075,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -1,
+   "gloryPoint": 83625,
+   "gloryPointChange": 648,
    "soldierRankID": 13
   }
  ],

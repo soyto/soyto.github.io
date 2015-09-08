@@ -2,12 +2,14 @@
  "characterID": 779568,
  "characterClassID": 1,
  "raceID": 1,
- "position": 924,
- "rankingPositionChange": 5,
- "gloryPoint": 6516,
- "gloryPointChange": 103,
+ "position": 928,
+ "rankingPositionChange": -4,
+ "gloryPoint": 6561,
+ "gloryPointChange": 45,
  "soldierRankID": 10,
  "characterName": "Anakiirx",
+ "guildName": "Mythos Of Fregion",
+ "guildID": 14235,
  "status": [
   {
    "date": "2015-08-27T22:00:00.000Z",
@@ -72,6 +74,14 @@
    "gloryPoint": 6516,
    "gloryPointChange": 103,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 928,
+   "rankingPositionChange": -4,
+   "gloryPoint": 6561,
+   "gloryPointChange": 45,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -92,6 +102,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Mythos Of Fregion",
+   "guildID": 14235
   }
  ]
 }

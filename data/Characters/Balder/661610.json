@@ -2,10 +2,10 @@
  "characterID": 661610,
  "characterClassID": 1,
  "raceID": 0,
- "position": 904,
- "rankingPositionChange": 4,
- "gloryPoint": 1964,
- "gloryPointChange": 42,
+ "position": 906,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1950,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Galizia",
  "guildName": "Mahaney",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 1964,
    "gloryPointChange": 42,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 906,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1950,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

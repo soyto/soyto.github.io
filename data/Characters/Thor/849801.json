@@ -2,10 +2,10 @@
  "characterID": 849801,
  "characterClassID": 11,
  "raceID": 0,
- "position": 134,
- "rankingPositionChange": 0,
- "gloryPoint": 123926,
- "gloryPointChange": 531,
+ "position": 136,
+ "rankingPositionChange": -2,
+ "gloryPoint": 123828,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Fluegelbringer",
  "guildName": "Die Waechter Edens",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 123926,
    "gloryPointChange": 531,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 136,
+   "rankingPositionChange": -2,
+   "gloryPoint": 123828,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

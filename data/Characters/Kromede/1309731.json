@@ -2,14 +2,12 @@
  "characterID": 1309731,
  "characterClassID": 13,
  "raceID": 1,
- "position": 556,
- "rankingPositionChange": 32,
- "gloryPoint": 8446,
- "gloryPointChange": 813,
+ "position": 540,
+ "rankingPositionChange": 16,
+ "gloryPoint": 8830,
+ "gloryPointChange": 384,
  "soldierRankID": 11,
  "characterName": "Technologic",
- "guildName": "DU liegst JETZT  gleich im Dreck",
- "guildID": 38368,
  "status": [
   {
    "date": "2015-08-10T22:00:00.000Z",
@@ -210,6 +208,14 @@
    "gloryPoint": 8446,
    "gloryPointChange": 813,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": 16,
+   "gloryPoint": 8830,
+   "gloryPointChange": 384,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -236,6 +242,9 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "DU liegst JETZT  gleich im Dreck",
    "guildID": 38368
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

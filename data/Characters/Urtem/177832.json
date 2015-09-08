@@ -2,10 +2,10 @@
  "characterID": 177832,
  "characterClassID": 1,
  "raceID": 0,
- "position": 68,
- "rankingPositionChange": 0,
- "gloryPoint": 156266,
- "gloryPointChange": 348,
+ "position": 69,
+ "rankingPositionChange": -1,
+ "gloryPoint": 156986,
+ "gloryPointChange": 720,
  "soldierRankID": 14,
  "characterName": "Mustor",
  "guildName": "Tears Of Shadows",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 156266,
    "gloryPointChange": 348,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 69,
+   "rankingPositionChange": -1,
+   "gloryPoint": 156986,
+   "gloryPointChange": 720,
    "soldierRankID": 14
   }
  ],

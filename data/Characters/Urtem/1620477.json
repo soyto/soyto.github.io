@@ -2,14 +2,14 @@
  "characterID": 1620477,
  "characterClassID": 13,
  "raceID": 1,
- "position": 237,
- "rankingPositionChange": 0,
- "gloryPoint": 45453,
- "gloryPointChange": 137,
+ "position": 238,
+ "rankingPositionChange": -1,
+ "gloryPoint": 45658,
+ "gloryPointChange": 205,
  "soldierRankID": 13,
  "characterName": "Rockat",
- "guildName": "Sunlight",
- "guildID": 41696,
+ "guildName": " RevizeD ",
+ "guildID": 48198,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 45453,
    "gloryPointChange": 137,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 238,
+   "rankingPositionChange": -1,
+   "gloryPoint": 45658,
+   "gloryPointChange": 205,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Sunlight",
    "guildID": 41696
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " RevizeD ",
+   "guildID": 48198
   }
  ]
 }

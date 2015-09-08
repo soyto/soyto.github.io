@@ -2,10 +2,10 @@
  "characterID": 189771,
  "characterClassID": 16,
  "raceID": 0,
- "position": 444,
- "rankingPositionChange": 17,
- "gloryPoint": 31944,
- "gloryPointChange": 1177,
+ "position": 445,
+ "rankingPositionChange": -1,
+ "gloryPoint": 32051,
+ "gloryPointChange": 107,
  "soldierRankID": 12,
  "characterName": "Nellai",
  "guildName": "Blessed",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 17,
    "gloryPoint": 31944,
    "gloryPointChange": 1177,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 445,
+   "rankingPositionChange": -1,
+   "gloryPoint": 32051,
+   "gloryPointChange": 107,
    "soldierRankID": 12
   }
  ],

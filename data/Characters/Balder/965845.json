@@ -2,10 +2,10 @@
  "characterID": 965845,
  "characterClassID": 7,
  "raceID": 0,
- "position": 649,
- "rankingPositionChange": 18,
- "gloryPoint": 4167,
- "gloryPointChange": 314,
+ "position": 651,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4139,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Yumita",
  "guildName": "Tableround of Darkness",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 18,
    "gloryPoint": 4167,
    "gloryPointChange": 314,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 651,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4139,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1114200,
  "characterClassID": 1,
  "raceID": 1,
- "position": 321,
+ "position": 322,
  "rankingPositionChange": -1,
- "gloryPoint": 31106,
- "gloryPointChange": 25,
+ "gloryPoint": 31056,
+ "gloryPointChange": -50,
  "soldierRankID": 12,
  "characterName": "Krya",
  "guildName": "KR inside",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 31106,
    "gloryPointChange": 25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 322,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31056,
+   "gloryPointChange": -50,
    "soldierRankID": 12
   }
  ],

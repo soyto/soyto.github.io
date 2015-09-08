@@ -2,10 +2,10 @@
  "characterID": 786769,
  "characterClassID": 2,
  "raceID": 0,
- "position": 343,
- "rankingPositionChange": 0,
- "gloryPoint": 42317,
- "gloryPointChange": 194,
+ "position": 341,
+ "rankingPositionChange": 2,
+ "gloryPoint": 42275,
+ "gloryPointChange": -42,
  "soldierRankID": 12,
  "characterName": "Ipnorospo",
  "guildName": "Paladini",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 42317,
    "gloryPointChange": 194,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 341,
+   "rankingPositionChange": 2,
+   "gloryPoint": 42275,
+   "gloryPointChange": -42,
    "soldierRankID": 12
   }
  ],

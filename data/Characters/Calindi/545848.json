@@ -2,10 +2,10 @@
  "characterID": 545848,
  "characterClassID": 10,
  "raceID": 0,
- "position": 187,
- "rankingPositionChange": -2,
- "gloryPoint": 42907,
- "gloryPointChange": -39,
+ "position": 185,
+ "rankingPositionChange": 2,
+ "gloryPoint": 42917,
+ "gloryPointChange": 10,
  "soldierRankID": 13,
  "characterName": "Ypnosa",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 42907,
    "gloryPointChange": -39,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 185,
+   "rankingPositionChange": 2,
+   "gloryPoint": 42917,
+   "gloryPointChange": 10,
    "soldierRankID": 13
   }
  ],

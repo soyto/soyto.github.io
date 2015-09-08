@@ -2,10 +2,10 @@
  "characterID": 799090,
  "characterClassID": 7,
  "raceID": 1,
- "position": 152,
- "rankingPositionChange": 0,
- "gloryPoint": 57559,
- "gloryPointChange": 54,
+ "position": 153,
+ "rankingPositionChange": -1,
+ "gloryPoint": 57589,
+ "gloryPointChange": 30,
  "soldierRankID": 13,
  "characterName": "Sayyes",
  "guildName": "Covenant",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 57559,
    "gloryPointChange": 54,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 153,
+   "rankingPositionChange": -1,
+   "gloryPoint": 57589,
+   "gloryPointChange": 30,
    "soldierRankID": 13
   }
  ],

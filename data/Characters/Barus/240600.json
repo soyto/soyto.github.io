@@ -2,10 +2,10 @@
  "characterID": 240600,
  "characterClassID": 16,
  "raceID": 0,
- "position": 943,
- "rankingPositionChange": 1,
- "gloryPoint": 11348,
- "gloryPointChange": -7,
+ "position": 944,
+ "rankingPositionChange": -1,
+ "gloryPoint": 11334,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Osanna",
  "guildName": "Valeria Victrix",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 11348,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 944,
+   "rankingPositionChange": -1,
+   "gloryPoint": 11334,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

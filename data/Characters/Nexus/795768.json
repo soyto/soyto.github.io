@@ -2,14 +2,12 @@
  "characterID": 795768,
  "characterClassID": 10,
  "raceID": 1,
- "position": 470,
- "rankingPositionChange": 4,
- "gloryPoint": 31515,
- "gloryPointChange": 788,
+ "position": 467,
+ "rankingPositionChange": 3,
+ "gloryPoint": 31740,
+ "gloryPointChange": 225,
  "soldierRankID": 12,
  "characterName": "Majesti",
- "guildName": "  LnV  ",
- "guildID": 14884,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 31515,
    "gloryPointChange": 788,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 467,
+   "rankingPositionChange": 3,
+   "gloryPoint": 31740,
+   "gloryPointChange": 225,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "  LnV  ",
    "guildID": 14884
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

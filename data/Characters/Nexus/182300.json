@@ -2,10 +2,10 @@
  "characterID": 182300,
  "characterClassID": 2,
  "raceID": 0,
- "position": 358,
- "rankingPositionChange": 5,
- "gloryPoint": 27596,
- "gloryPointChange": 599,
+ "position": 360,
+ "rankingPositionChange": -2,
+ "gloryPoint": 27615,
+ "gloryPointChange": 19,
  "soldierRankID": 12,
  "characterName": "Armindo",
  "guildName": "Elements of Insanity",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 27596,
    "gloryPointChange": 599,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 360,
+   "rankingPositionChange": -2,
+   "gloryPoint": 27615,
+   "gloryPointChange": 19,
    "soldierRankID": 12
   }
  ],

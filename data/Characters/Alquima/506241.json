@@ -2,10 +2,10 @@
  "characterID": 506241,
  "characterClassID": 5,
  "raceID": 1,
- "position": 59,
- "rankingPositionChange": 0,
- "gloryPoint": 101592,
- "gloryPointChange": 266,
+ "position": 60,
+ "rankingPositionChange": -1,
+ "gloryPoint": 101736,
+ "gloryPointChange": 144,
  "soldierRankID": 14,
  "characterName": "Pastran",
  "guildName": "After School",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 101592,
    "gloryPointChange": 266,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 60,
+   "rankingPositionChange": -1,
+   "gloryPoint": 101736,
+   "gloryPointChange": 144,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 363386,
  "characterClassID": 5,
  "raceID": 1,
- "position": 665,
- "rankingPositionChange": 1,
- "gloryPoint": 12652,
- "gloryPointChange": 94,
+ "position": 666,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12789,
+ "gloryPointChange": 137,
  "soldierRankID": 11,
  "characterName": "Brysis",
  "guildName": "NoBrains",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 12652,
    "gloryPointChange": 94,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 666,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12789,
+   "gloryPointChange": 137,
    "soldierRankID": 11
   }
  ],

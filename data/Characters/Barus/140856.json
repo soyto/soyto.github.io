@@ -2,10 +2,10 @@
  "characterID": 140856,
  "characterClassID": 7,
  "raceID": 0,
- "position": 405,
- "rankingPositionChange": 0,
- "gloryPoint": 35730,
- "gloryPointChange": -28,
+ "position": 410,
+ "rankingPositionChange": -5,
+ "gloryPoint": 35674,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Azgarooth",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35730,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 410,
+   "rankingPositionChange": -5,
+   "gloryPoint": 35674,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

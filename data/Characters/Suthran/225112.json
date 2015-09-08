@@ -2,10 +2,10 @@
  "characterID": 225112,
  "characterClassID": 10,
  "raceID": 0,
- "position": 959,
- "rankingPositionChange": 0,
- "gloryPoint": 10755,
- "gloryPointChange": -7,
+ "position": 961,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10741,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Aspiryn",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 10755,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10741,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

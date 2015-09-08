@@ -2,10 +2,10 @@
  "characterID": 2332,
  "characterClassID": 7,
  "raceID": 1,
- "position": 46,
- "rankingPositionChange": 0,
- "gloryPoint": 165248,
- "gloryPointChange": -107,
+ "position": 47,
+ "rankingPositionChange": -1,
+ "gloryPoint": 165134,
+ "gloryPointChange": -114,
  "soldierRankID": 14,
  "characterName": "Adix",
  "guildName": "You Touch My Tralala",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 165248,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 47,
+   "rankingPositionChange": -1,
+   "gloryPoint": 165134,
+   "gloryPointChange": -114,
    "soldierRankID": 14
   }
  ],

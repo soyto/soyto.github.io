@@ -2,9 +2,9 @@
  "characterID": 374802,
  "characterClassID": 10,
  "raceID": 0,
- "position": 415,
- "rankingPositionChange": 1,
- "gloryPoint": 4679,
+ "position": 416,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4651,
  "gloryPointChange": -28,
  "soldierRankID": 12,
  "characterName": "Fredbi",
@@ -288,6 +288,14 @@
    "position": 415,
    "rankingPositionChange": 1,
    "gloryPoint": 4679,
+   "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4651,
    "gloryPointChange": -28,
    "soldierRankID": 12
   }

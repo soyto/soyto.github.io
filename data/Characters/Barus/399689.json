@@ -2,10 +2,10 @@
  "characterID": 399689,
  "characterClassID": 10,
  "raceID": 1,
- "position": 463,
- "rankingPositionChange": 5,
- "gloryPoint": 29514,
- "gloryPointChange": 438,
+ "position": 465,
+ "rankingPositionChange": -2,
+ "gloryPoint": 29684,
+ "gloryPointChange": 170,
  "soldierRankID": 12,
  "characterName": "Sarti",
  "guildName": "Dark Crusade",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 29514,
    "gloryPointChange": 438,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 465,
+   "rankingPositionChange": -2,
+   "gloryPoint": 29684,
+   "gloryPointChange": 170,
    "soldierRankID": 12
   }
  ],

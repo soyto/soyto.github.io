@@ -2,10 +2,10 @@
  "characterID": 750714,
  "characterClassID": 11,
  "raceID": 1,
- "position": 50,
- "rankingPositionChange": 0,
- "gloryPoint": 126917,
- "gloryPointChange": 670,
+ "position": 52,
+ "rankingPositionChange": -2,
+ "gloryPoint": 126966,
+ "gloryPointChange": 49,
  "soldierRankID": 14,
  "characterName": "Iuvans",
  "guildName": "Shades of Phoenix",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 126917,
    "gloryPointChange": 670,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 52,
+   "rankingPositionChange": -2,
+   "gloryPoint": 126966,
+   "gloryPointChange": 49,
    "soldierRankID": 14
   }
  ],

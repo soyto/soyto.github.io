@@ -2,10 +2,10 @@
  "characterID": 305677,
  "characterClassID": 10,
  "raceID": 0,
- "position": 221,
- "rankingPositionChange": 1,
- "gloryPoint": 20735,
- "gloryPointChange": -49,
+ "position": 222,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20647,
+ "gloryPointChange": -88,
  "soldierRankID": 13,
  "characterName": "Satanya",
  "guildName": "Calamitas",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20735,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 222,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20647,
+   "gloryPointChange": -88,
    "soldierRankID": 13
   }
  ],

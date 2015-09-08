@@ -2,14 +2,14 @@
  "characterID": 990961,
  "characterClassID": 10,
  "raceID": 0,
- "position": 621,
+ "position": 615,
  "rankingPositionChange": 6,
- "gloryPoint": 14249,
- "gloryPointChange": 136,
+ "gloryPoint": 14221,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Kirico",
- "guildName": "Circle of Nine",
- "guildID": 11873,
+ "guildName": "The Minions",
+ "guildID": 23754,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 14249,
    "gloryPointChange": 136,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 615,
+   "rankingPositionChange": 6,
+   "gloryPoint": 14221,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Circle of Nine",
    "guildID": 11873
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "The Minions",
+   "guildID": 23754
   }
  ]
 }

@@ -2,14 +2,14 @@
  "characterID": 751487,
  "characterClassID": 16,
  "raceID": 1,
- "position": 680,
- "rankingPositionChange": 1,
- "gloryPoint": 18028,
- "gloryPointChange": 423,
+ "position": 659,
+ "rankingPositionChange": 21,
+ "gloryPoint": 19254,
+ "gloryPointChange": 1226,
  "soldierRankID": 11,
  "characterName": "Maakaa",
- "guildName": " EMPIRE OF DEATH",
- "guildID": 12762,
+ "guildName": "We PvP IRL",
+ "guildID": 1032,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 18028,
    "gloryPointChange": 423,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 659,
+   "rankingPositionChange": 21,
+   "gloryPoint": 19254,
+   "gloryPointChange": 1226,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " EMPIRE OF DEATH",
    "guildID": 12762
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "We PvP IRL",
+   "guildID": 1032
   }
  ]
 }

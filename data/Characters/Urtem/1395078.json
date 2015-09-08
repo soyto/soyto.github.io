@@ -2,10 +2,10 @@
  "characterID": 1395078,
  "characterClassID": 2,
  "raceID": 1,
- "position": 455,
- "rankingPositionChange": 1,
- "gloryPoint": 21363,
- "gloryPointChange": 72,
+ "position": 456,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21560,
+ "gloryPointChange": 197,
  "soldierRankID": 12,
  "characterName": "Adealia",
  "guildName": "LOS AMIGOS",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 21363,
    "gloryPointChange": 72,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21560,
+   "gloryPointChange": 197,
    "soldierRankID": 12
   }
  ],

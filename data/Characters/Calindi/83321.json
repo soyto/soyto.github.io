@@ -2,10 +2,10 @@
  "characterID": 83321,
  "characterClassID": 8,
  "raceID": 0,
- "position": 932,
- "rankingPositionChange": 68,
- "gloryPoint": 1273,
- "gloryPointChange": 0,
+ "position": 943,
+ "rankingPositionChange": -11,
+ "gloryPoint": 1266,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Minipest",
  "guildName": " Black Hole ",
@@ -161,6 +161,14 @@
    "rankingPositionChange": 68,
    "gloryPoint": 1273,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 943,
+   "rankingPositionChange": -11,
+   "gloryPoint": 1266,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

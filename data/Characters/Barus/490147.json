@@ -2,10 +2,10 @@
  "characterID": 490147,
  "characterClassID": 7,
  "raceID": 0,
- "position": 803,
- "rankingPositionChange": 2,
- "gloryPoint": 15745,
- "gloryPointChange": -7,
+ "position": 805,
+ "rankingPositionChange": -2,
+ "gloryPoint": 15731,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Brixus",
  "status": [
@@ -143,6 +143,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 15745,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 805,
+   "rankingPositionChange": -2,
+   "gloryPoint": 15731,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

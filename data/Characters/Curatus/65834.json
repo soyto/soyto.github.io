@@ -2,14 +2,12 @@
  "characterID": 65834,
  "characterClassID": 1,
  "raceID": 0,
- "position": 416,
- "rankingPositionChange": -1,
- "gloryPoint": 34681,
- "gloryPointChange": -28,
+ "position": 443,
+ "rankingPositionChange": -27,
+ "gloryPoint": 34193,
+ "gloryPointChange": -488,
  "soldierRankID": 12,
  "characterName": "Fulbuster",
- "guildName": " Enigma ",
- "guildID": 1027,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -154,6 +152,14 @@
    "gloryPoint": 34681,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 443,
+   "rankingPositionChange": -27,
+   "gloryPoint": 34193,
+   "gloryPointChange": -488,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -167,6 +173,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Enigma ",
    "guildID": 1027
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

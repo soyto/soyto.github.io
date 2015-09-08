@@ -2,12 +2,14 @@
  "characterID": 230498,
  "characterClassID": 5,
  "raceID": 0,
- "position": 661,
- "rankingPositionChange": 4,
- "gloryPoint": 9159,
- "gloryPointChange": 260,
+ "position": 653,
+ "rankingPositionChange": 8,
+ "gloryPoint": 9454,
+ "gloryPointChange": 295,
  "soldierRankID": 11,
  "characterName": "Havaaaaaaa",
+ "guildName": "ALACAKARANLIK",
+ "guildID": 6920,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 9159,
    "gloryPointChange": 260,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 653,
+   "rankingPositionChange": 8,
+   "gloryPoint": 9454,
+   "gloryPointChange": 295,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -312,6 +322,11 @@
   },
   {
    "date": "2015-08-27T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "ALACAKARANLIK",
+   "guildID": 6920
   }
  ]
 }

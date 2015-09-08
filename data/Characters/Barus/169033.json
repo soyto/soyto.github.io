@@ -2,10 +2,10 @@
  "characterID": 169033,
  "characterClassID": 7,
  "raceID": 0,
- "position": 60,
- "rankingPositionChange": 0,
- "gloryPoint": 122064,
- "gloryPointChange": 438,
+ "position": 61,
+ "rankingPositionChange": -1,
+ "gloryPoint": 122150,
+ "gloryPointChange": 86,
  "soldierRankID": 14,
  "characterName": "Stormkiniolek",
  "guildName": "Heart of Anger",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 122064,
    "gloryPointChange": 438,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 61,
+   "rankingPositionChange": -1,
+   "gloryPoint": 122150,
+   "gloryPointChange": 86,
    "soldierRankID": 14
   }
  ],

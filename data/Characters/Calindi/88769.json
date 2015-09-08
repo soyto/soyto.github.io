@@ -2,10 +2,10 @@
  "characterID": 88769,
  "characterClassID": 8,
  "raceID": 1,
- "position": 25,
- "rankingPositionChange": 0,
- "gloryPoint": 76446,
- "gloryPointChange": 116,
+ "position": 26,
+ "rankingPositionChange": -1,
+ "gloryPoint": 77018,
+ "gloryPointChange": 572,
  "soldierRankID": 15,
  "characterName": "Fearia",
  "guildName": "No Skill No GamePlay",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 76446,
    "gloryPointChange": 116,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 26,
+   "rankingPositionChange": -1,
+   "gloryPoint": 77018,
+   "gloryPointChange": 572,
    "soldierRankID": 15
   }
  ],

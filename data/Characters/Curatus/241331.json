@@ -2,14 +2,14 @@
  "characterID": 241331,
  "characterClassID": 14,
  "raceID": 1,
- "position": 242,
- "rankingPositionChange": -1,
- "gloryPoint": 32678,
- "gloryPointChange": 70,
+ "position": 245,
+ "rankingPositionChange": -3,
+ "gloryPoint": 32777,
+ "gloryPointChange": 99,
  "soldierRankID": 13,
- "characterName": "Dagoma",
- "guildName": "  TOP  ",
- "guildID": 2521,
+ "characterName": "Puccias",
+ "guildName": "Prepotenti",
+ "guildID": 5129,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 32678,
    "gloryPointChange": 70,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": -3,
+   "gloryPoint": 32777,
+   "gloryPointChange": 99,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -300,6 +308,10 @@
   {
    "date": "2015-08-08T22:00:00.000Z",
    "characterName": "Dagoma"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Puccias"
   }
  ],
  "guilds": [
@@ -312,6 +324,11 @@
    "date": "2015-08-09T22:00:00.000Z",
    "guildName": "  TOP  ",
    "guildID": 2521
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Prepotenti",
+   "guildID": 5129
   }
  ]
 }

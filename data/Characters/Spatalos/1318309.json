@@ -2,12 +2,14 @@
  "characterID": 1318309,
  "characterClassID": 4,
  "raceID": 0,
- "position": 898,
- "rankingPositionChange": -6,
- "gloryPoint": 7788,
- "gloryPointChange": -7,
+ "position": 887,
+ "rankingPositionChange": 11,
+ "gloryPoint": 7774,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Xxdevilkilerxx",
+ "guildName": "PROUD NOOBS",
+ "guildID": 30421,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 7788,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 887,
+   "rankingPositionChange": 11,
+   "gloryPoint": 7774,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-16T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "PROUD NOOBS",
+   "guildID": 30421
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 1127840,
  "characterClassID": 13,
  "raceID": 1,
- "position": 680,
- "rankingPositionChange": 6,
- "gloryPoint": 1489,
- "gloryPointChange": 36,
+ "position": 686,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1491,
+ "gloryPointChange": 2,
  "soldierRankID": 11,
  "characterName": "Minimac",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 1489,
    "gloryPointChange": 36,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 686,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1491,
+   "gloryPointChange": 2,
    "soldierRankID": 11
   }
  ],

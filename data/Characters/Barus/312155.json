@@ -2,10 +2,10 @@
  "characterID": 312155,
  "characterClassID": 5,
  "raceID": 1,
- "position": 226,
- "rankingPositionChange": 4,
- "gloryPoint": 64023,
- "gloryPointChange": 1322,
+ "position": 227,
+ "rankingPositionChange": -1,
+ "gloryPoint": 64593,
+ "gloryPointChange": 570,
  "soldierRankID": 13,
  "characterName": "Skorm",
  "guildName": "Haku Ryu",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 64023,
    "gloryPointChange": 1322,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 227,
+   "rankingPositionChange": -1,
+   "gloryPoint": 64593,
+   "gloryPointChange": 570,
    "soldierRankID": 13
   }
  ],

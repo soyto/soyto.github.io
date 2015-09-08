@@ -2,14 +2,14 @@
  "characterID": 785281,
  "characterClassID": 5,
  "raceID": 0,
- "position": 186,
+ "position": 185,
  "rankingPositionChange": 1,
- "gloryPoint": 79761,
- "gloryPointChange": -49,
+ "gloryPoint": 79663,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Marcoooooo",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 79761,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 185,
+   "rankingPositionChange": 1,
+   "gloryPoint": 79663,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -306,6 +314,11 @@
    "date": "2015-08-07T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

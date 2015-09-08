@@ -2,10 +2,10 @@
  "characterID": 259321,
  "characterClassID": 7,
  "raceID": 0,
- "position": 14,
- "rankingPositionChange": 0,
- "gloryPoint": 308251,
- "gloryPointChange": 343,
+ "position": 15,
+ "rankingPositionChange": -1,
+ "gloryPoint": 308013,
+ "gloryPointChange": -238,
  "soldierRankID": 15,
  "characterName": "Latiino",
  "guildName": "Spacken on Tour ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 308251,
    "gloryPointChange": 343,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 15,
+   "rankingPositionChange": -1,
+   "gloryPoint": 308013,
+   "gloryPointChange": -238,
    "soldierRankID": 15
   }
  ],

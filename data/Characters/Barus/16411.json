@@ -2,12 +2,14 @@
  "characterID": 16411,
  "characterClassID": 11,
  "raceID": 0,
- "position": 946,
- "rankingPositionChange": 22,
- "gloryPoint": 11273,
- "gloryPointChange": 415,
+ "position": 912,
+ "rankingPositionChange": 34,
+ "gloryPoint": 12201,
+ "gloryPointChange": 928,
  "soldierRankID": 10,
  "characterName": "Disspers",
+ "guildName": "White Ravens",
+ "guildID": 3009,
  "status": [
   {
    "date": "2015-08-29T22:00:00.000Z",
@@ -64,6 +66,14 @@
    "gloryPoint": 11273,
    "gloryPointChange": 415,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 912,
+   "rankingPositionChange": 34,
+   "gloryPoint": 12201,
+   "gloryPointChange": 928,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -85,6 +95,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "White Ravens",
+   "guildID": 3009
   }
  ]
 }

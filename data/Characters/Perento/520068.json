@@ -2,10 +2,10 @@
  "characterID": 520068,
  "characterClassID": 1,
  "raceID": 1,
- "position": 909,
- "rankingPositionChange": -2,
- "gloryPoint": 1915,
- "gloryPointChange": -7,
+ "position": 907,
+ "rankingPositionChange": 2,
+ "gloryPoint": 1901,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Machyco",
  "guildName": "Blackjack and Hookers",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 1915,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 907,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1901,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

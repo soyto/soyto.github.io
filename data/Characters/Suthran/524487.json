@@ -2,10 +2,10 @@
  "characterID": 524487,
  "characterClassID": 2,
  "raceID": 1,
- "position": 851,
- "rankingPositionChange": -8,
- "gloryPoint": 6453,
- "gloryPointChange": -7,
+ "position": 850,
+ "rankingPositionChange": 1,
+ "gloryPoint": 6509,
+ "gloryPointChange": 56,
  "soldierRankID": 10,
  "characterName": "Madmartigane",
  "guildName": "Disorder",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 6453,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 850,
+   "rankingPositionChange": 1,
+   "gloryPoint": 6509,
+   "gloryPointChange": 56,
    "soldierRankID": 10
   }
  ],

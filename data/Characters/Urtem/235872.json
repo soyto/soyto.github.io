@@ -2,10 +2,10 @@
  "characterID": 235872,
  "characterClassID": 10,
  "raceID": 1,
- "position": 417,
- "rankingPositionChange": 0,
- "gloryPoint": 23924,
- "gloryPointChange": -28,
+ "position": 418,
+ "rankingPositionChange": -1,
+ "gloryPoint": 23868,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Sonyttia",
  "guildName": "Ombre et Lumiere",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 23924,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 418,
+   "rankingPositionChange": -1,
+   "gloryPoint": 23868,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

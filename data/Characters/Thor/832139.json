@@ -2,10 +2,10 @@
  "characterID": 832139,
  "characterClassID": 10,
  "raceID": 1,
- "position": 588,
- "rankingPositionChange": 1,
- "gloryPoint": 23381,
- "gloryPointChange": 47,
+ "position": 592,
+ "rankingPositionChange": -4,
+ "gloryPoint": 23409,
+ "gloryPointChange": 28,
  "soldierRankID": 11,
  "characterName": "Magnosia",
  "guildName": "Austria War Dragons",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 23381,
    "gloryPointChange": 47,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 592,
+   "rankingPositionChange": -4,
+   "gloryPoint": 23409,
+   "gloryPointChange": 28,
    "soldierRankID": 11
   }
  ],

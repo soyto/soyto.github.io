@@ -2,10 +2,10 @@
  "characterID": 188189,
  "characterClassID": 1,
  "raceID": 1,
- "position": 915,
- "rankingPositionChange": -4,
- "gloryPoint": 1445,
- "gloryPointChange": -7,
+ "position": 911,
+ "rankingPositionChange": 4,
+ "gloryPoint": 1431,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Missmerc",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 1445,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 911,
+   "rankingPositionChange": 4,
+   "gloryPoint": 1431,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

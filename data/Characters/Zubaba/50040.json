@@ -2,10 +2,10 @@
  "characterID": 50040,
  "characterClassID": 14,
  "raceID": 1,
- "position": 107,
- "rankingPositionChange": 1,
- "gloryPoint": 86183,
- "gloryPointChange": -49,
+ "position": 108,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86085,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Akuraz",
  "guildName": "Just Watch",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 86183,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 108,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86085,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

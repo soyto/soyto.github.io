@@ -2,10 +2,10 @@
  "characterID": 835443,
  "characterClassID": 1,
  "raceID": 0,
- "position": 98,
- "rankingPositionChange": 0,
- "gloryPoint": 86111,
- "gloryPointChange": 129,
+ "position": 99,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86204,
+ "gloryPointChange": 93,
  "soldierRankID": 14,
  "characterName": "Andrachiel",
  "guildName": "CapsuleCorporation",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 86111,
    "gloryPointChange": 129,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 99,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86204,
+   "gloryPointChange": 93,
    "soldierRankID": 14
   }
  ],

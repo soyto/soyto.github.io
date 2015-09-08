@@ -2,14 +2,14 @@
  "characterID": 1421844,
  "characterClassID": 4,
  "raceID": 0,
- "position": 797,
- "rankingPositionChange": -6,
- "gloryPoint": 20985,
- "gloryPointChange": -7,
+ "position": 795,
+ "rankingPositionChange": 2,
+ "gloryPoint": 21207,
+ "gloryPointChange": 222,
  "soldierRankID": 10,
  "characterName": "Dookz",
- "guildName": "Klinge der Ehre",
- "guildID": 45539,
+ "guildName": "Warriors of Aion",
+ "guildID": 28303,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 20985,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 795,
+   "rankingPositionChange": 2,
+   "gloryPoint": 21207,
+   "gloryPointChange": 222,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -311,6 +319,11 @@
    "date": "2015-08-12T22:00:00.000Z",
    "guildName": "Klinge der Ehre",
    "guildID": 45539
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Warriors of Aion",
+   "guildID": 28303
   }
  ]
 }

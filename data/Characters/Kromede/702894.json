@@ -2,14 +2,14 @@
  "characterID": 702894,
  "characterClassID": 7,
  "raceID": 0,
- "position": 988,
- "rankingPositionChange": 1,
- "gloryPoint": 8378,
- "gloryPointChange": -7,
+ "position": 978,
+ "rankingPositionChange": 10,
+ "gloryPoint": 8417,
+ "gloryPointChange": 39,
  "soldierRankID": 10,
  "characterName": "Tristanus",
- "guildName": "The Reborn",
- "guildID": 38212,
+ "guildName": "Maggi GmbH und Co KG",
+ "guildID": 38389,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 8378,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 978,
+   "rankingPositionChange": 10,
+   "gloryPoint": 8417,
+   "gloryPointChange": 39,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -313,6 +321,11 @@
    "date": "2015-08-30T22:00:00.000Z",
    "guildName": "The Reborn",
    "guildID": 38212
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Maggi GmbH und Co KG",
+   "guildID": 38389
   }
  ]
 }

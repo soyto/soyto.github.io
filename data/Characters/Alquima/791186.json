@@ -2,12 +2,14 @@
  "characterID": 791186,
  "characterClassID": 11,
  "raceID": 1,
- "position": 639,
- "rankingPositionChange": -1,
- "gloryPoint": 12321,
- "gloryPointChange": -14,
+ "position": 651,
+ "rankingPositionChange": -12,
+ "gloryPoint": 12293,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Kinoz",
+ "guildName": "STAFF",
+ "guildID": 14435,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 12321,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 651,
+   "rankingPositionChange": -12,
+   "gloryPoint": 12293,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-27T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "STAFF",
+   "guildID": 14435
   }
  ]
 }

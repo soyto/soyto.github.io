@@ -2,10 +2,10 @@
  "characterID": 896180,
  "characterClassID": 10,
  "raceID": 0,
- "position": 872,
- "rankingPositionChange": 0,
- "gloryPoint": 2147,
- "gloryPointChange": -7,
+ "position": 873,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2133,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Khore",
  "status": [
@@ -47,6 +47,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 2147,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 873,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2133,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

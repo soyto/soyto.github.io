@@ -2,14 +2,14 @@
  "characterID": 836670,
  "characterClassID": 11,
  "raceID": 0,
- "position": 12,
- "rankingPositionChange": 0,
- "gloryPoint": 283633,
- "gloryPointChange": 675,
+ "position": 13,
+ "rankingPositionChange": -1,
+ "gloryPoint": 284155,
+ "gloryPointChange": 522,
  "soldierRankID": 15,
  "characterName": "Cyllene",
- "guildName": "Birthday Massacre",
- "guildID": 29538,
+ "guildName": "Quiet",
+ "guildID": 27086,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 283633,
    "gloryPointChange": 675,
    "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 13,
+   "rankingPositionChange": -1,
+   "gloryPoint": 284155,
+   "gloryPointChange": 522,
+   "soldierRankID": 15
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Birthday Massacre",
    "guildID": 29538
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Quiet",
+   "guildID": 27086
   }
  ]
 }

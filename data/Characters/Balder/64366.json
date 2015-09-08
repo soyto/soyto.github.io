@@ -2,10 +2,10 @@
  "characterID": 64366,
  "characterClassID": 11,
  "raceID": 0,
- "position": 821,
- "rankingPositionChange": 1,
- "gloryPoint": 2461,
- "gloryPointChange": -7,
+ "position": 826,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2447,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Sienta",
  "guildName": "Wake me Up",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 2461,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 826,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2447,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

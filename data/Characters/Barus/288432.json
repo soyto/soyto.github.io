@@ -2,10 +2,10 @@
  "characterID": 288432,
  "characterClassID": 1,
  "raceID": 1,
- "position": 624,
- "rankingPositionChange": 25,
- "gloryPoint": 21096,
- "gloryPointChange": 858,
+ "position": 626,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21218,
+ "gloryPointChange": 122,
  "soldierRankID": 11,
  "characterName": "Labuch",
  "guildName": "Nieskalani",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 25,
    "gloryPoint": 21096,
    "gloryPointChange": 858,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 626,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21218,
+   "gloryPointChange": 122,
    "soldierRankID": 11
   }
  ],

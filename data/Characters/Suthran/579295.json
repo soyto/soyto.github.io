@@ -2,10 +2,10 @@
  "characterID": 579295,
  "characterClassID": 4,
  "raceID": 1,
- "position": 126,
- "rankingPositionChange": 0,
- "gloryPoint": 86434,
- "gloryPointChange": -49,
+ "position": 127,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86586,
+ "gloryPointChange": 152,
  "soldierRankID": 13,
  "characterName": "Omnicron",
  "guildName": "Storm",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 86434,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86586,
+   "gloryPointChange": 152,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 501917,
  "characterClassID": 10,
  "raceID": 0,
- "position": 427,
- "rankingPositionChange": 9,
- "gloryPoint": 4382,
- "gloryPointChange": 172,
+ "position": 428,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4406,
+ "gloryPointChange": 24,
  "soldierRankID": 12,
  "characterName": "Kleraion",
  "guildName": "Mentalist",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 9,
    "gloryPoint": 4382,
    "gloryPointChange": 172,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 428,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4406,
+   "gloryPointChange": 24,
    "soldierRankID": 12
   }
  ],

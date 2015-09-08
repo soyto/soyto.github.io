@@ -2,10 +2,10 @@
  "characterID": 485570,
  "characterClassID": 10,
  "raceID": 1,
- "position": 50,
- "rankingPositionChange": 0,
- "gloryPoint": 90092,
- "gloryPointChange": 778,
+ "position": 51,
+ "rankingPositionChange": -1,
+ "gloryPoint": 90508,
+ "gloryPointChange": 416,
  "soldierRankID": 14,
  "characterName": "Aamira",
  "guildName": "BLACK RAVEN XIII",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 90092,
    "gloryPointChange": 778,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 51,
+   "rankingPositionChange": -1,
+   "gloryPoint": 90508,
+   "gloryPointChange": 416,
    "soldierRankID": 14
   }
  ],

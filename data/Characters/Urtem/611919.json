@@ -2,10 +2,10 @@
  "characterID": 611919,
  "characterClassID": 5,
  "raceID": 1,
- "position": 424,
- "rankingPositionChange": 1,
- "gloryPoint": 23364,
- "gloryPointChange": -28,
+ "position": 429,
+ "rankingPositionChange": -5,
+ "gloryPoint": 23308,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Grimalkhinn",
  "guildName": "Ombre et Lumiere",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 23364,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 429,
+   "rankingPositionChange": -5,
+   "gloryPoint": 23308,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 178427,
  "characterClassID": 13,
  "raceID": 1,
- "position": 515,
- "rankingPositionChange": 4,
- "gloryPoint": 12103,
- "gloryPointChange": 196,
+ "position": 516,
+ "rankingPositionChange": -1,
+ "gloryPoint": 12075,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Garubbo",
  "guildName": "Shugo Mafia",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 12103,
    "gloryPointChange": 196,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 516,
+   "rankingPositionChange": -1,
+   "gloryPoint": 12075,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

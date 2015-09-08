@@ -2,14 +2,14 @@
  "characterID": 715045,
  "characterClassID": 2,
  "raceID": 0,
- "position": 471,
- "rankingPositionChange": -2,
- "gloryPoint": 35774,
- "gloryPointChange": 535,
+ "position": 469,
+ "rankingPositionChange": 2,
+ "gloryPoint": 35824,
+ "gloryPointChange": 50,
  "soldierRankID": 12,
  "characterName": "Whitewinter",
- "guildName": "Yami Ninja",
- "guildID": 35484,
+ "guildName": "Echoes Of Silence",
+ "guildID": 41803,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 35774,
    "gloryPointChange": 535,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 469,
+   "rankingPositionChange": 2,
+   "gloryPoint": 35824,
+   "gloryPointChange": 50,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Yami Ninja",
    "guildID": 35484
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Echoes Of Silence",
+   "guildID": 41803
   }
  ]
 }

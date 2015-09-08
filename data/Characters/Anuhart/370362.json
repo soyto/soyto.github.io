@@ -2,10 +2,10 @@
  "characterID": 370362,
  "characterClassID": 5,
  "raceID": 0,
- "position": 733,
- "rankingPositionChange": -2,
- "gloryPoint": 7982,
- "gloryPointChange": -1,
+ "position": 732,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7968,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Nienna",
  "guildName": "Turks",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 7982,
    "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 732,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7968,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

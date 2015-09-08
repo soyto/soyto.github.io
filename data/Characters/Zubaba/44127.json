@@ -2,9 +2,9 @@
  "characterID": 44127,
  "characterClassID": 14,
  "raceID": 0,
- "position": 91,
- "rankingPositionChange": 0,
- "gloryPoint": 116438,
+ "position": 92,
+ "rankingPositionChange": -1,
+ "gloryPoint": 116224,
  "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Cwar",
@@ -280,6 +280,14 @@
    "position": 91,
    "rankingPositionChange": 0,
    "gloryPoint": 116438,
+   "gloryPointChange": -214,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 92,
+   "rankingPositionChange": -1,
+   "gloryPoint": 116224,
    "gloryPointChange": -214,
    "soldierRankID": 14
   }

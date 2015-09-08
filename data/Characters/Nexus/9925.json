@@ -2,10 +2,10 @@
  "characterID": 9925,
  "characterClassID": 11,
  "raceID": 1,
- "position": 96,
- "rankingPositionChange": 1,
- "gloryPoint": 126672,
- "gloryPointChange": 763,
+ "position": 98,
+ "rankingPositionChange": -2,
+ "gloryPoint": 126821,
+ "gloryPointChange": 149,
  "soldierRankID": 14,
  "characterName": "Iwan",
  "guildName": "my dixie wrecked",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 126672,
    "gloryPointChange": 763,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 98,
+   "rankingPositionChange": -2,
+   "gloryPoint": 126821,
+   "gloryPointChange": 149,
    "soldierRankID": 14
   }
  ],

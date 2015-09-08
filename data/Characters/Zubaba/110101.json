@@ -2,12 +2,14 @@
  "characterID": 110101,
  "characterClassID": 8,
  "raceID": 0,
- "position": 711,
- "rankingPositionChange": -1,
- "gloryPoint": 7644,
- "gloryPointChange": -7,
+ "position": 708,
+ "rankingPositionChange": 3,
+ "gloryPoint": 7693,
+ "gloryPointChange": 49,
  "soldierRankID": 10,
  "characterName": "Vasilikaseria",
+ "guildName": "The Order",
+ "guildID": 5668,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 7644,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 708,
+   "rankingPositionChange": 3,
+   "gloryPoint": 7693,
+   "gloryPointChange": 49,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-18T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "The Order",
+   "guildID": 5668
   }
  ]
 }

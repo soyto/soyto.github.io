@@ -2,10 +2,10 @@
  "characterID": 657703,
  "characterClassID": 1,
  "raceID": 1,
- "position": 223,
- "rankingPositionChange": 0,
- "gloryPoint": 65007,
- "gloryPointChange": 50,
+ "position": 224,
+ "rankingPositionChange": -1,
+ "gloryPoint": 65060,
+ "gloryPointChange": 53,
  "soldierRankID": 13,
  "characterName": "Aveenyu",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 65007,
    "gloryPointChange": 50,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 224,
+   "rankingPositionChange": -1,
+   "gloryPoint": 65060,
+   "gloryPointChange": 53,
    "soldierRankID": 13
   }
  ],

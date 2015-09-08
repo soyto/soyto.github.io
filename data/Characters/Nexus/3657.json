@@ -2,10 +2,10 @@
  "characterID": 3657,
  "characterClassID": 5,
  "raceID": 1,
- "position": 367,
- "rankingPositionChange": -5,
- "gloryPoint": 45368,
- "gloryPointChange": -28,
+ "position": 364,
+ "rankingPositionChange": 3,
+ "gloryPoint": 45645,
+ "gloryPointChange": 277,
  "soldierRankID": 12,
  "characterName": "Exodu",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 45368,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 364,
+   "rankingPositionChange": 3,
+   "gloryPoint": 45645,
+   "gloryPointChange": 277,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1206689,
  "characterClassID": 7,
  "raceID": 0,
- "position": 921,
- "rankingPositionChange": 0,
- "gloryPoint": 4942,
- "gloryPointChange": 62,
+ "position": 923,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4941,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Kiraq",
  "status": [
@@ -207,6 +207,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 4942,
    "gloryPointChange": 62,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 923,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4941,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

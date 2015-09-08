@@ -2,10 +2,10 @@
  "characterID": 1616376,
  "characterClassID": 5,
  "raceID": 1,
- "position": 766,
- "rankingPositionChange": 0,
- "gloryPoint": 10601,
- "gloryPointChange": 61,
+ "position": 771,
+ "rankingPositionChange": -5,
+ "gloryPoint": 10587,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Caofray",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 10601,
    "gloryPointChange": 61,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 771,
+   "rankingPositionChange": -5,
+   "gloryPoint": 10587,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

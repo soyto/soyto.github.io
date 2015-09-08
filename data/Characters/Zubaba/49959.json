@@ -2,10 +2,10 @@
  "characterID": 49959,
  "characterClassID": 16,
  "raceID": 1,
- "position": 340,
- "rankingPositionChange": 1,
- "gloryPoint": 20633,
- "gloryPointChange": -28,
+ "position": 341,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20677,
+ "gloryPointChange": 44,
  "soldierRankID": 12,
  "characterName": "Luwin",
  "guildName": "Asabiler",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20633,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 341,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20677,
+   "gloryPointChange": 44,
    "soldierRankID": 12
   }
  ],

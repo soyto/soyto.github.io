@@ -2,10 +2,10 @@
  "characterID": 679458,
  "characterClassID": 5,
  "raceID": 1,
- "position": 948,
- "rankingPositionChange": 0,
- "gloryPoint": 6124,
- "gloryPointChange": -7,
+ "position": 956,
+ "rankingPositionChange": -8,
+ "gloryPoint": 6110,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Slog",
  "status": [
@@ -143,6 +143,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6124,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 956,
+   "rankingPositionChange": -8,
+   "gloryPoint": 6110,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

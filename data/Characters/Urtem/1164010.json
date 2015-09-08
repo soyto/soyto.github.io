@@ -2,10 +2,10 @@
  "characterID": 1164010,
  "characterClassID": 14,
  "raceID": 1,
- "position": 220,
+ "position": 223,
  "rankingPositionChange": -3,
- "gloryPoint": 50070,
- "gloryPointChange": -49,
+ "gloryPoint": 50075,
+ "gloryPointChange": 5,
  "soldierRankID": 13,
  "characterName": "Defalt",
  "guildName": "Ombre et Lumiere",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 50070,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 223,
+   "rankingPositionChange": -3,
+   "gloryPoint": 50075,
+   "gloryPointChange": 5,
    "soldierRankID": 13
   }
  ],

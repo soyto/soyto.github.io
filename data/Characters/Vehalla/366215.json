@@ -2,10 +2,10 @@
  "characterID": 366215,
  "characterClassID": 4,
  "raceID": 1,
- "position": 64,
- "rankingPositionChange": 0,
- "gloryPoint": 79429,
- "gloryPointChange": 191,
+ "position": 63,
+ "rankingPositionChange": 1,
+ "gloryPoint": 79215,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Exiel",
  "guildName": "Holla die Alk Fee",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 79429,
    "gloryPointChange": 191,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 63,
+   "rankingPositionChange": 1,
+   "gloryPoint": 79215,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

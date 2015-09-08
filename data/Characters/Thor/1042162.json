@@ -2,10 +2,10 @@
  "characterID": 1042162,
  "characterClassID": 4,
  "raceID": 0,
- "position": 745,
- "rankingPositionChange": -5,
- "gloryPoint": 23525,
- "gloryPointChange": -7,
+ "position": 744,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23511,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Drasiyl",
  "status": [
@@ -191,6 +191,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 23525,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 744,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23511,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

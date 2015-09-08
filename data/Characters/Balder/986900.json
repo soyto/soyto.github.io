@@ -2,14 +2,12 @@
  "characterID": 986900,
  "characterClassID": 14,
  "raceID": 1,
- "position": 390,
- "rankingPositionChange": -1,
- "gloryPoint": 4757,
- "gloryPointChange": -28,
+ "position": 386,
+ "rankingPositionChange": 4,
+ "gloryPoint": 4701,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Fidelie",
- "guildName": "R e q u i e m",
- "guildID": 16824,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 4757,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 386,
+   "rankingPositionChange": 4,
+   "gloryPoint": 4701,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -308,6 +314,9 @@
    "date": "2015-08-25T22:00:00.000Z",
    "guildName": "R e q u i e m",
    "guildID": 16824
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

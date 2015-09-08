@@ -2,13 +2,13 @@
  "characterID": 902204,
  "characterClassID": 10,
  "raceID": 1,
- "position": 360,
- "rankingPositionChange": -2,
- "gloryPoint": 46444,
- "gloryPointChange": -28,
+ "position": 359,
+ "rankingPositionChange": 1,
+ "gloryPoint": 46388,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Qute",
- "guildName": "Bat",
+ "guildName": "Perfectly logical",
  "guildID": 15107,
  "status": [
   {
@@ -289,6 +289,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 46444,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 359,
+   "rankingPositionChange": 1,
+   "gloryPoint": 46388,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

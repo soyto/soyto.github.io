@@ -2,10 +2,10 @@
  "characterID": 300064,
  "characterClassID": 13,
  "raceID": 1,
- "position": 668,
- "rankingPositionChange": -2,
- "gloryPoint": 4377,
- "gloryPointChange": -5,
+ "position": 655,
+ "rankingPositionChange": 13,
+ "gloryPoint": 4611,
+ "gloryPointChange": 234,
  "soldierRankID": 11,
  "characterName": "Vosvos",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 4377,
    "gloryPointChange": -5,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 655,
+   "rankingPositionChange": 13,
+   "gloryPoint": 4611,
+   "gloryPointChange": 234,
    "soldierRankID": 11
   }
  ],

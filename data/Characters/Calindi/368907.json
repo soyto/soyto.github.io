@@ -2,12 +2,14 @@
  "characterID": 368907,
  "characterClassID": 2,
  "raceID": 0,
- "position": 366,
+ "position": 363,
  "rankingPositionChange": 3,
- "gloryPoint": 13855,
- "gloryPointChange": 472,
+ "gloryPoint": 14119,
+ "gloryPointChange": 264,
  "soldierRankID": 12,
  "characterName": "Younesko",
+ "guildName": "KEEP CALM AND QQ",
+ "guildID": 16108,
  "status": [
   {
    "date": "2015-09-02T22:00:00.000Z",
@@ -40,6 +42,14 @@
    "gloryPoint": 13855,
    "gloryPointChange": 472,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 363,
+   "rankingPositionChange": 3,
+   "gloryPoint": 14119,
+   "gloryPointChange": 264,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -56,6 +66,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "KEEP CALM AND QQ",
+   "guildID": 16108
   }
  ]
 }

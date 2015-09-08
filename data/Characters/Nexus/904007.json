@@ -2,14 +2,12 @@
  "characterID": 904007,
  "characterClassID": 1,
  "raceID": 1,
- "position": 562,
- "rankingPositionChange": -6,
- "gloryPoint": 24277,
- "gloryPointChange": -14,
+ "position": 561,
+ "rankingPositionChange": 1,
+ "gloryPoint": 24249,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Namukun",
- "guildName": "Divine",
- "guildID": 3730,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 24277,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 561,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24249,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Divine",
    "guildID": 3730
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

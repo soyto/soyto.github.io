@@ -2,10 +2,10 @@
  "characterID": 154378,
  "characterClassID": 7,
  "raceID": 1,
- "position": 28,
- "rankingPositionChange": 1,
- "gloryPoint": 143003,
- "gloryPointChange": -119,
+ "position": 29,
+ "rankingPositionChange": -1,
+ "gloryPoint": 142765,
+ "gloryPointChange": -238,
  "soldierRankID": 15,
  "characterName": "Elminster",
  "guildName": "Last Resort",
@@ -185,6 +185,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 143003,
    "gloryPointChange": -119,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 29,
+   "rankingPositionChange": -1,
+   "gloryPoint": 142765,
+   "gloryPointChange": -238,
    "soldierRankID": 15
   }
  ],

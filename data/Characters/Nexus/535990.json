@@ -2,10 +2,10 @@
  "characterID": 535990,
  "characterClassID": 1,
  "raceID": 0,
- "position": 919,
- "rankingPositionChange": -5,
- "gloryPoint": 5434,
- "gloryPointChange": -7,
+ "position": 916,
+ "rankingPositionChange": 3,
+ "gloryPoint": 5420,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Antraurus",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 5434,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": 3,
+   "gloryPoint": 5420,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

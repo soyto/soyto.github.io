@@ -2,10 +2,10 @@
  "characterID": 430492,
  "characterClassID": 7,
  "raceID": 1,
- "position": 220,
- "rankingPositionChange": 2,
- "gloryPoint": 40041,
- "gloryPointChange": 359,
+ "position": 221,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40402,
+ "gloryPointChange": 361,
  "soldierRankID": 13,
  "characterName": "Embrujada",
  "guildName": "CrY Of WarS",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 40041,
    "gloryPointChange": 359,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 221,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40402,
+   "gloryPointChange": 361,
    "soldierRankID": 13
   }
  ],

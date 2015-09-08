@@ -2,14 +2,12 @@
  "characterID": 721119,
  "characterClassID": 2,
  "raceID": 1,
- "position": 263,
- "rankingPositionChange": -1,
- "gloryPoint": 65848,
- "gloryPointChange": -49,
+ "position": 262,
+ "rankingPositionChange": 1,
+ "gloryPoint": 65750,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Lomoguard",
- "guildName": "Divine",
- "guildID": 3730,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 65848,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 262,
+   "rankingPositionChange": 1,
+   "gloryPoint": 65750,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Divine",
    "guildID": 3730
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

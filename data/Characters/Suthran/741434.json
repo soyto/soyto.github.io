@@ -2,10 +2,10 @@
  "characterID": 741434,
  "characterClassID": 11,
  "raceID": 0,
- "position": 883,
- "rankingPositionChange": 2,
- "gloryPoint": 12312,
- "gloryPointChange": 168,
+ "position": 888,
+ "rankingPositionChange": -5,
+ "gloryPoint": 12318,
+ "gloryPointChange": 6,
  "soldierRankID": 10,
  "characterName": "Lems",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 12312,
    "gloryPointChange": 168,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 888,
+   "rankingPositionChange": -5,
+   "gloryPoint": 12318,
+   "gloryPointChange": 6,
    "soldierRankID": 10
   }
  ],

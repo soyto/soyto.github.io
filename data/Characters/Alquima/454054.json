@@ -2,10 +2,10 @@
  "characterID": 454054,
  "characterClassID": 16,
  "raceID": 1,
- "position": 505,
- "rankingPositionChange": 4,
- "gloryPoint": 16007,
- "gloryPointChange": 257,
+ "position": 509,
+ "rankingPositionChange": -4,
+ "gloryPoint": 15985,
+ "gloryPointChange": -22,
  "soldierRankID": 11,
  "characterName": "Darun",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 16007,
    "gloryPointChange": 257,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 509,
+   "rankingPositionChange": -4,
+   "gloryPoint": 15985,
+   "gloryPointChange": -22,
    "soldierRankID": 11
   }
  ],

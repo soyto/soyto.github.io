@@ -2,10 +2,10 @@
  "characterID": 544984,
  "characterClassID": 7,
  "raceID": 1,
- "position": 156,
+ "position": 155,
  "rankingPositionChange": 1,
- "gloryPoint": 73141,
- "gloryPointChange": 194,
+ "gloryPoint": 73043,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Datsorc",
  "guildName": "StorM",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 73141,
    "gloryPointChange": 194,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 155,
+   "rankingPositionChange": 1,
+   "gloryPoint": 73043,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

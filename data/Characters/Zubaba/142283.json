@@ -2,10 +2,10 @@
  "characterID": 142283,
  "characterClassID": 11,
  "raceID": 1,
- "position": 936,
- "rankingPositionChange": 33,
- "gloryPoint": 1349,
- "gloryPointChange": 103,
+ "position": 930,
+ "rankingPositionChange": 6,
+ "gloryPoint": 1345,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Hydrex",
  "guildName": "FightForHonor",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 33,
    "gloryPoint": 1349,
    "gloryPointChange": 103,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 930,
+   "rankingPositionChange": 6,
+   "gloryPoint": 1345,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

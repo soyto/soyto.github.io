@@ -2,10 +2,10 @@
  "characterID": 513728,
  "characterClassID": 1,
  "raceID": 1,
- "position": 374,
- "rankingPositionChange": 2,
- "gloryPoint": 23003,
- "gloryPointChange": 186,
+ "position": 376,
+ "rankingPositionChange": -2,
+ "gloryPoint": 22947,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Freyax",
  "guildName": "PTA BIDA TT",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 23003,
    "gloryPointChange": 186,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 376,
+   "rankingPositionChange": -2,
+   "gloryPoint": 22947,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

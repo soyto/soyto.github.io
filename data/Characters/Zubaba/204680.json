@@ -2,14 +2,14 @@
  "characterID": 204680,
  "characterClassID": 16,
  "raceID": 1,
- "position": 207,
- "rankingPositionChange": 1,
- "gloryPoint": 42937,
- "gloryPointChange": 307,
+ "position": 201,
+ "rankingPositionChange": 6,
+ "gloryPoint": 44356,
+ "gloryPointChange": 1419,
  "soldierRankID": 13,
  "characterName": "Poetalux",
- "guildName": "Halucination",
- "guildID": 5576,
+ "guildName": "NeFeS",
+ "guildID": 4850,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 42937,
    "gloryPointChange": 307,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 201,
+   "rankingPositionChange": 6,
+   "gloryPoint": 44356,
+   "gloryPointChange": 1419,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Halucination",
    "guildID": 5576
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NeFeS",
+   "guildID": 4850
   }
  ]
 }

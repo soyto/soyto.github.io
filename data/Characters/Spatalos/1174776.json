@@ -2,10 +2,10 @@
  "characterID": 1174776,
  "characterClassID": 11,
  "raceID": 0,
- "position": 81,
- "rankingPositionChange": 0,
- "gloryPoint": 149542,
- "gloryPointChange": 383,
+ "position": 82,
+ "rankingPositionChange": -1,
+ "gloryPoint": 149390,
+ "gloryPointChange": -152,
  "soldierRankID": 14,
  "characterName": "Shiirochan",
  "guildName": "Death is Coming",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 149542,
    "gloryPointChange": 383,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 82,
+   "rankingPositionChange": -1,
+   "gloryPoint": 149390,
+   "gloryPointChange": -152,
    "soldierRankID": 14
   }
  ],

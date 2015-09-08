@@ -2,10 +2,10 @@
  "characterID": 490329,
  "characterClassID": 8,
  "raceID": 0,
- "position": 87,
- "rankingPositionChange": 0,
- "gloryPoint": 95894,
- "gloryPointChange": -107,
+ "position": 88,
+ "rankingPositionChange": -1,
+ "gloryPoint": 95680,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Snoopy",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 95894,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 88,
+   "rankingPositionChange": -1,
+   "gloryPoint": 95680,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

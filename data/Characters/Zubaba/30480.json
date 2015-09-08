@@ -2,10 +2,10 @@
  "characterID": 30480,
  "characterClassID": 2,
  "raceID": 1,
- "position": 93,
- "rankingPositionChange": 2,
- "gloryPoint": 97017,
- "gloryPointChange": 678,
+ "position": 94,
+ "rankingPositionChange": -1,
+ "gloryPoint": 97442,
+ "gloryPointChange": 425,
  "soldierRankID": 14,
  "characterName": "Udumbara",
  "guildName": "Bosphorus",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 97017,
    "gloryPointChange": 678,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 94,
+   "rankingPositionChange": -1,
+   "gloryPoint": 97442,
+   "gloryPointChange": 425,
    "soldierRankID": 14
   }
  ],

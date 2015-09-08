@@ -2,14 +2,12 @@
  "characterID": 24019,
  "characterClassID": 5,
  "raceID": 1,
- "position": 106,
- "rankingPositionChange": 1,
- "gloryPoint": 86266,
- "gloryPointChange": -49,
+ "position": 107,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86168,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Revs",
- "guildName": "Asabiler",
- "guildID": 4860,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 86266,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86168,
+   "gloryPointChange": -98,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -316,6 +322,9 @@
    "date": "2015-08-06T22:00:00.000Z",
    "guildName": "Asabiler",
    "guildID": 4860
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

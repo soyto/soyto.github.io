@@ -2,10 +2,10 @@
  "characterID": 465608,
  "characterClassID": 4,
  "raceID": 1,
- "position": 537,
- "rankingPositionChange": -1,
- "gloryPoint": 7180,
- "gloryPointChange": -14,
+ "position": 532,
+ "rankingPositionChange": 5,
+ "gloryPoint": 7303,
+ "gloryPointChange": 123,
  "soldierRankID": 11,
  "characterName": "Vedder",
  "guildName": "YouKnowWho",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 7180,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 532,
+   "rankingPositionChange": 5,
+   "gloryPoint": 7303,
+   "gloryPointChange": 123,
    "soldierRankID": 11
   }
  ],

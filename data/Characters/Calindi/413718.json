@@ -2,10 +2,10 @@
  "characterID": 413718,
  "characterClassID": 10,
  "raceID": 1,
- "position": 47,
- "rankingPositionChange": 0,
- "gloryPoint": 40624,
- "gloryPointChange": 63,
+ "position": 48,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40610,
+ "gloryPointChange": -14,
  "soldierRankID": 14,
  "characterName": "Allysae",
  "guildName": "Legendary Players",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 40624,
    "gloryPointChange": 63,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 48,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40610,
+   "gloryPointChange": -14,
    "soldierRankID": 14
   }
  ],

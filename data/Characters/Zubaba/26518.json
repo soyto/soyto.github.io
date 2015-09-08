@@ -2,10 +2,10 @@
  "characterID": 26518,
  "characterClassID": 7,
  "raceID": 0,
- "position": 285,
- "rankingPositionChange": 0,
- "gloryPoint": 35476,
- "gloryPointChange": 1,
+ "position": 287,
+ "rankingPositionChange": -2,
+ "gloryPoint": 35441,
+ "gloryPointChange": -35,
  "soldierRankID": 13,
  "characterName": "Jiggy",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35476,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 287,
+   "rankingPositionChange": -2,
+   "gloryPoint": 35441,
+   "gloryPointChange": -35,
    "soldierRankID": 13
   }
  ],

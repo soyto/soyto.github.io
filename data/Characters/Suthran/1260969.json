@@ -2,10 +2,10 @@
  "characterID": 1260969,
  "characterClassID": 13,
  "raceID": 0,
- "position": 852,
- "rankingPositionChange": 1,
- "gloryPoint": 13484,
- "gloryPointChange": -7,
+ "position": 854,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13470,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Kyojin",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13484,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 854,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13470,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

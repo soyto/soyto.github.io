@@ -2,12 +2,14 @@
  "characterID": 1256492,
  "characterClassID": 5,
  "raceID": 1,
- "position": 923,
- "rankingPositionChange": -3,
- "gloryPoint": 7536,
- "gloryPointChange": -14,
+ "position": 957,
+ "rankingPositionChange": -34,
+ "gloryPoint": 7403,
+ "gloryPointChange": -133,
  "soldierRankID": 10,
  "characterName": "Jinkii",
+ "guildName": "Les Corpbeau",
+ "guildID": 46259,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -152,6 +154,14 @@
    "gloryPoint": 7536,
    "gloryPointChange": -14,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 957,
+   "rankingPositionChange": -34,
+   "gloryPoint": 7403,
+   "gloryPointChange": -133,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -163,6 +173,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Les Corpbeau",
+   "guildID": 46259
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 1062765,
  "characterClassID": 16,
  "raceID": 0,
- "position": 946,
- "rankingPositionChange": 0,
- "gloryPoint": 10923,
- "gloryPointChange": 6,
+ "position": 951,
+ "rankingPositionChange": -5,
+ "gloryPoint": 10909,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Deathbard",
  "guildName": "Mirages",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 10923,
    "gloryPointChange": 6,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": -5,
+   "gloryPoint": 10909,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1185689,
  "characterClassID": 13,
  "raceID": 1,
- "position": 471,
- "rankingPositionChange": 1,
- "gloryPoint": 9248,
- "gloryPointChange": -28,
+ "position": 472,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9192,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Zmetek",
  "guildName": "Dark Side",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 9248,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 472,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9192,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

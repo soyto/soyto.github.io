@@ -2,10 +2,10 @@
  "characterID": 101816,
  "characterClassID": 2,
  "raceID": 1,
- "position": 156,
- "rankingPositionChange": 0,
- "gloryPoint": 97263,
- "gloryPointChange": -49,
+ "position": 157,
+ "rankingPositionChange": -1,
+ "gloryPoint": 97265,
+ "gloryPointChange": 2,
  "soldierRankID": 13,
  "characterName": "Phantom",
  "guildName": " NERDS ",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 97263,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 157,
+   "rankingPositionChange": -1,
+   "gloryPoint": 97265,
+   "gloryPointChange": 2,
    "soldierRankID": 13
   }
  ],

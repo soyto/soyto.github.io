@@ -2,10 +2,10 @@
  "characterID": 1122808,
  "characterClassID": 1,
  "raceID": 1,
- "position": 365,
- "rankingPositionChange": 0,
- "gloryPoint": 8073,
- "gloryPointChange": -28,
+ "position": 366,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8017,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Niightslayer",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8073,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 366,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8017,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

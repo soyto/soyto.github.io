@@ -2,12 +2,14 @@
  "characterID": 18332,
  "characterClassID": 5,
  "raceID": 1,
- "position": 346,
- "rankingPositionChange": -1,
- "gloryPoint": 49576,
- "gloryPointChange": 863,
+ "position": 340,
+ "rankingPositionChange": 6,
+ "gloryPoint": 50419,
+ "gloryPointChange": 843,
  "soldierRankID": 12,
  "characterName": "Pureshot",
+ "guildName": " NERDS ",
+ "guildID": 1029,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 49576,
    "gloryPointChange": 863,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 340,
+   "rankingPositionChange": 6,
+   "gloryPoint": 50419,
+   "gloryPointChange": 843,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-22T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " NERDS ",
+   "guildID": 1029
   }
  ]
 }

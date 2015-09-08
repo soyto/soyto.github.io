@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 46,
- "rankingPositionChange": -1,
- "gloryPoint": 147616,
- "gloryPointChange": 123,
+ "rankingPositionChange": 0,
+ "gloryPoint": 148072,
+ "gloryPointChange": 456,
  "soldierRankID": 14,
  "characterName": "Hako",
  "guildName": "ANCHOR",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 147616,
    "gloryPointChange": 123,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 46,
+   "rankingPositionChange": 0,
+   "gloryPoint": 148072,
+   "gloryPointChange": 456,
    "soldierRankID": 14
   }
  ],

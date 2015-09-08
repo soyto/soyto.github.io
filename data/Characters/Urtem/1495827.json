@@ -2,10 +2,10 @@
  "characterID": 1495827,
  "characterClassID": 1,
  "raceID": 1,
- "position": 581,
- "rankingPositionChange": 0,
- "gloryPoint": 14956,
- "gloryPointChange": 98,
+ "position": 585,
+ "rankingPositionChange": -4,
+ "gloryPoint": 14928,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Nakayshin",
  "guildName": "Only Kill Elyos",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 14956,
    "gloryPointChange": 98,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 585,
+   "rankingPositionChange": -4,
+   "gloryPoint": 14928,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

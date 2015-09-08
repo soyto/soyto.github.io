@@ -3,11 +3,13 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 470,
- "rankingPositionChange": 7,
- "gloryPoint": 20587,
- "gloryPointChange": 790,
+ "rankingPositionChange": 0,
+ "gloryPoint": 20690,
+ "gloryPointChange": 103,
  "soldierRankID": 12,
  "characterName": "Adarek",
+ "guildName": "Dux Bellorum",
+ "guildID": 45108,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 20587,
    "gloryPointChange": 790,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 470,
+   "rankingPositionChange": 0,
+   "gloryPoint": 20690,
+   "gloryPointChange": 103,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -307,6 +317,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Dux Bellorum",
+   "guildID": 45108
   }
  ]
 }

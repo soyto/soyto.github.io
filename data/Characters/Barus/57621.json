@@ -2,12 +2,14 @@
  "characterID": 57621,
  "characterClassID": 16,
  "raceID": 0,
- "position": 989,
+ "position": 988,
  "rankingPositionChange": 1,
- "gloryPoint": 10209,
- "gloryPointChange": -7,
+ "gloryPoint": 10195,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Alanis",
+ "guildName": "P R I D E",
+ "guildID": 4908,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 10209,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 988,
+   "rankingPositionChange": 1,
+   "gloryPoint": 10195,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "P R I D E",
+   "guildID": 4908
   }
  ]
 }

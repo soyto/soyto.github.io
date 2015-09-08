@@ -2,10 +2,10 @@
  "characterID": 791183,
  "characterClassID": 5,
  "raceID": 0,
- "position": 419,
- "rankingPositionChange": 1,
- "gloryPoint": 10618,
- "gloryPointChange": 0,
+ "position": 421,
+ "rankingPositionChange": -2,
+ "gloryPoint": 10562,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Wylie",
  "guildName": "Malus Angeli",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 10618,
    "gloryPointChange": 0,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 421,
+   "rankingPositionChange": -2,
+   "gloryPoint": 10562,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

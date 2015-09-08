@@ -2,10 +2,10 @@
  "characterID": 472120,
  "characterClassID": 11,
  "raceID": 0,
- "position": 360,
- "rankingPositionChange": -1,
- "gloryPoint": 7165,
- "gloryPointChange": -28,
+ "position": 359,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7142,
+ "gloryPointChange": -23,
  "soldierRankID": 12,
  "characterName": "Ginizella",
  "guildName": "Dead Elyos Society",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 7165,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 359,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7142,
+   "gloryPointChange": -23,
    "soldierRankID": 12
   }
  ],

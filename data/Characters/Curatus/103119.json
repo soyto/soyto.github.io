@@ -2,10 +2,10 @@
  "characterID": 103119,
  "characterClassID": 7,
  "raceID": 0,
- "position": 106,
- "rankingPositionChange": 2,
- "gloryPoint": 126458,
- "gloryPointChange": 265,
+ "position": 107,
+ "rankingPositionChange": -1,
+ "gloryPoint": 126859,
+ "gloryPointChange": 401,
  "soldierRankID": 13,
  "characterName": "Kallyope",
  "guildName": "Ascension",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 126458,
    "gloryPointChange": 265,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 107,
+   "rankingPositionChange": -1,
+   "gloryPoint": 126859,
+   "gloryPointChange": 401,
    "soldierRankID": 13
   }
  ],

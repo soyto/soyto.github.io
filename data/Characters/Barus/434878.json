@@ -2,12 +2,14 @@
  "characterID": 434878,
  "characterClassID": 14,
  "raceID": 1,
- "position": 938,
- "rankingPositionChange": -7,
- "gloryPoint": 11076,
- "gloryPointChange": -4,
+ "position": 926,
+ "rankingPositionChange": 12,
+ "gloryPoint": 11352,
+ "gloryPointChange": 276,
  "soldierRankID": 10,
  "characterName": "Mastakillaa",
+ "guildName": " B E R S E R K ",
+ "guildID": 6579,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 11076,
    "gloryPointChange": -4,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": 12,
+   "gloryPoint": 11352,
+   "gloryPointChange": 276,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-17T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " B E R S E R K ",
+   "guildID": 6579
   }
  ]
 }

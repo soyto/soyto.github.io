@@ -2,14 +2,14 @@
  "characterID": 531751,
  "characterClassID": 11,
  "raceID": 0,
- "position": 755,
- "rankingPositionChange": 2,
- "gloryPoint": 15515,
- "gloryPointChange": 83,
+ "position": 745,
+ "rankingPositionChange": 10,
+ "gloryPoint": 15877,
+ "gloryPointChange": 362,
  "soldierRankID": 10,
  "characterName": "Furbiit",
- "guildName": "Septima Division",
- "guildID": 12415,
+ "guildName": "OUTLAWS",
+ "guildID": 4233,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 15515,
    "gloryPointChange": 83,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 745,
+   "rankingPositionChange": 10,
+   "gloryPoint": 15877,
+   "gloryPointChange": 362,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Septima Division",
    "guildID": 12415
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "OUTLAWS",
+   "guildID": 4233
   }
  ]
 }

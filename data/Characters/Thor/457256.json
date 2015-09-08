@@ -2,10 +2,10 @@
  "characterID": 457256,
  "characterClassID": 2,
  "raceID": 0,
- "position": 44,
- "rankingPositionChange": 0,
- "gloryPoint": 218414,
- "gloryPointChange": -107,
+ "position": 45,
+ "rankingPositionChange": -1,
+ "gloryPoint": 218608,
+ "gloryPointChange": 194,
  "soldierRankID": 14,
  "characterName": "Wedanta",
  "guildName": "Another Cold Day",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 218414,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 45,
+   "rankingPositionChange": -1,
+   "gloryPoint": 218608,
+   "gloryPointChange": 194,
    "soldierRankID": 14
   }
  ],

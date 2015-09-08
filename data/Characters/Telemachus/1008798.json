@@ -2,10 +2,10 @@
  "characterID": 1008798,
  "characterClassID": 16,
  "raceID": 1,
- "position": 222,
- "rankingPositionChange": 1,
- "gloryPoint": 20896,
- "gloryPointChange": -49,
+ "position": 226,
+ "rankingPositionChange": -4,
+ "gloryPoint": 20798,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Belisar",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20896,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 226,
+   "rankingPositionChange": -4,
+   "gloryPoint": 20798,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

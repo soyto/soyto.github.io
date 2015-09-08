@@ -2,10 +2,10 @@
  "characterID": 1618934,
  "characterClassID": 1,
  "raceID": 1,
- "position": 626,
- "rankingPositionChange": 28,
- "gloryPoint": 5642,
- "gloryPointChange": 586,
+ "position": 627,
+ "rankingPositionChange": -1,
+ "gloryPoint": 5614,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Anestos",
  "guildName": "Black Hawks",
@@ -121,6 +121,14 @@
    "rankingPositionChange": 28,
    "gloryPoint": 5642,
    "gloryPointChange": 586,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 627,
+   "rankingPositionChange": -1,
+   "gloryPoint": 5614,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 663769,
  "characterClassID": 1,
  "raceID": 0,
- "position": 945,
- "rankingPositionChange": -2,
- "gloryPoint": 10928,
- "gloryPointChange": -7,
+ "position": 938,
+ "rankingPositionChange": 7,
+ "gloryPoint": 11064,
+ "gloryPointChange": 136,
  "soldierRankID": 10,
  "characterName": "Rhaaiza",
- "guildName": "ShonIX",
- "guildID": 1287,
+ "guildName": "l KISS ME l",
+ "guildID": 33430,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 10928,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 938,
+   "rankingPositionChange": 7,
+   "gloryPoint": 11064,
+   "gloryPointChange": 136,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "ShonIX",
    "guildID": 1287
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "l KISS ME l",
+   "guildID": 33430
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 141307,
  "characterClassID": 8,
  "raceID": 1,
- "position": 478,
- "rankingPositionChange": 1,
- "gloryPoint": 9867,
- "gloryPointChange": -28,
+ "position": 479,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9811,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Comes",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 9867,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 479,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9811,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

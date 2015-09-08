@@ -2,12 +2,14 @@
  "characterID": 341616,
  "characterClassID": 14,
  "raceID": 1,
- "position": 122,
- "rankingPositionChange": 1,
- "gloryPoint": 47626,
- "gloryPointChange": -49,
+ "position": 120,
+ "rankingPositionChange": 2,
+ "gloryPoint": 48052,
+ "gloryPointChange": 426,
  "soldierRankID": 13,
  "characterName": "Elfrun",
+ "guildName": " Kappa ",
+ "guildID": 15668,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 47626,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 120,
+   "rankingPositionChange": 2,
+   "gloryPoint": 48052,
+   "gloryPointChange": 426,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-03T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " Kappa ",
+   "guildID": 15668
   }
  ]
 }

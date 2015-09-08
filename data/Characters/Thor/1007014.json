@@ -2,10 +2,10 @@
  "characterID": 1007014,
  "characterClassID": 8,
  "raceID": 1,
- "position": 368,
- "rankingPositionChange": 0,
- "gloryPoint": 41212,
- "gloryPointChange": -28,
+ "position": 369,
+ "rankingPositionChange": -1,
+ "gloryPoint": 41156,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Heedless",
  "guildName": "CTPAX",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 41212,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 369,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41156,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

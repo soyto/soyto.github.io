@@ -2,10 +2,10 @@
  "characterID": 370847,
  "characterClassID": 10,
  "raceID": 0,
- "position": 270,
- "rankingPositionChange": 0,
- "gloryPoint": 13715,
- "gloryPointChange": 21,
+ "position": 271,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13617,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Orlinaa",
  "guildName": "Calamitas",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 13715,
    "gloryPointChange": 21,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 271,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13617,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

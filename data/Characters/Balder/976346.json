@@ -2,10 +2,10 @@
  "characterID": 976346,
  "characterClassID": 11,
  "raceID": 0,
- "position": 470,
- "rankingPositionChange": 0,
- "gloryPoint": 8080,
- "gloryPointChange": -28,
+ "position": 471,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8024,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Thepanther",
  "guildName": "Brain Storm",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8080,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 471,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8024,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

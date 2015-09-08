@@ -2,10 +2,10 @@
  "characterID": 1511252,
  "characterClassID": 13,
  "raceID": 1,
- "position": 933,
- "rankingPositionChange": -5,
- "gloryPoint": 11635,
- "gloryPointChange": -7,
+ "position": 928,
+ "rankingPositionChange": 5,
+ "gloryPoint": 11621,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Omegasheep",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 11635,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 928,
+   "rankingPositionChange": 5,
+   "gloryPoint": 11621,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1187434,
  "characterClassID": 16,
  "raceID": 0,
- "position": 60,
- "rankingPositionChange": 0,
- "gloryPoint": 164722,
- "gloryPointChange": 672,
+ "position": 61,
+ "rankingPositionChange": -1,
+ "gloryPoint": 165922,
+ "gloryPointChange": 1200,
  "soldierRankID": 14,
  "characterName": "Emiki",
  "guildName": " Never Say No To Panda ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 164722,
    "gloryPointChange": 672,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 61,
+   "rankingPositionChange": -1,
+   "gloryPoint": 165922,
+   "gloryPointChange": 1200,
    "soldierRankID": 14
   }
  ],

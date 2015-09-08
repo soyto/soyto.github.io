@@ -2,10 +2,10 @@
  "characterID": 138422,
  "characterClassID": 10,
  "raceID": 1,
- "position": 211,
- "rankingPositionChange": 1,
- "gloryPoint": 23898,
- "gloryPointChange": -29,
+ "position": 213,
+ "rankingPositionChange": -2,
+ "gloryPoint": 23920,
+ "gloryPointChange": 22,
  "soldierRankID": 13,
  "characterName": "Elcura",
  "guildName": "Souls of Darkness",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 23898,
    "gloryPointChange": -29,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 213,
+   "rankingPositionChange": -2,
+   "gloryPoint": 23920,
+   "gloryPointChange": 22,
    "soldierRankID": 13
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 1111250,
  "characterClassID": 4,
  "raceID": 1,
- "position": 630,
- "rankingPositionChange": 1,
- "gloryPoint": 5940,
- "gloryPointChange": -14,
+ "position": 680,
+ "rankingPositionChange": -50,
+ "gloryPoint": 6110,
+ "gloryPointChange": 170,
  "soldierRankID": 11,
- "characterName": "Shadowtale",
+ "characterName": "Sorcas",
+ "guildName": "U n i q u e   A s m o s",
+ "guildID": 26909,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -64,17 +66,34 @@
    "gloryPoint": 5940,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 680,
+   "rankingPositionChange": -50,
+   "gloryPoint": 6110,
+   "gloryPointChange": 170,
+   "soldierRankID": 11
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Shadowtale"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Sorcas"
   }
  ],
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "U n i q u e   A s m o s",
+   "guildID": 26909
   }
  ]
 }

@@ -3,13 +3,11 @@
  "characterClassID": 8,
  "raceID": 0,
  "position": 668,
- "rankingPositionChange": -3,
- "gloryPoint": 10598,
- "gloryPointChange": -14,
+ "rankingPositionChange": 0,
+ "gloryPoint": 10633,
+ "gloryPointChange": 35,
  "soldierRankID": 11,
  "characterName": "Heartfelt",
- "guildName": "Turk Army",
- "guildID": 13116,
  "status": [
   {
    "date": "2015-09-03T22:00:00.000Z",
@@ -34,6 +32,14 @@
    "gloryPoint": 10598,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 668,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10633,
+   "gloryPointChange": 35,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -47,6 +53,9 @@
    "date": "2015-09-03T22:00:00.000Z",
    "guildName": "Turk Army",
    "guildID": 13116
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

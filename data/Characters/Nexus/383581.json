@@ -2,10 +2,10 @@
  "characterID": 383581,
  "characterClassID": 8,
  "raceID": 1,
- "position": 794,
- "rankingPositionChange": 5,
- "gloryPoint": 12985,
- "gloryPointChange": 353,
+ "position": 793,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12971,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Renato",
  "guildName": "The Scroll Reaper",
@@ -193,6 +193,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 12985,
    "gloryPointChange": 353,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 793,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12971,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

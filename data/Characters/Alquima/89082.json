@@ -2,10 +2,10 @@
  "characterID": 89082,
  "characterClassID": 14,
  "raceID": 1,
- "position": 950,
- "rankingPositionChange": 0,
- "gloryPoint": 6116,
- "gloryPointChange": -7,
+ "position": 958,
+ "rankingPositionChange": -8,
+ "gloryPoint": 6102,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Mireille",
  "guildName": "SinLegion",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6116,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 958,
+   "rankingPositionChange": -8,
+   "gloryPoint": 6102,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

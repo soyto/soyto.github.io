@@ -2,10 +2,10 @@
  "characterID": 69194,
  "characterClassID": 4,
  "raceID": 1,
- "position": 477,
- "rankingPositionChange": -4,
- "gloryPoint": 30865,
- "gloryPointChange": -28,
+ "position": 476,
+ "rankingPositionChange": 1,
+ "gloryPoint": 30809,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Mindstorm",
  "status": [
@@ -175,6 +175,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 30865,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 476,
+   "rankingPositionChange": 1,
+   "gloryPoint": 30809,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

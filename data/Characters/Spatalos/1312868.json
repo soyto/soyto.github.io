@@ -2,14 +2,14 @@
  "characterID": 1312868,
  "characterClassID": 10,
  "raceID": 0,
- "position": 754,
- "rankingPositionChange": 3,
- "gloryPoint": 12434,
- "gloryPointChange": 179,
+ "position": 731,
+ "rankingPositionChange": 23,
+ "gloryPoint": 12909,
+ "gloryPointChange": 475,
  "soldierRankID": 10,
  "characterName": "Initatia",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "Death is Coming",
+ "guildID": 5721,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 12434,
    "gloryPointChange": 179,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 731,
+   "rankingPositionChange": 23,
+   "gloryPoint": 12909,
+   "gloryPointChange": 475,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Death is Coming",
+   "guildID": 5721
   }
  ]
 }

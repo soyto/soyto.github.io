@@ -2,10 +2,10 @@
  "characterID": 1023614,
  "characterClassID": 10,
  "raceID": 1,
- "position": 317,
- "rankingPositionChange": 0,
- "gloryPoint": 21611,
- "gloryPointChange": -28,
+ "position": 316,
+ "rankingPositionChange": 1,
+ "gloryPoint": 21555,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Auroya",
  "status": [
@@ -207,6 +207,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 21611,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": 1,
+   "gloryPoint": 21555,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

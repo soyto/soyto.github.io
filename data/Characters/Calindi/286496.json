@@ -2,14 +2,14 @@
  "characterID": 286496,
  "characterClassID": 11,
  "raceID": 0,
- "position": 34,
- "rankingPositionChange": -1,
- "gloryPoint": 160640,
- "gloryPointChange": 780,
+ "position": 33,
+ "rankingPositionChange": 1,
+ "gloryPoint": 162912,
+ "gloryPointChange": 2272,
  "soldierRankID": 14,
  "characterName": "Chiwa",
- "guildName": "FAT UGLY UNSKILL THAT U ARE",
- "guildID": 16079,
+ "guildName": "BLACKLIST",
+ "guildID": 12682,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 160640,
    "gloryPointChange": 780,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 33,
+   "rankingPositionChange": 1,
+   "gloryPoint": 162912,
+   "gloryPointChange": 2272,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "FAT UGLY UNSKILL THAT U ARE",
    "guildID": 16079
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "BLACKLIST",
+   "guildID": 12682
   }
  ]
 }

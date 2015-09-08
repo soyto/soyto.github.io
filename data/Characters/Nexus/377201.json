@@ -2,10 +2,10 @@
  "characterID": 377201,
  "characterClassID": 8,
  "raceID": 1,
- "position": 854,
- "rankingPositionChange": -8,
- "gloryPoint": 11166,
- "gloryPointChange": -7,
+ "position": 853,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11152,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Soka",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 11166,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 853,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11152,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

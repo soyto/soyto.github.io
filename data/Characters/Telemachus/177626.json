@@ -2,12 +2,14 @@
  "characterID": 177626,
  "characterClassID": 7,
  "raceID": 0,
- "position": 243,
- "rankingPositionChange": 0,
- "gloryPoint": 58812,
- "gloryPointChange": -49,
+ "position": 245,
+ "rankingPositionChange": -2,
+ "gloryPoint": 58823,
+ "gloryPointChange": 11,
  "soldierRankID": 13,
  "characterName": "Dragica",
+ "guildName": "H E L L A S",
+ "guildID": 4278,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 58812,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 245,
+   "rankingPositionChange": -2,
+   "gloryPoint": 58823,
+   "gloryPointChange": 11,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -308,6 +318,11 @@
   },
   {
    "date": "2015-08-14T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "H E L L A S",
+   "guildID": 4278
   }
  ]
 }

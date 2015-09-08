@@ -2,14 +2,12 @@
  "characterID": 751487,
  "characterClassID": 10,
  "raceID": 0,
- "position": 625,
- "rankingPositionChange": 0,
- "gloryPoint": 18669,
- "gloryPointChange": -14,
+ "position": 624,
+ "rankingPositionChange": 1,
+ "gloryPoint": 18644,
+ "gloryPointChange": -25,
  "soldierRankID": 11,
  "characterName": "Cutiepiee",
- "guildName": "I Outsiderz I",
- "guildID": 26291,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 18669,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 624,
+   "rankingPositionChange": 1,
+   "gloryPoint": 18644,
+   "gloryPointChange": -25,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -317,6 +323,9 @@
    "date": "2015-08-17T22:00:00.000Z",
    "guildName": "I Outsiderz I",
    "guildID": 26291
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

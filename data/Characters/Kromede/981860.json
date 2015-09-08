@@ -2,10 +2,10 @@
  "characterID": 981860,
  "characterClassID": 14,
  "raceID": 1,
- "position": 380,
- "rankingPositionChange": -1,
- "gloryPoint": 15985,
- "gloryPointChange": 148,
+ "position": 378,
+ "rankingPositionChange": 2,
+ "gloryPoint": 16285,
+ "gloryPointChange": 300,
  "soldierRankID": 12,
  "characterName": "Bullettime",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 15985,
    "gloryPointChange": 148,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 378,
+   "rankingPositionChange": 2,
+   "gloryPoint": 16285,
+   "gloryPointChange": 300,
    "soldierRankID": 12
   }
  ],

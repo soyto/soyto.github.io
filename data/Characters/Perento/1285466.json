@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 748,
- "rankingPositionChange": 1,
- "gloryPoint": 3397,
- "gloryPointChange": 3,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3383,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Barobia",
  "guildName": "D r a g o n B o r n",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 3397,
    "gloryPointChange": 3,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 748,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3383,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

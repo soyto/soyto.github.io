@@ -2,14 +2,12 @@
  "characterID": 943171,
  "characterClassID": 1,
  "raceID": 0,
- "position": 607,
- "rankingPositionChange": 0,
- "gloryPoint": 4962,
- "gloryPointChange": -14,
+ "position": 613,
+ "rankingPositionChange": -6,
+ "gloryPoint": 4934,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Impericon",
- "guildName": "Finalheaven",
- "guildID": 11342,
  "status": [
   {
    "date": "2015-08-28T22:00:00.000Z",
@@ -74,6 +72,14 @@
    "gloryPoint": 4962,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 613,
+   "rankingPositionChange": -6,
+   "gloryPoint": 4934,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -87,6 +93,9 @@
    "date": "2015-08-28T22:00:00.000Z",
    "guildName": "Finalheaven",
    "guildID": 11342
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

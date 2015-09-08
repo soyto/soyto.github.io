@@ -2,14 +2,12 @@
  "characterID": 1041284,
  "characterClassID": 7,
  "raceID": 0,
- "position": 566,
- "rankingPositionChange": 3,
- "gloryPoint": 12289,
- "gloryPointChange": 206,
+ "position": 561,
+ "rankingPositionChange": 5,
+ "gloryPoint": 12485,
+ "gloryPointChange": 196,
  "soldierRankID": 11,
  "characterName": "Anvera",
- "guildName": "Secretive",
- "guildID": 13242,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 12289,
    "gloryPointChange": 206,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 561,
+   "rankingPositionChange": 5,
+   "gloryPoint": 12485,
+   "gloryPointChange": 196,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Secretive",
    "guildID": 13242
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 1120382,
  "characterClassID": 2,
  "raceID": 1,
- "position": 178,
- "rankingPositionChange": 2,
- "gloryPoint": 30936,
- "gloryPointChange": 60,
+ "position": 180,
+ "rankingPositionChange": -2,
+ "gloryPoint": 31148,
+ "gloryPointChange": 212,
  "soldierRankID": 13,
  "characterName": "Rockwell",
  "guildName": "A       C       E",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 30936,
    "gloryPointChange": 60,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 180,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31148,
+   "gloryPointChange": 212,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 840955,
  "characterClassID": 16,
  "raceID": 0,
- "position": 966,
- "rankingPositionChange": 0,
- "gloryPoint": 1746,
- "gloryPointChange": 0,
+ "position": 972,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1732,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Cuulbard",
  "status": [
@@ -15,6 +15,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 1746,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 972,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1732,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

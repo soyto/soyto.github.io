@@ -2,10 +2,10 @@
  "characterID": 59321,
  "characterClassID": 8,
  "raceID": 0,
- "position": 90,
- "rankingPositionChange": 1,
- "gloryPoint": 100082,
- "gloryPointChange": 459,
+ "position": 91,
+ "rankingPositionChange": -1,
+ "gloryPoint": 100498,
+ "gloryPointChange": 416,
  "soldierRankID": 14,
  "characterName": "Karbafos",
  "guildName": "Asmodead",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 100082,
    "gloryPointChange": 459,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 91,
+   "rankingPositionChange": -1,
+   "gloryPoint": 100498,
+   "gloryPointChange": 416,
    "soldierRankID": 14
   }
  ],

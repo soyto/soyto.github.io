@@ -2,10 +2,10 @@
  "characterID": 854135,
  "characterClassID": 16,
  "raceID": 0,
- "position": 152,
- "rankingPositionChange": 2,
- "gloryPoint": 61826,
- "gloryPointChange": 441,
+ "position": 153,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61780,
+ "gloryPointChange": -46,
  "soldierRankID": 13,
  "characterName": "Lumturi",
  "guildName": "Thirteen Inches Unbuffed",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 61826,
    "gloryPointChange": 441,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 153,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61780,
+   "gloryPointChange": -46,
    "soldierRankID": 13
   }
  ],

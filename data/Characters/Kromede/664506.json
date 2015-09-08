@@ -2,10 +2,10 @@
  "characterID": 664506,
  "characterClassID": 10,
  "raceID": 1,
- "position": 622,
- "rankingPositionChange": 1,
- "gloryPoint": 7040,
- "gloryPointChange": 89,
+ "position": 627,
+ "rankingPositionChange": -5,
+ "gloryPoint": 7012,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Misatoo",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7040,
    "gloryPointChange": 89,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 627,
+   "rankingPositionChange": -5,
+   "gloryPoint": 7012,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

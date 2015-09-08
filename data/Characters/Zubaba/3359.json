@@ -2,10 +2,10 @@
  "characterID": 3359,
  "characterClassID": 1,
  "raceID": 0,
- "position": 304,
- "rankingPositionChange": 0,
- "gloryPoint": 32005,
- "gloryPointChange": 42,
+ "position": 305,
+ "rankingPositionChange": -1,
+ "gloryPoint": 31999,
+ "gloryPointChange": -6,
  "soldierRankID": 12,
  "characterName": "Eldarin",
  "guildName": "    A  L  P  H  A   ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 32005,
    "gloryPointChange": 42,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": -1,
+   "gloryPoint": 31999,
+   "gloryPointChange": -6,
    "soldierRankID": 12
   }
  ],

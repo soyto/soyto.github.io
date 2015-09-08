@@ -2,10 +2,10 @@
  "characterID": 491609,
  "characterClassID": 10,
  "raceID": 0,
- "position": 365,
- "rankingPositionChange": 1,
- "gloryPoint": 37305,
- "gloryPointChange": -28,
+ "position": 366,
+ "rankingPositionChange": -1,
+ "gloryPoint": 37249,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Yanala",
  "guildName": "Never Again",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 37305,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 366,
+   "rankingPositionChange": -1,
+   "gloryPoint": 37249,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

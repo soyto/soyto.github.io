@@ -2,10 +2,10 @@
  "characterID": 151235,
  "characterClassID": 1,
  "raceID": 1,
- "position": 79,
- "rankingPositionChange": -1,
- "gloryPoint": 91418,
- "gloryPointChange": -107,
+ "position": 78,
+ "rankingPositionChange": 1,
+ "gloryPoint": 91204,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Elowyn",
  "guildName": "I ve beated a dummy once",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 91418,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 78,
+   "rankingPositionChange": 1,
+   "gloryPoint": 91204,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

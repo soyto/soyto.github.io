@@ -2,10 +2,10 @@
  "characterID": 1212248,
  "characterClassID": 1,
  "raceID": 1,
- "position": 751,
- "rankingPositionChange": 0,
- "gloryPoint": 3360,
- "gloryPointChange": -7,
+ "position": 752,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3346,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Mapuczee",
  "guildName": "Prets",
@@ -209,6 +209,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 3360,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 752,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3346,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

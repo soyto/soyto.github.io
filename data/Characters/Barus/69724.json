@@ -2,10 +2,10 @@
  "characterID": 69724,
  "characterClassID": 14,
  "raceID": 0,
- "position": 885,
- "rankingPositionChange": 4,
- "gloryPoint": 12616,
- "gloryPointChange": -7,
+ "position": 890,
+ "rankingPositionChange": -5,
+ "gloryPoint": 12605,
+ "gloryPointChange": -11,
  "soldierRankID": 10,
  "characterName": "Marcelek",
  "guildName": "Not The League",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 12616,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 890,
+   "rankingPositionChange": -5,
+   "gloryPoint": 12605,
+   "gloryPointChange": -11,
    "soldierRankID": 10
   }
  ],

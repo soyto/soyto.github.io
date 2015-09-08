@@ -2,10 +2,10 @@
  "characterID": 915125,
  "characterClassID": 10,
  "raceID": 0,
- "position": 149,
- "rankingPositionChange": 0,
- "gloryPoint": 92479,
- "gloryPointChange": 4,
+ "position": 150,
+ "rankingPositionChange": -1,
+ "gloryPoint": 92404,
+ "gloryPointChange": -75,
  "soldierRankID": 13,
  "characterName": "Sparakyle",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 92479,
    "gloryPointChange": 4,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 150,
+   "rankingPositionChange": -1,
+   "gloryPoint": 92404,
+   "gloryPointChange": -75,
    "soldierRankID": 13
   }
  ],

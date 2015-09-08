@@ -2,10 +2,10 @@
  "characterID": 984928,
  "characterClassID": 1,
  "raceID": 1,
- "position": 360,
- "rankingPositionChange": -1,
- "gloryPoint": 6260,
- "gloryPointChange": -25,
+ "position": 354,
+ "rankingPositionChange": 6,
+ "gloryPoint": 6329,
+ "gloryPointChange": 69,
  "soldierRankID": 12,
  "characterName": "Saiki",
  "guildName": "The Dark Side of the Sun",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 6260,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 354,
+   "rankingPositionChange": 6,
+   "gloryPoint": 6329,
+   "gloryPointChange": 69,
    "soldierRankID": 12
   }
  ],

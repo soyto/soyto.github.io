@@ -2,14 +2,14 @@
  "characterID": 307699,
  "characterClassID": 8,
  "raceID": 0,
- "position": 455,
- "rankingPositionChange": 1,
- "gloryPoint": 27214,
- "gloryPointChange": -28,
+ "position": 450,
+ "rankingPositionChange": 5,
+ "gloryPoint": 27708,
+ "gloryPointChange": 494,
  "soldierRankID": 12,
  "characterName": "Selaniel",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 27214,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": 5,
+   "gloryPoint": 27708,
+   "gloryPointChange": 494,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

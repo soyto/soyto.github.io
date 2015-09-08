@@ -2,10 +2,10 @@
  "characterID": 1124686,
  "characterClassID": 16,
  "raceID": 0,
- "position": 488,
- "rankingPositionChange": 1,
- "gloryPoint": 19021,
- "gloryPointChange": 26,
+ "position": 492,
+ "rankingPositionChange": -4,
+ "gloryPoint": 18965,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Clitemnestra",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 19021,
    "gloryPointChange": 26,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 492,
+   "rankingPositionChange": -4,
+   "gloryPoint": 18965,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

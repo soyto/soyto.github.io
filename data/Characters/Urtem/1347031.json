@@ -2,14 +2,12 @@
  "characterID": 1347031,
  "characterClassID": 16,
  "raceID": 1,
- "position": 529,
- "rankingPositionChange": -3,
- "gloryPoint": 17388,
- "gloryPointChange": -14,
+ "position": 533,
+ "rankingPositionChange": -4,
+ "gloryPoint": 17360,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Crica",
- "guildName": "A D V",
- "guildID": 38135,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 17388,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 533,
+   "rankingPositionChange": -4,
+   "gloryPoint": 17360,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "A D V",
    "guildID": 38135
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

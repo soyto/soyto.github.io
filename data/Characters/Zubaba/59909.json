@@ -2,10 +2,10 @@
  "characterID": 59909,
  "characterClassID": 5,
  "raceID": 1,
- "position": 769,
- "rankingPositionChange": -5,
- "gloryPoint": 3061,
- "gloryPointChange": -7,
+ "position": 768,
+ "rankingPositionChange": 1,
+ "gloryPoint": 3047,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Orka",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 3061,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 768,
+   "rankingPositionChange": 1,
+   "gloryPoint": 3047,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

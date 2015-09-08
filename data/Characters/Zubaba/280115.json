@@ -2,12 +2,14 @@
  "characterID": 280115,
  "characterClassID": 5,
  "raceID": 0,
- "position": 985,
- "rankingPositionChange": 2,
- "gloryPoint": 2841,
- "gloryPointChange": 27,
+ "position": 962,
+ "rankingPositionChange": 23,
+ "gloryPoint": 3021,
+ "gloryPointChange": 180,
  "soldierRankID": 10,
  "characterName": "Juu",
+ "guildName": "Noobs",
+ "guildID": 6913,
  "status": [
   {
    "date": "2015-09-04T22:00:00.000Z",
@@ -24,6 +26,14 @@
    "gloryPoint": 2841,
    "gloryPointChange": 27,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 962,
+   "rankingPositionChange": 23,
+   "gloryPoint": 3021,
+   "gloryPointChange": 180,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -35,6 +45,11 @@
  "guilds": [
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Noobs",
+   "guildID": 6913
   }
  ]
 }

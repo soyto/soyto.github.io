@@ -2,14 +2,12 @@
  "characterID": 944357,
  "characterClassID": 14,
  "raceID": 1,
- "position": 446,
- "rankingPositionChange": -2,
- "gloryPoint": 11952,
- "gloryPointChange": -28,
+ "position": 449,
+ "rankingPositionChange": -3,
+ "gloryPoint": 11896,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Tescut",
- "guildName": "Shades of Phoenix",
- "guildID": 7918,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 11952,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 449,
+   "rankingPositionChange": -3,
+   "gloryPoint": 11896,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Shades of Phoenix",
    "guildID": 7918
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

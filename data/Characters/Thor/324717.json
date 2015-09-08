@@ -2,10 +2,10 @@
  "characterID": 324717,
  "characterClassID": 4,
  "raceID": 0,
- "position": 348,
- "rankingPositionChange": 0,
- "gloryPoint": 53624,
- "gloryPointChange": -28,
+ "position": 349,
+ "rankingPositionChange": -1,
+ "gloryPoint": 53568,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Pantherica",
  "guildName": " From Hell ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 53624,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 349,
+   "rankingPositionChange": -1,
+   "gloryPoint": 53568,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

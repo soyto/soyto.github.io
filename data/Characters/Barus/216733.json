@@ -2,12 +2,14 @@
  "characterID": 216733,
  "characterClassID": 8,
  "raceID": 0,
- "position": 519,
- "rankingPositionChange": -1,
- "gloryPoint": 27409,
- "gloryPointChange": -14,
+ "position": 522,
+ "rankingPositionChange": -3,
+ "gloryPoint": 27381,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Givr",
+ "guildName": "Liberation",
+ "guildID": 11606,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 27409,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 522,
+   "rankingPositionChange": -3,
+   "gloryPoint": 27381,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Liberation",
+   "guildID": 11606
   }
  ]
 }

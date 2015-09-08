@@ -2,10 +2,10 @@
  "characterID": 6522,
  "characterClassID": 8,
  "raceID": 0,
- "position": 252,
- "rankingPositionChange": -1,
- "gloryPoint": 15268,
- "gloryPointChange": -49,
+ "position": 251,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15270,
+ "gloryPointChange": 2,
  "soldierRankID": 13,
  "characterName": "Vaski",
  "guildName": "Nanatsu no Taizai",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 15268,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 251,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15270,
+   "gloryPointChange": 2,
    "soldierRankID": 13
   }
  ],

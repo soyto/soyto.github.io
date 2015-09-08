@@ -2,10 +2,10 @@
  "characterID": 896225,
  "characterClassID": 8,
  "raceID": 1,
- "position": 249,
- "rankingPositionChange": 0,
- "gloryPoint": 29441,
- "gloryPointChange": -49,
+ "position": 250,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29343,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Technokampfkeks",
  "guildName": "Senketsu",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 29441,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 250,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29343,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1019792,
  "characterClassID": 11,
  "raceID": 1,
- "position": 566,
- "rankingPositionChange": -2,
- "gloryPoint": 13197,
- "gloryPointChange": -14,
+ "position": 565,
+ "rankingPositionChange": 1,
+ "gloryPoint": 13339,
+ "gloryPointChange": 142,
  "soldierRankID": 11,
  "characterName": "Necureuil",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 13197,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 565,
+   "rankingPositionChange": 1,
+   "gloryPoint": 13339,
+   "gloryPointChange": 142,
    "soldierRankID": 11
   }
  ],

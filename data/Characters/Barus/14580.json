@@ -2,10 +2,10 @@
  "characterID": 14580,
  "characterClassID": 10,
  "raceID": 1,
- "position": 649,
- "rankingPositionChange": 8,
- "gloryPoint": 20280,
- "gloryPointChange": 436,
+ "position": 654,
+ "rankingPositionChange": -5,
+ "gloryPoint": 20252,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Rhiannon",
  "guildName": "DevastatioN",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 20280,
    "gloryPointChange": 436,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 654,
+   "rankingPositionChange": -5,
+   "gloryPoint": 20252,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

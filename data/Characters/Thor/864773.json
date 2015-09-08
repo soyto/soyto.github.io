@@ -2,10 +2,10 @@
  "characterID": 864773,
  "characterClassID": 2,
  "raceID": 1,
- "position": 66,
- "rankingPositionChange": 0,
- "gloryPoint": 159941,
- "gloryPointChange": 962,
+ "position": 67,
+ "rankingPositionChange": -1,
+ "gloryPoint": 160246,
+ "gloryPointChange": 305,
  "soldierRankID": 14,
  "characterName": "Shilvi",
  "guildName": "Symphony of Desolation",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 159941,
    "gloryPointChange": 962,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 67,
+   "rankingPositionChange": -1,
+   "gloryPoint": 160246,
+   "gloryPointChange": 305,
    "soldierRankID": 14
   }
  ],

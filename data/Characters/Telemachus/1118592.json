@@ -2,14 +2,14 @@
  "characterID": 1118592,
  "characterClassID": 2,
  "raceID": 1,
- "position": 192,
- "rankingPositionChange": 2,
- "gloryPoint": 27636,
- "gloryPointChange": -49,
+ "position": 189,
+ "rankingPositionChange": 3,
+ "gloryPoint": 27798,
+ "gloryPointChange": 162,
  "soldierRankID": 13,
  "characterName": "Sharllin",
- "guildName": "Black Listed",
- "guildID": 25761,
+ "guildName": "AzzOOOZ",
+ "guildID": 25917,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 27636,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 189,
+   "rankingPositionChange": 3,
+   "gloryPoint": 27798,
+   "gloryPointChange": 162,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Black Listed",
    "guildID": 25761
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "AzzOOOZ",
+   "guildID": 25917
   }
  ]
 }

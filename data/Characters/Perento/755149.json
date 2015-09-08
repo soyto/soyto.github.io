@@ -2,10 +2,10 @@
  "characterID": 755149,
  "characterClassID": 5,
  "raceID": 0,
- "position": 964,
- "rankingPositionChange": 14,
- "gloryPoint": 5051,
- "gloryPointChange": 161,
+ "position": 957,
+ "rankingPositionChange": 7,
+ "gloryPoint": 5037,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Bloodarcher",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 14,
    "gloryPoint": 5051,
    "gloryPointChange": 161,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 957,
+   "rankingPositionChange": 7,
+   "gloryPoint": 5037,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 133992,
  "characterClassID": 16,
  "raceID": 0,
- "position": 925,
- "rankingPositionChange": 0,
- "gloryPoint": 3442,
- "gloryPointChange": -7,
+ "position": 926,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3428,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Eslim",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 3442,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3428,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

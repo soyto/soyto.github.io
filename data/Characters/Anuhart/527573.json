@@ -2,10 +2,10 @@
  "characterID": 527573,
  "characterClassID": 2,
  "raceID": 1,
- "position": 17,
- "rankingPositionChange": 0,
- "gloryPoint": 315679,
- "gloryPointChange": 791,
+ "position": 18,
+ "rankingPositionChange": -1,
+ "gloryPoint": 316731,
+ "gloryPointChange": 1052,
  "soldierRankID": 15,
  "characterName": "Eiren",
  "guildName": "StorM",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 315679,
    "gloryPointChange": 791,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 18,
+   "rankingPositionChange": -1,
+   "gloryPoint": 316731,
+   "gloryPointChange": 1052,
    "soldierRankID": 15
   }
  ],

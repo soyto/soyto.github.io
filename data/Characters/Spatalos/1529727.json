@@ -2,10 +2,10 @@
  "characterID": 1529727,
  "characterClassID": 14,
  "raceID": 1,
- "position": 503,
- "rankingPositionChange": 0,
- "gloryPoint": 7948,
- "gloryPointChange": 86,
+ "position": 505,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7920,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Hakkarisaki",
  "guildName": "Munin Stole My Bike",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 7948,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 505,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7920,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1840,
  "characterClassID": 14,
  "raceID": 1,
- "position": 959,
- "rankingPositionChange": -4,
- "gloryPoint": 1274,
- "gloryPointChange": -7,
+ "position": 956,
+ "rankingPositionChange": 3,
+ "gloryPoint": 1260,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Nemesis",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 1274,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 956,
+   "rankingPositionChange": 3,
+   "gloryPoint": 1260,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

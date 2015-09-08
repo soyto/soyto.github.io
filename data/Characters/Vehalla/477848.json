@@ -2,10 +2,10 @@
  "characterID": 477848,
  "characterClassID": 16,
  "raceID": 1,
- "position": 626,
- "rankingPositionChange": 5,
- "gloryPoint": 1339,
- "gloryPointChange": 13,
+ "position": 630,
+ "rankingPositionChange": -4,
+ "gloryPoint": 1325,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Alaskax",
  "guildName": "Nocturna",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 1339,
    "gloryPointChange": 13,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 630,
+   "rankingPositionChange": -4,
+   "gloryPoint": 1325,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

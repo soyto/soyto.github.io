@@ -2,10 +2,10 @@
  "characterID": 435102,
  "characterClassID": 5,
  "raceID": 0,
- "position": 907,
- "rankingPositionChange": 3,
- "gloryPoint": 1949,
- "gloryPointChange": 40,
+ "position": 909,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1935,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Goldensnake",
  "guildName": "Mahaney",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 1949,
    "gloryPointChange": 40,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 909,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1935,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

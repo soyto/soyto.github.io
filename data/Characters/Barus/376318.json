@@ -2,12 +2,14 @@
  "characterID": 376318,
  "characterClassID": 2,
  "raceID": 1,
- "position": 306,
- "rankingPositionChange": -2,
- "gloryPoint": 50182,
- "gloryPointChange": 5,
+ "position": 305,
+ "rankingPositionChange": 1,
+ "gloryPoint": 50581,
+ "gloryPointChange": 399,
  "soldierRankID": 12,
  "characterName": "Skrzatonix",
+ "guildName": "Nieskalani",
+ "guildID": 2964,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 50182,
    "gloryPointChange": 5,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 305,
+   "rankingPositionChange": 1,
+   "gloryPoint": 50581,
+   "gloryPointChange": 399,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Nieskalani",
+   "guildID": 2964
   }
  ]
 }

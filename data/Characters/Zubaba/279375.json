@@ -2,10 +2,10 @@
  "characterID": 279375,
  "characterClassID": 10,
  "raceID": 0,
- "position": 791,
- "rankingPositionChange": 0,
- "gloryPoint": 5619,
- "gloryPointChange": -7,
+ "position": 790,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5605,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Blob",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5619,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 790,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5605,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

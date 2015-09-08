@@ -2,10 +2,10 @@
  "characterID": 86330,
  "characterClassID": 1,
  "raceID": 1,
- "position": 551,
- "rankingPositionChange": 5,
- "gloryPoint": 14427,
- "gloryPointChange": 262,
+ "position": 556,
+ "rankingPositionChange": -5,
+ "gloryPoint": 14486,
+ "gloryPointChange": 59,
  "soldierRankID": 11,
  "characterName": "Daegul",
  "guildName": "Dark Einhasad",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 14427,
    "gloryPointChange": 262,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 556,
+   "rankingPositionChange": -5,
+   "gloryPoint": 14486,
+   "gloryPointChange": 59,
    "soldierRankID": 11
   }
  ],

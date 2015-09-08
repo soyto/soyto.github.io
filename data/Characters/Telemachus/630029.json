@@ -2,10 +2,10 @@
  "characterID": 630029,
  "characterClassID": 11,
  "raceID": 1,
- "position": 380,
- "rankingPositionChange": 3,
- "gloryPoint": 7300,
- "gloryPointChange": 34,
+ "position": 381,
+ "rankingPositionChange": -1,
+ "gloryPoint": 7325,
+ "gloryPointChange": 25,
  "soldierRankID": 12,
  "characterName": "Lifeowner",
  "guildName": " BullDogs ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 7300,
    "gloryPointChange": 34,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 381,
+   "rankingPositionChange": -1,
+   "gloryPoint": 7325,
+   "gloryPointChange": 25,
    "soldierRankID": 12
   }
  ],

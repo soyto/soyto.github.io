@@ -2,14 +2,12 @@
  "characterID": 259292,
  "characterClassID": 1,
  "raceID": 0,
- "position": 385,
- "rankingPositionChange": 1,
- "gloryPoint": 31007,
- "gloryPointChange": 213,
+ "position": 379,
+ "rankingPositionChange": 6,
+ "gloryPoint": 31468,
+ "gloryPointChange": 461,
  "soldierRankID": 12,
  "characterName": "Lonty",
- "guildName": "Velo Nocturno",
- "guildID": 13723,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 31007,
    "gloryPointChange": 213,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 379,
+   "rankingPositionChange": 6,
+   "gloryPoint": 31468,
+   "gloryPointChange": 461,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -308,6 +314,9 @@
    "date": "2015-09-04T22:00:00.000Z",
    "guildName": "Velo Nocturno",
    "guildID": 13723
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

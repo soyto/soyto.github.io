@@ -2,10 +2,10 @@
  "characterID": 1889,
  "characterClassID": 2,
  "raceID": 0,
- "position": 897,
- "rankingPositionChange": -1,
- "gloryPoint": 3802,
- "gloryPointChange": -7,
+ "position": 895,
+ "rankingPositionChange": 2,
+ "gloryPoint": 3788,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Halljordan",
  "status": [
@@ -239,6 +239,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 3802,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 895,
+   "rankingPositionChange": 2,
+   "gloryPoint": 3788,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

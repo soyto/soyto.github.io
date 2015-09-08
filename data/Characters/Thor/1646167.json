@@ -2,12 +2,14 @@
  "characterID": 1646167,
  "characterClassID": 13,
  "raceID": 1,
- "position": 834,
- "rankingPositionChange": -4,
- "gloryPoint": 14427,
- "gloryPointChange": 12,
+ "position": 812,
+ "rankingPositionChange": 22,
+ "gloryPoint": 14877,
+ "gloryPointChange": 450,
  "soldierRankID": 10,
  "characterName": "Kayuchan",
+ "guildName": "Old Dirty Basterdz",
+ "guildID": 16824,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 14427,
    "gloryPointChange": 12,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": 22,
+   "gloryPoint": 14877,
+   "gloryPointChange": 450,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -316,6 +326,11 @@
   },
   {
    "date": "2015-08-30T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Old Dirty Basterdz",
+   "guildID": 16824
   }
  ]
 }

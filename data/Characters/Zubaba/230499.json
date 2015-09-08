@@ -2,14 +2,14 @@
  "characterID": 230499,
  "characterClassID": 1,
  "raceID": 1,
- "position": 761,
- "rankingPositionChange": 11,
- "gloryPoint": 3125,
- "gloryPointChange": 213,
+ "position": 724,
+ "rankingPositionChange": 37,
+ "gloryPoint": 3432,
+ "gloryPointChange": 307,
  "soldierRankID": 10,
  "characterName": "Malefix",
- "guildName": "Black or White",
- "guildID": 6042,
+ "guildName": "Smile",
+ "guildID": 6395,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 3125,
    "gloryPointChange": 213,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 724,
+   "rankingPositionChange": 37,
+   "gloryPoint": 3432,
+   "gloryPointChange": 307,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -308,6 +316,11 @@
    "date": "2015-09-02T22:00:00.000Z",
    "guildName": "Black or White",
    "guildID": 6042
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Smile",
+   "guildID": 6395
   }
  ]
 }

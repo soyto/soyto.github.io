@@ -2,10 +2,10 @@
  "characterID": 1395970,
  "characterClassID": 7,
  "raceID": 1,
- "position": 224,
- "rankingPositionChange": 0,
- "gloryPoint": 48984,
- "gloryPointChange": 285,
+ "position": 225,
+ "rankingPositionChange": -1,
+ "gloryPoint": 48886,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Ryzeel",
  "guildName": " Requiem ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 48984,
    "gloryPointChange": 285,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 225,
+   "rankingPositionChange": -1,
+   "gloryPoint": 48886,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

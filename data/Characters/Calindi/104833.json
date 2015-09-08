@@ -2,11 +2,11 @@
  "characterID": 104833,
  "characterClassID": 4,
  "raceID": 1,
- "position": 217,
- "rankingPositionChange": 0,
- "gloryPoint": 3084,
- "gloryPointChange": 54,
- "soldierRankID": 13,
+ "position": 218,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3017,
+ "gloryPointChange": -67,
+ "soldierRankID": 12,
  "characterName": "Makkuro",
  "guildName": "Consumpti Oath",
  "guildID": 6976,
@@ -290,6 +290,14 @@
    "gloryPoint": 3084,
    "gloryPointChange": 54,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 218,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3017,
+   "gloryPointChange": -67,
+   "soldierRankID": 12
   }
  ],
  "names": [

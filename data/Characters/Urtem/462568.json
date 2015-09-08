@@ -2,10 +2,10 @@
  "characterID": 462568,
  "characterClassID": 4,
  "raceID": 1,
- "position": 107,
- "rankingPositionChange": 0,
- "gloryPoint": 82997,
- "gloryPointChange": 351,
+ "position": 110,
+ "rankingPositionChange": -3,
+ "gloryPoint": 82914,
+ "gloryPointChange": -83,
  "soldierRankID": 13,
  "characterName": "Prash",
  "guildName": "back in your pnj",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 82997,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 110,
+   "rankingPositionChange": -3,
+   "gloryPoint": 82914,
+   "gloryPointChange": -83,
    "soldierRankID": 13
   }
  ],

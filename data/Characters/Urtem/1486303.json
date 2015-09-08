@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 993,
- "rankingPositionChange": 7,
- "gloryPoint": 6852,
- "gloryPointChange": 138,
+ "rankingPositionChange": 0,
+ "gloryPoint": 6838,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Zhing",
  "status": [
@@ -63,6 +63,14 @@
    "rankingPositionChange": 7,
    "gloryPoint": 6852,
    "gloryPointChange": 138,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 993,
+   "rankingPositionChange": 0,
+   "gloryPoint": 6838,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

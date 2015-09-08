@@ -2,12 +2,14 @@
  "characterID": 1349553,
  "characterClassID": 1,
  "raceID": 1,
- "position": 254,
- "rankingPositionChange": -1,
- "gloryPoint": 24414,
- "gloryPointChange": 504,
+ "position": 253,
+ "rankingPositionChange": 1,
+ "gloryPoint": 24587,
+ "gloryPointChange": 173,
  "soldierRankID": 13,
  "characterName": "Darkmoving",
+ "guildName": "Ainz Ooal Gown",
+ "guildID": 30427,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 24414,
    "gloryPointChange": 504,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 253,
+   "rankingPositionChange": 1,
+   "gloryPoint": 24587,
+   "gloryPointChange": 173,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-12T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Ainz Ooal Gown",
+   "guildID": 30427
   }
  ]
 }

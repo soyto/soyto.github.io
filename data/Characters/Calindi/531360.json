@@ -2,14 +2,14 @@
  "characterID": 531360,
  "characterClassID": 14,
  "raceID": 1,
- "position": 271,
- "rankingPositionChange": -5,
- "gloryPoint": 1689,
- "gloryPointChange": -14,
+ "position": 270,
+ "rankingPositionChange": 1,
+ "gloryPoint": 1661,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Laselia",
- "guildName": "Chasseurs de Foudre",
- "guildID": 13938,
+ "guildName": "Happy Burstday",
+ "guildID": 15410,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 1689,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 270,
+   "rankingPositionChange": 1,
+   "gloryPoint": 1661,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -306,6 +314,11 @@
    "date": "2015-08-30T22:00:00.000Z",
    "guildName": "Chasseurs de Foudre",
    "guildID": 13938
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Happy Burstday",
+   "guildID": 15410
   }
  ]
 }

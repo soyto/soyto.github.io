@@ -2,10 +2,10 @@
  "characterID": 527219,
  "characterClassID": 11,
  "raceID": 1,
- "position": 280,
- "rankingPositionChange": 16,
- "gloryPoint": 1535,
- "gloryPointChange": 172,
+ "position": 281,
+ "rankingPositionChange": -1,
+ "gloryPoint": 1507,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Kiritsu",
  "guildName": "La Fureur Asmodienne",
@@ -89,6 +89,14 @@
    "rankingPositionChange": 16,
    "gloryPoint": 1535,
    "gloryPointChange": 172,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 281,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1507,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

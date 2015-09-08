@@ -2,10 +2,10 @@
  "characterID": 370706,
  "characterClassID": 8,
  "raceID": 1,
- "position": 518,
- "rankingPositionChange": 1,
- "gloryPoint": 1729,
- "gloryPointChange": 36,
+ "position": 520,
+ "rankingPositionChange": -2,
+ "gloryPoint": 1701,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Ritzenschwitzer",
  "guildName": "Bis es klatscht",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 1729,
    "gloryPointChange": 36,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 520,
+   "rankingPositionChange": -2,
+   "gloryPoint": 1701,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

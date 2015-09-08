@@ -2,10 +2,10 @@
  "characterID": 839609,
  "characterClassID": 10,
  "raceID": 1,
- "position": 189,
- "rankingPositionChange": 1,
- "gloryPoint": 54517,
- "gloryPointChange": 51,
+ "position": 190,
+ "rankingPositionChange": -1,
+ "gloryPoint": 54479,
+ "gloryPointChange": -38,
  "soldierRankID": 13,
  "characterName": "Blusche",
  "guildName": "Black Winged Devils",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 54517,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 190,
+   "rankingPositionChange": -1,
+   "gloryPoint": 54479,
+   "gloryPointChange": -38,
    "soldierRankID": 13
   }
  ],

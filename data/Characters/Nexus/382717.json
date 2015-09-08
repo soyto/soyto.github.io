@@ -2,10 +2,10 @@
  "characterID": 382717,
  "characterClassID": 7,
  "raceID": 1,
- "position": 132,
- "rankingPositionChange": 0,
- "gloryPoint": 106639,
- "gloryPointChange": 126,
+ "position": 133,
+ "rankingPositionChange": -1,
+ "gloryPoint": 106968,
+ "gloryPointChange": 329,
  "soldierRankID": 13,
  "characterName": "Irmina",
  "guildName": "Starset",
@@ -241,6 +241,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 106639,
    "gloryPointChange": 126,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 133,
+   "rankingPositionChange": -1,
+   "gloryPoint": 106968,
+   "gloryPointChange": 329,
    "soldierRankID": 13
   }
  ],

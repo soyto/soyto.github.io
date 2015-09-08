@@ -2,10 +2,10 @@
  "characterID": 974898,
  "characterClassID": 13,
  "raceID": 1,
- "position": 326,
- "rankingPositionChange": 0,
- "gloryPoint": 8016,
- "gloryPointChange": 127,
+ "position": 324,
+ "rankingPositionChange": 2,
+ "gloryPoint": 8006,
+ "gloryPointChange": -10,
  "soldierRankID": 12,
  "characterName": "Chuco",
  "guildName": "Surdi Slayer",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8016,
    "gloryPointChange": 127,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 324,
+   "rankingPositionChange": 2,
+   "gloryPoint": 8006,
+   "gloryPointChange": -10,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1277368,
  "characterClassID": 11,
  "raceID": 1,
- "position": 851,
- "rankingPositionChange": 4,
- "gloryPoint": 2318,
- "gloryPointChange": 53,
+ "position": 846,
+ "rankingPositionChange": 5,
+ "gloryPoint": 2314,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Upsyoudead",
  "guildName": "Sprawl",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 2318,
    "gloryPointChange": 53,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 846,
+   "rankingPositionChange": 5,
+   "gloryPoint": 2314,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

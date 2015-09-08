@@ -2,14 +2,14 @@
  "characterID": 624355,
  "characterClassID": 5,
  "raceID": 0,
- "position": 680,
- "rankingPositionChange": 1,
- "gloryPoint": 20252,
- "gloryPointChange": 46,
+ "position": 689,
+ "rankingPositionChange": -9,
+ "gloryPoint": 20277,
+ "gloryPointChange": 25,
  "soldierRankID": 11,
  "characterName": "Nedii",
- "guildName": "Gildia Poszukiwaczy Przygody",
- "guildID": 11240,
+ "guildName": "Biale Wilki",
+ "guildID": 11618,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 20252,
    "gloryPointChange": 46,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 689,
+   "rankingPositionChange": -9,
+   "gloryPoint": 20277,
+   "gloryPointChange": 25,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -314,6 +322,11 @@
    "date": "2015-08-21T22:00:00.000Z",
    "guildName": "Gildia Poszukiwaczy Przygody",
    "guildID": 11240
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Biale Wilki",
+   "guildID": 11618
   }
  ]
 }

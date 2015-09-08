@@ -2,10 +2,10 @@
  "characterID": 814993,
  "characterClassID": 10,
  "raceID": 1,
- "position": 280,
- "rankingPositionChange": 10,
- "gloryPoint": 61961,
- "gloryPointChange": 2110,
+ "position": 282,
+ "rankingPositionChange": -2,
+ "gloryPoint": 61913,
+ "gloryPointChange": -48,
  "soldierRankID": 13,
  "characterName": "Morfia",
  "guildName": "SmaIIGods",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 61961,
    "gloryPointChange": 2110,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 282,
+   "rankingPositionChange": -2,
+   "gloryPoint": 61913,
+   "gloryPointChange": -48,
    "soldierRankID": 13
   }
  ],

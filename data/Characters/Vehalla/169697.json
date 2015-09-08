@@ -2,14 +2,14 @@
  "characterID": 169697,
  "characterClassID": 11,
  "raceID": 1,
- "position": 586,
- "rankingPositionChange": -7,
- "gloryPoint": 1428,
- "gloryPointChange": -14,
+ "position": 557,
+ "rankingPositionChange": 29,
+ "gloryPoint": 1514,
+ "gloryPointChange": 86,
  "soldierRankID": 11,
  "characterName": "Milliane",
- "guildName": "Rosa Hoppelhasen",
- "guildID": 5514,
+ "guildName": " Kappa ",
+ "guildID": 15668,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 1428,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 557,
+   "rankingPositionChange": 29,
+   "gloryPoint": 1514,
+   "gloryPointChange": 86,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Rosa Hoppelhasen",
    "guildID": 5514
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " Kappa ",
+   "guildID": 15668
   }
  ]
 }

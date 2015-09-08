@@ -2,10 +2,10 @@
  "characterID": 452990,
  "characterClassID": 11,
  "raceID": 1,
- "position": 917,
- "rankingPositionChange": -10,
- "gloryPoint": 2041,
- "gloryPointChange": -7,
+ "position": 911,
+ "rankingPositionChange": 6,
+ "gloryPoint": 2027,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Osir",
  "guildName": "Holysinners",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -10,
    "gloryPoint": 2041,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 911,
+   "rankingPositionChange": 6,
+   "gloryPoint": 2027,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

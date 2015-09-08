@@ -2,14 +2,12 @@
  "characterID": 298135,
  "characterClassID": 10,
  "raceID": 0,
- "position": 162,
- "rankingPositionChange": -1,
- "gloryPoint": 95166,
- "gloryPointChange": 83,
+ "position": 160,
+ "rankingPositionChange": 2,
+ "gloryPoint": 95233,
+ "gloryPointChange": 67,
  "soldierRankID": 13,
  "characterName": "Hiruki",
- "guildName": "Upset",
- "guildID": 6697,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 95166,
    "gloryPointChange": 83,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 160,
+   "rankingPositionChange": 2,
+   "gloryPoint": 95233,
+   "gloryPointChange": 67,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -321,6 +327,9 @@
    "date": "2015-08-22T22:00:00.000Z",
    "guildName": "Upset",
    "guildID": 6697
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

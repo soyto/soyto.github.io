@@ -2,10 +2,10 @@
  "characterID": 90926,
  "characterClassID": 1,
  "raceID": 0,
- "position": 762,
- "rankingPositionChange": 0,
- "gloryPoint": 6320,
- "gloryPointChange": -7,
+ "position": 759,
+ "rankingPositionChange": 3,
+ "gloryPoint": 6306,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Brujah",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 6320,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 759,
+   "rankingPositionChange": 3,
+   "gloryPoint": 6306,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

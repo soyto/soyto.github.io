@@ -2,10 +2,10 @@
  "characterID": 311378,
  "characterClassID": 10,
  "raceID": 0,
- "position": 455,
- "rankingPositionChange": -3,
- "gloryPoint": 16889,
- "gloryPointChange": -28,
+ "position": 452,
+ "rankingPositionChange": 3,
+ "gloryPoint": 17182,
+ "gloryPointChange": 293,
  "soldierRankID": 12,
  "characterName": "Lorelai",
  "guildName": "The Ironborn",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 16889,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 452,
+   "rankingPositionChange": 3,
+   "gloryPoint": 17182,
+   "gloryPointChange": 293,
    "soldierRankID": 12
   }
  ],

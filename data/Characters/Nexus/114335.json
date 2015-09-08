@@ -2,10 +2,10 @@
  "characterID": 114335,
  "characterClassID": 11,
  "raceID": 0,
- "position": 131,
- "rankingPositionChange": 1,
- "gloryPoint": 75595,
- "gloryPointChange": -49,
+ "position": 132,
+ "rankingPositionChange": -1,
+ "gloryPoint": 75607,
+ "gloryPointChange": 12,
  "soldierRankID": 13,
  "characterName": "Padreco",
  "guildName": "HellsArmy",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 75595,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -1,
+   "gloryPoint": 75607,
+   "gloryPointChange": 12,
    "soldierRankID": 13
   }
  ],

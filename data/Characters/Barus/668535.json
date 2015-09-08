@@ -2,10 +2,10 @@
  "characterID": 668535,
  "characterClassID": 10,
  "raceID": 1,
- "position": 656,
- "rankingPositionChange": 13,
- "gloryPoint": 19870,
- "gloryPointChange": 601,
+ "position": 657,
+ "rankingPositionChange": -1,
+ "gloryPoint": 20042,
+ "gloryPointChange": 172,
  "soldierRankID": 11,
  "characterName": "Astreya",
  "guildName": "Equillibrium",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 19870,
    "gloryPointChange": 601,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 657,
+   "rankingPositionChange": -1,
+   "gloryPoint": 20042,
+   "gloryPointChange": 172,
    "soldierRankID": 11
   }
  ],

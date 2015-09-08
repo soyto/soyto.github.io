@@ -2,12 +2,12 @@
  "characterID": 214055,
  "characterClassID": 8,
  "raceID": 0,
- "position": 430,
- "rankingPositionChange": 2,
- "gloryPoint": 19225,
- "gloryPointChange": 179,
+ "position": 420,
+ "rankingPositionChange": 10,
+ "gloryPoint": 19691,
+ "gloryPointChange": 466,
  "soldierRankID": 12,
- "characterName": "Aylout",
+ "characterName": "Adrian",
  "guildName": "The Order",
  "guildID": 5668,
  "status": [
@@ -290,12 +290,24 @@
    "gloryPoint": 19225,
    "gloryPointChange": 179,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 420,
+   "rankingPositionChange": 10,
+   "gloryPoint": 19691,
+   "gloryPointChange": 466,
+   "soldierRankID": 12
   }
  ],
  "names": [
   {
    "date": "2015-07-31T22:00:00.000Z",
    "characterName": "Aylout"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "characterName": "Adrian"
   }
  ],
  "guilds": [

@@ -2,10 +2,10 @@
  "characterID": 2245,
  "characterClassID": 11,
  "raceID": 0,
- "position": 52,
- "rankingPositionChange": 0,
- "gloryPoint": 145227,
- "gloryPointChange": 309,
+ "position": 53,
+ "rankingPositionChange": -1,
+ "gloryPoint": 145774,
+ "gloryPointChange": 547,
  "soldierRankID": 14,
  "characterName": "Lin",
  "guildName": "ModernFamily",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 145227,
    "gloryPointChange": 309,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 53,
+   "rankingPositionChange": -1,
+   "gloryPoint": 145774,
+   "gloryPointChange": 547,
    "soldierRankID": 14
   }
  ],

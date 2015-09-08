@@ -2,14 +2,12 @@
  "characterID": 1527618,
  "characterClassID": 13,
  "raceID": 1,
- "position": 839,
- "rankingPositionChange": -8,
- "gloryPoint": 9216,
- "gloryPointChange": -7,
+ "position": 841,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9202,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Rawdoudoutech",
- "guildName": "NiNjA Family",
- "guildID": 44990,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 9216,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 841,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9202,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -311,6 +317,9 @@
    "date": "2015-08-12T22:00:00.000Z",
    "guildName": "NiNjA Family",
    "guildID": 44990
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

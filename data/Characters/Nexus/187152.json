@@ -3,9 +3,9 @@
  "characterClassID": 1,
  "raceID": 0,
  "position": 125,
- "rankingPositionChange": 1,
- "gloryPoint": 79599,
- "gloryPointChange": -49,
+ "rankingPositionChange": 0,
+ "gloryPoint": 79501,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Pis",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 79599,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 125,
+   "rankingPositionChange": 0,
+   "gloryPoint": 79501,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

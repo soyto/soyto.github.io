@@ -2,14 +2,12 @@
  "characterID": 419157,
  "characterClassID": 7,
  "raceID": 0,
- "position": 380,
- "rankingPositionChange": 2,
- "gloryPoint": 38190,
- "gloryPointChange": 44,
+ "position": 385,
+ "rankingPositionChange": -5,
+ "gloryPoint": 38250,
+ "gloryPointChange": 60,
  "soldierRankID": 12,
  "characterName": "Destine",
- "guildName": "P R I D E",
- "guildID": 4908,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 38190,
    "gloryPointChange": 44,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 385,
+   "rankingPositionChange": -5,
+   "gloryPoint": 38250,
+   "gloryPointChange": 60,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "P R I D E",
    "guildID": 4908
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

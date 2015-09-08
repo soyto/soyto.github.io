@@ -3,13 +3,13 @@
  "characterClassID": 1,
  "raceID": 0,
  "position": 80,
- "rankingPositionChange": -2,
- "gloryPoint": 124188,
- "gloryPointChange": 119,
+ "rankingPositionChange": 0,
+ "gloryPoint": 124755,
+ "gloryPointChange": 567,
  "soldierRankID": 14,
  "characterName": "Rixels",
- "guildName": "Haters Gonna HATE",
- "guildID": 5358,
+ "guildName": "Soul Reapers",
+ "guildID": 1484,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 124188,
    "gloryPointChange": 119,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 80,
+   "rankingPositionChange": 0,
+   "gloryPoint": 124755,
+   "gloryPointChange": 567,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -307,6 +315,11 @@
    "date": "2015-08-10T22:00:00.000Z",
    "guildName": "Haters Gonna HATE",
    "guildID": 5358
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Soul Reapers",
+   "guildID": 1484
   }
  ]
 }

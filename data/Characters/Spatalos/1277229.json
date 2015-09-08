@@ -2,10 +2,10 @@
  "characterID": 1277229,
  "characterClassID": 13,
  "raceID": 0,
- "position": 158,
- "rankingPositionChange": 0,
- "gloryPoint": 91757,
- "gloryPointChange": 385,
+ "position": 159,
+ "rankingPositionChange": -1,
+ "gloryPoint": 91759,
+ "gloryPointChange": 2,
  "soldierRankID": 13,
  "characterName": "Lias",
  "guildName": "Shake It Off",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 91757,
    "gloryPointChange": 385,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 159,
+   "rankingPositionChange": -1,
+   "gloryPoint": 91759,
+   "gloryPointChange": 2,
    "soldierRankID": 13
   }
  ],

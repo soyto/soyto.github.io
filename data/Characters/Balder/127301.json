@@ -2,10 +2,10 @@
  "characterID": 127301,
  "characterClassID": 11,
  "raceID": 1,
- "position": 527,
- "rankingPositionChange": 24,
- "gloryPoint": 1880,
- "gloryPointChange": 186,
+ "position": 525,
+ "rankingPositionChange": 2,
+ "gloryPoint": 1852,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Larosh",
  "guildName": "TodesFee",
@@ -41,6 +41,14 @@
    "rankingPositionChange": 24,
    "gloryPoint": 1880,
    "gloryPointChange": 186,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 525,
+   "rankingPositionChange": 2,
+   "gloryPoint": 1852,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

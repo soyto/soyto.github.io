@@ -2,10 +2,10 @@
  "characterID": 502140,
  "characterClassID": 11,
  "raceID": 1,
- "position": 453,
- "rankingPositionChange": -2,
- "gloryPoint": 2806,
- "gloryPointChange": -28,
+ "position": 450,
+ "rankingPositionChange": 3,
+ "gloryPoint": 2750,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Limay",
  "guildName": "The Dark Side of the Sun",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 2806,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": 3,
+   "gloryPoint": 2750,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

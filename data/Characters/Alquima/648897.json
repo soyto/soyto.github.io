@@ -2,10 +2,10 @@
  "characterID": 648897,
  "characterClassID": 2,
  "raceID": 1,
- "position": 400,
- "rankingPositionChange": -5,
- "gloryPoint": 21296,
- "gloryPointChange": -25,
+ "position": 401,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21338,
+ "gloryPointChange": 42,
  "soldierRankID": 12,
  "characterName": "Starmaster",
  "guildName": "Destinados",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 21296,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21338,
+   "gloryPointChange": 42,
    "soldierRankID": 12
   }
  ],

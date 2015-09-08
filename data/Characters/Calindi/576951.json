@@ -2,10 +2,10 @@
  "characterID": 576951,
  "characterClassID": 2,
  "raceID": 1,
- "position": 241,
- "rankingPositionChange": 5,
- "gloryPoint": 2077,
- "gloryPointChange": 174,
+ "position": 244,
+ "rankingPositionChange": -3,
+ "gloryPoint": 2021,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Ynuiasha",
  "guildName": "Brigada Romana",
@@ -145,6 +145,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 2077,
    "gloryPointChange": 174,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 244,
+   "rankingPositionChange": -3,
+   "gloryPoint": 2021,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

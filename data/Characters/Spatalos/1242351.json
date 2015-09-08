@@ -2,10 +2,10 @@
  "characterID": 1242351,
  "characterClassID": 5,
  "raceID": 0,
- "position": 500,
- "rankingPositionChange": -1,
- "gloryPoint": 23736,
- "gloryPointChange": -28,
+ "position": 499,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23680,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Raytheon",
  "guildName": "ESTRELLAS DEL ABISMO",
@@ -185,6 +185,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 23736,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 499,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23680,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

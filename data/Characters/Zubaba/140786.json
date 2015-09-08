@@ -2,10 +2,10 @@
  "characterID": 140786,
  "characterClassID": 13,
  "raceID": 1,
- "position": 132,
- "rankingPositionChange": 0,
- "gloryPoint": 70461,
- "gloryPointChange": 104,
+ "position": 134,
+ "rankingPositionChange": -2,
+ "gloryPoint": 70466,
+ "gloryPointChange": 5,
  "soldierRankID": 13,
  "characterName": "Crazytin",
  "guildName": "Villains",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 70461,
    "gloryPointChange": 104,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 134,
+   "rankingPositionChange": -2,
+   "gloryPoint": 70466,
+   "gloryPointChange": 5,
    "soldierRankID": 13
   }
  ],

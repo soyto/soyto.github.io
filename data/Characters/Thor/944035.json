@@ -2,10 +2,10 @@
  "characterID": 944035,
  "characterClassID": 1,
  "raceID": 1,
- "position": 791,
- "rankingPositionChange": -2,
- "gloryPoint": 15999,
- "gloryPointChange": -7,
+ "position": 789,
+ "rankingPositionChange": 2,
+ "gloryPoint": 16179,
+ "gloryPointChange": 180,
  "soldierRankID": 10,
  "characterName": "Evilfighter",
  "guildName": "Evil Fighters of Darkness",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 15999,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 789,
+   "rankingPositionChange": 2,
+   "gloryPoint": 16179,
+   "gloryPointChange": 180,
    "soldierRankID": 10
   }
  ],

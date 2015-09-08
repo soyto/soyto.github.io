@@ -2,10 +2,10 @@
  "characterID": 431404,
  "characterClassID": 1,
  "raceID": 0,
- "position": 510,
- "rankingPositionChange": -6,
- "gloryPoint": 14086,
- "gloryPointChange": -14,
+ "position": 509,
+ "rankingPositionChange": 1,
+ "gloryPoint": 14058,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Vasella",
  "guildName": "Dystopia",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 14086,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 509,
+   "rankingPositionChange": 1,
+   "gloryPoint": 14058,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

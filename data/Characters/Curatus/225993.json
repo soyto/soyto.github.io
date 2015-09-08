@@ -2,10 +2,10 @@
  "characterID": 225993,
  "characterClassID": 8,
  "raceID": 1,
- "position": 482,
- "rankingPositionChange": 1,
- "gloryPoint": 13437,
- "gloryPointChange": 122,
+ "position": 483,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13480,
+ "gloryPointChange": 43,
  "soldierRankID": 12,
  "characterName": "Pri",
  "guildName": "I Falsi Profeti",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13437,
    "gloryPointChange": 122,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 483,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13480,
+   "gloryPointChange": 43,
    "soldierRankID": 12
   }
  ],

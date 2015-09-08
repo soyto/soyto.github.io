@@ -2,12 +2,14 @@
  "characterID": 260847,
  "characterClassID": 11,
  "raceID": 1,
- "position": 396,
- "rankingPositionChange": -2,
- "gloryPoint": 42177,
- "gloryPointChange": 261,
+ "position": 394,
+ "rankingPositionChange": 2,
+ "gloryPoint": 42171,
+ "gloryPointChange": -6,
  "soldierRankID": 12,
  "characterName": "Viel",
+ "guildName": "Symphony",
+ "guildID": 8881,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 42177,
    "gloryPointChange": 261,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 394,
+   "rankingPositionChange": 2,
+   "gloryPoint": 42171,
+   "gloryPointChange": -6,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -309,6 +319,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Symphony",
+   "guildID": 8881
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 774560,
  "characterClassID": 1,
  "raceID": 1,
- "position": 888,
- "rankingPositionChange": 1,
- "gloryPoint": 3648,
- "gloryPointChange": 77,
+ "position": 889,
+ "rankingPositionChange": -1,
+ "gloryPoint": 3664,
+ "gloryPointChange": 16,
  "soldierRankID": 10,
  "characterName": "Def",
  "guildName": "Kraftwerk",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 3648,
    "gloryPointChange": 77,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 889,
+   "rankingPositionChange": -1,
+   "gloryPoint": 3664,
+   "gloryPointChange": 16,
    "soldierRankID": 10
   }
  ],

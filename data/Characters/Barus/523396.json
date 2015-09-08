@@ -2,10 +2,10 @@
  "characterID": 523396,
  "characterClassID": 5,
  "raceID": 1,
- "position": 598,
- "rankingPositionChange": 3,
- "gloryPoint": 22293,
- "gloryPointChange": 322,
+ "position": 599,
+ "rankingPositionChange": -1,
+ "gloryPoint": 22378,
+ "gloryPointChange": 85,
  "soldierRankID": 11,
  "characterName": "Outlizes",
  "guildName": "Equillibrium",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 22293,
    "gloryPointChange": 322,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 599,
+   "rankingPositionChange": -1,
+   "gloryPoint": 22378,
+   "gloryPointChange": 85,
    "soldierRankID": 11
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 1227576,
  "characterClassID": 10,
  "raceID": 0,
- "position": 914,
- "rankingPositionChange": -1,
- "gloryPoint": 9811,
- "gloryPointChange": -7,
+ "position": 904,
+ "rankingPositionChange": 10,
+ "gloryPoint": 9897,
+ "gloryPointChange": 86,
  "soldierRankID": 10,
  "characterName": "Ayis",
+ "guildName": "DeQuIroX",
+ "guildID": 35803,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 9811,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 904,
+   "rankingPositionChange": 10,
+   "gloryPoint": 9897,
+   "gloryPointChange": 86,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-25T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "DeQuIroX",
+   "guildID": 35803
   }
  ]
 }

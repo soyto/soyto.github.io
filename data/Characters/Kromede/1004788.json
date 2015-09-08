@@ -2,10 +2,10 @@
  "characterID": 1004788,
  "characterClassID": 16,
  "raceID": 0,
- "position": 777,
- "rankingPositionChange": 1,
- "gloryPoint": 13524,
- "gloryPointChange": 21,
+ "position": 772,
+ "rankingPositionChange": 5,
+ "gloryPoint": 13510,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Nevana",
  "guildName": "Esperance",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 13524,
    "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 772,
+   "rankingPositionChange": 5,
+   "gloryPoint": 13510,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

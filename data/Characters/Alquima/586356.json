@@ -2,12 +2,14 @@
  "characterID": 586356,
  "characterClassID": 13,
  "raceID": 1,
- "position": 556,
- "rankingPositionChange": 5,
- "gloryPoint": 14291,
- "gloryPointChange": 274,
+ "position": 544,
+ "rankingPositionChange": 12,
+ "gloryPoint": 14751,
+ "gloryPointChange": 460,
  "soldierRankID": 11,
  "characterName": "Desturctor",
+ "guildName": "Destinados",
+ "guildID": 9935,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 14291,
    "gloryPointChange": 274,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 544,
+   "rankingPositionChange": 12,
+   "gloryPoint": 14751,
+   "gloryPointChange": 460,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-27T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Destinados",
+   "guildID": 9935
   }
  ]
 }

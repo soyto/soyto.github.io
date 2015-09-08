@@ -2,14 +2,12 @@
  "characterID": 538660,
  "characterClassID": 5,
  "raceID": 0,
- "position": 733,
- "rankingPositionChange": 3,
- "gloryPoint": 18375,
- "gloryPointChange": -7,
+ "position": 734,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18361,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Blackmonday",
- "guildName": "NeverGiveUp",
- "guildID": 10100,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 18375,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 734,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18361,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -311,6 +317,9 @@
    "date": "2015-08-28T22:00:00.000Z",
    "guildName": "NeverGiveUp",
    "guildID": 10100
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

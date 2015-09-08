@@ -2,10 +2,10 @@
  "characterID": 197922,
  "characterClassID": 10,
  "raceID": 1,
- "position": 43,
- "rankingPositionChange": 0,
- "gloryPoint": 49828,
- "gloryPointChange": 577,
+ "position": 44,
+ "rankingPositionChange": -1,
+ "gloryPoint": 50074,
+ "gloryPointChange": 246,
  "soldierRankID": 14,
  "characterName": "Marducia",
  "guildName": "The Valley Of Death",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 49828,
    "gloryPointChange": 577,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 44,
+   "rankingPositionChange": -1,
+   "gloryPoint": 50074,
+   "gloryPointChange": 246,
    "soldierRankID": 14
   }
  ],

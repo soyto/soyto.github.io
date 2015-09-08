@@ -2,10 +2,10 @@
  "characterID": 335611,
  "characterClassID": 14,
  "raceID": 1,
- "position": 671,
- "rankingPositionChange": 22,
- "gloryPoint": 1269,
- "gloryPointChange": 21,
+ "position": 682,
+ "rankingPositionChange": -11,
+ "gloryPoint": 1255,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Nightgun",
  "guildName": "Das Keksimperium",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 22,
    "gloryPoint": 1269,
    "gloryPointChange": 21,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 682,
+   "rankingPositionChange": -11,
+   "gloryPoint": 1255,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 518085,
  "characterClassID": 2,
  "raceID": 1,
- "position": 232,
- "rankingPositionChange": 1,
- "gloryPoint": 46153,
- "gloryPointChange": 463,
+ "position": 233,
+ "rankingPositionChange": -1,
+ "gloryPoint": 46448,
+ "gloryPointChange": 295,
  "soldierRankID": 13,
  "characterName": "Dovahkin",
  "guildName": "Ombre et Lumiere",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 46153,
    "gloryPointChange": 463,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 233,
+   "rankingPositionChange": -1,
+   "gloryPoint": 46448,
+   "gloryPointChange": 295,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1341222,
  "characterClassID": 2,
  "raceID": 1,
- "position": 736,
- "rankingPositionChange": 0,
- "gloryPoint": 8840,
- "gloryPointChange": 93,
+ "position": 742,
+ "rankingPositionChange": -6,
+ "gloryPoint": 8826,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Maleras",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8840,
    "gloryPointChange": 93,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 742,
+   "rankingPositionChange": -6,
+   "gloryPoint": 8826,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

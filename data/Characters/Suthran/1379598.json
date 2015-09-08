@@ -2,14 +2,14 @@
  "characterID": 1379598,
  "characterClassID": 7,
  "raceID": 1,
- "position": 384,
- "rankingPositionChange": 21,
- "gloryPoint": 22908,
- "gloryPointChange": 2080,
+ "position": 373,
+ "rankingPositionChange": 11,
+ "gloryPoint": 24255,
+ "gloryPointChange": 1347,
  "soldierRankID": 12,
  "characterName": "Nomatche",
- "guildName": "Furious Tactic",
- "guildID": 44050,
+ "guildName": "Korean Panda Crew",
+ "guildID": 11871,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 22908,
    "gloryPointChange": 2080,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 373,
+   "rankingPositionChange": 11,
+   "gloryPoint": 24255,
+   "gloryPointChange": 1347,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -314,6 +322,11 @@
    "date": "2015-08-23T22:00:00.000Z",
    "guildName": "Furious Tactic",
    "guildID": 44050
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Korean Panda Crew",
+   "guildID": 11871
   }
  ]
 }

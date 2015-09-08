@@ -2,10 +2,10 @@
  "characterID": 55326,
  "characterClassID": 4,
  "raceID": 1,
- "position": 168,
- "rankingPositionChange": 2,
- "gloryPoint": 53463,
- "gloryPointChange": 901,
+ "position": 170,
+ "rankingPositionChange": -2,
+ "gloryPoint": 53443,
+ "gloryPointChange": -20,
  "soldierRankID": 13,
  "characterName": "Reu",
  "guildName": "V for Vendetta",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 53463,
    "gloryPointChange": 901,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 170,
+   "rankingPositionChange": -2,
+   "gloryPoint": 53443,
+   "gloryPointChange": -20,
    "soldierRankID": 13
   }
  ],

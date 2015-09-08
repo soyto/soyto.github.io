@@ -2,10 +2,10 @@
  "characterID": 308570,
  "characterClassID": 10,
  "raceID": 1,
- "position": 697,
- "rankingPositionChange": 0,
- "gloryPoint": 12131,
- "gloryPointChange": 86,
+ "position": 700,
+ "rankingPositionChange": -3,
+ "gloryPoint": 12203,
+ "gloryPointChange": 72,
  "soldierRankID": 11,
  "characterName": "Wilam",
  "guildName": "Wings of Blood",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 12131,
    "gloryPointChange": 86,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 700,
+   "rankingPositionChange": -3,
+   "gloryPoint": 12203,
+   "gloryPointChange": 72,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 637649,
  "characterClassID": 2,
  "raceID": 0,
- "position": 390,
- "rankingPositionChange": 1,
- "gloryPoint": 40994,
- "gloryPointChange": 450,
+ "position": 391,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40976,
+ "gloryPointChange": -18,
  "soldierRankID": 12,
  "characterName": "Dardok",
  "guildName": "Les Pingouins d Elite",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 40994,
    "gloryPointChange": 450,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 391,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40976,
+   "gloryPointChange": -18,
    "soldierRankID": 12
   }
  ],

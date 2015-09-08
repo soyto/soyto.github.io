@@ -2,14 +2,12 @@
  "characterID": 132610,
  "characterClassID": 4,
  "raceID": 0,
- "position": 910,
- "rankingPositionChange": 20,
- "gloryPoint": 5526,
- "gloryPointChange": 387,
+ "position": 909,
+ "rankingPositionChange": 1,
+ "gloryPoint": 5512,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Cim",
- "guildName": " BlackOut ",
- "guildID": 13631,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 5526,
    "gloryPointChange": 387,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 909,
+   "rankingPositionChange": 1,
+   "gloryPoint": 5512,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " BlackOut ",
    "guildID": 13631
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

@@ -2,14 +2,14 @@
  "characterID": 278130,
  "characterClassID": 1,
  "raceID": 0,
- "position": 960,
- "rankingPositionChange": 2,
- "gloryPoint": 10508,
- "gloryPointChange": 33,
+ "position": 955,
+ "rankingPositionChange": 5,
+ "gloryPoint": 10594,
+ "gloryPointChange": 86,
  "soldierRankID": 10,
  "characterName": "Artisday",
- "guildName": "Simphony of Destruction",
- "guildID": 9902,
+ "guildName": "Velo Nocturno",
+ "guildID": 13723,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 10508,
    "gloryPointChange": 33,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 955,
+   "rankingPositionChange": 5,
+   "gloryPoint": 10594,
+   "gloryPointChange": 86,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Simphony of Destruction",
    "guildID": 9902
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Velo Nocturno",
+   "guildID": 13723
   }
  ]
 }

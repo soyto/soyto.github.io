@@ -2,14 +2,12 @@
  "characterID": 237884,
  "characterClassID": 14,
  "raceID": 1,
- "position": 355,
+ "position": 356,
  "rankingPositionChange": -1,
- "gloryPoint": 19063,
- "gloryPointChange": 2,
+ "gloryPoint": 19007,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Mowie",
- "guildName": "Golden Power",
- "guildID": 6826,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 19063,
    "gloryPointChange": 2,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 356,
+   "rankingPositionChange": -1,
+   "gloryPoint": 19007,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -321,6 +327,9 @@
    "date": "2015-09-05T22:00:00.000Z",
    "guildName": "Golden Power",
    "guildID": 6826
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

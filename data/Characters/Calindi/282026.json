@@ -3,9 +3,9 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 192,
- "rankingPositionChange": 1,
- "gloryPoint": 4321,
- "gloryPointChange": -46,
+ "rankingPositionChange": 0,
+ "gloryPoint": 4235,
+ "gloryPointChange": -86,
  "soldierRankID": 13,
  "characterName": "Allanna",
  "guildName": "Chasseurs de Foudre",
@@ -249,6 +249,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 4321,
    "gloryPointChange": -46,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 192,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4235,
+   "gloryPointChange": -86,
    "soldierRankID": 13
   }
  ],

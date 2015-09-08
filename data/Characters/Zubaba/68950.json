@@ -2,12 +2,14 @@
  "characterID": 68950,
  "characterClassID": 10,
  "raceID": 1,
- "position": 99,
- "rankingPositionChange": 0,
- "gloryPoint": 93712,
- "gloryPointChange": 203,
+ "position": 100,
+ "rankingPositionChange": -1,
+ "gloryPoint": 93724,
+ "gloryPointChange": 12,
  "soldierRankID": 14,
  "characterName": "Jacyn",
+ "guildName": "Fat Kids are harder to kidnap",
+ "guildID": 6915,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 93712,
    "gloryPointChange": 203,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 100,
+   "rankingPositionChange": -1,
+   "gloryPoint": 93724,
+   "gloryPointChange": 12,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Fat Kids are harder to kidnap",
+   "guildID": 6915
   }
  ]
 }

@@ -2,14 +2,12 @@
  "characterID": 259392,
  "characterClassID": 1,
  "raceID": 1,
- "position": 128,
+ "position": 129,
  "rankingPositionChange": -1,
- "gloryPoint": 100697,
- "gloryPointChange": 241,
+ "gloryPoint": 100727,
+ "gloryPointChange": 30,
  "soldierRankID": 13,
  "characterName": "Oracz",
- "guildName": "Slow It Down",
- "guildID": 13130,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 100697,
    "gloryPointChange": 241,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 129,
+   "rankingPositionChange": -1,
+   "gloryPoint": 100727,
+   "gloryPointChange": 30,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Slow It Down",
    "guildID": 13130
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

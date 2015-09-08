@@ -2,12 +2,14 @@
  "characterID": 197792,
  "characterClassID": 8,
  "raceID": 0,
- "position": 942,
- "rankingPositionChange": 52,
- "gloryPoint": 1273,
- "gloryPointChange": -4,
+ "position": 954,
+ "rankingPositionChange": -12,
+ "gloryPoint": 1266,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Arynn",
+ "guildName": "Shining Fate",
+ "guildID": 15554,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 1273,
    "gloryPointChange": -4,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 954,
+   "rankingPositionChange": -12,
+   "gloryPoint": 1266,
+   "gloryPointChange": -7,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -283,6 +293,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Shining Fate",
+   "guildID": 15554
   }
  ]
 }

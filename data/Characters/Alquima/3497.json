@@ -2,10 +2,10 @@
  "characterID": 3497,
  "characterClassID": 7,
  "raceID": 1,
- "position": 278,
- "rankingPositionChange": 0,
- "gloryPoint": 31818,
- "gloryPointChange": 244,
+ "position": 280,
+ "rankingPositionChange": -2,
+ "gloryPoint": 31750,
+ "gloryPointChange": -68,
  "soldierRankID": 13,
  "characterName": "Chogath",
  "guildName": "Hijos de Anuhart",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 31818,
    "gloryPointChange": 244,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 280,
+   "rankingPositionChange": -2,
+   "gloryPoint": 31750,
+   "gloryPointChange": -68,
    "soldierRankID": 13
   }
  ],

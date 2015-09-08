@@ -2,14 +2,14 @@
  "characterID": 773439,
  "characterClassID": 11,
  "raceID": 0,
- "position": 729,
- "rankingPositionChange": 0,
- "gloryPoint": 13180,
- "gloryPointChange": -7,
+ "position": 724,
+ "rankingPositionChange": 5,
+ "gloryPoint": 13166,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Sovelite",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 13180,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 724,
+   "rankingPositionChange": 5,
+   "gloryPoint": 13166,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

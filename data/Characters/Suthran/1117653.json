@@ -2,10 +2,10 @@
  "characterID": 1117653,
  "characterClassID": 4,
  "raceID": 0,
- "position": 850,
- "rankingPositionChange": 0,
- "gloryPoint": 13509,
- "gloryPointChange": 2,
+ "position": 852,
+ "rankingPositionChange": -2,
+ "gloryPoint": 13510,
+ "gloryPointChange": 1,
  "soldierRankID": 10,
  "characterName": "Hackios",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 13509,
    "gloryPointChange": 2,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -2,
+   "gloryPoint": 13510,
+   "gloryPointChange": 1,
    "soldierRankID": 10
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 831247,
  "characterClassID": 10,
  "raceID": 1,
- "position": 305,
- "rankingPositionChange": -4,
- "gloryPoint": 26468,
- "gloryPointChange": -28,
+ "position": 304,
+ "rankingPositionChange": 1,
+ "gloryPoint": 26524,
+ "gloryPointChange": 56,
  "soldierRankID": 12,
  "characterName": "Malavon",
+ "guildName": "Evil Souls",
+ "guildID": 21091,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -184,6 +186,14 @@
    "gloryPoint": 26468,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 304,
+   "rankingPositionChange": 1,
+   "gloryPoint": 26524,
+   "gloryPointChange": 56,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -199,6 +209,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Evil Souls",
+   "guildID": 21091
   }
  ]
 }

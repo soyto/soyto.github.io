@@ -2,10 +2,10 @@
  "characterID": 631904,
  "characterClassID": 5,
  "raceID": 0,
- "position": 735,
- "rankingPositionChange": -1,
- "gloryPoint": 12298,
- "gloryPointChange": -7,
+ "position": 734,
+ "rankingPositionChange": 1,
+ "gloryPoint": 12284,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Kentaru",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 12298,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 734,
+   "rankingPositionChange": 1,
+   "gloryPoint": 12284,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

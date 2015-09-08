@@ -2,10 +2,10 @@
  "characterID": 1366285,
  "characterClassID": 10,
  "raceID": 1,
- "position": 931,
- "rankingPositionChange": 10,
- "gloryPoint": 11695,
- "gloryPointChange": 333,
+ "position": 926,
+ "rankingPositionChange": 5,
+ "gloryPoint": 11691,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Sharazzz",
  "status": [
@@ -119,6 +119,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 11695,
    "gloryPointChange": 333,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 926,
+   "rankingPositionChange": 5,
+   "gloryPoint": 11691,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

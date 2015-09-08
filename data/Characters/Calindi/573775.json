@@ -2,12 +2,14 @@
  "characterID": 573775,
  "characterClassID": 16,
  "raceID": 1,
- "position": 259,
- "rankingPositionChange": 0,
- "gloryPoint": 1830,
- "gloryPointChange": 36,
- "soldierRankID": 11,
+ "position": 248,
+ "rankingPositionChange": 11,
+ "gloryPoint": 1958,
+ "gloryPointChange": 128,
+ "soldierRankID": 12,
  "characterName": "Enbardavue",
+ "guildName": "Skins",
+ "guildID": 9548,
  "status": [
   {
    "date": "2015-08-17T22:00:00.000Z",
@@ -152,6 +154,14 @@
    "gloryPoint": 1830,
    "gloryPointChange": 36,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 248,
+   "rankingPositionChange": 11,
+   "gloryPoint": 1958,
+   "gloryPointChange": 128,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -163,6 +173,11 @@
  "guilds": [
   {
    "date": "2015-08-17T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Skins",
+   "guildID": 9548
   }
  ]
 }

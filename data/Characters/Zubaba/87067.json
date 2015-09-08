@@ -2,10 +2,10 @@
  "characterID": 87067,
  "characterClassID": 14,
  "raceID": 1,
- "position": 57,
- "rankingPositionChange": 2,
- "gloryPoint": 129746,
- "gloryPointChange": 813,
+ "position": 58,
+ "rankingPositionChange": -1,
+ "gloryPoint": 130843,
+ "gloryPointChange": 1097,
  "soldierRankID": 14,
  "characterName": "Champlo",
  "guildName": "Bosphorus",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 129746,
    "gloryPointChange": 813,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 58,
+   "rankingPositionChange": -1,
+   "gloryPoint": 130843,
+   "gloryPointChange": 1097,
    "soldierRankID": 14
   }
  ],

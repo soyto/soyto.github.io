@@ -3,13 +3,13 @@
  "characterClassID": 16,
  "raceID": 0,
  "position": 369,
- "rankingPositionChange": -2,
- "gloryPoint": 32567,
- "gloryPointChange": -28,
+ "rankingPositionChange": 0,
+ "gloryPoint": 32715,
+ "gloryPointChange": 148,
  "soldierRankID": 12,
  "characterName": "Lovenote",
- "guildName": "Get Well",
- "guildID": 13411,
+ "guildName": "Te Poto in Ur Mouth",
+ "guildID": 14751,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 32567,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 369,
+   "rankingPositionChange": 0,
+   "gloryPoint": 32715,
+   "gloryPointChange": 148,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -316,6 +324,11 @@
    "date": "2015-08-29T22:00:00.000Z",
    "guildName": "Get Well",
    "guildID": 13411
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Te Poto in Ur Mouth",
+   "guildID": 14751
   }
  ]
 }

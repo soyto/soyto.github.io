@@ -2,10 +2,10 @@
  "characterID": 296478,
  "characterClassID": 7,
  "raceID": 1,
- "position": 413,
- "rankingPositionChange": 1,
- "gloryPoint": 20319,
- "gloryPointChange": 352,
+ "position": 416,
+ "rankingPositionChange": -3,
+ "gloryPoint": 20299,
+ "gloryPointChange": -20,
  "soldierRankID": 12,
  "characterName": "Trakker",
  "guildName": "LeS FOuS DiNGuEs",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 20319,
    "gloryPointChange": 352,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 416,
+   "rankingPositionChange": -3,
+   "gloryPoint": 20299,
+   "gloryPointChange": -20,
    "soldierRankID": 12
   }
  ],

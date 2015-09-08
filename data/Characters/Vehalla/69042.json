@@ -3,9 +3,9 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 42,
- "rankingPositionChange": 1,
- "gloryPoint": 106422,
- "gloryPointChange": 426,
+ "rankingPositionChange": 0,
+ "gloryPoint": 106208,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Lysette",
  "guildName": "LastWish",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 106422,
    "gloryPointChange": 426,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 42,
+   "rankingPositionChange": 0,
+   "gloryPoint": 106208,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

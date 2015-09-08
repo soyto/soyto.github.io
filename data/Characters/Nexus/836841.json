@@ -2,10 +2,10 @@
  "characterID": 836841,
  "characterClassID": 14,
  "raceID": 0,
- "position": 591,
- "rankingPositionChange": 3,
- "gloryPoint": 13399,
- "gloryPointChange": 238,
+ "position": 592,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13371,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Arches",
  "guildName": "Paths of Glory",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 13399,
    "gloryPointChange": 238,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 592,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13371,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

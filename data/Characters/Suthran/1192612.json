@@ -2,10 +2,10 @@
  "characterID": 1192612,
  "characterClassID": 11,
  "raceID": 0,
- "position": 560,
- "rankingPositionChange": 0,
- "gloryPoint": 27668,
- "gloryPointChange": 106,
+ "position": 561,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27640,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Ventolline",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 27668,
    "gloryPointChange": 106,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 561,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27640,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

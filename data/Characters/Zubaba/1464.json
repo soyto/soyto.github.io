@@ -2,10 +2,10 @@
  "characterID": 1464,
  "characterClassID": 4,
  "raceID": 1,
- "position": 50,
- "rankingPositionChange": 1,
- "gloryPoint": 141509,
- "gloryPointChange": 1106,
+ "position": 51,
+ "rankingPositionChange": -1,
+ "gloryPoint": 142158,
+ "gloryPointChange": 649,
  "soldierRankID": 14,
  "characterName": "Twisted",
  "guildName": "MAD MEN",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 141509,
    "gloryPointChange": 1106,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 51,
+   "rankingPositionChange": -1,
+   "gloryPoint": 142158,
+   "gloryPointChange": 649,
    "soldierRankID": 14
   }
  ],

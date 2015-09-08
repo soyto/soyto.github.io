@@ -2,10 +2,10 @@
  "characterID": 750951,
  "characterClassID": 5,
  "raceID": 1,
- "position": 940,
- "rankingPositionChange": 1,
- "gloryPoint": 6280,
- "gloryPointChange": 33,
+ "position": 942,
+ "rankingPositionChange": -2,
+ "gloryPoint": 6266,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Ilmo",
  "status": [
@@ -255,6 +255,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 6280,
    "gloryPointChange": 33,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 942,
+   "rankingPositionChange": -2,
+   "gloryPoint": 6266,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

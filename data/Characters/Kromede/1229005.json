@@ -2,10 +2,10 @@
  "characterID": 1229005,
  "characterClassID": 1,
  "raceID": 1,
- "position": 165,
- "rankingPositionChange": 1,
- "gloryPoint": 51840,
- "gloryPointChange": 691,
+ "position": 166,
+ "rankingPositionChange": -1,
+ "gloryPoint": 52388,
+ "gloryPointChange": 548,
  "soldierRankID": 13,
  "characterName": "Khrabon",
  "guildName": "ACCESS DENIED",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 51840,
    "gloryPointChange": 691,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 166,
+   "rankingPositionChange": -1,
+   "gloryPoint": 52388,
+   "gloryPointChange": 548,
    "soldierRankID": 13
   }
  ],

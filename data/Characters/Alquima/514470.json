@@ -2,10 +2,10 @@
  "characterID": 514470,
  "characterClassID": 14,
  "raceID": 1,
- "position": 240,
+ "position": 241,
  "rankingPositionChange": -1,
- "gloryPoint": 37181,
- "gloryPointChange": 1,
+ "gloryPoint": 37139,
+ "gloryPointChange": -42,
  "soldierRankID": 13,
  "characterName": "Darkfalco",
  "guildName": "Destinados",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 37181,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 241,
+   "rankingPositionChange": -1,
+   "gloryPoint": 37139,
+   "gloryPointChange": -42,
    "soldierRankID": 13
   }
  ],

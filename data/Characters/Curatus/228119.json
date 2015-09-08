@@ -2,14 +2,14 @@
  "characterID": 228119,
  "characterClassID": 11,
  "raceID": 1,
- "position": 999,
- "rankingPositionChange": 1,
- "gloryPoint": 2864,
- "gloryPointChange": 0,
+ "position": 970,
+ "rankingPositionChange": 29,
+ "gloryPoint": 3229,
+ "gloryPointChange": 365,
  "soldierRankID": 10,
  "characterName": "Maradona",
- "guildName": "  TOP  ",
- "guildID": 2521,
+ "guildName": "Queen",
+ "guildID": 5985,
  "status": [
   {
    "date": "2015-08-26T22:00:00.000Z",
@@ -34,6 +34,14 @@
    "gloryPoint": 2864,
    "gloryPointChange": 0,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 970,
+   "rankingPositionChange": 29,
+   "gloryPoint": 3229,
+   "gloryPointChange": 365,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -47,6 +55,11 @@
    "date": "2015-08-26T22:00:00.000Z",
    "guildName": "  TOP  ",
    "guildID": 2521
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Queen",
+   "guildID": 5985
   }
  ]
 }

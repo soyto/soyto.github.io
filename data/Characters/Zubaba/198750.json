@@ -2,10 +2,10 @@
  "characterID": 198750,
  "characterClassID": 7,
  "raceID": 1,
- "position": 541,
- "rankingPositionChange": -4,
- "gloryPoint": 7781,
- "gloryPointChange": -14,
+ "position": 540,
+ "rankingPositionChange": 1,
+ "gloryPoint": 7753,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Malachi",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 7781,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 540,
+   "rankingPositionChange": 1,
+   "gloryPoint": 7753,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

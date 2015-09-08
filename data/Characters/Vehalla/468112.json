@@ -2,10 +2,10 @@
  "characterID": 468112,
  "characterClassID": 5,
  "raceID": 1,
- "position": 276,
- "rankingPositionChange": 3,
- "gloryPoint": 11011,
- "gloryPointChange": 248,
+ "position": 277,
+ "rankingPositionChange": -1,
+ "gloryPoint": 10913,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Derbyshire",
  "guildName": "Pave Low",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 11011,
    "gloryPointChange": 248,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 277,
+   "rankingPositionChange": -1,
+   "gloryPoint": 10913,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

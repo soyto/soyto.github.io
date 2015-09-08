@@ -2,10 +2,10 @@
  "characterID": 621245,
  "characterClassID": 1,
  "raceID": 1,
- "position": 308,
- "rankingPositionChange": 0,
- "gloryPoint": 35740,
- "gloryPointChange": 34,
+ "position": 311,
+ "rankingPositionChange": -3,
+ "gloryPoint": 35770,
+ "gloryPointChange": 30,
  "soldierRankID": 12,
  "characterName": "Totoghost",
  "guildName": "Divine Fury",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 35740,
    "gloryPointChange": 34,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 311,
+   "rankingPositionChange": -3,
+   "gloryPoint": 35770,
+   "gloryPointChange": 30,
    "soldierRankID": 12
   }
  ],

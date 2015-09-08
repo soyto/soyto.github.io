@@ -2,9 +2,9 @@
  "characterID": 362623,
  "characterClassID": 5,
  "raceID": 0,
- "position": 703,
- "rankingPositionChange": -10,
- "gloryPoint": 23208,
+ "position": 702,
+ "rankingPositionChange": 1,
+ "gloryPoint": 23194,
  "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Igaly",
@@ -286,6 +286,14 @@
    "position": 703,
    "rankingPositionChange": -10,
    "gloryPoint": 23208,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 702,
+   "rankingPositionChange": 1,
+   "gloryPoint": 23194,
    "gloryPointChange": -14,
    "soldierRankID": 10
   }

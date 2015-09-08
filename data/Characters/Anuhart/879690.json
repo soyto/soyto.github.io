@@ -2,10 +2,10 @@
  "characterID": 879690,
  "characterClassID": 5,
  "raceID": 1,
- "position": 653,
- "rankingPositionChange": -10,
- "gloryPoint": 5365,
- "gloryPointChange": -14,
+ "position": 648,
+ "rankingPositionChange": 5,
+ "gloryPoint": 5337,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Kivlar",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -10,
    "gloryPoint": 5365,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 648,
+   "rankingPositionChange": 5,
+   "gloryPoint": 5337,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 859017,
  "characterClassID": 14,
  "raceID": 1,
- "position": 986,
- "rankingPositionChange": -20,
- "gloryPoint": 1698,
- "gloryPointChange": -14,
+ "position": 970,
+ "rankingPositionChange": 16,
+ "gloryPoint": 1691,
+ "gloryPointChange": -7,
  "soldierRankID": 10,
  "characterName": "Girad",
  "status": [
@@ -247,6 +247,14 @@
    "rankingPositionChange": -20,
    "gloryPoint": 1698,
    "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 970,
+   "rankingPositionChange": 16,
+   "gloryPoint": 1691,
+   "gloryPointChange": -7,
    "soldierRankID": 10
   }
  ],

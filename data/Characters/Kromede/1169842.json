@@ -2,10 +2,10 @@
  "characterID": 1169842,
  "characterClassID": 16,
  "raceID": 1,
- "position": 264,
- "rankingPositionChange": 0,
- "gloryPoint": 27780,
- "gloryPointChange": 124,
+ "position": 265,
+ "rankingPositionChange": -1,
+ "gloryPoint": 27682,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Liivy",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 27780,
    "gloryPointChange": 124,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 265,
+   "rankingPositionChange": -1,
+   "gloryPoint": 27682,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

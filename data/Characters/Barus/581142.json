@@ -2,12 +2,14 @@
  "characterID": 581142,
  "characterClassID": 14,
  "raceID": 0,
- "position": 729,
+ "position": 726,
  "rankingPositionChange": 3,
- "gloryPoint": 18595,
- "gloryPointChange": 143,
+ "gloryPoint": 18915,
+ "gloryPointChange": 320,
  "soldierRankID": 10,
  "characterName": "Feanoor",
+ "guildName": "Mentor",
+ "guildID": 8971,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 18595,
    "gloryPointChange": 143,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 726,
+   "rankingPositionChange": 3,
+   "gloryPoint": 18915,
+   "gloryPointChange": 320,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -312,6 +322,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Mentor",
+   "guildID": 8971
   }
  ]
 }

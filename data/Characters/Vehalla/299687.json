@@ -2,10 +2,10 @@
  "characterID": 299687,
  "characterClassID": 7,
  "raceID": 1,
- "position": 315,
- "rankingPositionChange": 0,
- "gloryPoint": 8300,
- "gloryPointChange": -28,
+ "position": 316,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8244,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Lakrisini",
  "status": [
@@ -151,6 +151,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8300,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 316,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8244,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

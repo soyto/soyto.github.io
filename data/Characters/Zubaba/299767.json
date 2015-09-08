@@ -2,10 +2,10 @@
  "characterID": 299767,
  "characterClassID": 13,
  "raceID": 1,
- "position": 583,
- "rankingPositionChange": 6,
- "gloryPoint": 6591,
- "gloryPointChange": 186,
+ "position": 586,
+ "rankingPositionChange": -3,
+ "gloryPoint": 6566,
+ "gloryPointChange": -25,
  "soldierRankID": 11,
  "characterName": "Panzeron",
  "guildName": "Black or White",
@@ -273,6 +273,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 6591,
    "gloryPointChange": 186,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 586,
+   "rankingPositionChange": -3,
+   "gloryPoint": 6566,
+   "gloryPointChange": -25,
    "soldierRankID": 11
   }
  ],

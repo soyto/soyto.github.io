@@ -2,12 +2,14 @@
  "characterID": 704221,
  "characterClassID": 8,
  "raceID": 1,
- "position": 931,
- "rankingPositionChange": 0,
- "gloryPoint": 1953,
- "gloryPointChange": 83,
+ "position": 916,
+ "rankingPositionChange": 15,
+ "gloryPoint": 2014,
+ "gloryPointChange": 61,
  "soldierRankID": 10,
  "characterName": "Flyboi",
+ "guildName": "Evil Souls",
+ "guildID": 21091,
  "status": [
   {
    "date": "2015-08-26T22:00:00.000Z",
@@ -88,6 +90,14 @@
    "gloryPoint": 1953,
    "gloryPointChange": 83,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": 15,
+   "gloryPoint": 2014,
+   "gloryPointChange": 61,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -99,6 +109,11 @@
  "guilds": [
   {
    "date": "2015-08-26T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Evil Souls",
+   "guildID": 21091
   }
  ]
 }

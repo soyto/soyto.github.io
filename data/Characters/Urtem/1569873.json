@@ -2,12 +2,14 @@
  "characterID": 1569873,
  "characterClassID": 8,
  "raceID": 1,
- "position": 577,
- "rankingPositionChange": -3,
- "gloryPoint": 15100,
- "gloryPointChange": -2,
+ "position": 576,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15351,
+ "gloryPointChange": 251,
  "soldierRankID": 11,
  "characterName": "Spiritisantous",
+ "guildName": "Dark Destiiny",
+ "guildID": 47055,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -272,6 +274,14 @@
    "gloryPoint": 15100,
    "gloryPointChange": -2,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 576,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15351,
+   "gloryPointChange": 251,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -292,6 +302,11 @@
   },
   {
    "date": "2015-08-09T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Dark Destiiny",
+   "guildID": 47055
   }
  ]
 }

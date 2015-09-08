@@ -2,14 +2,14 @@
  "characterID": 272582,
  "characterClassID": 16,
  "raceID": 1,
- "position": 960,
- "rankingPositionChange": -3,
- "gloryPoint": 10322,
- "gloryPointChange": -7,
+ "position": 945,
+ "rankingPositionChange": 15,
+ "gloryPoint": 10845,
+ "gloryPointChange": 523,
  "soldierRankID": 10,
  "characterName": "Omentyr",
- "guildName": " Tokyo Ghoul ",
- "guildID": 12203,
+ "guildName": "Nieskalani",
+ "guildID": 2964,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 10322,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 945,
+   "rankingPositionChange": 15,
+   "gloryPoint": 10845,
+   "gloryPointChange": 523,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -308,6 +316,11 @@
    "date": "2015-08-10T22:00:00.000Z",
    "guildName": " Tokyo Ghoul ",
    "guildID": 12203
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Nieskalani",
+   "guildID": 2964
   }
  ]
 }

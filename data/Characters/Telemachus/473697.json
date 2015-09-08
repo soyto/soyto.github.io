@@ -2,10 +2,10 @@
  "characterID": 473697,
  "characterClassID": 2,
  "raceID": 1,
- "position": 64,
- "rankingPositionChange": 0,
- "gloryPoint": 78272,
- "gloryPointChange": -107,
+ "position": 65,
+ "rankingPositionChange": -1,
+ "gloryPoint": 78118,
+ "gloryPointChange": -154,
  "soldierRankID": 14,
  "characterName": "Weasel",
  "guildName": "Nyerk",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 78272,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": -1,
+   "gloryPoint": 78118,
+   "gloryPointChange": -154,
    "soldierRankID": 14
   }
  ],

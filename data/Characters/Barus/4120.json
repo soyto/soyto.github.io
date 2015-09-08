@@ -2,10 +2,10 @@
  "characterID": 4120,
  "characterClassID": 11,
  "raceID": 0,
- "position": 941,
- "rankingPositionChange": 0,
- "gloryPoint": 11406,
- "gloryPointChange": -1,
+ "position": 940,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11465,
+ "gloryPointChange": 59,
  "soldierRankID": 10,
  "characterName": "Przezpomylke",
  "guildName": "Nie Chce Nam Sie",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 11406,
    "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11465,
+   "gloryPointChange": 59,
    "soldierRankID": 10
   }
  ],

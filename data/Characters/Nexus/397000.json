@@ -2,10 +2,10 @@
  "characterID": 397000,
  "characterClassID": 16,
  "raceID": 0,
- "position": 132,
- "rankingPositionChange": 1,
- "gloryPoint": 75587,
- "gloryPointChange": -49,
+ "position": 133,
+ "rankingPositionChange": -1,
+ "gloryPoint": 75597,
+ "gloryPointChange": 10,
  "soldierRankID": 13,
  "characterName": "Cheerfuldirge",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 75587,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 133,
+   "rankingPositionChange": -1,
+   "gloryPoint": 75597,
+   "gloryPointChange": 10,
    "soldierRankID": 13
   }
  ],

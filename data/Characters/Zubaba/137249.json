@@ -2,10 +2,10 @@
  "characterID": 137249,
  "characterClassID": 5,
  "raceID": 1,
- "position": 54,
- "rankingPositionChange": 1,
- "gloryPoint": 137334,
- "gloryPointChange": 32,
+ "position": 55,
+ "rankingPositionChange": -1,
+ "gloryPoint": 137182,
+ "gloryPointChange": -152,
  "soldierRankID": 14,
  "characterName": "Arrcherr",
  "guildName": "V for Vendetta",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 137334,
    "gloryPointChange": 32,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 55,
+   "rankingPositionChange": -1,
+   "gloryPoint": 137182,
+   "gloryPointChange": -152,
    "soldierRankID": 14
   }
  ],

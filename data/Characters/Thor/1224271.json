@@ -2,10 +2,10 @@
  "characterID": 1224271,
  "characterClassID": 16,
  "raceID": 1,
- "position": 476,
- "rankingPositionChange": 4,
- "gloryPoint": 29712,
- "gloryPointChange": 504,
+ "position": 477,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29986,
+ "gloryPointChange": 274,
  "soldierRankID": 12,
  "characterName": "Motate",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 29712,
    "gloryPointChange": 504,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 477,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29986,
+   "gloryPointChange": 274,
    "soldierRankID": 12
   }
  ],

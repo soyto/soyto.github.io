@@ -2,10 +2,10 @@
  "characterID": 1001377,
  "characterClassID": 14,
  "raceID": 0,
- "position": 457,
- "rankingPositionChange": 0,
- "gloryPoint": 27063,
- "gloryPointChange": -28,
+ "position": 456,
+ "rankingPositionChange": 1,
+ "gloryPoint": 27057,
+ "gloryPointChange": -6,
  "soldierRankID": 12,
  "characterName": "Snipergun",
  "guildName": "OldSchooI",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 27063,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 456,
+   "rankingPositionChange": 1,
+   "gloryPoint": 27057,
+   "gloryPointChange": -6,
    "soldierRankID": 12
   }
  ],

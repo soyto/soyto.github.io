@@ -2,10 +2,10 @@
  "characterID": 15098,
  "characterClassID": 2,
  "raceID": 1,
- "position": 594,
- "rankingPositionChange": 41,
- "gloryPoint": 1406,
- "gloryPointChange": 89,
+ "position": 600,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1378,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Issanami",
  "guildName": "Dark Side",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 41,
    "gloryPoint": 1406,
    "gloryPointChange": 89,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1378,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 269088,
  "characterClassID": 16,
  "raceID": 0,
- "position": 689,
- "rankingPositionChange": 34,
- "gloryPoint": 20059,
- "gloryPointChange": 1107,
+ "position": 683,
+ "rankingPositionChange": 6,
+ "gloryPoint": 20440,
+ "gloryPointChange": 381,
  "soldierRankID": 11,
  "characterName": "Cadie",
+ "guildName": "Divine Light",
+ "guildID": 3041,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 20059,
    "gloryPointChange": 1107,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 683,
+   "rankingPositionChange": 6,
+   "gloryPoint": 20440,
+   "gloryPointChange": 381,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -309,6 +319,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Divine Light",
+   "guildID": 3041
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 562361,
  "characterClassID": 4,
  "raceID": 1,
- "position": 591,
- "rankingPositionChange": 4,
- "gloryPoint": 6131,
- "gloryPointChange": 149,
+ "position": 596,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6109,
+ "gloryPointChange": -22,
  "soldierRankID": 11,
  "characterName": "Aniee",
  "guildName": "Obsidia Covertis",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 6131,
    "gloryPointChange": 149,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6109,
+   "gloryPointChange": -22,
    "soldierRankID": 11
   }
  ],

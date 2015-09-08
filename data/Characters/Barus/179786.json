@@ -3,11 +3,13 @@
  "characterClassID": 5,
  "raceID": 1,
  "position": 183,
- "rankingPositionChange": -2,
- "gloryPoint": 77036,
- "gloryPointChange": -37,
+ "rankingPositionChange": 0,
+ "gloryPoint": 77609,
+ "gloryPointChange": 573,
  "soldierRankID": 13,
  "characterName": "Adamrade",
+ "guildName": "Mad Penguins",
+ "guildID": 10669,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 77036,
    "gloryPointChange": -37,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 183,
+   "rankingPositionChange": 0,
+   "gloryPoint": 77609,
+   "gloryPointChange": 573,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-14T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Mad Penguins",
+   "guildID": 10669
   }
  ]
 }

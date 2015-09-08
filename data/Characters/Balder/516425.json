@@ -2,14 +2,14 @@
  "characterID": 516425,
  "characterClassID": 11,
  "raceID": 0,
- "position": 326,
- "rankingPositionChange": 1,
- "gloryPoint": 18209,
- "gloryPointChange": -28,
+ "position": 327,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18153,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Vulpixx",
- "guildName": "Live Fast Die Young",
- "guildID": 24946,
+ "guildName": "They hate us cuz they aint us",
+ "guildID": 30478,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 18209,
    "gloryPointChange": -28,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 327,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18153,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Live Fast Die Young",
    "guildID": 24946
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "They hate us cuz they aint us",
+   "guildID": 30478
   }
  ]
 }

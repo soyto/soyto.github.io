@@ -2,14 +2,14 @@
  "characterID": 1322745,
  "characterClassID": 8,
  "raceID": 0,
- "position": 903,
- "rankingPositionChange": -7,
- "gloryPoint": 7737,
- "gloryPointChange": -7,
+ "position": 889,
+ "rankingPositionChange": 14,
+ "gloryPoint": 7741,
+ "gloryPointChange": 4,
  "soldierRankID": 10,
  "characterName": "Feelthefear",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 7737,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 889,
+   "rankingPositionChange": 14,
+   "gloryPoint": 7741,
+   "gloryPointChange": 4,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

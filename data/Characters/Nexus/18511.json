@@ -2,10 +2,10 @@
  "characterID": 18511,
  "characterClassID": 11,
  "raceID": 0,
- "position": 493,
- "rankingPositionChange": 3,
- "gloryPoint": 18048,
- "gloryPointChange": 170,
+ "position": 496,
+ "rankingPositionChange": -3,
+ "gloryPoint": 18002,
+ "gloryPointChange": -46,
  "soldierRankID": 12,
  "characterName": "Suniya",
  "guildName": "The Ultimates",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 18048,
    "gloryPointChange": 170,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 496,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18002,
+   "gloryPointChange": -46,
    "soldierRankID": 12
   }
  ],

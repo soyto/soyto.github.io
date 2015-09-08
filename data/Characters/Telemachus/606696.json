@@ -2,14 +2,14 @@
  "characterID": 606696,
  "characterClassID": 1,
  "raceID": 1,
- "position": 546,
- "rankingPositionChange": -2,
- "gloryPoint": 2840,
- "gloryPointChange": -14,
+ "position": 535,
+ "rankingPositionChange": 11,
+ "gloryPoint": 2927,
+ "gloryPointChange": 87,
  "soldierRankID": 11,
  "characterName": "Roxiro",
- "guildName": "Valkan Mafia",
- "guildID": 8964,
+ "guildName": "Worldwake",
+ "guildID": 25216,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 2840,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 535,
+   "rankingPositionChange": 11,
+   "gloryPoint": 2927,
+   "gloryPointChange": 87,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -307,6 +315,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Valkan Mafia",
    "guildID": 8964
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Worldwake",
+   "guildID": 25216
   }
  ]
 }

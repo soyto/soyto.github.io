@@ -2,10 +2,10 @@
  "characterID": 1286936,
  "characterClassID": 16,
  "raceID": 1,
- "position": 707,
- "rankingPositionChange": 0,
- "gloryPoint": 9451,
- "gloryPointChange": 55,
+ "position": 711,
+ "rankingPositionChange": -4,
+ "gloryPoint": 9437,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Lonina",
  "guildName": "Legion of Fraternity",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 9451,
    "gloryPointChange": 55,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 711,
+   "rankingPositionChange": -4,
+   "gloryPoint": 9437,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

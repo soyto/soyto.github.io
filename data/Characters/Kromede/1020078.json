@@ -2,10 +2,10 @@
  "characterID": 1020078,
  "characterClassID": 4,
  "raceID": 1,
- "position": 927,
- "rankingPositionChange": 6,
- "gloryPoint": 3337,
- "gloryPointChange": 69,
+ "position": 929,
+ "rankingPositionChange": -2,
+ "gloryPoint": 3323,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Dogde",
  "status": [
@@ -71,6 +71,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 3337,
    "gloryPointChange": 69,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 929,
+   "rankingPositionChange": -2,
+   "gloryPoint": 3323,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

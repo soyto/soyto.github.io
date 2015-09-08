@@ -2,10 +2,10 @@
  "characterID": 351742,
  "characterClassID": 13,
  "raceID": 1,
- "position": 565,
- "rankingPositionChange": 15,
- "gloryPoint": 23617,
- "gloryPointChange": 396,
+ "position": 567,
+ "rankingPositionChange": -2,
+ "gloryPoint": 24104,
+ "gloryPointChange": 487,
  "soldierRankID": 11,
  "characterName": "Aestus",
  "guildName": "Nice To Kill You",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 15,
    "gloryPoint": 23617,
    "gloryPointChange": 396,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 567,
+   "rankingPositionChange": -2,
+   "gloryPoint": 24104,
+   "gloryPointChange": 487,
    "soldierRankID": 11
   }
  ],

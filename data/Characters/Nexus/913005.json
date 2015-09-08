@@ -2,12 +2,14 @@
  "characterID": 913005,
  "characterClassID": 4,
  "raceID": 0,
- "position": 456,
- "rankingPositionChange": 3,
- "gloryPoint": 19841,
- "gloryPointChange": 432,
+ "position": 432,
+ "rankingPositionChange": 24,
+ "gloryPoint": 21586,
+ "gloryPointChange": 1745,
  "soldierRankID": 12,
  "characterName": "Mrva",
+ "guildName": "Ten Inches Unbuffed",
+ "guildID": 14109,
  "status": [
   {
    "date": "2015-08-06T22:00:00.000Z",
@@ -240,6 +242,14 @@
    "gloryPoint": 19841,
    "gloryPointChange": 432,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 432,
+   "rankingPositionChange": 24,
+   "gloryPoint": 21586,
+   "gloryPointChange": 1745,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -261,6 +271,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Ten Inches Unbuffed",
+   "guildID": 14109
   }
  ]
 }

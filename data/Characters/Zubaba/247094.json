@@ -2,12 +2,14 @@
  "characterID": 247094,
  "characterClassID": 11,
  "raceID": 1,
- "position": 567,
- "rankingPositionChange": 2,
- "gloryPoint": 6985,
- "gloryPointChange": 154,
+ "position": 563,
+ "rankingPositionChange": 4,
+ "gloryPoint": 7065,
+ "gloryPointChange": 80,
  "soldierRankID": 11,
  "characterName": "Wonk",
+ "guildName": "FightForHonor",
+ "guildID": 3082,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 6985,
    "gloryPointChange": 154,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 563,
+   "rankingPositionChange": 4,
+   "gloryPoint": 7065,
+   "gloryPointChange": 80,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -321,6 +331,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "FightForHonor",
+   "guildID": 3082
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 187130,
  "characterClassID": 11,
  "raceID": 1,
- "position": 896,
- "rankingPositionChange": -8,
- "gloryPoint": 9765,
- "gloryPointChange": -7,
+ "position": 893,
+ "rankingPositionChange": 3,
+ "gloryPoint": 9751,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Flintstone",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 9765,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 893,
+   "rankingPositionChange": 3,
+   "gloryPoint": 9751,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

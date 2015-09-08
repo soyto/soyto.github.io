@@ -2,10 +2,10 @@
  "characterID": 863100,
  "characterClassID": 10,
  "raceID": 1,
- "position": 278,
- "rankingPositionChange": 3,
- "gloryPoint": 40100,
- "gloryPointChange": 653,
+ "position": 279,
+ "rankingPositionChange": -1,
+ "gloryPoint": 40452,
+ "gloryPointChange": 352,
  "soldierRankID": 13,
  "characterName": "Larvayne",
  "guildName": "Inihilys",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 40100,
    "gloryPointChange": 653,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 279,
+   "rankingPositionChange": -1,
+   "gloryPoint": 40452,
+   "gloryPointChange": 352,
    "soldierRankID": 13
   }
  ],

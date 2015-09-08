@@ -2,14 +2,12 @@
  "characterID": 1425316,
  "characterClassID": 1,
  "raceID": 1,
- "position": 496,
- "rankingPositionChange": 25,
- "gloryPoint": 8400,
- "gloryPointChange": 653,
+ "position": 488,
+ "rankingPositionChange": 8,
+ "gloryPoint": 8813,
+ "gloryPointChange": 413,
  "soldierRankID": 12,
  "characterName": "Xdiamond",
- "guildName": "Eternal Army",
- "guildID": 27184,
  "status": [
   {
    "date": "2015-08-07T22:00:00.000Z",
@@ -234,6 +232,14 @@
    "gloryPoint": 8400,
    "gloryPointChange": 653,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 488,
+   "rankingPositionChange": 8,
+   "gloryPoint": 8813,
+   "gloryPointChange": 413,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -247,6 +253,9 @@
    "date": "2015-08-07T22:00:00.000Z",
    "guildName": "Eternal Army",
    "guildID": 27184
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

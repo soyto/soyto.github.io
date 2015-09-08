@@ -2,10 +2,10 @@
  "characterID": 263745,
  "characterClassID": 2,
  "raceID": 1,
- "position": 317,
- "rankingPositionChange": 0,
- "gloryPoint": 8213,
- "gloryPointChange": -28,
+ "position": 318,
+ "rankingPositionChange": -1,
+ "gloryPoint": 8157,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Zsoldos",
  "guildName": "Heros HUN",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8213,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 318,
+   "rankingPositionChange": -1,
+   "gloryPoint": 8157,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

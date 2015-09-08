@@ -2,10 +2,10 @@
  "characterID": 412353,
  "characterClassID": 1,
  "raceID": 1,
- "position": 294,
- "rankingPositionChange": 0,
- "gloryPoint": 24563,
- "gloryPointChange": 94,
+ "position": 295,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24465,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Anduu",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 24563,
    "gloryPointChange": 94,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 295,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24465,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

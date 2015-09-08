@@ -2,14 +2,14 @@
  "characterID": 771747,
  "characterClassID": 14,
  "raceID": 1,
- "position": 387,
- "rankingPositionChange": -6,
- "gloryPoint": 43317,
- "gloryPointChange": 78,
+ "position": 381,
+ "rankingPositionChange": 6,
+ "gloryPoint": 44011,
+ "gloryPointChange": 694,
  "soldierRankID": 12,
  "characterName": "Alcoholitsa",
- "guildName": "UndisputeD",
- "guildID": 13531,
+ "guildName": "Divine",
+ "guildID": 3730,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -258,6 +258,14 @@
    "gloryPoint": 43317,
    "gloryPointChange": 78,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 381,
+   "rankingPositionChange": 6,
+   "gloryPoint": 44011,
+   "gloryPointChange": 694,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -274,6 +282,11 @@
    "date": "2015-09-05T22:00:00.000Z",
    "guildName": "UndisputeD",
    "guildID": 13531
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Divine",
+   "guildID": 3730
   }
  ]
 }

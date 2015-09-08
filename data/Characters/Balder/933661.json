@@ -2,10 +2,10 @@
  "characterID": 933661,
  "characterClassID": 11,
  "raceID": 0,
- "position": 488,
- "rankingPositionChange": 1,
- "gloryPoint": 7376,
- "gloryPointChange": -28,
+ "position": 490,
+ "rankingPositionChange": -2,
+ "gloryPoint": 7320,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Iiquid",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 7376,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 490,
+   "rankingPositionChange": -2,
+   "gloryPoint": 7320,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

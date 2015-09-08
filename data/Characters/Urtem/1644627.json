@@ -2,14 +2,14 @@
  "characterID": 1644627,
  "characterClassID": 8,
  "raceID": 0,
- "position": 974,
- "rankingPositionChange": -10,
- "gloryPoint": 13951,
- "gloryPointChange": 52,
+ "position": 969,
+ "rankingPositionChange": 5,
+ "gloryPoint": 14205,
+ "gloryPointChange": 254,
  "soldierRankID": 10,
  "characterName": "Nevina",
- "guildName": "OMEGA",
- "guildID": 1049,
+ "guildName": "Mad Cuz Bad",
+ "guildID": 48548,
  "status": [
   {
    "date": "2015-09-01T22:00:00.000Z",
@@ -50,6 +50,14 @@
    "gloryPoint": 13951,
    "gloryPointChange": 52,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 969,
+   "rankingPositionChange": 5,
+   "gloryPoint": 14205,
+   "gloryPointChange": 254,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -63,6 +71,11 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "OMEGA",
    "guildID": 1049
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Mad Cuz Bad",
+   "guildID": 48548
   }
  ]
 }

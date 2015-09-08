@@ -2,14 +2,14 @@
  "characterID": 1595033,
  "characterClassID": 4,
  "raceID": 0,
- "position": 287,
- "rankingPositionChange": -1,
- "gloryPoint": 59758,
- "gloryPointChange": 1070,
+ "position": 269,
+ "rankingPositionChange": 18,
+ "gloryPoint": 62953,
+ "gloryPointChange": 3195,
  "soldierRankID": 13,
  "characterName": "Klaess",
- "guildName": "OSEF STRAT FOCUS RANKED",
- "guildID": 27207,
+ "guildName": "Metatrone",
+ "guildID": 1048,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 59758,
    "gloryPointChange": 1070,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 269,
+   "rankingPositionChange": 18,
+   "gloryPoint": 62953,
+   "gloryPointChange": 3195,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "OSEF STRAT FOCUS RANKED",
    "guildID": 27207
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Metatrone",
+   "guildID": 1048
   }
  ]
 }

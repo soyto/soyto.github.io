@@ -2,10 +2,10 @@
  "characterID": 1258518,
  "characterClassID": 16,
  "raceID": 0,
- "position": 64,
- "rankingPositionChange": 0,
- "gloryPoint": 160440,
- "gloryPointChange": 1290,
+ "position": 65,
+ "rankingPositionChange": -1,
+ "gloryPoint": 161230,
+ "gloryPointChange": 790,
  "soldierRankID": 14,
  "characterName": "Masatouine",
  "guildName": "Tears Of Shadows",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 160440,
    "gloryPointChange": 1290,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": -1,
+   "gloryPoint": 161230,
+   "gloryPointChange": 790,
    "soldierRankID": 14
   }
  ],

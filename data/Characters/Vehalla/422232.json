@@ -2,10 +2,10 @@
  "characterID": 422232,
  "characterClassID": 13,
  "raceID": 1,
- "position": 488,
- "rankingPositionChange": 5,
+ "position": 489,
+ "rankingPositionChange": -1,
  "gloryPoint": 1927,
- "gloryPointChange": 42,
+ "gloryPointChange": 0,
  "soldierRankID": 12,
  "characterName": "Dragonrose",
  "guildName": "DragonClan",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 5,
    "gloryPoint": 1927,
    "gloryPointChange": 42,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 489,
+   "rankingPositionChange": -1,
+   "gloryPoint": 1927,
+   "gloryPointChange": 0,
    "soldierRankID": 12
   }
  ],

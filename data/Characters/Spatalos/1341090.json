@@ -2,12 +2,14 @@
  "characterID": 1341090,
  "characterClassID": 2,
  "raceID": 0,
- "position": 797,
- "rankingPositionChange": -1,
- "gloryPoint": 10376,
- "gloryPointChange": -7,
+ "position": 793,
+ "rankingPositionChange": 4,
+ "gloryPoint": 10374,
+ "gloryPointChange": -2,
  "soldierRankID": 10,
  "characterName": "Uchi",
+ "guildName": "ODB",
+ "guildID": 24575,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 10376,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 793,
+   "rankingPositionChange": 4,
+   "gloryPoint": 10374,
+   "gloryPointChange": -2,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "ODB",
+   "guildID": 24575
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 68159,
  "characterClassID": 4,
  "raceID": 0,
- "position": 246,
- "rankingPositionChange": 1,
- "gloryPoint": 44313,
- "gloryPointChange": -49,
+ "position": 249,
+ "rankingPositionChange": -3,
+ "gloryPoint": 44215,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Wartortle",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 44313,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 249,
+   "rankingPositionChange": -3,
+   "gloryPoint": 44215,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 171774,
  "characterClassID": 7,
  "raceID": 0,
- "position": 71,
- "rankingPositionChange": 0,
- "gloryPoint": 153756,
- "gloryPointChange": 88,
+ "position": 72,
+ "rankingPositionChange": -1,
+ "gloryPoint": 153635,
+ "gloryPointChange": -121,
  "soldierRankID": 14,
  "characterName": "Morros",
  "guildName": " Try Again ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 153756,
    "gloryPointChange": 88,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 72,
+   "rankingPositionChange": -1,
+   "gloryPoint": 153635,
+   "gloryPointChange": -121,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 933839,
  "characterClassID": 14,
  "raceID": 1,
- "position": 972,
- "rankingPositionChange": 19,
- "gloryPoint": 3041,
- "gloryPointChange": 143,
+ "position": 980,
+ "rankingPositionChange": -8,
+ "gloryPoint": 3033,
+ "gloryPointChange": -8,
  "soldierRankID": 10,
  "characterName": "Tigershadow",
  "guildName": "Dance Floor",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 19,
    "gloryPoint": 3041,
    "gloryPointChange": 143,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 980,
+   "rankingPositionChange": -8,
+   "gloryPoint": 3033,
+   "gloryPointChange": -8,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 3091,
  "characterClassID": 10,
  "raceID": 1,
- "position": 248,
- "rankingPositionChange": 0,
- "gloryPoint": 59641,
- "gloryPointChange": -49,
+ "position": 251,
+ "rankingPositionChange": -3,
+ "gloryPoint": 59543,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Pawo",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 59641,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 251,
+   "rankingPositionChange": -3,
+   "gloryPoint": 59543,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 686556,
  "characterClassID": 11,
  "raceID": 1,
- "position": 178,
- "rankingPositionChange": 0,
- "gloryPoint": 51711,
- "gloryPointChange": 51,
+ "position": 179,
+ "rankingPositionChange": -1,
+ "gloryPoint": 51813,
+ "gloryPointChange": 102,
  "soldierRankID": 13,
  "characterName": "Elander",
  "guildName": "Tangra",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 51711,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 179,
+   "rankingPositionChange": -1,
+   "gloryPoint": 51813,
+   "gloryPointChange": 102,
    "soldierRankID": 13
   }
  ],

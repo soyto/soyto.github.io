@@ -2,10 +2,10 @@
  "characterID": 1337877,
  "characterClassID": 10,
  "raceID": 1,
- "position": 972,
- "rankingPositionChange": -6,
- "gloryPoint": 2189,
- "gloryPointChange": -7,
+ "position": 971,
+ "rankingPositionChange": 1,
+ "gloryPoint": 2175,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Psyhedelic",
  "guildName": "Invisible Legion",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 2189,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 971,
+   "rankingPositionChange": 1,
+   "gloryPoint": 2175,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

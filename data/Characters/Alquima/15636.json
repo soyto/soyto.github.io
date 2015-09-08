@@ -2,10 +2,10 @@
  "characterID": 15636,
  "characterClassID": 11,
  "raceID": 0,
- "position": 570,
- "rankingPositionChange": 4,
- "gloryPoint": 20527,
- "gloryPointChange": -14,
+ "position": 575,
+ "rankingPositionChange": -5,
+ "gloryPoint": 20499,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Gaelan",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 20527,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 575,
+   "rankingPositionChange": -5,
+   "gloryPoint": 20499,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

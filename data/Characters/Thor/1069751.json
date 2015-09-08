@@ -2,10 +2,10 @@
  "characterID": 1069751,
  "characterClassID": 4,
  "raceID": 1,
- "position": 36,
- "rankingPositionChange": 0,
- "gloryPoint": 214023,
- "gloryPointChange": 1951,
+ "position": 37,
+ "rankingPositionChange": -1,
+ "gloryPoint": 214265,
+ "gloryPointChange": 242,
  "soldierRankID": 14,
  "characterName": "Yodu",
  "guildName": "Karamellisierte Pinguine",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 214023,
    "gloryPointChange": 1951,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 37,
+   "rankingPositionChange": -1,
+   "gloryPoint": 214265,
+   "gloryPointChange": 242,
    "soldierRankID": 14
   }
  ],

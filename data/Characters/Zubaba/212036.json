@@ -2,10 +2,10 @@
  "characterID": 212036,
  "characterClassID": 16,
  "raceID": 0,
- "position": 598,
- "rankingPositionChange": 1,
- "gloryPoint": 11136,
- "gloryPointChange": 106,
+ "position": 600,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11128,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Nascosto",
  "guildName": "    A  L  P  H  A   ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 11136,
    "gloryPointChange": 106,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11128,
+   "gloryPointChange": -8,
    "soldierRankID": 11
   }
  ],

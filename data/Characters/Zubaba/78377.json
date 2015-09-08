@@ -2,10 +2,10 @@
  "characterID": 78377,
  "characterClassID": 14,
  "raceID": 1,
- "position": 79,
- "rankingPositionChange": 1,
- "gloryPoint": 111103,
- "gloryPointChange": 652,
+ "position": 80,
+ "rankingPositionChange": -1,
+ "gloryPoint": 111906,
+ "gloryPointChange": 803,
  "soldierRankID": 14,
  "characterName": "Painmaker",
  "guildName": " GANGSTA  ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 111103,
    "gloryPointChange": 652,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 80,
+   "rankingPositionChange": -1,
+   "gloryPoint": 111906,
+   "gloryPointChange": 803,
    "soldierRankID": 14
   }
  ],

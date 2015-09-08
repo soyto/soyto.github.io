@@ -2,12 +2,14 @@
  "characterID": 1162740,
  "characterClassID": 10,
  "raceID": 0,
- "position": 761,
- "rankingPositionChange": 4,
- "gloryPoint": 22550,
- "gloryPointChange": 620,
+ "position": 750,
+ "rankingPositionChange": 11,
+ "gloryPoint": 23309,
+ "gloryPointChange": 759,
  "soldierRankID": 10,
  "characterName": "Estarioll",
+ "guildName": "Krit Passion Christi",
+ "guildID": 48442,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 22550,
    "gloryPointChange": 620,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 750,
+   "rankingPositionChange": 11,
+   "gloryPoint": 23309,
+   "gloryPointChange": 759,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-02T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Krit Passion Christi",
+   "guildID": 48442
   }
  ]
 }

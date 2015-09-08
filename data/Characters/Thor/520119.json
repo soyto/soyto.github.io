@@ -2,14 +2,14 @@
  "characterID": 520119,
  "characterClassID": 10,
  "raceID": 0,
- "position": 751,
- "rankingPositionChange": -5,
- "gloryPoint": 23022,
- "gloryPointChange": -7,
+ "position": 749,
+ "rankingPositionChange": 2,
+ "gloryPoint": 23311,
+ "gloryPointChange": 289,
  "soldierRankID": 10,
  "characterName": "Sironaaa",
- "guildName": " Paranoia ",
- "guildID": 38253,
+ "guildName": "und die sieben Zwerge",
+ "guildID": 5886,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 23022,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 749,
+   "rankingPositionChange": 2,
+   "gloryPoint": 23311,
+   "gloryPointChange": 289,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -308,6 +316,11 @@
    "date": "2015-08-18T22:00:00.000Z",
    "guildName": " Paranoia ",
    "guildID": 38253
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "und die sieben Zwerge",
+   "guildID": 5886
   }
  ]
 }

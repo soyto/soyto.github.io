@@ -2,14 +2,12 @@
  "characterID": 620787,
  "characterClassID": 1,
  "raceID": 1,
- "position": 636,
- "rankingPositionChange": -1,
- "gloryPoint": 1866,
- "gloryPointChange": 1,
+ "position": 627,
+ "rankingPositionChange": 9,
+ "gloryPoint": 1958,
+ "gloryPointChange": 92,
  "soldierRankID": 11,
  "characterName": "Abalam",
- "guildName": "Blank Space",
- "guildID": 25868,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -210,6 +208,14 @@
    "gloryPoint": 1866,
    "gloryPointChange": 1,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 627,
+   "rankingPositionChange": 9,
+   "gloryPoint": 1958,
+   "gloryPointChange": 92,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -226,6 +232,9 @@
    "date": "2015-08-22T22:00:00.000Z",
    "guildName": "Blank Space",
    "guildID": 25868
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

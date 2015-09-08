@@ -2,10 +2,10 @@
  "characterID": 1116559,
  "characterClassID": 4,
  "raceID": 1,
- "position": 896,
- "rankingPositionChange": -5,
- "gloryPoint": 5737,
- "gloryPointChange": -7,
+ "position": 891,
+ "rankingPositionChange": 5,
+ "gloryPoint": 5958,
+ "gloryPointChange": 221,
  "soldierRankID": 10,
  "characterName": "Arksteel",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 5737,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 891,
+   "rankingPositionChange": 5,
+   "gloryPoint": 5958,
+   "gloryPointChange": 221,
    "soldierRankID": 10
   }
  ],

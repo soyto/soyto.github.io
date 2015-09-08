@@ -2,10 +2,10 @@
  "characterID": 555062,
  "characterClassID": 14,
  "raceID": 0,
- "position": 295,
- "rankingPositionChange": 13,
- "gloryPoint": 41903,
- "gloryPointChange": 1543,
+ "position": 297,
+ "rankingPositionChange": -2,
+ "gloryPoint": 42083,
+ "gloryPointChange": 180,
  "soldierRankID": 13,
  "characterName": "Splynter",
  "guildName": "Comanderss",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 13,
    "gloryPoint": 41903,
    "gloryPointChange": 1543,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 297,
+   "rankingPositionChange": -2,
+   "gloryPoint": 42083,
+   "gloryPointChange": 180,
    "soldierRankID": 13
   }
  ],

@@ -2,14 +2,12 @@
  "characterID": 1087183,
  "characterClassID": 1,
  "raceID": 0,
- "position": 841,
- "rankingPositionChange": 4,
- "gloryPoint": 6014,
- "gloryPointChange": 75,
+ "position": 833,
+ "rankingPositionChange": 8,
+ "gloryPoint": 6060,
+ "gloryPointChange": 46,
  "soldierRankID": 10,
  "characterName": "Arashicage",
- "guildName": "Poder de Atreia",
- "guildID": 19193,
  "status": [
   {
    "date": "2015-08-01T22:00:00.000Z",
@@ -282,6 +280,14 @@
    "gloryPoint": 6014,
    "gloryPointChange": 75,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": 8,
+   "gloryPoint": 6060,
+   "gloryPointChange": 46,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -295,6 +301,9 @@
    "date": "2015-08-01T22:00:00.000Z",
    "guildName": "Poder de Atreia",
    "guildID": 19193
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

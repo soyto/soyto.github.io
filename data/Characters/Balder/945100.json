@@ -2,14 +2,12 @@
  "characterID": 945100,
  "characterClassID": 14,
  "raceID": 0,
- "position": 189,
- "rankingPositionChange": 0,
- "gloryPoint": 42729,
- "gloryPointChange": -49,
+ "position": 187,
+ "rankingPositionChange": 2,
+ "gloryPoint": 43516,
+ "gloryPointChange": 787,
  "soldierRankID": 13,
  "characterName": "Fetzidielandmine",
- "guildName": " Bis einer weint ",
- "guildID": 13141,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 42729,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 187,
+   "rankingPositionChange": 2,
+   "gloryPoint": 43516,
+   "gloryPointChange": 787,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Bis einer weint ",
    "guildID": 13141
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

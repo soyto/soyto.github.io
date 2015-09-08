@@ -2,10 +2,10 @@
  "characterID": 901412,
  "characterClassID": 16,
  "raceID": 1,
- "position": 194,
- "rankingPositionChange": 0,
- "gloryPoint": 25442,
- "gloryPointChange": 101,
+ "position": 193,
+ "rankingPositionChange": 1,
+ "gloryPoint": 25344,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Melowyn",
  "guildName": "Wings of Anarchy",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 25442,
    "gloryPointChange": 101,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 193,
+   "rankingPositionChange": 1,
+   "gloryPoint": 25344,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

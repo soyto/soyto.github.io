@@ -2,14 +2,14 @@
  "characterID": 9880,
  "characterClassID": 10,
  "raceID": 1,
- "position": 101,
- "rankingPositionChange": 0,
- "gloryPoint": 116724,
- "gloryPointChange": 609,
- "soldierRankID": 13,
+ "position": 98,
+ "rankingPositionChange": 3,
+ "gloryPoint": 118863,
+ "gloryPointChange": 2139,
+ "soldierRankID": 14,
  "characterName": "Aleksha",
- "guildName": "AvenuE",
- "guildID": 1804,
+ "guildName": " NeverMind ",
+ "guildID": 5169,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 116724,
    "gloryPointChange": 609,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 98,
+   "rankingPositionChange": 3,
+   "gloryPoint": 118863,
+   "gloryPointChange": 2139,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -316,6 +324,11 @@
    "date": "2015-08-19T22:00:00.000Z",
    "guildName": "AvenuE",
    "guildID": 1804
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": " NeverMind ",
+   "guildID": 5169
   }
  ]
 }

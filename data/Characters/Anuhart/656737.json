@@ -2,10 +2,10 @@
  "characterID": 656737,
  "characterClassID": 10,
  "raceID": 0,
- "position": 11,
- "rankingPositionChange": 0,
- "gloryPoint": 322255,
- "gloryPointChange": 1358,
+ "position": 12,
+ "rankingPositionChange": -1,
+ "gloryPoint": 323810,
+ "gloryPointChange": 1555,
  "soldierRankID": 15,
  "characterName": "Lanatel",
  "guildName": "ARMAGEDDON",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 322255,
    "gloryPointChange": 1358,
+   "soldierRankID": 15
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 12,
+   "rankingPositionChange": -1,
+   "gloryPoint": 323810,
+   "gloryPointChange": 1555,
    "soldierRankID": 15
   }
  ],

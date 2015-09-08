@@ -2,10 +2,10 @@
  "characterID": 1068512,
  "characterClassID": 10,
  "raceID": 0,
- "position": 322,
- "rankingPositionChange": -1,
- "gloryPoint": 40391,
- "gloryPointChange": -28,
+ "position": 321,
+ "rankingPositionChange": 1,
+ "gloryPoint": 40435,
+ "gloryPointChange": 44,
  "soldierRankID": 12,
  "characterName": "Romus",
  "guildName": "Angelus Mortem",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 40391,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 321,
+   "rankingPositionChange": 1,
+   "gloryPoint": 40435,
+   "gloryPointChange": 44,
    "soldierRankID": 12
   }
  ],

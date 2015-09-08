@@ -2,12 +2,14 @@
  "characterID": 150888,
  "characterClassID": 1,
  "raceID": 0,
- "position": 294,
- "rankingPositionChange": 0,
- "gloryPoint": 34056,
- "gloryPointChange": 71,
+ "position": 291,
+ "rankingPositionChange": 3,
+ "gloryPoint": 34138,
+ "gloryPointChange": 82,
  "soldierRankID": 13,
  "characterName": "Ressspect",
+ "guildName": "Be Happy",
+ "guildID": 6871,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 34056,
    "gloryPointChange": 71,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 291,
+   "rankingPositionChange": 3,
+   "gloryPoint": 34138,
+   "gloryPointChange": 82,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Be Happy",
+   "guildID": 6871
   }
  ]
 }

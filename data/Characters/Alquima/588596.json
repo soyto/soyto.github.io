@@ -2,10 +2,10 @@
  "characterID": 588596,
  "characterClassID": 5,
  "raceID": 1,
- "position": 820,
- "rankingPositionChange": 0,
- "gloryPoint": 8298,
- "gloryPointChange": 99,
+ "position": 822,
+ "rankingPositionChange": -2,
+ "gloryPoint": 8284,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Claymoren",
  "guildName": "Destinados",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 8298,
    "gloryPointChange": 99,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 822,
+   "rankingPositionChange": -2,
+   "gloryPoint": 8284,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

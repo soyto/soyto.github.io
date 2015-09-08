@@ -2,10 +2,10 @@
  "characterID": 665150,
  "characterClassID": 4,
  "raceID": 1,
- "position": 997,
- "rankingPositionChange": -4,
- "gloryPoint": 2045,
- "gloryPointChange": -7,
+ "position": 986,
+ "rankingPositionChange": 11,
+ "gloryPoint": 2099,
+ "gloryPointChange": 54,
  "soldierRankID": 10,
  "characterName": "Molossus",
  "guildName": "Obsidia Covertis",
@@ -273,6 +273,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 2045,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 986,
+   "rankingPositionChange": 11,
+   "gloryPoint": 2099,
+   "gloryPointChange": 54,
    "soldierRankID": 10
   }
  ],

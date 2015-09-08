@@ -2,10 +2,10 @@
  "characterID": 212138,
  "characterClassID": 1,
  "raceID": 0,
- "position": 608,
- "rankingPositionChange": 2,
- "gloryPoint": 21623,
- "gloryPointChange": 151,
+ "position": 611,
+ "rankingPositionChange": -3,
+ "gloryPoint": 21595,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Zeris",
  "guildName": "Eclypse",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 21623,
    "gloryPointChange": 151,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": -3,
+   "gloryPoint": 21595,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 786961,
  "characterClassID": 1,
  "raceID": 1,
- "position": 595,
+ "position": 600,
  "rankingPositionChange": -5,
- "gloryPoint": 13268,
- "gloryPointChange": -8,
+ "gloryPoint": 13256,
+ "gloryPointChange": -12,
  "soldierRankID": 11,
  "characterName": "Dexyl",
+ "guildName": "MiThyKal",
+ "guildID": 13011,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 13268,
    "gloryPointChange": -8,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 600,
+   "rankingPositionChange": -5,
+   "gloryPoint": 13256,
+   "gloryPointChange": -12,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-20T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "MiThyKal",
+   "guildID": 13011
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 471986,
  "characterClassID": 4,
  "raceID": 0,
- "position": 99,
- "rankingPositionChange": 0,
- "gloryPoint": 67384,
- "gloryPointChange": -107,
+ "position": 100,
+ "rankingPositionChange": -1,
+ "gloryPoint": 67328,
+ "gloryPointChange": -56,
  "soldierRankID": 14,
  "characterName": "Claribel",
  "guildName": "Tenshi no Tsuki",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 67384,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 100,
+   "rankingPositionChange": -1,
+   "gloryPoint": 67328,
+   "gloryPointChange": -56,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 517873,
  "characterClassID": 2,
  "raceID": 1,
- "position": 950,
- "rankingPositionChange": -2,
- "gloryPoint": 11037,
- "gloryPointChange": -7,
+ "position": 949,
+ "rankingPositionChange": 1,
+ "gloryPoint": 11016,
+ "gloryPointChange": -21,
  "soldierRankID": 10,
  "characterName": "Sathuras",
  "status": [
@@ -199,6 +199,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 11037,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 949,
+   "rankingPositionChange": 1,
+   "gloryPoint": 11016,
+   "gloryPointChange": -21,
    "soldierRankID": 10
   }
  ],

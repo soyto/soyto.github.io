@@ -2,10 +2,10 @@
  "characterID": 88381,
  "characterClassID": 2,
  "raceID": 1,
- "position": 598,
- "rankingPositionChange": 2,
- "gloryPoint": 9353,
- "gloryPointChange": 136,
+ "position": 599,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9393,
+ "gloryPointChange": 40,
  "soldierRankID": 11,
  "characterName": "Nexxxt",
  "guildName": "NEXT",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 9353,
    "gloryPointChange": 136,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 599,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9393,
+   "gloryPointChange": 40,
    "soldierRankID": 11
   }
  ],

@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 0,
  "position": 989,
- "rankingPositionChange": 11,
- "gloryPoint": 2814,
- "gloryPointChange": 50,
+ "rankingPositionChange": 0,
+ "gloryPoint": 2809,
+ "gloryPointChange": -5,
  "soldierRankID": 10,
  "characterName": "Sowone",
  "guildName": "Friendship",
@@ -25,6 +25,14 @@
    "rankingPositionChange": 11,
    "gloryPoint": 2814,
    "gloryPointChange": 50,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 989,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2809,
+   "gloryPointChange": -5,
    "soldierRankID": 10
   }
  ],

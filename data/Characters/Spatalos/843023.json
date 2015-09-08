@@ -2,14 +2,14 @@
  "characterID": 843023,
  "characterClassID": 10,
  "raceID": 0,
- "position": 490,
- "rankingPositionChange": 4,
- "gloryPoint": 24372,
- "gloryPointChange": 288,
+ "position": 473,
+ "rankingPositionChange": 17,
+ "gloryPoint": 25778,
+ "gloryPointChange": 1406,
  "soldierRankID": 12,
  "characterName": "Blackhiterr",
- "guildName": "Seers",
- "guildID": 4843,
+ "guildName": "Hodor",
+ "guildID": 26283,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 24372,
    "gloryPointChange": 288,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 473,
+   "rankingPositionChange": 17,
+   "gloryPoint": 25778,
+   "gloryPointChange": 1406,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Seers",
    "guildID": 4843
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Hodor",
+   "guildID": 26283
   }
  ]
 }

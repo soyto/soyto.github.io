@@ -2,10 +2,10 @@
  "characterID": 1234270,
  "characterClassID": 14,
  "raceID": 1,
- "position": 597,
- "rankingPositionChange": 3,
- "gloryPoint": 14371,
- "gloryPointChange": 167,
+ "position": 598,
+ "rankingPositionChange": -1,
+ "gloryPoint": 14508,
+ "gloryPointChange": 137,
  "soldierRankID": 11,
  "characterName": "Setri",
  "guildName": "Ystralia",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 14371,
    "gloryPointChange": 167,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 598,
+   "rankingPositionChange": -1,
+   "gloryPoint": 14508,
+   "gloryPointChange": 137,
    "soldierRankID": 11
   }
  ],

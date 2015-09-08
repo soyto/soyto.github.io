@@ -2,14 +2,12 @@
  "characterID": 307698,
  "characterClassID": 10,
  "raceID": 0,
- "position": 282,
- "rankingPositionChange": -1,
- "gloryPoint": 54388,
- "gloryPointChange": -49,
+ "position": 281,
+ "rankingPositionChange": 1,
+ "gloryPoint": 54952,
+ "gloryPointChange": 564,
  "soldierRankID": 13,
  "characterName": "Fleska",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 54388,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 281,
+   "rankingPositionChange": 1,
+   "gloryPoint": 54952,
+   "gloryPointChange": 564,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

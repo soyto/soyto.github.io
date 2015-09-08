@@ -2,10 +2,10 @@
  "characterID": 295851,
  "characterClassID": 7,
  "raceID": 0,
- "position": 454,
- "rankingPositionChange": -1,
- "gloryPoint": 3790,
- "gloryPointChange": 2,
+ "position": 452,
+ "rankingPositionChange": 2,
+ "gloryPoint": 3784,
+ "gloryPointChange": -6,
  "soldierRankID": 12,
  "characterName": "Lorea",
  "guildName": "LOP",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 3790,
    "gloryPointChange": 2,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 452,
+   "rankingPositionChange": 2,
+   "gloryPoint": 3784,
+   "gloryPointChange": -6,
    "soldierRankID": 12
   }
  ],

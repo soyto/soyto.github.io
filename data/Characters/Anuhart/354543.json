@@ -2,10 +2,10 @@
  "characterID": 354543,
  "characterClassID": 5,
  "raceID": 0,
- "position": 802,
- "rankingPositionChange": -1,
- "gloryPoint": 6567,
- "gloryPointChange": -7,
+ "position": 781,
+ "rankingPositionChange": 21,
+ "gloryPoint": 6965,
+ "gloryPointChange": 398,
  "soldierRankID": 10,
  "characterName": "Buran",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 6567,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 781,
+   "rankingPositionChange": 21,
+   "gloryPoint": 6965,
+   "gloryPointChange": 398,
    "soldierRankID": 10
   }
  ],

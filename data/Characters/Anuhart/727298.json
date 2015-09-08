@@ -2,10 +2,10 @@
  "characterID": 727298,
  "characterClassID": 4,
  "raceID": 1,
- "position": 403,
- "rankingPositionChange": -5,
- "gloryPoint": 14159,
- "gloryPointChange": -22,
+ "position": 401,
+ "rankingPositionChange": 2,
+ "gloryPoint": 14109,
+ "gloryPointChange": -50,
  "soldierRankID": 12,
  "characterName": "Panic",
  "status": [
@@ -255,6 +255,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 14159,
    "gloryPointChange": -22,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 401,
+   "rankingPositionChange": 2,
+   "gloryPoint": 14109,
+   "gloryPointChange": -50,
    "soldierRankID": 12
   }
  ],

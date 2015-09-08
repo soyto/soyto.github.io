@@ -2,10 +2,10 @@
  "characterID": 1375181,
  "characterClassID": 1,
  "raceID": 0,
- "position": 407,
- "rankingPositionChange": -32,
- "gloryPoint": 45126,
- "gloryPointChange": -924,
+ "position": 406,
+ "rankingPositionChange": 1,
+ "gloryPoint": 45070,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Bridas",
  "status": [
@@ -39,6 +39,14 @@
    "rankingPositionChange": -32,
    "gloryPoint": 45126,
    "gloryPointChange": -924,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 406,
+   "rankingPositionChange": 1,
+   "gloryPoint": 45070,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

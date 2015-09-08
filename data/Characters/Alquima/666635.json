@@ -2,11 +2,11 @@
  "characterID": 666635,
  "characterClassID": 4,
  "raceID": 1,
- "position": 995,
- "rankingPositionChange": 1,
- "gloryPoint": 5596,
- "gloryPointChange": 24,
- "soldierRankID": 10,
+ "position": 1000,
+ "rankingPositionChange": -5,
+ "gloryPoint": 5582,
+ "gloryPointChange": -14,
+ "soldierRankID": 0,
  "characterName": "Asikja",
  "guildName": "Destinados",
  "guildID": 9935,
@@ -34,6 +34,14 @@
    "gloryPoint": 5596,
    "gloryPointChange": 24,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 1000,
+   "rankingPositionChange": -5,
+   "gloryPoint": 5582,
+   "gloryPointChange": -14,
+   "soldierRankID": 0
   }
  ],
  "names": [

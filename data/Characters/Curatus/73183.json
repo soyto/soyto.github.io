@@ -2,10 +2,10 @@
  "characterID": 73183,
  "characterClassID": 16,
  "raceID": 1,
- "position": 578,
- "rankingPositionChange": 8,
- "gloryPoint": 9929,
- "gloryPointChange": 222,
+ "position": 580,
+ "rankingPositionChange": -2,
+ "gloryPoint": 9904,
+ "gloryPointChange": -25,
  "soldierRankID": 11,
  "characterName": "Cocoriko",
  "guildName": "SouL  TeaR",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 9929,
    "gloryPointChange": 222,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 580,
+   "rankingPositionChange": -2,
+   "gloryPoint": 9904,
+   "gloryPointChange": -25,
    "soldierRankID": 11
   }
  ],

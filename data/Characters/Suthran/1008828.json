@@ -2,10 +2,10 @@
  "characterID": 1008828,
  "characterClassID": 1,
  "raceID": 0,
- "position": 254,
- "rankingPositionChange": 0,
- "gloryPoint": 63040,
- "gloryPointChange": 44,
+ "position": 255,
+ "rankingPositionChange": -1,
+ "gloryPoint": 63195,
+ "gloryPointChange": 155,
  "soldierRankID": 13,
  "characterName": "Gkmll",
  "guildName": "SALAM ALEYKOUM",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 63040,
    "gloryPointChange": 44,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 255,
+   "rankingPositionChange": -1,
+   "gloryPoint": 63195,
+   "gloryPointChange": 155,
    "soldierRankID": 13
   }
  ],

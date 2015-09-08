@@ -2,10 +2,10 @@
  "characterID": 53866,
  "characterClassID": 1,
  "raceID": 0,
- "position": 68,
- "rankingPositionChange": 0,
- "gloryPoint": 87164,
- "gloryPointChange": -107,
+ "position": 69,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86950,
+ "gloryPointChange": -214,
  "soldierRankID": 14,
  "characterName": "Goren",
  "guildName": "Amazing",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 87164,
    "gloryPointChange": -107,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 69,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86950,
+   "gloryPointChange": -214,
    "soldierRankID": 14
   }
  ],

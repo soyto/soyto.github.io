@@ -2,12 +2,14 @@
  "characterID": 1205721,
  "characterClassID": 16,
  "raceID": 0,
- "position": 902,
- "rankingPositionChange": -7,
- "gloryPoint": 15696,
- "gloryPointChange": 118,
+ "position": 886,
+ "rankingPositionChange": 16,
+ "gloryPoint": 16325,
+ "gloryPointChange": 629,
  "soldierRankID": 10,
  "characterName": "Nylh",
+ "guildName": "L E S I M M O R T E L S",
+ "guildID": 38280,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 15696,
    "gloryPointChange": 118,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 886,
+   "rankingPositionChange": 16,
+   "gloryPoint": 16325,
+   "gloryPointChange": 629,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -307,6 +317,11 @@
   },
   {
    "date": "2015-08-27T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "L E S I M M O R T E L S",
+   "guildID": 38280
   }
  ]
 }

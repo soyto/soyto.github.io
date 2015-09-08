@@ -2,10 +2,10 @@
  "characterID": 338040,
  "characterClassID": 1,
  "raceID": 0,
- "position": 80,
- "rankingPositionChange": 0,
- "gloryPoint": 132023,
- "gloryPointChange": 11,
+ "position": 81,
+ "rankingPositionChange": -1,
+ "gloryPoint": 132665,
+ "gloryPointChange": 642,
  "soldierRankID": 14,
  "characterName": "Narnja",
  "guildName": "En Pire",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 132023,
    "gloryPointChange": 11,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 81,
+   "rankingPositionChange": -1,
+   "gloryPoint": 132665,
+   "gloryPointChange": 642,
    "soldierRankID": 14
   }
  ],

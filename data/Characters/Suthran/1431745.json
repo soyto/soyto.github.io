@@ -2,10 +2,10 @@
  "characterID": 1431745,
  "characterClassID": 4,
  "raceID": 1,
- "position": 705,
- "rankingPositionChange": -25,
- "gloryPoint": 9506,
- "gloryPointChange": -122,
+ "position": 703,
+ "rankingPositionChange": 2,
+ "gloryPoint": 9580,
+ "gloryPointChange": 74,
  "soldierRankID": 10,
  "characterName": "Darkmessiah",
  "status": [
@@ -207,6 +207,14 @@
    "rankingPositionChange": -25,
    "gloryPoint": 9506,
    "gloryPointChange": -122,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 703,
+   "rankingPositionChange": 2,
+   "gloryPoint": 9580,
+   "gloryPointChange": 74,
    "soldierRankID": 10
   }
  ],

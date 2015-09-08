@@ -2,10 +2,10 @@
  "characterID": 86369,
  "characterClassID": 1,
  "raceID": 0,
- "position": 996,
- "rankingPositionChange": 3,
- "gloryPoint": 10005,
- "gloryPointChange": 43,
+ "position": 997,
+ "rankingPositionChange": -1,
+ "gloryPoint": 9991,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Nekomarru",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 10005,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 997,
+   "rankingPositionChange": -1,
+   "gloryPoint": 9991,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

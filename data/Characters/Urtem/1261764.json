@@ -2,14 +2,12 @@
  "characterID": 1261764,
  "characterClassID": 10,
  "raceID": 0,
- "position": 890,
- "rankingPositionChange": -12,
- "gloryPoint": 15911,
- "gloryPointChange": -7,
+ "position": 898,
+ "rankingPositionChange": -8,
+ "gloryPoint": 15897,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Hyonia",
- "guildName": "Zerg Smoke and Rng",
- "guildID": 41150,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 15911,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 898,
+   "rankingPositionChange": -8,
+   "gloryPoint": 15897,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -308,6 +314,9 @@
    "date": "2015-08-01T22:00:00.000Z",
    "guildName": "Zerg Smoke and Rng",
    "guildID": 41150
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

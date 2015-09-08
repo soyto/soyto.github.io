@@ -2,10 +2,10 @@
  "characterID": 606831,
  "characterClassID": 7,
  "raceID": 1,
- "position": 795,
- "rankingPositionChange": 24,
- "gloryPoint": 8796,
- "gloryPointChange": 549,
+ "position": 801,
+ "rankingPositionChange": -6,
+ "gloryPoint": 8782,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Latiz",
  "guildName": "Los Valar",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 24,
    "gloryPoint": 8796,
    "gloryPointChange": 549,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 801,
+   "rankingPositionChange": -6,
+   "gloryPoint": 8782,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

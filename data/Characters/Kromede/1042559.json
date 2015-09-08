@@ -2,12 +2,14 @@
  "characterID": 1042559,
  "characterClassID": 4,
  "raceID": 0,
- "position": 960,
- "rankingPositionChange": 0,
- "gloryPoint": 8789,
- "gloryPointChange": -7,
+ "position": 951,
+ "rankingPositionChange": 9,
+ "gloryPoint": 9028,
+ "gloryPointChange": 239,
  "soldierRankID": 10,
  "characterName": "Sansho",
+ "guildName": "The Wind is pushing meeeeeeeeeee",
+ "guildID": 29251,
  "status": [
   {
    "date": "2015-08-28T22:00:00.000Z",
@@ -72,6 +74,14 @@
    "gloryPoint": 8789,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": 9,
+   "gloryPoint": 9028,
+   "gloryPointChange": 239,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -88,6 +98,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "The Wind is pushing meeeeeeeeeee",
+   "guildID": 29251
   }
  ]
 }

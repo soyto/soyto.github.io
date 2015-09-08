@@ -2,10 +2,10 @@
  "characterID": 378931,
  "characterClassID": 10,
  "raceID": 0,
- "position": 220,
- "rankingPositionChange": 1,
- "gloryPoint": 35311,
- "gloryPointChange": 315,
+ "position": 221,
+ "rankingPositionChange": -1,
+ "gloryPoint": 35307,
+ "gloryPointChange": -4,
  "soldierRankID": 13,
  "characterName": "Thelxinoe",
  "guildName": "Fokus",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 35311,
    "gloryPointChange": 315,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 221,
+   "rankingPositionChange": -1,
+   "gloryPoint": 35307,
+   "gloryPointChange": -4,
    "soldierRankID": 13
   }
  ],

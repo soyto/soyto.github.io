@@ -2,10 +2,10 @@
  "characterID": 89218,
  "characterClassID": 1,
  "raceID": 0,
- "position": 236,
- "rankingPositionChange": 1,
- "gloryPoint": 46393,
- "gloryPointChange": -49,
+ "position": 241,
+ "rankingPositionChange": -5,
+ "gloryPoint": 46295,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Edward",
  "guildName": "Lightning Strike",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 46393,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 241,
+   "rankingPositionChange": -5,
+   "gloryPoint": 46295,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

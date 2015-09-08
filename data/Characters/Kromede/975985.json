@@ -2,10 +2,10 @@
  "characterID": 975985,
  "characterClassID": 14,
  "raceID": 1,
- "position": 180,
- "rankingPositionChange": 0,
- "gloryPoint": 45042,
- "gloryPointChange": 13,
+ "position": 181,
+ "rankingPositionChange": -1,
+ "gloryPoint": 45143,
+ "gloryPointChange": 101,
  "soldierRankID": 13,
  "characterName": "Schmeiser",
  "guildName": "Kloster",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 45042,
    "gloryPointChange": 13,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 181,
+   "rankingPositionChange": -1,
+   "gloryPoint": 45143,
+   "gloryPointChange": 101,
    "soldierRankID": 13
   }
  ],

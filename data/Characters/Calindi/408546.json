@@ -3,13 +3,13 @@
  "characterClassID": 7,
  "raceID": 0,
  "position": 629,
- "rankingPositionChange": -6,
- "gloryPoint": 3070,
- "gloryPointChange": -14,
+ "rankingPositionChange": 0,
+ "gloryPoint": 3042,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Idezia",
- "guildName": "Tribu des Popokus",
- "guildID": 15781,
+ "guildName": "Shining Fate",
+ "guildID": 15554,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 3070,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 629,
+   "rankingPositionChange": 0,
+   "gloryPoint": 3042,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Tribu des Popokus",
    "guildID": 15781
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Shining Fate",
+   "guildID": 15554
   }
  ]
 }

@@ -2,10 +2,10 @@
  "characterID": 118909,
  "characterClassID": 13,
  "raceID": 1,
- "position": 103,
- "rankingPositionChange": 1,
- "gloryPoint": 90657,
- "gloryPointChange": -46,
+ "position": 104,
+ "rankingPositionChange": -1,
+ "gloryPoint": 90809,
+ "gloryPointChange": 152,
  "soldierRankID": 13,
  "characterName": "Robokop",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 90657,
    "gloryPointChange": -46,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 104,
+   "rankingPositionChange": -1,
+   "gloryPoint": 90809,
+   "gloryPointChange": 152,
    "soldierRankID": 13
   }
  ],

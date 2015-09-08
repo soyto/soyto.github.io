@@ -2,10 +2,10 @@
  "characterID": 701560,
  "characterClassID": 4,
  "raceID": 0,
- "position": 259,
- "rankingPositionChange": -1,
- "gloryPoint": 27895,
- "gloryPointChange": -49,
+ "position": 258,
+ "rankingPositionChange": 1,
+ "gloryPoint": 28100,
+ "gloryPointChange": 205,
  "soldierRankID": 13,
  "characterName": "Dykane",
  "guildName": "Unfading",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 27895,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 258,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28100,
+   "gloryPointChange": 205,
    "soldierRankID": 13
   }
  ],

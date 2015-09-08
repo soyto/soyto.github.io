@@ -2,10 +2,10 @@
  "characterID": 153136,
  "characterClassID": 5,
  "raceID": 1,
- "position": 911,
+ "position": 903,
  "rankingPositionChange": 8,
- "gloryPoint": 2071,
- "gloryPointChange": 113,
+ "gloryPoint": 2063,
+ "gloryPointChange": -8,
  "soldierRankID": 10,
  "characterName": "Blackluci",
  "guildName": "BlackAngels",
@@ -49,6 +49,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 2071,
    "gloryPointChange": 113,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 903,
+   "rankingPositionChange": 8,
+   "gloryPoint": 2063,
+   "gloryPointChange": -8,
    "soldierRankID": 10
   }
  ],

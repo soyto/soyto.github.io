@@ -2,10 +2,10 @@
  "characterID": 927000,
  "characterClassID": 5,
  "raceID": 0,
- "position": 780,
- "rankingPositionChange": 2,
- "gloryPoint": 13400,
- "gloryPointChange": 67,
+ "position": 776,
+ "rankingPositionChange": 4,
+ "gloryPoint": 13386,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Kuntaku",
  "guildName": "Wiener Blut",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 13400,
    "gloryPointChange": 67,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 776,
+   "rankingPositionChange": 4,
+   "gloryPoint": 13386,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

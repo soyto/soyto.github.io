@@ -2,10 +2,10 @@
  "characterID": 83031,
  "characterClassID": 4,
  "raceID": 1,
- "position": 63,
- "rankingPositionChange": 1,
- "gloryPoint": 122510,
- "gloryPointChange": 546,
+ "position": 65,
+ "rankingPositionChange": -2,
+ "gloryPoint": 122574,
+ "gloryPointChange": 64,
  "soldierRankID": 14,
  "characterName": "Noelbebe",
  "guildName": "Asabiler",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 122510,
    "gloryPointChange": 546,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 65,
+   "rankingPositionChange": -2,
+   "gloryPoint": 122574,
+   "gloryPointChange": 64,
    "soldierRankID": 14
   }
  ],

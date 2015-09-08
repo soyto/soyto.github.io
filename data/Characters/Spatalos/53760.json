@@ -2,10 +2,10 @@
  "characterID": 53760,
  "characterClassID": 2,
  "raceID": 1,
- "position": 286,
- "rankingPositionChange": 10,
- "gloryPoint": 21260,
- "gloryPointChange": 895,
+ "position": 287,
+ "rankingPositionChange": -1,
+ "gloryPoint": 21162,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Umanel",
  "guildName": "BandOfBrothers",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 10,
    "gloryPoint": 21260,
    "gloryPointChange": 895,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 287,
+   "rankingPositionChange": -1,
+   "gloryPoint": 21162,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

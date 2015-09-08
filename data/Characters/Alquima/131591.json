@@ -2,10 +2,10 @@
  "characterID": 131591,
  "characterClassID": 16,
  "raceID": 1,
- "position": 398,
- "rankingPositionChange": 0,
- "gloryPoint": 21448,
- "gloryPointChange": 347,
+ "position": 400,
+ "rankingPositionChange": -2,
+ "gloryPoint": 21392,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Yumeeko",
  "guildName": "HYDRA",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 21448,
    "gloryPointChange": 347,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 400,
+   "rankingPositionChange": -2,
+   "gloryPoint": 21392,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

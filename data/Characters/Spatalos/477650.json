@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 715,
- "rankingPositionChange": -5,
- "gloryPoint": 4209,
- "gloryPointChange": -7,
+ "rankingPositionChange": 0,
+ "gloryPoint": 4254,
+ "gloryPointChange": 45,
  "soldierRankID": 10,
  "characterName": "Bluefoot",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 4209,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 715,
+   "rankingPositionChange": 0,
+   "gloryPoint": 4254,
+   "gloryPointChange": 45,
    "soldierRankID": 10
   }
  ],

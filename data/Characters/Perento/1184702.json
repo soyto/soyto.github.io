@@ -2,14 +2,12 @@
  "characterID": 1184702,
  "characterClassID": 4,
  "raceID": 0,
- "position": 583,
- "rankingPositionChange": 2,
- "gloryPoint": 15448,
- "gloryPointChange": 86,
+ "position": 580,
+ "rankingPositionChange": 3,
+ "gloryPoint": 15420,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Kozhaa",
- "guildName": "The Black Dozen",
- "guildID": 19646,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 15448,
    "gloryPointChange": 86,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 580,
+   "rankingPositionChange": 3,
+   "gloryPoint": 15420,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -311,6 +317,9 @@
    "date": "2015-08-05T22:00:00.000Z",
    "guildName": "The Black Dozen",
    "guildID": 19646
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

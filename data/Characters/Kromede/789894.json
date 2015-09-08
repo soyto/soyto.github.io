@@ -2,14 +2,14 @@
  "characterID": 789894,
  "characterClassID": 4,
  "raceID": 1,
- "position": 86,
- "rankingPositionChange": -1,
- "gloryPoint": 96356,
- "gloryPointChange": -107,
+ "position": 85,
+ "rankingPositionChange": 1,
+ "gloryPoint": 97082,
+ "gloryPointChange": 726,
  "soldierRankID": 14,
  "characterName": "Alukarin",
- "guildName": "P a n d o r a",
- "guildID": 1128,
+ "guildName": "Skin to Win",
+ "guildID": 33703,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 96356,
    "gloryPointChange": -107,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 85,
+   "rankingPositionChange": 1,
+   "gloryPoint": 97082,
+   "gloryPointChange": 726,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "P a n d o r a",
    "guildID": 1128
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Skin to Win",
+   "guildID": 33703
   }
  ]
 }

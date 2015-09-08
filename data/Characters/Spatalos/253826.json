@@ -2,10 +2,10 @@
  "characterID": 253826,
  "characterClassID": 5,
  "raceID": 0,
- "position": 131,
- "rankingPositionChange": 0,
- "gloryPoint": 111932,
- "gloryPointChange": 276,
+ "position": 132,
+ "rankingPositionChange": -1,
+ "gloryPoint": 111834,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Jnm",
  "guildName": "JNM",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 111932,
    "gloryPointChange": 276,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 132,
+   "rankingPositionChange": -1,
+   "gloryPoint": 111834,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

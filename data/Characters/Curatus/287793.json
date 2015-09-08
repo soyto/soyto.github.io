@@ -2,10 +2,10 @@
  "characterID": 287793,
  "characterClassID": 7,
  "raceID": 1,
- "position": 123,
- "rankingPositionChange": 0,
- "gloryPoint": 68279,
- "gloryPointChange": 51,
+ "position": 124,
+ "rankingPositionChange": -1,
+ "gloryPoint": 68385,
+ "gloryPointChange": 106,
  "soldierRankID": 13,
  "characterName": "Zekkky",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 68279,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 124,
+   "rankingPositionChange": -1,
+   "gloryPoint": 68385,
+   "gloryPointChange": 106,
    "soldierRankID": 13
   }
  ],

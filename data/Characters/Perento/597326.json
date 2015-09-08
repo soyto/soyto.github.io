@@ -3,9 +3,9 @@
  "characterClassID": 4,
  "raceID": 1,
  "position": 103,
- "rankingPositionChange": -2,
- "gloryPoint": 106000,
- "gloryPointChange": -49,
+ "rankingPositionChange": 0,
+ "gloryPoint": 106261,
+ "gloryPointChange": 261,
  "soldierRankID": 13,
  "characterName": "Scoffer",
  "guildName": "The Others",
@@ -281,6 +281,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 106000,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 103,
+   "rankingPositionChange": 0,
+   "gloryPoint": 106261,
+   "gloryPointChange": 261,
    "soldierRankID": 13
   }
  ],

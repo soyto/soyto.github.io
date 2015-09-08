@@ -2,10 +2,10 @@
  "characterID": 124243,
  "characterClassID": 16,
  "raceID": 0,
- "position": 861,
- "rankingPositionChange": 3,
- "gloryPoint": 13771,
- "gloryPointChange": -7,
+ "position": 862,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13886,
+ "gloryPointChange": 115,
  "soldierRankID": 10,
  "characterName": "Koliia",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 13771,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 862,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13886,
+   "gloryPointChange": 115,
    "soldierRankID": 10
   }
  ],

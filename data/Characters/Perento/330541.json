@@ -2,10 +2,10 @@
  "characterID": 330541,
  "characterClassID": 1,
  "raceID": 1,
- "position": 97,
- "rankingPositionChange": 1,
- "gloryPoint": 108641,
- "gloryPointChange": 898,
+ "position": 98,
+ "rankingPositionChange": -1,
+ "gloryPoint": 108616,
+ "gloryPointChange": -25,
  "soldierRankID": 14,
  "characterName": "Pappap",
  "guildName": "Sarcasm",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 108641,
    "gloryPointChange": 898,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 98,
+   "rankingPositionChange": -1,
+   "gloryPoint": 108616,
+   "gloryPointChange": -25,
    "soldierRankID": 14
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 278290,
  "characterClassID": 16,
  "raceID": 1,
- "position": 876,
- "rankingPositionChange": -2,
- "gloryPoint": 4234,
- "gloryPointChange": -7,
+ "position": 861,
+ "rankingPositionChange": 15,
+ "gloryPoint": 4403,
+ "gloryPointChange": 169,
  "soldierRankID": 10,
  "characterName": "Eversman",
+ "guildName": "  TOP  ",
+ "guildID": 2521,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -280,6 +282,14 @@
    "gloryPoint": 4234,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 861,
+   "rankingPositionChange": 15,
+   "gloryPoint": 4403,
+   "gloryPointChange": 169,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -291,6 +301,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "  TOP  ",
+   "guildID": 2521
   }
  ]
 }

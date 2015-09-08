@@ -2,10 +2,10 @@
  "characterID": 315432,
  "characterClassID": 8,
  "raceID": 0,
- "position": 554,
- "rankingPositionChange": 4,
- "gloryPoint": 5951,
- "gloryPointChange": 71,
+ "position": 558,
+ "rankingPositionChange": -4,
+ "gloryPoint": 5933,
+ "gloryPointChange": -18,
  "soldierRankID": 11,
  "characterName": "Horroodissimoth",
  "guildName": "Hanami",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 5951,
    "gloryPointChange": 71,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 558,
+   "rankingPositionChange": -4,
+   "gloryPoint": 5933,
+   "gloryPointChange": -18,
    "soldierRankID": 11
   }
  ],

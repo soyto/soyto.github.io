@@ -2,10 +2,10 @@
  "characterID": 447903,
  "characterClassID": 1,
  "raceID": 0,
- "position": 632,
- "rankingPositionChange": 1,
- "gloryPoint": 18742,
- "gloryPointChange": 122,
+ "position": 635,
+ "rankingPositionChange": -3,
+ "gloryPoint": 18717,
+ "gloryPointChange": -25,
  "soldierRankID": 11,
  "characterName": "Luxsero",
  "guildName": "I Kill You Baddie",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 18742,
    "gloryPointChange": 122,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 635,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18717,
+   "gloryPointChange": -25,
    "soldierRankID": 11
   }
  ],

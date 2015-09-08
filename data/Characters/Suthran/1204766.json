@@ -2,10 +2,10 @@
  "characterID": 1204766,
  "characterClassID": 10,
  "raceID": 0,
- "position": 164,
- "rankingPositionChange": 2,
- "gloryPoint": 86378,
- "gloryPointChange": 1124,
+ "position": 165,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86280,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Homophile",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 86378,
    "gloryPointChange": 1124,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 165,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86280,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

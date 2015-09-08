@@ -2,10 +2,10 @@
  "characterID": 502543,
  "characterClassID": 11,
  "raceID": 0,
- "position": 335,
- "rankingPositionChange": 3,
- "gloryPoint": 17513,
- "gloryPointChange": 67,
+ "position": 338,
+ "rankingPositionChange": -3,
+ "gloryPoint": 17507,
+ "gloryPointChange": -6,
  "soldierRankID": 12,
  "characterName": "Tristis",
  "guildName": "NoName",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 17513,
    "gloryPointChange": 67,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 338,
+   "rankingPositionChange": -3,
+   "gloryPoint": 17507,
+   "gloryPointChange": -6,
    "soldierRankID": 12
   }
  ],

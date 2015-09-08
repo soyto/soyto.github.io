@@ -2,10 +2,10 @@
  "characterID": 389083,
  "characterClassID": 10,
  "raceID": 1,
- "position": 571,
- "rankingPositionChange": 38,
- "gloryPoint": 13627,
- "gloryPointChange": 722,
+ "position": 590,
+ "rankingPositionChange": -19,
+ "gloryPoint": 13485,
+ "gloryPointChange": -142,
  "soldierRankID": 11,
  "characterName": "Zilena",
  "guildName": "Destinados",
@@ -193,6 +193,14 @@
    "rankingPositionChange": 38,
    "gloryPoint": 13627,
    "gloryPointChange": 722,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 590,
+   "rankingPositionChange": -19,
+   "gloryPoint": 13485,
+   "gloryPointChange": -142,
    "soldierRankID": 11
   }
  ],

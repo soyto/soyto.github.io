@@ -2,10 +2,10 @@
  "characterID": 595629,
  "characterClassID": 10,
  "raceID": 0,
- "position": 408,
- "rankingPositionChange": -1,
- "gloryPoint": 30151,
- "gloryPointChange": -28,
+ "position": 407,
+ "rankingPositionChange": 1,
+ "gloryPoint": 30095,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Deldrina",
  "status": [
@@ -127,6 +127,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 30151,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 407,
+   "rankingPositionChange": 1,
+   "gloryPoint": 30095,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

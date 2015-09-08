@@ -2,10 +2,10 @@
  "characterID": 1146775,
  "characterClassID": 1,
  "raceID": 1,
- "position": 829,
- "rankingPositionChange": 6,
- "gloryPoint": 2518,
- "gloryPointChange": 43,
+ "position": 824,
+ "rankingPositionChange": 5,
+ "gloryPoint": 2514,
+ "gloryPointChange": -4,
  "soldierRankID": 10,
  "characterName": "Armonnia",
  "guildName": "Not Today",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 2518,
    "gloryPointChange": 43,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 824,
+   "rankingPositionChange": 5,
+   "gloryPoint": 2514,
+   "gloryPointChange": -4,
    "soldierRankID": 10
   }
  ],

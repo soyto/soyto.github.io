@@ -2,14 +2,12 @@
  "characterID": 514029,
  "characterClassID": 10,
  "raceID": 0,
- "position": 548,
- "rankingPositionChange": -4,
- "gloryPoint": 4775,
- "gloryPointChange": -14,
+ "position": 550,
+ "rankingPositionChange": -2,
+ "gloryPoint": 4747,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Toytoy",
- "guildName": "Shining Fate",
- "guildID": 15554,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 4775,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 550,
+   "rankingPositionChange": -2,
+   "gloryPoint": 4747,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "THUG LIFE",
    "guildID": 15554
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

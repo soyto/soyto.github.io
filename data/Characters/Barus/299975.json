@@ -2,10 +2,10 @@
  "characterID": 299975,
  "characterClassID": 4,
  "raceID": 0,
- "position": 62,
- "rankingPositionChange": 0,
- "gloryPoint": 121600,
- "gloryPointChange": 578,
+ "position": 63,
+ "rankingPositionChange": -1,
+ "gloryPoint": 121615,
+ "gloryPointChange": 15,
  "soldierRankID": 14,
  "characterName": "Poston",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 121600,
    "gloryPointChange": 578,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 63,
+   "rankingPositionChange": -1,
+   "gloryPoint": 121615,
+   "gloryPointChange": 15,
    "soldierRankID": 14
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1000400,
  "characterClassID": 16,
  "raceID": 1,
- "position": 524,
- "rankingPositionChange": 0,
- "gloryPoint": 3011,
- "gloryPointChange": -14,
+ "position": 529,
+ "rankingPositionChange": -5,
+ "gloryPoint": 2983,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Happpy",
  "guildName": "LostBoys",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 3011,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 529,
+   "rankingPositionChange": -5,
+   "gloryPoint": 2983,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1000289,
  "characterClassID": 16,
  "raceID": 1,
- "position": 487,
- "rankingPositionChange": -2,
- "gloryPoint": 3530,
- "gloryPointChange": -28,
+ "position": 485,
+ "rankingPositionChange": 2,
+ "gloryPoint": 3594,
+ "gloryPointChange": 64,
  "soldierRankID": 12,
  "characterName": "Sylveon",
  "guildName": "Nyerk",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 3530,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 485,
+   "rankingPositionChange": 2,
+   "gloryPoint": 3594,
+   "gloryPointChange": 64,
    "soldierRankID": 12
   }
  ],

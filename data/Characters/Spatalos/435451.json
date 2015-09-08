@@ -3,9 +3,9 @@
  "characterClassID": 11,
  "raceID": 1,
  "position": 170,
- "rankingPositionChange": 1,
- "gloryPoint": 39083,
- "gloryPointChange": 235,
+ "rankingPositionChange": 0,
+ "gloryPoint": 39075,
+ "gloryPointChange": -8,
  "soldierRankID": 13,
  "characterName": "Absolution",
  "guildName": "BandOfBrothers",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 39083,
    "gloryPointChange": 235,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 170,
+   "rankingPositionChange": 0,
+   "gloryPoint": 39075,
+   "gloryPointChange": -8,
    "soldierRankID": 13
   }
  ],

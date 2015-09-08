@@ -2,14 +2,14 @@
  "characterID": 1303480,
  "characterClassID": 14,
  "raceID": 1,
- "position": 529,
- "rankingPositionChange": 1,
- "gloryPoint": 14781,
- "gloryPointChange": 276,
+ "position": 536,
+ "rankingPositionChange": -7,
+ "gloryPoint": 14831,
+ "gloryPointChange": 50,
  "soldierRankID": 11,
  "characterName": "Darkdob",
- "guildName": "The Darksiders",
- "guildID": 38010,
+ "guildName": "BlacKSheeP",
+ "guildID": 5314,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 14781,
    "gloryPointChange": 276,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 536,
+   "rankingPositionChange": -7,
+   "gloryPoint": 14831,
+   "gloryPointChange": 50,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -298,6 +306,11 @@
    "date": "2015-08-10T22:00:00.000Z",
    "guildName": "The Darksiders",
    "guildID": 38010
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "BlacKSheeP",
+   "guildID": 5314
   }
  ]
 }

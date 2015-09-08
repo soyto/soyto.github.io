@@ -2,10 +2,10 @@
  "characterID": 608367,
  "characterClassID": 1,
  "raceID": 0,
- "position": 559,
- "rankingPositionChange": -3,
- "gloryPoint": 20968,
- "gloryPointChange": -4,
+ "position": 555,
+ "rankingPositionChange": 4,
+ "gloryPoint": 21040,
+ "gloryPointChange": 72,
  "soldierRankID": 11,
  "characterName": "Galyx",
  "guildName": " Shaolin ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -3,
    "gloryPoint": 20968,
    "gloryPointChange": -4,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 555,
+   "rankingPositionChange": 4,
+   "gloryPoint": 21040,
+   "gloryPointChange": 72,
    "soldierRankID": 11
   }
  ],

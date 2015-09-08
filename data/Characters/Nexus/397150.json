@@ -3,13 +3,13 @@
  "characterClassID": 14,
  "raceID": 0,
  "position": 112,
- "rankingPositionChange": 1,
- "gloryPoint": 86550,
- "gloryPointChange": -49,
+ "rankingPositionChange": 0,
+ "gloryPoint": 86733,
+ "gloryPointChange": 183,
  "soldierRankID": 13,
  "characterName": "Ryuuku",
- "guildName": " Paradise",
- "guildID": 13198,
+ "guildName": "Fantasy",
+ "guildID": 1006,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 86550,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 112,
+   "rankingPositionChange": 0,
+   "gloryPoint": 86733,
+   "gloryPointChange": 183,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " Paradise",
    "guildID": 13198
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Fantasy",
+   "guildID": 1006
   }
  ]
 }

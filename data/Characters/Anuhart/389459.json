@@ -2,10 +2,10 @@
  "characterID": 389459,
  "characterClassID": 5,
  "raceID": 1,
- "position": 507,
- "rankingPositionChange": 0,
- "gloryPoint": 9857,
- "gloryPointChange": 0,
+ "position": 513,
+ "rankingPositionChange": -6,
+ "gloryPoint": 9269,
+ "gloryPointChange": -588,
  "soldierRankID": 11,
  "characterName": "Drahmin",
  "status": [
@@ -135,6 +135,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 9857,
    "gloryPointChange": 0,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 513,
+   "rankingPositionChange": -6,
+   "gloryPoint": 9269,
+   "gloryPointChange": -588,
    "soldierRankID": 11
   }
  ],

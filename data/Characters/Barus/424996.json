@@ -2,12 +2,14 @@
  "characterID": 424996,
  "characterClassID": 11,
  "raceID": 1,
- "position": 681,
- "rankingPositionChange": -1,
- "gloryPoint": 19013,
- "gloryPointChange": 76,
+ "position": 687,
+ "rankingPositionChange": -6,
+ "gloryPoint": 19005,
+ "gloryPointChange": -8,
  "soldierRankID": 11,
  "characterName": "Maruda",
+ "guildName": "Slow It Down",
+ "guildID": 13130,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 19013,
    "gloryPointChange": 76,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 687,
+   "rankingPositionChange": -6,
+   "gloryPoint": 19005,
+   "gloryPointChange": -8,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-08-30T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Slow It Down",
+   "guildID": 13130
   }
  ]
 }

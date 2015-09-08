@@ -2,9 +2,9 @@
  "characterID": 1370983,
  "characterClassID": 2,
  "raceID": 1,
- "position": 702,
- "rankingPositionChange": -5,
- "gloryPoint": 4406,
+ "position": 701,
+ "rankingPositionChange": 1,
+ "gloryPoint": 4392,
  "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Perchik",
@@ -238,6 +238,14 @@
    "position": 702,
    "rankingPositionChange": -5,
    "gloryPoint": 4406,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 701,
+   "rankingPositionChange": 1,
+   "gloryPoint": 4392,
    "gloryPointChange": -14,
    "soldierRankID": 10
   }

@@ -2,10 +2,10 @@
  "characterID": 503667,
  "characterClassID": 16,
  "raceID": 1,
- "position": 512,
- "rankingPositionChange": 38,
- "gloryPoint": 1775,
- "gloryPointChange": 224,
+ "position": 515,
+ "rankingPositionChange": -3,
+ "gloryPoint": 1757,
+ "gloryPointChange": -18,
  "soldierRankID": 11,
  "characterName": "Torilina",
  "guildName": "Dragonlords",
@@ -113,6 +113,14 @@
    "rankingPositionChange": 38,
    "gloryPoint": 1775,
    "gloryPointChange": 224,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 515,
+   "rankingPositionChange": -3,
+   "gloryPoint": 1757,
+   "gloryPointChange": -18,
    "soldierRankID": 11
   }
  ],

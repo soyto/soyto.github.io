@@ -2,14 +2,14 @@
  "characterID": 852529,
  "characterClassID": 1,
  "raceID": 0,
- "position": 899,
- "rankingPositionChange": 1,
- "gloryPoint": 7451,
- "gloryPointChange": -7,
+ "position": 896,
+ "rankingPositionChange": 3,
+ "gloryPoint": 7657,
+ "gloryPointChange": 206,
  "soldierRankID": 10,
  "characterName": "Adrenalinee",
- "guildName": "Extazi",
- "guildID": 19182,
+ "guildName": "Honor Of Elyos",
+ "guildID": 29954,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -194,6 +194,14 @@
    "gloryPoint": 7451,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 896,
+   "rankingPositionChange": 3,
+   "gloryPoint": 7657,
+   "gloryPointChange": 206,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -207,6 +215,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Extazi",
    "guildID": 19182
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Honor Of Elyos",
+   "guildID": 29954
   }
  ]
 }

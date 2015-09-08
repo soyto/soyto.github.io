@@ -2,14 +2,14 @@
  "characterID": 573902,
  "characterClassID": 13,
  "raceID": 1,
- "position": 218,
- "rankingPositionChange": -4,
- "gloryPoint": 3030,
- "gloryPointChange": -49,
+ "position": 220,
+ "rankingPositionChange": -2,
+ "gloryPoint": 2974,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Lysln",
- "guildName": "Chasseurs de Foudre",
- "guildID": 13938,
+ "guildName": "Happy Burstday",
+ "guildID": 15410,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 3030,
    "gloryPointChange": -49,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 220,
+   "rankingPositionChange": -2,
+   "gloryPoint": 2974,
+   "gloryPointChange": -56,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Chasseurs de Foudre",
    "guildID": 13938
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Happy Burstday",
+   "guildID": 15410
   }
  ]
 }

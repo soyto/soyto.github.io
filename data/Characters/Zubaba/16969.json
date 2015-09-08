@@ -2,10 +2,10 @@
  "characterID": 16969,
  "characterClassID": 4,
  "raceID": 1,
- "position": 543,
- "rankingPositionChange": -5,
- "gloryPoint": 7742,
- "gloryPointChange": -14,
+ "position": 541,
+ "rankingPositionChange": 2,
+ "gloryPoint": 7717,
+ "gloryPointChange": -25,
  "soldierRankID": 11,
  "characterName": "Rogue",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 7742,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 541,
+   "rankingPositionChange": 2,
+   "gloryPoint": 7717,
+   "gloryPointChange": -25,
    "soldierRankID": 11
   }
  ],

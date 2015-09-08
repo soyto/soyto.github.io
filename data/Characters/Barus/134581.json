@@ -3,9 +3,9 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 950,
- "rankingPositionChange": -5,
- "gloryPoint": 10738,
- "gloryPointChange": -4,
+ "rankingPositionChange": 0,
+ "gloryPoint": 10727,
+ "gloryPointChange": -11,
  "soldierRankID": 10,
  "characterName": "Hellknight",
  "guildName": "SoClose",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 10738,
    "gloryPointChange": -4,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 950,
+   "rankingPositionChange": 0,
+   "gloryPoint": 10727,
+   "gloryPointChange": -11,
    "soldierRankID": 10
   }
  ],

@@ -3,9 +3,9 @@
  "characterClassID": 7,
  "raceID": 0,
  "position": 940,
- "rankingPositionChange": -6,
- "gloryPoint": 5078,
- "gloryPointChange": -7,
+ "rankingPositionChange": 0,
+ "gloryPoint": 5064,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Sybelle",
  "status": [
@@ -255,6 +255,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 5078,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 940,
+   "rankingPositionChange": 0,
+   "gloryPoint": 5064,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

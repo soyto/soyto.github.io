@@ -2,10 +2,10 @@
  "characterID": 1434897,
  "characterClassID": 2,
  "raceID": 0,
- "position": 771,
- "rankingPositionChange": 6,
- "gloryPoint": 17098,
- "gloryPointChange": 193,
+ "position": 772,
+ "rankingPositionChange": -1,
+ "gloryPoint": 17084,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Neaxis",
  "guildName": "First Blood",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 6,
    "gloryPoint": 17098,
    "gloryPointChange": 193,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 772,
+   "rankingPositionChange": -1,
+   "gloryPoint": 17084,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 986196,
  "characterClassID": 1,
  "raceID": 1,
- "position": 109,
- "rankingPositionChange": 0,
- "gloryPoint": 81796,
- "gloryPointChange": -49,
+ "position": 110,
+ "rankingPositionChange": -1,
+ "gloryPoint": 81804,
+ "gloryPointChange": 8,
  "soldierRankID": 13,
  "characterName": "Onora",
- "guildName": "Blades of Time",
- "guildID": 35502,
+ "guildName": "Covenant",
+ "guildID": 13120,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 81796,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 110,
+   "rankingPositionChange": -1,
+   "gloryPoint": 81804,
+   "gloryPointChange": 8,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Blades of Time",
    "guildID": 35502
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Covenant",
+   "guildID": 13120
   }
  ]
 }

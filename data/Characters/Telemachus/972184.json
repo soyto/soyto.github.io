@@ -2,10 +2,10 @@
  "characterID": 972184,
  "characterClassID": 1,
  "raceID": 0,
- "position": 163,
- "rankingPositionChange": 1,
- "gloryPoint": 92336,
- "gloryPointChange": 161,
+ "position": 164,
+ "rankingPositionChange": -1,
+ "gloryPoint": 92864,
+ "gloryPointChange": 528,
  "soldierRankID": 13,
  "characterName": "Ayashe",
  "guildName": "Fifth Dawn",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 92336,
    "gloryPointChange": 161,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 164,
+   "rankingPositionChange": -1,
+   "gloryPoint": 92864,
+   "gloryPointChange": 528,
    "soldierRankID": 13
   }
  ],

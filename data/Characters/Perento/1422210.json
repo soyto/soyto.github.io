@@ -2,14 +2,12 @@
  "characterID": 1422210,
  "characterClassID": 13,
  "raceID": 1,
- "position": 859,
- "rankingPositionChange": 0,
- "gloryPoint": 2231,
- "gloryPointChange": -7,
+ "position": 847,
+ "rankingPositionChange": 12,
+ "gloryPoint": 2312,
+ "gloryPointChange": 81,
  "soldierRankID": 10,
  "characterName": "Bombina",
- "guildName": "The Others",
- "guildID": 2516,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 2231,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 847,
+   "rankingPositionChange": 12,
+   "gloryPoint": 2312,
+   "gloryPointChange": 81,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "The Others",
    "guildID": 2516
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

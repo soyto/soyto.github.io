@@ -2,10 +2,10 @@
  "characterID": 384038,
  "characterClassID": 14,
  "raceID": 1,
- "position": 123,
+ "position": 122,
  "rankingPositionChange": 1,
- "gloryPoint": 47438,
- "gloryPointChange": 389,
+ "gloryPoint": 47340,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Giftzwerg",
  "guildName": "Planlos Inc",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 47438,
    "gloryPointChange": 389,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 122,
+   "rankingPositionChange": 1,
+   "gloryPoint": 47340,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 405325,
  "characterClassID": 1,
  "raceID": 0,
- "position": 281,
+ "position": 283,
  "rankingPositionChange": -2,
- "gloryPoint": 60522,
- "gloryPointChange": 608,
+ "gloryPoint": 60867,
+ "gloryPointChange": 345,
  "soldierRankID": 13,
  "characterName": "Cala",
- "guildName": "Phoenix Requiem",
- "guildID": 8481,
+ "guildName": "Ex Tenebris Lux",
+ "guildID": 17545,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -282,6 +282,14 @@
    "gloryPoint": 60522,
    "gloryPointChange": 608,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 283,
+   "rankingPositionChange": -2,
+   "gloryPoint": 60867,
+   "gloryPointChange": 345,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -295,6 +303,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Phoenix Requiem",
    "guildID": 8481
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Ex Tenebris Lux",
+   "guildID": 17545
   }
  ]
 }

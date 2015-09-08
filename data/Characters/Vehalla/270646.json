@@ -2,10 +2,10 @@
  "characterID": 270646,
  "characterClassID": 8,
  "raceID": 0,
- "position": 172,
- "rankingPositionChange": 0,
- "gloryPoint": 33080,
- "gloryPointChange": -49,
+ "position": 173,
+ "rankingPositionChange": -1,
+ "gloryPoint": 33044,
+ "gloryPointChange": -36,
  "soldierRankID": 13,
  "characterName": "Teia",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 33080,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 173,
+   "rankingPositionChange": -1,
+   "gloryPoint": 33044,
+   "gloryPointChange": -36,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 844915,
  "characterClassID": 10,
  "raceID": 1,
- "position": 273,
- "rankingPositionChange": 2,
- "gloryPoint": 14471,
- "gloryPointChange": 51,
+ "position": 275,
+ "rankingPositionChange": -2,
+ "gloryPoint": 14473,
+ "gloryPointChange": 2,
  "soldierRankID": 13,
  "characterName": "Furox",
  "guildName": "Ordem Secreta",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 14471,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 275,
+   "rankingPositionChange": -2,
+   "gloryPoint": 14473,
+   "gloryPointChange": 2,
    "soldierRankID": 13
   }
  ],

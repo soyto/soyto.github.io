@@ -2,10 +2,10 @@
  "characterID": 485902,
  "characterClassID": 16,
  "raceID": 1,
- "position": 266,
- "rankingPositionChange": 1,
- "gloryPoint": 11872,
- "gloryPointChange": 1,
+ "position": 268,
+ "rankingPositionChange": -2,
+ "gloryPoint": 11777,
+ "gloryPointChange": -95,
  "soldierRankID": 13,
  "characterName": "Tadokoro",
  "guildName": "SpassKostet",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 11872,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 268,
+   "rankingPositionChange": -2,
+   "gloryPoint": 11777,
+   "gloryPointChange": -95,
    "soldierRankID": 13
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 208059,
  "characterClassID": 11,
  "raceID": 1,
- "position": 572,
- "rankingPositionChange": 33,
- "gloryPoint": 1455,
- "gloryPointChange": 93,
+ "position": 578,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1427,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Enzea",
  "guildName": "Wolfpack",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 33,
    "gloryPoint": 1455,
    "gloryPointChange": 93,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 578,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1427,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 300368,
  "characterClassID": 1,
  "raceID": 1,
- "position": 681,
- "rankingPositionChange": -11,
- "gloryPoint": 1250,
- "gloryPointChange": -7,
+ "position": 615,
+ "rankingPositionChange": 66,
+ "gloryPoint": 1340,
+ "gloryPointChange": 90,
  "soldierRankID": 10,
  "characterName": "Inmortal",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -11,
    "gloryPoint": 1250,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 615,
+   "rankingPositionChange": 66,
+   "gloryPoint": 1340,
+   "gloryPointChange": 90,
    "soldierRankID": 10
   }
  ],

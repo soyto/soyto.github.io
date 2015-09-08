@@ -2,10 +2,10 @@
  "characterID": 561177,
  "characterClassID": 10,
  "raceID": 0,
- "position": 843,
- "rankingPositionChange": -6,
- "gloryPoint": 1690,
- "gloryPointChange": -7,
+ "position": 833,
+ "rankingPositionChange": 10,
+ "gloryPoint": 1780,
+ "gloryPointChange": 90,
  "soldierRankID": 10,
  "characterName": "Feri",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 1690,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 833,
+   "rankingPositionChange": 10,
+   "gloryPoint": 1780,
+   "gloryPointChange": 90,
    "soldierRankID": 10
   }
  ],

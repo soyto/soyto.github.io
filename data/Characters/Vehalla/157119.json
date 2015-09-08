@@ -2,10 +2,10 @@
  "characterID": 157119,
  "characterClassID": 10,
  "raceID": 1,
- "position": 575,
- "rankingPositionChange": 35,
- "gloryPoint": 1446,
- "gloryPointChange": 93,
+ "position": 581,
+ "rankingPositionChange": -6,
+ "gloryPoint": 1418,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Eyecatcher",
  "status": [
@@ -279,6 +279,14 @@
    "rankingPositionChange": 35,
    "gloryPoint": 1446,
    "gloryPointChange": 93,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 581,
+   "rankingPositionChange": -6,
+   "gloryPoint": 1418,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

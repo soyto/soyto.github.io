@@ -2,10 +2,10 @@
  "characterID": 475985,
  "characterClassID": 4,
  "raceID": 1,
- "position": 773,
- "rankingPositionChange": 2,
- "gloryPoint": 9231,
- "gloryPointChange": 96,
+ "position": 778,
+ "rankingPositionChange": -5,
+ "gloryPoint": 9223,
+ "gloryPointChange": -8,
  "soldierRankID": 10,
  "characterName": "Behiindyou",
  "guildName": "Dark Einhasad",
@@ -209,6 +209,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 9231,
    "gloryPointChange": 96,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 778,
+   "rankingPositionChange": -5,
+   "gloryPoint": 9223,
+   "gloryPointChange": -8,
    "soldierRankID": 10
   }
  ],

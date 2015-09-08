@@ -2,10 +2,10 @@
  "characterID": 5804,
  "characterClassID": 14,
  "raceID": 1,
- "position": 829,
- "rankingPositionChange": -1,
- "gloryPoint": 2178,
- "gloryPointChange": -7,
+ "position": 825,
+ "rankingPositionChange": 4,
+ "gloryPoint": 2164,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Gecee",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 2178,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 825,
+   "rankingPositionChange": 4,
+   "gloryPoint": 2164,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

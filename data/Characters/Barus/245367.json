@@ -2,10 +2,10 @@
  "characterID": 245367,
  "characterClassID": 10,
  "raceID": 0,
- "position": 742,
- "rankingPositionChange": 8,
- "gloryPoint": 18073,
- "gloryPointChange": 146,
+ "position": 745,
+ "rankingPositionChange": -3,
+ "gloryPoint": 18088,
+ "gloryPointChange": 15,
  "soldierRankID": 10,
  "characterName": "Mityczna",
  "guildName": "THOR",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 8,
    "gloryPoint": 18073,
    "gloryPointChange": 146,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 745,
+   "rankingPositionChange": -3,
+   "gloryPoint": 18088,
+   "gloryPointChange": 15,
    "soldierRankID": 10
   }
  ],

@@ -2,12 +2,14 @@
  "characterID": 269615,
  "characterClassID": 13,
  "raceID": 0,
- "position": 738,
- "rankingPositionChange": 16,
- "gloryPoint": 6924,
- "gloryPointChange": 393,
+ "position": 702,
+ "rankingPositionChange": 36,
+ "gloryPoint": 7835,
+ "gloryPointChange": 911,
  "soldierRankID": 10,
  "characterName": "Booooomm",
+ "guildName": "Legion X Equestris",
+ "guildID": 5199,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 6924,
    "gloryPointChange": 393,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 702,
+   "rankingPositionChange": 36,
+   "gloryPoint": 7835,
+   "gloryPointChange": 911,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Legion X Equestris",
+   "guildID": 5199
   }
  ]
 }

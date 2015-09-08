@@ -2,10 +2,10 @@
  "characterID": 596690,
  "characterClassID": 2,
  "raceID": 0,
- "position": 342,
- "rankingPositionChange": 2,
- "gloryPoint": 41269,
- "gloryPointChange": 284,
+ "position": 343,
+ "rankingPositionChange": -1,
+ "gloryPoint": 41283,
+ "gloryPointChange": 14,
  "soldierRankID": 12,
  "characterName": "Teveoto",
  "guildName": "Hollows",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 41269,
    "gloryPointChange": 284,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 343,
+   "rankingPositionChange": -1,
+   "gloryPoint": 41283,
+   "gloryPointChange": 14,
    "soldierRankID": 12
   }
  ],

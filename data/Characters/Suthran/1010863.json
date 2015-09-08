@@ -2,10 +2,10 @@
  "characterID": 1010863,
  "characterClassID": 7,
  "raceID": 1,
- "position": 905,
- "rankingPositionChange": 0,
- "gloryPoint": 5608,
- "gloryPointChange": 75,
+ "position": 913,
+ "rankingPositionChange": -8,
+ "gloryPoint": 5597,
+ "gloryPointChange": -11,
  "soldierRankID": 10,
  "characterName": "Kronikles",
  "guildName": "Birdy NamNam",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 5608,
    "gloryPointChange": 75,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 913,
+   "rankingPositionChange": -8,
+   "gloryPoint": 5597,
+   "gloryPointChange": -11,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 1564374,
  "characterClassID": 16,
  "raceID": 1,
- "position": 126,
- "rankingPositionChange": 0,
- "gloryPoint": 74113,
- "gloryPointChange": -49,
+ "position": 127,
+ "rankingPositionChange": -1,
+ "gloryPoint": 74177,
+ "gloryPointChange": 64,
  "soldierRankID": 13,
  "characterName": "Luneli",
  "guildName": "Sunlight",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 74113,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 127,
+   "rankingPositionChange": -1,
+   "gloryPoint": 74177,
+   "gloryPointChange": 64,
    "soldierRankID": 13
   }
  ],

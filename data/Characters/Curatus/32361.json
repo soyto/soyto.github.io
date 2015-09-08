@@ -2,10 +2,10 @@
  "characterID": 32361,
  "characterClassID": 16,
  "raceID": 1,
- "position": 849,
- "rankingPositionChange": 3,
- "gloryPoint": 4507,
- "gloryPointChange": 46,
+ "position": 852,
+ "rankingPositionChange": -3,
+ "gloryPoint": 4493,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Jeil",
  "guildName": " Arkadia ",
@@ -137,6 +137,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 4507,
    "gloryPointChange": 46,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 852,
+   "rankingPositionChange": -3,
+   "gloryPoint": 4493,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

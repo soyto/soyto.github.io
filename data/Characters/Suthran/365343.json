@@ -2,10 +2,10 @@
  "characterID": 365343,
  "characterClassID": 2,
  "raceID": 0,
- "position": 610,
- "rankingPositionChange": 0,
- "gloryPoint": 24603,
- "gloryPointChange": -14,
+ "position": 611,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24653,
+ "gloryPointChange": 50,
  "soldierRankID": 11,
  "characterName": "Kyster",
  "guildName": "OriginalZ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 24603,
    "gloryPointChange": -14,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 611,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24653,
+   "gloryPointChange": 50,
    "soldierRankID": 11
   }
  ],

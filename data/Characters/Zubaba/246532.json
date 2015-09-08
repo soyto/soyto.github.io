@@ -2,14 +2,12 @@
  "characterID": 246532,
  "characterClassID": 5,
  "raceID": 0,
- "position": 714,
- "rankingPositionChange": -1,
- "gloryPoint": 7519,
- "gloryPointChange": 12,
+ "position": 710,
+ "rankingPositionChange": 4,
+ "gloryPoint": 7618,
+ "gloryPointChange": 99,
  "soldierRankID": 10,
  "characterName": "Kjrjto",
- "guildName": "White",
- "guildID": 6567,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 7519,
    "gloryPointChange": 12,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 710,
+   "rankingPositionChange": 4,
+   "gloryPoint": 7618,
+   "gloryPointChange": 99,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -319,6 +325,9 @@
    "date": "2015-09-01T22:00:00.000Z",
    "guildName": "White",
    "guildID": 6567
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

@@ -2,12 +2,14 @@
  "characterID": 715491,
  "characterClassID": 2,
  "raceID": 0,
- "position": 825,
- "rankingPositionChange": 0,
- "gloryPoint": 7650,
- "gloryPointChange": -7,
+ "position": 820,
+ "rankingPositionChange": 5,
+ "gloryPoint": 7636,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Nooby",
+ "guildName": "T I S",
+ "guildID": 29842,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 7650,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 820,
+   "rankingPositionChange": 5,
+   "gloryPoint": 7636,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -299,6 +309,11 @@
  "guilds": [
   {
    "date": "2015-07-31T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "T I S",
+   "guildID": 29842
   }
  ]
 }

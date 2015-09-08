@@ -2,14 +2,12 @@
  "characterID": 1160791,
  "characterClassID": 1,
  "raceID": 0,
- "position": 140,
- "rankingPositionChange": 0,
- "gloryPoint": 65719,
- "gloryPointChange": 859,
+ "position": 139,
+ "rankingPositionChange": 1,
+ "gloryPoint": 66259,
+ "gloryPointChange": 540,
  "soldierRankID": 13,
  "characterName": "Gladsong",
- "guildName": "We Play Naked",
- "guildID": 3685,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 65719,
    "gloryPointChange": 859,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 139,
+   "rankingPositionChange": 1,
+   "gloryPoint": 66259,
+   "gloryPointChange": 540,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +309,9 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "We Play Naked",
    "guildID": 3685
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

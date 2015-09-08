@@ -2,10 +2,10 @@
  "characterID": 298221,
  "characterClassID": 14,
  "raceID": 1,
- "position": 359,
- "rankingPositionChange": 0,
- "gloryPoint": 42093,
- "gloryPointChange": 188,
+ "position": 360,
+ "rankingPositionChange": -1,
+ "gloryPoint": 42298,
+ "gloryPointChange": 205,
  "soldierRankID": 12,
  "characterName": "Bira",
  "guildName": "Perseverance",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 42093,
    "gloryPointChange": 188,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 360,
+   "rankingPositionChange": -1,
+   "gloryPoint": 42298,
+   "gloryPointChange": 205,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 607934,
  "characterClassID": 11,
  "raceID": 1,
- "position": 572,
- "rankingPositionChange": 3,
- "gloryPoint": 2585,
- "gloryPointChange": 16,
+ "position": 573,
+ "rankingPositionChange": -1,
+ "gloryPoint": 2557,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Milagros",
  "guildName": "You Are Not Alone",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 3,
    "gloryPoint": 2585,
    "gloryPointChange": 16,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 573,
+   "rankingPositionChange": -1,
+   "gloryPoint": 2557,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

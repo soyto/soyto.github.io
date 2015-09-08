@@ -2,10 +2,10 @@
  "characterID": 120000,
  "characterClassID": 16,
  "raceID": 1,
- "position": 447,
- "rankingPositionChange": -1,
- "gloryPoint": 31278,
- "gloryPointChange": -28,
+ "position": 452,
+ "rankingPositionChange": -5,
+ "gloryPoint": 31222,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Hanjisan",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 31278,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 452,
+   "rankingPositionChange": -5,
+   "gloryPoint": 31222,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

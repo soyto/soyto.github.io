@@ -2,10 +2,10 @@
  "characterID": 811911,
  "characterClassID": 2,
  "raceID": 1,
- "position": 594,
- "rankingPositionChange": 36,
- "gloryPoint": 5794,
- "gloryPointChange": 769,
+ "position": 596,
+ "rankingPositionChange": -2,
+ "gloryPoint": 5766,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Odarko",
  "guildName": "Hope",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 36,
    "gloryPoint": 5794,
    "gloryPointChange": 769,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 596,
+   "rankingPositionChange": -2,
+   "gloryPoint": 5766,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

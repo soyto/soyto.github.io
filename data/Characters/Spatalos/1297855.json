@@ -2,14 +2,14 @@
  "characterID": 1297855,
  "characterClassID": 8,
  "raceID": 0,
- "position": 67,
+ "position": 69,
  "rankingPositionChange": -2,
- "gloryPoint": 165286,
- "gloryPointChange": -107,
+ "gloryPoint": 165278,
+ "gloryPointChange": -8,
  "soldierRankID": 14,
  "characterName": "Hisokka",
- "guildName": "Our Army Comes From Deep Within",
- "guildID": 9470,
+ "guildName": "NoDrama",
+ "guildID": 30397,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 165286,
    "gloryPointChange": -107,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 69,
+   "rankingPositionChange": -2,
+   "gloryPoint": 165278,
+   "gloryPointChange": -8,
+   "soldierRankID": 14
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Our Army Comes From Deep Within",
    "guildID": 9470
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "NoDrama",
+   "guildID": 30397
   }
  ]
 }

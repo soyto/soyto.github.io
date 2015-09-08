@@ -2,12 +2,14 @@
  "characterID": 67311,
  "characterClassID": 10,
  "raceID": 1,
- "position": 421,
- "rankingPositionChange": -2,
- "gloryPoint": 15674,
- "gloryPointChange": 57,
+ "position": 420,
+ "rankingPositionChange": 1,
+ "gloryPoint": 15938,
+ "gloryPointChange": 264,
  "soldierRankID": 12,
  "characterName": "Muffinn",
+ "guildName": "Prepotenti",
+ "guildID": 5129,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 15674,
    "gloryPointChange": 57,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 420,
+   "rankingPositionChange": 1,
+   "gloryPoint": 15938,
+   "gloryPointChange": 264,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -308,6 +318,11 @@
   },
   {
    "date": "2015-09-04T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Prepotenti",
+   "guildID": 5129
   }
  ]
 }

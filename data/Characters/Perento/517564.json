@@ -2,10 +2,10 @@
  "characterID": 517564,
  "characterClassID": 5,
  "raceID": 0,
- "position": 374,
- "rankingPositionChange": 1,
- "gloryPoint": 29992,
- "gloryPointChange": -25,
+ "position": 375,
+ "rankingPositionChange": -1,
+ "gloryPoint": 29936,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Reily",
  "guildName": "The Black Dozen",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 29992,
    "gloryPointChange": -25,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 375,
+   "rankingPositionChange": -1,
+   "gloryPoint": 29936,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

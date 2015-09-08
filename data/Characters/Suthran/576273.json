@@ -2,10 +2,10 @@
  "characterID": 576273,
  "characterClassID": 1,
  "raceID": 1,
- "position": 127,
- "rankingPositionChange": 0,
- "gloryPoint": 85963,
- "gloryPointChange": 351,
+ "position": 128,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86358,
+ "gloryPointChange": 395,
  "soldierRankID": 13,
  "characterName": "Akromia",
  "guildName": "Storm",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 85963,
    "gloryPointChange": 351,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86358,
+   "gloryPointChange": 395,
    "soldierRankID": 13
   }
  ],

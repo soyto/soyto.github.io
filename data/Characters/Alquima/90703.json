@@ -2,10 +2,10 @@
  "characterID": 90703,
  "characterClassID": 7,
  "raceID": 1,
- "position": 92,
- "rankingPositionChange": 0,
- "gloryPoint": 86055,
- "gloryPointChange": 527,
+ "position": 93,
+ "rankingPositionChange": -1,
+ "gloryPoint": 86161,
+ "gloryPointChange": 106,
  "soldierRankID": 14,
  "characterName": "Arrecho",
  "guildName": " Essence ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 86055,
    "gloryPointChange": 527,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 93,
+   "rankingPositionChange": -1,
+   "gloryPoint": 86161,
+   "gloryPointChange": 106,
    "soldierRankID": 14
   }
  ],

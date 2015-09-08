@@ -2,10 +2,10 @@
  "characterID": 1108128,
  "characterClassID": 13,
  "raceID": 1,
- "position": 832,
- "rankingPositionChange": 15,
- "gloryPoint": 4099,
- "gloryPointChange": 183,
+ "position": 838,
+ "rankingPositionChange": -6,
+ "gloryPoint": 4105,
+ "gloryPointChange": 6,
  "soldierRankID": 10,
  "characterName": "Missbinschen",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 15,
    "gloryPoint": 4099,
    "gloryPointChange": 183,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 838,
+   "rankingPositionChange": -6,
+   "gloryPoint": 4105,
+   "gloryPointChange": 6,
    "soldierRankID": 10
   }
  ],

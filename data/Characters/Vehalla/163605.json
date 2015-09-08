@@ -2,10 +2,10 @@
  "characterID": 163605,
  "characterClassID": 1,
  "raceID": 0,
- "position": 356,
- "rankingPositionChange": -1,
- "gloryPoint": 7307,
- "gloryPointChange": -28,
+ "position": 354,
+ "rankingPositionChange": 2,
+ "gloryPoint": 7340,
+ "gloryPointChange": 33,
  "soldierRankID": 12,
  "characterName": "Horstgesicht",
  "guildName": "Dead Elyos Society",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 7307,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 354,
+   "rankingPositionChange": 2,
+   "gloryPoint": 7340,
+   "gloryPointChange": 33,
    "soldierRankID": 12
   }
  ],

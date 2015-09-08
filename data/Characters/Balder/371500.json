@@ -2,10 +2,10 @@
  "characterID": 371500,
  "characterClassID": 7,
  "raceID": 1,
- "position": 458,
- "rankingPositionChange": -1,
- "gloryPoint": 2695,
- "gloryPointChange": -28,
+ "position": 454,
+ "rankingPositionChange": 4,
+ "gloryPoint": 2639,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Lunador",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 2695,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 454,
+   "rankingPositionChange": 4,
+   "gloryPoint": 2639,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

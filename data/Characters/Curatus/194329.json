@@ -2,10 +2,10 @@
  "characterID": 194329,
  "characterClassID": 1,
  "raceID": 1,
- "position": 918,
+ "position": 916,
  "rankingPositionChange": 2,
- "gloryPoint": 3792,
- "gloryPointChange": 46,
+ "gloryPoint": 3787,
+ "gloryPointChange": -5,
  "soldierRankID": 10,
  "characterName": "Melodias",
  "guildName": "Seven Deadly Sin",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 3792,
    "gloryPointChange": 46,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 916,
+   "rankingPositionChange": 2,
+   "gloryPoint": 3787,
+   "gloryPointChange": -5,
    "soldierRankID": 10
   }
  ],

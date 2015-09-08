@@ -2,12 +2,14 @@
  "characterID": 394557,
  "characterClassID": 10,
  "raceID": 0,
- "position": 502,
- "rankingPositionChange": -1,
- "gloryPoint": 6931,
- "gloryPointChange": -14,
+ "position": 507,
+ "rankingPositionChange": -5,
+ "gloryPoint": 6903,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Rekkles",
+ "guildName": "SkyRebel",
+ "guildID": 24208,
  "status": [
   {
    "date": "2015-08-25T22:00:00.000Z",
@@ -96,6 +98,14 @@
    "gloryPoint": 6931,
    "gloryPointChange": -14,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 507,
+   "rankingPositionChange": -5,
+   "gloryPoint": 6903,
+   "gloryPointChange": -28,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -107,6 +117,11 @@
  "guilds": [
   {
    "date": "2015-08-25T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "SkyRebel",
+   "guildID": 24208
   }
  ]
 }

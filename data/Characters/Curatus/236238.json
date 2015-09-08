@@ -2,14 +2,14 @@
  "characterID": 236238,
  "characterClassID": 10,
  "raceID": 1,
- "position": 206,
+ "position": 207,
  "rankingPositionChange": -1,
- "gloryPoint": 38323,
- "gloryPointChange": -49,
+ "gloryPoint": 38331,
+ "gloryPointChange": 8,
  "soldierRankID": 13,
  "characterName": "Behe",
- "guildName": "N o S",
- "guildID": 1770,
+ "guildName": "SouL  TeaR",
+ "guildID": 1039,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 38323,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 207,
+   "rankingPositionChange": -1,
+   "gloryPoint": 38331,
+   "gloryPointChange": 8,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "N o S",
    "guildID": 1770
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "SouL  TeaR",
+   "guildID": 1039
   }
  ]
 }

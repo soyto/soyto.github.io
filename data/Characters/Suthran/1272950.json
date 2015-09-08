@@ -2,10 +2,10 @@
  "characterID": 1272950,
  "characterClassID": 16,
  "raceID": 1,
- "position": 746,
- "rankingPositionChange": -6,
- "gloryPoint": 8699,
- "gloryPointChange": 2,
+ "position": 743,
+ "rankingPositionChange": 3,
+ "gloryPoint": 8822,
+ "gloryPointChange": 123,
  "soldierRankID": 10,
  "characterName": "Randoom",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -6,
    "gloryPoint": 8699,
    "gloryPointChange": 2,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 743,
+   "rankingPositionChange": 3,
+   "gloryPoint": 8822,
+   "gloryPointChange": 123,
    "soldierRankID": 10
   }
  ],

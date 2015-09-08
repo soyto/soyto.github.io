@@ -2,14 +2,12 @@
  "characterID": 154774,
  "characterClassID": 5,
  "raceID": 1,
- "position": 229,
- "rankingPositionChange": -6,
- "gloryPoint": 34520,
- "gloryPointChange": -49,
+ "position": 231,
+ "rankingPositionChange": -2,
+ "gloryPoint": 34477,
+ "gloryPointChange": -43,
  "soldierRankID": 13,
  "characterName": "Halteos",
- "guildName": " Arkadia ",
- "guildID": 1064,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +288,14 @@
    "gloryPoint": 34520,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 231,
+   "rankingPositionChange": -2,
+   "gloryPoint": 34477,
+   "gloryPointChange": -43,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -312,6 +318,9 @@
    "date": "2015-08-18T22:00:00.000Z",
    "guildName": " Arkadia ",
    "guildID": 1064
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z"
   }
  ]
 }

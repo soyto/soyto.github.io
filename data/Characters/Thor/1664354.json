@@ -2,10 +2,10 @@
  "characterID": 1664354,
  "characterClassID": 10,
  "raceID": 1,
- "position": 292,
- "rankingPositionChange": 0,
- "gloryPoint": 55660,
- "gloryPointChange": 1,
+ "position": 294,
+ "rankingPositionChange": -2,
+ "gloryPoint": 55612,
+ "gloryPointChange": -48,
  "soldierRankID": 13,
  "characterName": "Wandaaa",
  "guildName": "I Helfende Elfen I",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 55660,
    "gloryPointChange": 1,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 294,
+   "rankingPositionChange": -2,
+   "gloryPoint": 55612,
+   "gloryPointChange": -48,
    "soldierRankID": 13
   }
  ],

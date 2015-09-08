@@ -2,10 +2,10 @@
  "characterID": 151290,
  "characterClassID": 10,
  "raceID": 0,
- "position": 451,
- "rankingPositionChange": -2,
+ "position": 450,
+ "rankingPositionChange": 1,
  "gloryPoint": 36006,
- "gloryPointChange": -28,
+ "gloryPointChange": 0,
  "soldierRankID": 12,
  "characterName": "Illy",
  "guildName": "En Pire",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -2,
    "gloryPoint": 36006,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 450,
+   "rankingPositionChange": 1,
+   "gloryPoint": 36006,
+   "gloryPointChange": 0,
    "soldierRankID": 12
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 308475,
  "characterClassID": 7,
  "raceID": 0,
- "position": 962,
- "rankingPositionChange": -5,
- "gloryPoint": 9090,
- "gloryPointChange": 2,
+ "position": 961,
+ "rankingPositionChange": 1,
+ "gloryPoint": 9079,
+ "gloryPointChange": -11,
  "soldierRankID": 10,
  "characterName": "Snippy",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 9090,
    "gloryPointChange": 2,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 961,
+   "rankingPositionChange": 1,
+   "gloryPoint": 9079,
+   "gloryPointChange": -11,
    "soldierRankID": 10
   }
  ],

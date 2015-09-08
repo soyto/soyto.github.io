@@ -2,10 +2,10 @@
  "characterID": 314157,
  "characterClassID": 4,
  "raceID": 1,
- "position": 252,
- "rankingPositionChange": 4,
- "gloryPoint": 13074,
- "gloryPointChange": 236,
+ "position": 253,
+ "rankingPositionChange": -1,
+ "gloryPoint": 13118,
+ "gloryPointChange": 44,
  "soldierRankID": 13,
  "characterName": "Shadowdagger",
  "guildName": "Das Keksimperium",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 4,
    "gloryPoint": 13074,
    "gloryPointChange": 236,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 253,
+   "rankingPositionChange": -1,
+   "gloryPoint": 13118,
+   "gloryPointChange": 44,
    "soldierRankID": 13
   }
  ],

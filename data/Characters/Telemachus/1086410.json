@@ -2,10 +2,10 @@
  "characterID": 1086410,
  "characterClassID": 16,
  "raceID": 0,
- "position": 492,
- "rankingPositionChange": 1,
- "gloryPoint": 24504,
- "gloryPointChange": -28,
+ "position": 493,
+ "rankingPositionChange": -1,
+ "gloryPoint": 24448,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Oribel",
  "guildName": "Pendulum",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 24504,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 493,
+   "rankingPositionChange": -1,
+   "gloryPoint": 24448,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

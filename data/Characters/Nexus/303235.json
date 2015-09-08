@@ -2,10 +2,10 @@
  "characterID": 303235,
  "characterClassID": 11,
  "raceID": 1,
- "position": 431,
- "rankingPositionChange": -5,
- "gloryPoint": 36579,
- "gloryPointChange": -28,
+ "position": 430,
+ "rankingPositionChange": 1,
+ "gloryPoint": 36546,
+ "gloryPointChange": -33,
  "soldierRankID": 12,
  "characterName": "Kiciula",
  "guildName": "MORTEM",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -5,
    "gloryPoint": 36579,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 430,
+   "rankingPositionChange": 1,
+   "gloryPoint": 36546,
+   "gloryPointChange": -33,
    "soldierRankID": 12
   }
  ],

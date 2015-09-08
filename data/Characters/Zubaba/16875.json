@@ -2,10 +2,10 @@
  "characterID": 16875,
  "characterClassID": 14,
  "raceID": 0,
- "position": 858,
- "rankingPositionChange": 33,
- "gloryPoint": 4358,
- "gloryPointChange": 454,
+ "position": 859,
+ "rankingPositionChange": -1,
+ "gloryPoint": 4353,
+ "gloryPointChange": -5,
  "soldierRankID": 10,
  "characterName": "Zagii",
  "guildName": "ElyosBELEDIYESI",
@@ -65,6 +65,14 @@
    "rankingPositionChange": 33,
    "gloryPoint": 4358,
    "gloryPointChange": 454,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 859,
+   "rankingPositionChange": -1,
+   "gloryPoint": 4353,
+   "gloryPointChange": -5,
    "soldierRankID": 10
   }
  ],

@@ -2,10 +2,10 @@
  "characterID": 111685,
  "characterClassID": 16,
  "raceID": 1,
- "position": 359,
- "rankingPositionChange": 0,
- "gloryPoint": 18503,
- "gloryPointChange": -28,
+ "position": 360,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18447,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Quanj",
  "guildName": "G U A R D S",
@@ -265,6 +265,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 18503,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 360,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18447,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

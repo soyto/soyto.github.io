@@ -2,10 +2,10 @@
  "characterID": 1027516,
  "characterClassID": 16,
  "raceID": 0,
- "position": 352,
- "rankingPositionChange": 0,
- "gloryPoint": 40942,
- "gloryPointChange": 90,
+ "position": 351,
+ "rankingPositionChange": 1,
+ "gloryPoint": 40886,
+ "gloryPointChange": -56,
  "soldierRankID": 12,
  "characterName": "Garenian",
  "guildName": "Garenian for President",
@@ -281,6 +281,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 40942,
    "gloryPointChange": 90,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 351,
+   "rankingPositionChange": 1,
+   "gloryPoint": 40886,
+   "gloryPointChange": -56,
    "soldierRankID": 12
   }
  ],

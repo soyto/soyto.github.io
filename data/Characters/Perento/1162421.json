@@ -2,10 +2,10 @@
  "characterID": 1162421,
  "characterClassID": 11,
  "raceID": 0,
- "position": 498,
- "rankingPositionChange": 1,
- "gloryPoint": 18495,
- "gloryPointChange": -28,
+ "position": 499,
+ "rankingPositionChange": -1,
+ "gloryPoint": 18485,
+ "gloryPointChange": -10,
  "soldierRankID": 12,
  "characterName": "Bloochan",
  "guildName": "The Minions",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 18495,
    "gloryPointChange": -28,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 499,
+   "rankingPositionChange": -1,
+   "gloryPoint": 18485,
+   "gloryPointChange": -10,
    "soldierRankID": 12
   }
  ],

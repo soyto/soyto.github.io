@@ -2,10 +2,10 @@
  "characterID": 787668,
  "characterClassID": 1,
  "raceID": 1,
- "position": 34,
- "rankingPositionChange": 0,
- "gloryPoint": 213600,
- "gloryPointChange": 1212,
+ "position": 35,
+ "rankingPositionChange": -1,
+ "gloryPoint": 214510,
+ "gloryPointChange": 910,
  "soldierRankID": 14,
  "characterName": "Dewolff",
  "guildName": "Sarcasm",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 213600,
    "gloryPointChange": 1212,
+   "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 35,
+   "rankingPositionChange": -1,
+   "gloryPoint": 214510,
+   "gloryPointChange": 910,
    "soldierRankID": 14
   }
  ],

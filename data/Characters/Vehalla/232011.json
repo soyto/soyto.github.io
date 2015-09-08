@@ -2,10 +2,10 @@
  "characterID": 232011,
  "characterClassID": 8,
  "raceID": 1,
- "position": 596,
- "rankingPositionChange": 90,
- "gloryPoint": 1402,
- "gloryPointChange": 155,
+ "position": 603,
+ "rankingPositionChange": -7,
+ "gloryPoint": 1374,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Thunderstormy",
  "guildName": "Das Keksimperium",
@@ -41,6 +41,14 @@
    "rankingPositionChange": 90,
    "gloryPoint": 1402,
    "gloryPointChange": 155,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 603,
+   "rankingPositionChange": -7,
+   "gloryPoint": 1374,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

@@ -2,14 +2,14 @@
  "characterID": 42129,
  "characterClassID": 5,
  "raceID": 1,
- "position": 412,
- "rankingPositionChange": -3,
- "gloryPoint": 38859,
- "gloryPointChange": 275,
+ "position": 411,
+ "rankingPositionChange": 1,
+ "gloryPoint": 39413,
+ "gloryPointChange": 554,
  "soldierRankID": 12,
  "characterName": "Mirkach",
- "guildName": " NERDS ",
- "guildID": 1029,
+ "guildName": "OroForBg",
+ "guildID": 15044,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 38859,
    "gloryPointChange": 275,
    "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 411,
+   "rankingPositionChange": 1,
+   "gloryPoint": 39413,
+   "gloryPointChange": 554,
+   "soldierRankID": 12
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": " NERDS ",
    "guildID": 1029
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "OroForBg",
+   "guildID": 15044
   }
  ]
 }

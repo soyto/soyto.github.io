@@ -2,10 +2,10 @@
  "characterID": 1255018,
  "characterClassID": 10,
  "raceID": 1,
- "position": 143,
- "rankingPositionChange": 1,
- "gloryPoint": 61328,
- "gloryPointChange": 151,
+ "position": 144,
+ "rankingPositionChange": -1,
+ "gloryPoint": 61230,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Selaija",
  "guildName": "Shades of Phoenix",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 61328,
    "gloryPointChange": 151,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 144,
+   "rankingPositionChange": -1,
+   "gloryPoint": 61230,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

@@ -2,11 +2,11 @@
  "characterID": 1009187,
  "characterClassID": 14,
  "raceID": 1,
- "position": 100,
- "rankingPositionChange": 1,
- "gloryPoint": 87067,
- "gloryPointChange": 639,
- "soldierRankID": 14,
+ "position": 101,
+ "rankingPositionChange": -1,
+ "gloryPoint": 87549,
+ "gloryPointChange": 482,
+ "soldierRankID": 13,
  "characterName": "Uzzi",
  "guildName": "Loyalty",
  "guildID": 13265,
@@ -290,6 +290,14 @@
    "gloryPoint": 87067,
    "gloryPointChange": 639,
    "soldierRankID": 14
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 101,
+   "rankingPositionChange": -1,
+   "gloryPoint": 87549,
+   "gloryPointChange": 482,
+   "soldierRankID": 13
   }
  ],
  "names": [

@@ -2,12 +2,14 @@
  "characterID": 510468,
  "characterClassID": 2,
  "raceID": 0,
- "position": 132,
- "rankingPositionChange": 8,
- "gloryPoint": 68501,
- "gloryPointChange": 3063,
+ "position": 128,
+ "rankingPositionChange": 4,
+ "gloryPoint": 70358,
+ "gloryPointChange": 1857,
  "soldierRankID": 13,
  "characterName": "Ironsscythe",
+ "guildName": "Banned",
+ "guildID": 29044,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 68501,
    "gloryPointChange": 3063,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 128,
+   "rankingPositionChange": 4,
+   "gloryPoint": 70358,
+   "gloryPointChange": 1857,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Banned",
+   "guildID": 29044
   }
  ]
 }

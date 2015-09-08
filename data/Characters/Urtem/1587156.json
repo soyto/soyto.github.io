@@ -2,10 +2,10 @@
  "characterID": 1587156,
  "characterClassID": 5,
  "raceID": 0,
- "position": 961,
- "rankingPositionChange": -10,
- "gloryPoint": 14237,
- "gloryPointChange": -1,
+ "position": 951,
+ "rankingPositionChange": 10,
+ "gloryPoint": 14615,
+ "gloryPointChange": 378,
  "soldierRankID": 10,
  "characterName": "Foti",
  "status": [
@@ -151,6 +151,14 @@
    "rankingPositionChange": -10,
    "gloryPoint": 14237,
    "gloryPointChange": -1,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 951,
+   "rankingPositionChange": 10,
+   "gloryPoint": 14615,
+   "gloryPointChange": 378,
    "soldierRankID": 10
   }
  ],

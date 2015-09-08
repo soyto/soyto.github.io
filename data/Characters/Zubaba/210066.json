@@ -2,10 +2,10 @@
  "characterID": 210066,
  "characterClassID": 8,
  "raceID": 1,
- "position": 816,
- "rankingPositionChange": -1,
- "gloryPoint": 2285,
- "gloryPointChange": -7,
+ "position": 812,
+ "rankingPositionChange": 4,
+ "gloryPoint": 2274,
+ "gloryPointChange": -11,
  "soldierRankID": 10,
  "characterName": "Olimpias",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 2285,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 812,
+   "rankingPositionChange": 4,
+   "gloryPoint": 2274,
+   "gloryPointChange": -11,
    "soldierRankID": 10
   }
  ],

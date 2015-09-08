@@ -2,10 +2,10 @@
  "characterID": 1494225,
  "characterClassID": 7,
  "raceID": 1,
- "position": 929,
- "rankingPositionChange": -4,
- "gloryPoint": 11749,
- "gloryPointChange": -7,
+ "position": 925,
+ "rankingPositionChange": 4,
+ "gloryPoint": 11735,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Fitchu",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": -4,
    "gloryPoint": 11749,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 925,
+   "rankingPositionChange": 4,
+   "gloryPoint": 11735,
+   "gloryPointChange": -14,
    "soldierRankID": 10
   }
  ],

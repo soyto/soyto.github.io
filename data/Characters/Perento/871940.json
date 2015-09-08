@@ -2,14 +2,14 @@
  "characterID": 871940,
  "characterClassID": 7,
  "raceID": 1,
- "position": 116,
- "rankingPositionChange": 0,
- "gloryPoint": 96072,
- "gloryPointChange": 287,
+ "position": 117,
+ "rankingPositionChange": -1,
+ "gloryPoint": 96150,
+ "gloryPointChange": 78,
  "soldierRankID": 13,
  "characterName": "Eryel",
- "guildName": "Sarcasm",
- "guildID": 20793,
+ "guildName": "Hope",
+ "guildID": 1169,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 96072,
    "gloryPointChange": 287,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 117,
+   "rankingPositionChange": -1,
+   "gloryPoint": 96150,
+   "gloryPointChange": 78,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -303,6 +311,11 @@
    "date": "2015-07-31T22:00:00.000Z",
    "guildName": "Sarcasm",
    "guildID": 20793
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Hope",
+   "guildID": 1169
   }
  ]
 }

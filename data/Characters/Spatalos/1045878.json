@@ -2,10 +2,10 @@
  "characterID": 1045878,
  "characterClassID": 14,
  "raceID": 0,
- "position": 252,
+ "position": 251,
  "rankingPositionChange": 1,
- "gloryPoint": 59269,
- "gloryPointChange": 51,
+ "gloryPoint": 59171,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Kirahl",
  "guildName": "Paladini",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 59269,
    "gloryPointChange": 51,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 251,
+   "rankingPositionChange": 1,
+   "gloryPoint": 59171,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

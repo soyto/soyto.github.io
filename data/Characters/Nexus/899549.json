@@ -2,10 +2,10 @@
  "characterID": 899549,
  "characterClassID": 7,
  "raceID": 1,
- "position": 956,
- "rankingPositionChange": -8,
- "gloryPoint": 8356,
- "gloryPointChange": -7,
+ "position": 950,
+ "rankingPositionChange": 6,
+ "gloryPoint": 8542,
+ "gloryPointChange": 186,
  "soldierRankID": 10,
  "characterName": "Tinyrule",
  "status": [
@@ -143,6 +143,14 @@
    "rankingPositionChange": -8,
    "gloryPoint": 8356,
    "gloryPointChange": -7,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 950,
+   "rankingPositionChange": 6,
+   "gloryPoint": 8542,
+   "gloryPointChange": 186,
    "soldierRankID": 10
   }
  ],

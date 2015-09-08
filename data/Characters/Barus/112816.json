@@ -2,10 +2,10 @@
  "characterID": 112816,
  "characterClassID": 14,
  "raceID": 1,
- "position": 677,
- "rankingPositionChange": 0,
- "gloryPoint": 19129,
- "gloryPointChange": 96,
+ "position": 683,
+ "rankingPositionChange": -6,
+ "gloryPoint": 19101,
+ "gloryPointChange": -28,
  "soldierRankID": 11,
  "characterName": "Akul",
  "status": [
@@ -287,6 +287,14 @@
    "rankingPositionChange": 0,
    "gloryPoint": 19129,
    "gloryPointChange": 96,
+   "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 683,
+   "rankingPositionChange": -6,
+   "gloryPoint": 19101,
+   "gloryPointChange": -28,
    "soldierRankID": 11
   }
  ],

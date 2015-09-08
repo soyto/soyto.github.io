@@ -2,12 +2,14 @@
  "characterID": 1036069,
  "characterClassID": 11,
  "raceID": 0,
- "position": 537,
- "rankingPositionChange": 4,
- "gloryPoint": 21598,
- "gloryPointChange": 189,
+ "position": 526,
+ "rankingPositionChange": 11,
+ "gloryPoint": 21993,
+ "gloryPointChange": 395,
  "soldierRankID": 11,
  "characterName": "Kuuna",
+ "guildName": "The Wind is pushing meeeeeeeeeee",
+ "guildID": 29251,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 21598,
    "gloryPointChange": 189,
    "soldierRankID": 11
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 526,
+   "rankingPositionChange": 11,
+   "gloryPoint": 21993,
+   "gloryPointChange": 395,
+   "soldierRankID": 11
   }
  ],
  "names": [
@@ -307,6 +317,11 @@
   },
   {
    "date": "2015-09-05T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "The Wind is pushing meeeeeeeeeee",
+   "guildID": 29251
   }
  ]
 }

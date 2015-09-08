@@ -2,10 +2,10 @@
  "characterID": 343258,
  "characterClassID": 11,
  "raceID": 1,
- "position": 658,
- "rankingPositionChange": 58,
- "gloryPoint": 1245,
- "gloryPointChange": 0,
+ "position": 674,
+ "rankingPositionChange": -16,
+ "gloryPoint": 1244,
+ "gloryPointChange": -1,
  "soldierRankID": 10,
  "characterName": "Akratiel",
  "guildName": "V I P",
@@ -17,6 +17,14 @@
    "rankingPositionChange": 58,
    "gloryPoint": 1245,
    "gloryPointChange": 0,
+   "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 674,
+   "rankingPositionChange": -16,
+   "gloryPoint": 1244,
+   "gloryPointChange": -1,
    "soldierRankID": 10
   }
  ],

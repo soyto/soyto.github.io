@@ -3,11 +3,13 @@
  "characterClassID": 10,
  "raceID": 1,
  "position": 170,
- "rankingPositionChange": -1,
- "gloryPoint": 80637,
- "gloryPointChange": -49,
+ "rankingPositionChange": 0,
+ "gloryPoint": 80549,
+ "gloryPointChange": -88,
  "soldierRankID": 13,
  "characterName": "Miluska",
+ "guildName": "Prime",
+ "guildID": 7811,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -288,6 +290,14 @@
    "gloryPoint": 80637,
    "gloryPointChange": -49,
    "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 170,
+   "rankingPositionChange": 0,
+   "gloryPoint": 80549,
+   "gloryPointChange": -88,
+   "soldierRankID": 13
   }
  ],
  "names": [
@@ -304,6 +314,11 @@
   },
   {
    "date": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Prime",
+   "guildID": 7811
   }
  ]
 }

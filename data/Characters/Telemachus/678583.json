@@ -2,10 +2,10 @@
  "characterID": 678583,
  "characterClassID": 4,
  "raceID": 0,
- "position": 347,
- "rankingPositionChange": 1,
- "gloryPoint": 39828,
- "gloryPointChange": 32,
+ "position": 349,
+ "rankingPositionChange": -2,
+ "gloryPoint": 40080,
+ "gloryPointChange": 252,
  "soldierRankID": 12,
  "characterName": "Pataboys",
  "guildName": "Never Again",
@@ -121,6 +121,14 @@
    "rankingPositionChange": 1,
    "gloryPoint": 39828,
    "gloryPointChange": 32,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 349,
+   "rankingPositionChange": -2,
+   "gloryPoint": 40080,
+   "gloryPointChange": 252,
    "soldierRankID": 12
   }
  ],

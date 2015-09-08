@@ -3,13 +3,13 @@
  "characterClassID": 2,
  "raceID": 1,
  "position": 787,
- "rankingPositionChange": -2,
- "gloryPoint": 2921,
- "gloryPointChange": -7,
+ "rankingPositionChange": 0,
+ "gloryPoint": 2907,
+ "gloryPointChange": -14,
  "soldierRankID": 10,
  "characterName": "Skygloree",
- "guildName": "The Storms Honor",
- "guildID": 25855,
+ "guildName": "Im Orange and Proud",
+ "guildID": 29828,
  "status": [
   {
    "date": "2015-07-31T22:00:00.000Z",
@@ -290,6 +290,14 @@
    "gloryPoint": 2921,
    "gloryPointChange": -7,
    "soldierRankID": 10
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 787,
+   "rankingPositionChange": 0,
+   "gloryPoint": 2907,
+   "gloryPointChange": -14,
+   "soldierRankID": 10
   }
  ],
  "names": [
@@ -306,6 +314,11 @@
    "date": "2015-08-22T22:00:00.000Z",
    "guildName": "The Storms Honor",
    "guildID": 25855
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "guildName": "Im Orange and Proud",
+   "guildID": 29828
   }
  ]
 }

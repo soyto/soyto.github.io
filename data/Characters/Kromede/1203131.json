@@ -2,10 +2,10 @@
  "characterID": 1203131,
  "characterClassID": 10,
  "raceID": 1,
- "position": 255,
- "rankingPositionChange": -1,
- "gloryPoint": 28896,
- "gloryPointChange": -49,
+ "position": 254,
+ "rankingPositionChange": 1,
+ "gloryPoint": 28798,
+ "gloryPointChange": -98,
  "soldierRankID": 13,
  "characterName": "Shuyane",
  "guildName": " Elyos stole ma Bike ",
@@ -289,6 +289,14 @@
    "rankingPositionChange": -1,
    "gloryPoint": 28896,
    "gloryPointChange": -49,
+   "soldierRankID": 13
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 254,
+   "rankingPositionChange": 1,
+   "gloryPoint": 28798,
+   "gloryPointChange": -98,
    "soldierRankID": 13
   }
  ],

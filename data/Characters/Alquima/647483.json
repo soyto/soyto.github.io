@@ -2,10 +2,10 @@
  "characterID": 647483,
  "characterClassID": 4,
  "raceID": 1,
- "position": 401,
- "rankingPositionChange": 2,
- "gloryPoint": 21248,
- "gloryPointChange": 297,
+ "position": 406,
+ "rankingPositionChange": -5,
+ "gloryPoint": 21245,
+ "gloryPointChange": -3,
  "soldierRankID": 12,
  "characterName": "Galiana",
  "guildName": "Hello Kitty Nation",
@@ -289,6 +289,14 @@
    "rankingPositionChange": 2,
    "gloryPoint": 21248,
    "gloryPointChange": 297,
+   "soldierRankID": 12
+  },
+  {
+   "date": "2015-09-07T22:00:00.000Z",
+   "position": 406,
+   "rankingPositionChange": -5,
+   "gloryPoint": 21245,
+   "gloryPointChange": -3,
    "soldierRankID": 12
   }
  ],
