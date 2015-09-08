@@ -1618,7 +1618,7 @@
 
     //Retrieves info from the selected server at indicated day
     $this.getFromServer = function(date, serverName) {
-      var url = 'data/' + date + '/' + serverName + '.json';
+      var url = 'http://91.184.11.238/data/' + date + '/' + serverName + '.json';
 
       var $$q = helperService.$q.new();
 
