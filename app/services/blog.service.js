@@ -21,7 +21,7 @@
       }
       else {
         var sp = $http({
-          url: 'data/Posts/posts.json',
+          url: 'http://91.184.11.238/data/Posts/posts.json',
           method: 'GET'
         });
 
