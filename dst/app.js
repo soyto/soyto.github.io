@@ -1395,7 +1395,7 @@
       }
       else {
         var sp = $http({
-          url: 'data/Posts/posts.json',
+          url: 'http://91.184.11.238/data/Posts/posts.json',
           method: 'GET'
         });
 
@@ -1618,7 +1618,7 @@
 
     //Retrieves info from the selected server at indicated day
     $this.getFromServer = function(date, serverName) {
-      var url = 'data/' + date + '/' + serverName + '.json';
+      var url = 'http://91.184.11.238/data/' + date + '/' + serverName + '.json';
 
       var $$q = helperService.$q.new();
 
@@ -1658,7 +1658,7 @@
 
     //Retrieve character info
     $this.getCharacterInfo = function(serverName, characterID) {
-      var url = 'data/Characters/' + serverName + '/' + characterID + '.json';
+      var url = 'http://91.184.11.238/data/Characters/' + serverName + '/' + characterID + '.json';
 
       var $$q = helperService.$q.new();
 
