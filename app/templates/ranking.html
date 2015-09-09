@@ -73,9 +73,12 @@
 
   <div class="col-md-8">
     <div class="panel">
-      <div class="panel-heading"><h4>{{serverData.serverName}} <small>{{serverData.date}}</small></h4></div>
-      <div class="panel-body" style="max-height: 200px">
-        <canvas id="line" class="chart chart-line" data="chart.data" labels="chart.labels" legend="true" series="chart.series" options="chart.options" colours="chart.colors" >
+      <div class="panel-heading">
+        <h4> Honor vs Position for <b>{{serverData.serverName}}</b> <small> on {{serverData.date}}</small></h4>
+      </div>
+      <div class="panel-body" style="height:200px; max-height: 200px;">
+        <canvas id="line" class="chart chart-line" data="chart.data"
+                labels="chart.labels" legend="true" series="chart.series" options="chart.options" colours="chart.colors" >
         </canvas>
       </div>
     </div>
