@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.7.4)
+ * Soyto.github.io (0.7.5)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1581,7 +1581,7 @@
       }
       else {
         var sp = $http({
-          url: 'http://91.184.11.238/data/Posts/posts.json',
+          url: 'data/Posts/posts.json',
           method: 'GET'
         });
 
