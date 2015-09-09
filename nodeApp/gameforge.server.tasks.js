@@ -21,9 +21,9 @@ module.exports = function(grunt) {
     var postsFolder           = config.application['posts-folder'];
     var appFolder            = config.application['app-folder'];
     var userAgent             = config.crawler['user-agent'];
-    var charactersBaseFolder  = baseFolder + 'Characters/';
+    var charactersBaseFolder  = baseFolder + 'Servers/Characters/';
     var today                 = moment().format('MM-DD-YYYY');
-    var folderName            = baseFolder + today + '/';
+    var folderName            = baseFolder + 'Servers/' + today + '/';
 
     //Here we will store servers data, stats and errors
     var servers = [];
@@ -318,13 +318,13 @@ module.exports = function(grunt) {
   grunt.registerTask('create-players-database', function(){
 
     var baseFolder            = config.application['base-folder'];
-    var charactersBaseFolder  = baseFolder + 'Characters/';
+    var charactersBaseFolder  = baseFolder + 'Servers/Characters/';
 
     gameForgeServer.servers.forEach(function(server){
       var serverCharactersFolder = charactersBaseFolder + server.name + '/';
 
       //Extract previous dates
-      var serverPreviousDates = grunt.file.expand('data/*/' + server.name + '.json')
+      var serverPreviousDates = grunt.file.expand('data/Servers/*/' + server.name + '.json')
         .select(function(fileName) {
           var data = grunt.file.readJSON(fileName);
           return {

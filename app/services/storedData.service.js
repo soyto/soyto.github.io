@@ -99,7 +99,7 @@
 
     //Retrieves info from the selected server at indicated day
     $this.getFromServer = function(date, serverName) {
-      var url = 'http://91.184.11.238/data/' + date + '/' + serverName + '.json';
+      var url = 'http://91.184.11.238/data/Servers/' + date + '/' + serverName + '.json';
 
       var $$q = helperService.$q.new();
 
@@ -139,7 +139,7 @@
 
     //Retrieve character info
     $this.getCharacterInfo = function(serverName, characterID) {
-      var url = 'http://91.184.11.238/data/Characters/' + serverName + '/' + characterID + '.json';
+      var url = 'http://91.184.11.238/data/Servers/Characters/' + serverName + '/' + characterID + '.json';
 
       var $$q = helperService.$q.new();
 
