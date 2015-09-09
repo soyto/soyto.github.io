@@ -12,16 +12,16 @@ module.exports = function(grunt) {
 
   require('../lib/javascript.extensions.js');
 
+  var baseFolder            = config.application['base-folder'];
+  var postsFolder           = config.application['posts-folder'];
+  var appFolder             = config.application['app-folder'];
+  var userAgent             = config.crawler['user-agent'];
+  var charactersBaseFolder  = baseFolder + 'Servers/Characters/';
 
   //Performs the full crawler
   grunt.registerTask('crawler', function() {
     var done = this.async();
 
-    var baseFolder            = config.application['base-folder'];
-    var postsFolder           = config.application['posts-folder'];
-    var appFolder            = config.application['app-folder'];
-    var userAgent             = config.crawler['user-agent'];
-    var charactersBaseFolder  = baseFolder + 'Servers/Characters/';
     var today                 = moment().format('MM-DD-YYYY');
     var folderName            = baseFolder + 'Servers/' + today + '/';
 
@@ -72,26 +72,12 @@ module.exports = function(grunt) {
         //Set date on server
         server.date = new Date(today);
 
-        //Extract previous dates
-        var serverPreviousDates = grunt.file.expand('data/*/' + server.serverName + '.json')
-          .select(function(fileName) {
-            var data = grunt.file.readJSON(fileName);
-            return {
-              date : new Date(fileName.split('/')[1]),
-              characters: data.elyos.concat(data.asmodians)
-            };
-          })
-          .sort(function(a, b){ return a.date - b.date; });
-
-        $log.debug('Generating characterInfo');
         //Retrieve characters array
-        var storedCharacters = gameForgeServer.generateCharacterInfo(serverPreviousDates);
+        var storedCharacters = _extractStoredCharacters({name: server.serverName});
 
-        $log.debug('Updating server and character files');
         //Update both, storedCharacters and server
         gameForgeServer.updateServerCharacters(storedCharacters, server);
 
-        $log.debug('Removing characterInfo files');
         //Remove all characterInfo files
         grunt.file.expand(serverCharactersFolder + '*').forEach(function(file){
           grunt.file.delete(file);
@@ -239,14 +225,8 @@ module.exports = function(grunt) {
         grunt.file.write(folderName + server.serverName + '.json', JSON.stringify(server.entries));
       });
 
-      //Now retrieve folder dates
-      var folderDates = grunt.file.expand('data/*').where(function(folderName){
-        return folderName.split('-').length == 3;
-      }).select(function(folderName){
-        return folderName.split('/')[1];
-      });
-
-      grunt.file.write(appFolder + 'helpers/folders.dates.js', 'window.storedDates = ' + JSON.stringify(folderDates, null, ' ').replace(/"/g, '\'') + ';');
+      //Generate dates file
+      _generateDatesFile();
 
     });
 
@@ -315,27 +295,14 @@ module.exports = function(grunt) {
     });
   });
 
+  //Generates players database
   grunt.registerTask('create-players-database', function(){
-
-    var baseFolder            = config.application['base-folder'];
-    var charactersBaseFolder  = baseFolder + 'Servers/Characters/';
 
     gameForgeServer.servers.forEach(function(server){
       var serverCharactersFolder = charactersBaseFolder + server.name + '/';
 
-      //Extract previous dates
-      var serverPreviousDates = grunt.file.expand('data/Servers/*/' + server.name + '.json')
-        .select(function(fileName) {
-          var data = grunt.file.readJSON(fileName);
-          return {
-            date : new Date(fileName.split('/')[1]),
-            characters: data.elyos.concat(data.asmodians)
-          };
-        })
-        .sort(function(a, b){ return a.date - b.date; });
-
-        //Retrieve characters array
-        var storedCharacters = gameForgeServer.generateCharacterInfo(serverPreviousDates);
+      //Retrieve characters array
+      var storedCharacters = _extractStoredCharacters(server);
 
       //Remove all characterInfo files
       grunt.file.expand(serverCharactersFolder + '*').forEach(function(file){
@@ -350,6 +317,21 @@ module.exports = function(grunt) {
 
     });
   });
+
+  //Generates dates-files
+  grunt.registerTask('generate-dates-file' , _generateDatesFile);
+
+
+  //Will generate dates file
+  function _generateDatesFile() {
+    var folderDates = grunt.file.expand(baseFolder + 'Servers/*').where(function(folderName) {
+      return folderName.split('-').length == 3;
+    }).select(function(folderName){
+      return folderName.split('/')[2];
+    });
+
+    grunt.file.write(appFolder + 'helpers/folders.dates.js', 'window.storedDates = ' + JSON.stringify(folderDates, null, ' ').replace(/"/g, '\'') + ';');
+  }
 
   //Will retrieve all servers data
   function retrieveServersData(cookie, serversList, userAgent) {
@@ -374,5 +356,21 @@ module.exports = function(grunt) {
     return $$q.then(function(){
       return serversFullData;
     });
+  }
+
+  //Will extract stored characters
+  function _extractStoredCharacters(server) {
+
+    var serverPreviousDates = grunt.file.expand(baseFolder + '/Servers/*/' + server.name + '.json')
+        .select(function(fileName) {
+          var data = grunt.file.readJSON(fileName);
+          return {
+            date : new Date(fileName.split('/')[2]),
+            characters: data.elyos.concat(data.asmodians)
+          };
+        })
+        .sort(function(a, b){ return a.date - b.date; });
+
+    return gameForgeServer.generateCharacterInfo(serverPreviousDates);
   }
 };
