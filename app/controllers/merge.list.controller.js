@@ -8,8 +8,12 @@
   ]);
 
   function listController($log, $scope, $location, $timeout, helperService, storedDataService, serversData, groupID) {
+
     $scope._name = CONTROLLER_NAME;
     var textSearch_timeoutPromise = null;
+
+    //Call to init Fn
+    _init();
 
     //Change server or date Fn
     $scope.goTo = function(serverMerge) {
@@ -21,15 +25,16 @@
       $location.path('/merge/' + serverMerge.id);
     };
 
-    _init();
-
+    //Initialization Fn
     function _init() {
 
       var serverNames = serversData.select(function(itm){ return itm.server.name; }).join(' + ');
 
+      //Title and navigation
       helperService.$scope.setTitle(serverNames);
-      helperService.$scope.setNav('ranking.list');
+      helperService.$scope.setNav('ranking.merges.list');
 
+      //Store data on scope...
       $scope.serverData = {
         data: {
           elyos: [],
@@ -39,6 +44,8 @@
         id: groupID
       };
 
+      //Filters initial data
+      $scope.textSearch = '';
       $scope.mergeGroups = storedDataService.mergeGroups.select(function(group, idx) {
         return {
           id: idx,
@@ -51,6 +58,26 @@
         .where(function(itm){ return itm.id >= 10; })
         .sort(function(a, b){ return b.id - a.id; });
 
+      //Set up pagination needed data
+      var basePaginationObj = {
+        currentPage: 0,
+        numElementsPerPage: 100,
+        numPages: -1,
+        numElements: -1,
+        pageNumbers: [],
+        fullCollection: [],
+        currentPageElements: [],
+        next: _paginationObject_next,
+        previous: _paginationObject_previous,
+        goTo: _paginationObject_goTo
+      };
+
+      $scope.pagination = {};
+      $scope.pagination.elyos = ng.copy(basePaginationObj);
+      $scope.pagination.asmodians = ng.copy(basePaginationObj);
+
+
+      //Join servers data for the merge
       serversData.forEach(function(server) {
         $scope.serverData.data.elyos = $scope.serverData.data.elyos.concat(server.data.elyos);
         $scope.serverData.data.asmodians = $scope.serverData.data.asmodians.concat(server.data.asmodians);
@@ -74,8 +101,8 @@
         _calculateNewRank(character);
       });
 
-      $scope.elyosData = $scope.serverData.data.elyos.select(_initCharacter);
-      $scope.asmodianData = $scope.serverData.data.asmodians.select(_initCharacter);
+      _initPagination($scope.serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
+      _initPagination($scope.serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
 
       $scope.$watch('textSearch', function(newValue){
         _performFilterAndSearch(newValue, $scope.selectedClass, $scope.selectedRank);
@@ -162,20 +189,20 @@
 
         //If not filter is provided
         if(!classToFilter && !textToSearch && !rankToFilter) {
-          $scope.elyosData = $scope.serverData.data.elyos.select(_initCharacter);
-          $scope.asmodianData = $scope.serverData.data.asmodians.select(_initCharacter);
+          _initPagination($scope.serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
+          _initPagination($scope.serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
           return;
         }
 
         //Filter elyos data
-        $scope.elyosData = $scope.serverData.data.elyos.where(function(character) {
+        _initPagination($scope.serverData.data.elyos.where(function(character) {
           return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
-        }).select(_initCharacter);
+        }).select(_initCharacter), $scope.pagination.elyos);
 
         //Filter asmodian data
-        $scope.asmodianData = $scope.serverData.data.asmodians.where(function(character) {
+        _initPagination($scope.serverData.data.asmodians.where(function(character) {
           return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
-        }).select(_initCharacter);
+        }).select(_initCharacter), $scope.pagination.asmodians);
 
       }, 500);
 
@@ -221,6 +248,70 @@
 
         return meetsTxt && meetsClass && meetsRank;
       }
+    }
+
+    //Initializes pagination
+    function _initPagination(originalElements, paginationObj) {
+
+      paginationObj.currentPage = 0;
+      paginationObj.numPages = parseInt(originalElements.length / paginationObj.numElementsPerPage);
+      paginationObj.numElements = originalElements.length;
+      paginationObj.fullCollection = originalElements;
+
+      if(originalElements.length % paginationObj.numElementsPerPage > 0) {
+        paginationObj.numPages += 1;
+      }
+
+      if(paginationObj.numPages === 0){
+        paginationObj.numPages = 1;
+      }
+
+      paginationObj.currentPageElements = paginationObj.fullCollection.slice(0, paginationObj.numElementsPerPage);
+
+      //Wich are the pageNumbers that we hold
+      paginationObj.pageNumbers = Array.apply(null, {length: paginationObj.numPages}).map(function(current, idx){ return idx + 1; }, Number);
+    }
+
+    //Fn for pagination Objects that will go to next page
+    function _paginationObject_next() {
+      var $this = this;
+
+      //If we are on last page
+      if($this.currentPage + 1 >= $this.numPages) {
+        return; //Dont do nothin
+      }
+
+      $this.currentPage += 1;
+
+      var idx = $this.currentPage * $this.numElementsPerPage;
+
+      $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
+    }
+
+    //Fn for pagination objects that will go to previous page
+    function _paginationObject_previous() {
+      var $this = this;
+
+      if($this.currentPage === 0) {
+        return; //If we are on first page, dont do nothing
+      }
+
+      $this.currentPage -= 1;
+
+      var idx = $this.currentPage * $this.numElementsPerPage;
+      $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
+    }
+
+    //Go to an specific page
+    function _paginationObject_goTo(numPage) {
+      var $this = this;
+
+      if(numPage > 0 && numPage <= $this.numPages) {
+        $this.currentPage = numPage - 1;
+        var idx = $this.currentPage * $this.numElementsPerPage;
+        $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
+      }
+
     }
   }
 
