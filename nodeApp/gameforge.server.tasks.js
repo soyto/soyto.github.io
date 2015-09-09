@@ -1,3 +1,4 @@
+/* global require */
 module.exports = function(grunt) {
   'use strict';
 
@@ -19,7 +20,7 @@ module.exports = function(grunt) {
     var baseFolder            = config.application['base-folder'];
     var postsFolder           = config.application['posts-folder'];
     var appFolder            = config.application['app-folder'];
-    var userAgent             = config.crawler['user-agent']
+    var userAgent             = config.crawler['user-agent'];
     var charactersBaseFolder  = baseFolder + 'Characters/';
     var today                 = moment().format('MM-DD-YYYY');
     var folderName            = baseFolder + today + '/';
@@ -80,7 +81,7 @@ module.exports = function(grunt) {
               characters: data.elyos.concat(data.asmodians)
             };
           })
-          .sort(function(a, b){ return a.date - b.date});
+          .sort(function(a, b){ return a.date - b.date; });
 
         $log.debug('Generating characterInfo');
         //Retrieve characters array
@@ -196,17 +197,17 @@ module.exports = function(grunt) {
         var asmodianStats = server.entries.stats.asmodians;
 
         //Pick up best of servers ones
-        var serverTopHP = elyosStats.topHP.gloryPointChange > asmodianStats.topHP.gloryPointChange
-          ? elyosStats.topHP
-          : asmodianStats.topHP;
+        var serverTopHP = elyosStats.topHP.gloryPointChange > asmodianStats.topHP.gloryPointChange ?
+            elyosStats.topHP :
+            asmodianStats.topHP;
 
-        var serverTopPositionChange = elyosStats.topPositionChange.rankingPositionChange > asmodianStats.topPositionChange.rankingPositionChange
-          ? elyosStats.topPositionChange
-          : asmodianStats.topPositionChange;
+        var serverTopPositionChange = elyosStats.topPositionChange.rankingPositionChange > asmodianStats.topPositionChange.rankingPositionChange ?
+            elyosStats.topPositionChange :
+            asmodianStats.topPositionChange;
 
-        var serverLowerPositionChange = elyosStats.lowerPositionChange.rankingPositionChange < asmodianStats.lowerPositionChange.rankingPositionChange
-          ? elyosStats.lowerPositionChange
-          : asmodianStats.lowerPositionChange;
+        var serverLowerPositionChange = elyosStats.lowerPositionChange.rankingPositionChange < asmodianStats.lowerPositionChange.rankingPositionChange ?
+            elyosStats.lowerPositionChange :
+            asmodianStats.lowerPositionChange;
 
         //Check and generate servers tops
 
@@ -264,7 +265,7 @@ module.exports = function(grunt) {
 
           crawlerError.errors.forEach(function(error){
 
-            var faction = error.faction == 0 ? 'elyos' : 'asmodians'
+            var faction = error.faction === 0 ? 'elyos' : 'asmodians';
             var start = (error.pageNum * 50) + 1;
             var end = (error.pageNum + 1) * 50;
 
@@ -331,7 +332,7 @@ module.exports = function(grunt) {
             characters: data.elyos.concat(data.asmodians)
           };
         })
-        .sort(function(a, b){ return a.date - b.date});
+        .sort(function(a, b){ return a.date - b.date; });
 
         //Retrieve characters array
         var storedCharacters = gameForgeServer.generateCharacterInfo(serverPreviousDates);

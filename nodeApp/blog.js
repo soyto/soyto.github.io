@@ -1,3 +1,4 @@
+/* global require */
 module.exports = new function() {
   'use strict';
 
@@ -21,9 +22,9 @@ module.exports = new function() {
       var name = fullFileName.split('/');
       name = name[name.length - 1];
 
-      var date = name.split('\.')[0];
-      var time = name.split('\.')[1];
-      var title = name.split('\.')[2];
+      var date = name.split('.')[0];
+      var time = name.split('.')[1];
+      var title = name.split('.')[2];
 
       //Retrieve javascript date object
       date = moment(date + ' ' + time, 'YYYY-MM-DD HH:mm').toDate();
