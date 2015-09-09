@@ -1,6 +1,10 @@
 (function(ng){
   'use strict';
 
+  var DEBUG = false;
+
+  var host = DEBUG ? '' : 'http://91.184.11.238/';
+
   ng.module('mainApp').service('storedDataService',[
     '$http', '$window', 'helperService', storedData_service
   ]);
@@ -99,7 +103,7 @@
 
     //Retrieves info from the selected server at indicated day
     $this.getFromServer = function(date, serverName) {
-      var url = 'http://91.184.11.238/data/Servers/' + date + '/' + serverName + '.json';
+      var url = host + 'data/Servers/' + date + '/' + serverName + '.json';
 
       var $$q = helperService.$q.new();
 
@@ -139,7 +143,7 @@
 
     //Retrieve character info
     $this.getCharacterInfo = function(serverName, characterID) {
-      var url = 'http://91.184.11.238/data/Servers/Characters/' + serverName + '/' + characterID + '.json';
+      var url = host + 'data/Servers/Characters/' + serverName + '/' + characterID + '.json';
 
       var $$q = helperService.$q.new();
 
