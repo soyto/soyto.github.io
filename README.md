@@ -40,4 +40,4 @@ The following list are grunt commands used on app.
 ## Project branches
 - `master` this is the default branch that will be shown on the webpage
 - `dev` primary development branch
-- `data` over this branch is performed everyday `grunt crawler`task
+- <del>`data`</del> over this branch is performed everyday `grunt crawler`task. NOTE: this branch is deleted, because is no longer required.
