@@ -1,3 +1,4 @@
+/* global require */
 module.exports = function(grunt) {
   'use strict';
 
@@ -11,4 +12,4 @@ module.exports = function(grunt) {
   grunt.registerTask('generate-blog-files', function(){
     blog.generateBlogFiles();
   });
-}
+};

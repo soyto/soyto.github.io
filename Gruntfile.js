@@ -36,7 +36,8 @@ module.exports = function(grunt) {
   //JSHINT
   gruntConfig.jshint = {
     options : {jshintrc: '.jshintrc'},
-    files: config.application['app-files']
+    app: config.application['app-files'],
+    'node-app': config.application['node-app-files']
   };
 
   //CONCAT
@@ -59,6 +60,21 @@ module.exports = function(grunt) {
     }
   };
 
+  //WATCH
+  gruntConfig.watch = {
+    options: {
+      debounceDelay: 250,
+      dateFormat: function(time) {
+        grunt.log.writeln('The watch finished in ' + time + 'ms at ' + (new Date).toString());
+        grunt.log.writeln('Waiting for more changes');
+      }
+    },
+    app: {
+      files: config.application['app-files'],
+      tasks: ['compile']
+    }
+  }
+
   grunt.initConfig(gruntConfig);
 
 
@@ -74,7 +90,7 @@ module.exports = function(grunt) {
   //Compiles application
   grunt.registerTask('compile', function(){
     grunt.task.run('generate-blog-files');
-    grunt.task.run('jshint');
+    grunt.task.run('jshint:app');
     grunt.task.run('concat:app');
     grunt.task.run('uglify:app');
   });

@@ -1,4 +1,6 @@
+/* global require */
 module.exports = new function() {
+
   'use strict';
 
   var NUM_PAGES_PER_SERVER = 20;
@@ -183,7 +185,7 @@ module.exports = new function() {
       json: data
     };
 
-    var responseFn = function(error, response, body) {
+    var responseFn = function(error, httpResponse, body) {
 
       //Object with the response
       var response = {
@@ -198,7 +200,7 @@ module.exports = new function() {
       if(typeof body == 'string' && !error) {
         error = {
           code: 'BADFORMAT'
-        }
+        };
       }
 
       if(error) {
@@ -254,7 +256,7 @@ module.exports = new function() {
 
     //Fn that will help retrieving character by id
     var getCharacterById = function(id) {
-      return storedCharacters.first(function(itm){ return itm.characterID == id});
+      return storedCharacters.first(function(itm){ return itm.characterID == id; });
     };
 
     dateEntries.forEach(function(dateEntry) {
@@ -364,7 +366,7 @@ module.exports = new function() {
 
     //Fn that will help retrieving character by id
     var getStoredCharacterById = function(id) {
-      return storedCharacters.first(function(itm){ return itm.characterID == id});
+      return storedCharacters.first(function(itm){ return itm.characterID == id; });
     };
 
     //Loop serverCharacters
@@ -427,7 +429,7 @@ module.exports = new function() {
 
         //Here we have a trouble, maybe the date is the same as now,
         // we will know looking on the last status
-        storedCharacter.status.sort(function(a, b){ return a.date > b.date ? 1 : -1});
+        storedCharacter.status.sort(function(a, b){ return a.date > b.date ? 1 : -1; });
 
         //Retrieve last status
         var lastStatus = storedCharacter.status[storedCharacter.status.length - 1];
@@ -487,7 +489,6 @@ module.exports = new function() {
         });
 
         //has changed his name?
-        var lastName = storedCharacter.names[storedCharacter.names.length -1];
         if(lastName.characterName != serverCharacter.characterName) {
           storedCharacter.names.push({
             date: serverData.date,
@@ -496,7 +497,6 @@ module.exports = new function() {
         }
 
         //has changed his guild?
-        var lastGuild = storedCharacter.guilds[storedCharacter.guilds.length -1];
         if(lastGuild.guildID != serverCharacter.guildID) {
           storedCharacter.guilds.push({
             date: serverData.date,
