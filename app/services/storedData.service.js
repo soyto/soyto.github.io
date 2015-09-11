@@ -11,8 +11,13 @@
 
   function storedData_service($http, $window, helperService) {
 
+
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
+
+	  $window.$cacheServerData = _cacheServerData;
+	  $window.$cacheCharacterInfo = _cacheCharacterInfo;
+
 
     var $this = this;
 

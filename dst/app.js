@@ -23,7 +23,9 @@
     'ngRoute',
     'ngSanitize',
     'angular-loading-bar',
-    'chart.js'
+    'chart.js',
+	  'mgcrea.ngStrap',
+	  'ngAnimate'
   ]);
 
   ng.module('mainApp').constant('$moment', moment);
@@ -42,7 +44,7 @@
       templateUrl: '/app/templates/index.html',
       controller: 'mainApp.index.controller',
       resolve: {
-        posts: ['helperService', 'blogService', function(helperService, blogService){
+        posts: ['helperService', 'blogService', 'consoleService', function(helperService, blogService){
           return helperService.$q.likeNormal(blogService.getAll());
         }]
       }
@@ -54,7 +56,7 @@
       templateUrl: '/app/templates/ranking.html',
       controller: 'mainApp.ranking.list.controller',
       resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+        serverData: ['helperService', 'storedDataService', '$route', 'consoleService', function(helperService, storedDataService, $route) {
           return helperService.$q.likeNormal(storedDataService.getLastFromServer($route.current.params.serverName));
         }]
       }
@@ -63,7 +65,7 @@
       templateUrl: '/app/templates/ranking.mobile.html',
       controller: 'mainApp.ranking.list.mobile.controller',
       resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+        serverData: ['helperService', 'storedDataService', '$route', 'consoleService', function(helperService, storedDataService, $route) {
           return helperService.$q.likeNormal(storedDataService.getLastFromServer($route.current.params.serverName));
         }]
       }
@@ -1796,6 +1798,32 @@
 
 
 (function(ng){
+	'use strict';
+
+	ng.module('mainApp').service('consoleService',[
+		'$window', '$q', 'helperService', 'storedDataService', consoleService
+	]);
+
+
+	function consoleService($window, $q, helperService, storedDataService) {
+
+		var $this = this;
+		$window.soyto = $this;
+
+
+		//Expose $q
+		$this.$q = $q;
+
+		//Expose getLastFromServerFn
+		$this.getLastFromServer = storedDataService.getLastFromServer;
+
+		//Expose getCharacterInfo Fn
+		$this.getCharacterInfo = storedDataService.getCharacterInfo;
+
+	}
+})(angular);
+
+(function(ng){
   'use strict';
 
   ng.module('mainApp').service('helperService', [
@@ -1908,8 +1936,13 @@
 
   function storedData_service($http, $window, helperService) {
 
+
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
+
+	  $window.$cacheServerData = _cacheServerData;
+	  $window.$cacheCharacterInfo = _cacheCharacterInfo;
+
 
     var $this = this;
 
