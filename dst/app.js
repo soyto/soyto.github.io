@@ -1814,11 +1814,9 @@
 		//Expose $q
 		$this.$q = $q;
 
-		//Expose getLastFromServerFn
-		$this.getLastFromServer = storedDataService.getLastFromServer;
+		//Expose whole service
+		$this.storedDataService = storedDataService;
 
-		//Expose getCharacterInfo Fn
-		$this.getCharacterInfo = storedDataService.getCharacterInfo;
 
 	}
 })(angular);
