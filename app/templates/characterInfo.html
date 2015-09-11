@@ -85,7 +85,11 @@
             </thead>
             <tbody>
                 <tr ng-repeat="status in character.status">
-                    <td>{{ status.date | date: 'MM/dd/yyyy' }}</td>
+                    <td>
+                        <a ng-href="#/ranking/{{serverName}}/{{ status.date | date: 'MM-dd-yyyy' }}">
+                            {{ status.date | date: 'MM/dd/yyyy' }}
+                        </a>
+                    </td>
                     <td>{{ status.soldierRank.name }}</td>
                     <td>{{ status.position }}</td>
                     <td>
