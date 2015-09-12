@@ -65,15 +65,19 @@ module.exports = function(grunt) {
     options: {
       debounceDelay: 250,
       dateFormat: function(time) {
-        grunt.log.writeln('The watch finished in ' + time + 'ms at ' + (new Date).toString());
-        grunt.log.writeln('Waiting for more changes');
+        $log.debug('The watch finished in %s', colors.cyan(time));;
+        $log.debug('Waiting for more changes');
       }
     },
     app: {
       files: config.application['app-files'],
-      tasks: ['compile']
+      tasks: [
+	      'jshint:app',
+	      'concat:app',
+	      'uglify:app'
+      ]
     }
-  }
+  };
 
   grunt.initConfig(gruntConfig);
 

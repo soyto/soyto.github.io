@@ -6,7 +6,9 @@
     'ngRoute',
     'ngSanitize',
     'angular-loading-bar',
-    'chart.js'
+    'chart.js',
+	  'mgcrea.ngStrap',
+	  'ngAnimate'
   ]);
 
   ng.module('mainApp').constant('$moment', moment);
@@ -25,7 +27,7 @@
       templateUrl: '/app/templates/index.html',
       controller: 'mainApp.index.controller',
       resolve: {
-        posts: ['helperService', 'blogService', function(helperService, blogService){
+        posts: ['helperService', 'blogService', 'consoleService', function(helperService, blogService){
           return helperService.$q.likeNormal(blogService.getAll());
         }]
       }
@@ -37,7 +39,7 @@
       templateUrl: '/app/templates/ranking.html',
       controller: 'mainApp.ranking.list.controller',
       resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+        serverData: ['helperService', 'storedDataService', '$route', 'consoleService', function(helperService, storedDataService, $route) {
           return helperService.$q.likeNormal(storedDataService.getLastFromServer($route.current.params.serverName));
         }]
       }
@@ -46,7 +48,7 @@
       templateUrl: '/app/templates/ranking.mobile.html',
       controller: 'mainApp.ranking.list.mobile.controller',
       resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+        serverData: ['helperService', 'storedDataService', '$route', 'consoleService', function(helperService, storedDataService, $route) {
           return helperService.$q.likeNormal(storedDataService.getLastFromServer($route.current.params.serverName));
         }]
       }

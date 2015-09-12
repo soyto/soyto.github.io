@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.7.5)
+ * Soyto.github.io (0.7.6)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -23,7 +23,9 @@
     'ngRoute',
     'ngSanitize',
     'angular-loading-bar',
-    'chart.js'
+    'chart.js',
+	  'mgcrea.ngStrap',
+	  'ngAnimate'
   ]);
 
   ng.module('mainApp').constant('$moment', moment);
@@ -42,7 +44,7 @@
       templateUrl: '/app/templates/index.html',
       controller: 'mainApp.index.controller',
       resolve: {
-        posts: ['helperService', 'blogService', function(helperService, blogService){
+        posts: ['helperService', 'blogService', 'consoleService', function(helperService, blogService){
           return helperService.$q.likeNormal(blogService.getAll());
         }]
       }
@@ -54,7 +56,7 @@
       templateUrl: '/app/templates/ranking.html',
       controller: 'mainApp.ranking.list.controller',
       resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+        serverData: ['helperService', 'storedDataService', '$route', 'consoleService', function(helperService, storedDataService, $route) {
           return helperService.$q.likeNormal(storedDataService.getLastFromServer($route.current.params.serverName));
         }]
       }
@@ -63,7 +65,7 @@
       templateUrl: '/app/templates/ranking.mobile.html',
       controller: 'mainApp.ranking.list.mobile.controller',
       resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+        serverData: ['helperService', 'storedDataService', '$route', 'consoleService', function(helperService, storedDataService, $route) {
           return helperService.$q.likeNormal(storedDataService.getLastFromServer($route.current.params.serverName));
         }]
       }
@@ -198,40 +200,139 @@
   function index_controller($scope, $moment, storedDataService, helperService, characterInfo) {
     $scope._name = CONTROLLER_NAME;
 
-    helperService.$scope.setTitle(characterInfo.serverName + ' -> ' + characterInfo.data.names[characterInfo.data.names.length - 1].characterName);
 
-    var dateSortFn = function(a,b) { return a.date > b.date ? -1 : 1; };
+	  //Call to init Fn
+	  _init();
 
-    $scope.serverName = characterInfo.serverName;
-    $scope.character = characterInfo.data;
 
-    $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
-    $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
-    $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
+	  function _init() {
 
-    $scope.character.names = $scope.character.names.sort(dateSortFn);
-    $scope.character.status = $scope.character.status.sort(dateSortFn);
-    $scope.character.guilds = $scope.character.guilds.sort(dateSortFn);
+		  //Set page title
+		  helperService.$scope.setTitle([
+			  characterInfo.serverName,
+			  '->',
+			  characterInfo.data.characterName
+		  ].join(' '));
 
-    $scope.character.status.forEach(function(status){
-      status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
-    });
+		  //Set up character and server names and stats
+		  $scope.serverName = characterInfo.serverName;
+		  $scope.character = characterInfo.data;
 
-    $scope.chart = {};
+		  $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
+		  $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
+		  $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
 
-    $scope.chart.options = {
-      pointHitDetectionRadius : 4
-    };
-    $scope.chart.labels = [];
-    $scope.chart.series = [characterInfo.data.characterName];
-    $scope.chart.data = [[]];
+		  $scope.character.names = $scope.character.names.sort(_dateSortFn);
+		  $scope.character.status = $scope.character.status.sort(_dateSortFn);
+		  $scope.character.guilds = $scope.character.guilds.sort(_dateSortFn);
 
-    ng.copy($scope.character.status)
-      .sort(function(a, b){ return a.date > b.date ? 1 : -1; })
-      .forEach(function(status){
-      $scope.chart.labels.push($moment(status.date).format('MM-DD-YYYY'));
-      $scope.chart.data[0].push(status.gloryPoint);
-    });
+		  $scope.character.status.forEach(function(status){
+			  status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
+		  });
+
+		  //Set up chart
+		  //TOD for performance the best is have only 30 points
+		  //ATm we are only retrieving 30 last days, will eb great a system that ponderates days
+		  $scope.chart = {};
+
+		  $scope.chart.options = {
+			  pointHitDetectionRadius : 4
+		  };
+		  $scope.chart.labels = [];
+		  $scope.chart.series = [characterInfo.data.characterName];
+		  $scope.chart.data = [[]];
+
+		  ng.copy($scope.character.status)
+			  .sort(function(a, b){ return a.date > b.date ? 1 : -1; })
+			  .slice($scope.character.status.length - 30) //We only want last 30 days
+			  .forEach(function(status){
+				  $scope.chart.labels.push($moment(status.date).format('MM-DD-YYYY'));
+				  $scope.chart.data[0].push(status.gloryPoint);
+			  });
+
+
+		  //Data pagination
+		  $scope.pagination = {
+			  currentPage: 0,
+			  numElementsPerPage: 10,
+			  numPages: -1,
+			  numElements: -1,
+			  pageNumbers: [],
+			  fullCollection: [],
+			  currentPageElements: [],
+			  next: _paginationObject_next,
+			  previous: _paginationObject_previous,
+			  goTo: _paginationObject_goTo
+		  };
+
+		  _initPagination($scope.character.status, $scope.pagination);
+	  }
+
+	  function _dateSortFn(a, b) { return a.date > b.date ? -1 : 1; }
+
+	  //Initializes pagination
+	  function _initPagination(originalElements, paginationObj) {
+
+		  paginationObj.currentPage = 0;
+		  paginationObj.numPages = parseInt(originalElements.length / paginationObj.numElementsPerPage);
+		  paginationObj.numElements = originalElements.length;
+		  paginationObj.fullCollection = originalElements;
+
+		  if(originalElements.length % paginationObj.numElementsPerPage > 0) {
+			  paginationObj.numPages += 1;
+		  }
+
+		  if(paginationObj.numPages === 0){
+			  paginationObj.numPages = 1;
+		  }
+
+		  paginationObj.currentPageElements = paginationObj.fullCollection.slice(0, paginationObj.numElementsPerPage);
+
+		  //Wich are the pageNumbers that we hold
+		  paginationObj.pageNumbers = Array.apply(null, {length: paginationObj.numPages}).map(function(current, idx){ return idx + 1; }, Number);
+	  }
+
+	  //Fn for pagination Objects that will go to next page
+	  function _paginationObject_next() {
+		  var $this = this;
+
+		  //If we are on last page
+		  if($this.currentPage + 1 >= $this.numPages) {
+			  return; //Dont do nothin
+		  }
+
+		  $this.currentPage += 1;
+
+		  var idx = $this.currentPage * $this.numElementsPerPage;
+
+		  $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
+	  }
+
+	  //Fn for pagination objects that will go to previous page
+	  function _paginationObject_previous() {
+		  var $this = this;
+
+		  if($this.currentPage === 0) {
+			  return; //If we are on first page, dont do nothing
+		  }
+
+		  $this.currentPage -= 1;
+
+		  var idx = $this.currentPage * $this.numElementsPerPage;
+		  $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
+	  }
+
+	  //Go to an specific page
+	  function _paginationObject_goTo(numPage) {
+		  var $this = this;
+
+		  if(numPage > 0 && numPage <= $this.numPages) {
+			  $this.currentPage = numPage - 1;
+			  var idx = $this.currentPage * $this.numElementsPerPage;
+			  $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
+		  }
+
+	  }
 
   }
 })(angular);
@@ -243,31 +344,124 @@
   var CONTROLLER_NAME = 'mainApp.characterInfo.mobile.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', 'storedDataService', 'helperService', 'characterInfo', index_controller
+    '$scope', '$moment', 'storedDataService', 'helperService', 'characterInfo', index_controller
   ]);
 
 
-  function index_controller($scope, storedDataService, helperService, characterInfo) {
+  function index_controller($scope, $moment, storedDataService, helperService, characterInfo) {
     $scope._name = CONTROLLER_NAME;
 
-    helperService.$scope.setTitle(characterInfo.serverName + ' -> ' + characterInfo.data.names[characterInfo.data.names.length - 1].characterName);
+    //Call to init Fn
+    _init();
 
-    var dateSortFn = function(a,b) { return a.date > b.date ? -1 : 1; };
 
-    $scope.serverName = characterInfo.serverName;
-    $scope.character = characterInfo.data;
+    function _init() {
 
-    $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyo';
-    $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
-    $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
+      //Set page title
+      helperService.$scope.setTitle([
+        characterInfo.serverName,
+        '->',
+        characterInfo.data.characterName
+      ].join(' '));
 
-    $scope.character.names = $scope.character.names.sort(dateSortFn);
-    $scope.character.status = $scope.character.status.sort(dateSortFn);
-    $scope.character.guilds = $scope.character.guilds.sort(dateSortFn);
+      //Set up character and server names and stats
+      $scope.serverName = characterInfo.serverName;
+      $scope.character = characterInfo.data;
 
-    $scope.character.status.forEach(function(status){
-      status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
-    });
+      $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
+      $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
+      $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
+
+      $scope.character.names = $scope.character.names.sort(_dateSortFn);
+      $scope.character.status = $scope.character.status.sort(_dateSortFn);
+      $scope.character.guilds = $scope.character.guilds.sort(_dateSortFn);
+
+      $scope.character.status.forEach(function(status){
+        status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
+      });
+
+      //Data pagination
+      $scope.pagination = {
+        currentPage: 0,
+        numElementsPerPage: 10,
+        numPages: -1,
+        numElements: -1,
+        pageNumbers: [],
+        fullCollection: [],
+        currentPageElements: [],
+        next: _paginationObject_next,
+        previous: _paginationObject_previous,
+        goTo: _paginationObject_goTo
+      };
+
+      _initPagination($scope.character.status, $scope.pagination);
+    }
+
+    function _dateSortFn(a, b) { return a.date > b.date ? -1 : 1; }
+
+    //Initializes pagination
+    function _initPagination(originalElements, paginationObj) {
+
+      paginationObj.currentPage = 0;
+      paginationObj.numPages = parseInt(originalElements.length / paginationObj.numElementsPerPage);
+      paginationObj.numElements = originalElements.length;
+      paginationObj.fullCollection = originalElements;
+
+      if(originalElements.length % paginationObj.numElementsPerPage > 0) {
+        paginationObj.numPages += 1;
+      }
+
+      if(paginationObj.numPages === 0){
+        paginationObj.numPages = 1;
+      }
+
+      paginationObj.currentPageElements = paginationObj.fullCollection.slice(0, paginationObj.numElementsPerPage);
+
+      //Wich are the pageNumbers that we hold
+      paginationObj.pageNumbers = Array.apply(null, {length: paginationObj.numPages}).map(function(current, idx){ return idx + 1; }, Number);
+    }
+
+    //Fn for pagination Objects that will go to next page
+    function _paginationObject_next() {
+      var $this = this;
+
+      //If we are on last page
+      if($this.currentPage + 1 >= $this.numPages) {
+        return; //Dont do nothin
+      }
+
+      $this.currentPage += 1;
+
+      var idx = $this.currentPage * $this.numElementsPerPage;
+
+      $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
+    }
+
+    //Fn for pagination objects that will go to previous page
+    function _paginationObject_previous() {
+      var $this = this;
+
+      if($this.currentPage === 0) {
+        return; //If we are on first page, dont do nothing
+      }
+
+      $this.currentPage -= 1;
+
+      var idx = $this.currentPage * $this.numElementsPerPage;
+      $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
+    }
+
+    //Go to an specific page
+    function _paginationObject_goTo(numPage) {
+      var $this = this;
+
+      if(numPage > 0 && numPage <= $this.numPages) {
+        $this.currentPage = numPage - 1;
+        var idx = $this.currentPage * $this.numElementsPerPage;
+        $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
+      }
+
+    }
 
   }
 })(angular);
@@ -1716,8 +1910,13 @@
 
   function storedData_service($http, $window, helperService) {
 
+
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
+
+	  $window.$cacheServerData = _cacheServerData;
+	  $window.$cacheCharacterInfo = _cacheCharacterInfo;
+
 
     var $this = this;
 
@@ -1871,7 +2070,7 @@
             data: data
           };
 
-          _cacheServerData.push(result);
+          _cacheCharacterInfo.push(result);
           $$q.resolve(result);
         });
 
