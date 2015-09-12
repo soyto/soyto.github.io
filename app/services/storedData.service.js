@@ -171,7 +171,7 @@
             data: data
           };
 
-          _cacheServerData.push(result);
+          _cacheCharacterInfo.push(result);
           $$q.resolve(result);
         });
 
