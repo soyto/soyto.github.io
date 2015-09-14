@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.7.5)
+ * Soyto.github.io (0.7.6)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -2094,7 +2094,7 @@
             data: data
           };
 
-          _cacheServerData.push(result);
+          _cacheCharacterInfo.push(result);
           $$q.resolve(result);
         });
 

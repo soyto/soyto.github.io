@@ -28,6 +28,7 @@ List with all servers ranks
 The following list are grunt commands used on app.
 
 - `grunt compile` or just `grunt` compiles the application generating the minified files and so
+- `grunt watch` that is watcher task, will compile your changes in real time, used in development stages
 - `grunt crawler` Retrieves new data from gameforge web page and creates both server list and characterInfo
 - `grunt create-players-database` With the data downloaded from the crawler just generates the characterInfo data, this command is used inside the crawler nowadays.
 - `grunt generate-blog-files` Read *.md files from _posts folder and generates the blog system
@@ -40,4 +41,4 @@ The following list are grunt commands used on app.
 ## Project branches
 - `master` this is the default branch that will be shown on the webpage
 - `dev` primary development branch
-- `data` over this branch is performed everyday `grunt crawler`task
+- <del>`data`</del> over this branch is performed everyday `grunt crawler`task. NOTE: this branch is deleted, because is no longer required.
