@@ -94,13 +94,21 @@
       });
 
       $scope.serverData.data.elyos.forEach(function(character, idx){
+        character.oldRankingPositionChange = character.rankingPositionChange;
         character.rankingPositionChange = character.position - (idx + 1);
+        character.oldPosition = character.position;
         character.position = idx + 1;
+
+        character.oldSoldierRankID = character.soldierRankID;
         _calculateNewRank(character);
       });
       $scope.serverData.data.asmodians.forEach(function(character, idx){
+        character.oldRankingPositionChange = character.rankingPositionChange;
         character.rankingPositionChange = character.position - (idx + 1);
+        character.oldPosition = character.position;
         character.position = idx + 1;
+
+        character.oldSoldierRankID = character.soldierRankID;
         _calculateNewRank(character);
       });
 
@@ -125,6 +133,7 @@
       }
       character.characterClass = storedDataService.getCharacterClass(character.characterClassID);
       character.soldierRank = storedDataService.getCharacterRank(character.soldierRankID);
+      character.oldSoldierRank = storedDataService.getCharacterRank(character.oldSoldierRankID);
 
       return character;
     }

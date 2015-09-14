@@ -99,8 +99,9 @@
                 <th>Class</th>
                 <th>GuildName</th>
                 <th>Glory points</th>
-                <th>Rank</th>
-                <th>Ranking change</th>
+                <th>Rank preview<br />(<small>Current</small>)</th>
+                <th>Rank change preview<br />(<small>Current</small>)</th>
+                <th>Change</th>
               </tr>
             </thead>
             <tbody>
@@ -114,7 +115,7 @@
                 <td>{{ character.characterClass.name }}</td>
                 <td>{{ character.guildName }}</td>
                 <td>{{ character.gloryPoint }}</td>
-                <td>{{ character.soldierRank.name }}</td>
+                <td>{{ character.soldierRank.name }} <br /><small>({{character.oldSoldierRank.name}})</small></td>
                 <td>
                   {{ character.rankingPositionChange }}
                   <i class="fa" ng-class="{
@@ -123,6 +124,22 @@
                     'fa-arrow-down': character.rankingPositionChange < 0,
                     'text-danger': character.rankingPositionChange < 0,
                       }"></i>
+                  <br />
+                  <small>
+                    ({{ character.oldRankingPositionChange }}<i class="fa" ng-class="{
+                    'fa-arrow-up': character.oldRankingPositionChange > 0,
+                    'text-success': character.oldRankingPositionChange > 0,
+                    'fa-arrow-down': character.oldRankingPositionChange < 0,
+                    'text-danger': character.oldRankingPositionChange < 0,
+                      }" ng-if="character.oldRankingPositionChange != 0"></i>)
+                  </small>
+                </td>
+                <td><i class="fa" ng-class="{
+                    'fa-arrow-up': character.gloryPointChange > 0,
+                    'text-success': character.gloryPointChange > 0,
+                    'fa-arrow-down': character.gloryPointChange < 0,
+                    'text-danger': character.gloryPointChange < 0}"></i>
+                  {{ character.gloryPointChange}}
                 </td>
               </tr>
             </tbody>
@@ -172,8 +189,9 @@
               <th>Class</th>
               <th>GuildName</th>
               <th>Glory points</th>
-              <th>Rank</th>
-              <th>Ranking change</th>
+              <th>Rank preview<br />(<small>Current</small>)</th>
+              <th>Rank change preview<br />(<small>Current</small>)</th>
+              <th>Change</th>
             </tr>
             </thead>
             <tbody>
@@ -187,15 +205,31 @@
               <td>{{ character.characterClass.name }}</td>
               <td>{{ character.guildName }}</td>
               <td>{{ character.gloryPoint }}</td>
-              <td>{{ character.soldierRank.name }}</td>
+              <td>{{ character.soldierRank.name }} <br /><small>({{character.oldSoldierRank.name}})</small></td>
               <td>
                 {{ character.rankingPositionChange }}
                 <i class="fa" ng-class="{
-                  'fa-arrow-up': character.rankingPositionChange > 0,
-                  'text-success': character.rankingPositionChange > 0,
-                  'fa-arrow-down': character.rankingPositionChange < 0,
-                  'text-danger': character.rankingPositionChange < 0,
-                    }"></i>
+                    'fa-arrow-up': character.rankingPositionChange > 0,
+                    'text-success': character.rankingPositionChange > 0,
+                    'fa-arrow-down': character.rankingPositionChange < 0,
+                    'text-danger': character.rankingPositionChange < 0,
+                      }"></i>
+                <br />
+                <small>
+                  ({{ character.oldRankingPositionChange }}<i class="fa" ng-class="{
+                    'fa-arrow-up': character.oldRankingPositionChange > 0,
+                    'text-success': character.oldRankingPositionChange > 0,
+                    'fa-arrow-down': character.oldRankingPositionChange < 0,
+                    'text-danger': character.oldRankingPositionChange < 0,
+                      }" ng-if="character.oldRankingPositionChange != 0"></i>)
+                </small>
+              </td>
+              <td><i class="fa" ng-class="{
+                    'fa-arrow-up': character.gloryPointChange > 0,
+                    'text-success': character.gloryPointChange > 0,
+                    'fa-arrow-down': character.gloryPointChange < 0,
+                    'text-danger': character.gloryPointChange < 0}"></i>
+                {{ character.gloryPointChange}}
               </td>
             </tr>
             </tbody>
