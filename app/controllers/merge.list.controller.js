@@ -77,10 +77,13 @@
       $scope.pagination.asmodians = ng.copy(basePaginationObj);
 
 
+      var copyCharFn = function(character){ return ng.copy(character); };
+
+
       //Join servers data for the merge
       serversData.forEach(function(server) {
-        $scope.serverData.data.elyos = $scope.serverData.data.elyos.concat(server.data.elyos);
-        $scope.serverData.data.asmodians = $scope.serverData.data.asmodians.concat(server.data.asmodians);
+        $scope.serverData.data.elyos = $scope.serverData.data.elyos.concat(server.data.elyos).select(copyCharFn);
+        $scope.serverData.data.asmodians = $scope.serverData.data.asmodians.concat(server.data.asmodians).select(copyCharFn);
       });
 
       $scope.serverData.data.elyos.sort(function(a,b){
