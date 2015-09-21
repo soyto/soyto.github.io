@@ -42,3 +42,7 @@ The following list are grunt commands used on app.
 - `master` this is the default branch that will be shown on the webpage
 - `dev` primary development branch
 - <del>`data`</del> over this branch is performed everyday `grunt crawler`task. NOTE: this branch is deleted, because is no longer required.
+
+
+## Related project
+We started a new project called "social" (https://github.com/soyto/social) this will keep the social interacion.
