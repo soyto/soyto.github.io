@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.7.5)
+ * Soyto.github.io (0.7.8)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -23,7 +23,9 @@
     'ngRoute',
     'ngSanitize',
     'angular-loading-bar',
-    'chart.js'
+    'chart.js',
+	  'mgcrea.ngStrap',
+	  'ngAnimate'
   ]);
 
   ng.module('mainApp').constant('$moment', moment);
@@ -42,7 +44,7 @@
       templateUrl: '/app/templates/index.html',
       controller: 'mainApp.index.controller',
       resolve: {
-        posts: ['helperService', 'blogService', function(helperService, blogService){
+        posts: ['helperService', 'blogService', 'consoleService', function(helperService, blogService){
           return helperService.$q.likeNormal(blogService.getAll());
         }]
       }
@@ -54,7 +56,7 @@
       templateUrl: '/app/templates/ranking.html',
       controller: 'mainApp.ranking.list.controller',
       resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+        serverData: ['helperService', 'storedDataService', '$route', 'consoleService', function(helperService, storedDataService, $route) {
           return helperService.$q.likeNormal(storedDataService.getLastFromServer($route.current.params.serverName));
         }]
       }
@@ -63,7 +65,7 @@
       templateUrl: '/app/templates/ranking.mobile.html',
       controller: 'mainApp.ranking.list.mobile.controller',
       resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
+        serverData: ['helperService', 'storedDataService', '$route', 'consoleService', function(helperService, storedDataService, $route) {
           return helperService.$q.likeNormal(storedDataService.getLastFromServer($route.current.params.serverName));
         }]
       }
@@ -570,10 +572,13 @@
       $scope.pagination.asmodians = ng.copy(basePaginationObj);
 
 
+      var copyCharFn = function(character){ return ng.copy(character); };
+
+
       //Join servers data for the merge
       serversData.forEach(function(server) {
-        $scope.serverData.data.elyos = $scope.serverData.data.elyos.concat(server.data.elyos);
-        $scope.serverData.data.asmodians = $scope.serverData.data.asmodians.concat(server.data.asmodians);
+        $scope.serverData.data.elyos = $scope.serverData.data.elyos.concat(server.data.elyos).select(copyCharFn);
+        $scope.serverData.data.asmodians = $scope.serverData.data.asmodians.concat(server.data.asmodians).select(copyCharFn);
       });
 
       $scope.serverData.data.elyos.sort(function(a,b){
@@ -584,13 +589,21 @@
       });
 
       $scope.serverData.data.elyos.forEach(function(character, idx){
+        character.oldRankingPositionChange = character.rankingPositionChange;
         character.rankingPositionChange = character.position - (idx + 1);
+        character.oldPosition = character.position;
         character.position = idx + 1;
+
+        character.oldSoldierRankID = character.soldierRankID;
         _calculateNewRank(character);
       });
       $scope.serverData.data.asmodians.forEach(function(character, idx){
+        character.oldRankingPositionChange = character.rankingPositionChange;
         character.rankingPositionChange = character.position - (idx + 1);
+        character.oldPosition = character.position;
         character.position = idx + 1;
+
+        character.oldSoldierRankID = character.soldierRankID;
         _calculateNewRank(character);
       });
 
@@ -615,6 +628,7 @@
       }
       character.characterClass = storedDataService.getCharacterClass(character.characterClassID);
       character.soldierRank = storedDataService.getCharacterRank(character.soldierRankID);
+      character.oldSoldierRank = storedDataService.getCharacterRank(character.oldSoldierRankID);
 
       return character;
     }
@@ -1796,6 +1810,30 @@
 
 
 (function(ng){
+	'use strict';
+
+	ng.module('mainApp').service('consoleService',[
+		'$window', '$q', 'helperService', 'storedDataService', consoleService
+	]);
+
+
+	function consoleService($window, $q, helperService, storedDataService) {
+
+		var $this = this;
+		$window.soyto = $this;
+
+
+		//Expose $q
+		$this.$q = $q;
+
+		//Expose whole service
+		$this.storedDataService = storedDataService;
+
+
+	}
+})(angular);
+
+(function(ng){
   'use strict';
 
   ng.module('mainApp').service('helperService', [
@@ -1908,8 +1946,13 @@
 
   function storedData_service($http, $window, helperService) {
 
+
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
+
+	  $window.$cacheServerData = _cacheServerData;
+	  $window.$cacheCharacterInfo = _cacheCharacterInfo;
+
 
     var $this = this;
 
@@ -2063,7 +2106,7 @@
             data: data
           };
 
-          _cacheServerData.push(result);
+          _cacheCharacterInfo.push(result);
           $$q.resolve(result);
         });
 

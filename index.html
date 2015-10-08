@@ -5,15 +5,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="description" content="{{ title }}">
+  <meta name="description" content="Soyto's ranking tool">
   <meta name="author" content="Vicente Manuel Aleixos Bellido">
   <link rel="icon" href="favicon.ico">
 
   <!-- Title -->
   <title ng-bind="title">soyto.github.io</title>
 
-  <base href="/" />
 
+  <base href="/" />
 
 
   <!-- bootstrap -->
@@ -24,6 +24,8 @@
   <link rel="stylesheet" href='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.7.1/loading-bar.min.css' type='text/css' media='all' />
   <!-- Angular-chart -->
   <link rel="stylesheet" href="lib/bower/angular-chart.js/dist/angular-chart.css" type='text/css' media='all' />
+  <!-- Angular-motion -->
+  <link rel="stylesheet" href="lib/bower/angular-motion/dist/angular-motion.min.css">
   <!-- Site -->
   <link rel="stylesheet" href="css/styles.css" type="text/css" media="all" />
 
@@ -123,11 +125,14 @@
   <script type="text/javascript" src="lib/bower/Chart.js/Chart.min.js"></script>
   <script type="text/javascript" src="lib/bower/marked/marked.min.js"></script>
 
-  <!-- Angualr CDN dependencies -->
+  <!-- Angular CDN dependencies -->
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-route.min.js"></script>
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-sanitize.min.js"></script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-animate.min.js"></script>
   <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.8.0/loading-bar.min.js'></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular-strap/2.1.2/angular-strap.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular-strap/2.1.2/angular-strap.tpl.min.js"></script>
 
   <!-- Angular local dependencies -->
   <script type="text/javascript" src="lib/bower/angular-chart.js/dist/angular-chart.min.js"></script>
@@ -139,8 +144,8 @@
   <!-- Release -->
   <script type='text/javascript' src="http://91.184.11.238/app/helpers/folders.dates.js"></script>
 
-  <!-- Release -->
-  <script type="text/javascript" src="dst/app.min.js"></script>
+  <!-- App file -->
+  <script type="text/javascript" src="dst/app.js"></script>
 
   <!-- GA config -->
   <script>
