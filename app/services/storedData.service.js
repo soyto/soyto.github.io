@@ -82,7 +82,7 @@
       { id: 1, name: 'Gladiator', icon: 'img/gladiator.jpg' },
       { id: 2, name: 'Templar', icon: 'img/templar.jpg' },
       {},
-      { id: 4, name: 'Assasin', icon: 'img/assassin.jpg' },
+      { id: 4, name: 'Assassin', icon: 'img/assassin.jpg' },
       { id: 5, name: 'Ranger', icon: 'img/ranger.jpg' },
       {},
       { id: 7, name: 'Sorcerer', icon: 'img/sorc.jpg' },
