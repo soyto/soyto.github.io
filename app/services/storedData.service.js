@@ -51,7 +51,7 @@
     ];
 
     //Wich dates we have stored
-    $this.storedDates = $window.storedDates;
+    $this.storedDates = helperService.sortDates($window.storedDates);
 
     //Character soldier ranks
     $this.characterSoldierRankIds = [
