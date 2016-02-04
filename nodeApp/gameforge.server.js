@@ -18,22 +18,35 @@ module.exports = new function() {
 
   //List of all servers
   $this.servers = [
-    {id : 47, name: 'Alquima'},
-    {id : 46, name: 'Anuhart'},
-    {id : 39, name: 'Balder'},
+
+    //New servers IDs and names
+    {id : 53, name: 'Antriksha'},
     {id : 49, name: 'Barus'},
-    {id : 45, name: 'Calindi'},
-    {id : 48, name: 'Curatus'},
-    {id : 36, name: 'Kromede'},
-    {id : 44, name: 'Nexus'},
-    {id : 34, name: 'Perento'},
-    {id : 31, name: 'Spatalos'},
-    {id : 42, name: 'Suthran'},
-    {id : 32, name: 'Telemachus'},
+    {id : 52, name: 'Deyla'},
+    {id : 54, name: 'Hellion'},
+    {id : 55, name: 'Hyperion'},
+    {id : 50, name: 'Loki'},
     {id : 37, name: 'Thor'},
     {id : 40, name: 'Urtem'},
-    {id : 43, name: 'Vehalla'},
-    {id : 51, name: 'Zubaba'},
+
+    //Old servers IDs and names
+    /*
+     {id : 47, name: 'Alquima'},
+     {id : 46, name: 'Anuhart'},
+     {id : 39, name: 'Balder'},
+     {id : 49, name: 'Barus'},
+     {id : 45, name: 'Calindi'},
+     {id : 48, name: 'Curatus'},
+     {id : 36, name: 'Kromede'},
+     {id : 44, name: 'Nexus'},
+     {id : 34, name: 'Perento'},
+     {id : 31, name: 'Spatalos'},
+     {id : 42, name: 'Suthran'},
+     {id : 32, name: 'Telemachus'},
+     {id : 37, name: 'Thor'},
+     {id : 40, name: 'Urtem'},
+     {id : 43, name: 'Vehalla'},
+     {id : 51, name: 'Zubaba'}, */
   ];
 
   //Performs login action and returns the cookie
