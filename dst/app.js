@@ -226,6 +226,7 @@
 		  $scope.character.status = $scope.character.status.sort(_dateSortFn);
 		  $scope.character.guilds = $scope.character.guilds.sort(_dateSortFn);
 
+      //TODO Requested by Daxking, he doesnt' want to they old name appear
 			if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 430586) {
 				$scope.character.names.splice(1, 1);
 			}
