@@ -37,10 +37,13 @@
 		  $scope.character.status = $scope.character.status.sort(_dateSortFn);
 		  $scope.character.guilds = $scope.character.guilds.sort(_dateSortFn);
 
-      //TODO Requested by Daxking, he doesnt' want to they old name appear
-			if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 430586) {
-				$scope.character.names.splice(1, 1);
-			}
+      		  //TODO Requested by Daxking, he doesnt' want to they old name appear
+		  if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 430586) {
+		    $scope.character.names.splice(1, 1);
+		  }
+		  if(characterInfo.serverName == 'Deyla' && characterInfo.characterID == 825556) {
+		    $scope.character.names.splice(1, 1);
+		  }
 
 		  $scope.character.status.forEach(function(status){
 			  status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
