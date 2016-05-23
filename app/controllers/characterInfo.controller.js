@@ -41,6 +41,7 @@
 		  if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 430586) {
 		    $scope.character.names.splice(1, 1);
 		  }
+		  //TODO Requested by Nyle, he doesnt' want to they old name appear
 		  if(characterInfo.serverName == 'Deyla' && characterInfo.characterID == 825556) {
 		    $scope.character.names.splice(1, 1);
 		  }
