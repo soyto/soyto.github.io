@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.10.0)
+ * Soyto.github.io (0.10.1)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -218,6 +218,8 @@
       $scope.serverName = characterInfo.serverName;
       $scope.character = characterInfo.data;
 
+      $scope.character.pictureURL = '//placehold.it/450X300/DD66DD/EE77EE/?text=' + characterInfo.characterName;
+
       $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
       $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
       $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
@@ -246,6 +248,12 @@
         $scope.character.names.splice(1, $scope.character.names.length - 1);
         $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
       }
+
+      //TODO Small joke to Krten
+      if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 326346) {
+        $scope.character.pictureURL = '//i.imgur.com/bw4UVZu.png';
+      }
+
 
       $scope.character.status.forEach(function(status){
         status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
@@ -388,6 +396,8 @@
       //Set up character and server names and stats
       $scope.serverName = characterInfo.serverName;
       $scope.character = characterInfo.data;
+
+      $scope.character.pictureURL = '//placehold.it/450X300/DD66DD/EE77EE/?text=' + characterInfo.characterName;
 
       $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
       $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);

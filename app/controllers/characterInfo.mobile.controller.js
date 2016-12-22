@@ -28,6 +28,8 @@
       $scope.serverName = characterInfo.serverName;
       $scope.character = characterInfo.data;
 
+      $scope.character.pictureURL = '//placehold.it/450X300/DD66DD/EE77EE/?text=' + characterInfo.characterName;
+
       $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
       $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
       $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
