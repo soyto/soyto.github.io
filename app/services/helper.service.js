@@ -27,8 +27,6 @@
     //Sort dates
     $this.sortDates = function(dates) {
 
-     $log.debug(dates);
-
       dates = dates.sort(function(a, b) {
 
         var _a = a.split('-');
@@ -59,8 +57,6 @@
 
         return 0;
       });
-
-      $log.debug(dates);
 
       return dates;
     };
