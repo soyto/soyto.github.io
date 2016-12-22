@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.10.3)
+ * Soyto.github.io (0.10.4)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1873,7 +1873,7 @@
         return _coincidence['pic'];
       }
       else {
-        return '//placehold.it/450X300/DD66DD/EE77EE/?text=' + $characterInfo['characterName'];
+        return '//placehold.it/450X300/DD66DD/EE77EE/?text=' + $characterInfo['data']['characterName'];
       }
 
     };
