@@ -407,6 +407,11 @@
       $scope.character.status = $scope.character.status.sort(_dateSortFn);
       $scope.character.guilds = $scope.character.guilds.sort(_dateSortFn);
 
+      //TODO Small joke to Krten
+      if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 326346) {
+        $scope.character.pictureURL = '//i.imgur.com/bw4UVZu.png';
+      }
+
       $scope.character.status.forEach(function(status){
         status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
       });
