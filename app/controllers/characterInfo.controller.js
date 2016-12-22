@@ -55,6 +55,7 @@
       //TODO Requested by Chetitos, doesnt want to show old names
       if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 495423) {
         $scope.character.names.splice(1, $scope.character.names.length - 1);
+        $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
       }
 
       $scope.character.status.forEach(function(status){
