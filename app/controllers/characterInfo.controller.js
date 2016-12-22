@@ -60,11 +60,6 @@
         $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
       }
 
-      //TODO Small joke to Krten
-      if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 326346) {
-        $scope.character.pictureURL = '//i.imgur.com/bw4UVZu.png';
-      }
-
 
       $scope.character.status.forEach(function(status){
         status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
