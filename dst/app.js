@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.10.2)
+ * Soyto.github.io (0.10.3)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -193,11 +193,11 @@
   var CONTROLLER_NAME = 'mainApp.characterInfo.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', '$moment', 'storedDataService', 'helperService', 'characterInfo', index_controller
+    '$scope', '$moment', 'storedDataService', 'helperService', 'caracterPicsService', 'characterInfo', index_controller
   ]);
 
 
-  function index_controller($scope, $moment, storedDataService, helperService, characterInfo) {
+  function index_controller($scope, $moment, storedDataService, helperService, caracterPicsService, characterInfo) {
     $scope._name = CONTROLLER_NAME;
 
 
@@ -218,7 +218,7 @@
       $scope.serverName = characterInfo.serverName;
       $scope.character = characterInfo.data;
 
-      $scope.character.pictureURL = '//placehold.it/450X300/DD66DD/EE77EE/?text=' + characterInfo.characterName;
+      $scope.character.pictureURL = caracterPicsService.getCharacterPic(characterInfo);
 
       $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
       $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
@@ -373,11 +373,11 @@
   var CONTROLLER_NAME = 'mainApp.characterInfo.mobile.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', '$moment', 'storedDataService', 'helperService', 'characterInfo', index_controller
+    '$scope', '$moment', 'storedDataService', 'helperService', 'caracterPicsService', 'characterInfo', index_controller
   ]);
 
 
-  function index_controller($scope, $moment, storedDataService, helperService, characterInfo) {
+  function index_controller($scope, $moment, storedDataService, helperService, caracterPicsService, characterInfo) {
     $scope._name = CONTROLLER_NAME;
 
     //Call to init Fn
@@ -397,7 +397,7 @@
       $scope.serverName = characterInfo.serverName;
       $scope.character = characterInfo.data;
 
-      $scope.character.pictureURL = '//placehold.it/450X300/DD66DD/EE77EE/?text=' + characterInfo.characterName;
+      $scope.character.pictureURL = caracterPicsService.getCharacterPic(characterInfo);
 
       $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
       $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
@@ -1842,6 +1842,44 @@
       return helperService.$q.likeHttp($$q.promise);
     };
   }
+})(angular);
+
+
+(function(ng){
+  'use strict';
+
+  ng.module('mainApp').service('caracterPicsService',[
+    '$log', _fn
+  ]);
+
+  function _fn($log) {
+    var $this = this;
+
+
+    var _specialCharacterPics = [
+      {'server': 'Hellion', 'id': 326346, 'pic': '//i.imgur.com/bw4UVZu.png'}, //Hellion: Krtn
+      {'server': 'Hellion', 'id': 332318, 'pic': '//i.imgur.com/jepRExb.png'}, //Hellion: Jaskier
+    ];
+
+    //Sets a character pic
+    $this.getCharacterPic = function($characterInfo) {
+
+      var _coincidence = _specialCharacterPics.first(function($$character){
+        return $$character['server'] == $characterInfo['serverName'] &&
+            $$character['id'] == $characterInfo['characterID'];
+      });
+
+      if(_coincidence) {
+        return _coincidence['pic'];
+      }
+      else {
+        return '//placehold.it/450X300/DD66DD/EE77EE/?text=' + $characterInfo['characterName'];
+      }
+
+    };
+
+  }
+
 })(angular);
 
 

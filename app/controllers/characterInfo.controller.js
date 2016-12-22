@@ -4,11 +4,11 @@
   var CONTROLLER_NAME = 'mainApp.characterInfo.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', '$moment', 'storedDataService', 'helperService', 'characterInfo', index_controller
+    '$scope', '$moment', 'storedDataService', 'helperService', 'caracterPicsService', 'characterInfo', index_controller
   ]);
 
 
-  function index_controller($scope, $moment, storedDataService, helperService, characterInfo) {
+  function index_controller($scope, $moment, storedDataService, helperService, caracterPicsService, characterInfo) {
     $scope._name = CONTROLLER_NAME;
 
 
@@ -29,7 +29,7 @@
       $scope.serverName = characterInfo.serverName;
       $scope.character = characterInfo.data;
 
-      $scope.character.pictureURL = '//placehold.it/450X300/DD66DD/EE77EE/?text=' + characterInfo.characterName;
+      $scope.character.pictureURL = caracterPicsService.getCharacterPic(characterInfo);
 
       $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
       $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
