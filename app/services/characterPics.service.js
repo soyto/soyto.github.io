@@ -18,6 +18,7 @@
       {'server': 'Hellion', 'id': 336415, 'pic': '//i.imgur.com/LUOMjpH.png'}, //Hellion: Blackdraco
       {'server': 'Hellion', 'id': 413977, 'pic': '//www.cotilleo.es/wp-content/uploads/2016/10/justin-bieber.jpg'}, //Hellion: Shadowfall
       {'server': 'Hellion', 'id': 987350, 'pic': '//i.imgur.com/FCwJFXM.png'}, //Hellion: Arturomal
+      {'server': 'Hellion', 'id': 2213, 'pic': '//i.imgur.com/SE4ehSb.png'}, //Hellion: Symehtry
       {'server': 'Antriksha', 'id': 503001, 'pic': '//i.imgur.com/4XBIv3P.png'}, //Antriksha: Livo
       {'server': 'Antriksha', 'id': 600257, 'pic': '//i.imgur.com/qWxds5G.gif'}, //Antriksha: Lember
       {'server': 'Antriksha', 'id': 457727, 'pic': '//i.imgur.com/SHVY2ef.png'}, //Antriksha: Riborn
