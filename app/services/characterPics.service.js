@@ -21,6 +21,7 @@
       {'server': 'Antriksha', 'id': 503001, 'pic': '//i.imgur.com/4XBIv3P.png'}, //Antriksha: Livo
       {'server': 'Antriksha', 'id': 600257, 'pic': '//i.imgur.com/qWxds5G.gif'}, //Antriksha: Lember
       {'server': 'Antriksha', 'id': 457727, 'pic': '//i.imgur.com/SHVY2ef.png'}, //Antriksha: Riborn
+      {'server': 'Deyla', 'id': 1236631, 'pic': '//i.imgur.com/CUBmmYW.jpg'}, //Deyla: Sumie
     ];
 
     //Sets a character pic
