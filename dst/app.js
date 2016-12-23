@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.10.27)
+ * Soyto.github.io (0.10.28)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1880,6 +1880,7 @@
       {'server': 'Hellion', 'id': 612759, 'pic': '//i.imgur.com/QWV1493.png'}, //Hellion: OliverJv
       {'server': 'Hellion', 'id': 288297, 'pic': '//i.imgur.com/6xyFDTJ.png'}, //Hellion: Yleath
       {'server': 'Hellion', 'id': 547988, 'pic': '//i.giphy.com/9wZMlnM0R06l2.gif'}, //Hellion: Tendeeeeeee
+      {'server': 'Hellion', 'id': 430842, 'pic': '//i.giphy.com/NVIowdX8ePh4Y.gif'}, //Hellion: Powatrona
       {'server': 'Antriksha', 'id': 503001, 'pic': '//i.imgur.com/4XBIv3P.png'}, //Antriksha: Livo
       {'server': 'Antriksha', 'id': 600257, 'pic': '//i.imgur.com/qWxds5G.gif'}, //Antriksha: Lember
       {'server': 'Antriksha', 'id': 457727, 'pic': '//i.imgur.com/SHVY2ef.png'}, //Antriksha: Riborn
