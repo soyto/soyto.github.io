@@ -38,6 +38,27 @@
       $scope.character.status = $scope.character.status.sort(_dateSortFn);
       $scope.character.guilds = $scope.character.guilds.sort(_dateSortFn);
 
+      //TODO Requested by Daxking, he doesnt' want to they old name be shown
+      if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 430586) {
+        $scope.character.names.splice(1, 1);
+      }
+
+      //TODO Requested by Nyle, he doesnt' want to they old name be shown
+      if(characterInfo.serverName == 'Deyla' && characterInfo.characterID == 825556) {
+        $scope.character.names.splice(1, 1);
+      }
+
+      //TODO Requested by Nacka, he doesn't want to they old name be shown
+      if(characterInfo.serverName == 'Urtem' && characterInfo.characterID == 1508483) {
+        $scope.character.names.splice(1, 1);
+      }
+
+      //TODO Requested by Chetitos, doesnt want to show old names
+      if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 495423) {
+        $scope.character.names.splice(1, $scope.character.names.length - 1);
+        $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
+      }
+
       $scope.character.status.forEach(function(status){
         status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
       });
