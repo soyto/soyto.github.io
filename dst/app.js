@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.10.13)
+ * Soyto.github.io (0.10.14)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1848,7 +1848,7 @@
     //Pics for some characters
     var _specialCharacterPics = [
       {'server': 'Hellion', 'id': 326346, 'pic': '//i.imgur.com/bw4UVZu.png'}, //Hellion: Krtn
-      {'server': 'Hellion', 'id': 332318, 'pic': '//i.imgur.com/jepRExb.png'}, //Hellion: Jaskier
+      {'server': 'Hellion', 'id': 332318, 'pic': '//i.imgur.com/Sps7YGU.png'}, //Hellion: Jaskier
       {'server': 'Hellion', 'id': 332433, 'pic': '//i.imgur.com/pLeI02V.png'}, //Hellion: Adeee
       {'server': 'Hellion', 'id': 492074, 'pic': '//i.imgur.com/sUTeSYn.png'}, //Hellion: Aryska
       {'server': 'Hellion', 'id': 446570, 'pic': '//i3.kym-cdn.com/photos/images/newsfeed/000/950/041/a8a.jpg'}, //Hellion: Shakku
