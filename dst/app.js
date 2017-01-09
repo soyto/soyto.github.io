@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.11.3)
+ * Soyto.github.io (0.11.5)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1897,6 +1897,7 @@
       {'server': 'Antriksha', 'id': 457727, 'pic': '//i.imgur.com/FTBKsLO.png'}, //Antriksha: Riborn
       {'server': 'Deyla', 'id': 1236631, 'pic': '//i.imgur.com/fSTG5mc.png'}, //Deyla: Sumie
       {'server': 'Deyla', 'id': 1266763, 'pic': '//i.imgur.com/5rU4kmQ.png'}, //Deyla: Kaijur
+      {'server': 'Hellion', 'id': 121280, 'pic': '//i.imgur.com/t5bDYnw.png'}, //Hellion: Sureh
     ];
 
     //Sets a character pic
