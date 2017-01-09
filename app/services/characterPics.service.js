@@ -30,7 +30,7 @@
       {'server': 'Deyla', 'id': 1236631, 'pic': '//i.imgur.com/fSTG5mc.png'}, //Deyla: Sumie
       {'server': 'Deyla', 'id': 1266763, 'pic': '//i.imgur.com/5rU4kmQ.png'}, //Deyla: Kaijur
       {'server': 'Hellion', 'id': 121280, 'pic': '//i.imgur.com/t5bDYnw.png'}, //Hellion: Sureh
-      {'server': 'Antriksha', 'id': 135676, 'pic': '//i.imgur.com/S3h7pXH.png'}, //Antriksha: TheKnight... 
+      {'server': 'Antriksha', 'id': 135676, 'pic': '//i.imgur.com/kmxiraq.png'}, //Antriksha: TheKnight...
     ];
 
     //Sets a character pic
