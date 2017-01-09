@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.11.2)
+ * Soyto.github.io (0.11.3)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -249,6 +249,11 @@
         $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
       }
 
+      //TODO Requested by Deyla-Kaijur doesnt want to shown old guild names
+      if(characterInfo.serverName == 'Deyla' && characterInfo.characterID == 1266763) {
+        $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
+      }
+
 
       $scope.character.status.forEach(function(status){
         status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
@@ -420,6 +425,11 @@
       //TODO Requested by Chetitos, doesnt want to show old names
       if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 495423) {
         $scope.character.names.splice(1, $scope.character.names.length - 1);
+        $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
+      }
+
+      //TODO Requested by Deyla-Kaijur doesnt want to shown old guild names
+      if(characterInfo.serverName == 'Deyla' && characterInfo.characterID == 1266763) {
         $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
       }
 

@@ -59,6 +59,11 @@
         $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
       }
 
+      //TODO Requested by Deyla-Kaijur doesnt want to shown old guild names
+      if(characterInfo.serverName == 'Deyla' && characterInfo.characterID == 1266763) {
+        $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
+      }
+
       $scope.character.status.forEach(function(status){
         status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
       });
