@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.11.11)
+ * Soyto.github.io (0.11.12)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1903,6 +1903,7 @@
       {'server': 'Barus', 'id': 1026827, 'pic': '//i.hizliresim.com/GP4N96.png'}, //Barus: Ryhmee
       {'server': 'Deyla', 'id': 1071999, 'pic': '//i.imgur.com/EZCWBc7.png'}, //Deyla: Sanko
       {'server': 'Barus', 'id': 939942, 'pic': '//i.imgur.com/ROzAA5O.png'}, //Barus: Mickaya
+      {'server': 'Urtem', 'id': 1844317, 'pic': '//i.imgur.com/Z8PV4Il.png'}, //Urtem: Rjn
     ];
 
     //Sets a character pic
