@@ -37,6 +37,7 @@ The following list are grunt commands used on app.
 - `grunt crawler` Retrieves new data from gameforge web page and creates both server list and characterInfo
 - `grunt create-players-database` With the data downloaded from the crawler just generates the characterInfo data, this command is used inside the crawler nowadays.
 - `grunt generate-blog-files` Read *.md files from _posts folder and generates the blog system
+- `grunt create-players-cheatsheet` Creates players character sheet on data/Servers/Characters folder
 - `publish` calls to compile task and makes a commit and push over github (Will ask for your account) without changing application version
 - `publish-patch` like publish but increases patch version
 - `publish-minor` like publish but increases minor version
