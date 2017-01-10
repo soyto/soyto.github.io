@@ -9,6 +9,11 @@ List with all servers ranks
  All data shown is truncated, you can look the whole data on <a href="https://onedrive.live.com/redir?resid=A6F68B73AE6BAE48!106&authkey=!AFGSFbCYU9lEuSw&ithint=folder%2c" target="_blank">OneDrive</a>
 
 
+**Warning to developers and third party software owners.**
+In recent development i created a character cheat sheet that you can retrieve through http://91.184.11.238/data/Servers/Characters/charactersSheet.json.
+I will use such character cheat sheet for implement a global search
+
+
 ## How to download the project and use it.
 
 **Warning** You need git and nodeJS running on your machine. Also will be great an Apache2 or Nginx to hots it.
