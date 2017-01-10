@@ -221,6 +221,11 @@ module.exports = function(grunt) {
       _generateBlogPost(crawlerErrors, globalStats);
     });
 
+    //8th step, generate character sheet
+    sp = sp.then(function(){
+      _createPlayersCheatSheet()
+    });
+
     //Confirm all
     sp.then(function(){
       done();
@@ -414,7 +419,6 @@ module.exports = function(grunt) {
 
   //Generates players database
   grunt.registerTask('create-players-database', function(){
-
     gameForgeServer.servers.forEach(function(server){
       var serverCharactersFolder = charactersBaseFolder + server.name + '/';
 
@@ -431,8 +435,12 @@ module.exports = function(grunt) {
         $log.debug('Storing [%s:%s] characterInfo', colors.yellow(server.name), colors.cyan(character.names[character.names.length - 1].characterName));
         grunt.file.write(serverCharactersFolder + character.characterID + '.json', JSON.stringify(character, null, ' '));
       });
-
     });
+  });
+
+  //Creates characterSheets json
+  grunt.registerTask('create-players-cheatsheet', 'creates charactersSheet.json file', function() {
+    _createPlayersCheatSheet();
   });
 
   //Generates dates-files
@@ -574,5 +582,36 @@ module.exports = function(grunt) {
     function generateLink(txt, link) {
       return '[' + txt + '](' + link + ')';
     }
+  }
+
+  //Creates players cheatsheet
+  function _createPlayersCheatSheet() {
+    $log.debug('Starting to create players cheatSheet');
+
+    var _wholeData = {};
+
+    grunt.file.expand(charactersBaseFolder + '*').forEach(function($$folderName){
+      var _serverName = $$folderName.split('/')[3];
+
+      $log.debug('Reading data from >>> %s', colors.cyan(_serverName));
+
+      _wholeData[_serverName] = [];
+
+      grunt.file.expand($$folderName + '/*').forEach(function($$characterFileName) {
+        var _id = $$characterFileName.split('/')[4].split('.')[0];
+        var _data = grunt.file.readJSON($$characterFileName);
+        var _characterName = _data['characterName'];
+
+        _wholeData[_serverName].push({
+          'id': _id,
+          'name': _characterName
+        });
+      });
+
+    });
+
+    $log.debug('Storing data on %scharactersSheet.json', charactersBaseFolder);
+
+    grunt.file.write(charactersBaseFolder + 'charactersSheet.json', JSON.stringify(_wholeData, null, ' '));
   }
 };
