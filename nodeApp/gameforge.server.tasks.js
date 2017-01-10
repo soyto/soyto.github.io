@@ -588,30 +588,35 @@ module.exports = function(grunt) {
   function _createPlayersCheatSheet() {
     $log.debug('Starting to create players cheatSheet');
 
-    var _wholeData = {};
+    var _wholeData = [];
 
     grunt.file.expand(charactersBaseFolder + '*').forEach(function($$folderName){
       var _serverName = $$folderName.split('/')[3];
 
       $log.debug('Reading data from >>> %s', colors.cyan(_serverName));
 
-      _wholeData[_serverName] = [];
-
       grunt.file.expand($$folderName + '/*').forEach(function($$characterFileName) {
         var _id = $$characterFileName.split('/')[4].split('.')[0];
         var _data = grunt.file.readJSON($$characterFileName);
         var _characterName = _data['characterName'];
 
-        _wholeData[_serverName].push({
+        _wholeData.push({
           'id': _id,
-          'name': _characterName
+          'characterName': _characterName,
+          'serverName': _serverName
         });
       });
 
     });
 
+    $log.debug('Sorting data');
+
+    _wholeData.sort(function(a, b){
+      return a['characterName'].localeCompare(b['characterName']);
+    });
+
     $log.debug('Storing data on %scharactersSheet.json', charactersBaseFolder);
 
-    grunt.file.write(charactersBaseFolder + 'charactersSheet.json', JSON.stringify(_wholeData, null, ' '));
+    grunt.file.write(charactersBaseFolder + 'charactersSheet.json', JSON.stringify(_wholeData));
   }
 };
