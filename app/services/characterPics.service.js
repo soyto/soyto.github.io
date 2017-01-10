@@ -36,6 +36,7 @@
       {'server': 'Deyla', 'id': 1071999, 'pic': '//i.imgur.com/EZCWBc7.png'}, //Deyla: Sanko
       {'server': 'Barus', 'id': 939942, 'pic': '//i.imgur.com/ROzAA5O.png'}, //Barus: Mickaya
       {'server': 'Urtem', 'id': 1844317, 'pic': '//i.imgur.com/RmIg33i.png'}, //Urtem: Rjn
+      {'server': 'Loki', 'id': 797881, 'pic': '//i.imgur.com/h2MLV9F.png'}, //Loki: Lutetias
     ];
 
     //Sets a character pic
