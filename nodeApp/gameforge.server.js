@@ -50,27 +50,24 @@ module.exports = new function() {
   ];
 
   //Performs login action and returns the cookie
-  $this.login = function(username, password, userAgent) {
+  $this.login = function(userAgent) {
     var $$q = $q.defer();
 
     $log.debug('Performin login');
 
     var requestData = {
-      method: 'POST',
-      uri: 'https://en.aion.gameforge.com/website/login/',
-      headers: {
+      'method': 'GET',
+      'uri': 'https://en.aion.gameforge.com/website',
+      'headers': {
         'user-agent': userAgent
-      },
-      form: {
-        loginForm: 'loginForm',
-        username: username,
-        password: password,
       }
     };
 
     var onRequestFn = function(error, response, body) {
       if(response['headers']['set-cookie']) {
-	       $$q.resolve(response['headers']['set-cookie'][0].split(';')[0]);
+        var _cookie = response['headers']['set-cookie'][0].split(';')[0];
+        $log.debug('Retrieved cookie -> %s', colors.cyan(_cookie));
+        $$q.resolve(_cookie);
 	    }
       else {
 	       $$q.reject('Coulnd\'t login');

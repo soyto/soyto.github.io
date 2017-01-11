@@ -5,12 +5,13 @@
 
   var host = DEBUG ? '' : 'http://91.184.11.238/';
 
-  ng.module('mainApp').service('storedDataService',[
-    '$http', '$window', 'helperService', storedData_service
-  ]);
+  ng.module('mainApp').service('storedDataService',['$hs', _fn]);
 
-  function storedData_service($http, $window, helperService) {
+  function _fn($hs) {
 
+    var $q = $hs.$q;
+    var $http = $hs.$instantiate('$http');
+    var $window = $hs.$instantiate('$window');
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
@@ -52,17 +53,8 @@
        */
     ];
 
-    //Merge groups
-    $this.mergeGroups = [
-      [$this.serversList[0],  $this.serversList[1]],                            //0
-      [$this.serversList[14], $this.serversList[6], $this.serversList[2]],      //1
-      [$this.serversList[11], $this.serversList[9], $this.serversList[5]],      //2
-      [$this.serversList[8],  $this.serversList[7], $this.serversList[15]],      //3
-      [$this.serversList[4],  $this.serversList[10]]                            //4
-    ];
-
     //Wich dates we have stored
-    $this.storedDates = helperService.sortDates($window.storedDates);
+    $this.storedDates = $hs.sortDates($window.storedDates);
 
     //Character soldier ranks
     $this.characterSoldierRankIds = [
@@ -108,48 +100,41 @@
       { id: 16, name: 'Bard', icon: 'img/barde.png' },
     ];
 
-    $this.getCharacterRank = function(id){
-      return $this.characterSoldierRankIds[id];
-    };
+    $this.getCharacterRank = function(id) { return $this.characterSoldierRankIds[id]; };
 
     //Retrieves character classId
-    $this.getCharacterClass = function(id){
-      return $this.characterClassIds[id];
-    };
+    $this.getCharacterClass = function(id) { return $this.characterClassIds[id]; };
 
     //Retrieves info from the selected server at indicated day
     $this.getFromServer = function(date, serverName) {
-      var url = host + 'data/Servers/' + date + '/' + serverName + '.json';
 
-      var $$q = helperService.$q.new();
+      //Try to retrieve cacheItem
+      var _cachedItem = _cacheServerData.first(function(itm){
+        return itm.serverName == serverName && itm.date == date;
+      });
 
-      var cachedItem = _cacheServerData.first(function(itm){ return itm.serverName == serverName && itm.date == date; });
-
-      if(cachedItem) {
-        $$q.resolve(cachedItem);
-      }
-      else {
-
-        var sp = $http({
-          url: url,
-          method: 'GET'
-        });
-
-        sp.success(function(data){
-
-          var result = {
-            serverName: serverName,
-            date: date,
-            data: data
-          };
-          _cacheServerData.push(result);
-          $$q.resolve(result);
-        });
-
-        sp.error($$q.reject);
+      //If there is some cache item
+      if(_cachedItem) {
+        return $q.resolve(_cachedItem);
       }
 
-      return helperService.$q.likeHttp($$q.promise);
+      return $q.likeNormal($http({
+        'url': host + 'data/Servers/' + date + '/' + serverName + '.json',
+        'method': 'GET'
+      })).then(function($data) {
+
+        var _result = {
+          'serverName': serverName,
+          'date': date,
+          'data': $data
+        };
+
+        //Store on cache
+        _cacheServerData.push(_result);
+
+        //return
+        return _result;
+      });
     };
 
     //Retrieves last info from the selected server
@@ -159,37 +144,27 @@
 
     //Retrieve character info
     $this.getCharacterInfo = function(serverName, characterID) {
-      var url = host + 'data/Servers/Characters/' + serverName + '/' + characterID + '.json';
 
-      var $$q = helperService.$q.new();
+      var _cachedItem = _cacheCharacterInfo.first(function(itm){ return itm.serverName == serverName && itm.characterID == characterID; });
 
-      var cachedItem = _cacheCharacterInfo.first(function(itm){ return itm.serverName == serverName && itm.characterID == characterID; });
-
-      if(cachedItem) {
-        $$q.resolve(cachedItem);
-      }
-      else {
-        var sp = $http({
-          url: url,
-          method: 'GET'
-        });
-
-        sp.success(function(data){
-
-          var result = {
-            serverName: serverName,
-            characterID: characterID,
-            data: data
-          };
-
-          _cacheCharacterInfo.push(result);
-          $$q.resolve(result);
-        });
-
-        sp.error($$q.reject);
+      if(_cachedItem) {
+        return $q.resolve(_cachedItem);
       }
 
-      return helperService.$q.likeHttp($$q.promise);
+      return $q.likeNormal($http({
+        'url': host + 'data/Servers/Characters/' + serverName + '/' + characterID + '.json',
+        'method': 'GET'
+      })).then(function($data) {
+
+        var _result = {
+          'serverName': serverName,
+          'characterID': characterID,
+          'data': $data
+        };
+
+        _cacheCharacterInfo.push(_result);
+        return _result;
+      });
     };
 
     //Retrieves what is the last server data

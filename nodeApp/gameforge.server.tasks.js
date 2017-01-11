@@ -41,7 +41,7 @@ module.exports = function(grunt) {
     }
 
     //1st step: Perform login
-    var sp = gameForgeServer.login(config.crawler.login, config.crawler.password, userAgent);
+    var sp = gameForgeServer.login(userAgent);
 
     //2nd step, retrieve all servers data
     sp = sp.then(function(cookie){

@@ -43,8 +43,7 @@
     $this.getCharacterPic = function($characterInfo) {
 
       var _coincidence = _specialCharacterPics.first(function($$character){
-        return $$character['server'] == $characterInfo['serverName'] &&
-            $$character['id'] == $characterInfo['characterID'];
+        return $$character['server'] == $characterInfo['serverName'] && $$character['id'] == $characterInfo['characterID'];
       });
 
       if(_coincidence) {

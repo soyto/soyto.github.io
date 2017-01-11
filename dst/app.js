@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.12.4)
+ * Soyto.github.io (0.12.5)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -35,153 +35,94 @@
 
   var IS_MOBILE_REGEX_1 = /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i;
   var IS_MOBILE_REGEX_2 = /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i;
-  var isMobile =  IS_MOBILE_REGEX_1.test(navigator.userAgent) || IS_MOBILE_REGEX_2.test(navigator.userAgent.substr(0,4));
+  var $$IS_MOBILE =  IS_MOBILE_REGEX_1.test(navigator.userAgent) || IS_MOBILE_REGEX_2.test(navigator.userAgent.substr(0,4));
 
   function configRoutes($routeProvider) {
 
     //Index route
-    var indexRouteData = {
-      templateUrl: '/app/templates/index.html',
-      controller: 'mainApp.index.controller',
-      resolve: {
-        posts: ['helperService', 'blogService', 'consoleService', function(helperService, blogService){
-          return helperService.$q.likeNormal(blogService.getAll());
-        }]
+    var _indexRouteData = {
+      'templateUrl': '/app/templates/index.html',
+      'controller': 'mainApp.index.controller',
+      'resolve': {
+        'posts': ['$hs', function($hs){ return $hs.$instantiate('blogService').getAll(); }]
       }
     };
-    $routeProvider.when('/', indexRouteData);
+    $routeProvider.when('/', _indexRouteData);
 
     //Ranking route
     var rankingRouteData = {
-      templateUrl: '/app/templates/ranking.html',
-      controller: 'mainApp.ranking.list.controller',
-      resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', 'consoleService', function(helperService, storedDataService, $route) {
-          return helperService.$q.likeNormal(storedDataService.getLastFromServer($route.current.params.serverName));
+      'templateUrl': '/app/templates/ranking.html',
+      'controller': 'mainApp.ranking.list.controller',
+      'resolve': {
+        'serverData': ['$hs', '$route', function($hs, $route) {
+          return $hs.$instantiate('storedDataService').getLastFromServer($route['current']['params']['serverName']);
         }]
       }
     };
     var rankingRouteMobileData = {
-      templateUrl: '/app/templates/ranking.mobile.html',
-      controller: 'mainApp.ranking.list.mobile.controller',
-      resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', 'consoleService', function(helperService, storedDataService, $route) {
-          return helperService.$q.likeNormal(storedDataService.getLastFromServer($route.current.params.serverName));
+      'templateUrl': '/app/templates/ranking.mobile.html',
+      'controller': 'mainApp.ranking.list.mobile.controller',
+      'resolve': {
+        'serverData': ['$hs', '$route', function($hs, $route) {
+          return $hs.$instantiate('storedDataService').getLastFromServer($route['current']['params']['serverName']);
         }]
       }
     };
-    $routeProvider.when('/ranking/:serverName', isMobile ? rankingRouteMobileData :  rankingRouteData);
+    $routeProvider.when('/ranking/:serverName', $$IS_MOBILE ? rankingRouteMobileData :  rankingRouteData);
 
     var rankingWithDateRouteData = {
-      templateUrl: '/app/templates/ranking.html',
-      controller: 'mainApp.ranking.list.controller',
-      resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
-          return helperService.$q.likeNormal(storedDataService.getFromServer($route.current.params.date, $route.current.params.serverName));
+      'templateUrl': '/app/templates/ranking.html',
+      'controller': 'mainApp.ranking.list.controller',
+      'resolve': {
+        'serverData': ['$hs', '$route', function($hs, $route) {
+          return $hs.$instantiate('storedDataService').getFromServer(
+              $route['current']['params']['date'],
+              $route['current']['params']['serverName']);
         }]
       }
     };
     var rankingWithDateRouteMobileData = {
-      templateUrl: '/app/templates/ranking.mobile.html',
-      controller: 'mainApp.ranking.list.mobile.controller',
-      resolve: {
-        serverData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
-          return helperService.$q.likeNormal(storedDataService.getFromServer($route.current.params.date, $route.current.params.serverName));
+      'templateUrl': '/app/templates/ranking.mobile.html',
+      'controller': 'mainApp.ranking.list.mobile.controller',
+      'resolve': {
+        'serverData': ['$hs', '$route', function($hs, $route) {
+          return $hs.$instantiate('storedDataService').getFromServer(
+              $route['current']['params']['date'],
+              $route['current']['params']['serverName']);
         }]
       }
     };
-    $routeProvider.when('/ranking/:serverName/:date', isMobile ? rankingWithDateRouteMobileData : rankingWithDateRouteData);
+    $routeProvider.when('/ranking/:serverName/:date', $$IS_MOBILE ? rankingWithDateRouteMobileData : rankingWithDateRouteData);
 
 
     var characterInfoRouteData = {
-      templateUrl: '/app/templates/characterInfo.html',
-      controller: 'mainApp.characterInfo.controller',
-      resolve: {
-        characterInfo: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
-          return helperService.$q.likeNormal(storedDataService.getCharacterInfo($route.current.params.serverName, $route.current.params.characterID));
+      'templateUrl': '/app/templates/characterInfo.html',
+      'controller': 'mainApp.characterInfo.controller',
+      'resolve': {
+        'characterInfo': ['$hs', '$route', function($hs, $route){
+          return $hs.$instantiate('storedDataService').getCharacterInfo(
+              $route['current']['params']['serverName'],
+              $route['current']['params']['characterID']);
         }]
       }
     };
     var characterInfoMobileRouteData = {
-      templateUrl: '/app/templates/characterInfo.mobile.html',
-      controller: 'mainApp.characterInfo.mobile.controller',
+      'templateUrl': '/app/templates/characterInfo.mobile.html',
+      'controller': 'mainApp.characterInfo.mobile.controller',
       resolve: {
-        characterInfo: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
-          return helperService.$q.likeNormal(storedDataService.getCharacterInfo($route.current.params.serverName, $route.current.params.characterID));
+        'characterInfo': ['$hs', '$route', function($hs, $route){
+          return $hs.$instantiate('storedDataService').getCharacterInfo(
+              $route['current']['params']['serverName'],
+              $route['current']['params']['characterID']);
         }]
       }
     };
-    $routeProvider.when('/character/:serverName/:characterID', isMobile ? characterInfoMobileRouteData :  characterInfoRouteData);
-
-
-    var mergeRouteData = {
-      templateUrl: '/app/templates/merge.html',
-      controller: 'mainApp.merge.list.controller',
-      resolve: {
-        serversData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
-
-          var servers = storedDataService.mergeGroups[$route.current.params.groupID];
-          var serversData = [];
-
-          var $$q = helperService.$q.resolve();
-
-          servers.forEach(function(server){
-            $$q = $$q.then(function(){
-              return helperService.$q.likeNormal(storedDataService.getLastFromServer(server.name)).then(function(serverData){
-                serversData.push({
-                  server: server,
-                  data: serverData.data,
-                  date: serverData.date
-                });
-              });
-            });
-          });
-
-
-          return $$q = $$q.then(function(){ return serversData; });
-        }],
-        groupID: ['$route', function($route){
-          return $route.current.params.groupID;
-        }]
-      }
-    };
-    var mergeMobileRouteData = {
-      templateUrl: '/app/templates/merge.mobile.html',
-      controller: 'mainApp.merge.list.mobile.controller',
-      resolve: {
-        serversData: ['helperService', 'storedDataService', '$route', function(helperService, storedDataService, $route) {
-
-          var servers = storedDataService.mergeGroups[$route.current.params.groupID];
-          var serversData = [];
-
-          var $$q = helperService.$q.resolve();
-
-          servers.forEach(function(server){
-            $$q = $$q.then(function(){
-              return helperService.$q.likeNormal(storedDataService.getLastFromServer(server.name)).then(function(serverData){
-                serversData.push({
-                  server: server,
-                  data: serverData.data,
-                  date: serverData.date
-                });
-              });
-            });
-          });
-
-
-          return $$q = $$q.then(function(){ return serversData; });
-        }],
-        groupID: ['$route', function($route){
-          return $route.current.params.groupID;
-        }]
-      }
-    };
-    $routeProvider.when('/merge/:groupID', isMobile ? mergeMobileRouteData : mergeRouteData);
+    $routeProvider.when('/character/:serverName/:characterID', $$IS_MOBILE ? characterInfoMobileRouteData :  characterInfoRouteData);
   }
 
   function cfpLoadingBarFn(cfpLoadingBarProvider) {
-    cfpLoadingBarProvider.includeSpinner = true;
-    cfpLoadingBarProvider.includeBar  = true;
+    cfpLoadingBarProvider['includeSpinner'] = false;
+    cfpLoadingBarProvider['includeBar']  = true;
   }
 
 })(angular, navigator, moment, marked);
@@ -1800,22 +1741,24 @@
 
   var CONTROLLER_NAME = 'mainApp.main.controller';
 
-  ng.module('mainApp').controller(CONTROLLER_NAME,[
-    '$rootScope', '$window', '$location', 'cfpLoadingBar', main_controller
-  ]);
+  ng.module('mainApp').controller(CONTROLLER_NAME,['$hs', _fn]);
 
 
-  function main_controller($rootScope, $window, $location, cfpLoadingBar) {
-    $rootScope._name = CONTROLLER_NAME;
+  function _fn($hs) {
+
+    var $rs = $hs.$instantiate('$rootScope');
+    var $window = $hs.$instantiate('$window');
+    var $location = $hs.$instantiate('$location');
+    var cfpLoadingBar = $hs.$instantiate('cfpLoadingBar');
+
+    $rs['_name'] = CONTROLLER_NAME;
 
 
-    $rootScope.$on('$routeChangeStart', function(){
-      cfpLoadingBar.start();
-    });
+    $rs.$on('$routeChangeStart', function(){ cfpLoadingBar.start(); });
 
-    $rootScope.$on('$viewContentLoaded', function(event){
+    $rs.$on('$viewContentLoaded', function(event){
       cfpLoadingBar.complete();
-      $window.ga('send', 'pageview', { page: $location.path() });
+      $window.ga('send', 'pageview', {'page': $location.path() });
     });
   }
 
@@ -1825,42 +1768,37 @@
   'use strict';
 
   ng.module('mainApp').service('blogService', [
-    '$http', 'helperService', blogService
+    '$hs', _fn
   ]);
 
 
-  function blogService($http, helperService) {
+  function _fn($hs) {
+
+    var $log = $hs.$instantiate('$log');
+    var $http = $hs.$instantiate('$http');
+    var $q = $hs.$q;
 
     var $this = this;
 
-    var cachedPosts = [];
+    var _cachedPosts = null;
 
-
+    //Retrieves all posts
     $this.getAll = function() {
-      var $$q = helperService.$q.new();
-
-      if(cachedPosts.length > 0 ) {
-        $$q.resolve(cachedPosts);
+      if(_cachedPosts !== null) {
+        return $q.resolve(_cachedPosts);
       }
       else {
-        var sp = $http({
-          url: 'data/Posts/posts.json',
-          method: 'GET'
-        });
-
-        sp.success(function(data){
-          data = data.sort(function(a,b){
-            return a.date > b. date ? -1 : 1;
+        return $q.likeNormal($http({
+          'url': 'data/Posts/posts.json',
+          'method': 'GET'
+        })).then(function($data) {
+          $data = $data.sort(function(a, b) {
+            return (new Date(a['date'])).getTime() - (new Date(b['date'])).getTime();
           });
-          cachedPosts = data;
-          $$q.resolve(data);
+          _cachedPosts = $data;
+          return $data;
         });
-
-
-        sp.error($$q.reject);
       }
-
-      return helperService.$q.likeHttp($$q.promise);
     };
   }
 })(angular);
@@ -1911,8 +1849,7 @@
     $this.getCharacterPic = function($characterInfo) {
 
       var _coincidence = _specialCharacterPics.first(function($$character){
-        return $$character['server'] == $characterInfo['serverName'] &&
-            $$character['id'] == $characterInfo['characterID'];
+        return $$character['server'] == $characterInfo['serverName'] && $$character['id'] == $characterInfo['characterID'];
       });
 
       if(_coincidence) {
@@ -1956,30 +1893,28 @@
 (function(ng){
   'use strict';
 
-  ng.module('mainApp').service('helperService', [
-    '$q', '$rootScope', '$window', '$log', helper_service
-  ]);
+  ng.module('mainApp').service('helperService', ['$injector', _fn]);
+  ng.module('mainApp').service('$hs', ['$injector', _fn]);
 
   var IS_MOBILE_REGEX_1 = /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i;
   var IS_MOBILE_REGEX_2 = /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i;
 
-  function helper_service($q, $rootScope, $window, $log) {
+  function _fn($injector) {
+
+    var $log = $injector.get('$log');
+    var $q = $injector.get('$q');
+    var $rs = $injector.get('$rootScope');
+    var $window = $injector.get('$window');
 
     var $this = this;
-    $this.$scope = {};
-    $this.$q = {};
-    $this.navigator = {};
 
-    //Sets page title
-    $this.$scope.setTitle = function(value) {
-      $rootScope.title = value;
-    };
-
-    $this.$scope.setNav = function(menu) {
-      $rootScope.navMenu = menu;
+    //Instantiates a dependency
+    $this.$instantiate = function(name) {
+      return $injector.get(name);
     };
 
     //Sort dates
+    //NOTE: Review this method
     $this.sortDates = function(dates) {
 
       dates = dates.sort(function(a, b) {
@@ -1988,9 +1923,9 @@
         var _b = b.split('-');
 
         _a = [
-            parseInt(_a[2]),
-            parseInt(_a[0]),
-            parseInt(_a[1]),
+          parseInt(_a[2]),
+          parseInt(_a[0]),
+          parseInt(_a[1]),
         ];
 
         _b = [
@@ -2016,75 +1951,18 @@
       return dates;
     };
 
-
-    $this.$q.fcall = function(fn) {
-      var $$q = $q.defer();
-
-      if(fn) {
-        $$q.resolve(fn());
-      } else {
-        $$q.resolve();
-      }
-
-      return $$q.promise;
+    $this.$scope = {
+      'setTitle': function(value){ $rs.title = value; },
+      'setNav': function(menu){ $rs.navMenu = menu; }
     };
 
-    $this.$q.pfcall = function(fn){
-      var $$q = $q.defer();
-
-      if(fn) {
-        $$q.resolve(fn());
-      } else {
-        $$q.resolve();
-      }
-
-      return $$q;
-    };
-
-    $this.$q.likeHttp = function($$q) {
-
-      //If is a deferred
-      if($$q.promise) {
-        $$q.promise.success = function(callback){ $$q.promise.then(callback); return $$q.promise; };
-        $$q.promise.error = function(callback){ $$q.promise.catch(callback); return $$q.promise; };
-        return $$q;
-      }
-
-      //If is a promise
-      if($$q.then) {
-        var _$$q =  $this.$q.likeHttp($q.defer());
-
-        $$q.then(_$$q.resolve);
-        $$q.catch(_$$q.catch);
-
-        return _$$q.promise;
+    $this.navigator = {
+      'isMobile': function(){
+        return IS_MOBILE_REGEX_1.test($window.navigator.userAgent) || IS_MOBILE_REGEX_2.test($window.navigator.userAgent.substr(0,4));
       }
     };
 
-    $this.$q.likeNormal = function(httpPromise) {
-      var $$q = $q.defer();
-      httpPromise.success($$q.resolve).error($$q.reject);
-      return $$q.promise;
-    };
-
-    //Returns just a new promise (Will remove all $q dependencies)
-    $this.$q.new = function(){
-      return $q.defer();
-    };
-
-    $this.$q.resolve = function() {
-      return $q.resolve();
-    };
-
-    $this.$q.all = function(items) {
-      return $q.all(items);
-    };
-
-
-    $this.navigator.isMobile = function() {
-      return IS_MOBILE_REGEX_1.test($window.navigator.userAgent) ||
-        IS_MOBILE_REGEX_2.test($window.navigator.userAgent.substr(0,4));
-    };
+    $this.$q = $injector.get('helperService.$q').$setParent($this).$q;
   }
 
 })(angular);
@@ -2097,12 +1975,13 @@
 
   var host = DEBUG ? '' : 'http://91.184.11.238/';
 
-  ng.module('mainApp').service('storedDataService',[
-    '$http', '$window', 'helperService', storedData_service
-  ]);
+  ng.module('mainApp').service('storedDataService',['$hs', _fn]);
 
-  function storedData_service($http, $window, helperService) {
+  function _fn($hs) {
 
+    var $q = $hs.$q;
+    var $http = $hs.$instantiate('$http');
+    var $window = $hs.$instantiate('$window');
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
@@ -2144,17 +2023,8 @@
        */
     ];
 
-    //Merge groups
-    $this.mergeGroups = [
-      [$this.serversList[0],  $this.serversList[1]],                            //0
-      [$this.serversList[14], $this.serversList[6], $this.serversList[2]],      //1
-      [$this.serversList[11], $this.serversList[9], $this.serversList[5]],      //2
-      [$this.serversList[8],  $this.serversList[7], $this.serversList[15]],      //3
-      [$this.serversList[4],  $this.serversList[10]]                            //4
-    ];
-
     //Wich dates we have stored
-    $this.storedDates = helperService.sortDates($window.storedDates);
+    $this.storedDates = $hs.sortDates($window.storedDates);
 
     //Character soldier ranks
     $this.characterSoldierRankIds = [
@@ -2200,48 +2070,41 @@
       { id: 16, name: 'Bard', icon: 'img/barde.png' },
     ];
 
-    $this.getCharacterRank = function(id){
-      return $this.characterSoldierRankIds[id];
-    };
+    $this.getCharacterRank = function(id) { return $this.characterSoldierRankIds[id]; };
 
     //Retrieves character classId
-    $this.getCharacterClass = function(id){
-      return $this.characterClassIds[id];
-    };
+    $this.getCharacterClass = function(id) { return $this.characterClassIds[id]; };
 
     //Retrieves info from the selected server at indicated day
     $this.getFromServer = function(date, serverName) {
-      var url = host + 'data/Servers/' + date + '/' + serverName + '.json';
 
-      var $$q = helperService.$q.new();
+      //Try to retrieve cacheItem
+      var _cachedItem = _cacheServerData.first(function(itm){
+        return itm.serverName == serverName && itm.date == date;
+      });
 
-      var cachedItem = _cacheServerData.first(function(itm){ return itm.serverName == serverName && itm.date == date; });
-
-      if(cachedItem) {
-        $$q.resolve(cachedItem);
-      }
-      else {
-
-        var sp = $http({
-          url: url,
-          method: 'GET'
-        });
-
-        sp.success(function(data){
-
-          var result = {
-            serverName: serverName,
-            date: date,
-            data: data
-          };
-          _cacheServerData.push(result);
-          $$q.resolve(result);
-        });
-
-        sp.error($$q.reject);
+      //If there is some cache item
+      if(_cachedItem) {
+        return $q.resolve(_cachedItem);
       }
 
-      return helperService.$q.likeHttp($$q.promise);
+      return $q.likeNormal($http({
+        'url': host + 'data/Servers/' + date + '/' + serverName + '.json',
+        'method': 'GET'
+      })).then(function($data) {
+
+        var _result = {
+          'serverName': serverName,
+          'date': date,
+          'data': $data
+        };
+
+        //Store on cache
+        _cacheServerData.push(_result);
+
+        //return
+        return _result;
+      });
     };
 
     //Retrieves last info from the selected server
@@ -2251,37 +2114,27 @@
 
     //Retrieve character info
     $this.getCharacterInfo = function(serverName, characterID) {
-      var url = host + 'data/Servers/Characters/' + serverName + '/' + characterID + '.json';
 
-      var $$q = helperService.$q.new();
+      var _cachedItem = _cacheCharacterInfo.first(function(itm){ return itm.serverName == serverName && itm.characterID == characterID; });
 
-      var cachedItem = _cacheCharacterInfo.first(function(itm){ return itm.serverName == serverName && itm.characterID == characterID; });
-
-      if(cachedItem) {
-        $$q.resolve(cachedItem);
-      }
-      else {
-        var sp = $http({
-          url: url,
-          method: 'GET'
-        });
-
-        sp.success(function(data){
-
-          var result = {
-            serverName: serverName,
-            characterID: characterID,
-            data: data
-          };
-
-          _cacheCharacterInfo.push(result);
-          $$q.resolve(result);
-        });
-
-        sp.error($$q.reject);
+      if(_cachedItem) {
+        return $q.resolve(_cachedItem);
       }
 
-      return helperService.$q.likeHttp($$q.promise);
+      return $q.likeNormal($http({
+        'url': host + 'data/Servers/Characters/' + serverName + '/' + characterID + '.json',
+        'method': 'GET'
+      })).then(function($data) {
+
+        var _result = {
+          'serverName': serverName,
+          'characterID': characterID,
+          'data': $data
+        };
+
+        _cacheCharacterInfo.push(_result);
+        return _result;
+      });
     };
 
     //Retrieves what is the last server data
@@ -2298,6 +2151,86 @@
 
 })(angular);
 
+
+(function(ng) {
+  'use strict';
+
+  var SERVICE_NAME = 'helperService.$q';
+
+  var MAIN_TIME_TRIGGER = 1000;
+
+  ng.module('mainApp').service(SERVICE_NAME, ['$injector', _fn]);
+
+  function _fn($injector) {
+
+    var $this = this;
+    var $q = $injector.get('$q');
+    var $timeout =  $injector.get('$timeout');
+    var $parent = null;
+    var _timeouts = {};
+
+    //Sets wich is current parent
+    $this.$setParent = function(parent) {
+      $parent = parent;
+      return $this;
+    };
+
+    $this.$q = $q;
+
+    //Changes normal promises to be like $http
+    $this.$q.likeHttp = function ($$q) {
+
+      //If is a deferred
+      if ($$q.promise) {
+        $$q.promise.success = function (callback) {
+          $$q.promise.then(callback);
+          return $$q.promise;
+        };
+        $$q.promise.error = function (callback) {
+          $$q.promise.catch(callback);
+          return $$q.promise;
+        };
+        return $$q;
+      }
+
+      //If is a promise
+      if ($$q.then) {
+        var _$$q = $this.likeHttp($q.defer());
+
+        $$q.then(_$$q.resolve);
+        $$q.catch(_$$q.catch);
+
+        return _$$q.promise;
+      }
+    };
+
+    //Changes $http promises to work like normals
+    $this.$q.likeNormal = function (httpPromise) {
+      var $$q = $q.defer();
+      httpPromise.success($$q.resolve).error($$q.reject);
+      return $$q.promise;
+    };
+
+    //Executes a time trigger
+    $this.$q.timeTrigger = function(name, fn, time) {
+
+      //If not time
+      if(!time) {
+        time = MAIN_TIME_TRIGGER;
+      }
+
+      //Cancel previous timeout
+      if(_timeouts[name]) {
+        $timeout.cancel(_timeouts[name]);
+      }
+
+      _timeouts[name] = $timeout(fn, time);
+
+      return _timeouts[name];
+    };
+
+  }
+})(angular);
 
 (function(ng){
   'use strict';

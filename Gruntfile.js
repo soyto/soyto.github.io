@@ -35,7 +35,7 @@ module.exports = function(grunt) {
 
   //JSHINT
   gruntConfig.jshint = {
-    options : {jshintrc: '.jshintrc'},
+    options : {jshintrc: '.jshintrc', 'force': true},
     app: config.application['app-files'],
     'node-app': config.application['node-app-files']
   };

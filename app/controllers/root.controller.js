@@ -3,22 +3,24 @@
 
   var CONTROLLER_NAME = 'mainApp.main.controller';
 
-  ng.module('mainApp').controller(CONTROLLER_NAME,[
-    '$rootScope', '$window', '$location', 'cfpLoadingBar', main_controller
-  ]);
+  ng.module('mainApp').controller(CONTROLLER_NAME,['$hs', _fn]);
 
 
-  function main_controller($rootScope, $window, $location, cfpLoadingBar) {
-    $rootScope._name = CONTROLLER_NAME;
+  function _fn($hs) {
+
+    var $rs = $hs.$instantiate('$rootScope');
+    var $window = $hs.$instantiate('$window');
+    var $location = $hs.$instantiate('$location');
+    var cfpLoadingBar = $hs.$instantiate('cfpLoadingBar');
+
+    $rs['_name'] = CONTROLLER_NAME;
 
 
-    $rootScope.$on('$routeChangeStart', function(){
-      cfpLoadingBar.start();
-    });
+    $rs.$on('$routeChangeStart', function(){ cfpLoadingBar.start(); });
 
-    $rootScope.$on('$viewContentLoaded', function(event){
+    $rs.$on('$viewContentLoaded', function(event){
       cfpLoadingBar.complete();
-      $window.ga('send', 'pageview', { page: $location.path() });
+      $window.ga('send', 'pageview', {'page': $location.path() });
     });
   }
 

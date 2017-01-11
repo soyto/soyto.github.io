@@ -2,42 +2,37 @@
   'use strict';
 
   ng.module('mainApp').service('blogService', [
-    '$http', 'helperService', blogService
+    '$hs', _fn
   ]);
 
 
-  function blogService($http, helperService) {
+  function _fn($hs) {
+
+    var $log = $hs.$instantiate('$log');
+    var $http = $hs.$instantiate('$http');
+    var $q = $hs.$q;
 
     var $this = this;
 
-    var cachedPosts = [];
+    var _cachedPosts = null;
 
-
+    //Retrieves all posts
     $this.getAll = function() {
-      var $$q = helperService.$q.new();
-
-      if(cachedPosts.length > 0 ) {
-        $$q.resolve(cachedPosts);
+      if(_cachedPosts !== null) {
+        return $q.resolve(_cachedPosts);
       }
       else {
-        var sp = $http({
-          url: 'data/Posts/posts.json',
-          method: 'GET'
-        });
-
-        sp.success(function(data){
-          data = data.sort(function(a,b){
-            return a.date > b. date ? -1 : 1;
+        return $q.likeNormal($http({
+          'url': 'data/Posts/posts.json',
+          'method': 'GET'
+        })).then(function($data) {
+          $data = $data.sort(function(a, b) {
+            return (new Date(a['date'])).getTime() - (new Date(b['date'])).getTime();
           });
-          cachedPosts = data;
-          $$q.resolve(data);
+          _cachedPosts = $data;
+          return $data;
         });
-
-
-        sp.error($$q.reject);
       }
-
-      return helperService.$q.likeHttp($$q.promise);
     };
   }
 })(angular);
