@@ -36,8 +36,7 @@
   <!-- Ensure to not use https version -->
   <script type="text/javascript">
     if(window.location.protocol != 'http:') {
-      window.location.protocol = 'http:';
-      window.location.reload();
+      window.location.href = window.location.href.substring(window.location.protocol.length);
     }
   </script>
 </head>
