@@ -14,7 +14,7 @@
       {'server': 'Hellion', 'id': 332318, 'pic': '//i.imgur.com/Sps7YGU.png'}, //Hellion: Jaskier
       {'server': 'Hellion', 'id': 332433, 'pic': '//i.imgur.com/pLeI02V.png'}, //Hellion: Adeee
       {'server': 'Hellion', 'id': 492074, 'pic': '//i.imgur.com/sUTeSYn.png'}, //Hellion: Aryska
-      {'server': 'Hellion', 'id': 446570, 'pic': '//i3.kym-cdn.com/photos/images/newsfeed/000/950/041/a8a.jpg'}, //Hellion: Shakku
+      {'server': 'Hellion', 'id': 446570, 'pic': '://i.imgur.com/nfE7LlW.jpg'}, //Hellion: Shakku
       {'server': 'Hellion', 'id': 336415, 'pic': '//i.imgur.com/LUOMjpH.png'}, //Hellion: Blackdraco
       {'server': 'Hellion', 'id': 413977, 'pic': '//www.cotilleo.es/wp-content/uploads/2016/10/justin-bieber.jpg'}, //Hellion: Shadowfall
       {'server': 'Hellion', 'id': 987350, 'pic': '//i.imgur.com/FCwJFXM.png'}, //Hellion: Arturomal
