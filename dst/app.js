@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.9)
+ * Soyto.github.io (0.13.10)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -139,11 +139,49 @@
 
 
   function index_controller($scope, $moment, storedDataService, helperService, caracterPicsService, characterInfo) {
+
+    var $q = helperService.$q;
+
     $scope._name = CONTROLLER_NAME;
 
 
     //Call to init Fn
     _init();
+
+    //When search text changes...
+    $scope.performGlobalSearch = function(text, searchNow){
+
+      //Text empty or less than 3 characters, clear search results
+      if(text.trim().length < 3) {
+        $scope['searchResults'] = null;
+        $q.cancelTimeTrigger('mainApp.index.controller.search');
+        return;
+      }
+
+      if(searchNow) {
+
+        $q.cancelTimeTrigger('mainApp.index.controller.search');
+        $scope['searchTerm'] = text;
+        $scope['searchLoading'] = true;
+
+        return storedDataService.characterSearch(text).then(function($data){
+          $scope['searchResults'] = $data;
+          $scope['searchLoading'] = false;
+        });
+      }
+      else {
+        $q.timeTrigger('mainApp.index.controller.search', function () {
+
+          $scope['searchTerm'] = text;
+          $scope['searchLoading'] = true;
+
+          return storedDataService.characterSearch(text).then(function ($data) {
+            $scope['searchResults'] = $data;
+            $scope['searchLoading'] = false;
+          });
+        }, 2000);
+      }
+    };
 
 
     function _init() {
@@ -235,6 +273,12 @@
         goTo: _paginationObject_goTo
       };
 
+      //Search...
+      $scope['searchText'] = '';
+      $scope['searchTerm'] = '';
+      $scope['searchResults'] = null;
+      $scope['searchLoading'] = false;
+
       _initPagination($scope.character.status, $scope.pagination);
     }
 
@@ -305,6 +349,7 @@
     }
 
   }
+
 })(angular);
 
 
@@ -319,10 +364,48 @@
 
 
   function index_controller($scope, $moment, storedDataService, helperService, caracterPicsService, characterInfo) {
+
+    var $q = helperService.$q;
+
     $scope._name = CONTROLLER_NAME;
 
     //Call to init Fn
     _init();
+
+    //When search text changes...
+    $scope.performGlobalSearch = function(text, searchNow){
+
+      //Text empty or less than 3 characters, clear search results
+      if(text.trim().length < 3) {
+        $scope['searchResults'] = null;
+        $q.cancelTimeTrigger('mainApp.index.controller.search');
+        return;
+      }
+
+      if(searchNow) {
+
+        $q.cancelTimeTrigger('mainApp.index.controller.search');
+        $scope['searchTerm'] = text;
+        $scope['searchLoading'] = true;
+
+        return storedDataService.characterSearch(text).then(function($data){
+          $scope['searchResults'] = $data;
+          $scope['searchLoading'] = false;
+        });
+      }
+      else {
+        $q.timeTrigger('mainApp.index.controller.search', function () {
+
+          $scope['searchTerm'] = text;
+          $scope['searchLoading'] = true;
+
+          return storedDataService.characterSearch(text).then(function ($data) {
+            $scope['searchResults'] = $data;
+            $scope['searchLoading'] = false;
+          });
+        }, 2000);
+      }
+    };
 
 
     function _init() {
@@ -391,6 +474,12 @@
         previous: _paginationObject_previous,
         goTo: _paginationObject_goTo
       };
+
+      //Search...
+      $scope['searchText'] = '';
+      $scope['searchTerm'] = '';
+      $scope['searchResults'] = null;
+      $scope['searchLoading'] = false;
 
       _initPagination($scope.character.status, $scope.pagination);
     }
@@ -489,20 +578,23 @@
     });
 
     $sc['searchText'] = '';
-    $sc['searchResults'] = [];
+    $sc['searchTerm'] = '';
+    $sc['searchResults'] = null;
     $sc['searchLoading'] = false;
 
     //When search text changes...
     $sc.onChange_searchText = function(text){
 
-      //Text empty, clear search results
-      if(text.trim().length === 0) {
-        $sc['searchResults'] = [];
+      //Text empty or less than 3 characters, clear search results
+      if(text.trim().length < 3) {
+        $sc['searchResults'] = null;
+        $q.cancelTimeTrigger('mainApp.index.controller.search');
         return;
       }
 
       $q.timeTrigger('mainApp.index.controller.search', function(){
 
+        $sc['searchTerm'] = text;
         $sc['searchLoading'] = true;
 
         return storedDataService.characterSearch(text).then(function($data){
@@ -516,7 +608,8 @@
     //When user press clear on search text
     $sc.clear_searchText = function() {
       $sc['searchText'] = '';
-      $sc['searchResults'] = [];
+      $sc['searchResults'] = null;
+      $q.cancelTimeTrigger('mainApp.index.controller.search');
     };
 
     $hs.$scope.setTitle('Soyto.github.io');
@@ -2315,6 +2408,13 @@
       _timeouts[name] = $timeout(fn, time);
 
       return _timeouts[name];
+    };
+
+    //Cancels a time trigger
+    $this.$q.cancelTimeTrigger = function(name) {
+      if(_timeouts[name]) {
+        $timeout.cancel(_timeouts[name]);
+      }
     };
 
   }

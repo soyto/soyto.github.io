@@ -8,6 +8,7 @@
 
   <div class="col-md-4 col-sm-12">
 
+    <!-- Character picture and name -->
     <div class="panel panel-default">
       <div class="panel-thumbnail"><img src="{{character.pictureURL}}" class="img-responsive"></div>
       <div class="panel-body">
@@ -17,8 +18,52 @@
             <span ng-show="!character.guildName">without guild</span>
         </h5>
       </div>
-    </div>
+    </div><!-- /Character picture and name -->
 
+    <!-- Search Panel -->
+    <div class="panel panel-search-mini">
+
+      <div class="panel-heading">
+        <h4>Search another character:</h4>
+      </div>
+
+      <div class="panel-body">
+
+        <!-- Search form -->
+        <div class="form-group">
+          <div class="input-group">
+            <input type="text" class="form-control" data-ng-model="searchText" data-ng-change="performGlobalSearch(searchText)">
+            <span class="input-group-btn">
+              <button class="btn btn-default" data-ng-click="performGlobalSearch(searchText, true)"><i class="fa fa-search"></i></button>
+            </span>
+          </div>
+        </div><!-- /Search form -->
+
+        <!-- Loading results -->
+        <h5 data-ng-show="searchLoading">Results for <b>{{ searchTerm }}</b>: <em>...</em></h5><!-- /Loading results -->
+
+        <!-- Search results (When there is data) -->
+        <div data-ng-show="!searchLoading && searchResults != null && searchResults.length > 0">
+          <h5>Results for <b>{{ searchTerm }}</b>:</h5>
+          <ul class="list-group">
+            <li data-ng-repeat="searchItem in searchResults" class="list-group-item">
+              <a data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
+                {{searchItem.characterName}}-{{searchItem.serverName}}
+              </a>
+            </li>
+          </ul>
+        </div><!-- /Search results (When there is data) -->
+
+        <!-- Search results (Empty) -->
+        <div data-ng-show="!searchLoading && searchResults != null && searchResults.length === 0">
+          <h5>Results for <b>{{ searchTerm }}</b>: <b>No data was found</b></h5>
+        </div><!-- /Search results (Empty) -->
+
+      </div>
+
+    </div><!-- /Search Panel -->
+
+    <!-- Names panel -->
     <div class="panel">
       <div class="panel-heading"><h4>Names</h4></div>
       <div class="panel-body">
@@ -37,8 +82,9 @@
             </tbody>
         </table>
       </div>
-    </div>
+    </div><!-- /Names panel -->
 
+    <!-- Legions panel -->
     <div class="panel">
       <div class="panel-heading"><h4>Legions</h4></div>
       <div class="panel-body">
@@ -57,12 +103,13 @@
             </tbody>
         </table>
       </div>
-    </div>
+    </div><!-- /Legions panel -->
 
   </div>
 
   <div class="col-md-8">
 
+    <!-- Rank history -->
     <div class="panel">
       <div class="panel-heading">
         <ul class="nav nav-tabs" data-ng-init="showing='rows'">
@@ -141,15 +188,16 @@
         </div>
 
       </div>
-    </div>
+    </div><!-- /Rank history -->
 
+    <!-- Facebook panel -->
     <div class="panel">
       <div class="panel-body">
         <div class="fb-comments" fb-comment-plugin
         page-href="http://soyto.github.io/#/character/{{serverName}}/{{character.characterID}}" data-numposts="50"></div>
       </div>
-    </div>
-
+    </div><!-- /Facebook panel -->
 
   </div>
+
 </div>

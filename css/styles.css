@@ -91,7 +91,22 @@ textarea { resize: none; outline: 0; }
   bottom:25px;
 }
 
-/* template layout*/
+/* Panel search mini...
+ * ------------------------------------------------------------------------------------------------------------------- */
+.panel-search-mini {
+
+}
+
+.panel-search-mini>.panel-heading{
+  padding-bottom: 0;
+}
+.panel-search-mini>.panel-body{
+  padding-top:0;
+}
+
+
+/* Template layout
+ * ------------------------------------------------------------------------------------------------------------------- */
 #subnav {
  position:fixed;
  width:100%;

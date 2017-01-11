@@ -12,13 +12,14 @@
 
     <!-- Search Panel -->
     <div class="panel panel-default">
-      <div class="panel-heading"><h4>Search a character:</h4></div>
-
+      <div class="panel-heading">
+        <h4>Search a character:</h4>
+      </div>
       <div class="panel-body">
-
+        
         <!-- Search form -->
         <div class="row form-group">
-          <div class="col-xs-8 com-md-10">
+          <div class="col-xs-8 col-md-10">
             <input type="text" class="form-control" data-ng-model="searchText" data-ng-change="onChange_searchText(searchText)">
           </div>
           <div class="col-xs-4 col-md-2">
@@ -26,19 +27,30 @@
           </div>
         </div><!-- /Search form -->
 
-        <!-- Search results -->
-        <h5 data-ng-show="searchResults && searchResults.length > 0">Results:</h5>
-        <ul class="list-group">
-          <li data-ng-repeat="searchItem in searchResults" class="list-group-item">
-            <a data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
-              {{searchItem.characterName}}-{{searchItem.serverName}}
-            </a>
-          </li>
-        </ul><!-- /Search results -->
-
         <!-- Loading results -->
-        <h5 data-ng-show="searchLoading">Results: ...</h5><!-- /Loading results -->
+        <h5 data-ng-show="searchLoading">Results for <b>{{ searchTerm }}</b>: <em>...</em></h5><!-- /Loading results -->
 
+        <!-- Search results (When there is data) -->
+        <div data-ng-show="!searchLoading && searchResults != null && searchResults.length > 0">
+          <h5>Results for <b>{{ searchTerm }}</b>:</h5>
+          <ul class="list-group">
+            <li data-ng-repeat="searchItem in searchResults" class="list-group-item">
+              <a data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
+                {{searchItem.characterName}}-{{searchItem.serverName}}
+              </a>
+            </li>
+          </ul>
+        </div><!-- /Search results (When there is data) -->
+
+        <!-- Search results (Empty) -->
+        <div data-ng-show="!searchLoading && searchResults != null && searchResults.length === 0">
+          <h5>Results for <b>{{ searchTerm }}</b>: <b>No data was found</b></h5>
+        </div><!-- /Search results (Empty) -->
+
+
+      </div>
+      <div class="panel-footer">
+        <small><b>Note:</b> this application only stores data from characters that have 1-star rank or higher</small>
       </div>
     </div><!-- /Search Panel -->
 

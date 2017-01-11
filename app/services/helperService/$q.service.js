@@ -75,5 +75,12 @@
       return _timeouts[name];
     };
 
+    //Cancels a time trigger
+    $this.$q.cancelTimeTrigger = function(name) {
+      if(_timeouts[name]) {
+        $timeout.cancel(_timeouts[name]);
+      }
+    };
+
   }
 })(angular);

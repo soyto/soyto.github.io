@@ -9,11 +9,49 @@
 
 
   function index_controller($scope, $moment, storedDataService, helperService, caracterPicsService, characterInfo) {
+
+    var $q = helperService.$q;
+
     $scope._name = CONTROLLER_NAME;
 
 
     //Call to init Fn
     _init();
+
+    //When search text changes...
+    $scope.performGlobalSearch = function(text, searchNow){
+
+      //Text empty or less than 3 characters, clear search results
+      if(text.trim().length < 3) {
+        $scope['searchResults'] = null;
+        $q.cancelTimeTrigger('mainApp.index.controller.search');
+        return;
+      }
+
+      if(searchNow) {
+
+        $q.cancelTimeTrigger('mainApp.index.controller.search');
+        $scope['searchTerm'] = text;
+        $scope['searchLoading'] = true;
+
+        return storedDataService.characterSearch(text).then(function($data){
+          $scope['searchResults'] = $data;
+          $scope['searchLoading'] = false;
+        });
+      }
+      else {
+        $q.timeTrigger('mainApp.index.controller.search', function () {
+
+          $scope['searchTerm'] = text;
+          $scope['searchLoading'] = true;
+
+          return storedDataService.characterSearch(text).then(function ($data) {
+            $scope['searchResults'] = $data;
+            $scope['searchLoading'] = false;
+          });
+        }, 2000);
+      }
+    };
 
 
     function _init() {
@@ -105,6 +143,12 @@
         goTo: _paginationObject_goTo
       };
 
+      //Search...
+      $scope['searchText'] = '';
+      $scope['searchTerm'] = '';
+      $scope['searchResults'] = null;
+      $scope['searchLoading'] = false;
+
       _initPagination($scope.character.status, $scope.pagination);
     }
 
@@ -175,4 +219,5 @@
     }
 
   }
+
 })(angular);

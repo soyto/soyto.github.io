@@ -19,6 +19,54 @@
   </div>
 </div>
 
+<!-- Search -->
+<div class="row">
+  <div class="col-xs-12 col-sm-12 col-md-12">
+    <div class="panel panel-search-mini">
+
+      <div class="panel-heading">
+        <h4>Search another character:</h4>
+      </div>
+
+      <div class="panel-body">
+
+        <!-- Search form -->
+        <div class="form-group">
+          <div class="input-group">
+            <input type="text" class="form-control" data-ng-model="searchText" data-ng-change="performGlobalSearch(searchText)">
+            <span class="input-group-btn">
+              <button class="btn btn-default" data-ng-click="performGlobalSearch(searchText, true)"><i class="fa fa-search"></i></button>
+            </span>
+          </div>
+        </div><!-- /Search form -->
+
+        <!-- Loading results -->
+        <h5 data-ng-show="searchLoading">Results for <b>{{ searchTerm }}</b>: <em>...</em></h5><!-- /Loading results -->
+
+        <!-- Search results (When there is data) -->
+        <div data-ng-show="!searchLoading && searchResults != null && searchResults.length > 0">
+          <h5>Results for <b>{{ searchTerm }}</b>:</h5>
+          <ul class="list-group">
+            <li data-ng-repeat="searchItem in searchResults" class="list-group-item">
+              <a data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
+                {{searchItem.characterName}}-{{searchItem.serverName}}
+              </a>
+            </li>
+          </ul>
+        </div><!-- /Search results (When there is data) -->
+
+        <!-- Search results (Empty) -->
+        <div data-ng-show="!searchLoading && searchResults != null && searchResults.length === 0">
+          <h5>Results for <b>{{ searchTerm }}</b>: <b>No data was found</b></h5>
+        </div><!-- /Search results (Empty) -->
+
+      </div>
+
+    </div>
+  </div>
+</div><!-- /Search -->
+
+
 <div class="row" ng-show="character.names.length > 1">
   <div class="col-sm-12">
     <div class="panel">
