@@ -42,6 +42,7 @@
       {'server': 'Antriksha', 'id': 719919, 'pic': '//oi68.tinypic.com/o9g8bp.jpg'}, //Antriksa: Kisuke
       {'server': 'Loki', 'id': 563801, 'pic': '//i.imgur.com/vKqeyLS.png'}, //Loki: Lyy
       {'server': 'Hellion', 'id': 382130, 'pic': '//i.imgur.com/udbsdPo.png'}, //Hellion: Maullido
+      {'server': 'Hellion', 'id': 462866, 'pic': '//i.imgur.com/EgQ0P2u.jpg'}, //Hellion: Accelerator
     ];
 
     //Sets a character pic
