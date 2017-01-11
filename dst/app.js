@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.6)
+ * Soyto.github.io (0.13.7)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -2184,22 +2184,25 @@
 
     //Looks for a character on all servers
     $this.characterSearch = function(text) {
+
+      var _$$textToSearch = text.trim().toLowerCase();
+
       return _getCharacterCheatSheet().then(function($wholeData) {
 
         var _result = $wholeData.where(function($$character){
-          return $$character['characterName'].toLowerCase().indexOf(text.toLowerCase()) >= 0;
+          return $$character['characterName'].toLowerCase().indexOf(_$$textToSearch) >= 0;
         });
 
         _result.sort(function(a, b){
-          var _idxA = a['characterName'].indexOf(text);
-          var _idxB = b['characterName'].indexOf(text);
+          var _idxA = a['characterName'].toLowerCase().indexOf(_$$textToSearch);
+          var _idxB = b['characterName'].toLowerCase().indexOf(_$$textToSearch);
 
           if(_idxA === _idxB) {
             var _aLength = a['characterName'].length;
             var _bLength = b['characterName'].length;
 
             if(_aLength == _bLength) {
-              return a['characterName'].localeCompare(b['characterName']);
+              return a['characterName'].toLowerCase().localeCompare(b['characterName'].toLowerCase());
             }
 
             return _aLength - _bLength;
