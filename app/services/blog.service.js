@@ -31,8 +31,6 @@
             return (new Date(b['date'])).getTime() - (new Date(a['date'])).getTime();
           });
 
-          $log.debug('data %o', $data);
-
           _cachedPosts = $data;
           return $data;
         });

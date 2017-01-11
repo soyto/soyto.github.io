@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.12)
+ * Soyto.github.io (0.13.13)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1924,8 +1924,6 @@
             return (new Date(b['date'])).getTime() - (new Date(a['date'])).getTime();
           });
 
-          $log.debug('data %o', $data);
-
           _cachedPosts = $data;
           return $data;
         });
@@ -2109,8 +2107,6 @@
 
   var DEBUG = false;
 
-  var host = DEBUG ? '' : 'http://91.184.11.238/';
-
   ng.module('mainApp').service('storedDataService',['$hs', _fn]);
 
   function _fn($hs) {
@@ -2119,6 +2115,9 @@
     var $log = $hs.$instantiate('$log');
     var $http = $hs.$instantiate('$http');
     var $window = $hs.$instantiate('$window');
+    var $location = $hs.$instantiate('$location');
+
+    var host = DEBUG ? '' : $location.protocol() +  '://91.184.11.238/';
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
