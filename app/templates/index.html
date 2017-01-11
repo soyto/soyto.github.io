@@ -31,7 +31,7 @@
         <ul class="list-group">
           <li data-ng-repeat="searchItem in searchResults" class="list-group-item">
             <a data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
-              {{searchItem.serverName}}-{{searchItem.characterName}}
+              {{searchItem.characterName}}-{{searchItem.serverName}}
             </a>
           </li>
         </ul><!-- /Search results -->
