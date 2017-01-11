@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.11)
+ * Soyto.github.io (0.13.12)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1919,9 +1919,13 @@
           'url': 'data/Posts/posts.json',
           'method': 'GET'
         })).then(function($data) {
+
           $data = $data.sort(function(a, b) {
-            return (new Date(a['date'])).getTime() - (new Date(b['date'])).getTime();
+            return (new Date(b['date'])).getTime() - (new Date(a['date'])).getTime();
           });
+
+          $log.debug('data %o', $data);
+
           _cachedPosts = $data;
           return $data;
         });
