@@ -3,6 +3,8 @@
 
   var DEBUG = false;
 
+  var host = DEBUG ? '' : 'http://91.184.11.238/';
+
   ng.module('mainApp').service('storedDataService',['$hs', _fn]);
 
   function _fn($hs) {
@@ -11,9 +13,6 @@
     var $log = $hs.$instantiate('$log');
     var $http = $hs.$instantiate('$http');
     var $window = $hs.$instantiate('$window');
-    var $location = $hs.$instantiate('$location');
-
-    var host = DEBUG ? '' : $location.protocol() +  '://91.184.11.238/';
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
