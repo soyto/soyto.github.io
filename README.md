@@ -22,7 +22,6 @@ I will use such character cheat sheet for implement a global search
 2. once downloaded move to the folder just created `cd soyto.github.io`
 3. install node dependencies `npm install`
 4. install bower dependencies `bower install`
-5. Rename `nodeApp/config.js.dist` to `nodeApp/config.js` and set up your gameforge account
 5. Run grunt for compile whole project `grunt`
 
 **You are done!** just let your web server to host this folder and you can access the data
