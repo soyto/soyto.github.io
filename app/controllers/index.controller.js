@@ -3,23 +3,57 @@
 
   var CONTROLLER_NAME = 'mainApp.index.controller';
 
-  ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', '$marked', 'helperService', 'storedDataService', 'posts', index_controller
-  ]);
+  ng.module('mainApp').controller(CONTROLLER_NAME, ['$scope', '$hs', 'posts', _fn]);
 
 
-  function index_controller($scope, $marked, helperService, storedDataService, posts) {
-    $scope._name = CONTROLLER_NAME;
+  function _fn($sc, $hs, posts) {
 
-    $scope.servers = storedDataService.serversList;
-    $scope.lastServerUpdateData = storedDataService.getLastServerData();
-    $scope.posts = posts.select(function(post){
+    var $q = $hs.$q;
+    var $log = $hs.$instantiate('$log');
+    var $marked = $hs.$instantiate('$marked');
+    var storedDataService = $hs.$instantiate('storedDataService');
+
+    $sc._name = CONTROLLER_NAME;
+
+    $sc.servers = storedDataService.serversList;
+    $sc.lastServerUpdateData = storedDataService.getLastServerData();
+    $sc.posts = posts.select(function(post){
       post.htmlContent = $marked(post.content);
       return post;
     });
 
+    $sc['searchText'] = '';
+    $sc['searchResults'] = [];
+    $sc['searchLoading'] = false;
 
-    helperService.$scope.setTitle('Soyto.github.io');
-    helperService.$scope.setNav('home');
+    //When search text changes...
+    $sc.onChange_searchText = function(text){
+
+      //Text empty, clear search results
+      if(text.trim().length === 0) {
+        $sc['searchResults'] = [];
+        return;
+      }
+
+      $q.timeTrigger('mainApp.index.controller.search', function(){
+
+        $sc['searchLoading'] = true;
+
+        return storedDataService.characterSearch(text).then(function($data){
+          $sc['searchResults'] = $data;
+          $sc['searchLoading'] = false;
+        });
+      }, 2000);
+
+    };
+
+    //When user press clear on search text
+    $sc.clear_searchText = function() {
+      $sc['searchText'] = '';
+      $sc['searchResults'] = [];
+    };
+
+    $hs.$scope.setTitle('Soyto.github.io');
+    $hs.$scope.setNav('home');
   }
 })(angular);

@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.0)
+ * Soyto.github.io (0.13.1)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -469,24 +469,58 @@
 
   var CONTROLLER_NAME = 'mainApp.index.controller';
 
-  ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', '$marked', 'helperService', 'storedDataService', 'posts', index_controller
-  ]);
+  ng.module('mainApp').controller(CONTROLLER_NAME, ['$scope', '$hs', 'posts', _fn]);
 
 
-  function index_controller($scope, $marked, helperService, storedDataService, posts) {
-    $scope._name = CONTROLLER_NAME;
+  function _fn($sc, $hs, posts) {
 
-    $scope.servers = storedDataService.serversList;
-    $scope.lastServerUpdateData = storedDataService.getLastServerData();
-    $scope.posts = posts.select(function(post){
+    var $q = $hs.$q;
+    var $log = $hs.$instantiate('$log');
+    var $marked = $hs.$instantiate('$marked');
+    var storedDataService = $hs.$instantiate('storedDataService');
+
+    $sc._name = CONTROLLER_NAME;
+
+    $sc.servers = storedDataService.serversList;
+    $sc.lastServerUpdateData = storedDataService.getLastServerData();
+    $sc.posts = posts.select(function(post){
       post.htmlContent = $marked(post.content);
       return post;
     });
 
+    $sc['searchText'] = '';
+    $sc['searchResults'] = [];
+    $sc['searchLoading'] = false;
 
-    helperService.$scope.setTitle('Soyto.github.io');
-    helperService.$scope.setNav('home');
+    //When search text changes...
+    $sc.onChange_searchText = function(text){
+
+      //Text empty, clear search results
+      if(text.trim().length === 0) {
+        $sc['searchResults'] = [];
+        return;
+      }
+
+      $q.timeTrigger('mainApp.index.controller.search', function(){
+
+        $sc['searchLoading'] = true;
+
+        return storedDataService.characterSearch(text).then(function($data){
+          $sc['searchResults'] = $data;
+          $sc['searchLoading'] = false;
+        });
+      }, 2000);
+
+    };
+
+    //When user press clear on search text
+    $sc.clear_searchText = function() {
+      $sc['searchText'] = '';
+      $sc['searchResults'] = [];
+    };
+
+    $hs.$scope.setTitle('Soyto.github.io');
+    $hs.$scope.setNav('home');
   }
 })(angular);
 
@@ -1981,11 +2015,13 @@
   function _fn($hs) {
 
     var $q = $hs.$q;
+    var $log = $hs.$instantiate('$log');
     var $http = $hs.$instantiate('$http');
     var $window = $hs.$instantiate('$window');
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
+    var _cacheCharacterCheatSheet = null;
 
 	  $window.$cacheServerData = _cacheServerData;
 	  $window.$cacheCharacterInfo = _cacheCharacterInfo;
@@ -2071,6 +2107,7 @@
       { id: 16, name: 'Bard', icon: 'img/barde.png' },
     ];
 
+    //Gets wich is rank of the selected character
     $this.getCharacterRank = function(id) { return $this.characterSoldierRankIds[id]; };
 
     //Retrieves character classId
@@ -2110,7 +2147,7 @@
 
     //Retrieves last info from the selected server
     $this.getLastFromServer = function(serverName) {
-      return $this.getFromServer(getLastDate(), serverName);
+      return $this.getFromServer(_getLastDate(), serverName);
     };
 
     //Retrieve character info
@@ -2140,12 +2177,35 @@
 
     //Retrieves what is the last server data
     $this.getLastServerData = function() {
-      return getLastDate();
+      return _getLastDate();
+    };
+
+    //Looks for a character on all servers
+    $this.characterSearch = function(text) {
+      return _getCharacterCheatSheet().then(function($wholeData) {
+        return $wholeData.where(function($$character){
+          return $$character['characterName'].toLowerCase().indexOf(text.toLowerCase()) >= 0;
+        });
+      });
     };
 
 
-    function getLastDate() {
+    function _getLastDate() {
       return $this.storedDates[$this.storedDates.length - 1];
+    }
+
+    //Gets character cheatSheet
+    function _getCharacterCheatSheet() {
+
+      if(_cacheCharacterCheatSheet !== null) {
+        return $q.resolve(_cacheCharacterCheatSheet);
+      }
+
+      var _url = host + '/data/Servers/Characters/charactersSheet.json';
+      return $q.likeNormal($http.get(_url)).then(function($wholeData){
+        _cacheCharacterCheatSheet = $wholeData;
+        return $wholeData;
+      });
     }
 
   }

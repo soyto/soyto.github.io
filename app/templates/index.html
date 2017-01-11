@@ -10,6 +10,38 @@
       <h4>Last update: <b>{{ lastServerUpdateData }}</b></h4>
     </div><!-- /.well -->
 
+    <!-- Search Panel -->
+    <div class="panel panel-default">
+      <div class="panel-heading"><h4>Search a character:</h4></div>
+
+      <div class="panel-body">
+
+        <!-- Search form -->
+        <div class="row form-group">
+          <div class="col-xs-8 com-md-10">
+            <input type="text" class="form-control" data-ng-model="searchText" data-ng-change="onChange_searchText(searchText)">
+          </div>
+          <div class="col-xs-4 col-md-2">
+            <button class="btn btn-info" data-ng-click="clear_searchText()">Clear</button>
+          </div>
+        </div><!-- /Search form -->
+
+        <!-- Search results -->
+        <h5 data-ng-show="searchResults && searchResults.length > 0">Results:</h5>
+        <ul class="list-group">
+          <li data-ng-repeat="searchItem in searchResults" class="list-group-item">
+            <a data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
+              {{searchItem.serverName}}-{{searchItem.characterName}}
+            </a>
+          </li>
+        </ul><!-- /Search results -->
+
+        <!-- Loading results -->
+        <h5 data-ng-show="searchLoading">Results: ...</h5><!-- /Loading results -->
+
+      </div>
+    </div><!-- /Search Panel -->
+
     <div class="panel panel-default">
       <div class="panel-heading"><h4>Servers</h4></div>
       <div class="panel-body">

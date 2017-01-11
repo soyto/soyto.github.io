@@ -10,11 +10,13 @@
   function _fn($hs) {
 
     var $q = $hs.$q;
+    var $log = $hs.$instantiate('$log');
     var $http = $hs.$instantiate('$http');
     var $window = $hs.$instantiate('$window');
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
+    var _cacheCharacterCheatSheet = null;
 
 	  $window.$cacheServerData = _cacheServerData;
 	  $window.$cacheCharacterInfo = _cacheCharacterInfo;
@@ -100,6 +102,7 @@
       { id: 16, name: 'Bard', icon: 'img/barde.png' },
     ];
 
+    //Gets wich is rank of the selected character
     $this.getCharacterRank = function(id) { return $this.characterSoldierRankIds[id]; };
 
     //Retrieves character classId
@@ -139,7 +142,7 @@
 
     //Retrieves last info from the selected server
     $this.getLastFromServer = function(serverName) {
-      return $this.getFromServer(getLastDate(), serverName);
+      return $this.getFromServer(_getLastDate(), serverName);
     };
 
     //Retrieve character info
@@ -169,12 +172,35 @@
 
     //Retrieves what is the last server data
     $this.getLastServerData = function() {
-      return getLastDate();
+      return _getLastDate();
+    };
+
+    //Looks for a character on all servers
+    $this.characterSearch = function(text) {
+      return _getCharacterCheatSheet().then(function($wholeData) {
+        return $wholeData.where(function($$character){
+          return $$character['characterName'].toLowerCase().indexOf(text.toLowerCase()) >= 0;
+        });
+      });
     };
 
 
-    function getLastDate() {
+    function _getLastDate() {
       return $this.storedDates[$this.storedDates.length - 1];
+    }
+
+    //Gets character cheatSheet
+    function _getCharacterCheatSheet() {
+
+      if(_cacheCharacterCheatSheet !== null) {
+        return $q.resolve(_cacheCharacterCheatSheet);
+      }
+
+      var _url = host + '/data/Servers/Characters/charactersSheet.json';
+      return $q.likeNormal($http.get(_url)).then(function($wholeData){
+        _cacheCharacterCheatSheet = $wholeData;
+        return $wholeData;
+      });
     }
 
   }
