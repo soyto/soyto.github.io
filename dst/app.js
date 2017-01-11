@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.3)
+ * Soyto.github.io (0.13.4)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -2184,9 +2184,30 @@
     //Looks for a character on all servers
     $this.characterSearch = function(text) {
       return _getCharacterCheatSheet().then(function($wholeData) {
-        return $wholeData.where(function($$character){
+
+        var _result = $wholeData.where(function($$character){
           return $$character['characterName'].toLowerCase().indexOf(text.toLowerCase()) >= 0;
         });
+
+        _result.sort(function(a, b){
+          var _idxA = a['characterName'].indexOf(text);
+          var _idxB = b['characterName'].indexOf(text);
+
+          if(_idxA === _idxB) {
+            var _aLength = a['characterName'].length;
+            var _bLength = b['characterName'].length;
+
+            if(_aLength == _bLength) {
+              return a['characterName'].localeCompare(b['characterName']);
+            }
+
+            return _aLength - _bLength;
+          }
+
+          return _idxA - _idxB;
+        });
+
+        return _result;
       });
     };
 
