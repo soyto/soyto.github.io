@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.23)
+ * Soyto.github.io (0.13.24)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1979,7 +1979,7 @@
       {'server': 'Hellion', 'id': 382130, 'pic': '//i.imgur.com/udbsdPo.png'}, //Hellion: Maullido
       {'server': 'Hellion', 'id': 462866, 'pic': '//i.imgur.com/EgQ0P2u.jpg'}, //Hellion: Accelerator
       {'server': 'Hellion', 'id': 562739, 'pic': '//i.imgur.com/QMAc3zy.jpg'}, //Hellion: Ninfe
-      {'server': 'Hellion', 'id': 855041, 'pic': '//i.imgur.com/eHot00c.jpg'}, //Hellion: Dualis
+      {'server': 'Hellion', 'id': 855041, 'pic': '//i.imgur.com/oLETVUe.jpg'}, //Hellion: Dualis
     ];
 
     //Sets a character pic
