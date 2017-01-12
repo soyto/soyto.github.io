@@ -46,6 +46,7 @@
       {'server': 'Hellion', 'id': 562739, 'pic': '//i.imgur.com/QMAc3zy.jpg'}, //Hellion: Ninfe
       {'server': 'Hellion', 'id': 855041, 'pic': '//i.imgur.com/oLETVUe.jpg'}, //Hellion: Dualis
       {'server': 'Hellion', 'id': 381312, 'pic': '//media.giphy.com/media/26DOptSPTPAK54ac0/source.gif'}, //Hellion: Bwedding
+      {'server': 'Hellion', 'id': 330162, 'pic': '//media.giphy.com/media/Mc97leUdXhwRy/giphy.gif'}, //Hellion: Raszagal
     ];
 
     //Sets a character pic
