@@ -179,7 +179,7 @@
     $this.characterSearch = function(text) {
 
       //Google analytics event track
-      $window.ga('send', 'event', 'search', text);
+      $window.ga('send', 'event', 'searchAction', 'search', text);
 
       var _$$textToSearch = text.trim().toLowerCase();
 
