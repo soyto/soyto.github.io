@@ -1998,7 +1998,7 @@
       {'server': 'Hellion', 'id': 462866, 'pic': '//i.imgur.com/EgQ0P2u.jpg'}, //Hellion: Accelerator
       {'server': 'Hellion', 'id': 562739, 'pic': '//i.imgur.com/QMAc3zy.jpg'}, //Hellion: Ninfe
       {'server': 'Hellion', 'id': 855041, 'pic': '//i.imgur.com/oLETVUe.jpg'}, //Hellion: Dualis
-      {'server': 'Hellion', 'id': 381312, 'pic': '//im2.ezgif.com/tmp/ezgif.com-404bc95d59.gif'}, //Hellion: Bwedding
+      {'server': 'Hellion', 'id': 381312, 'pic': '//media.giphy.com/media/26DOptSPTPAK54ac0/source.gif'}, //Hellion: Bwedding
     ];
 
     //Sets a character pic
