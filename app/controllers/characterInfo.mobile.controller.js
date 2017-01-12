@@ -33,6 +33,9 @@
         $scope['searchTerm'] = text;
         $scope['searchLoading'] = true;
 
+        //Google analytics event track
+        $window.ga('send', 'event', 'search_event_category', 'mobile_characterInfo_button_search_action', text);
+
         return storedDataService.characterSearch(text).then(function($data){
           $scope['searchResults'] = $data;
           $scope['searchLoading'] = false;
@@ -43,6 +46,9 @@
 
           $scope['searchTerm'] = text;
           $scope['searchLoading'] = true;
+
+          //Google analytics event track
+          $window.ga('send', 'event', 'search_event_category', 'mobile_characterInfo_onChange_search_action', text);
 
           return storedDataService.characterSearch(text).then(function ($data) {
             $scope['searchResults'] = $data;

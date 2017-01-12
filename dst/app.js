@@ -164,6 +164,9 @@
         $scope['searchTerm'] = text;
         $scope['searchLoading'] = true;
 
+        //Google analytics event track
+        $window.ga('send', 'event', 'search_event_category', 'characterInfo_button_search_action', text);
+
         return storedDataService.characterSearch(text).then(function($data){
           $scope['searchResults'] = $data;
           $scope['searchLoading'] = false;
@@ -174,6 +177,9 @@
 
           $scope['searchTerm'] = text;
           $scope['searchLoading'] = true;
+
+          //Google analytics event track
+          $window.ga('send', 'event', 'search_event_category', 'characterInfo_onChange_search_action', text);
 
           return storedDataService.characterSearch(text).then(function ($data) {
             $scope['searchResults'] = $data;
@@ -388,6 +394,9 @@
         $scope['searchTerm'] = text;
         $scope['searchLoading'] = true;
 
+        //Google analytics event track
+        $window.ga('send', 'event', 'search_event_category', 'mobile_characterInfo_button_search_action', text);
+
         return storedDataService.characterSearch(text).then(function($data){
           $scope['searchResults'] = $data;
           $scope['searchLoading'] = false;
@@ -398,6 +407,9 @@
 
           $scope['searchTerm'] = text;
           $scope['searchLoading'] = true;
+
+          //Google analytics event track
+          $window.ga('send', 'event', 'search_event_category', 'mobile_characterInfo_onChange_search_action', text);
 
           return storedDataService.characterSearch(text).then(function ($data) {
             $scope['searchResults'] = $data;
@@ -567,6 +579,7 @@
     var $log = $hs.$instantiate('$log');
     var $marked = $hs.$instantiate('$marked');
     var storedDataService = $hs.$instantiate('storedDataService');
+    var $window = $hs.$instantiate('$window');
 
     $sc._name = CONTROLLER_NAME;
 
@@ -596,6 +609,9 @@
 
         $sc['searchTerm'] = text;
         $sc['searchLoading'] = true;
+
+        //Google analytics event track
+        $window.ga('send', 'event', 'search_event_category', 'index_search_action', text);
 
         return storedDataService.characterSearch(text).then(function($data){
           $sc['searchResults'] = $data;
@@ -2285,9 +2301,6 @@
 
     //Looks for a character on all servers
     $this.characterSearch = function(text) {
-
-      //Google analytics event track
-      $window.ga('send', 'event', 'search_event_category', 'main_search_action', text);
 
       var _$$textToSearch = text.trim().toLowerCase();
 

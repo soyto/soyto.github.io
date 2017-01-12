@@ -178,9 +178,6 @@
     //Looks for a character on all servers
     $this.characterSearch = function(text) {
 
-      //Google analytics event track
-      $window.ga('send', 'event', 'search_event_category', 'main_search_action', text);
-
       var _$$textToSearch = text.trim().toLowerCase();
 
       return _getCharacterCheatSheet().then(function($wholeData) {

@@ -12,6 +12,7 @@
     var $log = $hs.$instantiate('$log');
     var $marked = $hs.$instantiate('$marked');
     var storedDataService = $hs.$instantiate('storedDataService');
+    var $window = $hs.$instantiate('$window');
 
     $sc._name = CONTROLLER_NAME;
 
@@ -41,6 +42,9 @@
 
         $sc['searchTerm'] = text;
         $sc['searchLoading'] = true;
+
+        //Google analytics event track
+        $window.ga('send', 'event', 'search_event_category', 'index_search_action', text);
 
         return storedDataService.characterSearch(text).then(function($data){
           $sc['searchResults'] = $data;
