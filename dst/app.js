@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.25)
+ * Soyto.github.io (0.13.26)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -2285,6 +2285,14 @@
 
     //Looks for a character on all servers
     $this.characterSearch = function(text) {
+
+      //Google analytics event track
+      $window.ga('send',{
+        'hitType': 'event',
+        'eventCategory': 'searchActions',
+        'eventLabel': 'search',
+        'eventValue': text
+      });
 
       var _$$textToSearch = text.trim().toLowerCase();
 
