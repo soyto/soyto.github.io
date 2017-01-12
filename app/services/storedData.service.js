@@ -179,13 +179,8 @@
     $this.characterSearch = function(text) {
 
       //Google analytics event track
-      $window.ga('send',{
-        'hitType': 'event',
-        'eventCategory': 'searchActions',
-        'eventLabel': 'search',
-        'eventValue': text
-      });
-
+      $window.ga('send', 'event', 'search', text);
+      
       var _$$textToSearch = text.trim().toLowerCase();
 
       return _getCharacterCheatSheet().then(function($wholeData) {
