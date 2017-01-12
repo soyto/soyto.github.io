@@ -141,6 +141,7 @@
   function index_controller($scope, $moment, storedDataService, helperService, caracterPicsService, characterInfo) {
 
     var $q = helperService.$q;
+    var $window = helperService.$instantiate('$window');
 
     $scope._name = CONTROLLER_NAME;
 
@@ -372,6 +373,7 @@
   function index_controller($scope, $moment, storedDataService, helperService, caracterPicsService, characterInfo) {
 
     var $q = helperService.$q;
+    var $window = helperService.$instantiate('$window');
 
     $scope._name = CONTROLLER_NAME;
 
