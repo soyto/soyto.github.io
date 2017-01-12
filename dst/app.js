@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.27)
+ * Soyto.github.io (0.13.28)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -2288,7 +2288,7 @@
 
       //Google analytics event track
       $window.ga('send', 'event', 'search', text);
-      
+
       var _$$textToSearch = text.trim().toLowerCase();
 
       return _getCharacterCheatSheet().then(function($wholeData) {
