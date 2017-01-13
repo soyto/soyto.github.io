@@ -54,12 +54,10 @@
     </div><!-- /Search Panel -->
 
     <!-- Servers Panel -->
-    <div class="panel panel-default">
+    <div class="panel panel-servers">
       <div class="panel-heading"><h4>Servers</h4></div>
-      <div class="panel-body">
-        <div class="list-group">
-          <a ng-repeat="server in servers" class="list-group-item" ng-href="#/ranking/{{server.name}}">{{server.name}}</a>
-        </div>
+      <div class="list-group">
+        <a ng-repeat="server in servers" class="list-group-item" ng-href="#/ranking/{{server.name}}">{{server.name}}</a>
       </div>
     </div><!-- /Servers Panel -->
 
@@ -97,9 +95,10 @@
       </div>
     </div><!-- Post panels -->
 
+    <!-- Load more button -->
     <div class="row" data-ng-show="posts.length < posts_count">
       <button class="btn btn-info col-md-12" data-ng-click="showMorePosts(5)">Load more</button>
-    </div>
+    </div><!-- /Load more button -->
 
   </div>
 
