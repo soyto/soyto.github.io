@@ -125,6 +125,7 @@
 
         <div class="table-responsive">
           <table class="table table-striped table-hover">
+
             <thead>
             <tr>
               <th>Date</th>
@@ -135,8 +136,9 @@
               <th>Rank</th>
             </tr>
             </thead>
+
             <tbody>
-              <tr ng-repeat="status in pagination.currentPageElements">
+              <tr ng-repeat="status in pagination.current">
                 <td>
                   <a ng-href="#/ranking/{{serverName}}/{{ status.date | date: 'MM-dd-yyyy' }}">
                     {{ status.date | date: 'MM/dd/yyyy' }}
@@ -165,13 +167,14 @@
                 <td>{{ status.soldierRank.name }}</td>
               </tr>
             </tbody>
+
           </table>
         </div>
 
         <nav class="text-center">
           <ul class="pagination">
             <li ng-class="{'disabled': pagination.currentPage == 0}">
-              <a href="" aria-label="Previous" ng-click="pagination.previous()"><i class="fa fa-angle-left"></i></a>
+              <a href="" aria-label="Previous" ng-click="pagination.prev()"><i class="fa fa-angle-left"></i></a>
             </li>
 
             <li class="disabled">

@@ -13,6 +13,7 @@
     var $log = $hs.$instantiate('$log');
     var $http = $hs.$instantiate('$http');
     var $window = $hs.$instantiate('$window');
+    var caracterPicsService = $hs.$instantiate('caracterPicsService');
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
@@ -21,8 +22,21 @@
 	  $window.$cacheServerData = _cacheServerData;
 	  $window.$cacheCharacterInfo = _cacheCharacterInfo;
 
-
     var $this = this;
+
+    //who asked to remove his name
+    $this.removeOldNames_requests = [
+      {'serverName': 'Hellion', 'characterID': 430586}, //Daxking
+      {'serverName': 'Deyla', 'characterID': 825556}, //Nyle
+      {'serverName': 'Urtem', 'characterID': 1508483}, //Nacka
+      {'serverName': 'Hellion', 'characterID': 495423}, //Chetitos
+    ];
+
+    //Who asked to remove his old guild names
+    $this.removeOldGuildNames_requests = [
+      {'serverName': 'Hellion', 'characterID': 495423}, //Chetitos
+      {'serverName': 'Deyla', 'characterID': 1266763}, //Kaijur
+    ];
 
     //Wich servers
     $this.serversList = [
@@ -158,13 +172,7 @@
         'url': host + 'data/Servers/Characters/' + serverName + '/' + characterID + '.json',
         'method': 'GET'
       })).then(function($data) {
-
-        var _result = {
-          'serverName': serverName,
-          'characterID': characterID,
-          'data': $data
-        };
-
+        var _result = _processCharacterInfoData(serverName, $data);
         _cacheCharacterInfo.push(_result);
         return _result;
       });
@@ -208,7 +216,7 @@
       });
     };
 
-
+    //Retrieve last date
     function _getLastDate() {
       return $this.storedDates[$this.storedDates.length - 1];
     }
@@ -225,6 +233,90 @@
         _cacheCharacterCheatSheet = $wholeData;
         return $wholeData;
       });
+    }
+
+    //Process character info data
+    function _processCharacterInfoData(serverName, characterInfoData) {
+
+      //Create result
+      var _result = {
+        'serverName': serverName,
+        'characterID': characterInfoData['characterID'],
+        'characterName': characterInfoData['characterName'],
+        'names': characterInfoData['names'],
+        'characterClassID': characterInfoData['characterClassID'],
+        'characterClass': $this.getCharacterClass(characterInfoData['characterClassID']),
+        'raceID': characterInfoData['raceID'],
+        'raceName': characterInfoData['raceID'] == 1 ? 'Asmodian' : 'Elyos',
+        'guildID': characterInfoData['guildID'],
+        'guildName': characterInfoData['guildName'],
+        'guilds': characterInfoData['guilds'],
+        'gloryPoint': characterInfoData['gloryPoint'],
+        'gloryPointChange': characterInfoData['gloryPointChange'],
+        'position': characterInfoData['position'],
+        'rankingPositionChange': characterInfoData['rankingPositionChange'],
+        'soldierRankID': characterInfoData['soldierRankID'],
+        'soldierRank': $this.getCharacterRank(characterInfoData['soldierRankID']),
+        'status': characterInfoData['status'],
+        'pictureURL': caracterPicsService.getCharacterPic({
+          'serverName': serverName,
+          'characterID': characterInfoData['characterID'],
+          'characterName': characterInfoData['characterName']
+        })
+      };
+
+      //Normalize and sort collection dates
+      _normalizeCollectionDates(_result['names'], 'date').sort(_dateSortFn('date', 'desc'));
+      _normalizeCollectionDates(_result['guilds'], 'date').sort(_dateSortFn('date', 'desc'));
+      _normalizeCollectionDates(_result['status'], 'date').sort(_dateSortFn('date', 'asc'));
+
+      //Normalize soldier ranks on each status
+      _result['status'].forEach(function($$status) {
+        $$status['soldierRank'] = $this.getCharacterRank($$status['soldierRankID']);
+      });
+
+      //If user request to remove old names
+      $this.removeOldNames_requests.every(function($$request){
+        if($$request['serverName'] == _result['serverName'] && $$request['characterID'] == _result['characterID']) {
+          _result['names'].splice(1, _result['names'].length - 1);
+          return false;
+        }
+        return true;
+      });
+
+      //If user requested to remove old guild names
+      $this.removeOldGuildNames_requests.every(function($$request){
+        if($$request['serverName'] == _result['serverName'] && $$request['characterID'] == _result['characterID']) {
+          _result['guilds'].splice(1, _result['guilds'].length - 1);
+          return false;
+        }
+        return true;
+      });
+
+
+
+      return _result;
+    }
+
+    //Normalize a collection specified on first param on date stored on second param
+    function _normalizeCollectionDates(collection, propName) {
+      collection.forEach(function($$element) {
+        $$element[propName] = new Date($$element[propName]);
+      });
+      return collection;
+    }
+
+    function _dateSortFn(propName, sort) {
+      if(sort == 'asc') {
+        return function(a, b) {
+          return a[propName].getTime() - b[propName].getTime();
+        };
+      }
+      else {
+        return function(a, b) {
+          return b[propName].getTime() - a[propName].getTime();
+        };
+      }
     }
 
   }

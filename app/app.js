@@ -91,7 +91,7 @@
     };
     var characterInfoMobileRouteData = {
       'templateUrl': '/app/templates/characterInfo.mobile.html',
-      'controller': 'mainApp.characterInfo.mobile.controller',
+      'controller': 'mainApp.characterInfo.controller',
       resolve: {
         'characterInfo': ['$hs', '$route', function($hs, $route){
           return $hs.$instantiate('storedDataService').getCharacterInfo(

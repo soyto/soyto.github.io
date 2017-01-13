@@ -4,211 +4,151 @@
   var CONTROLLER_NAME = 'mainApp.characterInfo.controller';
 
   ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$scope', '$moment', 'storedDataService', 'helperService', 'caracterPicsService', 'characterInfo', index_controller
+    '$scope', '$hs', 'characterInfo', index_controller
   ]);
 
 
-  function index_controller($scope, $moment, storedDataService, helperService, caracterPicsService, characterInfo) {
+  function index_controller($sc, $hs, characterInfo) {
 
-    var $q = helperService.$q;
-    var $window = helperService.$instantiate('$window');
+    var $q = $hs.$q;
+    var $log = $hs.$instantiate('$log');
+    var $moment = $hs.$instantiate('$moment');
+    var storedDataService = $hs.$instantiate('storedDataService');
+    var $window = $hs.$instantiate('$window');
 
-    $scope._name = CONTROLLER_NAME;
-
-
-    //Call to init Fn
     _init();
 
+    /*--------------------------------------------  SCOPE FUNCTIONS  -------------------------------------------------*/
+
     //When search text changes...
-    $scope.onChange_searchText = function(text){
+    $sc.onChange_searchText = function(text){
 
       //Text empty or less than 3 characters, clear search results
       if(text.trim().length < 3) {
-        $scope['searchResults'] = null;
+        $sc['searchResults'] = null;
         $q.cancelTimeTrigger('mainApp.index.controller.search');
         return;
       }
 
       $q.timeTrigger('mainApp.index.controller.search', function () {
 
-        $scope['searchTerm'] = text;
-        $scope['searchLoading'] = true;
+        $sc['searchTerm'] = text;
+        $sc['searchLoading'] = true;
 
         //Google analytics event track
         $window.ga('send', 'event', 'search_event_category', 'characterInfo_onChange_search_action', text);
 
         return storedDataService.characterSearch(text).then(function ($data) {
-          $scope['searchResults'] = $data;
-          $scope['searchLoading'] = false;
+          $sc['searchResults'] = $data;
+          $sc['searchLoading'] = false;
         });
       }, 500);
     };
 
+    /*--------------------------------------------  PRIVATE FUNCTIONS  -----------------------------------------------*/
 
+    //Init function
     function _init() {
+      $sc['_name'] = CONTROLLER_NAME;
 
       //Set page title
-      helperService.$scope.setTitle([
-        characterInfo.serverName,
+      $hs.$scope.setTitle([
+        characterInfo['serverName'],
         '->',
-        characterInfo.data.characterName
+        characterInfo['characterName']
       ].join(' '));
 
       //Set up character and server names and stats
-      $scope.serverName = characterInfo.serverName;
-      $scope.character = characterInfo.data;
-
-      $scope.character.pictureURL = caracterPicsService.getCharacterPic(characterInfo);
-
-      $scope.character.raceName = $scope.character.raceID == 1 ? 'Asmodian' : 'Elyos';
-      $scope.character.characterClass = storedDataService.getCharacterClass(characterInfo.data.characterClassID);
-      $scope.character.soldierRank = storedDataService.getCharacterRank(characterInfo.data.soldierRankID);
-
-      $scope.character.names = $scope.character.names.sort(_dateSortFn);
-      $scope.character.status = $scope.character.status.sort(_dateSortFn);
-      $scope.character.guilds = $scope.character.guilds.sort(_dateSortFn);
-
-      //TODO Requested by Daxking, he doesnt' want to they old name be shown
-      if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 430586) {
-        $scope.character.names.splice(1, 1);
-      }
-
-      //TODO Requested by Nyle, he doesnt' want to they old name be shown
-      if(characterInfo.serverName == 'Deyla' && characterInfo.characterID == 825556) {
-        $scope.character.names.splice(1, 1);
-      }
-
-      //TODO Requested by Nacka, he doesn't want to they old name be shown
-      if(characterInfo.serverName == 'Urtem' && characterInfo.characterID == 1508483) {
-        $scope.character.names.splice(1, 1);
-      }
-
-      //TODO Requested by Chetitos, doesnt want to show old names
-      if(characterInfo.serverName == 'Hellion' && characterInfo.characterID == 495423) {
-        $scope.character.names.splice(1, $scope.character.names.length - 1);
-        $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
-      }
-
-      //TODO Requested by Deyla-Kaijur doesnt want to shown old guild names
-      if(characterInfo.serverName == 'Deyla' && characterInfo.characterID == 1266763) {
-        $scope.character.guilds.splice(1, $scope.character.guilds.length - 1);
-      }
-
-
-      $scope.character.status.forEach(function(status){
-        status.soldierRank = storedDataService.getCharacterRank(status.soldierRankID);
-      });
+      $sc['serverName'] = characterInfo['serverName'];
+      $sc['character'] = characterInfo;
 
       //Set up chart
-      //TOD for performance the best is have only 30 points
-      //ATm we are only retrieving 30 last days, will eb great a system that ponderates days
-      $scope.chart = {};
+      $sc['chart'] = _setUpChart(characterInfo);
 
-      $scope.chart.options = {
-        pointHitDetectionRadius : 4
-      };
-      $scope.chart.labels = [];
-      $scope.chart.series = [characterInfo.data.characterName];
-      $scope.chart.data = [[]];
-
-      ng.copy($scope.character.status)
-          .sort(function(a, b){ return a.date > b.date ? 1 : -1; })
-          .slice($scope.character.status.length - 30) //We only want last 30 days
-          .forEach(function(status){
-            $scope.chart.labels.push($moment(status.date).format('MM-DD-YYYY'));
-            $scope.chart.data[0].push(status.gloryPoint);
-          });
-
-
-      //Data pagination
-      $scope.pagination = {
-        currentPage: 0,
-        numElementsPerPage: 10,
-        numPages: -1,
-        numElements: -1,
-        pageNumbers: [],
-        fullCollection: [],
-        currentPageElements: [],
-        next: _paginationObject_next,
-        previous: _paginationObject_previous,
-        goTo: _paginationObject_goTo
-      };
+      //Set up pagination
+      $sc['pagination'] = _setUpPagination(characterInfo['status'], 10);
 
       //Search...
-      $scope['searchText'] = '';
-      $scope['searchTerm'] = '';
-      $scope['searchResults'] = null;
-      $scope['searchLoading'] = false;
-
-      _initPagination($scope.character.status, $scope.pagination);
+      $sc['searchText'] = '';
+      $sc['searchTerm'] = '';
+      $sc['searchResults'] = null;
+      $sc['searchLoading'] = false;
     }
 
-    function _dateSortFn(a, b) { return a.date > b.date ? -1 : 1; }
+    //Sets up the chart
+    function _setUpChart(characterInfo) {
 
-    //Initializes pagination
-    function _initPagination(originalElements, paginationObj) {
+      var _chart = {
+        'options': { 'pointHitDetectionRadius' : 4 },
+        'labels': [],
+        'series': [characterInfo['characterName']],
+        'data': [[]]
+      };
 
-      paginationObj.currentPage = 0;
-      paginationObj.numPages = parseInt(originalElements.length / paginationObj.numElementsPerPage);
-      paginationObj.numElements = originalElements.length;
-      paginationObj.fullCollection = originalElements;
+      //Retrieve last 30 days and push to chart data
+      characterInfo['status'].slice(characterInfo['status'].length - 30).forEach(function($$status){
+        _chart['labels'].push($moment($$status['date']).format('MM-DD-YYYY'));
+        _chart['data'][0].push($$status['gloryPoint']);
+      });
 
-      if(originalElements.length % paginationObj.numElementsPerPage > 0) {
-        paginationObj.numPages += 1;
-      }
-
-      if(paginationObj.numPages === 0){
-        paginationObj.numPages = 1;
-      }
-
-      paginationObj.currentPageElements = paginationObj.fullCollection.slice(0, paginationObj.numElementsPerPage);
-
-      //Wich are the pageNumbers that we hold
-      paginationObj.pageNumbers = Array.apply(null, {length: paginationObj.numPages}).map(function(current, idx){ return idx + 1; }, Number);
+      return _chart;
     }
 
-    //Fn for pagination Objects that will go to next page
-    function _paginationObject_next() {
-      var $this = this;
+    //Sets up pagination
+    function _setUpPagination(collection, elementsPerPage) {
 
-      //If we are on last page
-      if($this.currentPage + 1 >= $this.numPages) {
-        return; //Dont do nothin
+      var _result = {
+        'currentPage': 0,
+        'elementsPerPage': elementsPerPage,
+        'numPages': parseInt(collection.length / elementsPerPage),
+        'collection': collection,
+        'current': collection.slice(0, elementsPerPage),
+        'pages': [],
+        'goTo': function(pageNum) {
+          var $$this = this;
+
+          //Outside bounds, dont do nothing
+          if(pageNum < 0 || pageNum >= this['numPages'].length) {
+            return;
+          }
+
+          //Set page num
+          this['currentPage'] = pageNum;
+
+          //Clean elements
+          this['current'].splice(0, this['current'].length);
+
+          //Calculate start and end index
+          var _startIdx = this['currentPage'] * this['elementsPerPage'];
+          var _endIdx = _startIdx + this['elementsPerPage'];
+
+          //Append elements
+          this['collection'].slice(_startIdx, _endIdx).forEach(function($$element){
+            $$this['current'].push($$element);
+          });
+
+        },
+        'next': function(){
+          //If we are on last
+          if(this['currentPage'] + 1 >= this['numPages']) { return; }
+          this.goTo(this['currentPage'] + 1);
+        },
+        'prev': function() {
+          //If we are on first
+          if(this['currentPage'] === 0) { return; }
+          this.goTo(this['currentPage'] - 1);
+        }
+      };
+
+      if(collection.length % elementsPerPage > 0) { _result['numPages']++; }
+      if(_result['numPages'] === 0){ _result['numPages'] = 1; }
+
+      for(var i = 0; i < _result['numPages']; i++) {
+        _result['pages'].push(i);
       }
 
-      $this.currentPage += 1;
-
-      var idx = $this.currentPage * $this.numElementsPerPage;
-
-      $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
+      return _result;
     }
-
-    //Fn for pagination objects that will go to previous page
-    function _paginationObject_previous() {
-      var $this = this;
-
-      if($this.currentPage === 0) {
-        return; //If we are on first page, dont do nothing
-      }
-
-      $this.currentPage -= 1;
-
-      var idx = $this.currentPage * $this.numElementsPerPage;
-      $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
-    }
-
-    //Go to an specific page
-    function _paginationObject_goTo(numPage) {
-      var $this = this;
-
-      if(numPage > 0 && numPage <= $this.numPages) {
-        $this.currentPage = numPage - 1;
-        var idx = $this.currentPage * $this.numElementsPerPage;
-        $this.currentPageElements = $this.fullCollection.slice(idx, $this.numElementsPerPage + idx);
-      }
-
-    }
-
   }
 
 })(angular);

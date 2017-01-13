@@ -61,7 +61,7 @@
         return _coincidence['pic'];
       }
       else {
-        return '//placehold.it/450X300/DD66DD/EE77EE/?text=' + $characterInfo['data']['characterName'];
+        return '//placehold.it/450X300/DD66DD/EE77EE/?text=' + $characterInfo['characterName'];
       }
 
     };

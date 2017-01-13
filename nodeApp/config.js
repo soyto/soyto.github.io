@@ -11,10 +11,7 @@ module.exports = {
     'app-files': [
       'app/app.js',
       'app/controllers/characterInfo.controller.js',
-      'app/controllers/characterInfo.mobile.controller.js',
       'app/controllers/index.controller.js',
-      'app/controllers/merge.list.controller.js',
-      'app/controllers/merge.list.mobile.controller.js',
       'app/controllers/ranking.list.controller.js',
       'app/controllers/ranking.list.mobile.controller.js',
       'app/controllers/root.controller.js',
