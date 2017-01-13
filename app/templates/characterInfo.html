@@ -32,10 +32,8 @@
         <!-- Search form -->
         <div class="form-group">
           <div class="input-group">
-            <input type="text" class="form-control" data-ng-model="searchText" data-ng-change="performGlobalSearch(searchText)">
-            <span class="input-group-btn">
-              <button class="btn btn-default" data-ng-click="performGlobalSearch(searchText, true)"><i class="fa fa-search"></i></button>
-            </span>
+            <input type="text" class="form-control" data-ng-model="searchText" data-ng-change="onChange_searchText(searchText)">
+            <span class="input-group-addon"><i class="fa fa-search"></i></span>
           </div>
         </div><!-- /Search form -->
 

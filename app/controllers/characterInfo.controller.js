@@ -20,7 +20,7 @@
     _init();
 
     //When search text changes...
-    $scope.performGlobalSearch = function(text, searchNow){
+    $scope.onChange_searchText = function(text){
 
       //Text empty or less than 3 characters, clear search results
       if(text.trim().length < 3) {
@@ -29,35 +29,19 @@
         return;
       }
 
-      if(searchNow) {
+      $q.timeTrigger('mainApp.index.controller.search', function () {
 
-        $q.cancelTimeTrigger('mainApp.index.controller.search');
         $scope['searchTerm'] = text;
         $scope['searchLoading'] = true;
 
         //Google analytics event track
-        $window.ga('send', 'event', 'search_event_category', 'characterInfo_button_search_action', text);
+        $window.ga('send', 'event', 'search_event_category', 'characterInfo_onChange_search_action', text);
 
-        return storedDataService.characterSearch(text).then(function($data){
+        return storedDataService.characterSearch(text).then(function ($data) {
           $scope['searchResults'] = $data;
           $scope['searchLoading'] = false;
         });
-      }
-      else {
-        $q.timeTrigger('mainApp.index.controller.search', function () {
-
-          $scope['searchTerm'] = text;
-          $scope['searchLoading'] = true;
-
-          //Google analytics event track
-          $window.ga('send', 'event', 'search_event_category', 'characterInfo_onChange_search_action', text);
-
-          return storedDataService.characterSearch(text).then(function ($data) {
-            $scope['searchResults'] = $data;
-            $scope['searchLoading'] = false;
-          });
-        }, 500);
-      }
+      }, 500);
     };
 
 

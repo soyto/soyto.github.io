@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.28)
+ * Soyto.github.io (0.13.29)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -150,7 +150,7 @@
     _init();
 
     //When search text changes...
-    $scope.performGlobalSearch = function(text, searchNow){
+    $scope.onChange_searchText = function(text){
 
       //Text empty or less than 3 characters, clear search results
       if(text.trim().length < 3) {
@@ -159,35 +159,19 @@
         return;
       }
 
-      if(searchNow) {
+      $q.timeTrigger('mainApp.index.controller.search', function () {
 
-        $q.cancelTimeTrigger('mainApp.index.controller.search');
         $scope['searchTerm'] = text;
         $scope['searchLoading'] = true;
 
         //Google analytics event track
-        $window.ga('send', 'event', 'search_event_category', 'characterInfo_button_search_action', text);
+        $window.ga('send', 'event', 'search_event_category', 'characterInfo_onChange_search_action', text);
 
-        return storedDataService.characterSearch(text).then(function($data){
+        return storedDataService.characterSearch(text).then(function ($data) {
           $scope['searchResults'] = $data;
           $scope['searchLoading'] = false;
         });
-      }
-      else {
-        $q.timeTrigger('mainApp.index.controller.search', function () {
-
-          $scope['searchTerm'] = text;
-          $scope['searchLoading'] = true;
-
-          //Google analytics event track
-          $window.ga('send', 'event', 'search_event_category', 'characterInfo_onChange_search_action', text);
-
-          return storedDataService.characterSearch(text).then(function ($data) {
-            $scope['searchResults'] = $data;
-            $scope['searchLoading'] = false;
-          });
-        }, 500);
-      }
+      }, 500);
     };
 
 
@@ -381,7 +365,7 @@
     _init();
 
     //When search text changes...
-    $scope.performGlobalSearch = function(text, searchNow){
+    $scope.onChange_searchText = function(text){
 
       //Text empty or less than 3 characters, clear search results
       if(text.trim().length < 3) {
@@ -390,35 +374,19 @@
         return;
       }
 
-      if(searchNow) {
+      $q.timeTrigger('mainApp.index.controller.search', function () {
 
-        $q.cancelTimeTrigger('mainApp.index.controller.search');
         $scope['searchTerm'] = text;
         $scope['searchLoading'] = true;
 
         //Google analytics event track
-        $window.ga('send', 'event', 'search_event_category', 'mobile_characterInfo_button_search_action', text);
+        $window.ga('send', 'event', 'search_event_category', 'mobile_characterInfo_onChange_search_action', text);
 
-        return storedDataService.characterSearch(text).then(function($data){
+        return storedDataService.characterSearch(text).then(function ($data) {
           $scope['searchResults'] = $data;
           $scope['searchLoading'] = false;
         });
-      }
-      else {
-        $q.timeTrigger('mainApp.index.controller.search', function () {
-
-          $scope['searchTerm'] = text;
-          $scope['searchLoading'] = true;
-
-          //Google analytics event track
-          $window.ga('send', 'event', 'search_event_category', 'mobile_characterInfo_onChange_search_action', text);
-
-          return storedDataService.characterSearch(text).then(function ($data) {
-            $scope['searchResults'] = $data;
-            $scope['searchLoading'] = false;
-          });
-        }, 500);
-      }
+      }, 500);
     };
 
 
@@ -583,19 +551,9 @@
     var storedDataService = $hs.$instantiate('storedDataService');
     var $window = $hs.$instantiate('$window');
 
-    $sc._name = CONTROLLER_NAME;
+    _init();
 
-    $sc.servers = storedDataService.serversList;
-    $sc.lastServerUpdateData = storedDataService.getLastServerData();
-    $sc.posts = posts.select(function(post){
-      post.htmlContent = $marked(post.content);
-      return post;
-    });
-
-    $sc['searchText'] = '';
-    $sc['searchTerm'] = '';
-    $sc['searchResults'] = null;
-    $sc['searchLoading'] = false;
+    /*--------------------------------------------  SCOPE FUNCTIONS  -------------------------------------------------*/
 
     //When search text changes...
     $sc.onChange_searchText = function(text){
@@ -623,15 +581,28 @@
 
     };
 
-    //When user press clear on search text
-    $sc.clear_searchText = function() {
-      $sc['searchText'] = '';
-      $sc['searchResults'] = null;
-      $q.cancelTimeTrigger('mainApp.index.controller.search');
-    };
+    /*--------------------------------------------  PRIVATE FUNCTIONS  -----------------------------------------------*/
 
-    $hs.$scope.setTitle('Soyto.github.io');
-    $hs.$scope.setNav('home');
+    //Init Fn
+    function _init() {
+      $sc['_name'] = CONTROLLER_NAME;
+
+      $sc['servers'] = storedDataService.serversList;
+      $sc['lastServerUpdateData'] = storedDataService.getLastServerData();
+      $sc['posts'] = posts.select(function($post){
+        $post['htmlContent'] = $marked($post['content']);
+        return $post;
+      });
+
+      $sc['searchText'] = '';
+      $sc['searchTerm'] = '';
+      $sc['searchResults'] = null;
+      $sc['searchLoading'] = false;
+
+      $hs.$scope.setTitle('Soyto.github.io');
+      $hs.$scope.setNav('home');
+    }
+
   }
 })(angular);
 
