@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.29)
+ * Soyto.github.io (0.13.30)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -543,13 +543,15 @@
   ng.module('mainApp').controller(CONTROLLER_NAME, ['$scope', '$hs', 'posts', _fn]);
 
 
-  function _fn($sc, $hs, posts) {
+  function _fn($sc, $hs, $posts) {
 
     var $q = $hs.$q;
     var $log = $hs.$instantiate('$log');
     var $marked = $hs.$instantiate('$marked');
     var storedDataService = $hs.$instantiate('storedDataService');
     var $window = $hs.$instantiate('$window');
+
+    var _wholePosts = null;
 
     _init();
 
@@ -581,6 +583,12 @@
 
     };
 
+    //Shows more posts
+    $sc.showMorePosts = function(qty) {
+      var _startingIdx = $sc['posts'].length;
+      $sc['posts'] = $sc['posts'].concat(_wholePosts.slice(_startingIdx, _startingIdx + qty));
+    };
+
     /*--------------------------------------------  PRIVATE FUNCTIONS  -----------------------------------------------*/
 
     //Init Fn
@@ -589,10 +597,14 @@
 
       $sc['servers'] = storedDataService.serversList;
       $sc['lastServerUpdateData'] = storedDataService.getLastServerData();
-      $sc['posts'] = posts.select(function($post){
-        $post['htmlContent'] = $marked($post['content']);
-        return $post;
+
+      _wholePosts = $posts;
+      _wholePosts.forEach(function($$post){
+        $$post['htmlContent'] = $marked($$post['content']);
       });
+
+      $sc['posts'] = _wholePosts.slice(0, 1);
+      $sc['posts_count'] = _wholePosts.length;
 
       $sc['searchText'] = '';
       $sc['searchTerm'] = '';

@@ -6,9 +6,10 @@
 
   <div class="col-md-6 col-sm-6">
 
+    <!-- Last update well -->
     <div class="well">
       <h4>Last update: <b>{{ lastServerUpdateData }}</b></h4>
-    </div><!-- /.well -->
+    </div><!-- /Last update well -->
 
     <!-- Search Panel -->
     <div class="panel panel-default">
@@ -52,6 +53,7 @@
       </div>
     </div><!-- /Search Panel -->
 
+    <!-- Servers Panel -->
     <div class="panel panel-default">
       <div class="panel-heading"><h4>Servers</h4></div>
       <div class="panel-body">
@@ -59,12 +61,13 @@
           <a ng-repeat="server in servers" class="list-group-item" ng-href="#/ranking/{{server.name}}">{{server.name}}</a>
         </div>
       </div>
-    </div><!-- /.panel -->
+    </div><!-- /Servers Panel -->
 
   </div>
 
   <div class="col-md-6 col-sm-6">
 
+    <!-- Donate Well -->
     <div class="well">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -73,15 +76,17 @@
         <h3 class="text-center">Help developer to buy some beers</h3>
         <p class="text-center">Press on <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" /></p>
       </form>
-    </div>
+    </div><!-- /Donate Well -->
 
+    <!-- Change pic panel -->
     <div class="panel panel-default">
       <div class="panel-heading"><h3 class="text-center">Want a different pic for your character profile?</h3></div>
       <div class="panel-body">
         <p>Just send us a PM on our <a href="https://www.facebook.com/soyto.github.io/" target="_blank">facebook page</a> with your character link and the desired pic and we will change your pic asap</p>
       </div>
-    </div>
+    </div><!-- /Change pic panel -->
 
+    <!-- Post panels -->
     <div class="panel panel-default" ng-repeat="post in posts">
       <div class="panel-heading">
         <h3 class="text-center">{{post.title}}</h3>
@@ -90,7 +95,11 @@
         <div class="post-date"><small class="pull-right">{{post.date | date: 'MM-dd-yyyy HH:mm'}}</small></div>
         <div ng-bind-html="post.htmlContent"></div>
       </div>
-    </div><!-- /.panel -->
+    </div><!-- Post panels -->
+
+    <div class="row" data-ng-show="posts.length < posts_count">
+      <button class="btn btn-info col-md-12" data-ng-click="showMorePosts(5)">Load more</button>
+    </div>
 
   </div>
 
