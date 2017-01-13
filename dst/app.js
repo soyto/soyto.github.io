@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.36)
+ * Soyto.github.io (0.13.37)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -215,8 +215,14 @@
         'data': [[]]
       };
 
-      //Retrieve last 30 days and push to chart data
-      characterInfo['status'].slice(characterInfo['status'].length - 30).forEach(function($$status){
+      //Retrieve last 30 days for chart data
+      var _chartData = characterInfo['status'].slice(0, 30);
+
+      _chartData.sort(function(a, b){
+        return a['date'].getTime() - b['date'].getTime();
+      });
+
+      _chartData.forEach(function($$status){
         _chart['labels'].push($moment($$status['date']).format('MM-DD-YYYY'));
         _chart['data'][0].push($$status['gloryPoint']);
       });
@@ -1457,7 +1463,7 @@
       //Normalize and sort collection dates
       _normalizeCollectionDates(_result['names'], 'date').sort(_dateSortFn('date', 'desc'));
       _normalizeCollectionDates(_result['guilds'], 'date').sort(_dateSortFn('date', 'desc'));
-      _normalizeCollectionDates(_result['status'], 'date').sort(_dateSortFn('date', 'asc'));
+      _normalizeCollectionDates(_result['status'], 'date').sort(_dateSortFn('date', 'desc'));
 
       //Normalize soldier ranks on each status
       _result['status'].forEach(function($$status) {
@@ -1481,8 +1487,6 @@
         }
         return true;
       });
-
-
 
       return _result;
     }

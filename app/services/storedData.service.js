@@ -268,7 +268,7 @@
       //Normalize and sort collection dates
       _normalizeCollectionDates(_result['names'], 'date').sort(_dateSortFn('date', 'desc'));
       _normalizeCollectionDates(_result['guilds'], 'date').sort(_dateSortFn('date', 'desc'));
-      _normalizeCollectionDates(_result['status'], 'date').sort(_dateSortFn('date', 'asc'));
+      _normalizeCollectionDates(_result['status'], 'date').sort(_dateSortFn('date', 'desc'));
 
       //Normalize soldier ranks on each status
       _result['status'].forEach(function($$status) {
@@ -292,8 +292,6 @@
         }
         return true;
       });
-
-
 
       return _result;
     }

@@ -85,8 +85,14 @@
         'data': [[]]
       };
 
-      //Retrieve last 30 days and push to chart data
-      characterInfo['status'].slice(characterInfo['status'].length - 30).forEach(function($$status){
+      //Retrieve last 30 days for chart data
+      var _chartData = characterInfo['status'].slice(0, 30);
+
+      _chartData.sort(function(a, b){
+        return a['date'].getTime() - b['date'].getTime();
+      });
+
+      _chartData.forEach(function($$status){
         _chart['labels'].push($moment($$status['date']).format('MM-DD-YYYY'));
         _chart['data'][0].push($$status['gloryPoint']);
       });
