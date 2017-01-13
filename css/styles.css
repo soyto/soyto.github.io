@@ -106,10 +106,7 @@ textarea { resize: none; outline: 0; }
 
 /* Panel servers
  * ------------------------------------------------------------------------------------------------------------------ */
-.panel-servers {
-
-}
-.panel-servers>.panel-heading {
+.panel-servers .panel-heading {
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
@@ -118,6 +115,9 @@ textarea { resize: none; outline: 0; }
   margin-bottom: 0;
   padding-left: 15px;
   padding-right: 15px;
+}
+.panel-servers .list-group{
+  margin-top: -1px;
 }
 
 /* Template layout
