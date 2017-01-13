@@ -55,7 +55,7 @@
             $scope['searchResults'] = $data;
             $scope['searchLoading'] = false;
           });
-        }, 2000);
+        }, 500);
       }
     };
 

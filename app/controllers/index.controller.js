@@ -50,7 +50,7 @@
           $sc['searchResults'] = $data;
           $sc['searchLoading'] = false;
         });
-      }, 2000);
+      }, 500);
 
     };
 

@@ -186,7 +186,7 @@
             $scope['searchResults'] = $data;
             $scope['searchLoading'] = false;
           });
-        }, 2000);
+        }, 500);
       }
     };
 
@@ -417,7 +417,7 @@
             $scope['searchResults'] = $data;
             $scope['searchLoading'] = false;
           });
-        }, 2000);
+        }, 500);
       }
     };
 
@@ -619,7 +619,7 @@
           $sc['searchResults'] = $data;
           $sc['searchLoading'] = false;
         });
-      }, 2000);
+      }, 500);
 
     };
 
