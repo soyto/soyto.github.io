@@ -1,11 +1,13 @@
+<!-- Beadcrumb -->
 <ol class="breadcrumb">
   <li><a href="#/">Home</a></li>
   <li><a ng-href="#/ranking/{{serverName}}">{{serverName}}</a></li>
   <li><a ng-href="#/character/{{serverName}}/{{character.characterID}}">{{character.characterName}}</a></li>
-</ol>
+</ol><!-- /Beadcrumb -->
 
+<!-- Character pic and name -->
 <div class="row">
-  <div class="col-sm-12">
+  <div class="col-xs-12 col-md-12">
     <div class="panel panel-default">
       <div class="panel-thumbnail"><img src="{{character.pictureURL}}" class="img-responsive"></div>
       <div class="panel-body">
@@ -17,11 +19,11 @@
       </div>
     </div>
   </div>
-</div>
+</div><!-- /Character pic and name -->
 
 <!-- Search -->
 <div class="row">
-  <div class="col-xs-12 col-sm-12 col-md-12">
+  <div class="col-xs-12 col-md-12">
     <div class="panel panel-search-mini">
 
       <div class="panel-heading">
@@ -64,9 +66,9 @@
   </div>
 </div><!-- /Search -->
 
-
+<!-- Character old names -->
 <div class="row" ng-show="character.names.length > 1">
-  <div class="col-sm-12">
+  <div class="col-xs-12 col-md-12">
     <div class="panel">
       <div class="panel-heading"><h4>Names</h4></div>
       <div class="panel-body">
@@ -89,10 +91,11 @@
       </div>
     </div>
   </div>
-</div>
+</div><!-- /Character old names -->
 
+<!-- Character old guilds -->
 <div class="row" ng-show="character.guilds.length > 1">
-  <div class="col-sm-12">
+  <div class="col-xs-12 col-md-12">
     <div class="panel">
       <div class="panel-heading"><h4>Legions</div>
       <div class="panel-body">
@@ -115,10 +118,11 @@
       </div>
     </div>
   </div>
-</div>
+</div><!-- /Character old guilds -->
 
+<!-- Character glory points -->
 <div class="row">
-  <div class="col-sm-12">
+  <div class="col-xs-12 col-sm-12">
     <div class="panel">
       <div class="panel-heading"><h4>Honor Points</h4></div>
       <div class="panel-body">
@@ -190,4 +194,16 @@
       </div>
     </div>
   </div>
-</div>
+</div><!-- /Character glory points -->
+
+<!-- Facebook panel -->
+<div class="row">
+  <div class="col-xs-12 col-md-12">
+    <div class="panel">
+      <div class="panel-body">
+        <div class="fb-comments" fb-comment-plugin
+             page-href="http://soyto.github.io/#/character/{{serverName}}/{{character.characterID}}" data-numposts="50"></div>
+      </div>
+    </div>
+  </div>
+</div><!-- /Facebook panel -->
