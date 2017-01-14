@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.37)
+ * Soyto.github.io (0.13.38)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1225,12 +1225,14 @@
       {'serverName': 'Deyla', 'characterID': 825556}, //Nyle
       {'serverName': 'Urtem', 'characterID': 1508483}, //Nacka
       {'serverName': 'Hellion', 'characterID': 495423}, //Chetitos
+      {'serverName': 'Hyperion', 'characterID': 11600}, //Raynee
     ];
 
     //Who asked to remove his old guild names
     $this.removeOldGuildNames_requests = [
       {'serverName': 'Hellion', 'characterID': 495423}, //Chetitos
       {'serverName': 'Deyla', 'characterID': 1266763}, //Kaijur
+      {'serverName': 'Hyperion', 'characterID': 11600}, //Raynee
     ];
 
     //Wich servers
@@ -1243,25 +1245,6 @@
       {id : 50, name: 'Loki'},        //5
       {id : 37, name: 'Thor'},        //6
       {id : 40, name: 'Urtem'},       //7
-
-      /* Olds servers distribution
-       {id : 47, name: 'Alquima'},     //0
-       {id : 46, name: 'Anuhart'},     //1
-       {id : 39, name: 'Balder'},      //2
-       {id : 49, name: 'Barus'},       //3
-       {id : 45, name: 'Calindi'},     //4
-       {id : 48, name: 'Curatus'},     //5
-       {id : 36, name: 'Kromede'},     //6
-       {id : 44, name: 'Nexus'},       //7
-       {id : 34, name: 'Perento'},     //8
-       {id : 31, name: 'Spatalos'},    //9
-       {id : 42, name: 'Suthran'},     //10
-       {id : 32, name: 'Telemachus'},  //11
-       {id : 37, name: 'Thor'},        //12
-       {id : 40, name: 'Urtem'},       //13
-       {id : 43, name: 'Vehalla'},     //14
-       {id : 51, name: 'Zubaba'},      //15
-       */
     ];
 
     //Wich dates we have stored
