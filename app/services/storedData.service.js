@@ -13,7 +13,7 @@
     var $log = $hs.$instantiate('$log');
     var $http = $hs.$instantiate('$http');
     var $window = $hs.$instantiate('$window');
-    var caracterPicsService = $hs.$instantiate('caracterPicsService');
+    var characterSocialService = $hs.$instantiate('characterSocialService');
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
@@ -241,11 +241,6 @@
         'soldierRankID': characterInfoData['soldierRankID'],
         'soldierRank': $this.getCharacterRank(characterInfoData['soldierRankID']),
         'status': characterInfoData['status'],
-        'pictureURL': caracterPicsService.getCharacterPic({
-          'serverName': serverName,
-          'characterID': characterInfoData['characterID'],
-          'characterName': characterInfoData['characterName']
-        })
       };
 
       //Normalize and sort collection dates
@@ -275,6 +270,11 @@
         }
         return true;
       });
+
+      //Set social data to the character
+      characterSocialService.setCharacterSocialData(_result);
+
+      $log.debug('Character %o', _result);
 
       return _result;
     }

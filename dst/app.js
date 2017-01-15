@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.40)
+ * Soyto.github.io (0.13.41)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -25,7 +25,7 @@
     'angular-loading-bar',
     'chart.js',
 	  'mgcrea.ngStrap',
-	  'ngAnimate'
+	  'ngAnimate',
   ]);
 
   ng.module('mainApp').constant('$moment', moment);
@@ -1021,7 +1021,7 @@
 (function(ng){
   'use strict';
 
-  ng.module('mainApp').service('caracterPicsService',[
+  ng.module('mainApp').service('characterSocialService',[
     '$log', _fn
   ]);
 
@@ -1029,7 +1029,7 @@
     var $this = this;
 
     //Pics for some characters
-    var _specialCharacterPics = [
+    var _characterPics = [
       {'server': 'Hellion', 'id': 326346, 'pic': '//i.imgur.com/bw4UVZu.png'}, //Hellion: Krtn
       {'server': 'Hellion', 'id': 332318, 'pic': '//i.imgur.com/Sps7YGU.png'}, //Hellion: Jaskier
       {'server': 'Hellion', 'id': 332433, 'pic': '//i.imgur.com/pLeI02V.png'}, //Hellion: Adeee
@@ -1072,21 +1072,43 @@
       {'server': 'Barus', 'id': 563160, 'pic': '//i.imgur.com/MJ6KuDY.jpg'}, //Barus: Nofearnolove
     ];
 
-    //Sets a character pic
-    $this.getCharacterPic = function($characterInfo) {
+    var _characterSocialButtons = [
+      {'server': 'Hellion', 'characterID': 455454, 'buttons': {
+        'facebook': 'https://www.facebook.com/Chizuri-760264377410715/',
+        'youtube': 'https://www.youtube.com/user/alfixos'
+      }},
+    ];
 
-      var _coincidence = _specialCharacterPics.first(function($$character){
-        return $$character['server'] == $characterInfo['serverName'] && $$character['id'] == $characterInfo['characterID'];
-      });
+    $this.setCharacterSocialData = function(character) {
 
-      if(_coincidence) {
-        return _coincidence['pic'];
+
+      character['social'] = {};
+
+      //Set pic
+      var _characterPic = _searchCharacter(_characterPics, 'pic', character);
+      if(_characterPic) {
+        character['pictureURL'] = _characterPic;
       }
       else {
-        return '//placehold.it/450X300/DD66DD/EE77EE/?text=' + $characterInfo['characterName'];
+        character['pictureURL'] = '//placehold.it/450X300/DD66DD/EE77EE/?text=' + character['characterName'];
       }
 
+      character['social'] = _searchCharacter(_characterSocialButtons, 'buttons', character);
     };
+
+    //Searchs on a collection for a propName item
+    function _searchCharacter(collection, propName, character) {
+      var _$$first = collection.first(function($$item){
+        return $$item['server'] == character['serverName'] && $$item['characterID'] == character['characterID'];
+      });
+
+      if(_$$first) {
+        return _$$first[propName];
+      }
+      else {
+        return null;
+      }
+    }
 
   }
 
@@ -1210,7 +1232,7 @@
     var $log = $hs.$instantiate('$log');
     var $http = $hs.$instantiate('$http');
     var $window = $hs.$instantiate('$window');
-    var caracterPicsService = $hs.$instantiate('caracterPicsService');
+    var characterSocialService = $hs.$instantiate('characterSocialService');
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
@@ -1438,11 +1460,6 @@
         'soldierRankID': characterInfoData['soldierRankID'],
         'soldierRank': $this.getCharacterRank(characterInfoData['soldierRankID']),
         'status': characterInfoData['status'],
-        'pictureURL': caracterPicsService.getCharacterPic({
-          'serverName': serverName,
-          'characterID': characterInfoData['characterID'],
-          'characterName': characterInfoData['characterName']
-        })
       };
 
       //Normalize and sort collection dates
@@ -1472,6 +1489,11 @@
         }
         return true;
       });
+
+      //Set social data to the character
+      characterSocialService.setCharacterSocialData(_result);
+
+      $log.debug('Character %o', _result);
 
       return _result;
     }

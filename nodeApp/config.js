@@ -16,7 +16,7 @@ module.exports = {
       'app/controllers/ranking.list.mobile.controller.js',
       'app/controllers/root.controller.js',
       'app/services/blog.service.js',
-      'app/services/characterPics.service.js',
+      'app/services/characterSocial.service.js',
       'app/services/console.service.js',
       'app/services/helper.service.js',
       'app/services/storedData.service.js',

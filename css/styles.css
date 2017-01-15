@@ -55,12 +55,6 @@ textarea { resize: none; outline: 0; }
 .panel .panel-default {
  border-color:#cccccc;
 }
-.panel .panel-thumbnail {
- padding:0;
-}
-.panel .panel-thumbnail img{
- width: 100%;
-}
 
 .panel .img-circle {
  width:50px;
@@ -93,6 +87,27 @@ textarea { resize: none; outline: 0; }
 .panel-post > .post-date {
   position:relative;
   bottom:25px;
+}
+
+/* Panel thumbnails
+ * ------------------------------------------------------------------------------------------------------------------ */
+.panel .panel-thumbnail {
+    padding:0;
+    position: relative;
+}
+.panel .panel-thumbnail img{
+    width: 100%;
+}
+.panel .panel-thumbnail .social-icons {
+ position: absolute;
+ bottom: 0;
+ width: 100%;
+ background-color: rgba(200, 200, 200, .5);
+ text-align: right;
+ padding: 0 15px;
+}
+.panel .panel-thumbnail .social-icons i {
+ color: #555;
 }
 
 /* Panel search mini...

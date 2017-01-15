@@ -9,14 +9,44 @@
 <div class="row">
   <div class="col-xs-12 col-md-12">
     <div class="panel panel-default">
-      <div class="panel-thumbnail"><img src="{{character.pictureURL}}" class="img img-responsive"></div>
+
+      <!-- Panel thumbnail -->
+      <div class="panel-thumbnail">
+
+        <!-- Image -->
+        <img src="{{character.pictureURL}}" class="img img-responsive"><!-- /Image -->
+
+        <!-- Social icons -->
+        <div class="social-icons" data-ng-if="character.social">
+
+          <!-- Facebook -->
+          <a data-ng-if="character.social.facebook" data-ng-href="{{character.social.facebook}}" target="_blank">
+            <i class="fa fa-facebook-square fa-2x"></i>
+          </a><!-- /Facebook -->
+
+          <!-- Youtube -->
+          <a data-ng-if="character.social.youtube" data-ng-href="{{character.social.youtube}}" target="_blank">
+            <i class="fa fa-youtube-square fa-2x"></i>
+          </a><!-- /Youtube -->
+
+          <!-- Mouseclick -->
+          <a data-ng-if="character.social.mouseClick_gearCalcID" data-ng-href="{{character.social.mouseClick_gearCalcID}}" target="_blank">
+            <i class="fa fa-address-card fa-2x"></i>
+          </a><!-- /Mouseclick -->
+
+        </div><!-- /Social icons -->
+
+      </div><!-- /Panel thumbnail -->
+
+      <!-- Panel body -->
       <div class="panel-body">
         <h4>{{character.characterName}} <small>{{character.raceName}} {{character.soldierRank.name}}</small></h4>
         <h5>{{character.characterClass.name}}
             <span ng-show="character.guildName">of {{character.guildName}}</span>
             <span ng-show="!character.guildName">without guild</span>
         </h5>
-      </div>
+      </div><!-- /Panel body -->
+
     </div>
   </div>
 </div><!-- /Character pic and name -->

@@ -8,7 +8,7 @@
     'angular-loading-bar',
     'chart.js',
 	  'mgcrea.ngStrap',
-	  'ngAnimate'
+	  'ngAnimate',
   ]);
 
   ng.module('mainApp').constant('$moment', moment);
