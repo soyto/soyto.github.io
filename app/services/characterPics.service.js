@@ -47,7 +47,9 @@
       {'server': 'Hellion', 'id': 855041, 'pic': '//i.imgur.com/oLETVUe.jpg'}, //Hellion: Dualis
       {'server': 'Hellion', 'id': 381312, 'pic': '//media.giphy.com/media/26DOptSPTPAK54ac0/source.gif'}, //Hellion: Bwedding
       {'server': 'Hellion', 'id': 330162, 'pic': '//media.giphy.com/media/Mc97leUdXhwRy/giphy.gif'}, //Hellion: Raszagal
-      {'server': 'Loki', 'id': 618703, 'pic': '//i.imgur.com/EddV7l9.png'}, //Hellion: Raszagal
+      {'server': 'Loki', 'id': 618703, 'pic': '//i.imgur.com/EddV7l9.png'}, //Loki: Chidoran
+      {'server': 'Deyla', 'id': 953168, 'pic': '//i.imgur.com/gkl36HF.jpg'}, //Deyla: Sylrel
+      {'server': 'Barus', 'id': 563160, 'pic': '//i.imgur.com/MJ6KuDY.jpg'}, //Barus: Nofearnolove
     ];
 
     //Sets a character pic
