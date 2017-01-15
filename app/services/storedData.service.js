@@ -155,9 +155,10 @@
         'url': host + 'data/Servers/Characters/' + serverName + '/' + characterID + '.json',
         'method': 'GET'
       })).then(function($data) {
-        var _result = _processCharacterInfoData(serverName, $data);
-        _cacheCharacterInfo.push(_result);
-        return _result;
+        return _processCharacterInfoData(serverName, $data).then(function($$character){
+          _cacheCharacterInfo.push($$character);
+          return $$character;
+        });
       });
     };
 
@@ -272,11 +273,7 @@
       });
 
       //Set social data to the character
-      characterSocialService.setCharacterSocialData(_result);
-
-      $log.debug('Character %o', _result);
-
-      return _result;
+      return characterSocialService.setCharacterSocialData(_result);
     }
 
     //Normalize a collection specified on first param on date stored on second param

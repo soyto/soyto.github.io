@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.14.0)
+ * Soyto.github.io (0.14.1)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1022,84 +1022,65 @@
   'use strict';
 
   ng.module('mainApp').service('characterSocialService',[
-    '$log', _fn
+    '$hs', _fn
   ]);
 
-  function _fn($log) {
+  function _fn($hs) {
+
+    var $q = $hs.$q;
+    var $log = $hs.$instantiate('$log');
+    var $http = $hs.$instantiate('$http');
     var $this = this;
 
-    //Pics for some characters
-    var _characterPics = [
-      {'server': 'Hellion', 'id': 326346, 'pic': '//i.imgur.com/bw4UVZu.png'}, //Hellion: Krtn
-      {'server': 'Hellion', 'id': 332318, 'pic': '//i.imgur.com/Sps7YGU.png'}, //Hellion: Jaskier
-      {'server': 'Hellion', 'id': 332433, 'pic': '//i.imgur.com/pLeI02V.png'}, //Hellion: Adeee
-      {'server': 'Hellion', 'id': 492074, 'pic': '//i.imgur.com/sUTeSYn.png'}, //Hellion: Aryska
-      {'server': 'Hellion', 'id': 446570, 'pic': '//i.imgur.com/nfE7LlW.jpg'}, //Hellion: Shakku
-      {'server': 'Hellion', 'id': 336415, 'pic': '//i.imgur.com/LUOMjpH.png'}, //Hellion: Blackdraco
-      {'server': 'Hellion', 'id': 413977, 'pic': '//www.cotilleo.es/wp-content/uploads/2016/10/justin-bieber.jpg'}, //Hellion: Shadowfall
-      {'server': 'Hellion', 'id': 987350, 'pic': '//i.imgur.com/FCwJFXM.png'}, //Hellion: Arturomal
-      {'server': 'Hellion', 'id': 2213, 'pic': '//i.imgur.com/SE4ehSb.png'}, //Hellion: Symehtry
-      {'server': 'Hellion', 'id': 612759, 'pic': '//i.imgur.com/QWV1493.png'}, //Hellion: OliverJv
-      {'server': 'Hellion', 'id': 288297, 'pic': '//i.imgur.com/6xyFDTJ.png'}, //Hellion: Yleath
-      {'server': 'Hellion', 'id': 547988, 'pic': '//i.giphy.com/9wZMlnM0R06l2.gif'}, //Hellion: Tendeeeeeee
-      {'server': 'Hellion', 'id': 430842, 'pic': '//i.giphy.com/NVIowdX8ePh4Y.gif'}, //Hellion: Powatrona
-      {'server': 'Hellion', 'id': 361870, 'pic': '//i.imgur.com/JO1aCCa.png'}, //Hellion: Ashuramaru
-      {'server': 'Antriksha', 'id': 503001, 'pic': '//i.imgur.com/4XBIv3P.png'}, //Antriksha: Livo
-      {'server': 'Antriksha', 'id': 600257, 'pic': '//i.imgur.com/qWxds5G.gif'}, //Antriksha: Lember
-      {'server': 'Antriksha', 'id': 457727, 'pic': '//i.imgur.com/FTBKsLO.png'}, //Antriksha: Riborn
-      {'server': 'Deyla', 'id': 1236631, 'pic': '//i.imgur.com/fSTG5mc.png'}, //Deyla: Sumie
-      {'server': 'Deyla', 'id': 1266763, 'pic': '//i.imgur.com/5rU4kmQ.png'}, //Deyla: Kaijur
-      {'server': 'Hellion', 'id': 121280, 'pic': '//i.imgur.com/t5bDYnw.png'}, //Hellion: Sureh
-      {'server': 'Antriksha', 'id': 135676, 'pic': '//i.imgur.com/kmxiraq.png'}, //Antriksha: TheKnight...
-      {'server': 'Deyla', 'id': 212749, 'pic': '//image.prntscr.com/image/990a0427afed4c32aa0f9f86eaec82f9.png'}, //Deyla: Asgarda
-      {'server': 'Barus', 'id': 1026827, 'pic': '//i.hizliresim.com/GP4N96.png'}, //Barus: Ryhmee
-      {'server': 'Deyla', 'id': 1071999, 'pic': '//i.imgur.com/EZCWBc7.png'}, //Deyla: Sanko
-      {'server': 'Barus', 'id': 939942, 'pic': '//i.imgur.com/ROzAA5O.png'}, //Barus: Mickaya
-      {'server': 'Urtem', 'id': 1844317, 'pic': '//i.imgur.com/RmIg33i.png'}, //Urtem: Rjn
-      {'server': 'Loki', 'id': 797881, 'pic': '//i.imgur.com/h2MLV9F.png'}, //Loki: Lutetias
-      {'server': 'Urtem', 'id': 912505, 'pic': '//i.imgur.com/7ppwteQ.png'}, //Urtem: Ciremia
-      {'server': 'Hellion', 'id': 463186, 'pic': '//i.giphy.com/l3vR1MxhtLBKwvVJK.gif'}, //Hellion: Itard
-      {'server': 'Antriksha', 'id': 719919, 'pic': '//oi68.tinypic.com/o9g8bp.jpg'}, //Antriksa: Kisuke
-      {'server': 'Loki', 'id': 563801, 'pic': '//i.imgur.com/vKqeyLS.png'}, //Loki: Lyy
-      {'server': 'Hellion', 'id': 382130, 'pic': '//i.imgur.com/udbsdPo.png'}, //Hellion: Maullido
-      {'server': 'Hellion', 'id': 462866, 'pic': '//i.imgur.com/EgQ0P2u.jpg'}, //Hellion: Accelerator
-      {'server': 'Hellion', 'id': 562739, 'pic': '//i.imgur.com/QMAc3zy.jpg'}, //Hellion: Ninfe
-      {'server': 'Hellion', 'id': 855041, 'pic': '//i.imgur.com/oLETVUe.jpg'}, //Hellion: Dualis
-      {'server': 'Hellion', 'id': 381312, 'pic': '//media.giphy.com/media/26DOptSPTPAK54ac0/source.gif'}, //Hellion: Bwedding
-      {'server': 'Hellion', 'id': 330162, 'pic': '//media.giphy.com/media/Mc97leUdXhwRy/giphy.gif'}, //Hellion: Raszagal
-      {'server': 'Loki', 'id': 618703, 'pic': '//i.imgur.com/EddV7l9.png'}, //Loki: Chidoran
-      {'server': 'Deyla', 'id': 953168, 'pic': '//i.imgur.com/gkl36HF.jpg'}, //Deyla: Sylrel
-      {'server': 'Barus', 'id': 563160, 'pic': '//i.imgur.com/MJ6KuDY.jpg'}, //Barus: Nofearnolove
-    ];
+    var _characterSocialCache = null;
 
-    var _characterSocialButtons = [
-      {'server': 'Hellion', 'characterID': 455454, 'buttons': {
-        'facebook': 'https://www.facebook.com/Chizuri-760264377410715/',
-        'youtube': 'https://www.youtube.com/user/alfixos'
-      }},
-    ];
-
+    //Sets character Social data on a character
     $this.setCharacterSocialData = function(character) {
+      return _retrieveGithubServerData().then(function($$characterSocials){
+        character['social'] = {};
 
+        //Set pic
+        var _characterPic = _searchCharacter($$characterSocials['characterPics'], 'pic', character);
+        if(_characterPic) {
+          character['pictureURL'] = _characterPic;
+        }
+        else {
+          character['pictureURL'] = '//placehold.it/450X300/DD66DD/EE77EE/?text=' + character['characterName'];
+        }
 
-      character['social'] = {};
+        character['social'] = _searchCharacter($$characterSocials['characterSocial'], 'buttons', character);
 
-      //Set pic
-      var _characterPic = _searchCharacter(_characterPics, 'pic', character);
-      if(_characterPic) {
-        character['pictureURL'] = _characterPic;
-      }
-      else {
-        character['pictureURL'] = '//placehold.it/450X300/DD66DD/EE77EE/?text=' + character['characterName'];
-      }
-
-      character['social'] = _searchCharacter(_characterSocialButtons, 'buttons', character);
+        return character;
+      });
     };
+
+    //Retrieves githubServerData
+    function _retrieveGithubServerData() {
+
+      if(_characterSocialCache !== null) {
+        return $q.resolve(_characterSocialCache);
+      }
+
+      var _result = {
+        'characterPics': null,
+        'characterSocial': null
+      };
+
+      return $q.likeNormal($http.get('/app/data/characterPics.json')).then(function($characterPics){
+        _result['characterPics'] = $characterPics;
+        return $q.likeNormal($http.get('/app/data/characterSocial.json')).then(function($characterSocial){
+          _result['characterSocial'] = $characterSocial;
+
+          _characterSocialCache = _result;
+          return _result;
+        });
+      });
+    }
 
     //Searchs on a collection for a propName item
     function _searchCharacter(collection, propName, character) {
       var _$$first = collection.first(function($$item){
-        return $$item['server'] == character['serverName'] && $$item['characterID'] == character['characterID'];
+        return $$item['serverName'] == character['serverName'] && $$item['characterID'] == character['characterID'];
       });
 
       if(_$$first) {
@@ -1374,9 +1355,10 @@
         'url': host + 'data/Servers/Characters/' + serverName + '/' + characterID + '.json',
         'method': 'GET'
       })).then(function($data) {
-        var _result = _processCharacterInfoData(serverName, $data);
-        _cacheCharacterInfo.push(_result);
-        return _result;
+        return _processCharacterInfoData(serverName, $data).then(function($$character){
+          _cacheCharacterInfo.push($$character);
+          return $$character;
+        });
       });
     };
 
@@ -1491,11 +1473,7 @@
       });
 
       //Set social data to the character
-      characterSocialService.setCharacterSocialData(_result);
-
-      $log.debug('Character %o', _result);
-
-      return _result;
+      return characterSocialService.setCharacterSocialData(_result);
     }
 
     //Normalize a collection specified on first param on date stored on second param
