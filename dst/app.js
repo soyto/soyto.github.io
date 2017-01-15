@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.13.41)
+ * Soyto.github.io (0.14.0)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
