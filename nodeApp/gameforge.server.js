@@ -20,33 +20,14 @@ module.exports = new function() {
   $this.servers = [
 
     //New servers IDs and names
-    {id : 53, name: 'Antriksha'},
-    {id : 49, name: 'Barus'},
-    {id : 52, name: 'Deyla'},
-    {id : 54, name: 'Hellion'},
-    {id : 55, name: 'Hyperion'},
-    {id : 50, name: 'Loki'},
-    {id : 37, name: 'Thor'},
-    {id : 40, name: 'Urtem'},
-
-    //Old servers IDs and names
-    /*
-     {id : 47, name: 'Alquima'},
-     {id : 46, name: 'Anuhart'},
-     {id : 39, name: 'Balder'},
-     {id : 49, name: 'Barus'},
-     {id : 45, name: 'Calindi'},
-     {id : 48, name: 'Curatus'},
-     {id : 36, name: 'Kromede'},
-     {id : 44, name: 'Nexus'},
-     {id : 34, name: 'Perento'},
-     {id : 31, name: 'Spatalos'},
-     {id : 42, name: 'Suthran'},
-     {id : 32, name: 'Telemachus'},
-     {id : 37, name: 'Thor'},
-     {id : 40, name: 'Urtem'},
-     {id : 43, name: 'Vehalla'},
-     {id : 51, name: 'Zubaba'}, */
+    {'id': 53, 'name': 'Antriksha'},
+    {'id': 49, 'name': 'Barus'},
+    {'id': 52, 'name': 'Deyla'},
+    {'id': 54, 'name': 'Hellion'},
+    {'id': 55, 'name': 'Hyperion'},
+    {'id': 50, 'name': 'Loki'},
+    {'id': 37, 'name': 'Thor'},
+    {'id': 40, 'name': 'Urtem'},
   ];
 
   //Performs login action and returns the cookie
@@ -266,11 +247,11 @@ module.exports = new function() {
 
     //Fn that will help retrieving character by id
     var getCharacterById = function(id) {
-      return storedCharacters.first(function(itm){ return itm.characterID == id; });
+      return storedCharacters.first(function(itm){ return itm['characterID'] == id; });
     };
 
     dateEntries.forEach(function(dateEntry) {
-      dateEntry.characters.forEach(function(character){
+      dateEntry['characters'].forEach(function(character){
         //Try to retrieve character by id
         var storedCharacter = getCharacterById(character.characterID);
 
@@ -366,6 +347,157 @@ module.exports = new function() {
     });
 
     return storedCharacters;
+  };
+
+  $this.updateCharacters = function(serverData, charactersFolder) {
+    var _rankedCharacters = serverData['entries']['elyos'].concat(serverData['entries']['asmodians']);
+    var _storedCharacerIDs = grunt.file.expand(charactersFolder + '*.json').select(function($$fileName){
+      var _parts = $$fileName.split('/');
+      return parseInt(_parts[_parts.length -1].split('.')[0]);
+    });
+
+    //Loop ranked characters
+    _rankedCharacters.forEach(function($$character) {
+      var _characterID = $$character['characterID'];
+      var _characterFile = charactersFolder + _characterID + '.json';
+
+      var _storedCharacter = {};
+
+      //If character exists...
+      if(_storedCharacerIDs.indexOf(_characterID) >= 0) {
+
+        //Read storedCharacter from JSON
+        _storedCharacter = grunt.file.readJSON(_characterFile);
+
+        //Sort status
+        _storedCharacter['status'].sort(function(a, b){ return (new Date(a['date'])).getTime() - (new Date(b['date'])).getTime(); });
+
+        var _lastStatus = _storedCharacter['status'][_storedCharacter['status'].length -1];
+
+        //If character was already updated
+        if((new Date(_lastStatus['date'])).getTime() == (new Date(serverData['date'])).getTime()) {
+
+          //If character only has one status
+          if(_storedCharacter['status'].length === 1) {
+            _storedCharacter['status'].splice(0, 1);
+            _lastStatus = null;
+          }
+          else {
+            _storedCharacter['status'].splice(_storedCharacter['status'].length - 1, 1);
+            _lastStatus = _storedCharacter['status'][_storedCharacter['status'].length - 1];
+          }
+
+        }
+
+        var _lastName = _storedCharacter['names'][_storedCharacter['names'].length - 1];
+        var _lastGuild = _storedCharacter['guilds'][_storedCharacter['guilds'].length - 1];
+
+        //Set up new status
+        var _newStatus = {
+          'date': serverData['date'],
+          'position': $$character['position'],
+          'rankingPositionChange': $$character['rankingPositionChange'],
+          'gloryPoint': $$character['gloryPoint'],
+          'gloryPointChange': 0,
+          'soldierRankID': $$character['soldierRankID']
+        };
+
+        //If last status wasnt null
+        if(_lastStatus !== null) {
+          _newStatus['gloryPointChange'] = _newStatus['gloryPoint'] - _lastStatus['gloryPoint'];
+          _newStatus['rankingPositionChange'] = _lastStatus['position'] - _newStatus['position'];
+        }
+
+        //Add character status
+        _storedCharacter['status'].push(_newStatus);
+
+        //Has changed name?
+        if(_lastName['characterName'] != $$character['characterName']) {
+          _storedCharacter['names'].push({
+            'date': serverData['date'],
+            'characterName' : $$character['characterName'],
+          });
+        }
+
+        //Has changed guild?
+        if(_lastGuild['guildID'] != $$character['guildID']) {
+          _storedCharacter['guilds'].push({
+            'date': serverData['date'],
+            'guildName': $$character['guildName'],
+            'guildID': $$character['guildID'],
+          });
+        }
+
+        //Update character itself
+        _storedCharacter['position'] = $$character['position'];
+        _storedCharacter['rankingPositionChange'] = _newStatus['rankingPositionChange'];
+        _storedCharacter['gloryPoint'] = $$character['gloryPoint'];
+        _storedCharacter['gloryPointChange'] = _newStatus['gloryPointChange'];
+        _storedCharacter['soldierRankID'] = $$character['soldierRankID'];
+        _storedCharacter['characterName'] = $$character['characterName'];
+        _storedCharacter['guildName'] = $$character['guildName'];
+        _storedCharacter['guildID'] = $$character['guildID'];
+
+        //We update serverCharacter
+        $$character['rankingPositionChange'] = _storedCharacter['rankingPositionChange'];
+        $$character['gloryPointChange'] = _storedCharacter['gloryPointChange'];
+      }
+      else { //If character doesnt exists
+
+        _storedCharacter = {
+          'characterID': $$character['characterID'],
+          'characterClassID': $$character['characterClassID'],
+          'raceID': $$character['raceID'],
+
+          'position': $$character['position'],
+          'rankingPositionChange': $$character['rankingPositionChange'],
+          'gloryPoint': $$character['gloryPoint'],
+          'gloryPointChange': 0,
+          'soldierRankID': $$character['soldierRankID'],
+
+          'characterName': $$character['characterName'],
+
+          'guildName': $$character['guildName'],
+          'guildID': $$character['guildID'],
+
+          'status': [],
+          'names': [],
+          'guilds': []
+        };
+
+        //Add character status
+        _storedCharacter['status'].push({
+          'date': serverData['date'],
+          'position': $$character['position'],
+          'rankingPositionChange': $$character['rankingPositionChange'],
+          'gloryPoint': $$character['gloryPoint'],
+          'gloryPointChange': 0,
+          'soldierRankID': $$character['soldierRankID']
+        });
+
+        //Add character name
+        _storedCharacter['names'].push({
+          'date': serverData['date'],
+          'characterName': $$character['characterName']
+        });
+
+        //Add character guilds
+        _storedCharacter['guilds'].push({
+          'date': serverData['date'],
+          'guildName': $$character['guildName'],
+          'guildID': $$character['guildID']
+        });
+
+        $$character['gloryPointChange'] = 0;
+      }
+
+      $log.debug('Storing [%s:%s] characterInfo',
+          colors.yellow(serverData['serverName']),
+          colors.cyan($$character['characterName']));
+
+      grunt.file.write(_characterFile, JSON.stringify(_storedCharacter, null, ' '));
+    });
+
   };
 
   //Will update server characters from the storedCharacters

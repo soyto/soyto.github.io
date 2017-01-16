@@ -15,66 +15,70 @@ module.exports = function(grunt) {
   var baseFolder            = config.application['base-folder'];
   var postsFolder           = config.application['posts-folder'];
   var appFolder             = config.application['app-folder'];
-  var userAgent             = config.crawler['user-agent'];
+  var USER_AGENT            = config.crawler['user-agent'];
   var charactersBaseFolder  = baseFolder + 'Servers/Characters/';
   var temporalBaseFolder    = baseFolder + 'tmp/';
 
   //Performs the full crawler
   grunt.registerTask('crawler', function() {
-    var done = this.async();
-
-    var today                 = moment().format('MM-DD-YYYY');
-    var folderName            = baseFolder + 'Servers/' + today + '/';
+    var _done = this.async();
+    var _folderName  = baseFolder + 'Servers/' + moment().format('MM-DD-YYYY') + '/';
 
     //Here we will store servers data, stats and errors
-    var servers = [];
+    var _servers = null;
     var globalStats = {
       topHP: null,
       topPositionChange: null,
       lowerPositionChange: null
     };
-    var crawlerErrors = [];
+    var _crawlerErrors = [];
 
     //If folder doesn't exists, just create it
-    if(!grunt.file.exists(folderName)) {
-      grunt.file.mkdir(folderName);
+    if(!grunt.file.exists(_folderName)) {
+      grunt.file.mkdir(_folderName);
     }
 
     //1st step: Perform login
-    var sp = gameForgeServer.login(userAgent);
+    var sp = gameForgeServer.login(USER_AGENT);
 
     //2nd step, retrieve all servers data
     sp = sp.then(function(cookie){
+
       //just cutted off for limit
-      return retrieveServersData(cookie, gameForgeServer.servers, userAgent).then(function(allServersData){
-        servers = allServersData;
+      return _retrieveServersData(cookie, gameForgeServer['servers'], USER_AGENT).then(function($$allServersData){
+        _servers = $$allServersData;
 
         //When is done, we store tmp file for each server, if something wents bad this data is stored atleast
-        servers.forEach(function(server) {
-          grunt.file.write(temporalBaseFolder + server.serverName + '.json', JSON.stringify(server));
+        _servers.forEach(function($$server) {
+          $log.debug('Storing [%s] server on tempFolder', colors.cyan($$server['serverName']));
+          grunt.file.write(temporalBaseFolder + $$server['serverName'] + '.json', JSON.stringify($$server));
         });
       });
     });
 
     //3d step, check and store errors
     sp = sp.then(function(){
-      servers.forEach(function(server) {
-        if(server.errors && server.errors.length > 0) {
-          crawlerErrors.push({
-            serverName : server.serverName,
-            serverId: server.serverId,
-            errors: server.errors
+      _servers.forEach(function(server) {
+        if(server['errors'] && server['errors'].length > 0) {
+          _crawlerErrors.push({
+            'serverName' : server['serverName'],
+            'serverId': server['serverId'],
+            'errors': server['errors']
           });
         }
       });
     });
 
     //4th step we need to extract players info for each server
-    sp = sp.then(function() { servers.forEach(_extractPlayersInfo); });
+    sp = sp.then(function() {
+      _servers.forEach(_extractPlayersInfo);
+
+      return $q.reject();
+    });
 
     //5th step, generate server stats
     sp = sp.then(function() {
-      servers.forEach(function(server){
+      _servers.forEach(function(server){
 
         server.entries.stats = {};
         server.entries.stats.elyos = {
@@ -201,9 +205,9 @@ module.exports = function(grunt) {
     //6th step, store servers data
     sp = sp.then(function() {
 
-      servers.forEach(function(server) {
+      _servers.forEach(function(server) {
         $log.debug('Storing [%s] server', colors.cyan(server.serverName));
-        grunt.file.write(folderName + server.serverName + '.json', JSON.stringify(server.entries));
+        grunt.file.write(_folderName + server.serverName + '.json', JSON.stringify(server.entries));
       });
 
       //When is all done, we remove all temporal data files
@@ -218,7 +222,7 @@ module.exports = function(grunt) {
 
     //7th step, generate blog post
     sp = sp.then(function() {
-      _generateBlogPost(crawlerErrors, globalStats);
+      _generateBlogPost(_crawlerErrors, globalStats);
     });
 
     //8th step, generate character sheet
@@ -228,7 +232,7 @@ module.exports = function(grunt) {
 
     //Confirm all
     sp.then(function(){
-      done();
+      _done();
     });
   });
 
@@ -413,25 +417,18 @@ module.exports = function(grunt) {
 
     //7th step, generate blog post
     _generateBlogPost(crawlerErrors, globalStats);
-
-
   });
 
   //Generates players database
-  grunt.registerTask('create-players-database', function(){
+  grunt.registerTask('create-players-database', function() {
     gameForgeServer.servers.forEach(function(server){
       var serverCharactersFolder = charactersBaseFolder + server.name + '/';
 
       //Retrieve characters array
       var storedCharacters = _extractStoredCharacters(server);
 
-      //Remove all characterInfo files
-      grunt.file.expand(serverCharactersFolder + '*').forEach(function(file){
-        grunt.file.delete(file);
-      });
-
       //Store characterInfos
-      storedCharacters.forEach(function(character){
+      storedCharacters.forEach(function(character) {
         $log.debug('Storing [%s:%s] characterInfo', colors.yellow(server.name), colors.cyan(character.names[character.names.length - 1].characterName));
         grunt.file.write(serverCharactersFolder + character.characterID + '.json', JSON.stringify(character, null, ' '));
       });
@@ -443,7 +440,6 @@ module.exports = function(grunt) {
 
   //Generates dates-files
   grunt.registerTask('generate-dates-file' , _generateDatesFile);
-
 
   //Will generate dates file
   function _generateDatesFile() {
@@ -463,70 +459,55 @@ module.exports = function(grunt) {
   }
 
   //Will retrieve all servers data
-  function retrieveServersData(cookie, serversList, userAgent) {
+  function _retrieveServersData(cookie, serversList, userAgent) {
     var $$q = $q.resolve();
 
-    var serversFullData = [];
+    var _serversFullData = [];
 
-    serversList.forEach(function(server){
+    serversList.forEach(function($$server) {
       $$q = $$q.then(function(){
-        return gameForgeServer.retrieveServer(server.name, server.id, cookie, userAgent)
-          .then(function(serverData) {
+        return gameForgeServer.retrieveServer($$server['name'], $$server['id'], cookie, userAgent).then(function($$serverData) {
 
-            //Notify that all is succesfully
-            $log.debug('Retrieved [%s]', colors.cyan(server.name));
+        //Notify that all is succesfully
+        $log.debug('Retrieved [%s]', colors.cyan($$server['name']));
 
-            //Push to the array
-            serversFullData.push(serverData);
+        //Push to the array
+          _serversFullData.push($$serverData);
         });
       });
     });
 
     return $$q.then(function(){
-      return serversFullData;
+      return _serversFullData;
     });
+
   }
 
   //Will extract stored characters
   function _extractStoredCharacters(server) {
 
-    var serverPreviousDates = grunt.file.expand(baseFolder + '/Servers/*/' + server.name + '.json')
-        .select(function(fileName) {
-          var data = grunt.file.readJSON(fileName);
+    var serverPreviousDates = grunt.file.expand(baseFolder + '/Servers/*/' + server.name + '.json').select(function($$fileName) {
+          var _data = grunt.file.readJSON($$fileName);
           return {
-            date : new Date(fileName.split('/')[2]),
-            characters: data.elyos.concat(data.asmodians)
+            'date': new Date($$fileName.split('/')[2]),
+            'characters': _data['elyos'].concat(_data['asmodians'])
           };
         })
-        .sort(function(a, b){ return a.date - b.date; });
+        .sort(function(a, b){ return a['date'] - b['date']; });
 
     return gameForgeServer.generateCharacterInfo(serverPreviousDates);
   }
 
   //Extract per server playersInfo
-  function _extractPlayersInfo(server) {
-
-    var serverCharactersFolder = charactersBaseFolder + server.serverName + '/';
+  function _extractPlayersInfo(serverData) {
 
     //Set date on server
-    server.date = new Date(moment().format('MM-DD-YYYY'));
+    serverData['date'] = new Date(moment().format('MM-DD-YYYY'));
 
-    //Retrieve characters array
-    var storedCharacters = _extractStoredCharacters({name: server.serverName});
+    var _charactersFolder = charactersBaseFolder + serverData.serverName + '/';
 
-    //Update both, storedCharacters and server
-    gameForgeServer.updateServerCharacters(storedCharacters, server);
-
-    //Remove all characterInfo files
-    grunt.file.expand(serverCharactersFolder + '*').forEach(function(file){
-      grunt.file.delete(file);
-    });
-
-    //Store characterInfos
-    storedCharacters.forEach(function(character){
-      $log.debug('Storing [%s:%s] characterInfo', colors.yellow(server.serverName), colors.cyan(character.names[character.names.length - 1].characterName));
-      grunt.file.write(serverCharactersFolder + character.characterID + '.json', JSON.stringify(character, null, ' '));
-    });
+    //Tell to update characters
+    gameForgeServer.updateCharacters(serverData, _charactersFolder);
   }
 
   //Generates blog post
