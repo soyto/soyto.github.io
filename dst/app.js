@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.15.0)
+ * Soyto.github.io (0.15.1)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1257,16 +1257,16 @@
 
     //Character soldier ranks
     $this.characterSoldierRankIds = [
-      { id: 0, name: 'Unknown'},
-      { id: 1, name: 'Unknown'},
-      { id: 2, name: 'Unknown'},
-      { id: 3, name: 'Unknown'},
-      { id: 4, name: 'Unknown'},
-      { id: 5, name: 'Unknown'},
-      { id: 6, name: 'Unknown'},
-      { id: 6, name: 'Unknown'},
-      { id: 7, name: 'Unknown'},
-      { id: 9, name: 'Unknown'},
+      { id: 0, name: 'Soldier Rank 10'},
+      { id: 1, name: 'Soldier Rank 9'},
+      { id: 2, name: 'Soldier Rank 8'},
+      { id: 3, name: 'Soldier Rank 7'},
+      { id: 4, name: 'Soldier Rank 6'},
+      { id: 5, name: 'Soldier Rank 5'},
+      { id: 6, name: 'Soldier Rank 4'},
+      { id: 6, name: 'Soldier Rank 3'},
+      { id: 7, name: 'Soldier Rank 2'},
+      { id: 9, name: 'Soldier Rank 1'},
       { id: 10, name: 'Army 1-Star Officer'},
       { id: 11, name: 'Army 2-Star Officer'},
       { id: 12, name: 'Army 3-Star Officer'},
