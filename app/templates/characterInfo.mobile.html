@@ -158,7 +158,9 @@
 <!-- Character glory points -->
 <div class="row">
   <div class="col-xs-12 col-sm-12">
-    <div class="panel">
+
+
+    <div class="panel" data-ng-show="character.status.length > 0">
       <div class="panel-heading"><h4>Honor Points</h4></div>
       <div class="panel-body">
 
@@ -228,6 +230,15 @@
 
       </div>
     </div>
+
+    <!-- Rank history clean -->
+    <div class="panel" data-ng-show="character.status.length == 0">
+      <div class="panel-heading"><h4>Honor Points</h4></div>
+      <div class="panel-body">
+        <h5 class="text-center">Character have no data stored</h5>
+      </div>
+    </div><!-- /Rank history clean -->
+
   </div>
 </div><!-- /Character glory points -->
 
