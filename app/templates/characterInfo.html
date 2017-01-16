@@ -146,7 +146,7 @@
   <div class="col-md-8">
 
     <!-- Rank history -->
-    <div class="panel">
+    <div class="panel" data-ng-show="character.status.length > 0">
       <div class="panel-heading">
         <ul class="nav nav-tabs" data-ng-init="showing='rows'">
           <li role="presentation" data-ng-class="{active: showing=='rows'}"><a ng-click="showing='rows'">Table</a></li>
@@ -228,6 +228,14 @@
 
       </div>
     </div><!-- /Rank history -->
+
+    <!-- Rank history clean -->
+    <div class="panel" data-ng-show="character.status.length == 0">
+      <div class="panel-heading"><h4>Ranking data</h4></div>
+      <div class="panel-body">
+        <h5 class="text-center">Character have no data stored</h5>
+      </div>
+    </div>
 
     <!-- Facebook panel -->
     <div class="panel">

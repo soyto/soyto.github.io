@@ -78,6 +78,11 @@
     //Sets up the chart
     function _setUpChart(characterInfo) {
 
+      //If character haven't status dont return nothing
+      if(characterInfo['status'].length === 0) {
+        return null;
+      }
+
       var _chart = {
         'options': { 'pointHitDetectionRadius' : 4 },
         'labels': [],
