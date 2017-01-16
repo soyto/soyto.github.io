@@ -72,8 +72,6 @@ module.exports = function(grunt) {
     //4th step we need to extract players info for each server
     sp = sp.then(function() {
       _servers.forEach(_extractPlayersInfo);
-
-      return $q.reject();
     });
 
     //5th step, generate server stats
