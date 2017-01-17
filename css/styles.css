@@ -123,8 +123,53 @@ textarea { resize: none; outline: 0; }
   padding-top:0;
 }
 
-/* Panel Twitch
+/* Well Twitch
  * ------------------------------------------------------------------------------------------------------------------ */
+
+.well-twitch{
+    background-position: center;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+    padding: 0;
+}
+.well-twitch .well-bg-color{
+    padding: 9px;
+    background-color: rgba(30, 30, 30, .5);
+}
+
+.well-twitch .media-left .twitch-thumbnail{
+    width: 120px;
+    padding: 2px;
+    margin-bottom: 0;
+}
+
+.well-twitch .media-body .twitch-display-name a{
+    color: #fff;
+    font-size: 24px;
+}
+.well-twitch .media-body .twitch-status{
+    color: #fff;
+    font-size: 10px;
+}
+.well-twitch .media-body .twitch-online-status {
+    padding-left: 5px;
+}
+.well-twitch .media-body .twitch-online-status .text-danger{
+    color: red;
+}
+.well-twitch .media-body .twitch-online-status span {
+    color: #fff;
+    position: relative;
+    top: -2px;
+    font-size: 24px;
+}
+.well-twitch .media-body .twitch-viewers {
+    color: #fff;
+}
 
 
 /* Panel servers

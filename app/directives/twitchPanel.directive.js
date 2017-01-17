@@ -14,8 +14,6 @@
 
     function _linkFn($sc, $element, $attr) {
 
-      //$sc['twitchChannel'] = 'https://www.twitch.tv/evangelion0';
-
       $sc['isLoading'] = true;
       $sc['streamData'] = null;
 
@@ -25,11 +23,9 @@
       //Retrieve channel info
       twitchService.getChannel(_twitchId).then(function($$channelData){
         $sc['channelData'] = $$channelData;
-        $log.debug('$$chanelData %o', $$channelData);
       }).then(function(){
         twitchService.getStream(_twitchId).then(function($$stream){
           $sc['channelStream'] = $$stream['stream'];
-          $log.debug('$$stream %o', $$stream['stream']);
           $sc['isLoading'] = false;
         });
       });
