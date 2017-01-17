@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.15.5)
+ * Soyto.github.io (0.15.6)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1017,7 +1017,7 @@
 (function(ng){
   'use strict';
 
-  var DIRECTIVE_NAME = 'twitchIsOnline';
+  var DIRECTIVE_NAME = 'twitchPanel';
 
   ng.module('mainApp').directive(DIRECTIVE_NAME, ['$hs', _fn]);
 
@@ -1030,37 +1030,47 @@
 
     function _linkFn($sc, $element, $attr) {
 
-      //$sc['twitchChannel'] = 'https://www.twitch.tv/helanyah';
+      $sc['twitchChannel'] = 'https://www.twitch.tv/evangelion0';
 
       $sc['isLoading'] = true;
       $sc['streamData'] = null;
 
-      _checkChannel().then(function(){
-        $sc['isLoading'] = false;
+      var _twitchId = $sc['twitchChannel'].split('/');
+      _twitchId = _twitchId[_twitchId.length - 1];
+
+      //Retrieve channel info
+      twitchService.getChannel(_twitchId).then(function($$channelData){
+        $sc['channelData'] = $$channelData;
+        $log.debug('$$chanelData %o', $$channelData);
+      }).then(function(){
+        twitchService.getStream(_twitchId).then(function($$stream){
+          $sc['channelStream'] = $$stream['stream'];
+          $log.debug('$$stream %o', $$stream['stream']);
+          $sc['isLoading'] = false;
+        });
       });
 
-      var _interval = $interval(function(){
-        _checkChannel();
-      }, 60* 1000); //Check each minute
 
+      //Check channelStream each minute
+      var _interval = $interval(function(){
+        twitchService.getStream(_twitchId).then(function($$stream){
+          $sc['channelStream'] = $$stream['stream'];
+        });
+      }, 60 * 1000);
+
+      //If scope is going to be destroyed
       $sc.$on('$destroy', function(){
         $interval.cancel(_interval);
       });
-
-      function _checkChannel() {
-        return twitchService.checkOnline($sc['twitchChannel']).then(function($$stream) {
-          $sc['streamData'] = $$stream;
-        });
-      }
     }
 
     return {
-      'restrict': 'A',
+      'restrict': 'E',
       'link': _linkFn,
       'scope': {
-        'twitchChannel': '=twitchIsOnline'
+        'twitchChannel': '=twitchChannel'
       },
-      'templateUrl': '/app/templates/directives/twitchIsOnline.html'
+      'templateUrl': '/app/templates/directives/twitchPanel.html'
     };
   }
 
@@ -1609,13 +1619,23 @@
 
     var $this = this;
 
-    //Checks if a streamer is online
-    $this.checkOnline = function(twitchChannel) {
-      var _channelId = twitchChannel.split('/');
-      _channelId = _channelId[_channelId.length - 1];
+    //Retrieves twitch channel
+    $this.getChannel = function(channelId) {
       return $q.likeNormal($http({
         'ignoreLoadingBar': true,
-        'url': 'https://api.twitch.tv/kraken/streams/' + _channelId,
+        'url': 'https://api.twitch.tv/kraken/channels/' + channelId,
+        'method': 'GET',
+        'headers': {
+          'client-ID': _CLIENTID
+        }
+      }));
+    };
+
+    //Checks if a streamer is online
+    $this.getStream = function(channelId) {
+      return $q.likeNormal($http({
+        'ignoreLoadingBar': true,
+        'url': 'https://api.twitch.tv/kraken/streams/' + channelId,
         'method': 'GET',
         'headers': {
           'client-ID': _CLIENTID

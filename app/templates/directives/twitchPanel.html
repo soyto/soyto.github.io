@@ -1,0 +1,30 @@
+<div data-ng-if="isLoading" class="well text-center">
+  <i class="fa fa-spin fa-spinner fa-3x"></i>
+</div>
+
+<div data-ng-if="!isLoading" class="panel panel-twitch">
+
+  <!-- Panel heading -->
+  <div class="panel-heading">
+    <h4>Twitch</h4>
+  </div><!-- /Panel heading -->
+
+  <!-- Panel body -->
+  <div class="panel-body">
+    <div class="media">
+
+      <div class="media-left">
+        <div class="thumbnail">
+          <img class="media-object" data-ng-src="{{ channelData.logo }}">
+        </div>
+      </div>
+
+      <div class="media-body">
+        <h4><a href="" data-ng-href="{{ twitchChannel }}">{{ channelData.display_name }}</a></h4>
+        <h6>{{ channelData.status }}</h6>
+      </div>
+
+    </div>
+  </div><!-- /Panel body -->
+
+</div>

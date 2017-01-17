@@ -15,13 +15,23 @@
 
     var $this = this;
 
-    //Checks if a streamer is online
-    $this.checkOnline = function(twitchChannel) {
-      var _channelId = twitchChannel.split('/');
-      _channelId = _channelId[_channelId.length - 1];
+    //Retrieves twitch channel
+    $this.getChannel = function(channelId) {
       return $q.likeNormal($http({
         'ignoreLoadingBar': true,
-        'url': 'https://api.twitch.tv/kraken/streams/' + _channelId,
+        'url': 'https://api.twitch.tv/kraken/channels/' + channelId,
+        'method': 'GET',
+        'headers': {
+          'client-ID': _CLIENTID
+        }
+      }));
+    };
+
+    //Checks if a streamer is online
+    $this.getStream = function(channelId) {
+      return $q.likeNormal($http({
+        'ignoreLoadingBar': true,
+        'url': 'https://api.twitch.tv/kraken/streams/' + channelId,
         'method': 'GET',
         'headers': {
           'client-ID': _CLIENTID
