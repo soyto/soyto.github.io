@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.15.3)
+ * Soyto.github.io (0.15.4)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1041,7 +1041,7 @@
 
       $interval(function(){
         _checkChannel();
-      }, 5000); //Check each 5 seconds
+      }, 60* 1000); //Check each minute
 
       function _checkChannel() {
         return twitchService.checkOnline($sc['twitchChannel']).then(function($$stream) {
@@ -1610,6 +1610,7 @@
       var _channelId = twitchChannel.split('/');
       _channelId = _channelId[_channelId.length - 1];
       return $q.likeNormal($http({
+        'ignoreLoadingBar': true,
         'url': 'https://api.twitch.tv/kraken/streams/' + _channelId,
         'method': 'GET',
         'headers': {

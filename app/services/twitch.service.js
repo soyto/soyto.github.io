@@ -20,6 +20,7 @@
       var _channelId = twitchChannel.split('/');
       _channelId = _channelId[_channelId.length - 1];
       return $q.likeNormal($http({
+        'ignoreLoadingBar': true,
         'url': 'https://api.twitch.tv/kraken/streams/' + _channelId,
         'method': 'GET',
         'headers': {

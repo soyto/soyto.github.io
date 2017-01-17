@@ -25,7 +25,7 @@
 
       $interval(function(){
         _checkChannel();
-      }, 5000); //Check each 5 seconds
+      }, 60* 1000); //Check each minute
 
       function _checkChannel() {
         return twitchService.checkOnline($sc['twitchChannel']).then(function($$stream) {
