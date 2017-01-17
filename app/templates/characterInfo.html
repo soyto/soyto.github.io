@@ -48,6 +48,7 @@
 
       <!-- Panel body -->
       <div class="panel-body">
+        <div data-ng-if="character.social.twitch" data-twitch-is-online="character.social.twitch"></div>
         <h4>{{character.characterName}} <small>{{character.raceName}} {{character.soldierRank.name}}</small></h4>
         <h5>{{character.characterClass.name}}
           <span ng-if="character.guildName">of {{character.guildName}}</span>

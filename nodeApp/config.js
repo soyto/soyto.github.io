@@ -15,13 +15,15 @@ module.exports = {
       'app/controllers/ranking.list.controller.js',
       'app/controllers/ranking.list.mobile.controller.js',
       'app/controllers/root.controller.js',
+      'app/directives/facebookCommentBox.directive.js',
+      'app/directives/twitchIsOnline.directive.js',
       'app/services/blog.service.js',
       'app/services/characterSocial.service.js',
       'app/services/console.service.js',
       'app/services/helper.service.js',
       'app/services/storedData.service.js',
-      'app/services/helperService/$q.service.js',
-      'app/directives/facebookCommentBox.directive.js'
+      'app/services/twitch.service.js',
+      'app/services/helperService/$q.service.js'
     ],
     'node-app-files': [
       'nodeApp/application.tasks.js',
