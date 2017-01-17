@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.15.6)
+ * Soyto.github.io (0.15.7)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1030,7 +1030,7 @@
 
     function _linkFn($sc, $element, $attr) {
 
-      $sc['twitchChannel'] = 'https://www.twitch.tv/evangelion0';
+      //$sc['twitchChannel'] = 'https://www.twitch.tv/evangelion0';
 
       $sc['isLoading'] = true;
       $sc['streamData'] = null;

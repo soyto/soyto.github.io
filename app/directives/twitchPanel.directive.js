@@ -14,7 +14,7 @@
 
     function _linkFn($sc, $element, $attr) {
 
-      $sc['twitchChannel'] = 'https://www.twitch.tv/evangelion0';
+      //$sc['twitchChannel'] = 'https://www.twitch.tv/evangelion0';
 
       $sc['isLoading'] = true;
       $sc['streamData'] = null;
