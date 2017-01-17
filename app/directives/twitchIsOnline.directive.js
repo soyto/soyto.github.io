@@ -23,9 +23,13 @@
         $sc['isLoading'] = false;
       });
 
-      $interval(function(){
+      var _interval = $interval(function(){
         _checkChannel();
       }, 60* 1000); //Check each minute
+
+      $sc.$on('$destroy', function(){
+        $interval.cancel(_interval);
+      });
 
       function _checkChannel() {
         return twitchService.checkOnline($sc['twitchChannel']).then(function($$stream) {
