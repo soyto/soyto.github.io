@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/soyto/soyto.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/soyto/soyto.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Waffle: https://waffle.io/soyto/soyto.github.io
+Join into Waffle Project!: https://waffle.io/soyto/soyto.github.io/join
 
 List with all servers ranks
 
