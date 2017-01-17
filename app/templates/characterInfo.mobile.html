@@ -57,7 +57,7 @@
 </div><!-- /Character pic and name -->
 
 <!-- Twitch panel -->
-<div class="row">
+<div class="row" data-ng-if="character.social.twitch">
   <div class="col-xs-12 col-md-12">
     <twitch-panel twitch-channel="character.social.twitch"></twitch-panel>
   </div>
