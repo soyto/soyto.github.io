@@ -349,7 +349,12 @@ module.exports = new function() {
     return storedCharacters;
   };
 
-  $this.updateCharacters = function(serverData, charactersFolder) {
+  //Updates a character with new serverData
+  $this.updateCharacters = function(serverData, charactersFolder, consoleLog) {
+    if(consoleLog === undefined) {
+      consoleLog = 'all';
+    }
+
     var _rankedCharacters = serverData['entries']['elyos'].concat(serverData['entries']['asmodians']);
     var _storedCharacerIDs = grunt.file.expand(charactersFolder + '*.json').select(function($$fileName){
       var _parts = $$fileName.split('/');
@@ -363,8 +368,10 @@ module.exports = new function() {
 
       var _storedCharacter = {};
 
+      var _characterExists = _storedCharacerIDs.indexOf(_characterID) >= 0;
+
       //If character exists...
-      if(_storedCharacerIDs.indexOf(_characterID) >= 0) {
+      if(_characterExists) {
 
         //Read storedCharacter from JSON
         _storedCharacter = grunt.file.readJSON(_characterFile);
@@ -376,7 +383,6 @@ module.exports = new function() {
 
         //If character was already updated
         if((new Date(_lastStatus['date'])).getTime() == (new Date(serverData['date'])).getTime()) {
-
           //If character only has one status
           if(_storedCharacter['status'].length === 1) {
             _storedCharacter['status'].splice(0, 1);
@@ -386,7 +392,6 @@ module.exports = new function() {
             _storedCharacter['status'].splice(_storedCharacter['status'].length - 1, 1);
             _lastStatus = _storedCharacter['status'][_storedCharacter['status'].length - 1];
           }
-
         }
 
         var _lastName = _storedCharacter['names'][_storedCharacter['names'].length - 1];
@@ -410,6 +415,12 @@ module.exports = new function() {
 
         //Add character status
         _storedCharacter['status'].push(_newStatus);
+
+        //We only store last 100 status...
+        if(_storedCharacter['status'].length > 100) {
+          var _statusLength = _storedCharacter['status'].length;
+          _storedCharacter['status'].splice(0, _statusLength - 50)
+        }
 
         //Has changed name?
         if(_lastName['characterName'] != $$character['characterName']) {
@@ -491,9 +502,14 @@ module.exports = new function() {
         $$character['gloryPointChange'] = 0;
       }
 
-      $log.debug('Storing [%s:%s] characterInfo',
-          colors.yellow(serverData['serverName']),
-          colors.cyan($$character['characterName']));
+      if(consoleLog == 'all'){
+        $log.debug('Storing [%s:%s] characterInfo',
+            colors.yellow(serverData['serverName']),
+            colors.cyan($$character['characterName']));
+      }
+      else if(consoleLog == 'onlyNews' && !_characterExists) {
+        $log.debug('Creating [%s:%s]', colors.yellow(serverData['serverName']), colors.cyan($$character['characterName']));
+      }
 
       grunt.file.write(_characterFile, JSON.stringify(_storedCharacter, null, ' '));
     });
