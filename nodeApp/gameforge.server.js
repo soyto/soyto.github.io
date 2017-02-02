@@ -511,7 +511,7 @@ module.exports = new function() {
         $log.debug('Creating [%s:%s]', colors.yellow(serverData['serverName']), colors.cyan($$character['characterName']));
       }
 
-      grunt.file.write(_characterFile, JSON.stringify(_storedCharacter, null, ' '));
+      grunt.file.write(_characterFile, JSON.stringify(_storedCharacter));
     });
 
   };
