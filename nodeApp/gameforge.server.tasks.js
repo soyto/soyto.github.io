@@ -582,11 +582,14 @@ module.exports = function(grunt) {
       grunt.file.expand($$folderName + '/*').forEach(function($$characterFileName) {
         var _id = $$characterFileName.split('/')[4].split('.')[0];
         var _data = grunt.file.readJSON($$characterFileName);
-        var _characterName = _data['characterName'];
 
         _wholeData.push({
           'id': _id,
-          'characterName': _characterName,
+          'characterName': _data['characterName'],
+          'characterClassID': _data['characterClassID'],
+          'characterRaceID': _data['raceID'],
+          'characterPosition': _data['position'],
+          'characterSoldierRankID': _data['soldierRankID'],
           'serverName': _serverName
         });
       });
