@@ -1327,6 +1327,7 @@
       {'serverName': 'Urtem', 'characterID': 1508483}, //Nacka
       {'serverName': 'Hellion', 'characterID': 495423}, //Chetitos
       {'serverName': 'Hyperion', 'characterID': 11600}, //Raynee
+      {'serverName': 'Antriksha', 'characterID': 863503}, //Nukey
     ];
 
     //Who asked to remove his old guild names
@@ -1334,6 +1335,7 @@
       {'serverName': 'Hellion', 'characterID': 495423}, //Chetitos
       {'serverName': 'Deyla', 'characterID': 1266763}, //Kaijur
       {'serverName': 'Hyperion', 'characterID': 11600}, //Raynee
+      {'serverName': 'Antriksha', 'characterID': 863503}, //Nukey
     ];
 
     //Wich servers
