@@ -9,8 +9,17 @@ license: MIT
 author: bootply.com
 */
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:400);
-body{ background-color:#e0e0e0; -webkit-font-smoothing: antialiased; font: normal 14px Roboto,arial,sans-serif; }
+/* Fonts:
+ - Roboto:400
+ - Josefin+Sans:600
+ */
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:600);
+body{
+    background-color:#e0e0e0;
+    -webkit-font-smoothing: antialiased;
+    font-size: 14px;
+    font-family: 'Josefin Sans',arial,sans-serif;
+}
 
 /* Header */
 #header {
@@ -227,6 +236,6 @@ textarea { resize: none; outline: 0; }
  }
 }
 
-#main { padding-top:120px; }
+#main { padding-top:70px; }
 /* Loading bar height */
 #loading-bar .bar{height: 5px;}
