@@ -590,7 +590,8 @@ module.exports = function(grunt) {
           'characterRaceID': _data['raceID'],
           'characterPosition': _data['position'],
           'characterSoldierRankID': _data['soldierRankID'],
-          'serverName': _serverName
+          'serverName': _serverName,
+          'lastStatus': _data['status'][_data['status'].length -1]['date']
         });
       });
 
