@@ -604,6 +604,15 @@ module.exports = function(grunt) {
     $log.debug('Storing data on %scharactersSheet.json', charactersBaseFolder);
 
     grunt.file.write(charactersBaseFolder + 'charactersSheet.json', JSON.stringify(_wholeData));
+
+    $log.debug('Storing data on %scharactersSheet.xml', charactersBaseFolder);
+
+    //Change dates on wholeDatas
+    _wholeData.forEach(function($$entry){
+      var _d = new Date($$entry['lastStatus']);
+      $$entry['lastStatus'] = _d.getTime();
+    });
+
     grunt.file.write(charactersBaseFolder + 'charactersSheet.xml', o2x({
       '?xml version=\"1.0\" encoding=\"iso-8859-1\"?' : null,
       'characters': {
