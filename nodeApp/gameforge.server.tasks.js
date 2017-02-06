@@ -9,6 +9,7 @@ module.exports = function(grunt) {
   var $log              = require('../nodeApp/log');
   var $q                = require('q');
   var colors            = require('colors');
+  var o2x               = require('object-to-xml');
 
   require('../lib/javascript.extensions.js');
 
@@ -596,9 +597,6 @@ module.exports = function(grunt) {
       });
 
     });
-
-    $log.debug('Sorting data');
-
     _wholeData.sort(function(a, b){
       return a['characterName'].localeCompare(b['characterName']);
     });
@@ -606,6 +604,12 @@ module.exports = function(grunt) {
     $log.debug('Storing data on %scharactersSheet.json', charactersBaseFolder);
 
     grunt.file.write(charactersBaseFolder + 'charactersSheet.json', JSON.stringify(_wholeData));
+    grunt.file.write(charactersBaseFolder + 'charactersSheet.xml', o2x({
+      '?xml version=\"1.0\" encoding=\"iso-8859-1\"?' : null,
+      'characters': {
+        'character': _wholeData
+      }
+    }));
   }
 
   //Sorsts server files in ascendant way...
