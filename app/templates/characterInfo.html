@@ -62,7 +62,7 @@
     <twitch-panel data-ng-if="character.social.twitch" twitch-channel="character.social.twitch"></twitch-panel>
 
     <!-- Search Panel -->
-    <div class="panel panel-search-mini panel-search">
+    <div class="panel panel-search-mini panel-search" data-ng-keydown="onKeydown_searchPanel($event)">
 
       <div class="panel-heading">
         <h4>Search another character:</h4>
@@ -73,19 +73,20 @@
         <!-- Search form -->
         <div class="form-group">
           <div class="input-group">
-            <input type="text" class="form-control" data-ng-model="searchText" data-ng-change="onChange_searchText(searchText)">
+            <input type="text" class="form-control" data-ng-model="search.text" data-ng-change="onChange_searchText(search.text)">
             <span class="input-group-addon"><i class="fa fa-search"></i></span>
           </div>
         </div><!-- /Search form -->
 
         <!-- Loading results -->
-        <h5 data-ng-show="searchLoading">Results for <b>{{ searchTerm }}</b>: <em>...</em></h5><!-- /Loading results -->
+        <h5 data-ng-show="search.loading">Results for <b>{{ search.term }}</b>: <em>...</em></h5><!-- /Loading results -->
 
         <!-- Search results (When there is data) -->
-        <div data-ng-show="!searchLoading && searchResults != null && searchResults.length > 0">
+        <div data-ng-show="!search.loading && search.results != null && search.results.length > 0">
           <h5>Results for <b>{{ searchTerm }}</b>:</h5>
           <div class="list-group">
-            <a data-ng-repeat="searchItem in searchResults" class="list-group-item clearfix"
+            <a data-ng-repeat="searchItem in search.results" class="list-group-item clearfix"
+               data-ng-class="{'active': $index == search.selectedIndex}"
                href="" data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
 
               <div class="list-group-item-heading pull-left">
@@ -102,7 +103,7 @@
         </div><!-- /Search results (When there is data) -->
 
         <!-- Search results (Empty) -->
-        <div data-ng-show="!searchLoading && searchResults != null && searchResults.length === 0">
+        <div data-ng-show="!searchLoading && search.results != null && search.results.length === 0">
           <h5>Results for <b>{{ searchTerm }}</b>: <b>No data was found</b></h5>
         </div><!-- /Search results (Empty) -->
 

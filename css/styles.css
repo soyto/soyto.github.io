@@ -124,6 +124,9 @@ textarea { resize: none; outline: 0; }
   color: #337ab7;
   margin-bottom: 0;
 }
+.panel-search .list-group .list-group-item.active .list-group-item-heading h4{
+  color: #c7ddef;
+}
 .panel-search .list-group .list-group-item .list-group-item-heading .lead{
   font-size: 0.8em;
   margin-bottom: 10px;

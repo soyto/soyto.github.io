@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.15.20)
+ * Soyto.github.io (0.15.21)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -145,6 +145,16 @@
     var $moment = $hs.$instantiate('$moment');
     var storedDataService = $hs.$instantiate('storedDataService');
     var $window = $hs.$instantiate('$window');
+    var $location = $hs.$instantiate('$location');
+
+    //Search object
+    var _search = {
+      'term': '',
+      'text': '',
+      'results': null,
+      'loading': false,
+      'selectedIndex': null,
+    };
 
     _init();
 
@@ -155,24 +165,84 @@
 
       //Text empty or less than 3 characters, clear search results
       if(text.trim().length < 3) {
-        $sc['searchResults'] = null;
+        _search['results'] = null;
+        _search['selectedIndex'] = null;
         $q.cancelTimeTrigger('mainApp.index.controller.search');
         return;
       }
 
       $q.timeTrigger('mainApp.index.controller.search', function () {
 
-        $sc['searchTerm'] = text;
-        $sc['searchLoading'] = true;
+        _search['term'] = text;
+        _search['loading'] = true;
 
         //Google analytics event track
         $window.ga('send', 'event', 'search_event_category', 'characterInfo_onChange_search_action', text);
 
         return storedDataService.characterSearch(text).then(function ($data) {
-          $sc['searchResults'] = $data;
-          $sc['searchLoading'] = false;
+          _search['results'] = $data;
+          _search['loading'] = false;
         });
       }, 500);
+    };
+
+    //When user press a keydown on search panel
+    $sc.onKeydown_searchPanel = function($event){
+
+      if(_search['results'] == null || _search['results'].length === 0) {
+        return;
+      }
+      else if(_search['selectedIndex'] === null) { //If we didnt started to navigate...
+
+        //If user pressed on up arrow or down arrow..
+        if($event.keyCode == 40 || $event.keyCode == 38) {
+          _search['selectedIndex'] = 0;
+        }
+
+        //If user press enter go to first result
+        if($event.keyCode == 13) {
+          var _searchItem = _search['results'][0];
+          $location.url('/character/' + _searchItem['serverName'] + '/' + _searchItem['id']);
+        }
+      }
+      else { //If user already started the navigation
+
+        //Down arrow without control
+        if ($event.keyCode == 40 && !$event.ctrlKey) {
+          _search['selectedIndex']++;
+
+          if (_search['selectedIndex'] == _search['results'].length) {
+            _search['selectedIndex'] = 0;
+          }
+        }
+
+        //Down arrow with control
+        if ($event.keyCode == 40 && $event.ctrlKey) {
+          _search['selectedIndex'] = _search['results'].length - 1;
+        }
+
+        //Up arrow without control
+        if ($event.keyCode == 38 && !$event.ctrlKey) {
+          _search['selectedIndex']--;
+
+          if (_search['selectedIndex'] === -1) {
+            _search['selectedIndex'] = _search['results'].length - 1;
+          }
+        }
+
+        //Up arrow with control
+        if ($event.keyCode == 38 && $event.ctrlKey) {
+          _search['selectedIndex'] = 0;
+        }
+
+        //If user press enter fo to the result
+        if($event.keyCode == 13) {
+          /* jshint-W004 */
+          var _searchItem = _search['results'][_search['selectedIndex']];
+          /* jshint+W004 */
+          $location.url('/character/' + _searchItem['serverName'] + '/' + _searchItem['id']);
+        }
+      }
     };
 
     /*--------------------------------------------  PRIVATE FUNCTIONS  -----------------------------------------------*/
@@ -199,10 +269,7 @@
       $sc['pagination'] = _setUpPagination(characterInfo['status'], 10);
 
       //Search...
-      $sc['searchText'] = '';
-      $sc['searchTerm'] = '';
-      $sc['searchResults'] = null;
-      $sc['searchLoading'] = false;
+      $sc['search'] = _search;
     }
 
     //Sets up the chart
@@ -302,7 +369,6 @@
 
   ng.module('mainApp').controller(CONTROLLER_NAME, ['$scope', '$hs', 'posts', _fn]);
 
-
   function _fn($sc, $hs, $posts) {
 
     var $q = $hs.$q;
@@ -310,8 +376,18 @@
     var $marked = $hs.$instantiate('$marked');
     var storedDataService = $hs.$instantiate('storedDataService');
     var $window = $hs.$instantiate('$window');
+    var $location = $hs.$instantiate('$location');
 
     var _wholePosts = null;
+
+    //Search object
+    var _search = {
+      'term': '',
+      'text': '',
+      'results': null,
+      'loading': false,
+      'selectedIndex': null,
+    };
 
     _init();
 
@@ -322,25 +398,84 @@
 
       //Text empty or less than 3 characters, clear search results
       if(text.trim().length < 3) {
-        $sc['searchResults'] = null;
+        _search['results'] = null;
+        _search['selectedIndex'] = null;
         $q.cancelTimeTrigger('mainApp.index.controller.search');
         return;
       }
 
       $q.timeTrigger('mainApp.index.controller.search', function(){
 
-        $sc['searchTerm'] = text;
-        $sc['searchLoading'] = true;
+        _search['term'] = text;
+        _search['loading'] = true;
 
         //Google analytics event track
         $window.ga('send', 'event', 'search_event_category', 'index_search_action', text);
 
         return storedDataService.characterSearch(text).then(function($data){
-          $sc['searchResults'] = $data;
-          $sc['searchLoading'] = false;
+          _search['results'] = $data;
+          _search['loading'] = false;
         });
       }, 500);
+    };
 
+    //When user press a keydown on search panel
+    $sc.onKeydown_searchPanel = function($event){
+
+      if(_search['results'] == null || _search['results'].length === 0) {
+        return;
+      }
+      else if(_search['selectedIndex'] === null) { //If we didnt started to navigate...
+
+        //If user pressed on up arrow or down arrow..
+        if($event.keyCode == 40 || $event.keyCode == 38) {
+          _search['selectedIndex'] = 0;
+        }
+
+        //If user press enter go to first result
+        if($event.keyCode == 13) {
+          var _searchItem = _search['results'][0];
+          $location.url('/character/' + _searchItem['serverName'] + '/' + _searchItem['id']);
+        }
+      }
+      else { //If user already started the navigation
+
+        //Down arrow without control
+        if ($event.keyCode == 40 && !$event.ctrlKey) {
+          _search['selectedIndex']++;
+
+          if (_search['selectedIndex'] == _search['results'].length) {
+            _search['selectedIndex'] = 0;
+          }
+        }
+
+        //Down arrow with control
+        if ($event.keyCode == 40 && $event.ctrlKey) {
+          _search['selectedIndex'] = _search['results'].length - 1;
+        }
+
+        //Up arrow without control
+        if ($event.keyCode == 38 && !$event.ctrlKey) {
+          _search['selectedIndex']--;
+
+          if (_search['selectedIndex'] === -1) {
+            _search['selectedIndex'] = _search['results'].length - 1;
+          }
+        }
+
+        //Up arrow with control
+        if ($event.keyCode == 38 && $event.ctrlKey) {
+          _search['selectedIndex'] = 0;
+        }
+
+        //If user press enter fo to the result
+        if($event.keyCode == 13) {
+          /* jshint-W004 */
+          var _searchItem = _search['results'][_search['selectedIndex']];
+          /* jshint+W004 */
+          $location.url('/character/' + _searchItem['serverName'] + '/' + _searchItem['id']);
+        }
+      }
     };
 
     //Shows more posts
@@ -366,16 +501,14 @@
       $sc['posts'] = _wholePosts.slice(0, 1);
       $sc['posts_count'] = _wholePosts.length;
 
-      $sc['searchText'] = '';
-      $sc['searchTerm'] = '';
-      $sc['searchResults'] = null;
-      $sc['searchLoading'] = false;
+      $sc['search'] = _search;
 
       $hs.$scope.setTitle('Soyto.github.io');
       $hs.$scope.setNav('home');
     }
 
   }
+
 })(angular);
 
 
