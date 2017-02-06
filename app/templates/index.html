@@ -12,10 +12,12 @@
     </div><!-- /Last update well -->
 
     <!-- Search Panel -->
-    <div class="panel panel-default">
+    <div class="panel panel-search">
+
       <div class="panel-heading">
         <h4>Search a character:</h4>
       </div>
+
       <div class="panel-body">
         
         <!-- Search form -->
@@ -32,13 +34,21 @@
         <!-- Search results (When there is data) -->
         <div data-ng-show="!searchLoading && searchResults != null && searchResults.length > 0">
           <h5>Results for <b>{{ searchTerm }}</b>:</h5>
-          <ul class="list-group">
-            <li data-ng-repeat="searchItem in searchResults" class="list-group-item">
-              <a data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
-                {{searchItem.characterName}}-{{searchItem.serverName}}
-              </a>
-            </li>
-          </ul>
+          <div class="list-group">
+            <a data-ng-repeat="searchItem in searchResults" class="list-group-item clearfix"
+               href="" data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
+
+              <div class="list-group-item-heading pull-left">
+                <h4>{{searchItem.characterName}}-{{searchItem.serverName}}</h4>
+                <p class="lead"><b>Last status:</b> {{searchItem.lastStatus | date: 'MM-dd-yyyy'}}</p>
+              </div>
+
+              <p class="list-group-item-text pull-right">
+                {{searchItem.raceName}} {{searchItem.characterClass.name}} <br/>
+                {{searchItem.soldierRank.name}}
+              </p>
+            </a>
+          </div>
         </div><!-- /Search results (When there is data) -->
 
         <!-- Search results (Empty) -->
@@ -46,11 +56,12 @@
           <h5>Results for <b>{{ searchTerm }}</b>: <b>No data was found</b></h5>
         </div><!-- /Search results (Empty) -->
 
-
       </div>
+
       <div class="panel-footer">
         <small><b>Note:</b> this application only stores data from characters that have 1-star rank or higher</small>
       </div>
+
     </div><!-- /Search Panel -->
 
     <!-- Servers Panel -->

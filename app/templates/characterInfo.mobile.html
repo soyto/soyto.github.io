@@ -66,7 +66,7 @@
 <!-- Search -->
 <div class="row">
   <div class="col-xs-12 col-md-12">
-    <div class="panel panel-search-mini">
+    <div class="panel panel-search-mini panel-search">
 
       <div class="panel-heading">
         <h4>Search another character:</h4>
@@ -88,13 +88,21 @@
         <!-- Search results (When there is data) -->
         <div data-ng-show="!searchLoading && searchResults != null && searchResults.length > 0">
           <h5>Results for <b>{{ searchTerm }}</b>:</h5>
-          <ul class="list-group">
-            <li data-ng-repeat="searchItem in searchResults" class="list-group-item">
-              <a data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
-                {{searchItem.characterName}}-{{searchItem.serverName}}
-              </a>
-            </li>
-          </ul>
+          <div class="list-group">
+            <a data-ng-repeat="searchItem in searchResults" class="list-group-item clearfix"
+               href="" data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
+
+              <div class="list-group-item-heading pull-left">
+                <h4>{{searchItem.characterName}}-{{searchItem.serverName}}</h4>
+                <p class="lead"><b>Last status:</b> {{searchItem.lastStatus | date: 'MM-dd-yyyy'}}</p>
+              </div>
+
+              <p class="list-group-item-text pull-right">
+                {{searchItem.raceName}} {{searchItem.characterClass.name}} <br/>
+                {{searchItem.soldierRank.name}}
+              </p>
+            </a>
+          </div>
         </div><!-- /Search results (When there is data) -->
 
         <!-- Search results (Empty) -->

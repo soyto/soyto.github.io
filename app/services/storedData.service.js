@@ -216,6 +216,12 @@
 
       var _url = host + '/data/Servers/Characters/charactersSheet.json';
       return $q.likeNormal($http.get(_url)).then(function($wholeData){
+        $wholeData.forEach(function($$entry){
+          $$entry['characterClass'] = $this.getCharacterClass($$entry['characterClassID']);
+          $$entry['soldierRank'] = $this.getCharacterRank($$entry['characterSoldierRankID']);
+          $$entry['raceName'] = $$entry['raceID'] == 1 ? 'Asmodian' : 'Elyos';
+        });
+
         _cacheCharacterCheatSheet = $wholeData;
         return $wholeData;
       });
