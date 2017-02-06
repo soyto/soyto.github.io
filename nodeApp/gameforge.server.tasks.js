@@ -610,7 +610,7 @@ module.exports = function(grunt) {
     //Change dates on wholeDatas
     _wholeData.forEach(function($$entry){
       var _d = new Date($$entry['lastStatus']);
-      $$entry['lastStatus'] = _d.getTime();
+      $$entry['lastStatus'] = parseInt(_d.getTime()) / 1000;
     });
 
     grunt.file.write(charactersBaseFolder + 'charactersSheet.xml', o2x({
