@@ -62,7 +62,7 @@
         </div><!-- /Search results (When there is data) -->
 
         <!-- Search results (Empty) -->
-        <div data-ng-if="!search.loading || search.results != null && search.results.length === 0">
+        <div data-ng-if="!search.loading && search.results != null && search.results.length === 0">
           <h5>Results for <b>{{ search.term }}</b>: <b>No data was found</b></h5>
         </div><!-- /Search results (Empty) -->
 
