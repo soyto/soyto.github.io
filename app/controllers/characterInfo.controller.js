@@ -45,6 +45,7 @@
 
         _search['term'] = text;
         _search['loading'] = true;
+        _search['selectedIndex'] = null;
 
         //Google analytics event track
         $window.ga('send', 'event', 'search_event_category', 'characterInfo_onChange_search_action', text);
@@ -67,6 +68,7 @@
         //If user pressed on up arrow or down arrow..
         if($event.keyCode == 40 || $event.keyCode == 38) {
           _search['selectedIndex'] = 0;
+          _scrollAndDontBubble();
         }
 
         //If user press enter go to first result
@@ -84,34 +86,52 @@
           if (_search['selectedIndex'] == _search['results'].length) {
             _search['selectedIndex'] = 0;
           }
+          _scrollAndDontBubble();
         }
 
         //Down arrow with control
-        if ($event.keyCode == 40 && $event.ctrlKey) {
+        else if ($event.keyCode == 40 && $event.ctrlKey) {
           _search['selectedIndex'] = _search['results'].length - 1;
+          _scrollAndDontBubble();
         }
 
         //Up arrow without control
-        if ($event.keyCode == 38 && !$event.ctrlKey) {
+        else if ($event.keyCode == 38 && !$event.ctrlKey) {
           _search['selectedIndex']--;
 
           if (_search['selectedIndex'] === -1) {
             _search['selectedIndex'] = _search['results'].length - 1;
           }
+          _scrollAndDontBubble();
         }
 
         //Up arrow with control
-        if ($event.keyCode == 38 && $event.ctrlKey) {
+        else if ($event.keyCode == 38 && $event.ctrlKey) {
           _search['selectedIndex'] = 0;
+          _scrollAndDontBubble();
         }
 
         //If user press enter fo to the result
-        if($event.keyCode == 13) {
+        else if($event.keyCode == 13) {
           /* jshint-W004 */
           var _searchItem = _search['results'][_search['selectedIndex']];
           /* jshint+W004 */
           $location.url('/character/' + _searchItem['serverName'] + '/' + _searchItem['id']);
         }
+
+        else {
+          $sc.$broadcast('ngScrollTo.scroll', {
+            'identifier': 'search-input'
+          });
+        }
+      }
+
+      function _scrollAndDontBubble(){
+        $event.stopPropagation();
+        $event.preventDefault();
+        $sc.$broadcast('ngScrollTo.scroll', {
+          'identifier': 'search-result-' + _search['selectedIndex']
+        });
       }
     };
 

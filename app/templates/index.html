@@ -12,7 +12,7 @@
     </div><!-- /Last update well -->
 
     <!-- Search Panel -->
-    <div class="panel panel-search" data-ng-keydown="onKeydown_searchPanel($event)">
+    <div class="panel panel-search">
 
       <div class="panel-heading">
         <h4>Search a character:</h4>
@@ -23,20 +23,29 @@
         <!-- Search form -->
         <div class="form-group">
           <div class="input-group">
-            <input type="text" class="form-control" data-ng-model="search.text" data-ng-change="onChange_searchText(search.text)">
+            <input type="text" class="form-control"
+                   data-ng-keydown="onKeydown_searchPanel($event)"
+                   data-ng-scroll-to="search-input"
+                   data-ng-scroll-to-offset="30"
+                   data-ng-scroll-to-element-margin="{'top': 40, 'bottom': 0}"
+                   data-ng-model="search.text"
+                   data-ng-change="onChange_searchText(search.text)">
             <span class="input-group-addon"><i class="fa fa-search"></i></span>
           </div>
         </div><!-- /Search form -->
 
         <!-- Loading results -->
-        <h5 data-ng-show="search.loading">Results for <b>{{ search.term }}</b>: <em>...</em></h5><!-- /Loading results -->
+        <h5 data-ng-if="search.loading">Results for <b>{{ search.term }}</b>: <em>...</em></h5><!-- /Loading results -->
 
         <!-- Search results (When there is data) -->
-        <div data-ng-show="!search.loading && search.results != null && search.results.length > 0">
+        <div data-ng-if="!search.loading && search.results != null && search.results.length > 0">
           <h5>Results for <b>{{ search.term }}</b>:</h5>
           <div class="list-group">
             <a data-ng-repeat="searchItem in search.results" class="list-group-item clearfix"
                data-ng-class="{'active': $index == search.selectedIndex}"
+               data-ng-scroll-to="search-result-{{$index}}"
+               data-ng-scroll-to-offset="30"
+               data-ng-scroll-to-element-margin="{'top': 40, 'bottom': 0}"
                href="" data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
 
               <div class="list-group-item-heading pull-left">
@@ -53,7 +62,7 @@
         </div><!-- /Search results (When there is data) -->
 
         <!-- Search results (Empty) -->
-        <div data-ng-show="!search.loading && search.results != null && search.results.length === 0">
+        <div data-ng-if="!search.loading || search.results != null && search.results.length === 0">
           <h5>Results for <b>{{ search.term }}</b>: <b>No data was found</b></h5>
         </div><!-- /Search results (Empty) -->
 

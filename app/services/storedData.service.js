@@ -13,6 +13,7 @@
     var $log = $hs.$instantiate('$log');
     var $http = $hs.$instantiate('$http');
     var $window = $hs.$instantiate('$window');
+    var $timeout = $hs.$instantiate('$timeout');
     var characterSocialService = $hs.$instantiate('characterSocialService');
 
     var _cacheServerData = [];
@@ -211,7 +212,11 @@
     function _getCharacterCheatSheet() {
 
       if(_cacheCharacterCheatSheet !== null) {
-        return $q.resolve(_cacheCharacterCheatSheet);
+        var $$q = $q.defer();
+        $timeout(function(){
+          $$q.resolve(_cacheCharacterCheatSheet);
+        });
+        return $$q.promise;
       }
 
       var _url = host + '/data/Servers/Characters/charactersSheet.json';
