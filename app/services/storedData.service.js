@@ -33,6 +33,7 @@
       {'serverName': 'Hellion', 'characterID': 495423}, //Chetitos
       {'serverName': 'Hyperion', 'characterID': 11600}, //Raynee
       {'serverName': 'Antriksha', 'characterID': 863503}, //Nukey
+      {'serverName': 'Antriksha', 'characterID': 642109}, //Yost
     ];
 
     //Who asked to remove his old guild names

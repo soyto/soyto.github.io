@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.15.24)
+ * Soyto.github.io (0.15.25)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1638,6 +1638,7 @@
       {'serverName': 'Hellion', 'characterID': 495423}, //Chetitos
       {'serverName': 'Hyperion', 'characterID': 11600}, //Raynee
       {'serverName': 'Antriksha', 'characterID': 863503}, //Nukey
+      {'serverName': 'Antriksha', 'characterID': 642109}, //Yost
     ];
 
     //Who asked to remove his old guild names
