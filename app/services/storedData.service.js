@@ -155,15 +155,43 @@
         return $q.resolve(_cachedItem);
       }
 
-      return $q.likeNormal($http({
+      return $http({
         'url': host + 'data/Servers/Characters/' + serverName + '/' + characterID + '.json',
         'method': 'GET'
+      }).then(function(response){
+
+        response['data']['status'].forEach(function($$item){
+          $$item['date'] = _normalizeDateString($$item['date']);
+        });
+
+        response['data']['names'].forEach(function($$item){
+          $$item['date'] = _normalizeDateString($$item['date']);
+        });
+
+        response['data']['guilds'].forEach(function($$item){
+          $$item['date'] = _normalizeDateString($$item['date']);
+        });
+
+        return _processCharacterInfoData(serverName, response['data']).then(function($$character){
+          _cacheCharacterInfo.push($$character);
+          return $$character;
+        });
+      });
+
+      //TODO: Replaced cuz dont works on firefox ^^
+      /*return $q.likeNormal($http({
+        'url': host + 'data/Servers/Characters/' + serverName + '/' + characterID + '.json',
+        'method': 'GET'
+      }).then(function(arg1, arg2, arg3){
+        console.log(arg1);
+        console.log(arg2);
+        console.log(arg3);
       })).then(function($data) {
         return _processCharacterInfoData(serverName, $data).then(function($$character){
           _cacheCharacterInfo.push($$character);
           return $$character;
         });
-      });
+      });*/
     };
 
     //Retrieves what is the last server data
@@ -235,7 +263,7 @@
 
     //Process character info data
     function _processCharacterInfoData(serverName, characterInfoData) {
-
+      
       //Create result
       var _result = {
         'serverName': serverName,
@@ -309,6 +337,19 @@
           return b[propName].getTime() - a[propName].getTime();
         };
       }
+    }
+
+    //Normalize the date
+    function _normalizeDateString(dateString) {
+      var _date = new Date(dateString);
+
+      if(!isNaN(_date.getTime())) {
+        return _date;
+      }
+
+      var _splitDate = dateString.split('-');
+
+      return new Date(parseInt(_splitDate[2]), parseInt(_splitDate[0]) - 1, parseInt(_splitDate[1]));
     }
 
   }
