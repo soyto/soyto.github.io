@@ -75,6 +75,9 @@ textarea { resize: none; outline: 0; }
   font-weight:700;
   font-size: 1.2em;
   color:#262626;
+  border-bottom: 1px solid #efefef;
+  padding-bottom: 0;
+  padding-top: 10;
 }
 
 .panel .panel-heading a {
@@ -82,15 +85,16 @@ textarea { resize: none; outline: 0; }
  font-size:11px;
 }
 
+.panel .panel-heading h1,
+.panel .panel-heading h2,
+.panel .panel-heading h3,
+.panel .panel-heading h4,
+.panel .panel-heading h5 {
+  margin-top: 0;
+}
+
 .list-group-item:first-child,.list-group-item:last-child {
  border-radius:0;
-}
-.panel-heading h3,
-.panel-heading h4,
-.panel-heading h5 {
- border:0 solid #efefef;
- border-bottom-width:1px;
- padding-bottom:10px;
 }
 
 .dropdown-menu {
@@ -100,11 +104,6 @@ textarea { resize: none; outline: 0; }
  margin-top:-1px;
 }
 /* end theme */
-
-.panel-post > .post-date {
-  position:relative;
-  bottom:25px;
-}
 
 
 /* Panel thumbnails
@@ -238,19 +237,6 @@ textarea { resize: none; outline: 0; }
 
 /* Panel servers
  * ------------------------------------------------------------------------------------------------------------------ */
-.panel-servers .panel-heading {
-  padding-bottom: 0;
-  padding-left: 0;
-  padding-right: 0;
-}
-.panel-servers .panel-heading h4{
-  margin-bottom: 0;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-.panel-servers .list-group{
-  margin-top: -1px;
-}
 
 /* Template layout
  * ------------------------------------------------------------------------------------------------------------------ */
