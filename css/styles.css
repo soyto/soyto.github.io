@@ -147,44 +147,57 @@ textarea { resize: none; outline: 0; }
   text-shadow: 1px 1px 1px #cfcfcf;
 }
 
-/* Panel search
+/* Panel search and panel search mini
  * ------------------------------------------------------------------------------------------------------------------ */
 .panel-search{}
-.panel-search .list-group .list-group-item{
+
+.panel-search-mini {}
+
+.panel-search-mini>.panel-heading{
+  padding-bottom: 0;
+  border: 0;
+}
+.panel-search-mini>.panel-body{
+  padding-top:0;
+}
+
+.panel-search-body h5{
+  color: #666;
+  font-weight: 100;
+}
+.panel-search-body h5 b {
+  color: #000;
+  font-size: 1.1em;
+}
+
+/* Search results: items */
+
+.search-results .search-result-item{
   padding-bottom: 0;
   padding-top: 0;
 }
-.panel-search .list-group .list-group-item .list-group-item-heading{
+.search-results .search-result-item .search-result-item-heading{
   margin-bottom: 0;
 }
-.panel-search .list-group .list-group-item .list-group-item-heading h4{
+.search-results .search-result-item .search-result-item-heading h4{
   color: #337ab7;
   margin-bottom: 0;
 }
-.panel-search .list-group .list-group-item.active .list-group-item-heading h4{
+.search-results .search-result-item.active .search-result-item-heading h4{
   color: #c7ddef;
 }
-.panel-search .list-group .list-group-item .list-group-item-heading .lead{
+.search-results .search-result-item .search-result-item-heading p.lead{
   font-size: 0.8em;
   margin-bottom: 10px;
 }
-.panel-search .list-group .list-group-item .list-group-item-text{
+.search-results .search-result-item .search-result-item-text{
   font-size: 0.8em;
   margin-top: 10px;
 }
 
 /* Panel search mini...
  * ------------------------------------------------------------------------------------------------------------------ */
-.panel-search-mini {
 
-}
-
-.panel-search-mini>.panel-heading{
-  padding-bottom: 0;
-}
-.panel-search-mini>.panel-body{
-  padding-top:0;
-}
 
 /* Well Twitch
  * ------------------------------------------------------------------------------------------------------------------ */
@@ -233,10 +246,6 @@ textarea { resize: none; outline: 0; }
 .well-twitch .media-body .twitch-viewers {
     color: #fff;
 }
-
-
-/* Panel servers
- * ------------------------------------------------------------------------------------------------------------------ */
 
 /* Template layout
  * ------------------------------------------------------------------------------------------------------------------ */

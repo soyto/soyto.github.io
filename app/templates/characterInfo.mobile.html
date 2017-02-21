@@ -66,13 +66,13 @@
 <!-- Search -->
 <div class="row">
   <div class="col-xs-12 col-md-12">
-    <div class="panel panel-search-mini panel-search" data-ng-keydown="onKeydown_searchPanel($event)">
+    <div class="panel panel-search-mini" data-ng-keydown="onKeydown_searchPanel($event)">
 
-      <div class="panel-heading">
-        <h4>Search another character:</h4>
-      </div>
+      <!-- Heading -->
+      <div class="panel-heading panel-search-heading"><h4>Search another character:</h4></div><!-- /Heading -->
 
-      <div class="panel-body">
+      <!-- Body -->
+      <div class="panel-body panel-search-body">
 
         <!-- Search form -->
         <div class="form-group">
@@ -88,29 +88,31 @@
         <!-- Search results (When there is data) -->
         <div data-ng-show="!search.loading && search.results != null && search.results.length > 0">
           <h5>Results for <b>{{ searchTerm }}</b>:</h5>
-          <div class="list-group">
-            <a data-ng-repeat="searchItem in search.results" class="list-group-item clearfix"
-               href="" data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
-
-              <div class="list-group-item-heading pull-left">
-                <h4>{{searchItem.characterName}}-{{searchItem.serverName}}</h4>
-                <p class="lead"><b>Last status:</b> {{searchItem.lastStatus | date: 'MM-dd-yyyy'}}</p>
-              </div>
-
-              <p class="list-group-item-text pull-right">
-                {{searchItem.raceName}} {{searchItem.characterClass.name}} <br/>
-                {{searchItem.soldierRank.name}}
-              </p>
-            </a>
-          </div>
         </div><!-- /Search results (When there is data) -->
 
         <!-- Search results (Empty) -->
         <div data-ng-show="!search.loading && search.results != null && search.results.length === 0">
-          <h5>Results for <b>{{ search.term }}</b>: <b>No data was found</b></h5>
+          <h5>Results for <b>{{ search.term }}</b>: <em>No data was found</em></h5>
         </div><!-- /Search results (Empty) -->
 
-      </div>
+      </div><!-- /Body -->
+
+      <!-- Search results (When there is data)-->
+      <div class="list-group search-results" data-ng-show="!search.loading && search.results != null && search.results.length > 0">
+        <a data-ng-repeat="searchItem in search.results" class="list-group-item search-result-item clearfix"
+           href="" data-ng-href="#/character/{{searchItem.serverName}}/{{searchItem.id}}">
+
+          <div class="search-result-item-heading pull-left">
+            <h4>{{searchItem.characterName}}-{{searchItem.serverName}}</h4>
+            <p class="lead"><b>Last status:</b> {{searchItem.lastStatus | date: 'MM-dd-yyyy'}}</p>
+          </div>
+
+          <p class="search-result-item-text pull-right">
+            {{searchItem.raceName}} {{searchItem.characterClass.name}} <br/>
+            {{searchItem.soldierRank.name}}
+          </p>
+        </a>
+      </div><!-- /Search results (When there is data)-->
 
     </div>
   </div>
