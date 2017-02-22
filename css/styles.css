@@ -3,6 +3,7 @@
  - Josefin+Sans:600
  */
 @import url(http://fonts.googleapis.com/css?family=Josefin+Sans:600);
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 /* Body and globals
  * ------------------------------------------------------------------------------------------------------------------ */
@@ -93,8 +94,9 @@ textarea { resize: none; outline: 0; }
   margin-top: 0;
 }
 
-.list-group-item:first-child,.list-group-item:last-child {
- border-radius:0;
+
+.panel .list-group-item{
+  border-color: #efefef;
 }
 
 .dropdown-menu {
@@ -195,8 +197,32 @@ textarea { resize: none; outline: 0; }
   margin-top: 10px;
 }
 
-/* Panel search mini...
+/* Panel change pic
  * ------------------------------------------------------------------------------------------------------------------ */
+.panel-change-pic .panel-body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+/* Panel post
+ * ------------------------------------------------------------------------------------------------------------------ */
+.panel-post .panel-body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+.panel-post .panel-body h3{
+  font-size: 1.2em;
+  font-weight: 800;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.panel-post .panel-body blockquote{
+  font-size: 1em;
+  padding-top: 0;
+  padding-bottom: 0;
+}
 
 
 /* Well Twitch

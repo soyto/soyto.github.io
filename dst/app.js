@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.15.29)
+ * Soyto.github.io (0.15.30)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1284,7 +1284,7 @@
 
         _parentElement.animate({
           'scrollTop': _scrollTop,
-        }, 200, 'swing');
+        }, 100, 'swing');
       });
 
 
