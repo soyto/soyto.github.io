@@ -213,7 +213,6 @@ textarea { resize: none; outline: 0; }
 
 .panel-post .panel-body h3{
   font-size: 1.2em;
-  font-weight: 800;
   margin-top: 0;
   margin-bottom: 5px;
 }
@@ -222,6 +221,39 @@ textarea { resize: none; outline: 0; }
   font-size: 1em;
   padding-top: 0;
   padding-bottom: 0;
+}
+
+/* Well server name
+ * ------------------------------------------------------------------------------------------------------------------ */
+.well-server-name{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.well-server-name h4{
+  color: #666;
+  font-weight: 100;
+  font-size: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.well-server-name h4 b {
+  color: #000;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 1px #cfcfcf;
+}
+
+/* Panel scorers
+ * ------------------------------------------------------------------------------------------------------------------ */
+.panel-scorers .table-responsive{
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+/* Panel chart
+ * ------------------------------------------------------------------------------------------------------------------ */
+.panel-chart .panel-body{
+  height: 200px;
 }
 
 
