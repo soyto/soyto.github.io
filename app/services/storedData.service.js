@@ -36,6 +36,8 @@
       {'serverName': 'Antriksha', 'characterID': 642109}, //Yost
       {'serverName': 'Hyperion', 'characterID': 783863}, //Siith
       {'serverName': 'Hellion', 'characterID': 428540}, //Kerberos
+      {'serverName': 'Barus', 'characterID': 396287}, //Seyune
+      {'serverName': 'Barus', 'characterID': 916298}, //CiuCiuu
     ];
 
     //Who asked to remove his old guild names
@@ -46,6 +48,8 @@
       {'serverName': 'Antriksha', 'characterID': 863503}, //Nukey
       {'serverName': 'Hyperion', 'characterID': 783863}, //Siith,
       {'serverName': 'Hellion', 'characterID': 428540}, //Kerberos
+      {'serverName': 'Barus', 'characterID': 396287}, //Seyune
+      {'serverName': 'Barus', 'characterID': 916298}, //CiuCiuu
     ];
 
     //Wich servers
