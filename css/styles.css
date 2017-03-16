@@ -3,7 +3,6 @@
  - Josefin+Sans:600
  */
 @import url(http://fonts.googleapis.com/css?family=Josefin+Sans:600);
-@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 /* Body and globals
  * ------------------------------------------------------------------------------------------------------------------ */
@@ -94,9 +93,8 @@ textarea { resize: none; outline: 0; }
   margin-top: 0;
 }
 
-
-.panel .list-group-item{
-  border-color: #efefef;
+.list-group-item:first-child,.list-group-item:last-child {
+ border-radius:0;
 }
 
 .dropdown-menu {
@@ -197,64 +195,8 @@ textarea { resize: none; outline: 0; }
   margin-top: 10px;
 }
 
-/* Panel change pic
+/* Panel search mini...
  * ------------------------------------------------------------------------------------------------------------------ */
-.panel-change-pic .panel-body{
-  font-family: 'Roboto', sans-serif;
-  font-size: 12px;
-}
-
-/* Panel post
- * ------------------------------------------------------------------------------------------------------------------ */
-.panel-post .panel-body{
-  font-family: 'Roboto', sans-serif;
-  font-size: 12px;
-}
-
-.panel-post .panel-body h3{
-  font-size: 1.2em;
-  margin-top: 0;
-  margin-bottom: 5px;
-}
-
-.panel-post .panel-body blockquote{
-  font-size: 1em;
-  padding-top: 0;
-  padding-bottom: 0;
-}
-
-/* Well server name
- * ------------------------------------------------------------------------------------------------------------------ */
-.well-server-name{
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-.well-server-name h4{
-  color: #666;
-  font-weight: 100;
-  font-size: 1em;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.well-server-name h4 b {
-  color: #000;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 1px #cfcfcf;
-}
-
-/* Panel scorers
- * ------------------------------------------------------------------------------------------------------------------ */
-.panel-scorers .table-responsive{
-  font-family: 'Roboto', sans-serif;
-  font-size: 12px;
-}
-
-/* Panel chart
- * ------------------------------------------------------------------------------------------------------------------ */
-.panel-chart .panel-body{
-  height: 200px;
-}
 
 
 /* Well Twitch
