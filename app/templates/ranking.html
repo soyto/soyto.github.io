@@ -1,105 +1,103 @@
-<!-- Breadcrumb -->
 <ol class="breadcrumb">
   <li><a href="#/">Home</a></li>
-  <li><a ng-href="#/ranking/{{serverData.name}}">{{serverData.name}}</a></li>
-  <li><a ng-href="#/ranking/{{serverData.name}}/{{serverData.date}}">{{serverData.date}}</a></li>
-</ol><!-- /Breadcrumb -->
+  <li><a ng-href="#/ranking/{{serverData.serverName}}">{{serverData.serverName}}</a></li>
+  <li><a ng-href="#/ranking/{{serverData.serverName}}/{{serverData.date}}">{{serverData.date}}</a></li>
+</ol>
 
-<!-- Scorers and chart -->
-<div class="row">
+<div class="row" ng-if="serverData.data.stats">
 
-  <!-- Col for serverName and scorers -->
-  <div class="col-md-4" >
+  <div class="col-md-4">
 
-    <!-- Well server name -->
-    <div class="well well-server-name">
-      <h4 class="text-center">{{ serverData.name }} <b>{{ serverData.date}}</b></h4>
-    </div><!-- /Well server name -->
-
-    <!-- Panel top scorers -->
-    <div class="panel panel-scorers" data-ng-if="serverData.stats">
-      <div class="table-responsive">
+    <div class="panel">
+      <div class="panel-body">
         <table class="table table-condensed">
 
           <thead>
-          <tr>
-            <th></th>
-            <th>Elyos</th>
-            <th>Asmodian</th>
-          </tr>
+            <tr>
+              <th></th>
+              <th>Elyos</th>
+              <th>Asmodian</th>
+            </tr>
           </thead>
 
           <tbody>
 
-          <!-- Glory points -->
-          <tr>
-            <td>Glory points</td>
-            <td>
-              <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.topHP.characterID}}">
-                {{serverData.data.stats.elyos.topHP.characterName}}
-              </a> (<span class="text-muted">{{serverData.data.stats.elyos.topHP.gloryPointChange}}</span>)
-            </td>
-            <td>
-              <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.topHP.characterID}}">
-                {{serverData.data.stats.asmodians.topHP.characterName}}
-              </a> (<span class="text-muted">{{serverData.data.stats.asmodians.topHP.gloryPointChange}}</span>)
-            </td>
-          </tr>
+            <tr>
+              <td>Point scorers</td>
+              <td>
+                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.topHP.characterID}}">
+                  {{serverData.data.stats.elyos.topHP.characterName}}
+                </a> (<span class="text-muted">{{serverData.data.stats.elyos.topHP.gloryPointChange}}</span>)
+              </td>
+              <td>
+                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.topHP.characterID}}">
+                  {{serverData.data.stats.asmodians.topHP.characterName}}
+                </a> (<span class="text-muted">{{serverData.data.stats.asmodians.topHP.gloryPointChange}}</span>)
+              </td>
+            </tr>
 
-          <tr>
-            <td>Positions up</td>
-            <td>
-              <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.topPositionChange.characterID}}">
-                {{serverData.data.stats.elyos.topPositionChange.characterName}}
-              </a> (<span class="text-muted">{{serverData.data.stats.elyos.topPositionChange.rankingPositionChange}}</span>)
-            </td>
-            <td>
-              <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.topPositionChange.characterID}}">
-                {{serverData.data.stats.asmodians.topPositionChange.characterName}}
-              </a> (<span class="text-muted">{{serverData.data.stats.asmodians.topPositionChange.rankingPositionChange}}</span>)
-            </td>
-          </tr>
+            <tr>
+              <td>Positions up</td>
+              <td>
+                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.topPositionChange.characterID}}">
+                  {{serverData.data.stats.elyos.topPositionChange.characterName}}
+                </a> (<span class="text-muted">{{serverData.data.stats.elyos.topPositionChange.rankingPositionChange}}</span>)
+              </td>
+              <td>
+                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.topPositionChange.characterID}}">
+                  {{serverData.data.stats.asmodians.topPositionChange.characterName}}
+                </a> (<span class="text-muted">{{serverData.data.stats.asmodians.topPositionChange.rankingPositionChange}}</span>)
+              </td>
+            </tr>
 
-          <tr>
-            <td>Positions down</td>
-            <td>
-              <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.lowerPositionChange.characterID}}">
-                {{serverData.data.stats.elyos.lowerPositionChange.characterName}}
-              </a> (<span class="text-muted">{{serverData.data.stats.elyos.lowerPositionChange.rankingPositionChange}}</span>)
-            </td>
-            <td>
-              <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.lowerPositionChange.characterID}}">
-                {{serverData.data.stats.asmodians.lowerPositionChange.characterName}}
-              </a> (<span class="text-muted">{{serverData.data.stats.asmodians.lowerPositionChange.rankingPositionChange}}</span>)
-            </td>
-          </tr>
+            <tr>
+              <td>Positions down</td>
+              <td>
+                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.lowerPositionChange.characterID}}">
+                  {{serverData.data.stats.elyos.lowerPositionChange.characterName}}
+                </a> (<span class="text-muted">{{serverData.data.stats.elyos.lowerPositionChange.rankingPositionChange}}</span>)
+              </td>
+              <td>
+                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.lowerPositionChange.characterID}}">
+                  {{serverData.data.stats.asmodians.lowerPositionChange.characterName}}
+                </a> (<span class="text-muted">{{serverData.data.stats.asmodians.lowerPositionChange.rankingPositionChange}}</span>)
+              </td>
+            </tr>
 
           </tbody>
 
         </table>
       </div>
-    </div><!-- /Panel top scorers -->
+    </div>
+  </div>
 
-  </div><!-- Col for serverName and scorers -->
-
-  <!-- Column for chart -->
   <div class="col-md-8">
-    <div class="panel panel-chart">
-      <div class="panel-body">
-        <canvas id="line" class="chart chart-line"
-                data-chart-data="chartData.data"
-                data-chart-labels="chartData.labels"
-                data-chart-series="chartData.series"
-                data-chart-options="chartData.options"
-                data-chart-colours="chartData.colors" >
+    <div class="panel">
+      <div class="panel-heading">
+        <h4> Honor vs Position for <b>{{serverData.serverName}}</b> <small> on {{serverData.date}}</small></h4>
+      </div>
+      <div class="panel-body" style="height:200px; max-height: 200px;">
+        <canvas id="line" class="chart chart-line" data="chart.data"
+                labels="chart.labels" legend="true" series="chart.series" options="chart.options" colours="chart.colors" >
         </canvas>
       </div>
     </div>
-  </div><!-- /Column for chart -->
+  </div>
 
-</div><!-- /Scorers and chart -->
+</div>
 
-<!-- Filters -->
+<div class="row" ng-if="!serverData.data.stats">
+  <div class="col-md-12">
+    <div class="panel">
+      <div class="panel-heading"><h4>{{serverData.serverName}} <small>{{serverData.date}}</small></h4></div>
+      <div class="panel-body" style="max-height: 200px">
+        <canvas id="line" class="chart chart-line" data="chart.data" labels="chart.labels" legend="true" series="chart.series" options="chart.options" colours="chart.colors" >
+        </canvas>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="row">
 
   <div class="col-md-8 col-sm-12">
@@ -137,39 +135,30 @@
 
   <div class="col-md-4 col-sm-12">
 
-    <div class="panel">
-      <div class="panel-body">
-        <form class="form-inline">
+    <div class="well">
+      <form class="form-inline">
 
-          <div class="form-group">
-            <select id="server" class="form-control"
-                    data-ng-model="filtersData.serverName"
-                    data-ng-options="server.name for server in filtersData.servers"></select>
-          </div>
+        <div class="form-group">
+          <select id="server" class="form-control" ng-model="currentServer" ng-options="server.name for server in servers"></select>
+        </div>
 
-          <div class="form-group">
-            <select id="searchDate" class="form-control"
-                    data-ng-model="filtersData.serverDate"
-                    data-ng-options="date for date in filtersData.dates"></select>
-          </div>
+        <div class="form-group">
+          <select id="searchDate" class="form-control" ng-model="searchDate" ng-options="date for date in storedDates"></select>
+        </div>
 
-          <div class="form-group">
-            <button type="button" class="btn btn-primary"
-                    data-ng-disabled="filtersData.serverName.name == serverData.name && filtersData.serverDate == serverData.date"
-                    data-ng-click="onClick_changeServerAndDate(filtersData.serverName.name, filtersData.serverDate)">Change</button>
-          </div>
+        <div class="form-group">
+          <button type="button" class="btn btn-primary" ng-click="goTo(currentServer, searchDate)">Go</button>
+        </div>
 
-        </form>
-      </div>
+      </form>
     </div>
 
   </div>
 
-</div><!-- /Filters -->
+</div>
 
 <hr>
 
-<!-- Whole table -->
 <div class="row">
   <div class="col-md-12">
     <div class="panel">
@@ -441,4 +430,4 @@
       </div>
     </div>
   </div>
-</div><!-- /Whole table -->
+</div>
