@@ -3,52 +3,117 @@
 
   var CONTROLLER_NAME = 'mainApp.ranking.list.controller';
 
-  ng.module('mainApp').controller(CONTROLLER_NAME, [
-    '$log', '$scope', '$location', '$timeout', 'helperService',  'storedDataService', 'serverData', index_controller
-  ]);
+  ng.module('mainApp').controller(CONTROLLER_NAME, ['$scope', '$hs', 'serverData', _fn]);
 
-  function index_controller($log, $scope, $location, $timeout, helperService, storedDataService, serverData) {
-    $scope._name = CONTROLLER_NAME;
+  function _fn($sc, $hs, serverData) {
+
+    var $log = $hs.$instantiate('$log');
+    var $q = $hs.$q;
+    var $location = $hs.$instantiate('$location');
+    var $timeout = $hs.$instantiate('$timeout');
+    var storedDataService = $hs.$instantiate('storedDataService');
 
     var initialVersusData = [];
     var textSearch_timeoutPromise = null;
 
-    //Call to init Fn
-    _init();
+    //ServerData
+    var _serverData = {
+      'serverName': null,
+      'date': null,
+      'stats': {
+        'elyos': {
+          'topHP': null,
+          'topPositionChange': null,
+        },
+        'asmodians': {
+          'topHP': null,
+          'topPositionChange': null,
+        }
+      },
+      'asmodians': {},
+      'elyos':  {},
+      'versus': {}
+    };
 
-    //Change server or date Fn
-    $scope.goTo = function(server, serverDate) {
-      //Same data and server, don't do nothing
-      if(server.name == serverData.serverName && serverDate == serverData.date) {
-        return;
-      }
+    //Chart data
+    var _chartData = {
+      'options': {
+        'responsive': true,
+        'maintainAspectRatio': false,
+        'legend': {
+          'display': true,
+        }
+      },
+      'labels': [],
+      'series': ['Elyos', 'Asmodians'],
+      'data': [[], []],
+      'colors': ['#DD66DD', '#97BBCD'],
+      'num_divisions': 20
+    };
 
-      $location.path('/ranking/' + server.name + '/' + serverDate);
+    //Filters data
+    var _filtersData = {
+      'serverName': '',
+      'serverDate': '',
+
+      'servers': [],
+      'dates': [],
+      'classes': [],
+      'ranks': [],
+
+
     };
 
 
+    //Call to init Fn
+    _init();
+
+    /*  -------------------------------------  SCOPE FUNCTIONS   ---------------------------------------------------  */
+
+    //Change server or date Fn
+    $sc.onClick_changeServerAndDate = function(newServerName, newServerDate) {
+
+      //Same data and server, don't do nothing
+      if(_serverData['name'] == newServerName && _serverData['date'] == newServerDate) {
+        return;
+      }
+
+      //Change location
+      $location.path('/ranking/' + newServerName + '/' + newServerDate);
+    };
+
+    /*  -------------------------------------  PRIVATE FUNCTIONS   -------------------------------------------------  */
+
     //Initialization Fn
     function _init() {
+      //Set the controller name
+      $sc['_name'] = CONTROLLER_NAME;
+
+      $log.debug('ServerData %o', serverData);
 
       //Title and navigation
-      helperService.$scope.setTitle(serverData.serverName + ' -> ' + serverData.date);
-      helperService.$scope.setNav('ranking.list');
+      $hs['$scope'].setTitle(serverData['serverName'] + ' ' + serverData['date']);
+      $hs['$scope'].setNav('ranking.list');
 
-      //Store data on scope...
-      $scope.serverData = serverData;
+      //Sets up the serverData
+      _setUpServerData();
+      _setUpChartData();
+      _setUpFiltersData();
+
+
+      //Set objects on scope
+      $sc['serverData']  = _serverData;
+      $sc['chartData'] = _chartData;
+      $sc['filtersData'] = _filtersData;
+
+
+
+      $log.debug('ChartData %o', _chartData);
+
+      return;
 
       //Filters initial data
-      $scope.textSearch = '';
-      $scope.searchDate = serverData.date;
-      $scope.currentServer = storedDataService.serversList.first(function(server){ return server.name == serverData.serverName; });
-
-      //Filters data
-      $scope.storedDates = storedDataService.storedDates;
-      $scope.servers = storedDataService.serversList;
-      $scope.classes = storedDataService.characterClassIds.where(function(itm){ return itm.id; });
-      $scope.ranks = storedDataService.characterSoldierRankIds
-        .where(function(itm){ return itm.id >= 10; })
-        .sort(function(a, b){ return b.id - a.id; });
+      $sc.textSearch = '';
 
       //Set up pagination needed data
       var basePaginationObj = {
@@ -64,34 +129,103 @@
         goTo: _paginationObject_goTo
       };
 
-      $scope.pagination = {};
-      $scope.pagination.elyos = ng.copy(basePaginationObj);
-      $scope.pagination.asmodians = ng.copy(basePaginationObj);
-      $scope.pagination.vs = ng.copy(basePaginationObj);
+      $sc.pagination = {};
+      $sc.pagination.elyos = ng.copy(basePaginationObj);
+      $sc.pagination.asmodians = ng.copy(basePaginationObj);
+      $sc.pagination.vs = ng.copy(basePaginationObj);
 
-
-      //Generate data that will go to chart
-      _generateChartData(serverData);
 
       //Store in a cache the versus data generated
       initialVersusData = _generateVersusData(serverData);
 
       //Store and paginate 3 tables
-      _initPagination(serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
-      _initPagination(serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
-      _initPagination(initialVersusData, $scope.pagination.vs);
+      _initPagination(serverData.data.elyos.select(_initCharacter), $sc.pagination.elyos);
+      _initPagination(serverData.data.asmodians.select(_initCharacter), $sc.pagination.asmodians);
+      _initPagination(initialVersusData, $sc.pagination.vs);
 
       //Add watchers
-      $scope.$watch('textSearch', function(newValue){
-        _performFilterAndSearch(newValue, $scope.selectedClass, $scope.selectedRank);
+      $sc.$watch('textSearch', function(newValue){
+        _performFilterAndSearch(newValue, $sc.selectedClass, $sc.selectedRank);
       });
-      $scope.$watch('selectedClass', function(newValue){
-        _performFilterAndSearch($scope.textSearch, newValue, $scope.selectedRank);
+      $sc.$watch('selectedClass', function(newValue){
+        _performFilterAndSearch($sc.textSearch, newValue, $sc.selectedRank);
       });
-      $scope.$watch('selectedRank', function(newValue){
-        _performFilterAndSearch($scope.textSearch, $scope.selectedClass, newValue);
+      $sc.$watch('selectedRank', function(newValue){
+        _performFilterAndSearch($sc.textSearch, $sc.selectedClass, newValue);
       });
     }
+
+    //Sets up the server data
+    function _setUpServerData() {
+
+      _serverData['name'] = serverData['serverName'];
+      _serverData['date'] = serverData['date'];
+
+
+      //Set stats if they are avaliable on serverData
+      if(serverData['data']['status'] !== undefined) {
+        _serverData['stats']['elyos']['topHP'] = '';
+        _serverData['stats']['elyos']['topPositionChange'] = '';
+        _serverData['stats']['asmodians']['topHP'] = '';
+        _serverData['stats']['asmodians']['topPositionChange'] = '';
+      }
+      else {
+        delete _serverData['stats'];
+      }
+    }
+
+    //Will generate values for the chart
+    function _setUpChartData() {
+
+      var _step = 1000 / _chartData['num_divisions'];
+
+      for(var i = 0; i <= _chartData['num_divisions']; i++) {
+
+        var _position = 1000 - i * _step;
+
+        //Normalize values
+        if(_position === 0) { _position = 1; }
+        if(i === 0) { _position = 999; }
+
+        var _elyosCharacter = _findCharacterByPosition('elyos', _position);
+        var _asmodianCharacter = _findCharacterByPosition('asmodians', _position);
+
+        _chartData['labels'].push(_position);
+        _chartData['data'][0].push(_elyosCharacter ? _elyosCharacter['gloryPoint']: 0);
+        _chartData['data'][1].push(_asmodianCharacter ? _asmodianCharacter['gloryPoint']: 0);
+      }
+
+      function _findCharacterByPosition(faction, position) {
+        return serverData['data'][faction].first(function($$character){ return $$character['position'] === position; });
+      }
+    }
+
+    //Sets up filters data
+    function _setUpFiltersData() {
+
+      _filtersData['serverName'] = storedDataService['serversList']
+          .first(function($$itm){ return $$itm['name'] == serverData['serverName']; });
+      _filtersData['serverDate'] = serverData['date'];
+
+
+      _filtersData['servers'] = storedDataService['serversList'];
+      _filtersData['dates'] = storedDataService['storedDates'];
+      _filtersData['classes'] = storedDataService['characterClassIds'].where(function($$itm){ return $$itm['id'] === undefined; });
+      _filtersData['ranks'] = storedDataService['characterSoldierRankIds']
+          .where(function($$itm){ return $$itm['id'] >= 10; })
+          .sort(function(a, b){ return b['id'] - a['id']; });
+    }
+
+
+
+
+
+
+
+
+
+
+
 
     //Initializes a character
     function _initCharacter(character) {
@@ -115,27 +249,27 @@
 
         //If not filter is provided
         if(!classToFilter && !textToSearch && !rankToFilter) {
-          $scope.elyosData = _initPagination(serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
-          $scope.asmodianData = _initPagination(serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
-          $scope.versusData = _initPagination(initialVersusData, $scope.pagination.vs);
+          $sc.elyosData = _initPagination(serverData.data.elyos.select(_initCharacter), $sc.pagination.elyos);
+          $sc.asmodianData = _initPagination(serverData.data.asmodians.select(_initCharacter), $sc.pagination.asmodians);
+          $sc.versusData = _initPagination(initialVersusData, $sc.pagination.vs);
           return;
         }
 
         //Filter elyos data
-        $scope.elyosData = _initPagination(serverData.data.elyos.where(function(character) {
+        $sc.elyosData = _initPagination(serverData.data.elyos.where(function(character) {
           return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
-        }).select(_initCharacter), $scope.pagination.elyos);
+        }).select(_initCharacter), $sc.pagination.elyos);
 
         //Filter asmodian data
-        $scope.asmodianData = _initPagination(serverData.data.asmodians.where(function(character) {
+        $sc.asmodianData = _initPagination(serverData.data.asmodians.where(function(character) {
           return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
-        }).select(_initCharacter), $scope.pagination.asmodians);
+        }).select(_initCharacter), $sc.pagination.asmodians);
 
         //Filter versus data
-        $scope.versusData = _initPagination(initialVersusData.where(function(pair){
+        $sc.versusData = _initPagination(initialVersusData.where(function(pair){
           return filterCharacter(pair.elyo, textToSearch, classToFilter, rankToFilter) ||
             filterCharacter(pair.asmodian, textToSearch, classToFilter, rankToFilter);
-        }), $scope.pagination.vs);
+        }), $sc.pagination.vs);
 
       }, 500);
 
@@ -205,44 +339,7 @@
       return versusData;
     }
 
-    //Will generate values for the chart
-    function _generateChartData(serverData) {
 
-      var num_elements = 10;
-      var step = 1000 / num_elements;
-
-      $scope.chart = {};
-      $scope.chart.options = {
-        responsive: true,
-        maintainAspectRatio: false
-      };
-
-      $scope.chart.labels = [];
-      $scope.chart.series = ['Elyos', 'Asmodians'];
-      $scope.chart.data = [[],[]];
-      $scope.chart.colors = ['#DD66DD', '#97BBCD'];
-
-      for(var i = 0; i <= num_elements; i++) {
-        var position = 1000 - i * step;
-
-        if(position === 0) {
-          position = 1;
-        }
-
-        if(i === 0) {
-          position = 999;
-        }
-
-        /* jshint-W083 */
-        var elyosCharacter = serverData.data.elyos.first(function(char){ return char.position == position;});
-        var asmodianCharacter = serverData.data.asmodians.first(function(char){ return char.position == position;});
-        /* jshint+W083 */
-
-        $scope.chart.labels.push(position);
-        $scope.chart.data[0].push(elyosCharacter ? elyosCharacter.gloryPoint : 0);
-        $scope.chart.data[1].push(asmodianCharacter ? asmodianCharacter.gloryPoint : 0);
-      }
-    }
 
 
     //Initializes pagination

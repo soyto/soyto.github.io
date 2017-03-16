@@ -93,7 +93,7 @@
 
         _parentElement.animate({
           'scrollTop': _scrollTop,
-        }, 200, 'swing');
+        }, 100, 'swing');
       });
 
 
