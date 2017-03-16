@@ -1642,7 +1642,9 @@
       {'serverName': 'Hyperion', 'characterID': 783863}, //Siith
       {'serverName': 'Hellion', 'characterID': 428540}, //Kerberos
       {'serverName': 'Barus', 'characterID': 396287}, //Seyune
-      {'serverName': 'Barus', 'characterID': 916298}, //CiuCiuu
+      {'serverName': 'Barus', 'characterID': 916298}, //CiuCiuu,
+      {'serverName': 'Hyperion', 'characterID': 377330}, //Balonna,
+
     ];
 
     //Who asked to remove his old guild names
