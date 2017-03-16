@@ -7,10 +7,10 @@
 /* Body and globals
  * ------------------------------------------------------------------------------------------------------------------ */
 body{
-    background-color:#e0e0e0;
-    -webkit-font-smoothing: antialiased;
-    font-size: 14px;
-    font-family: 'Josefin Sans',arial,sans-serif;
+  background-color:#e0e0e0;
+  -webkit-font-smoothing: antialiased;
+  font-size: 14px;
+  font-family: 'Josefin Sans',arial,sans-serif;
 }
 
 .btn,.form-control,.panel,.list-group,.well {border-radius:1px;box-shadow:0 0 0;}
@@ -81,8 +81,8 @@ textarea { resize: none; outline: 0; }
 }
 
 .panel .panel-heading a {
- font-weight:400;
- font-size:11px;
+  font-weight:400;
+  font-size:11px;
 }
 
 .panel .panel-heading h1,
@@ -94,14 +94,14 @@ textarea { resize: none; outline: 0; }
 }
 
 .list-group-item:first-child,.list-group-item:last-child {
- border-radius:0;
+  border-radius:0;
 }
 
 .dropdown-menu {
- background-color:#f4f4f4;
- border-color:#f0f0f0;
- border-radius:0;
- margin-top:-1px;
+  background-color:#f4f4f4;
+  border-color:#f0f0f0;
+  border-radius:0;
+  margin-top:-1px;
 }
 /* end theme */
 
@@ -116,15 +116,15 @@ textarea { resize: none; outline: 0; }
   width: 100%;
 }
 .panel .panel-thumbnail .social-icons {
-   position: absolute;
-   bottom: 0;
-   width: 100%;
-   background-color: rgba(200, 200, 200, .5);
-   text-align: right;
-   padding: 0 15px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(200, 200, 200, .5);
+  text-align: right;
+  padding: 0 15px;
 }
 .panel .panel-thumbnail .social-icons i {
- color: #555;
+  color: #555;
 }
 
 /* Well last update
@@ -203,61 +203,61 @@ textarea { resize: none; outline: 0; }
  * ------------------------------------------------------------------------------------------------------------------ */
 
 .well-twitch{
-    background-position: center;
-    background-repeat:no-repeat;
-    -webkit-background-size:cover;
-    -moz-background-size:cover;
-    -o-background-size:cover;
-    background-size:cover;
-    background-position:center;
-    padding: 0;
+  background-position: center;
+  background-repeat:no-repeat;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  background-position:center;
+  padding: 0;
 }
 .well-twitch .well-bg-color{
-    padding: 9px;
-    background-color: rgba(30, 30, 30, .5);
+  padding: 9px;
+  background-color: rgba(30, 30, 30, .5);
 }
 
 .well-twitch .media-left .twitch-thumbnail{
-    width: 120px;
-    padding: 2px;
-    margin-bottom: 0;
+  width: 120px;
+  padding: 2px;
+  margin-bottom: 0;
 }
 
 .well-twitch .media-body .twitch-display-name a{
-    color: #fff;
-    font-size: 24px;
+  color: #fff;
+  font-size: 24px;
 }
 .well-twitch .media-body .twitch-status{
-    color: #fff;
-    font-size: 10px;
+  color: #fff;
+  font-size: 10px;
 }
 .well-twitch .media-body .twitch-online-status {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 .well-twitch .media-body .twitch-online-status .text-danger{
-    color: red;
+  color: red;
 }
 .well-twitch .media-body .twitch-online-status span {
-    color: #fff;
-    position: relative;
-    top: -2px;
-    font-size: 24px;
+  color: #fff;
+  position: relative;
+  top: -2px;
+  font-size: 24px;
 }
 .well-twitch .media-body .twitch-viewers {
-    color: #fff;
+  color: #fff;
 }
 
 /* Template layout
  * ------------------------------------------------------------------------------------------------------------------ */
 #subnav {
- position:fixed;
- width:100%;
+  position:fixed;
+  width:100%;
 }
 
 @media (max-width: 768px) {
- #subnav {
-  padding-top: 6px;
- }
+  #subnav {
+    padding-top: 6px;
+  }
 }
 
 #main { padding-top:70px; }

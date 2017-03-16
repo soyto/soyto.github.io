@@ -246,7 +246,12 @@
         </div>
 
         <div ng-show="showing == 'graph'">
-          <canvas id="line" class="chart chart-line" data="chart.data" labels="chart.labels" legend="true" series="chart.series" options="chart.options" >
+          <canvas id="line" class="chart chart-line"
+                  data-chart-data="chart.data"
+                  data-chart-labels="chart.labels"
+                  data-chart-series="chart.series"
+                  data-chart-options="chart.options"
+                  data-chart-colours="chart.colors" >
           </canvas>
         </div>
 

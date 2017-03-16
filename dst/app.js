@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.16.0)
+ * Soyto.github.io (0.15.31)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -19,10 +19,6 @@
 (function(ng, navigator, moment, marked, jQuery){
   'use strict';
 
-  var IS_MOBILE_REGEX_1 = /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i;
-  var IS_MOBILE_REGEX_2 = /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i;
-  var $$IS_MOBILE =  IS_MOBILE_REGEX_1.test(navigator.userAgent) || IS_MOBILE_REGEX_2.test(navigator.userAgent.substr(0,4));
-
   ng.module('mainApp',[
     'ngRoute',
     'ngSanitize',
@@ -36,31 +32,14 @@
       .constant('$moment', moment)
       .constant('$marked', marked)
       .constant('jQuery', jQuery)
-      .constant('$isMobile', $$IS_MOBILE)
+      .config(['$routeProvider', configRoutes])
       .config(['cfpLoadingBarProvider', cfpLoadingBarFn]);
 
-
+  var IS_MOBILE_REGEX_1 = /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i;
+  var IS_MOBILE_REGEX_2 = /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i;
+  var $$IS_MOBILE =  IS_MOBILE_REGEX_1.test(navigator.userAgent) || IS_MOBILE_REGEX_2.test(navigator.userAgent.substr(0,4));
 
   function configRoutes($routeProvider) {
-
-
-  }
-
-  function cfpLoadingBarFn(cfpLoadingBarProvider) {
-    cfpLoadingBarProvider['includeSpinner'] = false;
-    cfpLoadingBarProvider['includeBar']  = true;
-  }
-
-})(angular, navigator, moment, marked, jQuery);
-
-
-/* global */
-(function(ng){
-  'use strict';
-
-  ng.module('mainApp').config(['$routeProvider', '$isMobile', _fn]);
-
-  function _fn($routeProvider, $isMobile) {
 
     //Index route
     var _indexRouteData = {
@@ -91,7 +70,7 @@
         }]
       }
     };
-    $routeProvider.when('/ranking/:serverName', $isMobile ? rankingRouteMobileData :  rankingRouteData);
+    $routeProvider.when('/ranking/:serverName', $$IS_MOBILE ? rankingRouteMobileData :  rankingRouteData);
 
     var rankingWithDateRouteData = {
       'templateUrl': '/app/templates/ranking.html',
@@ -115,7 +94,7 @@
         }]
       }
     };
-    $routeProvider.when('/ranking/:serverName/:date', $isMobile ? rankingWithDateRouteMobileData : rankingWithDateRouteData);
+    $routeProvider.when('/ranking/:serverName/:date', $$IS_MOBILE ? rankingWithDateRouteMobileData : rankingWithDateRouteData);
 
 
     var characterInfoRouteData = {
@@ -140,10 +119,16 @@
         }]
       }
     };
-    $routeProvider.when('/character/:serverName/:characterID', $isMobile ? characterInfoMobileRouteData :  characterInfoRouteData);
+    $routeProvider.when('/character/:serverName/:characterID', $$IS_MOBILE ? characterInfoMobileRouteData :  characterInfoRouteData);
   }
 
-})(angular);
+  function cfpLoadingBarFn(cfpLoadingBarProvider) {
+    cfpLoadingBarProvider['includeSpinner'] = false;
+    cfpLoadingBarProvider['includeBar']  = true;
+  }
+
+})(angular, navigator, moment, marked, jQuery);
+
 
 (function(ng){
   'use strict';
@@ -574,117 +559,52 @@
 
   var CONTROLLER_NAME = 'mainApp.ranking.list.controller';
 
-  ng.module('mainApp').controller(CONTROLLER_NAME, ['$scope', '$hs', 'serverData', _fn]);
+  ng.module('mainApp').controller(CONTROLLER_NAME, [
+    '$log', '$scope', '$location', '$timeout', 'helperService',  'storedDataService', 'serverData', index_controller
+  ]);
 
-  function _fn($sc, $hs, serverData) {
-
-    var $log = $hs.$instantiate('$log');
-    var $q = $hs.$q;
-    var $location = $hs.$instantiate('$location');
-    var $timeout = $hs.$instantiate('$timeout');
-    var storedDataService = $hs.$instantiate('storedDataService');
+  function index_controller($log, $scope, $location, $timeout, helperService, storedDataService, serverData) {
+    $scope._name = CONTROLLER_NAME;
 
     var initialVersusData = [];
     var textSearch_timeoutPromise = null;
 
-    //ServerData
-    var _serverData = {
-      'serverName': null,
-      'date': null,
-      'stats': {
-        'elyos': {
-          'topHP': null,
-          'topPositionChange': null,
-        },
-        'asmodians': {
-          'topHP': null,
-          'topPositionChange': null,
-        }
-      },
-      'asmodians': {},
-      'elyos':  {},
-      'versus': {}
-    };
-
-    //Chart data
-    var _chartData = {
-      'options': {
-        'responsive': true,
-        'maintainAspectRatio': false,
-        'legend': {
-          'display': true,
-        }
-      },
-      'labels': [],
-      'series': ['Elyos', 'Asmodians'],
-      'data': [[], []],
-      'colors': ['#DD66DD', '#97BBCD'],
-      'num_divisions': 20
-    };
-
-    //Filters data
-    var _filtersData = {
-      'serverName': '',
-      'serverDate': '',
-
-      'servers': [],
-      'dates': [],
-      'classes': [],
-      'ranks': [],
-
-
-    };
-
-
     //Call to init Fn
     _init();
 
-    /*  -------------------------------------  SCOPE FUNCTIONS   ---------------------------------------------------  */
-
     //Change server or date Fn
-    $sc.onClick_changeServerAndDate = function(newServerName, newServerDate) {
-
+    $scope.goTo = function(server, serverDate) {
       //Same data and server, don't do nothing
-      if(_serverData['name'] == newServerName && _serverData['date'] == newServerDate) {
+      if(server.name == serverData.serverName && serverDate == serverData.date) {
         return;
       }
 
-      //Change location
-      $location.path('/ranking/' + newServerName + '/' + newServerDate);
+      $location.path('/ranking/' + server.name + '/' + serverDate);
     };
 
-    /*  -------------------------------------  PRIVATE FUNCTIONS   -------------------------------------------------  */
 
     //Initialization Fn
     function _init() {
-      //Set the controller name
-      $sc['_name'] = CONTROLLER_NAME;
-
-      $log.debug('ServerData %o', serverData);
 
       //Title and navigation
-      $hs['$scope'].setTitle(serverData['serverName'] + ' ' + serverData['date']);
-      $hs['$scope'].setNav('ranking.list');
+      helperService.$scope.setTitle(serverData.serverName + ' -> ' + serverData.date);
+      helperService.$scope.setNav('ranking.list');
 
-      //Sets up the serverData
-      _setUpServerData();
-      _setUpChartData();
-      _setUpFiltersData();
-
-
-      //Set objects on scope
-      $sc['serverData']  = _serverData;
-      $sc['chartData'] = _chartData;
-      $sc['filtersData'] = _filtersData;
-
-
-
-      $log.debug('ChartData %o', _chartData);
-
-      return;
+      //Store data on scope...
+      $scope.serverData = serverData;
 
       //Filters initial data
-      $sc.textSearch = '';
+      $scope.textSearch = '';
+      $scope.searchDate = serverData.date;
+      $scope.currentServer = storedDataService.serversList.first(function(server){ return server.name == serverData.serverName; });
+
+      //Filters data
+      $scope.storedDates = storedDataService.storedDates;
+      $scope.servers = storedDataService.serversList;
+      $scope.classes = storedDataService.characterClassIds.where(function(itm){ return itm.id; });
+      $scope.ranks = storedDataService.characterSoldierRankIds
+        .where(function(itm){ return itm.id >= 10; })
+        .sort(function(a, b){ return b.id - a.id; });
 
       //Set up pagination needed data
       var basePaginationObj = {
@@ -700,103 +620,34 @@
         goTo: _paginationObject_goTo
       };
 
-      $sc.pagination = {};
-      $sc.pagination.elyos = ng.copy(basePaginationObj);
-      $sc.pagination.asmodians = ng.copy(basePaginationObj);
-      $sc.pagination.vs = ng.copy(basePaginationObj);
+      $scope.pagination = {};
+      $scope.pagination.elyos = ng.copy(basePaginationObj);
+      $scope.pagination.asmodians = ng.copy(basePaginationObj);
+      $scope.pagination.vs = ng.copy(basePaginationObj);
 
+
+      //Generate data that will go to chart
+      _generateChartData(serverData);
 
       //Store in a cache the versus data generated
       initialVersusData = _generateVersusData(serverData);
 
       //Store and paginate 3 tables
-      _initPagination(serverData.data.elyos.select(_initCharacter), $sc.pagination.elyos);
-      _initPagination(serverData.data.asmodians.select(_initCharacter), $sc.pagination.asmodians);
-      _initPagination(initialVersusData, $sc.pagination.vs);
+      _initPagination(serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
+      _initPagination(serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
+      _initPagination(initialVersusData, $scope.pagination.vs);
 
       //Add watchers
-      $sc.$watch('textSearch', function(newValue){
-        _performFilterAndSearch(newValue, $sc.selectedClass, $sc.selectedRank);
+      $scope.$watch('textSearch', function(newValue){
+        _performFilterAndSearch(newValue, $scope.selectedClass, $scope.selectedRank);
       });
-      $sc.$watch('selectedClass', function(newValue){
-        _performFilterAndSearch($sc.textSearch, newValue, $sc.selectedRank);
+      $scope.$watch('selectedClass', function(newValue){
+        _performFilterAndSearch($scope.textSearch, newValue, $scope.selectedRank);
       });
-      $sc.$watch('selectedRank', function(newValue){
-        _performFilterAndSearch($sc.textSearch, $sc.selectedClass, newValue);
+      $scope.$watch('selectedRank', function(newValue){
+        _performFilterAndSearch($scope.textSearch, $scope.selectedClass, newValue);
       });
     }
-
-    //Sets up the server data
-    function _setUpServerData() {
-
-      _serverData['name'] = serverData['serverName'];
-      _serverData['date'] = serverData['date'];
-
-
-      //Set stats if they are avaliable on serverData
-      if(serverData['data']['status'] !== undefined) {
-        _serverData['stats']['elyos']['topHP'] = '';
-        _serverData['stats']['elyos']['topPositionChange'] = '';
-        _serverData['stats']['asmodians']['topHP'] = '';
-        _serverData['stats']['asmodians']['topPositionChange'] = '';
-      }
-      else {
-        delete _serverData['stats'];
-      }
-    }
-
-    //Will generate values for the chart
-    function _setUpChartData() {
-
-      var _step = 1000 / _chartData['num_divisions'];
-
-      for(var i = 0; i <= _chartData['num_divisions']; i++) {
-
-        var _position = 1000 - i * _step;
-
-        //Normalize values
-        if(_position === 0) { _position = 1; }
-        if(i === 0) { _position = 999; }
-
-        var _elyosCharacter = _findCharacterByPosition('elyos', _position);
-        var _asmodianCharacter = _findCharacterByPosition('asmodians', _position);
-
-        _chartData['labels'].push(_position);
-        _chartData['data'][0].push(_elyosCharacter ? _elyosCharacter['gloryPoint']: 0);
-        _chartData['data'][1].push(_asmodianCharacter ? _asmodianCharacter['gloryPoint']: 0);
-      }
-
-      function _findCharacterByPosition(faction, position) {
-        return serverData['data'][faction].first(function($$character){ return $$character['position'] === position; });
-      }
-    }
-
-    //Sets up filters data
-    function _setUpFiltersData() {
-
-      _filtersData['serverName'] = storedDataService['serversList']
-          .first(function($$itm){ return $$itm['name'] == serverData['serverName']; });
-      _filtersData['serverDate'] = serverData['date'];
-
-
-      _filtersData['servers'] = storedDataService['serversList'];
-      _filtersData['dates'] = storedDataService['storedDates'];
-      _filtersData['classes'] = storedDataService['characterClassIds'].where(function($$itm){ return $$itm['id'] === undefined; });
-      _filtersData['ranks'] = storedDataService['characterSoldierRankIds']
-          .where(function($$itm){ return $$itm['id'] >= 10; })
-          .sort(function(a, b){ return b['id'] - a['id']; });
-    }
-
-
-
-
-
-
-
-
-
-
-
 
     //Initializes a character
     function _initCharacter(character) {
@@ -820,27 +671,27 @@
 
         //If not filter is provided
         if(!classToFilter && !textToSearch && !rankToFilter) {
-          $sc.elyosData = _initPagination(serverData.data.elyos.select(_initCharacter), $sc.pagination.elyos);
-          $sc.asmodianData = _initPagination(serverData.data.asmodians.select(_initCharacter), $sc.pagination.asmodians);
-          $sc.versusData = _initPagination(initialVersusData, $sc.pagination.vs);
+          $scope.elyosData = _initPagination(serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
+          $scope.asmodianData = _initPagination(serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
+          $scope.versusData = _initPagination(initialVersusData, $scope.pagination.vs);
           return;
         }
 
         //Filter elyos data
-        $sc.elyosData = _initPagination(serverData.data.elyos.where(function(character) {
+        $scope.elyosData = _initPagination(serverData.data.elyos.where(function(character) {
           return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
-        }).select(_initCharacter), $sc.pagination.elyos);
+        }).select(_initCharacter), $scope.pagination.elyos);
 
         //Filter asmodian data
-        $sc.asmodianData = _initPagination(serverData.data.asmodians.where(function(character) {
+        $scope.asmodianData = _initPagination(serverData.data.asmodians.where(function(character) {
           return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
-        }).select(_initCharacter), $sc.pagination.asmodians);
+        }).select(_initCharacter), $scope.pagination.asmodians);
 
         //Filter versus data
-        $sc.versusData = _initPagination(initialVersusData.where(function(pair){
+        $scope.versusData = _initPagination(initialVersusData.where(function(pair){
           return filterCharacter(pair.elyo, textToSearch, classToFilter, rankToFilter) ||
             filterCharacter(pair.asmodian, textToSearch, classToFilter, rankToFilter);
-        }), $sc.pagination.vs);
+        }), $scope.pagination.vs);
 
       }, 500);
 
@@ -910,7 +761,44 @@
       return versusData;
     }
 
+    //Will generate values for the chart
+    function _generateChartData(serverData) {
 
+      var num_elements = 10;
+      var step = 1000 / num_elements;
+
+      $scope.chart = {};
+      $scope.chart.options = {
+        responsive: true,
+        maintainAspectRatio: false
+      };
+
+      $scope.chart.labels = [];
+      $scope.chart.series = ['Elyos', 'Asmodians'];
+      $scope.chart.data = [[],[]];
+      $scope.chart.colors = ['#DD66DD', '#97BBCD'];
+
+      for(var i = 0; i <= num_elements; i++) {
+        var position = 1000 - i * step;
+
+        if(position === 0) {
+          position = 1;
+        }
+
+        if(i === 0) {
+          position = 999;
+        }
+
+        /* jshint-W083 */
+        var elyosCharacter = serverData.data.elyos.first(function(char){ return char.position == position;});
+        var asmodianCharacter = serverData.data.asmodians.first(function(char){ return char.position == position;});
+        /* jshint+W083 */
+
+        $scope.chart.labels.push(position);
+        $scope.chart.data[0].push(elyosCharacter ? elyosCharacter.gloryPoint : 0);
+        $scope.chart.data[1].push(asmodianCharacter ? asmodianCharacter.gloryPoint : 0);
+      }
+    }
 
 
     //Initializes pagination
