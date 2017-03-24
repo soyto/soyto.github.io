@@ -52,6 +52,8 @@
       {'serverName': 'Hellion', 'characterID': 428540}, //Kerberos
       {'serverName': 'Barus', 'characterID': 396287}, //Seyune
       {'serverName': 'Barus', 'characterID': 916298}, //CiuCiuu
+      {'serverName': 'Hellion', 'characterID': 612759}, //Turbonugget
+      {'serverName': 'Hellion', 'characterID': 499099}, //Pepatheinquin
     ];
 
     //Wich servers
