@@ -39,6 +39,7 @@
       {'serverName': 'Barus', 'characterID': 396287}, //Seyune
       {'serverName': 'Barus', 'characterID': 916298}, //CiuCiuu,
       {'serverName': 'Hyperion', 'characterID': 377330}, //Balonna,
+      {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha,
 
     ];
 
@@ -54,6 +55,7 @@
       {'serverName': 'Barus', 'characterID': 916298}, //CiuCiuu
       {'serverName': 'Hellion', 'characterID': 612759}, //Turbonugget
       {'serverName': 'Hellion', 'characterID': 499099}, //Pepatheinquin
+      {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha
     ];
 
     //Wich servers
