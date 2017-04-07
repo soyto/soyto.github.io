@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.16.2)
+ * Soyto.github.io (0.16.3)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1661,6 +1661,7 @@
       {'serverName': 'Hellion', 'characterID': 612759}, //Turbonugget
       {'serverName': 'Hellion', 'characterID': 499099}, //Pepatheinquin
       {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha
+      {'serverName': 'Hyperion', 'characterID': 57501},
     ];
 
     //Wich servers

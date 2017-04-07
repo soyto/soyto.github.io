@@ -56,6 +56,7 @@
       {'serverName': 'Hellion', 'characterID': 612759}, //Turbonugget
       {'serverName': 'Hellion', 'characterID': 499099}, //Pepatheinquin
       {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha
+      {'serverName': 'Hyperion', 'characterID': 57501},
     ];
 
     //Wich servers
