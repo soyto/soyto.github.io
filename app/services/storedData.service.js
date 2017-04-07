@@ -39,8 +39,8 @@
       {'serverName': 'Barus', 'characterID': 396287}, //Seyune
       {'serverName': 'Barus', 'characterID': 916298}, //CiuCiuu,
       {'serverName': 'Hyperion', 'characterID': 377330}, //Balonna,
-      {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha,
-
+      {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha
+      {'serverName': 'Hyperion', 'characterID': 57501}
     ];
 
     //Who asked to remove his old guild names
