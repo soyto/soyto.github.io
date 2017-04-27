@@ -40,7 +40,8 @@
       {'serverName': 'Barus', 'characterID': 916298}, //CiuCiuu,
       {'serverName': 'Hyperion', 'characterID': 377330}, //Balonna,
       {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha
-      {'serverName': 'Hyperion', 'characterID': 57501}
+      {'serverName': 'Hyperion', 'characterID': 57501},
+      {'serverName': 'Loki', 'characterID': 70525}, //Gshee
     ];
 
     //Who asked to remove his old guild names
@@ -57,6 +58,7 @@
       {'serverName': 'Hellion', 'characterID': 499099}, //Pepatheinquin
       {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha
       {'serverName': 'Hyperion', 'characterID': 57501},
+      {'serverName': 'Loki', 'characterID': 70525}, //Gshee
     ];
 
     //Wich servers
