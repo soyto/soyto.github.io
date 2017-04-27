@@ -42,6 +42,7 @@
       {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha
       {'serverName': 'Hyperion', 'characterID': 57501},
       {'serverName': 'Loki', 'characterID': 70525}, //Gshee
+      {'serverName': 'Loki', 'characterID': 883570}, //Ilill
     ];
 
     //Who asked to remove his old guild names
@@ -59,6 +60,7 @@
       {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha
       {'serverName': 'Hyperion', 'characterID': 57501},
       {'serverName': 'Loki', 'characterID': 70525}, //Gshee
+      {'serverName': 'Loki', 'characterID': 883570}, //Ilill
     ];
 
     //Wich servers
