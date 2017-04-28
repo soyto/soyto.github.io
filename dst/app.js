@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.16.6)
+ * Soyto.github.io (0.17.0)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1192,7 +1192,7 @@
 (function(ng){
   'use strict';
 
-  ng.module('mainApp').directive('fbLike', ['$window', function($window)  {
+  ng.module('mainApp').directive('ngFbLike', ['$window', function($window)  {
 
 
     function _linkFn($sc, $element, $attr) {
@@ -1205,7 +1205,9 @@
 
         var _html = _createHTML(_href, _layout, _action, _showFaces);
 
-        $element.html(_html);
+        $element.empty().append(jQuery(_html));
+
+
 
         if($window.FB) {
           $window.FB.XFBML.parse($element[0]);
@@ -1218,8 +1220,7 @@
         'data-href="' + href + '" ' +
         'data-layout="' + layout + '" ' +
         'data-action="' + action + '"' +
-        'data-show-faces="' + showFaces + '>' +
-        '</div>';
+        'data-show-faces="' + showFaces + '"></div>';
     }
 
 
