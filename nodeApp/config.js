@@ -17,6 +17,7 @@ module.exports = {
       'app/controllers/ranking.list.mobile.controller.js',
       'app/controllers/root.controller.js',
       'app/directives/facebookCommentBox.directive.js',
+      'app/directives/facebookLike.directive.js',
       'app/directives/ngScrollTo.directive.js',
       'app/directives/twitchPanel.directive.js',
       'app/services/blog.service.js',
