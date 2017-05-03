@@ -43,6 +43,7 @@
       {'serverName': 'Hyperion', 'characterID': 57501},
       {'serverName': 'Loki', 'characterID': 70525}, //Gshee
       {'serverName': 'Loki', 'characterID': 883570}, //Ilill
+      {'serverName': 'Deyla', 'characterID': 953168}, //Sylrel
     ];
 
     //Who asked to remove his old guild names
