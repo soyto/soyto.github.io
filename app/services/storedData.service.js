@@ -273,7 +273,7 @@
         $wholeData.forEach(function($$entry){
           $$entry['characterClass'] = $this.getCharacterClass($$entry['characterClassID']);
           $$entry['soldierRank'] = $this.getCharacterRank($$entry['characterSoldierRankID']);
-          $$entry['raceName'] = $$entry['raceID'] == 1 ? 'Asmodian' : 'Elyos';
+          $$entry['raceName'] = $$entry['characterRaceID'] == 1 ? 'Asmodian' : 'Elyos';
         });
 
         _cacheCharacterCheatSheet = $wholeData;

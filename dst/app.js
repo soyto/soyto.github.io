@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.17.2)
+ * Soyto.github.io (0.17.3)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1923,7 +1923,7 @@
         $wholeData.forEach(function($$entry){
           $$entry['characterClass'] = $this.getCharacterClass($$entry['characterClassID']);
           $$entry['soldierRank'] = $this.getCharacterRank($$entry['characterSoldierRankID']);
-          $$entry['raceName'] = $$entry['raceID'] == 1 ? 'Asmodian' : 'Elyos';
+          $$entry['raceName'] = $$entry['characterRaceID'] == 1 ? 'Asmodian' : 'Elyos';
         });
 
         _cacheCharacterCheatSheet = $wholeData;
