@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.17.9)
+ * Soyto.github.io (0.17.11)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1697,6 +1697,7 @@
       {'serverName': 'Thor', 'characterID': 1369119}, //Necarunerk
       {'serverName': 'Thor', 'characterID': 1225673}, //Gvnr
       {'serverName': 'Hellion', 'characterID': 612759}, //OjV
+      {'serverName': 'Thor', 'characterID': 1369978}, //Sprtmster
     ];
 
     //Who asked to remove his old guild names
@@ -1718,6 +1719,7 @@
       {'serverName': 'Thor', 'characterID': 1369119}, //Necarunerk
       {'serverName': 'Hellion', 'characterID': 612759}, //OjV
       {'serverName': 'Thor', 'characterID': 1225673}, //Gvnr
+      {'serverName': 'Thor', 'characterID': 1369978}, //Sprtmster
     ];
 
     //Wich servers
