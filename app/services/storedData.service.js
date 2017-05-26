@@ -46,6 +46,7 @@
       {'serverName': 'Deyla', 'characterID': 953168}, //Sylrel
       {'serverName': 'Thor', 'characterID': 1369119}, //Necarunerk
       {'serverName': 'Thor', 'characterID': 1225673}, //Gvnr
+      {'serverName': 'Hellion', 'characterID': 612759}, //OjV
     ];
 
     //Who asked to remove his old guild names
@@ -65,6 +66,7 @@
       {'serverName': 'Loki', 'characterID': 70525}, //Gshee
       {'serverName': 'Loki', 'characterID': 883570}, //Ilill
       {'serverName': 'Thor', 'characterID': 1369119}, //Necarunerk
+      {'serverName': 'Hellion', 'characterID': 612759}, //OjV
     ];
 
     //Wich servers
