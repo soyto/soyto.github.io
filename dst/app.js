@@ -1717,6 +1717,7 @@
       {'serverName': 'Loki', 'characterID': 883570}, //Ilill
       {'serverName': 'Thor', 'characterID': 1369119}, //Necarunerk
       {'serverName': 'Hellion', 'characterID': 612759}, //OjV
+      {'serverName': 'Thor', 'characterID': 1225673}, //Gvnr
     ];
 
     //Wich servers
