@@ -1698,6 +1698,7 @@
       {'serverName': 'Thor', 'characterID': 1225673}, //Gvnr
       {'serverName': 'Hellion', 'characterID': 612759}, //OjV
       {'serverName': 'Thor', 'characterID': 1369978}, //Sprtmster
+      {'serverName': 'Barus', 'characterID': 87465}, //Naki
     ];
 
     //Who asked to remove his old guild names
@@ -1720,6 +1721,7 @@
       {'serverName': 'Hellion', 'characterID': 612759}, //OjV
       {'serverName': 'Thor', 'characterID': 1225673}, //Gvnr
       {'serverName': 'Thor', 'characterID': 1369978}, //Sprtmster
+      {'serverName': 'Barus', 'characterID': 87465}, //Naki
     ];
 
     //Wich servers
