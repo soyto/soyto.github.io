@@ -52,6 +52,8 @@
       {'serverName': 'Loki', 'characterID': 1187322}, //Psyxc
       {'serverName': 'Hellion', 'characterID': 442918}, // Kenae
       {'serverName': 'Thor', 'characterID': 1273074}, //Kumuky
+      {'serverName': 'Thor', 'characterID': 1273074}, //Kumuky
+      {'serverName': 'Antriksha', 'characterID': 723417}, //Riyuko
     ];
 
     //Who asked to remove his old guild names
@@ -77,6 +79,7 @@
       {'serverName': 'Barus', 'characterID': 87465}, //Naki
       {'serverName': 'Hellion', 'characterID': 442918}, // Kenae
       {'serverName': 'Thor', 'characterID': 1273074}, //Kumuky
+      {'serverName': 'Antriksha', 'characterID': 723417}, //Riyuko
     ];
 
     //Wich servers
