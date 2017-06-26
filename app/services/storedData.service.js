@@ -81,6 +81,7 @@
       {'serverName': 'Hellion', 'characterID': 442918}, // Kenae
       {'serverName': 'Thor', 'characterID': 1273074}, //Kumuky
       {'serverName': 'Antriksha', 'characterID': 723417}, //Riyuko
+      {'serverName': 'Deyla', 'characterID': 1161433}, //Pyirra
     ];
 
     //Wich servers

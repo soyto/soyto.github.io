@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.17.16)
+ * Soyto.github.io (0.17.17)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1731,6 +1731,7 @@
       {'serverName': 'Hellion', 'characterID': 442918}, // Kenae
       {'serverName': 'Thor', 'characterID': 1273074}, //Kumuky
       {'serverName': 'Antriksha', 'characterID': 723417}, //Riyuko
+      {'serverName': 'Deyla', 'characterID': 1161433}, //Pyirra
     ];
 
     //Wich servers
