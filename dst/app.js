@@ -1706,6 +1706,7 @@
       {'serverName': 'Antriksha', 'characterID': 723417}, //Riyuko
       {'serverName': 'Deyla', 'characterID': 1161433}, //Pyirra
       {'serverName': 'Hyperion', 'characterID': 525356}, //Akirawoofametsu
+      {'serverName': 'Hellion', 'characterID': 305832}, //Yukasuna
     ];
 
     //Who asked to remove his old guild names
@@ -1734,6 +1735,7 @@
       {'serverName': 'Antriksha', 'characterID': 723417}, //Riyuko
       {'serverName': 'Deyla', 'characterID': 1161433}, //Pyirra
       {'serverName': 'Hyperion', 'characterID': 525356}, //Akirawoofametsu
+      {'serverName': 'Hellion', 'characterID': 305832}, //Yukasuna
     ];
 
     //Wich servers
