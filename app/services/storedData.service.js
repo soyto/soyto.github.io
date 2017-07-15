@@ -59,6 +59,7 @@
       {'serverName': 'Hellion', 'characterID': 305832}, //Yukasuna
       {'serverName': 'Thor', 'characterID': 1946026}, //Instantflashulti
       {'serverName': 'Thor', 'characterID': 1391505}, //Kiyumah
+      {'serverName': 'Deyla', 'characterID': 98839}, //Pupper 
     ];
 
     //Who asked to remove his old guild names
