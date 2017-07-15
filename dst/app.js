@@ -1708,6 +1708,7 @@
       {'serverName': 'Hyperion', 'characterID': 525356}, //Akirawoofametsu
       {'serverName': 'Hellion', 'characterID': 305832}, //Yukasuna
       {'serverName': 'Thor', 'characterID': 1946026}, //Instantflashulti
+      {'serverName': 'Thor', 'characterID': 1391505}, //Kiyumah
     ];
 
     //Who asked to remove his old guild names
