@@ -59,7 +59,8 @@
       {'serverName': 'Hellion', 'characterID': 305832}, //Yukasuna
       {'serverName': 'Thor', 'characterID': 1946026}, //Instantflashulti
       {'serverName': 'Thor', 'characterID': 1391505}, //Kiyumah
-      {'serverName': 'Deyla', 'characterID': 98839}, //Pupper 
+      {'serverName': 'Deyla', 'characterID': 98839}, //Pupper
+      {'serverName': 'Hyperion', 'characterID': 375208}, //Nllll
     ];
 
     //Who asked to remove his old guild names
@@ -91,6 +92,7 @@
       {'serverName': 'Hellion', 'characterID': 305832}, //Yukasuna
       {'serverName': 'Thor', 'characterID': 1946026}, //Instantflashulti
       {'serverName': 'Deyla', 'characterID': 953168}, //Sylrel
+      {'serverName': 'Hyperion', 'characterID': 375208}, //Nllll
     ];
 
     //Wich servers
