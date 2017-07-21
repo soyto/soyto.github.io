@@ -90,6 +90,7 @@
       {'serverName': 'Hyperion', 'characterID': 525356}, //Akirawoofametsu
       {'serverName': 'Hellion', 'characterID': 305832}, //Yukasuna
       {'serverName': 'Thor', 'characterID': 1946026}, //Instantflashulti
+      {'serverName': 'Deyla', 'characterID': 953168}, //Sylrel
     ];
 
     //Wich servers
