@@ -229,6 +229,9 @@ module.exports = function(grunt) {
       _createPlayersCheatSheet()
     });
 
+    //9th step, generate sitemap
+    sp = sp.then(_generateSitemap);
+
     //Confirm all
     sp.then(function(){
       _done();
@@ -456,6 +459,9 @@ module.exports = function(grunt) {
   //Generates dates-files
   grunt.registerTask('generate-dates-file' , _generateDatesFile);
 
+  //Generates sitemap
+  grunt.registerTask('generate-sitemap', 'generates sitemap for site', _generateSitemap);
+
   //Will generate dates file
   function _generateDatesFile() {
     var folderDates = grunt.file.expand(baseFolder + 'Servers/*').where(function(folderName) {
@@ -619,6 +625,43 @@ module.exports = function(grunt) {
         'character': _wholeData
       }
     }));
+  }
+
+  //Generates sitemap
+  function _generateSitemap() {
+    $log.debug('Starting to generate sitemap.xml');
+
+    var _txt = '<?xml version="1.0" encoding="UTF-8"?>\n';
+    _txt += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
+    _txt += '<url><loc>http://soyto.github.io/</loc></url>\n';
+
+    //Server files
+    grunt.file.expand('data/Servers/*').forEach(function($$folder) {
+
+      var _date = $$folder.split('/')[2];
+
+      if(_date == 'Characters') { return; }
+
+      grunt.file.expand($$folder + '/*.json').forEach(function($$fileName) {
+        var _serverName = $$fileName.split('/')[3].split('.')[0];
+        _txt += '<url><loc>http://soyto.github.io/#/ranking/' +  _serverName + '/' + _date + '</loc></url>\n';
+      });
+    });
+
+    //Character files
+    grunt.file.expand('data/Servers/Characters/*').forEach(function($$serverCharacterFolder) {
+      var _serverName = $$serverCharacterFolder.split('/')[3];
+
+      grunt.file.expand($$serverCharacterFolder + '/*.json').forEach(function($$characterFile) {
+        var _characterId = $$characterFile.split('/')[4].split('.')[0];
+        _txt += '<url><loc>http://soyto.github.io/#/character/' +  _serverName + '/' + _characterId + '</loc></url>\n';
+      });
+    });
+
+    _txt += '</urlset>';
+    grunt.file.write('sitemap.xml', _txt);
+
+    $log.debug('Sitemap file generated')
   }
 
   //Sorsts server files in ascendant way...
