@@ -130,6 +130,9 @@
 
       $scope.serverData = serverData;
 
+      //Is server data empty?
+      $scope['isEmpty'] = serverData['data']['asmodians'].length === 0 && serverData['data']['elyos'].length === 0;
+
       $scope.storedDates = storedDataService.storedDates;
       $scope.servers = storedDataService.serversList;
       $scope.classes = storedDataService.characterClassIds.where(function(itm){ return itm.id; });

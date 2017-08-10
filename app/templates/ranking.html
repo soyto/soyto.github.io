@@ -4,300 +4,382 @@
   <li><a ng-href="#/ranking/{{serverData.serverName}}/{{serverData.date}}">{{serverData.date}}</a></li>
 </ol>
 
-<div class="row" ng-if="serverData.data.stats">
+<!-- If is not empty -->
+<div data-ng-if="!isEmpty">
 
-  <div class="col-md-4">
+  <div class="row" ng-if="serverData.data.stats">
 
-    <div class="panel">
-      <div class="panel-body">
-        <table class="table table-condensed">
+    <div class="col-md-4">
 
-          <thead>
-            <tr>
-              <th></th>
-              <th>Elyos</th>
-              <th>Asmodian</th>
-            </tr>
-          </thead>
+      <div class="panel">
+        <div class="panel-body">
+          <table class="table table-condensed">
 
-          <tbody>
-
-            <tr>
-              <td>Point scorers</td>
-              <td>
-                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.topHP.characterID}}">
-                  {{serverData.data.stats.elyos.topHP.characterName}}
-                </a> (<span class="text-muted">{{serverData.data.stats.elyos.topHP.gloryPointChange}}</span>)
-              </td>
-              <td>
-                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.topHP.characterID}}">
-                  {{serverData.data.stats.asmodians.topHP.characterName}}
-                </a> (<span class="text-muted">{{serverData.data.stats.asmodians.topHP.gloryPointChange}}</span>)
-              </td>
-            </tr>
-
-            <tr>
-              <td>Positions up</td>
-              <td>
-                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.topPositionChange.characterID}}">
-                  {{serverData.data.stats.elyos.topPositionChange.characterName}}
-                </a> (<span class="text-muted">{{serverData.data.stats.elyos.topPositionChange.rankingPositionChange}}</span>)
-              </td>
-              <td>
-                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.topPositionChange.characterID}}">
-                  {{serverData.data.stats.asmodians.topPositionChange.characterName}}
-                </a> (<span class="text-muted">{{serverData.data.stats.asmodians.topPositionChange.rankingPositionChange}}</span>)
-              </td>
-            </tr>
-
-            <tr>
-              <td>Positions down</td>
-              <td>
-                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.lowerPositionChange.characterID}}">
-                  {{serverData.data.stats.elyos.lowerPositionChange.characterName}}
-                </a> (<span class="text-muted">{{serverData.data.stats.elyos.lowerPositionChange.rankingPositionChange}}</span>)
-              </td>
-              <td>
-                <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.lowerPositionChange.characterID}}">
-                  {{serverData.data.stats.asmodians.lowerPositionChange.characterName}}
-                </a> (<span class="text-muted">{{serverData.data.stats.asmodians.lowerPositionChange.rankingPositionChange}}</span>)
-              </td>
-            </tr>
-
-          </tbody>
-
-        </table>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-8">
-    <div class="panel">
-      <div class="panel-heading">
-        <h4> Honor vs Position for <b>{{serverData.serverName}}</b> <small> on {{serverData.date}}</small></h4>
-      </div>
-      <div class="panel-body" style="height:200px; max-height: 200px;">
-        <canvas id="line" class="chart chart-line"
-                data-chart-data="chart.data"
-                data-chart-labels="chart.labels"
-                data-chart-series="chart.series"
-                data-chart-options="chart.options"
-                data-chart-colours="chart.colors" >
-        </canvas>
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<div class="row" ng-if="!serverData.data.stats">
-  <div class="col-md-12">
-    <div class="panel">
-      <div class="panel-heading"><h4>{{serverData.serverName}} <small>{{serverData.date}}</small></h4></div>
-      <div class="panel-body" style="max-height: 200px">
-        <canvas id="line" class="chart chart-line"
-                data-chart-data="chart.data"
-                data-chart-labels="chart.labels"
-                data-chart-series="chart.series"
-                data-chart-options="chart.options"
-                data-chart-colours="chart.colors" >
-        </canvas>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-
-  <div class="col-md-8 col-sm-12">
-    <div class="well">
-      <form class="form-inline">
-
-        <div class="form-group">
-          <div class="input-group">
-            <div class="input-group-addon">Class</div>
-            <select id="selectedClass" class="form-control" ng-model="selectedClass" ng-options="class.name for class in classes">
-              <option value="">-- All classes --</option>
-            </select>
-          </div>
-        </div>
-
-        <div class="form-group">
-          <div class="input-group">
-            <div class="input-group-addon">Rank</div>
-            <select id="selectedRank" class="form-control" ng-model="selectedRank" ng-options="rank.name for rank in ranks">
-              <option value="">-- All ranks --</option>
-            </select>
-          </div>
-        </div>
-
-        <div class="form-group">
-          <div class="input-group">
-            <div class="input-group-addon"><i class="fa fa-search"></i></div>
-            <input id="searcher" type="search" class="form-control" ng-model="textSearch" />
-          </div>
-        </div>
-
-      </form>
-    </div>
-  </div>
-
-  <div class="col-md-4 col-sm-12">
-
-    <div class="well">
-      <form class="form-inline">
-
-        <div class="form-group">
-          <select id="server" class="form-control" ng-model="currentServer" ng-options="server.name for server in servers"></select>
-        </div>
-
-        <div class="form-group">
-          <select id="searchDate" class="form-control" ng-model="searchDate" ng-options="date for date in storedDates"></select>
-        </div>
-
-        <div class="form-group">
-          <button type="button" class="btn btn-primary" ng-click="goTo(currentServer, searchDate)">Go</button>
-        </div>
-
-      </form>
-    </div>
-
-  </div>
-
-</div>
-
-<hr>
-
-<div class="row">
-  <div class="col-md-12">
-    <div class="panel">
-
-      <div class="panel-heading">
-        <ul class="nav nav-tabs" data-ng-init="showing='vs'">
-          <li role="presentation" data-ng-class="{active: showing=='vs'}"><a ng-click="showing='vs'">Versus</a></li>
-          <li role="presentation" data-ng-class="{active: showing=='elyos'}"><a ng-click="showing='elyos'">Elyos</a></li>
-          <li role="presentation" data-ng-class="{active: showing=='asmodians'}"><a ng-click="showing='asmodians'">Asmodians</a></li>
-        </ul>
-      </div>
-      <div class="panel-body">
-
-        <div ng-show="showing=='vs'">
-
-          <nav class="text-center">
-            <ul class="pagination">
-              <li ng-class="{'disabled': pagination.vs.currentPage == 0}">
-                <a href="" aria-label="Previous" ng-click="pagination.vs.previous()"><i class="fa fa-angle-left"></i></a>
-              </li>
-
-              <li ng-repeat="idx in pagination.vs.pageNumbers" ng-class="{'active': pagination.vs.currentPage + 1 == idx }">
-                <a href="" ng-click="pagination.vs.goTo(idx)">{{idx}}</a>
-              </li>
-
-              <li ng-class="{'disabled' : pagination.vs.currentPage + 1 == pagination.vs.numPages}">
-                <a href="" aria-label="Next" ng-click="pagination.vs.next()"><i class="fa fa-angle-right"></i></a>
-              </li>
-            </ul>
-          </nav>
-
-          <table class="table table-striped table-hover">
             <thead>
               <tr>
-
-                <th class="text-right">Change</th>
-                <th class="text-right">HP</th>
-                <th class="text-right">Class</th>
-                <th class="text-center">Name</th>
-                <th>#</th>
-                <th class="text-center">Name</th>
-                <th class="text-left">Class</th>
-                <th class="text-left">HP</th>
-                <th class="text-left">Change</th>
+                <th></th>
+                <th>Elyos</th>
+                <th>Asmodian</th>
               </tr>
             </thead>
+
             <tbody>
-              <tr ng-repeat="characterPair in pagination.vs.currentPageElements">
 
-                <td class="text-right">
-                  <i class="fa" ng-class="{
-                  'fa-arrow-up': characterPair.elyo.rankingPositionChange > 0,
-                  'text-success': characterPair.elyo.rankingPositionChange > 0,
-                  'fa-arrow-down': characterPair.elyo.rankingPositionChange < 0,
-                  'text-danger': characterPair.elyo.rankingPositionChange < 0,
-                  }"></i>
-                  {{ characterPair.elyo.rankingPositionChange }}
+              <tr>
+                <td>Point scorers</td>
+                <td>
+                  <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.topHP.characterID}}">
+                    {{serverData.data.stats.elyos.topHP.characterName}}
+                  </a> (<span class="text-muted">{{serverData.data.stats.elyos.topHP.gloryPointChange}}</span>)
                 </td>
-                <td class="text-right">{{ characterPair.elyo.gloryPoint }}</td>
-                <td class="text-right">{{ characterPair.elyo.characterClass.name }}</td>
-                <td class="text-center">
-                  <a ng-href="#/character/{{serverData.serverName}}/{{characterPair.elyo.characterID}}"><b>{{ characterPair.elyo.characterName }}</b></a>
-                  <p ng-if="characterPair.elyo.guildName">
-                    <small>[{{ characterPair.elyo.guildName }}]</small>
-                  </p>
+                <td>
+                  <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.topHP.characterID}}">
+                    {{serverData.data.stats.asmodians.topHP.characterName}}
+                  </a> (<span class="text-muted">{{serverData.data.stats.asmodians.topHP.gloryPointChange}}</span>)
                 </td>
-
-
-                <td>{{ characterPair.position }}<br /><i class="text-primary fa fa-exchange"></i></td>
-
-                <td class="text-center">
-                  <a ng-href="#/character/{{serverData.serverName}}/{{characterPair.asmodian.characterID}}"><b>{{ characterPair.asmodian.characterName }}</b></a>
-                  <p ng-if="characterPair.asmodian.guildName">
-                    <small>[{{ characterPair.asmodian.guildName }}]</small>
-                  </p>
-                </td>
-                <td class="text-left">{{ characterPair.asmodian.characterClass.name }}</td>
-                <td class="text-left">{{ characterPair.asmodian.gloryPoint }}</td>
-                <td class="text-left">
-                  {{ characterPair.asmodian.rankingPositionChange }}
-                  <i class="fa" ng-class="{
-                  'fa-arrow-up': characterPair.asmodian.arrowStatus=='UP',
-                  'text-success': characterPair.asmodian.arrowStatus=='UP',
-                  'fa-arrow-down': characterPair.asmodian.arrowStatus=='DOWN',
-                  'text-danger': characterPair.asmodian.arrowStatus=='DOWN',
-                  }"></i>
-                </td>
-
               </tr>
+
+              <tr>
+                <td>Positions up</td>
+                <td>
+                  <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.topPositionChange.characterID}}">
+                    {{serverData.data.stats.elyos.topPositionChange.characterName}}
+                  </a> (<span class="text-muted">{{serverData.data.stats.elyos.topPositionChange.rankingPositionChange}}</span>)
+                </td>
+                <td>
+                  <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.topPositionChange.characterID}}">
+                    {{serverData.data.stats.asmodians.topPositionChange.characterName}}
+                  </a> (<span class="text-muted">{{serverData.data.stats.asmodians.topPositionChange.rankingPositionChange}}</span>)
+                </td>
+              </tr>
+
+              <tr>
+                <td>Positions down</td>
+                <td>
+                  <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.elyos.lowerPositionChange.characterID}}">
+                    {{serverData.data.stats.elyos.lowerPositionChange.characterName}}
+                  </a> (<span class="text-muted">{{serverData.data.stats.elyos.lowerPositionChange.rankingPositionChange}}</span>)
+                </td>
+                <td>
+                  <a ng-href="#/character/{{serverData.serverName}}/{{serverData.data.stats.asmodians.lowerPositionChange.characterID}}">
+                    {{serverData.data.stats.asmodians.lowerPositionChange.characterName}}
+                  </a> (<span class="text-muted">{{serverData.data.stats.asmodians.lowerPositionChange.rankingPositionChange}}</span>)
+                </td>
+              </tr>
+
             </tbody>
+
           </table>
-
-          <nav class="text-center">
-            <ul class="pagination">
-              <li ng-class="{'disabled': pagination.vs.currentPage == 0}">
-                <a href="" aria-label="Previous" ng-click="pagination.vs.previous()"><i class="fa fa-angle-left"></i></a>
-              </li>
-
-              <li ng-repeat="idx in pagination.vs.pageNumbers" ng-class="{'active': pagination.vs.currentPage + 1 == idx }">
-                <a href="" ng-click="pagination.vs.goTo(idx)">{{idx}}</a>
-              </li>
-
-              <li ng-class="{'disabled' : pagination.vs.currentPage + 1 == pagination.vs.numPages}">
-                <a href="" aria-label="Next" ng-click="pagination.vs.next()"><i class="fa fa-angle-right"></i></a>
-              </li>
-            </ul>
-          </nav>
-
         </div>
+      </div>
+    </div>
 
-        <div ng-show="showing=='elyos'">
+    <div class="col-md-8">
+      <div class="panel">
+        <div class="panel-heading">
+          <h4> Honor vs Position for <b>{{serverData.serverName}}</b> <small> on {{serverData.date}}</small></h4>
+        </div>
+        <div class="panel-body" style="height:200px; max-height: 200px;">
+          <canvas id="line" class="chart chart-line"
+                  data-chart-data="chart.data"
+                  data-chart-labels="chart.labels"
+                  data-chart-series="chart.series"
+                  data-chart-options="chart.options"
+                  data-chart-colours="chart.colors" >
+          </canvas>
+        </div>
+      </div>
+    </div>
 
-          <nav class="text-center">
-            <ul class="pagination">
-              <li ng-class="{'disabled': pagination.elyos.currentPage == 0}">
-                <a href="" aria-label="Previous" ng-click="pagination.elyos.previous()"><i class="fa fa-angle-left"></i></a>
-              </li>
+  </div>
 
-              <li ng-repeat="idx in pagination.elyos.pageNumbers" ng-class="{'active': pagination.elyos.currentPage + 1 == idx }">
-                <a href="" ng-click="pagination.elyos.goTo(idx)">{{ idx }}</a>
-              </li>
+  <div class="row" ng-if="!serverData.data.stats">
+    <div class="col-md-12">
+      <div class="panel">
+        <div class="panel-heading"><h4>{{serverData.serverName}} <small>{{serverData.date}}</small></h4></div>
+        <div class="panel-body" style="max-height: 200px">
+          <canvas id="line" class="chart chart-line"
+                  data-chart-data="chart.data"
+                  data-chart-labels="chart.labels"
+                  data-chart-series="chart.series"
+                  data-chart-options="chart.options"
+                  data-chart-colours="chart.colors" >
+          </canvas>
+        </div>
+      </div>
+    </div>
+  </div>
 
-              <li ng-class="{'disabled' : pagination.elyos.currentPage + 1 == pagination.elyos.numPages}">
-                <a href="" aria-label="Next" ng-click="pagination.elyos.next()"><i class="fa fa-angle-right"></i></a>
-              </li>
-            </ul>
-          </nav>
+  <div class="row">
 
-          <table class="table table-striped table-hover">
-            <thead>
+    <div class="col-md-8 col-sm-12">
+      <div class="well">
+        <form class="form-inline">
+
+          <div class="form-group">
+            <div class="input-group">
+              <div class="input-group-addon">Class</div>
+              <select id="selectedClass" class="form-control" ng-model="selectedClass" ng-options="class.name for class in classes">
+                <option value="">-- All classes --</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <div class="input-group">
+              <div class="input-group-addon">Rank</div>
+              <select id="selectedRank" class="form-control" ng-model="selectedRank" ng-options="rank.name for rank in ranks">
+                <option value="">-- All ranks --</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <div class="input-group">
+              <div class="input-group-addon"><i class="fa fa-search"></i></div>
+              <input id="searcher" type="search" class="form-control" ng-model="textSearch" />
+            </div>
+          </div>
+
+        </form>
+      </div>
+    </div>
+
+    <div class="col-md-4 col-sm-12">
+
+      <div class="well">
+        <form class="form-inline">
+
+          <div class="form-group">
+            <select id="server" class="form-control" ng-model="currentServer" ng-options="server.name for server in servers"></select>
+          </div>
+
+          <div class="form-group">
+            <select id="searchDate" class="form-control" ng-model="searchDate" ng-options="date for date in storedDates"></select>
+          </div>
+
+          <div class="form-group">
+            <button type="button" class="btn btn-primary" ng-click="goTo(currentServer, searchDate)">Go</button>
+          </div>
+
+        </form>
+      </div>
+
+    </div>
+
+  </div>
+
+  <hr>
+
+  <div class="row">
+    <div class="col-md-12">
+      <div class="panel">
+
+        <div class="panel-heading">
+          <ul class="nav nav-tabs" data-ng-init="showing='vs'">
+            <li role="presentation" data-ng-class="{active: showing=='vs'}"><a ng-click="showing='vs'">Versus</a></li>
+            <li role="presentation" data-ng-class="{active: showing=='elyos'}"><a ng-click="showing='elyos'">Elyos</a></li>
+            <li role="presentation" data-ng-class="{active: showing=='asmodians'}"><a ng-click="showing='asmodians'">Asmodians</a></li>
+          </ul>
+        </div>
+        <div class="panel-body">
+
+          <div ng-show="showing=='vs'">
+
+            <nav class="text-center">
+              <ul class="pagination">
+                <li ng-class="{'disabled': pagination.vs.currentPage == 0}">
+                  <a href="" aria-label="Previous" ng-click="pagination.vs.previous()"><i class="fa fa-angle-left"></i></a>
+                </li>
+
+                <li ng-repeat="idx in pagination.vs.pageNumbers" ng-class="{'active': pagination.vs.currentPage + 1 == idx }">
+                  <a href="" ng-click="pagination.vs.goTo(idx)">{{idx}}</a>
+                </li>
+
+                <li ng-class="{'disabled' : pagination.vs.currentPage + 1 == pagination.vs.numPages}">
+                  <a href="" aria-label="Next" ng-click="pagination.vs.next()"><i class="fa fa-angle-right"></i></a>
+                </li>
+              </ul>
+            </nav>
+
+            <table class="table table-striped table-hover">
+              <thead>
+                <tr>
+
+                  <th class="text-right">Change</th>
+                  <th class="text-right">HP</th>
+                  <th class="text-right">Class</th>
+                  <th class="text-center">Name</th>
+                  <th>#</th>
+                  <th class="text-center">Name</th>
+                  <th class="text-left">Class</th>
+                  <th class="text-left">HP</th>
+                  <th class="text-left">Change</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr ng-repeat="characterPair in pagination.vs.currentPageElements">
+
+                  <td class="text-right">
+                    <i class="fa" ng-class="{
+                    'fa-arrow-up': characterPair.elyo.rankingPositionChange > 0,
+                    'text-success': characterPair.elyo.rankingPositionChange > 0,
+                    'fa-arrow-down': characterPair.elyo.rankingPositionChange < 0,
+                    'text-danger': characterPair.elyo.rankingPositionChange < 0,
+                    }"></i>
+                    {{ characterPair.elyo.rankingPositionChange }}
+                  </td>
+                  <td class="text-right">{{ characterPair.elyo.gloryPoint }}</td>
+                  <td class="text-right">{{ characterPair.elyo.characterClass.name }}</td>
+                  <td class="text-center">
+                    <a ng-href="#/character/{{serverData.serverName}}/{{characterPair.elyo.characterID}}"><b>{{ characterPair.elyo.characterName }}</b></a>
+                    <p ng-if="characterPair.elyo.guildName">
+                      <small>[{{ characterPair.elyo.guildName }}]</small>
+                    </p>
+                  </td>
+
+
+                  <td>{{ characterPair.position }}<br /><i class="text-primary fa fa-exchange"></i></td>
+
+                  <td class="text-center">
+                    <a ng-href="#/character/{{serverData.serverName}}/{{characterPair.asmodian.characterID}}"><b>{{ characterPair.asmodian.characterName }}</b></a>
+                    <p ng-if="characterPair.asmodian.guildName">
+                      <small>[{{ characterPair.asmodian.guildName }}]</small>
+                    </p>
+                  </td>
+                  <td class="text-left">{{ characterPair.asmodian.characterClass.name }}</td>
+                  <td class="text-left">{{ characterPair.asmodian.gloryPoint }}</td>
+                  <td class="text-left">
+                    {{ characterPair.asmodian.rankingPositionChange }}
+                    <i class="fa" ng-class="{
+                    'fa-arrow-up': characterPair.asmodian.arrowStatus=='UP',
+                    'text-success': characterPair.asmodian.arrowStatus=='UP',
+                    'fa-arrow-down': characterPair.asmodian.arrowStatus=='DOWN',
+                    'text-danger': characterPair.asmodian.arrowStatus=='DOWN',
+                    }"></i>
+                  </td>
+
+                </tr>
+              </tbody>
+            </table>
+
+            <nav class="text-center">
+              <ul class="pagination">
+                <li ng-class="{'disabled': pagination.vs.currentPage == 0}">
+                  <a href="" aria-label="Previous" ng-click="pagination.vs.previous()"><i class="fa fa-angle-left"></i></a>
+                </li>
+
+                <li ng-repeat="idx in pagination.vs.pageNumbers" ng-class="{'active': pagination.vs.currentPage + 1 == idx }">
+                  <a href="" ng-click="pagination.vs.goTo(idx)">{{idx}}</a>
+                </li>
+
+                <li ng-class="{'disabled' : pagination.vs.currentPage + 1 == pagination.vs.numPages}">
+                  <a href="" aria-label="Next" ng-click="pagination.vs.next()"><i class="fa fa-angle-right"></i></a>
+                </li>
+              </ul>
+            </nav>
+
+          </div>
+
+          <div ng-show="showing=='elyos'">
+
+            <nav class="text-center">
+              <ul class="pagination">
+                <li ng-class="{'disabled': pagination.elyos.currentPage == 0}">
+                  <a href="" aria-label="Previous" ng-click="pagination.elyos.previous()"><i class="fa fa-angle-left"></i></a>
+                </li>
+
+                <li ng-repeat="idx in pagination.elyos.pageNumbers" ng-class="{'active': pagination.elyos.currentPage + 1 == idx }">
+                  <a href="" ng-click="pagination.elyos.goTo(idx)">{{ idx }}</a>
+                </li>
+
+                <li ng-class="{'disabled' : pagination.elyos.currentPage + 1 == pagination.elyos.numPages}">
+                  <a href="" aria-label="Next" ng-click="pagination.elyos.next()"><i class="fa fa-angle-right"></i></a>
+                </li>
+              </ul>
+            </nav>
+
+            <table class="table table-striped table-hover">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Name</th>
+                  <th>Class</th>
+                  <th>GuildName</th>
+                  <th>Glory points</th>
+                  <th>Rank</th>
+                  <th>Ranking change</th>
+                  <th>HP change</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr ng-repeat="character in pagination.elyos.currentPageElements">
+                  <td>{{ character.position }}</td>
+                  <td><a ng-href="#/character/{{serverData.serverName}}/{{character.characterID}}">{{ character.characterName }}</a></td>
+                  <td>{{ character.characterClass.name }}</td>
+                  <td>{{ character.guildName }}</td>
+                  <td>{{ character.gloryPoint }}</td>
+                  <td>{{ character.soldierRank.name }}</td>
+                  <td>
+                    {{ character.rankingPositionChange }}
+                    <i class="fa" ng-class="{
+                      'fa-arrow-up': character.rankingPositionChange > 0,
+                      'text-success': character.rankingPositionChange > 0,
+                      'fa-arrow-down': character.rankingPositionChange < 0,
+                      'text-danger': character.rankingPositionChange < 0,
+                      }"></i>
+                  </td>
+                  <td>
+                    {{ character.gloryPointChange  || '--' }}
+                    <i class="fa" ng-class="{
+                      'fa-arrow-up': character.gloryPointChange > 0,
+                      'text-success': character.gloryPointChange > 0,
+                      'fa-arrow-down': character.gloryPointChange < 0,
+                      'text-danger': character.gloryPointChange < 0,
+                      }"></i>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+
+            <nav class="text-center">
+              <ul class="pagination">
+                <li ng-class="{'disabled': pagination.elyos.currentPage == 0}">
+                  <a href="" aria-label="Previous" ng-click="pagination.elyos.previous()"><i class="fa fa-angle-left"></i></a>
+                </li>
+
+                <li ng-repeat="idx in pagination.elyos.pageNumbers" ng-class="{'active': pagination.elyos.currentPage + 1 == idx }">
+                  <a href="" ng-click="pagination.elyos.goTo(idx)">{{ idx }}</a>
+                </li>
+
+                <li ng-class="{'disabled' : pagination.elyos.currentPage + 1 == pagination.elyos.numPages}">
+                  <a href="" aria-label="Next" ng-click="pagination.elyos.next()"><i class="fa fa-angle-right"></i></a>
+                </li>
+              </ul>
+            </nav>
+
+          </div>
+
+          <div ng-show="showing=='asmodians'">
+
+            <nav class="text-center">
+              <ul class="pagination">
+                <li ng-class="{'disabled': pagination.asmodians.currentPage == 0}">
+                  <a href="" aria-label="Previous" ng-click="pagination.asmodians.previous()"><i class="fa fa-angle-left"></i></a>
+                </li>
+
+                <li ng-repeat="idx in pagination.asmodians.pageNumbers" ng-class="{'active': pagination.asmodians.currentPage + 1 == idx }">
+                  <a href="" ng-click="pagination.asmodians.goTo(idx)">{{ idx }}</a>
+                </li>
+
+                <li ng-class="{'disabled' : pagination.asmodians.currentPage + 1 == pagination.asmodians.numPages}">
+                  <a href="" aria-label="Next" ng-click="pagination.asmodians.next()"><i class="fa fa-angle-right"></i></a>
+                </li>
+              </ul>
+            </nav>
+
+            <table class="table table-striped table-hover" >
+              <thead>
               <tr>
                 <th>#</th>
                 <th>Name</th>
@@ -308,9 +390,9 @@
                 <th>Ranking change</th>
                 <th>HP change</th>
               </tr>
-            </thead>
-            <tbody>
-              <tr ng-repeat="character in pagination.elyos.currentPageElements">
+              </thead>
+              <tbody>
+              <tr ng-repeat="character in pagination.asmodians.currentPageElements">
                 <td>{{ character.position }}</td>
                 <td><a ng-href="#/character/{{serverData.serverName}}/{{character.characterID}}">{{ character.characterName }}</a></td>
                 <td>{{ character.characterClass.name }}</td>
@@ -324,10 +406,10 @@
                     'text-success': character.rankingPositionChange > 0,
                     'fa-arrow-down': character.rankingPositionChange < 0,
                     'text-danger': character.rankingPositionChange < 0,
-                    }"></i>
+                      }"></i>
                 </td>
                 <td>
-                  {{ character.gloryPointChange  || '--' }}
+                  {{ character.gloryPointChange  || '--'}}
                   <i class="fa" ng-class="{
                     'fa-arrow-up': character.gloryPointChange > 0,
                     'text-success': character.gloryPointChange > 0,
@@ -336,107 +418,45 @@
                     }"></i>
                 </td>
               </tr>
-            </tbody>
-          </table>
+              </tbody>
+            </table>
 
-          <nav class="text-center">
-            <ul class="pagination">
-              <li ng-class="{'disabled': pagination.elyos.currentPage == 0}">
-                <a href="" aria-label="Previous" ng-click="pagination.elyos.previous()"><i class="fa fa-angle-left"></i></a>
-              </li>
+            <nav class="text-center">
+              <ul class="pagination">
+                <li ng-class="{'disabled': pagination.asmodians.currentPage == 0}">
+                  <a href="" aria-label="Previous" ng-click="pagination.asmodians.previous()"><i class="fa fa-angle-left"></i></a>
+                </li>
 
-              <li ng-repeat="idx in pagination.elyos.pageNumbers" ng-class="{'active': pagination.elyos.currentPage + 1 == idx }">
-                <a href="" ng-click="pagination.elyos.goTo(idx)">{{ idx }}</a>
-              </li>
+                <li ng-repeat="idx in pagination.asmodians.pageNumbers" ng-class="{'active': pagination.asmodians.currentPage + 1 == idx }">
+                  <a href="" ng-click="pagination.asmodians.goTo(idx)">{{ idx }}</a>
+                </li>
 
-              <li ng-class="{'disabled' : pagination.elyos.currentPage + 1 == pagination.elyos.numPages}">
-                <a href="" aria-label="Next" ng-click="pagination.elyos.next()"><i class="fa fa-angle-right"></i></a>
-              </li>
-            </ul>
-          </nav>
+                <li ng-class="{'disabled' : pagination.asmodians.currentPage + 1 == pagination.asmodians.numPages}">
+                  <a href="" aria-label="Next" ng-click="pagination.asmodians.next()"><i class="fa fa-angle-right"></i></a>
+                </li>
+              </ul>
+            </nav>
 
-        </div>
-
-        <div ng-show="showing=='asmodians'">
-
-          <nav class="text-center">
-            <ul class="pagination">
-              <li ng-class="{'disabled': pagination.asmodians.currentPage == 0}">
-                <a href="" aria-label="Previous" ng-click="pagination.asmodians.previous()"><i class="fa fa-angle-left"></i></a>
-              </li>
-
-              <li ng-repeat="idx in pagination.asmodians.pageNumbers" ng-class="{'active': pagination.asmodians.currentPage + 1 == idx }">
-                <a href="" ng-click="pagination.asmodians.goTo(idx)">{{ idx }}</a>
-              </li>
-
-              <li ng-class="{'disabled' : pagination.asmodians.currentPage + 1 == pagination.asmodians.numPages}">
-                <a href="" aria-label="Next" ng-click="pagination.asmodians.next()"><i class="fa fa-angle-right"></i></a>
-              </li>
-            </ul>
-          </nav>
-
-          <table class="table table-striped table-hover" >
-            <thead>
-            <tr>
-              <th>#</th>
-              <th>Name</th>
-              <th>Class</th>
-              <th>GuildName</th>
-              <th>Glory points</th>
-              <th>Rank</th>
-              <th>Ranking change</th>
-              <th>HP change</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr ng-repeat="character in pagination.asmodians.currentPageElements">
-              <td>{{ character.position }}</td>
-              <td><a ng-href="#/character/{{serverData.serverName}}/{{character.characterID}}">{{ character.characterName }}</a></td>
-              <td>{{ character.characterClass.name }}</td>
-              <td>{{ character.guildName }}</td>
-              <td>{{ character.gloryPoint }}</td>
-              <td>{{ character.soldierRank.name }}</td>
-              <td>
-                {{ character.rankingPositionChange }}
-                <i class="fa" ng-class="{
-                  'fa-arrow-up': character.rankingPositionChange > 0,
-                  'text-success': character.rankingPositionChange > 0,
-                  'fa-arrow-down': character.rankingPositionChange < 0,
-                  'text-danger': character.rankingPositionChange < 0,
-                    }"></i>
-              </td>
-              <td>
-                {{ character.gloryPointChange  || '--'}}
-                <i class="fa" ng-class="{
-                  'fa-arrow-up': character.gloryPointChange > 0,
-                  'text-success': character.gloryPointChange > 0,
-                  'fa-arrow-down': character.gloryPointChange < 0,
-                  'text-danger': character.gloryPointChange < 0,
-                  }"></i>
-              </td>
-            </tr>
-            </tbody>
-          </table>
-
-          <nav class="text-center">
-            <ul class="pagination">
-              <li ng-class="{'disabled': pagination.asmodians.currentPage == 0}">
-                <a href="" aria-label="Previous" ng-click="pagination.asmodians.previous()"><i class="fa fa-angle-left"></i></a>
-              </li>
-
-              <li ng-repeat="idx in pagination.asmodians.pageNumbers" ng-class="{'active': pagination.asmodians.currentPage + 1 == idx }">
-                <a href="" ng-click="pagination.asmodians.goTo(idx)">{{ idx }}</a>
-              </li>
-
-              <li ng-class="{'disabled' : pagination.asmodians.currentPage + 1 == pagination.asmodians.numPages}">
-                <a href="" aria-label="Next" ng-click="pagination.asmodians.next()"><i class="fa fa-angle-right"></i></a>
-              </li>
-            </ul>
-          </nav>
+          </div>
 
         </div>
-
       </div>
     </div>
   </div>
-</div>
+
+</div><!-- /If is not empty -->
+
+<!-- If is empty -->
+<div data-ng-if="isEmpty">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h1 class="text-center">NYERLOCK HOLMES SAYS:</h1>
+          <h2 class="text-center">"SEEMS THAT THERE IS NO DATA HERE YET, NYERK!"</h2>
+          <img class="img img-responsive center-block" src="/img/nyerlockholmes.png" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- /If is empty -->

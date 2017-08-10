@@ -53,7 +53,7 @@
     //Changes $http promises to work like normals
     $this.$q.likeNormal = function (httpPromise) {
       var $$q = $q.defer();
-      httpPromise.success($$q.resolve).error($$q.reject);
+      httpPromise.success($$q.resolve).catch($$q.reject);
       return $$q.promise;
     };
 

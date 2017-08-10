@@ -57,7 +57,10 @@
       'controller': 'mainApp.ranking.list.controller',
       'resolve': {
         'serverData': ['$hs', '$route', function($hs, $route) {
-          return $hs.$instantiate('storedDataService').getLastFromServer($route['current']['params']['serverName']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getLastFromServer($route['current']['params']['serverName'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
@@ -66,7 +69,10 @@
       'controller': 'mainApp.ranking.list.mobile.controller',
       'resolve': {
         'serverData': ['$hs', '$route', function($hs, $route) {
-          return $hs.$instantiate('storedDataService').getLastFromServer($route['current']['params']['serverName']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getLastFromServer($route['current']['params']['serverName'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
@@ -77,9 +83,10 @@
       'controller': 'mainApp.ranking.list.controller',
       'resolve': {
         'serverData': ['$hs', '$route', function($hs, $route) {
-          return $hs.$instantiate('storedDataService').getFromServer(
-              $route['current']['params']['date'],
-              $route['current']['params']['serverName']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getFromServer($route['current']['params']['date'], $route['current']['params']['serverName'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
@@ -88,23 +95,24 @@
       'controller': 'mainApp.ranking.list.mobile.controller',
       'resolve': {
         'serverData': ['$hs', '$route', function($hs, $route) {
-          return $hs.$instantiate('storedDataService').getFromServer(
-              $route['current']['params']['date'],
-              $route['current']['params']['serverName']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getFromServer($route['current']['params']['date'], $route['current']['params']['serverName'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
     $routeProvider.when('/ranking/:serverName/:date', $$IS_MOBILE ? rankingWithDateRouteMobileData : rankingWithDateRouteData);
-
 
     var characterInfoRouteData = {
       'templateUrl': '/app/templates/characterInfo.html',
       'controller': 'mainApp.characterInfo.controller',
       'resolve': {
         'characterInfo': ['$hs', '$route', function($hs, $route){
-          return $hs.$instantiate('storedDataService').getCharacterInfo(
-              $route['current']['params']['serverName'],
-              $route['current']['params']['characterID']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getCharacterInfo($route['current']['params']['serverName'], $route['current']['params']['characterID'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
@@ -113,13 +121,22 @@
       'controller': 'mainApp.characterInfo.controller',
       resolve: {
         'characterInfo': ['$hs', '$route', function($hs, $route){
-          return $hs.$instantiate('storedDataService').getCharacterInfo(
-              $route['current']['params']['serverName'],
-              $route['current']['params']['characterID']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getCharacterInfo($route['current']['params']['serverName'], $route['current']['params']['characterID'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
     $routeProvider.when('/character/:serverName/:characterID', $$IS_MOBILE ? characterInfoMobileRouteData :  characterInfoRouteData);
+
+
+    //404 route
+    var _404RouteData = {
+      'templateUrl': '/app/templates/404.html',
+    };
+    $routeProvider.when('/404', _404RouteData);
+
   }
 
   function cfpLoadingBarFn(cfpLoadingBarProvider) {
@@ -593,6 +610,9 @@
       //Store data on scope...
       $scope.serverData = serverData;
 
+      //Is server data empty?
+      $scope['isEmpty'] = serverData['data']['asmodians'].length === 0 && serverData['data']['elyos'].length === 0;
+
       //Filters initial data
       $scope.textSearch = '';
       $scope.searchDate = serverData.date;
@@ -999,6 +1019,9 @@
       };
 
       $scope.serverData = serverData;
+
+      //Is server data empty?
+      $scope['isEmpty'] = serverData['data']['asmodians'].length === 0 && serverData['data']['elyos'].length === 0;
 
       $scope.storedDates = storedDataService.storedDates;
       $scope.servers = storedDataService.serversList;
@@ -1665,6 +1688,7 @@
     var $window = $hs.$instantiate('$window');
     var $timeout = $hs.$instantiate('$timeout');
     var characterSocialService = $hs.$instantiate('characterSocialService');
+    var $location = $hs.$instantiate('$location');
 
     var _cacheServerData = [];
     var _cacheCharacterInfo = [];
@@ -1747,14 +1771,18 @@
 
     //Wich servers
     $this.serversList = [
-      {id : 53, name: 'Antriksha'},   //0
-      {id : 49, name: 'Barus'},       //1
-      {id : 52, name: 'Deyla'},       //2
-      {id : 54, name: 'Hellion'},     //3
-      {id : 55, name: 'Hyperion'},    //4
-      {id : 50, name: 'Loki'},        //5
-      {id : 37, name: 'Thor'},        //6
-      {id : 40, name: 'Urtem'},       //7
+      {'id': 53, 'name': 'Antriksha'},    //0
+      {'id': 49, 'name': 'Barus'},        //1
+      {'id': 52, 'name': 'Deyla'},        //2
+      {'id': 54, 'name': 'Hellion'},      //3
+      {'id': 55, 'name': 'Hyperion'},     //4
+      {'id': 50, 'name': 'Loki'},         //5
+      {'id': 37, 'name': 'Thor'},         //6
+      {'id': 40, 'name': 'Urtem'},        //7
+      {'id': 56, 'name': 'Grendal'},      //8
+      {'id': 57, 'name': 'Fregion'},      //9
+      {'id': 58, 'name': 'Padmarashka'},  //10
+      {'id': 59, 'name': 'Miren'},        //11
     ];
 
     //Wich dates we have stored
@@ -1896,9 +1924,7 @@
     };
 
     //Retrieves what is the last server data
-    $this.getLastServerData = function() {
-      return _getLastDate();
-    };
+    $this.getLastServerData = function() { return _getLastDate(); };
 
     //Looks for a character on all servers
     $this.characterSearch = function(text) {
@@ -2157,7 +2183,7 @@
     //Changes $http promises to work like normals
     $this.$q.likeNormal = function (httpPromise) {
       var $$q = $q.defer();
-      httpPromise.success($$q.resolve).error($$q.reject);
+      httpPromise.success($$q.resolve).catch($$q.reject);
       return $$q.promise;
     };
 

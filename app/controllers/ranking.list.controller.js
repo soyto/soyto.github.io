@@ -37,6 +37,9 @@
       //Store data on scope...
       $scope.serverData = serverData;
 
+      //Is server data empty?
+      $scope['isEmpty'] = serverData['data']['asmodians'].length === 0 && serverData['data']['elyos'].length === 0;
+
       //Filters initial data
       $scope.textSearch = '';
       $scope.searchDate = serverData.date;

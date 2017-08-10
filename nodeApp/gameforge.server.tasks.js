@@ -77,7 +77,12 @@ module.exports = function(grunt) {
 
     //5th step, generate server stats
     sp = sp.then(function() {
-      _servers.forEach(function(server){
+      _servers.forEach(function(server) {
+
+        $log.debug('Generating server stats for [%s]', colors.yellow(server['serverName']));
+
+        //Skip if there are no entries on elyos or asmodians
+        if(server['entries']['elyos'].length === 0 && server['entries']['asmodians'].length === 0) { return; }
 
         server.entries.stats = {};
         server.entries.stats.elyos = {
@@ -510,7 +515,10 @@ module.exports = function(grunt) {
     //Set date on server
     serverData['date'] = new Date(moment().format('MM-DD-YYYY'));
 
-    var _charactersFolder = charactersBaseFolder + serverData.serverName + '/';
+    var _charactersFolder = charactersBaseFolder + serverData['serverName'] + '/';
+
+
+    $log.debug('Processing [%s] characters', colors.yellow(serverData['serverName']));
 
     //Tell to update characters
     gameForgeServer.updateCharacters(serverData, _charactersFolder);

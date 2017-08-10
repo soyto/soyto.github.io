@@ -3,7 +3,7 @@ module.exports = new function() {
 
   'use strict';
 
-  var NUM_PAGES_PER_SERVER = 20;
+  var NUM_PAGES_PER_SERVER = 2;
 
   var $q        = require('q');
   var $log      = require('../nodeApp/log');
@@ -28,6 +28,10 @@ module.exports = new function() {
     {'id': 50, 'name': 'Loki'},
     {'id': 37, 'name': 'Thor'},
     {'id': 40, 'name': 'Urtem'},
+    {'id': 56, 'name': 'Grendal'},
+    {'id': 57, 'name': 'Fregion'},
+    {'id': 58, 'name': 'Padmarashka'},
+    {'id': 59, 'name': 'Miren'},
   ];
 
   //Performs login action and returns the cookie

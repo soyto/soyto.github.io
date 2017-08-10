@@ -40,7 +40,10 @@
       'controller': 'mainApp.ranking.list.controller',
       'resolve': {
         'serverData': ['$hs', '$route', function($hs, $route) {
-          return $hs.$instantiate('storedDataService').getLastFromServer($route['current']['params']['serverName']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getLastFromServer($route['current']['params']['serverName'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
@@ -49,7 +52,10 @@
       'controller': 'mainApp.ranking.list.mobile.controller',
       'resolve': {
         'serverData': ['$hs', '$route', function($hs, $route) {
-          return $hs.$instantiate('storedDataService').getLastFromServer($route['current']['params']['serverName']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getLastFromServer($route['current']['params']['serverName'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
@@ -60,9 +66,10 @@
       'controller': 'mainApp.ranking.list.controller',
       'resolve': {
         'serverData': ['$hs', '$route', function($hs, $route) {
-          return $hs.$instantiate('storedDataService').getFromServer(
-              $route['current']['params']['date'],
-              $route['current']['params']['serverName']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getFromServer($route['current']['params']['date'], $route['current']['params']['serverName'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
@@ -71,23 +78,24 @@
       'controller': 'mainApp.ranking.list.mobile.controller',
       'resolve': {
         'serverData': ['$hs', '$route', function($hs, $route) {
-          return $hs.$instantiate('storedDataService').getFromServer(
-              $route['current']['params']['date'],
-              $route['current']['params']['serverName']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getFromServer($route['current']['params']['date'], $route['current']['params']['serverName'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
     $routeProvider.when('/ranking/:serverName/:date', $$IS_MOBILE ? rankingWithDateRouteMobileData : rankingWithDateRouteData);
-
 
     var characterInfoRouteData = {
       'templateUrl': '/app/templates/characterInfo.html',
       'controller': 'mainApp.characterInfo.controller',
       'resolve': {
         'characterInfo': ['$hs', '$route', function($hs, $route){
-          return $hs.$instantiate('storedDataService').getCharacterInfo(
-              $route['current']['params']['serverName'],
-              $route['current']['params']['characterID']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getCharacterInfo($route['current']['params']['serverName'], $route['current']['params']['characterID'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
@@ -96,13 +104,22 @@
       'controller': 'mainApp.characterInfo.controller',
       resolve: {
         'characterInfo': ['$hs', '$route', function($hs, $route){
-          return $hs.$instantiate('storedDataService').getCharacterInfo(
-              $route['current']['params']['serverName'],
-              $route['current']['params']['characterID']);
+          return $hs
+            .$instantiate('storedDataService')
+            .getCharacterInfo($route['current']['params']['serverName'], $route['current']['params']['characterID'])
+            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
         }]
       }
     };
     $routeProvider.when('/character/:serverName/:characterID', $$IS_MOBILE ? characterInfoMobileRouteData :  characterInfoRouteData);
+
+
+    //404 route
+    var _404RouteData = {
+      'templateUrl': '/app/templates/404.html',
+    };
+    $routeProvider.when('/404', _404RouteData);
+
   }
 
   function cfpLoadingBarFn(cfpLoadingBarProvider) {
