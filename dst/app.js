@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.17.28)
+ * Soyto.github.io (0.18.0)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -86,7 +86,7 @@
           return $hs
             .$instantiate('storedDataService')
             .getFromServer($route['current']['params']['date'], $route['current']['params']['serverName'])
-            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
+            .catch(function($$error) { $hs.$instantiate('$location').path('/404').replace();  });
         }]
       }
     };
@@ -98,7 +98,7 @@
           return $hs
             .$instantiate('storedDataService')
             .getFromServer($route['current']['params']['date'], $route['current']['params']['serverName'])
-            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
+            .catch(function($$error) { $hs.$instantiate('$location').path('/404').replace();  });
         }]
       }
     };
@@ -112,7 +112,7 @@
           return $hs
             .$instantiate('storedDataService')
             .getCharacterInfo($route['current']['params']['serverName'], $route['current']['params']['characterID'])
-            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
+            .catch(function($$error) { $hs.$instantiate('$location').path('/404').replace(); });
         }]
       }
     };
@@ -124,7 +124,7 @@
           return $hs
             .$instantiate('storedDataService')
             .getCharacterInfo($route['current']['params']['serverName'], $route['current']['params']['characterID'])
-            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
+            .catch(function($$error) { $hs.$instantiate('$location').path('/404').replace(); });
         }]
       }
     };
