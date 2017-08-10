@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.18.0)
+ * Soyto.github.io (0.18.1)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -60,7 +60,7 @@
           return $hs
             .$instantiate('storedDataService')
             .getLastFromServer($route['current']['params']['serverName'])
-            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
+            .catch(function($$error) {  $hs.$instantiate('$location').path('/404').replace();  });
         }]
       }
     };
@@ -72,7 +72,7 @@
           return $hs
             .$instantiate('storedDataService')
             .getLastFromServer($route['current']['params']['serverName'])
-            .catch(function($$error) { if($$error['status'] == 404) { $hs.$instantiate('$location').path('/404').replace(); } });
+            .catch(function($$error) {  $hs.$instantiate('$location').path('/404').replace(); });
         }]
       }
     };
