@@ -247,6 +247,46 @@ textarea { resize: none; outline: 0; }
   color: #fff;
 }
 
+/* 404
+ * ------------------------------------------------------------------------------------------------------------------ */
+
+/* Body background color */
+
+body.soyto-full-party-bg {
+  background-color: #f46d3b;
+  -webkit-animation: loader-inifinite-change 10s infinite;
+  -moz-animation: loader-inifinite-change 10s infinite;
+  -ms-animation: loader-inifinite-change 10s infinite;
+  -o-animation: loader-inifinite-change 10s infinite;
+  animation: loader-inifinite-change 10s infinite;
+}
+
+body.soyto-full-party-bg .soyto-404,
+body.soyto-full-party-bg .soyto-404 a,
+body.soyto-full-party-bg .soyto-404 a:hover,
+body.soyto-full-party-bg .soyto-404 a:visited,
+body.soyto-full-party-bg .footer,
+body.soyto-full-party-bg .footer a,
+body.soyto-full-party-bg .footer a:hover,
+body.soyto-full-party-bg .footer a:visited{
+  color: #fff;
+}
+
+
+@-moz-keyframes loader-inifinite-change /* Firefox */
+{
+  0%     {background-color: #f46d3b;}
+  50%    {background-color: #9932CC;}
+  100%   {background-color: #f46d3b;}
+}
+
+@-webkit-keyframes loader-inifinite-change  /* Safari and Chrome */
+{
+  0%     {background-color: #f46d3b;}
+  50%    {background-color: #9932CC;}
+  100%   {background-color: #f46d3b;}
+}
+
 /* Template layout
  * ------------------------------------------------------------------------------------------------------------------ */
 #subnav {

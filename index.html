@@ -39,7 +39,7 @@
     }
   </script>
 </head>
-<body>
+<body data-ng-class="{'soyto-full-party-bg': $$currentPath == '/404'}">
 
   <!-- Facebook app -->
   <script>
@@ -104,8 +104,6 @@
 
     </div><!-- /.col-md-12 -->
   </nav><!-- #header -->
-
-
 
   <div class="container" id="main">
     <ng-view></ng-view>

@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.18.1)
+ * Soyto.github.io (0.18.2)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1168,12 +1168,16 @@
 
     $rs['_name'] = CONTROLLER_NAME;
 
+    $rs['$$currentPath'] = $location.path();
 
-    $rs.$on('$routeChangeStart', function(){ cfpLoadingBar.start(); });
+    $rs.$on('$routeChangeStart', function(event){
+      cfpLoadingBar.start();
+    });
 
     $rs.$on('$viewContentLoaded', function(event){
       cfpLoadingBar.complete();
       $window.ga('send', 'pageview', {'page': $location.path() });
+      $rs['$$currentPath'] = $location.path();
     });
   }
 

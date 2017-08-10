@@ -15,12 +15,16 @@
 
     $rs['_name'] = CONTROLLER_NAME;
 
+    $rs['$$currentPath'] = $location.path();
 
-    $rs.$on('$routeChangeStart', function(){ cfpLoadingBar.start(); });
+    $rs.$on('$routeChangeStart', function(event){
+      cfpLoadingBar.start();
+    });
 
     $rs.$on('$viewContentLoaded', function(event){
       cfpLoadingBar.complete();
       $window.ga('send', 'pageview', {'page': $location.path() });
+      $rs['$$currentPath'] = $location.path();
     });
   }
 
