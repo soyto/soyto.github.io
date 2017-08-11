@@ -82,7 +82,7 @@ module.exports = function(grunt) {
         $log.debug('Generating server stats for [%s]', colors.yellow(server['serverName']));
 
         //Skip if there are no entries on elyos or asmodians
-        if(server['entries']['elyos'].length === 0 && server['entries']['asmodians'].length === 0) { return; }
+        if(server['entries']['elyos'].length === 0 || server['entries']['asmodians'].length === 0) { return; }
 
         server.entries.stats = {};
         server.entries.stats.elyos = {
