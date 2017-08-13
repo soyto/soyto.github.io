@@ -1739,6 +1739,7 @@
       {'serverName': 'Thor', 'characterID': 1391505}, //Kiyumah
       {'serverName': 'Deyla', 'characterID': 98839}, //Pupper
       {'serverName': 'Hyperion', 'characterID': 375208}, //Nllll
+      {'serverName': 'Barus', 'characterID': 1097587}, //Szarienka 
     ];
 
     //Who asked to remove his old guild names
