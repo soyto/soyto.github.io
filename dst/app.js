@@ -1,5 +1,9 @@
 /*
+<<<<<<< HEAD
  * Soyto.github.io (0.18.4)
+=======
+ * Soyto.github.io (0.18.5)
+>>>>>>> f22388d96ab748550610016922e9a177d19c3d3d
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1742,6 +1746,7 @@
       {'serverName': 'Thor', 'characterID': 1391505}, //Kiyumah
       {'serverName': 'Deyla', 'characterID': 98839}, //Pupper
       {'serverName': 'Hyperion', 'characterID': 375208}, //Nllll
+      {'serverName': 'Barus', 'characterID': 1097587}, //Szarienka 
     ];
 
     //Who asked to remove his old guild names
