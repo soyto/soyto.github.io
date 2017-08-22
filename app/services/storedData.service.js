@@ -63,6 +63,7 @@
       {'serverName': 'Deyla', 'characterID': 98839}, //Pupper
       {'serverName': 'Hyperion', 'characterID': 375208}, //Nllll
       {'serverName': 'Barus', 'characterID': 1097587}, //Szarienka 
+      {'serverName': 'Loki', 'characterID': 877197}, //Iethal
     ];
 
     //Who asked to remove his old guild names
@@ -95,6 +96,7 @@
       {'serverName': 'Thor', 'characterID': 1946026}, //Instantflashulti
       {'serverName': 'Deyla', 'characterID': 953168}, //Sylrel
       {'serverName': 'Hyperion', 'characterID': 375208}, //Nllll
+      {'serverName': 'Loki', 'characterID': 877197}, //Iethal
     ];
 
     //Wich servers
