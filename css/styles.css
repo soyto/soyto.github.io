@@ -303,3 +303,13 @@ body.soyto-full-party-bg .footer a:visited{
 #main { padding-top:70px; }
 /* Loading bar height */
 #loading-bar .bar{height: 5px;}
+
+/* flex row */
+.row-flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}

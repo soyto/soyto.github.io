@@ -1,9 +1,7 @@
 (function(ng){
   'use strict';
 
-  ng.module('mainApp').service('characterSocialService',[
-    '$hs', _fn
-  ]);
+  ng.module('mainApp').service('characterSocialService',['$hs', _fn]);
 
   function _fn($hs) {
 
@@ -13,6 +11,11 @@
     var $this = this;
 
     var _characterSocialCache = null;
+
+    //Retrieve all github social data
+    $this.getGithubSocialData = function() {
+      return _retrieveGithubServerData();
+    };
 
     //Sets character Social data on a character
     $this.setCharacterSocialData = function(character) {

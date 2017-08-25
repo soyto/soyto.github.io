@@ -113,6 +113,12 @@
     };
     $routeProvider.when('/character/:serverName/:characterID', $$IS_MOBILE ? characterInfoMobileRouteData :  characterInfoRouteData);
 
+    //Twitch channels
+    var twitchChannelsRouteData = {
+      'templateUrl': '/app/templates/twitchChannels.html',
+      'controller': 'mainApp.twitchChannels.controller',
+    };
+    $routeProvider.when('/twitchChannels', twitchChannelsRouteData);
 
     //404 route
     var _404RouteData = {

@@ -1,0 +1,55 @@
+<!-- Breadcrumb -->
+<ol class="breadcrumb">
+  <li><a href="#/">Home</a></li>
+  <li><a href="">Twitch channels</a></li>
+</ol><!-- /Breadcrumb -->
+
+<div class="row" data-ng-show="data.$$state.loading">
+  <h1 class="col-md-12 text-center">
+    <i class="fa fa-spinner fa-spin"></i>
+  </h1>
+</div>
+
+
+<div class="row row-flex" data-ng-show="!data.$$state.loading">
+
+  <div class="col-md-4" data-ng-repeat="itm in data.streams">
+    <div class="panel panel-twitch">
+
+      <!-- Panel header -->
+      <div class="panel-header">
+        <div class="panel-heading clearfix">
+
+          <div class="pull-left">
+            <h4>{{itm.info.characterName}}-{{itm.info.serverName}}</h4>
+            <h5><small>{{itm.info.soldierRank.name}} {{itm.info.characterClass.name}}</small></h5>
+
+          </div>
+
+          <div class="pull-right">
+            <h4 data-ng-show="itm.isOnline"><i class="fa fa-circle text-danger"></i> ONLINE</h4>
+            <h4 class="text-muted" data-ng-show="!itm.isOnline">Offline</h4>
+          </div>
+
+        </div>
+      </div><!-- /Panel header -->
+
+      <!-- Panel thumbnail -->
+      <div class="panel-thumbnail">
+        <a data-ng-href="{{ itm.channel.url }}" target="_blank">
+          <img class="img img-responsive" data-ng-show="itm.isOnline" data-ng-src="{{ itm.stream.preview.large }}" />
+          <img class="img img-responsive" data-ng-show="!itm.isOnline && itm.channel.profile_banner" data-ng-src="{{ itm.channel.profile_banner }}" />
+          <img class="img img-responsive" data-ng-show="!itm.isOnline && !itm.channel.profile_banner" data-ng-src="{{ itm.info.pictureURL }}" />
+        </a>
+      </div><!-- /Panel thumbnail -->
+
+      <!-- Footer -->
+      <div class="panel-footer">
+        <p>{{ itm.channel.status}}</p>
+        <p class="text-muted" data-ng-show="itm.isOnline">{{ itm.stream.viewers}} viewers in <a data-ng-href="{{ itm.channel.url }}" target="_blank">{{ itm.channel.name}}</a></p>
+      </div><!-- /Footer -->
+
+    </div>
+  </div>
+
+</div>

@@ -38,6 +38,31 @@
         }
       }));
     };
+
+    //Ger current AION Streams
+    $this.getAIONStreams = function() {
+      return $q.likeNormal($http({
+        'ignoreLoadingBar': true,
+        'url': 'https://api.twitch.tv/kraken/streams/?game=AION',
+        'method': 'GET',
+        'headers': {
+          'client-ID': _CLIENTID
+        }
+      }));
+    };
+
+    //Gets who is online
+    $this.getOnlinePeople = function(channelIds) {
+      var _strChannelIds = channelIds.join(',');
+      return $q.likeNormal($http({
+        'ignoreLoadingBar': true,
+        'url': 'https://api.twitch.tv/kraken/streams/?limit=' + channelIds.length + '&channel=' + _strChannelIds,
+        'method': 'GET',
+        'headers': {
+          'client-ID': _CLIENTID
+        }
+      }));
+    };
   }
 
 })(angular);
