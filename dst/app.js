@@ -1886,6 +1886,7 @@
       {'serverName': 'Barus', 'characterID': 1097587}, //Szarienka 
       {'serverName': 'Loki', 'characterID': 877197}, //Iethal
       {'serverName': 'Antriksha', 'characterID': 920308}, //Myllle
+      {'serverName': 'Thor', 'characterID': 2113411}, //Topu
     ];
 
     //Who asked to remove his old guild names
@@ -1920,6 +1921,7 @@
       {'serverName': 'Hyperion', 'characterID': 375208}, //Nllll
       {'serverName': 'Loki', 'characterID': 877197}, //Iethal
       {'serverName': 'Antriksha', 'characterID': 920308}, //Myllle
+      {'serverName': 'Thor', 'characterID': 2113411}, //Topu
     ];
 
     //Wich servers
