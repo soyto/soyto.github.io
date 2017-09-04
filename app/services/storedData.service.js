@@ -66,6 +66,8 @@
       {'serverName': 'Loki', 'characterID': 877197}, //Iethal
       {'serverName': 'Antriksha', 'characterID': 920308}, //Myllle
       {'serverName': 'Thor', 'characterID': 2113411}, //Topu
+      {'serverName': 'Barus', 'characterID': 9880}, //Flaami
+      {'serverName': 'Loki', 'characterID': 1187322}, //Flaami
     ];
 
     //Who asked to remove his old guild names
@@ -101,6 +103,7 @@
       {'serverName': 'Loki', 'characterID': 877197}, //Iethal
       {'serverName': 'Antriksha', 'characterID': 920308}, //Myllle
       {'serverName': 'Thor', 'characterID': 2113411}, //Topu
+      {'serverName': 'Loki', 'characterID': 1187322}, //Justmoe
     ];
 
     //Wich servers
