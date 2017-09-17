@@ -1889,6 +1889,8 @@
       {'serverName': 'Thor', 'characterID': 2113411}, //Topu
       {'serverName': 'Barus', 'characterID': 9880}, //Flaami
       {'serverName': 'Loki', 'characterID': 1187322}, //Flaami
+      {'serverName': 'Hyperion', 'characterID': 857011}, //Nyraaa
+      {'serverName': 'Hellion', 'characterID': 457520}, //Xamphu
     ];
 
     //Who asked to remove his old guild names
@@ -1925,6 +1927,8 @@
       {'serverName': 'Antriksha', 'characterID': 920308}, //Myllle
       {'serverName': 'Thor', 'characterID': 2113411}, //Topu
       {'serverName': 'Loki', 'characterID': 1187322}, //Justmoe
+      {'serverName': 'Hyperion', 'characterID': 857011}, //Nyraaa
+      {'serverName': 'Hellion', 'characterID': 457520}, //Xamphu
     ];
 
     //Wich servers
