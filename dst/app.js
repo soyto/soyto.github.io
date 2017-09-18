@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.19.4)
+ * Soyto.github.io (0.19.5)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1891,6 +1891,7 @@
       {'serverName': 'Loki', 'characterID': 1187322}, //Flaami
       {'serverName': 'Hyperion', 'characterID': 857011}, //Nyraaa
       {'serverName': 'Hellion', 'characterID': 457520}, //Xamphu
+      {'serverName': 'Hellion', 'characterID': 457520}, //Xamphu
     ];
 
     //Who asked to remove his old guild names
@@ -1929,6 +1930,7 @@
       {'serverName': 'Loki', 'characterID': 1187322}, //Justmoe
       {'serverName': 'Hyperion', 'characterID': 857011}, //Nyraaa
       {'serverName': 'Hellion', 'characterID': 457520}, //Xamphu
+      {'serverName': 'Grendal', 'characterID': 1028}, //Sorcerer
     ];
 
     //Wich servers
