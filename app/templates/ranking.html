@@ -285,7 +285,7 @@
               <tbody>
               <tr data-ng-repeat="character in data.pagination.current.elyos">
                 <td>{{ character.position }}</td>
-                <td><a ng-href="#/character/{{serverData.serverName}}/{{character.characterID}}">{{ character.characterName }}</a></td>
+                <td><a ng-href="#/character/{{data.serverName}}/{{character.characterID}}">{{ character.characterName }}</a></td>
                 <td>{{ character.characterClass.name }}</td>
                 <td>{{ character.guildName }}</td>
                 <td>{{ character.gloryPoint }}</td>
@@ -328,7 +328,7 @@
             <tbody>
             <tr data-ng-repeat="character in data.pagination.current.asmodians">
               <td>{{ character.position }}</td>
-              <td><a ng-href="#/character/{{serverData.serverName}}/{{character.characterID}}">{{ character.characterName }}</a></td>
+              <td><a ng-href="#/character/{{data.serverName}}/{{character.characterID}}">{{ character.characterName }}</a></td>
               <td>{{ character.characterClass.name }}</td>
               <td>{{ character.guildName }}</td>
               <td>{{ character.gloryPoint }}</td>
