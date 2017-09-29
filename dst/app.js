@@ -1891,7 +1891,7 @@
       {'serverName': 'Loki', 'characterID': 1187322}, //Flaami
       {'serverName': 'Hyperion', 'characterID': 857011}, //Nyraaa
       {'serverName': 'Hellion', 'characterID': 457520}, //Xamphu
-      {'serverName': 'Hellion', 'characterID': 457520}, //Xamphu
+      {'serverName': 'Loki', 'characterID': 1065721}, //Liinxx
     ];
 
     //Who asked to remove his old guild names
@@ -1931,6 +1931,8 @@
       {'serverName': 'Hyperion', 'characterID': 857011}, //Nyraaa
       {'serverName': 'Hellion', 'characterID': 457520}, //Xamphu
       {'serverName': 'Grendal', 'characterID': 1028}, //Sorcerer
+      {'serverName': 'Loki', 'characterID': 1065721}, //Liinxx
+
     ];
 
     //Wich servers
