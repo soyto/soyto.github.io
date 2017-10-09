@@ -1894,6 +1894,7 @@
       {'serverName': 'Loki', 'characterID': 1065721}, //Liinxx
       {'serverName': 'Barus', 'characterID': 822324}, //Dissney
       {'serverName': 'Barus', 'characterID': 1182084}, //Sachma
+      {'serverName': 'Antriksha', 'characterID': 696706}, //Nahiki
     ];
 
     //Who asked to remove his old guild names
