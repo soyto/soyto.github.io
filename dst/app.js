@@ -1895,6 +1895,8 @@
       {'serverName': 'Barus', 'characterID': 822324}, //Dissney
       {'serverName': 'Barus', 'characterID': 1182084}, //Sachma
       {'serverName': 'Antriksha', 'characterID': 696706}, //Nahiki
+      {'serverName': 'Loki', 'characterID': 560318}, //Zoai
+      {'serverName': 'Barus', 'characterID': 1135327}, //Yorru
     ];
 
     //Who asked to remove his old guild names
@@ -1937,6 +1939,8 @@
       {'serverName': 'Loki', 'characterID': 1065721}, //Liinxx
       {'serverName': 'Barus', 'characterID': 822324}, //Dissney
       {'serverName': 'Barus', 'characterID': 1182084}, //Sachma
+      {'serverName': 'Loki', 'characterID': 560318}, //Zoai
+      {'serverName': 'Barus', 'characterID': 1135327}, //Yorru
 
     ];
 
