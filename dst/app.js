@@ -1898,6 +1898,7 @@
       {'serverName': 'Loki', 'characterID': 560318}, //Zoai
       {'serverName': 'Barus', 'characterID': 1135327}, //Yorru
       {'serverName': 'Hellion', 'characterID': 584003}, //Guindillera
+      {'serverName': 'Loki', 'characterID': 896961}, //Akyraan
     ];
 
     //Who asked to remove his old guild names
@@ -1943,6 +1944,7 @@
       {'serverName': 'Loki', 'characterID': 560318}, //Zoai
       {'serverName': 'Barus', 'characterID': 1135327}, //Yorru
       {'serverName': 'Hellion', 'characterID': 584003}, //Guindillera
+      {'serverName': 'Loki', 'characterID': 896961}, //Akyraan
     ];
 
     //Wich servers
