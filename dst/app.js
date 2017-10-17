@@ -1897,6 +1897,7 @@
       {'serverName': 'Antriksha', 'characterID': 696706}, //Nahiki
       {'serverName': 'Loki', 'characterID': 560318}, //Zoai
       {'serverName': 'Barus', 'characterID': 1135327}, //Yorru
+      {'serverName': 'Hellion', 'characterID': 584003}, //Guindillera
     ];
 
     //Who asked to remove his old guild names
@@ -1941,7 +1942,7 @@
       {'serverName': 'Barus', 'characterID': 1182084}, //Sachma
       {'serverName': 'Loki', 'characterID': 560318}, //Zoai
       {'serverName': 'Barus', 'characterID': 1135327}, //Yorru
-
+      {'serverName': 'Hellion', 'characterID': 584003}, //Guindillera
     ];
 
     //Wich servers
