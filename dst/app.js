@@ -1900,6 +1900,7 @@
       {'serverName': 'Hellion', 'characterID': 584003}, //Guindillera
       {'serverName': 'Loki', 'characterID': 896961}, //Akyraan
       {'serverName': 'Thor', 'characterID': 1135085}, //Auyo
+      {'serverName': 'Thor', 'characterID': 1133502}, //Danawhite
     ];
 
     //Who asked to remove his old guild names
@@ -1948,6 +1949,7 @@
       {'serverName': 'Loki', 'characterID': 896961}, //Akyraan
       {'serverName': 'Loki', 'characterID': 896961}, //Akyraan
       {'serverName': 'Thor', 'characterID': 1135085}, //Auyo
+      {'serverName': 'Thor', 'characterID': 1133502}, //Danawhite
     ];
 
     //Wich servers
