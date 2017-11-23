@@ -80,6 +80,7 @@
       {'serverName': 'Loki', 'characterID': 896961}, //Akyraan
       {'serverName': 'Thor', 'characterID': 1135085}, //Auyo
       {'serverName': 'Thor', 'characterID': 1133502}, //Danawhite
+      {'serverName': 'Loki', 'characterID': 1065721}, //Futanari
     ];
 
     //Who asked to remove his old guild names
@@ -129,6 +130,7 @@
       {'serverName': 'Loki', 'characterID': 896961}, //Akyraan
       {'serverName': 'Thor', 'characterID': 1135085}, //Auyo
       {'serverName': 'Thor', 'characterID': 1133502}, //Danawhite
+      {'serverName': 'Loki', 'characterID': 1065721}, //Futanari
     ];
 
     //Wich servers
