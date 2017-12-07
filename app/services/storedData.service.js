@@ -43,7 +43,6 @@
       {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha
       {'serverName': 'Hyperion', 'characterID': 57501},
       {'serverName': 'Loki', 'characterID': 70525}, //Gshee
-      {'serverName': 'Loki', 'characterID': 883570}, //Ilill
       {'serverName': 'Deyla', 'characterID': 953168}, //Sylrel
       {'serverName': 'Thor', 'characterID': 1369119}, //Necarunerk
       {'serverName': 'Thor', 'characterID': 1225673}, //Gvnr
@@ -98,7 +97,6 @@
       {'serverName': 'Urtem', 'characterID': 1125512}, //Mipha
       {'serverName': 'Hyperion', 'characterID': 57501},
       {'serverName': 'Loki', 'characterID': 70525}, //Gshee
-      {'serverName': 'Loki', 'characterID': 883570}, //Ilill
       {'serverName': 'Thor', 'characterID': 1369119}, //Necarunerk
       {'serverName': 'Hellion', 'characterID': 612759}, //OjV
       {'serverName': 'Thor', 'characterID': 1225673}, //Gvnr
