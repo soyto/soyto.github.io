@@ -1901,6 +1901,7 @@
       {'serverName': 'Thor', 'characterID': 1135085}, //Auyo
       {'serverName': 'Thor', 'characterID': 1133502}, //Danawhite
       {'serverName': 'Loki', 'characterID': 1065721}, //Futanari
+      {'serverName': 'Loki', 'characterID': 536681}, //Nuarihyon
     ];
 
     //Who asked to remove his old guild names
@@ -1950,6 +1951,7 @@
       {'serverName': 'Thor', 'characterID': 1135085}, //Auyo
       {'serverName': 'Thor', 'characterID': 1133502}, //Danawhite
       {'serverName': 'Loki', 'characterID': 1065721}, //Futanari
+      {'serverName': 'Loki', 'characterID': 536681}, //Nuarihyon
     ];
 
     //Wich servers
