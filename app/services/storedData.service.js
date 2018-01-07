@@ -83,6 +83,7 @@
       {'serverName': 'Loki', 'characterID': 536681}, //Nuarihyon
 	  {'serverName': 'Grendal', 'characterID': 1028}, //Sorcerer 
 	  {'serverName': 'Thor', 'characterID': 2163276}, //Majolie 
+	  {'serverName': 'Thor', 'characterID': 1946026}, //Cremathorio  
     ];
 
     //Who asked to remove his old guild names
