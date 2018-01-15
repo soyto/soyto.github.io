@@ -1902,9 +1902,10 @@
       {'serverName': 'Thor', 'characterID': 1133502}, //Danawhite
       {'serverName': 'Loki', 'characterID': 1065721}, //Futanari
       {'serverName': 'Loki', 'characterID': 536681}, //Nuarihyon
-	  {'serverName': 'Grendal', 'characterID': 1028}, //Sorcerer 
-	  {'serverName': 'Thor', 'characterID': 2163276}, //Majolie 
-	  {'serverName': 'Thor', 'characterID': 1946026}, //Cremathorio  
+      {'serverName': 'Grendal', 'characterID': 1028}, //Sorcerer
+      {'serverName': 'Thor', 'characterID': 2163276}, //Majolie
+      {'serverName': 'Thor', 'characterID': 1946026}, //Cremathorio
+      {'serverName': 'Hyperion', 'characterID': 392962}, //Upset
     ];
 
     //Who asked to remove his old guild names
@@ -1955,6 +1956,7 @@
       {'serverName': 'Thor', 'characterID': 1133502}, //Danawhite
       {'serverName': 'Loki', 'characterID': 1065721}, //Futanari
       {'serverName': 'Loki', 'characterID': 536681}, //Nuarihyon
+      {'serverName': 'Hyperion', 'characterID': 392962}, //Upset
     ];
 
     //Wich servers
