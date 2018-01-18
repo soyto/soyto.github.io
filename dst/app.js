@@ -1957,6 +1957,7 @@
       {'serverName': 'Loki', 'characterID': 1065721}, //Futanari
       {'serverName': 'Loki', 'characterID': 536681}, //Nuarihyon
       {'serverName': 'Hyperion', 'characterID': 392962}, //Upset
+      {'serverName': 'Barus', 'characterID': 56391}, //Sicarius
     ];
 
     //Wich servers
