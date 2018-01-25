@@ -85,6 +85,7 @@
       {'serverName': 'Thor', 'characterID': 2163276}, //Majolie
       {'serverName': 'Thor', 'characterID': 1946026}, //Cremathorio
       {'serverName': 'Hyperion', 'characterID': 392962}, //Upset
+      {'serverName': 'Hellion', 'characterID': 1478289}, //Charioce
     ];
 
     //Who asked to remove his old guild names
@@ -137,6 +138,7 @@
       {'serverName': 'Loki', 'characterID': 536681}, //Nuarihyon
       {'serverName': 'Hyperion', 'characterID': 392962}, //Upset
       {'serverName': 'Barus', 'characterID': 56391}, //Sicarius
+      {'serverName': 'Hellion', 'characterID': 1478289}, //Charioce
     ];
 
     //Wich servers
