@@ -46,7 +46,7 @@
 
       <!-- Panel body -->
       <div class="panel-body">
-        <h4><span itempop="name">{{character.characterName}}</span> <small>{{character.raceName}} {{character.soldierRank.name}}</small></h4>
+        <h4><span itemprop="name">{{character.characterName}}</span> <small>{{character.raceName}} {{character.soldierRank.name}}</small></h4>
         <h5><span itemprop="jobTitle">{{character.characterClass.name}}</span>
           <span ng-if="character.guildName" itemprop="memberOf" itemscope itemtype="http://schema.org/Organization">of <span itemprop="name">{{character.guildName}}</span></span>
           <span ng-show="!character.guildName">without guild</span>
