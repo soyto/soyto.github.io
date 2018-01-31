@@ -34,7 +34,14 @@
 
   <!-- Facebook -->
   <meta property="fb:app_id" content="883135418439345" />
-  
+
+
+  <!-- Ensure to not use https version -->
+  <script type="text/javascript">
+    if(window.location.protocol != 'http:') {
+      window.location.href = 'http:' + window.location.href.substring(window.location.protocol.length);
+    }
+  </script>
 </head>
 <body data-ng-class="{'soyto-full-party-bg': $$currentPath == '/404'}">
 
