@@ -639,37 +639,77 @@ module.exports = function(grunt) {
   function _generateSitemap() {
     $log.debug('Starting to generate sitemap.xml');
 
+    var _sitemapFiles = [_generateServersSitemap()].concat(_generateCharacterSitemaps());
+
     var _txt = '<?xml version="1.0" encoding="UTF-8"?>\n';
-    _txt += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
-    _txt += '<url><loc>http://soyto.github.io/</loc></url>\n';
+    _txt += '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
 
-    //Server files
-    grunt.file.expand('data/Servers/*').forEach(function($$folder) {
-
-      var _date = $$folder.split('/')[2];
-
-      if(_date == 'Characters') { return; }
-
-      grunt.file.expand($$folder + '/*.json').forEach(function($$fileName) {
-        var _serverName = $$fileName.split('/')[3].split('.')[0];
-        _txt += '<url><loc>http://soyto.github.io/#/ranking/' +  _serverName + '/' + _date + '</loc></url>\n';
-      });
+    _sitemapFiles.forEach(function($$fileName) {
+      _txt += '<sitemap><loc>http://soyto.github.io/' + $$fileName +  '</loc></sitemap>\n';
     });
 
-    //Character files
-    grunt.file.expand('data/Servers/Characters/*').forEach(function($$serverCharacterFolder) {
-      var _serverName = $$serverCharacterFolder.split('/')[3];
+    _txt += '</sitemapindex>';
 
-      grunt.file.expand($$serverCharacterFolder + '/*.json').forEach(function($$characterFile) {
-        var _characterId = $$characterFile.split('/')[4].split('.')[0];
-        _txt += '<url><loc>http://soyto.github.io/#/character/' +  _serverName + '/' + _characterId + '</loc></url>\n';
-      });
-    });
-
-    _txt += '</urlset>';
     grunt.file.write('sitemap.xml', _txt);
 
-    $log.debug('Sitemap file generated')
+    $log.debug('Sitemap files generated');
+
+    //Generate server files
+    function _generateServersSitemap() {
+      var _txt = '<?xml version="1.0" encoding="UTF-8"?>\n';
+      _txt += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
+      _txt += '<url><loc>http://soyto.github.io/</loc></url>\n';
+
+      //Server files
+      grunt.file.expand('data/Servers/*').forEach(function($$folder) {
+
+        var _date = $$folder.split('/')[2];
+
+        if(_date == 'Characters') { return; }
+
+        grunt.file.expand($$folder + '/*.json').forEach(function($$fileName) {
+          var _serverName = $$fileName.split('/')[3].split('.')[0];
+          _txt += '<url><loc>http://soyto.github.io/#/ranking/' +  _serverName + '/' + _date + '</loc></url>\n';
+        });
+      });
+
+      _txt += '</urlset>';
+
+      grunt.file.write('sitemap_servers.xml', _txt);
+
+      return 'sitemap_servers.xml';
+    }
+
+    //Generate characters sitemaps
+    function _generateCharacterSitemaps() {
+
+      var _files = [];
+
+      grunt.file.expand('data/Servers/Characters/*').forEach(function($$serverCharacterFolder) {
+        var _serverName = $$serverCharacterFolder.split('/')[3];
+
+        //Avoid xml or json files
+        if(_serverName.indexOf('.xml') >= 0 || _serverName.indexOf('.json') >= 0) { return; }
+
+        var _serverFileName = 'sitemap_' + _serverName + '_characters.xml';
+
+        var _txt = '<?xml version="1.0" encoding="UTF-8"?>\n';
+        _txt += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
+
+        grunt.file.expand($$serverCharacterFolder + '/*.json').forEach(function($$characterFile) {
+          var _characterId = $$characterFile.split('/')[4].split('.')[0];
+          _txt += '<url><loc>http://soyto.github.io/#/character/' +  _serverName + '/' + _characterId + '</loc></url>\n';
+        });
+
+        _txt += '</urlset>';
+
+        grunt.file.write(_serverFileName, _txt);
+
+        _files.push(_serverFileName);
+      });
+
+      return _files;
+    }
   }
 
   //Sorsts server files in ascendant way...
