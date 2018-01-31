@@ -61,7 +61,8 @@
 
     $this.$scope = {
       'setTitle': function(value){ $rs.title = value; },
-      'setNav': function(menu){ $rs.navMenu = menu; }
+      'setNav': function(menu){ $rs.navMenu = menu; },
+      'setOggs': function(oggs) { $rs['oggs'] = oggs; }
     };
 
     $this.navigator = {

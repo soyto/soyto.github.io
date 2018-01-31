@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.19.28)
+ * Soyto.github.io (0.19.29)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -302,6 +302,16 @@
         '->',
         characterInfo['characterName']
       ].join(' '));
+
+
+      $hs['$scope'].setOggs([
+        {'property': 'ogg:type', 'content': 'profile'},
+        {'property': 'ogg:first_name', 'content': characterInfo['serverName'] + '->' + characterInfo['characterName']},
+        {'property': 'ogg:title', 'content': characterInfo['serverName'] + '->' + characterInfo['characterName']},
+        {'property': 'ogg:image', 'content': characterInfo['pictureURL']},
+        {'property': 'ogg:image:type', 'content': 'image/jpeg'},
+        {'property': 'ogg:image:alt', 'content': characterInfo['characterName']},
+      ]);
 
       //Set up character and server names and stats
       $sc['serverName'] = characterInfo['serverName'];
@@ -1181,6 +1191,7 @@
 
     $rs.$on('$routeChangeStart', function(event){
       cfpLoadingBar.start();
+      $rs['oggs'] = [];
     });
 
     $rs.$on('$viewContentLoaded', function(event){
@@ -1804,7 +1815,8 @@
 
     $this.$scope = {
       'setTitle': function(value){ $rs.title = value; },
-      'setNav': function(menu){ $rs.navMenu = menu; }
+      'setNav': function(menu){ $rs.navMenu = menu; },
+      'setOggs': function(oggs) { $rs['oggs'] = oggs; }
     };
 
     $this.navigator = {

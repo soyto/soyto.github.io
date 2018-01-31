@@ -148,6 +148,16 @@
         characterInfo['characterName']
       ].join(' '));
 
+
+      $hs['$scope'].setOggs([
+        {'property': 'ogg:type', 'content': 'profile'},
+        {'property': 'ogg:first_name', 'content': characterInfo['serverName'] + '->' + characterInfo['characterName']},
+        {'property': 'ogg:title', 'content': characterInfo['serverName'] + '->' + characterInfo['characterName']},
+        {'property': 'ogg:image', 'content': characterInfo['pictureURL']},
+        {'property': 'ogg:image:type', 'content': 'image/jpeg'},
+        {'property': 'ogg:image:alt', 'content': characterInfo['characterName']},
+      ]);
+
       //Set up character and server names and stats
       $sc['serverName'] = characterInfo['serverName'];
       $sc['character'] = characterInfo;

@@ -19,6 +19,7 @@
 
     $rs.$on('$routeChangeStart', function(event){
       cfpLoadingBar.start();
+      $rs['oggs'] = [];
     });
 
     $rs.$on('$viewContentLoaded', function(event){
