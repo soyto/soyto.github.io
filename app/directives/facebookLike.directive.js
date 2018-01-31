@@ -19,7 +19,7 @@
 
 
         if($window.FB) {
-          $window.FB.XFBML.parse(/*$element[0]*/);
+          $window.FB.XFBML.parse($element[0]);
         }
       });
     }

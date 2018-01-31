@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.19.32)
+ * Soyto.github.io (0.19.33)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1389,7 +1389,7 @@
 
 
         if($window.FB) {
-          $window.FB.XFBML.parse(/*$element[0]*/);
+          $window.FB.XFBML.parse($element[0]);
         }
       });
     }
