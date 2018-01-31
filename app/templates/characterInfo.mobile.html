@@ -9,13 +9,13 @@
   <div class="col-xs-12 col-md-12">
 
     <!-- Character pic and name -->
-    <div class="panel panel-default">
+    <div class="panel panel-default" itemscope itemtype="http://schema.org/Person">
 
       <!-- Panel thumbnail -->
       <div class="panel-thumbnail">
 
         <!-- Image -->
-        <img src="{{character.pictureURL}}" class="img img-responsive"><!-- /Image -->
+        <img src="{{character.pictureURL}}" class="img img-responsive" itemprop="image"><!-- /Image -->
 
         <!-- Social icons -->
         <div class="social-icons" data-ng-if="character.social">
@@ -46,9 +46,9 @@
 
       <!-- Panel body -->
       <div class="panel-body">
-        <h4>{{character.characterName}} <small>{{character.raceName}} {{character.soldierRank.name}}</small></h4>
-        <h5>{{character.characterClass.name}}
-          <span ng-show="character.guildName">of {{character.guildName}}</span>
+        <h4><span itempop="name">{{character.characterName}}</span> <small>{{character.raceName}} {{character.soldierRank.name}}</small></h4>
+        <h5><span itemprop="jobTitle">{{character.characterClass.name}}</span>
+          <span ng-if="character.guildName" itemprop="memberOf" itemscope itemtype="http://schema.org/Organization">of <span itemprop="name">{{character.guildName}}</span></span>
           <span ng-show="!character.guildName">without guild</span>
         </h5>
 
