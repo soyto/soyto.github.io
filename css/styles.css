@@ -127,6 +127,27 @@ textarea { resize: none; outline: 0; }
   color: #CCC;
 }
 
+.panel .panel-thumbnail .panel-thumbnail-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.panel .panel-thumbnail .panel-thumbnail-container > .panel-thumbnail-image{
+  padding-top: 250px;
+  height: 0;
+  background-color: #666;
+}
+.panel .panel-thumbnail .panel-thumbnail-container > .panel-thumbnail-image > img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: auto;
+  height: 100%;
+  max-width: initial;
+}
+
+
 /* Well last update
  * ------------------------------------------------------------------------------------------------------------------ */
 .well-last-update{
@@ -309,7 +330,7 @@ body.soyto-full-party-bg .footer a:visited{
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display:         flex;
+  display: flex;
   flex-wrap: wrap;
-  align-items: stretch;
+  align-items: center;
 }

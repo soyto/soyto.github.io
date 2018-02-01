@@ -37,9 +37,13 @@
       <!-- Panel thumbnail -->
       <div class="panel-thumbnail">
         <a data-ng-href="{{ itm.channel.url }}" target="_blank">
-          <img class="img img-responsive" data-ng-show="itm.isOnline" data-ng-src="{{ itm.stream.preview.large }}" />
-          <img class="img img-responsive" data-ng-show="!itm.isOnline && itm.channel.profile_banner" data-ng-src="{{ itm.channel.profile_banner }}" />
-          <img class="img img-responsive" data-ng-show="!itm.isOnline && !itm.channel.profile_banner" data-ng-src="{{ itm.info.pictureURL }}" />
+          <div class="panel-thumbnail-container">
+            <div class="panel-thumbnail-image">
+              <img class="img img-responsive" data-ng-show="itm.isOnline" data-ng-src="{{ itm.stream.preview.large }}" />
+              <img class="img img-responsive" data-ng-show="!itm.isOnline && itm.channel.profile_banner" data-ng-src="{{ itm.channel.profile_banner }}" />
+              <img class="img img-responsive" data-ng-show="!itm.isOnline && !itm.channel.profile_banner" data-ng-src="{{ itm.info.pictureURL }}" />
+            </div>
+          </div>
         </a>
       </div><!-- /Panel thumbnail -->
 
