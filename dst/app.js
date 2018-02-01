@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.19.33)
+ * Soyto.github.io (0.19.34)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1919,6 +1919,7 @@
       {'serverName': 'Thor', 'characterID': 1946026}, //Cremathorio
       {'serverName': 'Hyperion', 'characterID': 392962}, //Upset
       {'serverName': 'Hellion', 'characterID': 1478289}, //Charioce
+      {'serverName': 'Deyla', 'characterID': 1163409}, //Gunzblazing
     ];
 
     //Who asked to remove his old guild names
