@@ -147,7 +147,7 @@
       _initialize_pagination();
 
       _data['filter']['all_classess'] = storedDataService['characterClassIds'].where(function(itm){ return itm.id; });
-      _data['filter']['all_ranks'] = storedDataService['characterClassIds']
+      _data['filter']['all_ranks'] = storedDataService['characterSoldierRankIds']
         .where(function(itm){ return itm.id >= 10; })
         .sort(function(a, b){ return b.id - a.id; });
     }
