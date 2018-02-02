@@ -87,6 +87,7 @@
       {'serverName': 'Hyperion', 'characterID': 392962}, //Upset
       {'serverName': 'Hellion', 'characterID': 1478289}, //Charioce
       {'serverName': 'Deyla', 'characterID': 1163409}, //Gunzblazing
+      {'serverName': 'Barus', 'characterID': 332731}, //Akonen
     ];
 
     //Who asked to remove his old guild names
@@ -140,6 +141,7 @@
       {'serverName': 'Hyperion', 'characterID': 392962}, //Upset
       {'serverName': 'Barus', 'characterID': 56391}, //Sicarius
       {'serverName': 'Hellion', 'characterID': 1478289}, //Charioce
+      {'serverName': 'Barus', 'characterID': 332731}, //Akonen
     ];
 
     //Wich servers
