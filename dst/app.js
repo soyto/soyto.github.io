@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.20.0)
+ * Soyto.github.io (0.20.1)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -1567,6 +1567,7 @@
 
       $sc['isLoading'] = true;
       $sc['streamData'] = null;
+      $sc['isVisible'] = true;
 
       var _twitchId = $sc['twitchChannel'].split('/');
       _twitchId = _twitchId[_twitchId.length - 1];
@@ -1579,6 +1580,8 @@
           $sc['channelStream'] = $$stream['stream'];
           $sc['isLoading'] = false;
         });
+      }).catch(function() {
+        $sc['isVisible'] = false;
       });
 
 

@@ -16,6 +16,7 @@
 
       $sc['isLoading'] = true;
       $sc['streamData'] = null;
+      $sc['isVisible'] = true;
 
       var _twitchId = $sc['twitchChannel'].split('/');
       _twitchId = _twitchId[_twitchId.length - 1];
@@ -28,6 +29,8 @@
           $sc['channelStream'] = $$stream['stream'];
           $sc['isLoading'] = false;
         });
+      }).catch(function() {
+        $sc['isVisible'] = false;
       });
 
 
