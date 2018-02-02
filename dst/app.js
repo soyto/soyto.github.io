@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.20.3)
+ * Soyto.github.io (0.20.4)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -137,6 +137,18 @@
       'controller': 'mainApp.twitchChannels.controller',
     };
     $routeProvider.when('/twitchChannels', twitchChannelsRouteData);
+
+    var _luckRouteData = {
+      'resolve': {
+        'luck': ['$location', 'storedDataService', function($location, storedDataService) {
+          storedDataService.getCharacterCheatSheet().then(function($$data) {
+            var _itm = $$data[Math.round(Math.random() * $$data.length)];
+            $location.path('/character/' + _itm['serverName'] + '/' + _itm['id']);
+          });
+        }]
+      }
+    };
+    $routeProvider.when('/luck', _luckRouteData);
 
     //404 route
     var _404RouteData = {
@@ -2233,6 +2245,11 @@
 
     //Retrieves what is the last server data
     $this.getLastServerData = function() { return _getLastDate(); };
+
+    //Get character cheat sheet
+    $this.getCharacterCheatSheet = function() {
+      return _getCharacterCheatSheet();
+    };
 
     //Looks for a character on all servers
     $this.characterSearch = function(text) {

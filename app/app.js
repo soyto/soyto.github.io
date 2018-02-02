@@ -121,6 +121,18 @@
     };
     $routeProvider.when('/twitchChannels', twitchChannelsRouteData);
 
+    var _luckRouteData = {
+      'resolve': {
+        'luck': ['$location', 'storedDataService', function($location, storedDataService) {
+          storedDataService.getCharacterCheatSheet().then(function($$data) {
+            var _itm = $$data[Math.round(Math.random() * $$data.length)];
+            $location.path('/character/' + _itm['serverName'] + '/' + _itm['id']);
+          });
+        }]
+      }
+    };
+    $routeProvider.when('/luck', _luckRouteData);
+
     //404 route
     var _404RouteData = {
       'templateUrl': '/app/templates/404.html',

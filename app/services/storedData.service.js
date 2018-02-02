@@ -301,6 +301,11 @@
     //Retrieves what is the last server data
     $this.getLastServerData = function() { return _getLastDate(); };
 
+    //Get character cheat sheet
+    $this.getCharacterCheatSheet = function() {
+      return _getCharacterCheatSheet();
+    };
+
     //Looks for a character on all servers
     $this.characterSearch = function(text) {
 
