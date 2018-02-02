@@ -29,6 +29,7 @@
         'data-href="' + href + '" ' +
         'data-layout="' + layout + '" ' +
         'data-action="' + action + '"' +
+        'data-width="100px"' +
         'data-show-faces="' + showFaces + '"></div>';
     }
 
