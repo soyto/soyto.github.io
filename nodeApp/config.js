@@ -21,12 +21,14 @@ module.exports = {
       'app/directives/facebookLike.directive.js',
       'app/directives/ngScrollTo.directive.js',
       'app/directives/twitchPanel.directive.js',
+      'app/directives/youtubePanel.directive.js',
       'app/services/blog.service.js',
       'app/services/characterSocial.service.js',
       'app/services/console.service.js',
       'app/services/helper.service.js',
       'app/services/storedData.service.js',
       'app/services/twitch.service.js',
+      'app/services/youtube.service.js',
       'app/services/helperService/$q.service.js'
     ],
     'node-app-files': [
