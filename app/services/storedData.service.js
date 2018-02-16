@@ -88,6 +88,7 @@
       {'serverName': 'Hellion', 'characterID': 1478289}, //Charioce
       {'serverName': 'Deyla', 'characterID': 1163409}, //Gunzblazing
       {'serverName': 'Barus', 'characterID': 332731}, //Akonen
+      {'serverName': 'Hyperion', 'characterID': 693206}, //Sistinefibel
     ];
 
     //Who asked to remove his old guild names
