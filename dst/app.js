@@ -2034,6 +2034,7 @@
       {'serverName': 'Deyla', 'characterID': 1163409}, //Gunzblazing
       {'serverName': 'Barus', 'characterID': 332731}, //Akonen
       {'serverName': 'Hyperion', 'characterID': 693206}, //Sistinefibel
+      {'serverName': 'Hellion', 'characterID': 427449}, //Qmg
     ];
 
     //Who asked to remove his old guild names
@@ -2088,6 +2089,7 @@
       {'serverName': 'Barus', 'characterID': 56391}, //Sicarius
       {'serverName': 'Hellion', 'characterID': 1478289}, //Charioce
       {'serverName': 'Barus', 'characterID': 332731}, //Akonen
+      {'serverName': 'Hellion', 'characterID': 427449}, //Qmg
     ];
 
     //Wich servers
