@@ -2035,6 +2035,7 @@
       {'serverName': 'Barus', 'characterID': 332731}, //Akonen
       {'serverName': 'Hyperion', 'characterID': 693206}, //Sistinefibel
       {'serverName': 'Hellion', 'characterID': 427449}, //Qmg
+      {'serverName': 'Antriksha', 'characterID': 607628}, //Yukaii
     ];
 
     //Who asked to remove his old guild names
@@ -2090,7 +2091,6 @@
       {'serverName': 'Hellion', 'characterID': 1478289}, //Charioce
       {'serverName': 'Barus', 'characterID': 332731}, //Akonen
       {'serverName': 'Hellion', 'characterID': 427449}, //Qmg
-      {'serverName': 'Antriksha', 'characterID': 607628}, //Yukaii
     ];
 
     //Wich servers
