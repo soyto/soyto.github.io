@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.20.8)
+ * Soyto.github.io (0.20.9)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -2036,6 +2036,7 @@
       {'serverName': 'Hyperion', 'characterID': 693206}, //Sistinefibel
       {'serverName': 'Hellion', 'characterID': 427449}, //Qmg
       {'serverName': 'Antriksha', 'characterID': 607628}, //Yukaii
+      {'serverName': 'Barus', 'characterID': 58925}, //Yoruchichan
     ];
 
     //Who asked to remove his old guild names
@@ -2091,6 +2092,7 @@
       {'serverName': 'Hellion', 'characterID': 1478289}, //Charioce
       {'serverName': 'Barus', 'characterID': 332731}, //Akonen
       {'serverName': 'Hellion', 'characterID': 427449}, //Qmg
+      {'serverName': 'Barus', 'characterID': 58925}, //Yoruchichan
     ];
 
     //Wich servers
