@@ -92,6 +92,7 @@
       {'serverName': 'Hellion', 'characterID': 427449}, //Qmg
       {'serverName': 'Antriksha', 'characterID': 607628}, //Yukaii
       {'serverName': 'Barus', 'characterID': 58925}, //Yoruchichan
+      {'serverName': 'Barus', 'characterID': 710123}, //Minasii
     ];
 
     //Who asked to remove his old guild names
@@ -148,6 +149,7 @@
       {'serverName': 'Barus', 'characterID': 332731}, //Akonen
       {'serverName': 'Hellion', 'characterID': 427449}, //Qmg
       {'serverName': 'Barus', 'characterID': 58925}, //Yoruchichan
+      {'serverName': 'Barus', 'characterID': 710123}, //Minasii
     ];
 
     //Wich servers
