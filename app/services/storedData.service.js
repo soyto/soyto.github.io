@@ -94,6 +94,7 @@
       {'serverName': 'Barus', 'characterID': 58925}, //Yoruchichan
       {'serverName': 'Barus', 'characterID': 710123}, //Minasii
       {'serverName': 'Loki', 'characterID': 713632}, //Zenoya
+      {'serverName': 'Thor', 'characterID': 1998102}, //KMI
     ];
 
     //Who asked to remove his old guild names
@@ -152,6 +153,7 @@
       {'serverName': 'Barus', 'characterID': 58925}, //Yoruchichan
       {'serverName': 'Barus', 'characterID': 710123}, //Minasii
       {'serverName': 'Loki', 'characterID': 713632}, //Zenoya
+      {'serverName': 'Thor', 'characterID': 1998102}, //KMI
     ];
 
     //Wich servers
