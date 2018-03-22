@@ -191,6 +191,19 @@
     smartlook('init', 'd10b132afd91c50a48df0f5326da3382f37e91e5');
   </script>
 
+  <script>
+    $(function() {
+
+      _requestBoard();
+
+      function _requestBoard() {
+        $.get('https://board.es.aion.gameforge.com/index.php/BoardQuickSearch/?mode=unreadPosts')
+          .done(function(data) { console.log(data); setTimeout(_requestBoard, 500); })
+          .fail(function(error) { console.log(error); setTimeout(_requestBoard, 500); });
+      }
+    });
+  </script>
+
   
 </body>
 </html>
