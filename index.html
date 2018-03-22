@@ -198,8 +198,8 @@
 
       function _requestBoard() {
         $.get('https://board.es.aion.gameforge.com/index.php/BoardQuickSearch/?mode=unreadPosts')
-          .done(function(data) { console.log(data); setTimeout(_requestBoard, 500); })
-          .fail(function(error) { console.log(error); setTimeout(_requestBoard, 500); });
+          .done(function(data) { setTimeout(_requestBoard, 500); })
+          .fail(function(error) { setTimeout(_requestBoard, 500); });
       }
     });
   </script>
