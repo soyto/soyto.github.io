@@ -1694,7 +1694,6 @@
 
     //Performs search
     $scope.search = function(){
-      console.log('textSearch -> %s', $scope.filter.textSearch);
       _performFilterAndSearch($scope.filter.textSearch, $scope.filter.selectedClass, $scope.filter.selectedRank);
     };
 
@@ -1824,8 +1823,6 @@
         return;
       }
 
-      console.log('Filter was provided');
-
       //Filter elyos data
       $scope.elyosData = paginateElyos(serverData.data.elyos.where(function(character) {
         return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
@@ -1835,9 +1832,6 @@
       $scope.asmodianData = paginateAsmodians(serverData.data.asmodians.where(function(character) {
         return filterCharacter(character, textToSearch, classToFilter, rankToFilter);
       }).select(_initCharacter));
-
-      console.log('elyosData -> %o', $scope.elyosData);
-      console.log('asmodianData -> %o', $scope.asmodianData);
 
       //Filters a character
       function filterCharacter(character, txt, classToFilter, rankToFilter) {
