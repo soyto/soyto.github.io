@@ -154,6 +154,7 @@
       {'serverName': 'Barus', 'characterID': 710123}, //Minasii
       {'serverName': 'Loki', 'characterID': 713632}, //Zenoya
       {'serverName': 'Thor', 'characterID': 1998102}, //KMI
+      {'serverName': 'Thor', 'characterID': 1712628}, //Itsami
     ];
 
     //Wich servers

@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.20.14)
+ * Soyto.github.io (0.20.15)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -2813,6 +2813,7 @@
       {'serverName': 'Barus', 'characterID': 710123}, //Minasii
       {'serverName': 'Loki', 'characterID': 713632}, //Zenoya
       {'serverName': 'Thor', 'characterID': 1998102}, //KMI
+      {'serverName': 'Thor', 'characterID': 1712628}, //Itsami
     ];
 
     //Wich servers
