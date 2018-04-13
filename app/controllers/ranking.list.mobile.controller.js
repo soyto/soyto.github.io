@@ -12,6 +12,12 @@
 
     $scope.filteredData = false;
 
+    $scope.filter = {
+      'textSearch': null,
+      'selectedClass': null,
+      'selectedRank': null
+    };
+
     $scope.page = {};
     $scope.page.elyos = {};
     $scope.page.asmodians = {};
@@ -95,17 +101,17 @@
 
     //Performs search
     $scope.search = function(){
-      _performFilterAndSearch($scope.textSearch, $scope.selectedClass, $scope.selectedRank);
+      _performFilterAndSearch($scope.filter.textSearch, $scope.filter.selectedClass, $scope.filter.selectedRank);
     };
 
     $scope.clear = function(){
-      $scope.textSearch = '';
-      $scope.selectedClass = '';
+      $scope.filter.textSearch = '';
+      $scope.filter.selectedClass = '';
       _performFilterAndSearch('', null, null);
 
-      $scope.textSearch = '';
-      $scope.selectedClass = null;
-      $scope.selectedRank = null;
+      $scope.filter.textSearch = '';
+      $scope.filter.selectedClass = null;
+      $scope.filter.selectedRank = null;
     };
 
     function _init() {
@@ -146,8 +152,8 @@
       $scope.elyosData = _performPagination(serverData.data.elyos.select(_initCharacter), $scope.pagination.elyos);
       $scope.asmodianData = _performPagination(serverData.data.asmodians.select(_initCharacter), $scope.pagination.asmodians);
 
-      $scope.textSearch = '';
-      $scope.selectedClass = '';
+      $scope.filter.textSearch = '';
+      $scope.filter.selectedClass = '';
 
 
       $scope.filters = {};
