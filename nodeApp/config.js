@@ -15,6 +15,8 @@ module.exports = {
       'app/controllers/index.controller.js',
       'app/controllers/ranking.list.controller.js',
       'app/controllers/ranking.list.mobile.controller.js',
+      'app/controllers/merge.list.controller.js',
+      'app/controllers/merge.mobile.list.controller.js',
       'app/controllers/root.controller.js',
       'app/controllers/twitchChannels.controller.js',
       'app/directives/facebookCommentBox.directive.js',
