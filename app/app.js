@@ -133,6 +133,45 @@
     };
     $routeProvider.when('/luck', _luckRouteData);
 
+    //MERGES!
+    var _mergeRouteData = {
+      'templateUrl': '/app/templates/merge.html',
+      'controller': 'mainApp.merge.list.controller',
+      'resolve': {
+        'serverData1': ['$hs', '$route', function($hs, $route) {
+          return $hs
+            .$instantiate('storedDataService')
+            .getLastFromServer($route['current']['params']['serverNames'].split('-')[0])
+            .catch(function($$error) {  $hs.$instantiate('$location').path('/404').replace();  });
+        }],
+        'serverData2': ['$hs', '$route', function($hs, $route) {
+          return $hs
+            .$instantiate('storedDataService')
+            .getLastFromServer($route['current']['params']['serverNames'].split('-')[1])
+            .catch(function($$error) {  $hs.$instantiate('$location').path('/404').replace();  });
+        }]
+      }
+    };
+    var _mergeRouteMobileData = {
+      'templateUrl': '/app/templates/merge.mobile.html',
+      'controller': 'mainApp.merge.list.mobile.controller',
+      'resolve': {
+        'serverData1': ['$hs', '$route', function($hs, $route) {
+          return $hs
+            .$instantiate('storedDataService')
+            .getLastFromServer($route['current']['params']['serverNames'].split('-')[0])
+            .catch(function($$error) {  $hs.$instantiate('$location').path('/404').replace();  });
+        }],
+        'serverData2': ['$hs', '$route', function($hs, $route) {
+          return $hs
+            .$instantiate('storedDataService')
+            .getLastFromServer($route['current']['params']['serverNames'].split('-')[1])
+            .catch(function($$error) {  $hs.$instantiate('$location').path('/404').replace();  });
+        }]
+      }
+    };
+    $routeProvider.when('/merge/:serverNames', $$IS_MOBILE ? _mergeRouteMobileData :  _mergeRouteData);
+
     //404 route
     var _404RouteData = {
       'templateUrl': '/app/templates/404.html',

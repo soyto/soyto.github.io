@@ -15,7 +15,7 @@
           <div class="form-group">
             <div class="input-group">
               <div class="input-group-addon">Class</div>
-              <select id="selectedClass" class="form-control" ng-model="selectedClass" ng-options="class.name for class in classes">
+              <select id="selectedClass" class="form-control" ng-model="filter.selectedClass" ng-options="class.name for class in classes">
                 <option value="">-- All classes --</option>
               </select>
             </div>
@@ -24,7 +24,7 @@
           <div class="form-group">
             <div class="input-group">
               <div class="input-group-addon">Rank</div>
-              <select id="selectedRank" class="form-control" ng-model="selectedRank" ng-options="rank.name for rank in ranks">
+              <select id="selectedRank" class="form-control" ng-model="filter.selectedRank" ng-options="rank.name for rank in ranks">
                 <option value="">-- All ranks --</option>
               </select>
             </div>
@@ -33,7 +33,7 @@
           <div class="form-group">
             <div class="input-group">
               <div class="input-group-addon"><i class="fa fa-search"></i></div>
-              <input id="searcher" type="search" class="form-control" ng-model="textSearch" />
+              <input id="searcher" type="search" class="form-control" ng-model="filter.textSearch" />
             </div>
           </div>
 
