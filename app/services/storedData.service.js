@@ -188,15 +188,15 @@
       { id: 6, name: 'Soldier Rank 3'},
       { id: 7, name: 'Soldier Rank 2'},
       { id: 9, name: 'Soldier Rank 1'},
-      { id: 10, name: 'Army 1-Star Officer'},
-      { id: 11, name: 'Army 2-Star Officer'},
-      { id: 12, name: 'Army 3-Star Officer'},
-      { id: 13, name: 'Army 4-Star Officer'},
-      { id: 14, name: 'Army 5-Star Officer'},
-      { id: 15, name: 'General'},
-      { id: 16, name: 'Great general'},
-      { id: 17, name: 'Commander'},
-      { id: 18, name: 'Governor'},
+      { id: 10, name: 'Army 1-Star Officer'},   //Pos 701->1000
+      { id: 11, name: 'Army 2-Star Officer'},   //Pos 501->700
+      { id: 12, name: 'Army 3-Star Officer'},   //Pos 301->500
+      { id: 13, name: 'Army 4-Star Officer'},   //Pos 101->300
+      { id: 14, name: 'Army 5-Star Officer'},   //Pos 31->100
+      { id: 15, name: 'General'},               //Pos 11->30
+      { id: 16, name: 'Great general'},         //Pos 4->10
+      { id: 17, name: 'Commander'},             //Pos 2->3
+      { id: 18, name: 'Governor'},              //Pos 1
     ];
 
     //CharacterClasses
@@ -219,6 +219,22 @@
       {},
       { id: 16, name: 'Bard', icon: 'img/barde.png' },
     ];
+
+    //Get character rank by position
+    $this.getCharacterRankByPosition = function(position) {
+
+      if(position === 1) { return $this.characterSoldierRankIds[18]; }
+      else if(position < 4) { return $this.characterSoldierRankIds[17]; }
+      else if(position < 11) { return $this.characterSoldierRankIds[16]; }
+      else if(position < 31) { return $this.characterSoldierRankIds[15]; }
+      else if(position < 101) { return $this.characterSoldierRankIds[14]; }
+      else if(position < 301) { return $this.characterSoldierRankIds[13]; }
+      else if(position < 501) { return $this.characterSoldierRankIds[12]; }
+      else if(position < 701) { return $this.characterSoldierRankIds[11]; }
+      else if(position < 1001) { return $this.characterSoldierRankIds[10]; }
+      else { return $this.characterSoldierRankIds[9]; }
+
+    };
 
     //Gets wich is rank of the selected character
     $this.getCharacterRank = function(id) { return $this.characterSoldierRankIds[id]; };

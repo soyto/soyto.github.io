@@ -166,6 +166,7 @@
       $scope.filters.show = false;
     }
 
+    //Init server data
     function _initServerData() {
 
       serverData = {
@@ -186,16 +187,27 @@
 
       //Set up positions in order
       serverData['data']['asmodians'].forEach(function($$character, idx) {
-        var _oldPosition = $$character['position'];
-        $$character['position'] = idx + 1;
-        $$character['rankingPositionChange'] = _oldPosition - $$character['position'];
+        var _character = ng.copy($$character);
+        var _oldPosition = _character['position'];
+
+
+        _character['position'] = idx + 1;
+        _character['rankingPositionChange'] = _oldPosition - _character['position'];
+        _character['newSoldierRank'] = storedDataService.getCharacterRankByPosition(_character['position']);
+
+        serverData['data']['asmodians'][idx] = _character;
       });
 
       //Set up positions in order
       serverData['data']['elyos'].forEach(function($$character, idx) {
+        var _character = ng.copy($$character);
         var _oldPosition = $$character['position'];
-        $$character['position'] = idx + 1;
-        $$character['rankingPositionChange'] = _oldPosition - $$character['position'];
+
+        _character['position'] = idx + 1;
+        _character['rankingPositionChange'] = _oldPosition - _character['position'];
+        _character['newSoldierRank'] = storedDataService.getCharacterRankByPosition(_character['position']);
+
+        serverData['data']['elyos'][idx] = _character;
       });
     }
 

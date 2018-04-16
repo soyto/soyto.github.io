@@ -65,6 +65,7 @@
         </div>
         <div class="panel-body">
 
+          <!-- Elyos table -->
           <div ng-show="showing=='elyos'">
             <div class="table-responsive">
               <table class="table table-striped table-hover">
@@ -87,7 +88,10 @@
                   <td>{{ character.characterClass.name }}</td>
                   <td>{{ character.guildName }}</td>
                   <td>{{ character.gloryPoint }}</td>
-                  <td>{{ character.soldierRank.name }}</td>
+                  <td>
+                    {{ character.newSoldierRank.name }}
+                    <p  class="text-muted small" data-ng-show="character.soldierRank.id != character.newSoldierRank.id">({{character.soldierRank.name}})</p>
+                  </td>
                   <td>
                     <i class="fa" ng-class="{
                           'fa-arrow-up': character.rankingPositionChange > 0,
@@ -128,8 +132,9 @@
                 </ul>
               </nav>
             </div>
-          </div>
+          </div><!-- /Elyos table -->
 
+          <!-- Asmodian table -->
           <div ng-show="showing=='asmodians'">
             <div class="table-responsive">
               <table class="table table-striped table-hover">
@@ -152,7 +157,10 @@
                   <td>{{ character.characterClass.name }}</td>
                   <td>{{ character.guildName }}</td>
                   <td>{{ character.gloryPoint }}</td>
-                  <td>{{ character.soldierRank.name }}</td>
+                  <td>
+                    {{ character.newSoldierRank.name }}
+                    <p  class="text-muted small" data-ng-show="character.soldierRank.id != character.newSoldierRank.id">({{character.soldierRank.name}})</p>
+                  </td>
                   <td>
                     <i class="fa" ng-class="{
                           'fa-arrow-up': character.rankingPositionChange > 0,
@@ -192,7 +200,8 @@
                 </ul>
               </nav>
             </div>
-          </div>
+          </div><!-- /Asmodian table -->
+
         </div>
       </div>
     </div>
