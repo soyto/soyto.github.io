@@ -2777,6 +2777,7 @@
       {'serverName': 'Barus', 'characterID': 710123}, //Minasii
       {'serverName': 'Loki', 'characterID': 713632}, //Zenoya
       {'serverName': 'Thor', 'characterID': 1998102}, //KMI
+      {'serverName': 'Barus', 'characterID': 1115780}, //Acidheal
     ];
 
     //Who asked to remove his old guild names
@@ -2837,6 +2838,7 @@
       {'serverName': 'Loki', 'characterID': 713632}, //Zenoya
       {'serverName': 'Thor', 'characterID': 1998102}, //KMI
       {'serverName': 'Thor', 'characterID': 1712628}, //Itsami
+      {'serverName': 'Barus', 'characterID': 1115780}, //Acidheal
     ];
 
     //Wich servers
