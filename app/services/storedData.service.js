@@ -97,6 +97,7 @@
       {'serverName': 'Thor', 'characterID': 1998102}, //KMI
       {'serverName': 'Barus', 'characterID': 1115780}, //Acidheal
       {'serverName': 'Loki', 'characterID': 567177}, //Hardstylelife
+      {'serverName': 'Miren', 'characterID': 40582}, //Heavypanda
     ];
 
     //Who asked to remove his old guild names
@@ -159,6 +160,7 @@
       {'serverName': 'Thor', 'characterID': 1712628}, //Itsami
       {'serverName': 'Barus', 'characterID': 1115780}, //Acidheal
       {'serverName': 'Loki', 'characterID': 567177}, //Hardstylelife
+      {'serverName': 'Miren', 'characterID': 40582}, //Heavypanda
     ];
 
     //Wich servers
