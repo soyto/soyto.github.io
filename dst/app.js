@@ -2780,6 +2780,8 @@
       {'serverName': 'Barus', 'characterID': 1115780}, //Acidheal
       {'serverName': 'Loki', 'characterID': 567177}, //Hardstylelife
       {'serverName': 'Miren', 'characterID': 40582}, //Heavypanda
+      {'serverName': 'Grendal', 'characterID': 70897}, //Qtp
+      {'serverName': 'Miren', 'characterID': 3390}, //Pikachu
     ];
 
     //Who asked to remove his old guild names
@@ -2843,6 +2845,8 @@
       {'serverName': 'Barus', 'characterID': 1115780}, //Acidheal
       {'serverName': 'Loki', 'characterID': 567177}, //Hardstylelife
       {'serverName': 'Miren', 'characterID': 40582}, //Heavypanda
+      {'serverName': 'Grendal', 'characterID': 70897}, //Qtp
+      {'serverName': 'Miren', 'characterID': 3390}, //Pikachu
     ];
 
     //Wich servers
