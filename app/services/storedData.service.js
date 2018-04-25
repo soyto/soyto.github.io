@@ -165,6 +165,7 @@
       {'serverName': 'Miren', 'characterID': 40582}, //Heavypanda
       {'serverName': 'Grendal', 'characterID': 70897}, //Qtp
       {'serverName': 'Miren', 'characterID': 3390}, //Pikachu
+      {'serverName': 'Hyperion', 'characterID': 724510}, //Uchiwasasuke Remove old legion
     ];
 
     //Wich servers

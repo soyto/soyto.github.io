@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.20.19)
+ * Soyto.github.io (0.20.20)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -2847,6 +2847,7 @@
       {'serverName': 'Miren', 'characterID': 40582}, //Heavypanda
       {'serverName': 'Grendal', 'characterID': 70897}, //Qtp
       {'serverName': 'Miren', 'characterID': 3390}, //Pikachu
+      {'serverName': 'Hyperion', 'characterID': 724510}, //Uchiwasasuke Remove old legion
     ];
 
     //Wich servers
