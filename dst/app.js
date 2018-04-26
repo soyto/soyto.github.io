@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.20.20)
+ * Soyto.github.io (0.20.21)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -187,7 +187,7 @@
         }]
       }
     };
-    $routeProvider.when('/merge/:serverNames', $$IS_MOBILE ? _mergeRouteMobileData :  _mergeRouteData);
+    //$routeProvider.when('/merge/:serverNames', $$IS_MOBILE ? _mergeRouteMobileData :  _mergeRouteData);
 
     //404 route
     var _404RouteData = {
@@ -2860,10 +2860,10 @@
       {'id': 50, 'name': 'Loki'},         //5
       {'id': 37, 'name': 'Thor'},         //6
       {'id': 40, 'name': 'Urtem'},        //7
-      {'id': 56, 'name': 'Grendal'},      //8
-      {'id': 57, 'name': 'Fregion'},      //9
-      {'id': 58, 'name': 'Padmarashka'},  //10
-      {'id': 59, 'name': 'Miren'},        //11
+      //{'id': 56, 'name': 'Grendal'},      //8
+      //{'id': 57, 'name': 'Fregion'},      //9
+      //{'id': 58, 'name': 'Padmarashka'},  //10
+      //{'id': 59, 'name': 'Miren'},        //11
     ];
 
     //Wich dates we have stored

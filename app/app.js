@@ -170,7 +170,7 @@
         }]
       }
     };
-    $routeProvider.when('/merge/:serverNames', $$IS_MOBILE ? _mergeRouteMobileData :  _mergeRouteData);
+    //$routeProvider.when('/merge/:serverNames', $$IS_MOBILE ? _mergeRouteMobileData :  _mergeRouteData);
 
     //404 route
     var _404RouteData = {

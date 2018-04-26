@@ -178,10 +178,10 @@
       {'id': 50, 'name': 'Loki'},         //5
       {'id': 37, 'name': 'Thor'},         //6
       {'id': 40, 'name': 'Urtem'},        //7
-      {'id': 56, 'name': 'Grendal'},      //8
-      {'id': 57, 'name': 'Fregion'},      //9
-      {'id': 58, 'name': 'Padmarashka'},  //10
-      {'id': 59, 'name': 'Miren'},        //11
+      //{'id': 56, 'name': 'Grendal'},      //8
+      //{'id': 57, 'name': 'Fregion'},      //9
+      //{'id': 58, 'name': 'Padmarashka'},  //10
+      //{'id': 59, 'name': 'Miren'},        //11
     ];
 
     //Wich dates we have stored
