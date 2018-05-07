@@ -100,6 +100,7 @@
       {'serverName': 'Miren', 'characterID': 40582}, //Heavypanda
       {'serverName': 'Grendal', 'characterID': 70897}, //Qtp
       {'serverName': 'Miren', 'characterID': 3390}, //Pikachu
+      {'serverName': 'Hyperion', 'characterID': 672128}, //Eishu 
     ];
 
     //Who asked to remove his old guild names
@@ -167,6 +168,7 @@
       {'serverName': 'Miren', 'characterID': 3390}, //Pikachu
       {'serverName': 'Hyperion', 'characterID': 724510}, //Uchiwasasuke
       {'serverName': 'Deyla', 'characterID': 1640322}, //Danawhite
+      {'serverName': 'Hyperion', 'characterID': 672128}, //Eishu 
     ];
 
     //Wich servers
