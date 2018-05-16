@@ -2784,6 +2784,7 @@
       {'serverName': 'Miren', 'characterID': 3390}, //Pikachu
       {'serverName': 'Hyperion', 'characterID': 672128}, //Eishu
       {'serverName': 'Deyla', 'characterID': 1639577}, //Chntr
+      {'serverName': 'Barus', 'characterID': 1157147}, //Meoooow
     ];
 
     //Who asked to remove his old guild names
@@ -2853,6 +2854,7 @@
       {'serverName': 'Deyla', 'characterID': 1640322}, //Danawhite
       {'serverName': 'Hyperion', 'characterID': 672128}, //Eishu 
       {'serverName': 'Deyla', 'characterID': 1639577}, //Chntr
+      {'serverName': 'Barus', 'characterID': 1157147}, //Meoooow
     ];
 
     //Wich servers
