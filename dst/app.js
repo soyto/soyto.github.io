@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.21.4)
+ * Soyto.github.io (0.21.5)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -2785,6 +2785,7 @@
       {'serverName': 'Hyperion', 'characterID': 672128}, //Eishu
       {'serverName': 'Deyla', 'characterID': 1639577}, //Chntr
       {'serverName': 'Barus', 'characterID': 1157147}, //Meoooow
+      {'serverName': 'Barus', 'characterID': 515694}, //Litleshevo 
     ];
 
     //Who asked to remove his old guild names
@@ -2855,6 +2856,7 @@
       {'serverName': 'Hyperion', 'characterID': 672128}, //Eishu 
       {'serverName': 'Deyla', 'characterID': 1639577}, //Chntr
       {'serverName': 'Barus', 'characterID': 1157147}, //Meoooow
+      {'serverName': 'Barus', 'characterID': 515694}, //Litleshevo 
     ];
 
     //Wich servers
