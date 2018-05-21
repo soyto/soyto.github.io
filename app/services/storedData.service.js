@@ -104,6 +104,7 @@
       {'serverName': 'Deyla', 'characterID': 1639577}, //Chntr
       {'serverName': 'Barus', 'characterID': 1157147}, //Meoooow
       {'serverName': 'Barus', 'characterID': 515694}, //Litleshevo 
+      {'serverName': 'Loki', 'characterID': 1213346}, //Deqx old name hide
     ];
 
     //Who asked to remove his old guild names
