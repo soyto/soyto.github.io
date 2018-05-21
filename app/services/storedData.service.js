@@ -176,6 +176,7 @@
       {'serverName': 'Deyla', 'characterID': 1639577}, //Chntr
       {'serverName': 'Barus', 'characterID': 1157147}, //Meoooow
       {'serverName': 'Barus', 'characterID': 515694}, //Litleshevo 
+      {'serverName': 'Hyperion', 'characterID': 724296}, //Rezus
     ];
 
     //Wich servers
