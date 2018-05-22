@@ -2787,6 +2787,7 @@
       {'serverName': 'Barus', 'characterID': 1157147}, //Meoooow
       {'serverName': 'Barus', 'characterID': 515694}, //Litleshevo 
       {'serverName': 'Loki', 'characterID': 1213346}, //Deqx old name hide
+      {'serverName': 'Barus', 'characterID': 1189738}, //Looksi
     ];
 
     //Who asked to remove his old guild names
@@ -2859,6 +2860,8 @@
       {'serverName': 'Barus', 'characterID': 1157147}, //Meoooow
       {'serverName': 'Barus', 'characterID': 515694}, //Litleshevo 
       {'serverName': 'Hyperion', 'characterID': 724296}, //Rezus
+      {'serverName': 'Loki', 'characterID': 1213346}, //Deqx old legion name hide
+      {'serverName': 'Barus', 'characterID': 1189738}, //Looksi
     ];
 
     //Wich servers
