@@ -3,7 +3,7 @@
 
   var DEBUG = false;
 
-  var host = DEBUG ? '' : 'http://91.184.11.238/';
+  var host = DEBUG ? '' : 'https://soyto.tk/';
 
   ng.module('mainApp').service('storedDataService',['$hs', _fn]);
 

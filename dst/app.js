@@ -1,5 +1,5 @@
 /*
- * Soyto.github.io (0.21.8)
+ * Soyto.github.io (0.21.9)
  *     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *         Version 2, December 2004
  * 
@@ -2685,7 +2685,7 @@
 
   var DEBUG = false;
 
-  var host = DEBUG ? '' : 'http://91.184.11.238/';
+  var host = DEBUG ? '' : 'https://soyto.tk/';
 
   ng.module('mainApp').service('storedDataService',['$hs', _fn]);
 
