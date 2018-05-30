@@ -107,6 +107,7 @@
       {'serverName': 'Loki', 'characterID': 1213346}, //Deqx old name hide
       {'serverName': 'Deyla', 'characterID': 1639627}, //Hugmetight
       {'serverName': 'Barus', 'characterID': 1189738}, //Rnesme
+      {'serverName': 'Loki', 'characterID': 1190225}, //Phynn 
     ];
 
     //Who asked to remove his old guild names
